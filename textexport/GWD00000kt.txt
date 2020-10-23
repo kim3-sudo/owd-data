@@ -1,0 +1,2653 @@
+GWD00000kt wo/95/1106/2
+1 CAVALRY DIVISION: 10 Mobile Veterinary Section 
+307 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type cover)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD00030t8  ----------
+  5 Aug 1914 24
+    place:Woolwich (22,28)
+    time:0600AM (5,28)
+    domestic:uniform (63,33)
+  6 Aug 1914 37
+    time:0800AM (6,40)
+  7 Aug 1914 46
+    time:0800AM (6,49)
+  8 Aug 1914 58
+    time:0800AM (7,60)
+  9 Aug 1914 72
+    time:0800AM (7,75)
+  10 Aug 1914 83
+    time:0800AM (8,86)
+  11 Aug 1914 89
+    time:0800AM (8,92)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD00030u1  ----------
+  12 Aug 1914 24
+    place:Woolwich (19,28)
+    time:0900AM (6,28)
+  13 Aug 1914 31
+    time:0900AM (6,35)
+  14 Aug 1914 38
+  16 Aug 1914 42
+    time:0800AM (7,45)
+  17 Aug 1914 50
+    activity:movement (50,52)
+    time:0700AM (7,53)
+    place:Beauville (18,58)
+  19 Aug 1914 59
+  20 Aug 1914 66
+  21 Aug 1914 71
+  22 Aug 1914 88
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD00030vg  ----------
+  23 Aug 1914 24
+  24 Aug 1914 28
+    activity:movement (32,29)
+  25 Aug 1914 34
+    place:Landrecies (20,37)
+    activity:enemy_activity (62,50)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD00030tn  ----------
+  25 Aug 1914 23
+    place:Etreux (18,28)
+    reference:None given - looks like intelligence report though (12,62)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD00030q4  ----------
+  25 Aug 1914 23
+    activity:reconnoitered (40,26)
+    place:Etreux (21,27)
+  26 Aug 1914 35
+    place:Etreux (21,38)
+    weather:rain (63,54)
+    activity:movement (43,55)
+  27 Aug 1914 59
+    place:Ham (22,63)
+    activity:movement (30,63)
+    person:Captain Neale (other) (37,77)
+    unit:Xi mobile veterinary unit (47,77)
+  29 Aug 1914 82
+    place:Noyon (22,82)
+    activity:movement (35,85)
+  30 Aug 1914 87
+  31 Aug 1914 92
+    activity:movement (45,95)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD00030sb  ----------
+  31 Aug 1914 24
+    place:Nery (19,29)
+Page 10 (type other) http://wd3.herokuapp.com/pages/AWD00030v1  ----------
+  31 Aug 1914 0
+    reference:MOVEMENT (25,70)
+Page 11 (type other) http://wd3.herokuapp.com/pages/AWD00030ru  ----------
+  31 Aug 1914 0
+Page 12 (type other) http://wd3.herokuapp.com/pages/AWD00030ti  ----------
+  31 Aug 1914 0
+    reference:MOVEMENT (38,68)
+Page 13 (type signals) http://wd3.herokuapp.com/pages/AWD00030pn  ----------
+  31 Aug 1914 0
+    reference:MOVEMENT (36,52)
+    date:18 Aug 1914 (51,67)
+Page 14 (type other) http://wd3.herokuapp.com/pages/AWD00030s3  ----------
+  31 Aug 1914 0
+    reference:MOVEMENT (41,64)
+Page 15 (type cover)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD00030xh  ----------
+  1 Sep 1914 23
+    place:Nery (21,28)
+    time:0400AM (6,28)
+    person:Captain Black (other) (63,42)
+    unit:3 Hussars (58,73)
+    person:Sergeant Bell (64,81)
+    person:Corporal Bray (70,81)
+    person:Private Williams (30,83)
+    activity:movement (46,89)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD00030vu  ----------
+  2 Sep 1914 23
+    person:Sergeant Bell (joined) (67,26)
+    place:Dammartin (19,28)
+  3 Sep 1914 32
+    activity:movement (40,32)
+    place:Serris (20,37)
+  4 Sep 1914 45
+    place:Serris (20,49)
+  5 Sep 1914 54
+    activity:movement (56,54)
+    activity:movement (48,56)
+    place:Brie de Comte Robert (60,59)
+    place:Le Mans (60,65)
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD00030rz  ----------
+  6 Sep 1914 23
+    time:0200AM (5,27)
+  7 Sep 1914 42
+    time:0600AM (6,45)
+    place:Villeneuve le Comte (18,46)
+    activity:movement (39,59)
+  8 Sep 1914 62
+    time:0600AM (7,65)
+    place:Maison Celles (20,66)
+    activity:movement (53,69)
+    unit:Hq 5 Cavalry Brigade (37,83)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD00030vn  ----------
+  8 Sep 1914 22
+    activity:movement (28,26)
+    place:Dove (21,27)
+    time:0930PM (7,27)
+  9 Sep 1914 28
+    time:0400AM (6,33)
+    place:Rebais (48,38)
+  10 Sep 1914 54
+    activity:movement (57,57)
+    place:Coulommiers (20,58)
+    time:0600AM (7,58)
+  11 Sep 1914 65
+    place:Saint Remy (64,68)
+    activity:movement (51,68)
+    weather:rain (72,69)
+    time:0600AM (7,70)
+    place:Marigny (22,71)
+  12 Sep 1914 86
+    place:Hartennes (20,88)
+    time:0600AM (8,89)
+    activity:movement (34,92)
+    weather:rain (39,95)
+    weather:rain (32,95)
+    place:Bezu (78,96)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD00030rg  ----------
+  13 Sep 1914 24
+    activity:movement (28,28)
+    place:Bezu (20,29)
+    time:0600AM (7,29)
+  14 Sep 1914 34
+    place:Bezu (21,38)
+    activity:movement (37,38)
+  15 Sep 1914 69
+    activity:movement (37,73)
+    place:Oulchy (21,74)
+    time:0600AM (8,74)
+  16 Sep 1914 85
+    time:0600AM (8,89)
+    place:Cerseuil (20,90)
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD00030qh  ----------
+  17 Sep 1914 23
+    place:Cerseuil (21,28)
+    time:0600AM (7,28)
+  18 Sep 1914 52
+    time:0400AM (7,57)
+    person:Sergeant Bell (casualty_wounded) (70,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (41,75)
+  19 Sep 1914 79
+    time:0600AM (8,84)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD00030qu  ----------
+  19 Sep 1914 23
+    place:Cerseuil (22,27)
+    unit:4 Divisional Ammunition Column (68,36)
+    activity:movement (56,40)
+  20 Sep 1914 42
+    place:Oulchy (20,46)
+    weather:rain (41,54)
+  21 Sep 1914 87
+    person:Sergeant Dennis (other) (63,97)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD00030qd  ----------
+  21 Sep 1914 0
+  22 Sep 1914 23
+    place:Cerseuil (21,29)
+  23 Sep 1914 60
+    activity:movement (48,75)
+  24 Sep 1914 88
+    place:Barbonval (19,90)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD00030un  ----------
+  29 Sep 1914 22
+    place:Blanzy (20,27)
+    time:0600AM (6,27)
+    domestic:rations (42,39)
+  30 Sep 1914 63
+    place:Blanzy (22,68)
+    time:0600AM (7,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 459; wounded: 0 (61,68)
+    casualties:died: 10; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,76)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD00030wf  ----------
+  25 Sep 1914 24
+    time:0600AM (7,28)
+    place:Barbonval (22,30)
+  26 Sep 1914 35
+    time:0600AM (6,39)
+    place:Barbonval (22,40)
+    unit:V Dragoon Gds (29,46)
+  27 Sep 1914 57
+    time:0600AM (6,61)
+    place:Barbonval (20,61)
+    unit:4 Cavalry Field Ambulance (49,64)
+    unit:Hq 1 Cavalry Brigade (41,67)
+    unit:V Dragoon Gds (56,67)
+  28 Sep 1914 80
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 0 (65,84)
+    time:0600AM (7,84)
+    place:Barbonval (20,85)
+Page 26 (type ) http://wd3.herokuapp.com/pages/AWD00030tf  ----------
+  28 Sep 1914 0
+    reference:casualties (32,48)
+Page 27 (type ) http://wd3.herokuapp.com/pages/AWD00030qe  ----------
+  28 Sep 1914 0
+    person:Major Wh Holmes (commander) (60,67)
+    date:7 Sep 1914 (45,77)
+Page 28 (type ) http://wd3.herokuapp.com/pages/AWD00030qw  ----------
+  28 Sep 1914 0
+    reference:movement (34,29)
+    person:Major Wh Holmes (commander) (58,74)
+    date:7 Sep 1914 (36,83)
+Page 29 (type signals) http://wd3.herokuapp.com/pages/AWD00030qr  ----------
+  28 Sep 1914 0
+    date:7 Sep 1914 (63,12)
+    time:1255PM (65,21)
+    unit:No 10 mobile vet section hq 4 Division. (36,27)
+    signals:other (36,36)
+    reference:movement (36,37)
+    unit:5 Cavalry Brigade (47,42)
+    unit:5 Cavalry (40,44)
+    unit:Ghq (44,81)
+Page 30 (type report) http://wd3.herokuapp.com/pages/AWD00030pm  ----------
+  28 Sep 1914 0
+    date:29 Sep 1914 (36,86)
+Page 31 (type ) http://wd3.herokuapp.com/pages/AWD00030v6  ----------
+  28 Sep 1914 0
+    unit:1 Cavalry Division (48,23)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD00030wm  ----------
+  1 Oct 1914 24
+    time:0600AM (7,29)
+    place:Blanzy (22,29)
+  2 Oct 1914 32
+    time:0600AM (8,36)
+  3 Oct 1914 41
+    time:0600AM (8,42)
+    activity:movement (43,45)
+  4 Oct 1914 49
+    time:0600AM (8,51)
+    place:Lime (19,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 0 (59,53)
+    activity:movement (29,59)
+    unit:1 Cavalry Brigade (43,60)
+  5 Oct 1914 64
+    place:Longpont (18,67)
+    activity:movement (30,76)
+  6 Oct 1914 83
+    time:0630AM (6,86)
+    activity:movement (47,86)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD00030pu  ----------
+  7 Oct 1914 24
+    time:0530AM (8,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (48,27)
+    place:Francierres (20,28)
+    activity:movement (70,29)
+  8 Oct 1914 37
+    time:0530AM (8,39)
+    place:Coullemelles (19,39)
+    activity:movement (66,40)
+  9 Oct 1914 50
+    time:0530AM (8,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (53,52)
+    activity:movement (53,61)
+  10 Oct 1914 70
+    time:0530AM (7,72)
+    place:Hem (20,73)
+    activity:movement (28,75)
+  11 Oct 1914 86
+    activity:movement (30,87)
+    time:0930AM (7,87)
+    place:Lecomte (18,88)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD00030wt  ----------
+  12 Oct 1914 24
+    time:0900AM (7,26)
+    activity:movement (31,27)
+    place:Merville (18,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (28,32)
+    activity:fire (34,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (61,59)
+  13 Oct 1914 86
+    time:0800AM (5,86)
+    activity:movement (31,88)
+    place:Merville (19,90)
+    weather:rain (44,94)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (60,96)
+    person:Sergeant Bell (other) (40,96)
+Page 35 (type diary) http://wd3.herokuapp.com/pages/AWD00030pf  ----------
+  14 Oct 1914 24
+    place:Fletre (53,26)
+    activity:movement (41,28)
+    time:0900AM (7,29)
+    place:Fletre (22,29)
+    activity:movement (71,30)
+  15 Oct 1914 37
+    weather:rain (55,37)
+    time:0600AM (7,40)
+    place:Dranoutre (20,41)
+  16 Oct 1914 42
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 12; wounded: 0 (60,45)
+    time:0600AM (8,46)
+  17 Oct 1914 50
+    domestic:other (44,50)
+    time:0600AM (8,52)
+  18 Oct 1914 54
+    activity:movement (48,59)
+    activity:movement (61,59)
+    place:Neuve Eglise (20,60)
+  19 Oct 1914 61
+    time:0600AM (7,62)
+    place:Neuve Eglise (21,67)
+    activity:movement (57,72)
+  20 Oct 1914 74
+    time:0800AM (6,76)
+    domestic:accomodation (71,85)
+    place:Neuve Eglise (59,85)
+  21 Oct 1914 86
+    place:Neuve Eglise (13,88)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD00030t3  ----------
+  22 Oct 1914 23
+  23 Oct 1914 27
+    place:Neuve Eglise (15,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (60,31)
+  24 Oct 1914 38
+  25 Oct 1914 42
+  26 Oct 1914 49
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (47,52)
+  27 Oct 1914 53
+  28 Oct 1914 57
+  29 Oct 1914 63
+  30 Oct 1914 69
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 0 (37,73)
+  31 Oct 1914 77
+    activity:movement (28,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 112; wounded: 0 (74,94)
+Page 37 (type diary) http://wd3.herokuapp.com/pages/AWD00030uz  ----------
+  1 Nov 1914 21
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 15; wounded: 0 (55,25)
+    time:0600AM (4,26)
+    place:Neuve Eglise (17,27)
+  3 Nov 1914 32
+    activity:movement (28,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (27,40)
+  4 Nov 1914 41
+    place:Dranoutre (17,44)
+    activity:movement (28,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (26,48)
+  5 Nov 1914 50
+    activity:movement (28,54)
+    place:Saint Jans Cappelle (18,55)
+  6 Nov 1914 57
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (41,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 0 (37,61)
+    place:Dranoutre (18,61)
+  7 Nov 1914 65
+    activity:movement (28,69)
+  9 Nov 1914 77
+    activity:resting (35,77)
+    place:Saint Jans Cappelle (19,77)
+  10 Nov 1914 84
+Page 38 (type diary) http://wd3.herokuapp.com/pages/AWD00030tg  ----------
+  11 Nov 1914 20
+    weather:rain (40,25)
+  12 Nov 1914 27
+    activity:movement (27,30)
+    unit:18 Hussars (67,38)
+  13 Nov 1914 48
+  15 Nov 1914 61
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (55,62)
+  19 Nov 1914 78
+    weather:cold (50,82)
+  20 Nov 1914 86
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,90)
+Page 39 (type diary) http://wd3.herokuapp.com/pages/AWD00030t5  ----------
+  21 Nov 1914 19
+  22 Nov 1914 26
+    place:Bailleul (16,26)
+  23 Nov 1914 33
+    activity:movement (32,37)
+  24 Nov 1914 42
+    place:Thieushouk (17,45)
+    domestic:accomodation (29,45)
+  25 Nov 1914 48
+    domestic:accomodation (32,51)
+  26 Nov 1914 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 31; wounded: 0 (36,56)
+    place:Thieushouk (17,59)
+  27 Nov 1914 62
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,66)
+  29 Nov 1914 74
+  30 Nov 1914 78
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 162; wounded: 0 (47,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,87)
+Page 40 (type cover)
+Page 41 (type diary) http://wd3.herokuapp.com/pages/AWD00030u2  ----------
+  1 Dec 1914 24
+    time:0630AM (7,28)
+    place:Thieushouk (16,28)
+  2 Dec 1914 31
+    domestic:inspections (34,42)
+  3 Dec 1914 46
+    person:Shoeing Smith Naylor (joined) (31,46)
+  9 Dec 1914 59
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 15; wounded: 0 (39,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (55,65)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,67)
+  10 Dec 1914 69
+  13 Dec 1914 83
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 0 (39,86)
+  14 Dec 1914 90
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,93)
+Page 42 (type diary) http://wd3.herokuapp.com/pages/AWD00030uo  ----------
+  15 Dec 1914 22
+    place:Thieushouk (21,27)
+  18 Dec 1914 34
+  19 Dec 1914 37
+  20 Dec 1914 42
+  24 Dec 1914 52
+  25 Dec 1914 56
+  28 Dec 1914 73
+  29 Dec 1914 86
+Page 43 (type diary) http://wd3.herokuapp.com/pages/AWD00030qi  ----------
+  30 Dec 1914 24
+    time:0630AM (7,28)
+    place:Thieushouk (22,28)
+  31 Dec 1914 29
+    time:0630AM (7,33)
+Page 44 (type signals) http://wd3.herokuapp.com/pages/AWD00030xb  ----------
+  31 Dec 1914 0
+    date:10 Dec 1914 (46,30)
+    signals:other (41,36)
+    reference:SICK HORSES (39,47)
+    person:Captain H Gamble (other) (56,85)
+Page 45 (type ) http://wd3.herokuapp.com/pages/AWD00030p5  ----------
+  31 Dec 1914 0
+    date:28 Dec 1914 (46,29)
+    reference:VISIT (57,43)
+Page 46 (type signals) http://wd3.herokuapp.com/pages/AWD00030ws  ----------
+  31 Dec 1914 0
+    date:29 Dec 1914 (45,29)
+    reference:SICK HORSES (46,37)
+Page 47 (type orders) http://wd3.herokuapp.com/pages/AWD00030wx  ----------
+  31 Dec 1914 0
+    reference:daily routine (46,16)
+Page 48 (type ) http://wd3.herokuapp.com/pages/AWD00030tt  ----------
+Page 49 (type diary) http://wd3.herokuapp.com/pages/AWD00030vh  ----------
+  1 Jan 1915 24
+    place:Thieshouk (19,29)
+  2 Jan 1915 31
+    person:Dennis (promotion) (47,34)
+  4 Jan 1915 42
+  7 Jan 1915 59
+    person:Driver Smith (joined) (59,65)
+    place:Thieshouk (20,78)
+  11 Jan 1915 88
+Page 50 (type diary) http://wd3.herokuapp.com/pages/AWD00030tp  ----------
+  12 Jan 1915 24
+  13 Jan 1915 43
+    person:Private Williams (casualty_wounded) (34,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (46,50)
+  15 Jan 1915 63
+  16 Jan 1915 72
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (42,80)
+  17 Jan 1915 85
+    weather:cold (61,87)
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD00030uh  ----------
+  18 Jan 1915 23
+    weather:cold (48,26)
+    time:0630AM (5,28)
+    place:Thieushouk (19,28)
+  19 Jan 1915 42
+    time:0630AM (6,46)
+  20 Jan 1915 56
+    time:0630AM (6,61)
+  21 Jan 1915 72
+    weather:rain (53,74)
+    time:0630AM (6,75)
+  22 Jan 1915 85
+    weather:rain (38,87)
+    time:0630AM (7,88)
+Page 52 (type diary) http://wd3.herokuapp.com/pages/AWD00030q6  ----------
+  23 Jan 1915 23
+    place:Thieushouk (17,28)
+  24 Jan 1915 32
+    weather:cold (55,32)
+    weather:cold (38,35)
+  25 Jan 1915 38
+  26 Jan 1915 71
+    weather:cold (47,91)
+Page 53 (type diary) http://wd3.herokuapp.com/pages/AWD00030sn  ----------
+  29 Jan 1915 23
+    place:Thieushouk (22,27)
+  30 Jan 1915 30
+    domestic:medical (51,37)
+  31 Jan 1915 43
+    weather:cold (34,47)
+Page 54 (type diary) http://wd3.herokuapp.com/pages/AWD00030rx  ----------
+  31 Jan 1915 0
+Page 55 (type other) http://wd3.herokuapp.com/pages/AWD00030su  ----------
+  31 Jan 1915 0
+Page 56 (type orders) http://wd3.herokuapp.com/pages/AWD00030p8  ----------
+  31 Jan 1915 0
+    date:9 Jan 1915 (35,64)
+    reference:SICK HORSES (41,66)
+Page 57 (type orders) http://wd3.herokuapp.com/pages/AWD00030u7  ----------
+  31 Jan 1915 0
+    reference:SICK HORSES (31,38)
+    date:11 Jan 1915 (36,83)
+Page 58 (type ) http://wd3.herokuapp.com/pages/AWD00030tm  ----------
+  31 Jan 1915 0
+    date:20 Jan 1915 (43,27)
+    reference:SICK HORSES (33,42)
+Page 59 (type cover)
+Page 60 (type diary) http://wd3.herokuapp.com/pages/AWD00030qm  ----------
+  1 Feb 1915 23
+    weather:cold (31,28)
+    place:Thieushouk (19,29)
+    time:0600AM (8,29)
+  2 Feb 1915 52
+    weather:rain (29,55)
+    time:0600AM (7,56)
+  3 Feb 1915 61
+    person:Corporal B Bray (departed_posted) (43,64)
+    weather:cold (29,64)
+    time:0600AM (7,65)
+  4 Feb 1915 68
+    weather:cold (29,70)
+    time:0600AM (6,73)
+  5 Feb 1915 76
+    weather:cold (29,79)
+    time:0600AM (7,81)
+  6 Feb 1915 87
+    weather:rain (26,88)
+    person:Sergeant Townsend (departed_sick) (56,89)
+    time:0600AM (8,90)
+Page 61 (type diary) http://wd3.herokuapp.com/pages/AWD00030v3  ----------
+  7 Feb 1915 22
+    domestic:medical (50,26)
+    place:Thieushouk (20,27)
+    person:Sergeant Townsend (returned_hospital) (34,29)
+  8 Feb 1915 32
+  9 Feb 1915 71
+    weather:rain (47,75)
+  10 Feb 1915 79
+    weather:cold (31,82)
+  11 Feb 1915 88
+Page 62 (type diary) http://wd3.herokuapp.com/pages/AWD00030wy  ----------
+  12 Feb 1915 22
+    activity:other (50,26)
+    weather:cold (36,27)
+    time:0600AM (6,28)
+    place:Godeswaersvelde (19,29)
+  13 Feb 1915 33
+    place:Godeswaersvelde (18,35)
+    domestic:medical (62,36)
+    weather:rain (44,36)
+    time:0600AM (6,38)
+  14 Feb 1915 41
+    weather:rain (29,44)
+    time:0600AM (7,47)
+  15 Feb 1915 48
+    weather:rain (28,51)
+    time:0600AM (7,53)
+    domestic:medical (70,81)
+    person:Private O'Neill (departed_sick) (28,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (45,85)
+Page 63 (type diary) http://wd3.herokuapp.com/pages/AWD00030vz  ----------
+  16 Feb 1915 23
+    person:Private Packham (returned_hospital) (59,26)
+    place:Godeswaersvelde (18,27)
+    weather:fine (32,27)
+  17 Feb 1915 30
+    place:Godeswaersvelde (17,34)
+    weather:rain (27,35)
+  18 Feb 1915 38
+    person:Shoeing Smith Naylor (departed_sick) (59,41)
+    weather:fine (28,41)
+    place:Godeswaersvelde (17,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (37,44)
+  19 Feb 1915 46
+    weather:fine (27,50)
+  20 Feb 1915 52
+    domestic:inspections (66,55)
+    weather:rain (28,57)
+    place:Godeswaersvelde (18,61)
+  21 Feb 1915 72
+    person:Shoeing Smith Naylor (returned_hospital) (53,74)
+    weather:fine (27,74)
+    place:Godeswaersvelde (17,76)
+  22 Feb 1915 79
+    weather:fine (28,82)
+    place:Godeswaersvelde (20,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,90)
+Page 64 (type diary) http://wd3.herokuapp.com/pages/AWD00030vk  ----------
+  22 Feb 1915 23
+  24 Feb 1915 40
+    weather:cold (27,44)
+  25 Feb 1915 48
+    weather:cold (27,53)
+  26 Feb 1915 60
+    weather:cold (27,64)
+  27 Feb 1915 77
+    weather:cold (27,81)
+  28 Feb 1915 87
+Page 65 (type diary) http://wd3.herokuapp.com/pages/AWD00030rc  ----------
+  28 Feb 1915 27
+Page 66 (type ) http://wd3.herokuapp.com/pages/AWD00030qy  ----------
+Page 67 (type diary) http://wd3.herokuapp.com/pages/AWD00030vj  ----------
+  1 Mar 1915 23
+  7 Mar 1915 91
+Page 68 (type diary) http://wd3.herokuapp.com/pages/AWD00030vp  ----------
+  8 Mar 1915 23
+  9 Mar 1915 30
+    weather:cold (28,32)
+  10 Mar 1915 36
+    person:Corporal Hunt (other) (32,65)
+  11 Mar 1915 70
+  12 Mar 1915 77
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,82)
+    person:Private Pratt (departed_sick) (29,83)
+  13 Mar 1915 87
+Page 69 (type diary) http://wd3.herokuapp.com/pages/AWD00030u9  ----------
+  14 Mar 1915 25
+  16 Mar 1915 33
+    unit:18 (40,38)
+  18 Mar 1915 45
+  19 Mar 1915 79
+    weather:cold (27,80)
+    person:Staff Sergeant Bell (departed_posted) (54,86)
+  20 Mar 1915 87
+Page 70 (type diary) http://wd3.herokuapp.com/pages/AWD00030xo  ----------
+  21 Mar 1915 22
+  22 Mar 1915 31
+    person:Staff Sergeant Bell (departed_posted) (52,35)
+  23 Mar 1915 40
+  24 Mar 1915 60
+Page 71 (type ) http://wd3.herokuapp.com/pages/AWD00030ub  ----------
+  25 Mar 1915 23
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,76)
+Page 72 (type diary) http://wd3.herokuapp.com/pages/AWD00030ty  ----------
+  31 Mar 1915 25
+    weather:fine (39,28)
+Page 73 (type ) http://wd3.herokuapp.com/pages/AWD00030uu  ----------
+Page 74 (type diary) http://wd3.herokuapp.com/pages/AWD00030u4  ----------
+  1 Apr 1915 23
+    weather:fine (28,27)
+  2 Apr 1915 28
+    weather:fine (30,32)
+  3 Apr 1915 35
+    person:Private Childs (joined) (52,38)
+    person:Private Standen (joined) (37,39)
+    weather:fine (28,39)
+  4 Apr 1915 47
+    weather:fine (27,49)
+  5 Apr 1915 50
+    weather:fine (29,53)
+  6 Apr 1915 54
+    weather:rain (27,58)
+  7 Apr 1915 62
+    weather:fine (28,65)
+    person:Sergeant E Larente (other) (81,82)
+    person:Private Packham (other) (82,88)
+Page 75 (type diary) http://wd3.herokuapp.com/pages/AWD00030ue  ----------
+  8 Apr 1915 22
+    weather:rain (30,26)
+  9 Apr 1915 33
+  10 Apr 1915 37
+    weather:fine (31,40)
+  11 Apr 1915 45
+    activity:other (40,46)
+  12 Apr 1915 49
+    weather:fine (28,50)
+    weather:fine (29,53)
+  13 Apr 1915 55
+    weather:fine (28,58)
+  14 Apr 1915 62
+    weather:fine (29,65)
+    person:Sergeant Hunt (other) (84,79)
+  15 Apr 1915 81
+    weather:fine (27,84)
+  16 Apr 1915 89
+    weather:fine (29,92)
+Page 76 (type diary) http://wd3.herokuapp.com/pages/AWD00030wa  ----------
+  17 Apr 1915 22
+    weather:fine (27,28)
+  18 Apr 1915 32
+    weather:fine (29,36)
+  19 Apr 1915 37
+  20 Apr 1915 55
+    weather:fine (28,59)
+  21 Apr 1915 63
+    weather:fine (27,67)
+    person:Private Smith (other) (84,88)
+Page 77 (type diary) http://wd3.herokuapp.com/pages/AWD00030qn  ----------
+  22 Apr 1915 23
+  23 Apr 1915 31
+    weather:fine (28,32)
+  24 Apr 1915 40
+  25 Apr 1915 69
+    weather:fine (28,73)
+  26 Apr 1915 82
+    weather:fine (29,82)
+Page 78 (type diary) http://wd3.herokuapp.com/pages/AWD00030r3  ----------
+  27 Apr 1915 21
+  30 Apr 1915 90
+Page 79 (type cover)
+Page 80 (type diary) http://wd3.herokuapp.com/pages/AWD00030pv  ----------
+  1 May 1915 23
+    weather:fine (27,27)
+  2 May 1915 32
+    person:Clarke (promotion) (62,35)
+  3 May 1915 41
+    weather:fine (27,43)
+  4 May 1915 55
+    weather:fine (27,58)
+  5 May 1915 59
+    weather:fine (27,63)
+  6 May 1915 73
+    weather:fine (27,76)
+    person:Sergeant Fairbrother (other) (77,89)
+Page 81 (type diary) http://wd3.herokuapp.com/pages/AWD00030wd  ----------
+  7 May 1915 23
+    time:0530AM (7,26)
+    weather:fine (27,27)
+    person:Private Packham (other) (30,45)
+  8 May 1915 48
+    weather:fine (27,50)
+  9 May 1915 59
+    weather:fine (26,59)
+  10 May 1915 63
+    weather:fine (26,65)
+  11 May 1915 75
+    weather:fine (27,78)
+Page 82 (type diary) http://wd3.herokuapp.com/pages/AWD00030pw  ----------
+  11 May 1915 22
+  12 May 1915 32
+    weather:fine (30,35)
+  13 May 1915 53
+    place:Godewaersvelde (14,58)
+  14 May 1915 70
+  15 May 1915 83
+Page 83 (type diary) http://wd3.herokuapp.com/pages/AWD00030rp  ----------
+  16 May 1915 23
+    weather:fine (27,27)
+    activity:movement (41,29)
+    place:Steenvoorde (26,32)
+    place:Cassel (41,32)
+    place:Waemaers Cappel (15,41)
+  17 May 1915 49
+    person:Private Lowin (other) (31,49)
+  18 May 1915 52
+    weather:rain (27,56)
+    person:Sergeant Hunt (departed_posted) (76,64)
+    person:Private Smith (other) (44,66)
+    person:Corporal O'Neill (other) (32,77)
+    person:Private Deadman (other) (49,77)
+  19 May 1915 80
+    person:Sergeant E Fairbrother (departed_posted) (76,80)
+    weather:fine (28,83)
+    person:Private Smith (discipline) (76,86)
+Page 84 (type diary) http://wd3.herokuapp.com/pages/AWD00030w2  ----------
+  20 May 1915 23
+    weather:fine (27,27)
+    time:0530AM (6,27)
+    person:Corporal Misson (departed_posted) (76,41)
+    person:Private Packham (other) (43,42)
+    place:Waemaers Cappel (15,42)
+  21 May 1915 45
+    weather:fine (26,49)
+    person:Private Deadman (other) (30,66)
+  22 May 1915 74
+    person:Private Johnson (joined) (83,77)
+    weather:fine (27,78)
+  23 May 1915 83
+Page 85 (type diary) http://wd3.herokuapp.com/pages/AWD00030vw  ----------
+  24 May 1915 24
+    weather:fine (27,27)
+    place:Waemaers Cappel (19,27)
+  27 May 1915 38
+    weather:fine (27,42)
+    person:Lance Corporal Clarke (other) (30,66)
+    person:Private Packham (other) (44,66)
+  28 May 1915 73
+    weather:fine (28,76)
+  29 May 1915 81
+    weather:fine (27,84)
+    person:Private M Martin (joined) (79,84)
+Page 86 (type diary) http://wd3.herokuapp.com/pages/AWD00030t9  ----------
+  30 May 1915 23
+    place:Waemaers Cappel (20,27)
+    weather:fine (27,27)
+  31 May 1915 34
+    weather:fine (26,38)
+Page 87 (type other) http://wd3.herokuapp.com/pages/AWD00030uq  ----------
+  31 May 1915 0
+Page 88 (type other) http://wd3.herokuapp.com/pages/AWD00030v2  ----------
+  31 May 1915 0
+Page 89 (type other) http://wd3.herokuapp.com/pages/AWD00030v9  ----------
+  31 May 1915 0
+Page 90 (type ) http://wd3.herokuapp.com/pages/AWD00030pt  ----------
+Page 91 (type diary) http://wd3.herokuapp.com/pages/AWD00030t6  ----------
+  1 Jun 1915 24
+    weather:fine (26,26)
+    domestic:inspections (63,26)
+    place:Waemaers Cappel (21,27)
+    time:0530AM (7,27)
+  2 Jun 1915 29
+    weather:fine (27,33)
+    place:Waemaers Cappel (19,39)
+    person:Private W Smith (other) (48,51)
+    person:Lance Corporal O'Neill (other) (30,52)
+  3 Jun 1915 54
+    person:Sergeant Nutley (departed_sick) (56,57)
+    weather:fine (28,58)
+  4 Jun 1915 61
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,64)
+    person:Private G O'Ryan (departed_sick) (47,64)
+    weather:fine (27,65)
+  5 Jun 1915 66
+    weather:fine (27,69)
+  6 Jun 1915 73
+    weather:fine (27,78)
+    person:Corporal Tillman (other) (62,85)
+    person:Private Lowin (other) (60,88)
+Page 92 (type diary) http://wd3.herokuapp.com/pages/AWD00030q2  ----------
+  7 Jun 1915 22
+    place:Waemaers Cappel (20,28)
+  9 Jun 1915 39
+    weather:fine (27,42)
+  10 Jun 1915 77
+    person:Sergeant Nutley (returned_hospital) (50,81)
+  11 Jun 1915 88
+Page 93 (type diary) http://wd3.herokuapp.com/pages/AWD00030qz  ----------
+  12 Jun 1915 20
+    reference: (86,49)
+    person:Corporal Tillman (other) (33,54)
+    person:Private Lowin (other) (53,55)
+  13 Jun 1915 58
+  14 Jun 1915 71
+Page 94 (type diary) http://wd3.herokuapp.com/pages/AWD00030ut  ----------
+  15 Jun 1915 22
+  16 Jun 1915 34
+    person:Private D Ryan (other) (61,50)
+  17 Jun 1915 57
+  18 Jun 1915 61
+    person:Lance Corporal O'Neill (other) (45,71)
+  19 Jun 1915 74
+    person:Corporal Tillman (other) (33,86)
+Page 95 (type diary) http://wd3.herokuapp.com/pages/AWD00030sv  ----------
+  20 Jun 1915 21
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (67,25)
+    person:Private Standen (48,26)
+    place:Waemaers Cappel (20,27)
+  21 Jun 1915 32
+  22 Jun 1915 37
+  23 Jun 1915 43
+Page 96 (type ) http://wd3.herokuapp.com/pages/AWD00030ts  ----------
+  24 Jun 1915 22
+Page 97 (type diary) http://wd3.herokuapp.com/pages/AWD00030ro  ----------
+  30 Jun 1915 23
+Page 98 (type cover)
+Page 99 (type diary) http://wd3.herokuapp.com/pages/AWD00030uj  ----------
+  1 Jul 1915 23
+Page 100 (type ) http://wd3.herokuapp.com/pages/AWD00030ry  ----------
+  6 Jul 1915 23
+Page 101 (type diary) http://wd3.herokuapp.com/pages/AWD00030u3  ----------
+  10 Jul 1915 22
+    person:Corporal Tillman (other) (46,59)
+    person:Private W Smith (other) (58,60)
+  11 Jul 1915 62
+    person:Captain Hodgins (other) (47,66)
+  13 Jul 1915 77
+    person:Captain Hodgins (departed_posted) (51,80)
+  14 Jul 1915 89
+    person:Lieutenant S H L Woods (commander) (45,92)
+Page 102 (type diary) http://wd3.herokuapp.com/pages/AWD00030te  ----------
+  15 Jul 1915 23
+  16 Jul 1915 30
+    person:Private Grey (joined) (30,37)
+    person:Private Harding (joined) (39,38)
+  20 Jul 1915 54
+  22 Jul 1915 61
+    person:Private Price (departed_sick) (47,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,64)
+  23 Jul 1915 67
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (68,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,68)
+    person:Sergeant A E Williams (joined) (40,72)
+  24 Jul 1915 73
+  25 Jul 1915 79
+    person:Staff Sergeant Laurent (departed_posted) (47,82)
+Page 103 (type diary) http://wd3.herokuapp.com/pages/AWD00030r2  ----------
+  26 Jul 1915 22
+    person:Private Price (returned_hospital) (32,30)
+  27 Jul 1915 38
+  28 Jul 1915 52
+    person:Private Cranney (returned_hospital) (34,64)
+  29 Jul 1915 68
+  30 Jul 1915 78
+  31 Jul 1915 84
+Page 104 (type cover)
+Page 105 (type diary) http://wd3.herokuapp.com/pages/AWD00030us  ----------
+  1 Aug 1915 21
+    person:Lieutenant Plunkett (commander) (33,28)
+    person:Lieutenant J McBride (other) (70,28)
+    domestic:inspections (48,32)
+  2 Aug 1915 35
+    person:Private G W Smith (departed_leave) (43,37)
+  3 Aug 1915 44
+    domestic:parades (28,50)
+  4 Aug 1915 65
+    domestic:hygiene (38,65)
+    domestic:inspections (40,78)
+  5 Aug 1915 79
+    person:Lance Corporal Clarke (other) (29,83)
+    person:Private Smith (other) (28,86)
+Page 106 (type diary) http://wd3.herokuapp.com/pages/AWD00030qt  ----------
+  5 Aug 1915 22
+    person:Driver Abbott (joined) (30,28)
+  6 Aug 1915 32
+  7 Aug 1915 51
+  8 Aug 1915 60
+    person:Private G W Smith (returned_leave) (66,67)
+  10 Aug 1915 74
+    person:Private Goatcher (departed_leave) (28,79)
+  11 Aug 1915 81
+    person:Private Murphy (joined) (55,91)
+    person:Driver Abbott (departed_posted) (40,94)
+Page 107 (type diary) http://wd3.herokuapp.com/pages/AWD00030qv  ----------
+  12 Aug 1915 21
+    activity:other (30,26)
+  13 Aug 1915 34
+  14 Aug 1915 40
+  15 Aug 1915 48
+    domestic:inspections (54,52)
+  16 Aug 1915 56
+  17 Aug 1915 63
+  18 Aug 1915 67
+Page 108 (type diary) http://wd3.herokuapp.com/pages/AWD00030wl  ----------
+  18 Aug 1915 0
+  19 Aug 1915 23
+  20 Aug 1915 27
+  21 Aug 1915 34
+  22 Aug 1915 53
+  23 Aug 1915 56
+  24 Aug 1915 63
+    person:Private I Childs (resigned) (38,74)
+  25 Aug 1915 78
+  26 Aug 1915 81
+    person:Sergeant Williams (departed_leave) (28,89)
+Page 109 (type diary) http://wd3.herokuapp.com/pages/AWD00030wo  ----------
+  27 Aug 1915 22
+  28 Aug 1915 33
+  29 Aug 1915 39
+  30 Aug 1915 44
+  31 Aug 1915 55
+Page 110 (type cover)
+Page 111 (type diary) http://wd3.herokuapp.com/pages/AWD00030tl  ----------
+  1 Sep 1915 21
+  2 Sep 1915 32
+  3 Sep 1915 44
+    weather:rain (31,48)
+  4 Sep 1915 55
+    weather:rain (30,59)
+    person:Sergeant Williams (returned_leave) (50,59)
+    person:Private Philp (departed_leave) (33,63)
+  5 Sep 1915 64
+    person:Private Murphy (departed_sick) (34,71)
+    person:Private Piggott (departed_sick) (43,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,71)
+  6 Sep 1915 76
+Page 112 (type ) http://wd3.herokuapp.com/pages/AWD00030ud  ----------
+  7 Sep 1915 21
+Page 113 (type diary) http://wd3.herokuapp.com/pages/AWD00030qc  ----------
+  13 Sep 1915 22
+    activity:training (49,26)
+  15 Sep 1915 51
+  17 Sep 1915 70
+    person:Clarke (other) (31,74)
+Page 114 (type ) http://wd3.herokuapp.com/pages/AWD00030sm  ----------
+  18 Sep 1915 22
+Page 115 (type diary) http://wd3.herokuapp.com/pages/AWD00030vf  ----------
+  22 Sep 1915 21
+  23 Sep 1915 35
+    activity:movement (66,38)
+  24 Sep 1915 54
+    activity:movement (42,60)
+  25 Sep 1915 64
+  28 Sep 1915 88
+Page 116 (type diary) http://wd3.herokuapp.com/pages/AWD00030vc  ----------
+  29 Sep 1915 22
+  30 Sep 1915 45
+Page 117 (type ) http://wd3.herokuapp.com/pages/AWD00030x3  ----------
+Page 118 (type diary) http://wd3.herokuapp.com/pages/AWD00030x0  ----------
+  1 Oct 1915 22
+  3 Oct 1915 48
+    activity:movement (32,54)
+  5 Oct 1915 64
+    domestic:inspections (45,71)
+  7 Oct 1915 81
+  8 Oct 1915 88
+    domestic:inspections (50,90)
+Page 119 (type diary) http://wd3.herokuapp.com/pages/AWD00030ss  ----------
+  9 Oct 1915 21
+    person:Corporal O'Neill (other) (48,29)
+    person:Private Smith (other) (58,29)
+  11 Oct 1915 34
+  12 Oct 1915 40
+    person:Corporal O'Neill (other) (30,43)
+  13 Oct 1915 45
+  17 Oct 1915 82
+    domestic:religion (70,87)
+Page 120 (type diary) http://wd3.herokuapp.com/pages/AWD00030x6  ----------
+  18 Oct 1915 20
+  19 Oct 1915 29
+  20 Oct 1915 42
+    activity:movement (45,46)
+  21 Oct 1915 51
+  22 Oct 1915 55
+    activity:movement (55,59)
+    place:Watterdal (70,59)
+  24 Oct 1915 67
+    domestic:inspections (54,68)
+    person:Private F Johnson (departed_leave) (63,70)
+  25 Oct 1915 73
+  26 Oct 1915 79
+    domestic:inspections (38,85)
+    domestic:inspections (48,88)
+  28 Oct 1915 89
+Page 121 (type diary) http://wd3.herokuapp.com/pages/AWD00030sx  ----------
+  29 Oct 1915 22
+    place:Watterdal (14,28)
+  30 Oct 1915 33
+  31 Oct 1915 42
+    person:Sergeant Russ (joined) (28,46)
+Page 122 (type cover)
+Page 123 (type diary) http://wd3.herokuapp.com/pages/AWD00030q5  ----------
+  1 Nov 1915 23
+    person:Lieutenant Lawrence (commander) (36,28)
+    place:Watterdal (15,28)
+  2 Nov 1915 32
+  3 Nov 1915 43
+    domestic:inspections (45,46)
+  4 Nov 1915 50
+  5 Nov 1915 62
+  6 Nov 1915 69
+  7 Nov 1915 74
+  8 Nov 1915 79
+    person:Lieutenant J J Plunkett (returned_leave) (37,82)
+  9 Nov 1915 87
+    domestic:inspections (36,89)
+Page 124 (type diary) http://wd3.herokuapp.com/pages/AWD00030x5  ----------
+  10 Nov 1915 23
+    place:Watterdal (14,28)
+  11 Nov 1915 29
+  12 Nov 1915 36
+    domestic:inspections (35,38)
+    person:Private W Batten (departed_sick) (45,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,42)
+  14 Nov 1915 52
+  15 Nov 1915 57
+  16 Nov 1915 69
+    place:Watterdal (49,73)
+    activity:movement (28,74)
+    weather:cold (44,76)
+  17 Nov 1915 82
+  18 Nov 1915 88
+    domestic:inspections (34,92)
+Page 125 (type diary) http://wd3.herokuapp.com/pages/AWD00030v0  ----------
+  19 Nov 1915 20
+  21 Nov 1915 31
+    domestic:inspections (34,31)
+    person:Private W Smith (departed_leave) (57,37)
+  23 Nov 1915 44
+    person:Shoeing Smith Naylor (discipline) (36,47)
+  24 Nov 1915 50
+  25 Nov 1915 53
+  26 Nov 1915 57
+    person:Lieutenant J J Plunkett (departed_leave) (36,60)
+    person:Lieutenant Lawrence (commander) (41,62)
+  27 Nov 1915 66
+  28 Nov 1915 70
+    person:Private W Smith (returned_leave) (41,71)
+  29 Nov 1915 74
+    person:Private G Lowing (departed_leave) (38,78)
+  30 Nov 1915 83
+Page 126 (type cover)
+Page 127 (type ) http://wd3.herokuapp.com/pages/AWD00030rq  ----------
+  1 Dec 1915 21
+Page 128 (type diary) http://wd3.herokuapp.com/pages/AWD00030tx  ----------
+  10 Dec 1915 20
+  11 Dec 1915 29
+    domestic:inspections (34,33)
+  12 Dec 1915 39
+  13 Dec 1915 50
+  14 Dec 1915 58
+  15 Dec 1915 67
+  16 Dec 1915 77
+    domestic:inspections (69,81)
+Page 129 (type diary) http://wd3.herokuapp.com/pages/AWD00030ua  ----------
+  17 Dec 1915 21
+  18 Dec 1915 31
+  19 Dec 1915 37
+    domestic:religion (26,40)
+    domestic:hygiene (50,40)
+  21 Dec 1915 54
+  23 Dec 1915 75
+    person:Sergeant Williams (departed_posted) (29,84)
+Page 130 (type diary) http://wd3.herokuapp.com/pages/AWD00030rl  ----------
+  24 Dec 1915 21
+  25 Dec 1915 29
+  26 Dec 1915 36
+    domestic:religion (25,40)
+  28 Dec 1915 49
+  29 Dec 1915 61
+  30 Dec 1915 71
+  31 Dec 1915 79
+    person:Private H Gilroy (returned_leave) (44,84)
+    person:Private Jessop (departed_leave) (25,86)
+Page 131 (type cover)
+Page 132 (type diary) http://wd3.herokuapp.com/pages/AWD00030xr  ----------
+  1 Jan 1916 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (54,30)
+  9 Jan 1916 89
+Page 133 (type diary) http://wd3.herokuapp.com/pages/AWD00030uk  ----------
+  10 Jan 1916 20
+  11 Jan 1916 28
+    person:Corporal Searle (other) (38,34)
+    person:Sergeant O'Neill (other) (31,38)
+    person:Private Martin (returned_hospital) (67,38)
+  12 Jan 1916 48
+  13 Jan 1916 55
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,58)
+    person:Private Gilroy (departed_sick) (24,59)
+  14 Jan 1916 64
+  15 Jan 1916 77
+    domestic:inspections (46,82)
+  16 Jan 1916 85
+    person:Sergeant Russ (other) (80,86)
+Page 134 (type diary) http://wd3.herokuapp.com/pages/AWD00030sr  ----------
+  17 Jan 1916 20
+    person:Philp (promotion) (82,31)
+  19 Jan 1916 45
+    person:Private Gilroy (returned_hospital) (69,47)
+  20 Jan 1916 51
+  21 Jan 1916 59
+  24 Jan 1916 75
+    person:Private Davis (awol) (24,79)
+    person:Private Driscoll (departed_leave) (33,81)
+  25 Jan 1916 86
+Page 135 (type diary) http://wd3.herokuapp.com/pages/AWD00030wn  ----------
+  26 Jan 1916 19
+Page 136 (type cover)
+Page 137 (type diary) http://wd3.herokuapp.com/pages/AWD00030qa  ----------
+  1 Feb 1916 20
+    domestic:inspections (41,24)
+  2 Feb 1916 29
+    person:Sergeant O'Neill (other) (23,37)
+  3 Feb 1916 41
+    person:Corporal Philp (other) (23,49)
+    domestic:inspections (44,49)
+    person:Private Driscoll (returned_leave) (61,50)
+  4 Feb 1916 53
+  5 Feb 1916 59
+    domestic:inspections (40,64)
+    person:Corporal Philp (other) (27,66)
+  6 Feb 1916 71
+    domestic:religion (34,75)
+    domestic:hygiene (54,77)
+  7 Feb 1916 83
+    person:Driver J Cranny (discipline) (48,86)
+Page 138 (type diary) http://wd3.herokuapp.com/pages/AWD00030r4  ----------
+  8 Feb 1916 19
+    domestic:inspections (41,24)
+  9 Feb 1916 28
+  10 Feb 1916 37
+    person:Private Wylde (departed_leave) (28,37)
+    domestic:inspections (39,41)
+    person:Driver J Cranny (discipline) (55,42)
+  11 Feb 1916 45
+  12 Feb 1916 51
+    person:Corporal Philp (other) (32,55)
+    domestic:inspections (35,59)
+  13 Feb 1916 60
+    person:Corporal Philp (other) (49,64)
+    domestic:religion (33,64)
+    domestic:hygiene (29,67)
+  14 Feb 1916 69
+  15 Feb 1916 74
+    person:Private Boswell (33,74)
+  16 Feb 1916 84
+    domestic:inspections (23,90)
+Page 139 (type diary) http://wd3.herokuapp.com/pages/AWD00030wz  ----------
+  17 Feb 1916 20
+    person:Private S G Boswell (departed_leave) (76,28)
+  19 Feb 1916 39
+    person:Private Wylde (returned_leave) (33,43)
+  20 Feb 1916 48
+    domestic:religion (34,51)
+    domestic:hygiene (51,54)
+  21 Feb 1916 56
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,61)
+  24 Feb 1916 82
+  25 Feb 1916 89
+Page 140 (type ) http://wd3.herokuapp.com/pages/AWD00030we  ----------
+  26 Feb 1916 19
+Page 141 (type cover)
+Page 142 (type diary) http://wd3.herokuapp.com/pages/AWD00030w1  ----------
+  1 Mar 1916 21
+    domestic:inspections (52,25)
+  2 Mar 1916 29
+  3 Mar 1916 32
+  4 Mar 1916 35
+    domestic:inspections (43,35)
+  5 Mar 1916 42
+    domestic:hygiene (48,48)
+    person:Driver J Cranny (other) (73,49)
+    domestic:religion (31,49)
+  6 Mar 1916 51
+  7 Mar 1916 59
+    domestic:parades (32,62)
+  8 Mar 1916 63
+  9 Mar 1916 68
+    domestic:inspections (62,69)
+  11 Mar 1916 80
+    domestic:parades (23,83)
+    activity:training (49,84)
+    person:Private M Martin (discipline) (79,86)
+  12 Mar 1916 89
+    domestic:inspections (41,91)
+    domestic:hygiene (56,91)
+Page 143 (type diary) http://wd3.herokuapp.com/pages/AWD00030ps  ----------
+  13 Mar 1916 20
+    person:Shoeing Smith T Lee (joined) (78,24)
+  15 Mar 1916 30
+  16 Mar 1916 36
+  18 Mar 1916 50
+  19 Mar 1916 54
+    domestic:religion (35,57)
+    domestic:hygiene (53,57)
+    person:Sergeant O'Neill (other) (66,57)
+  20 Mar 1916 59
+  21 Mar 1916 63
+    domestic:inspections (33,63)
+    domestic:inspections (40,65)
+    person:Private Atkinson (departed_leave) (67,68)
+  22 Mar 1916 71
+  23 Mar 1916 75
+    person:Shoeing Smith Naylor (departed_posted) (34,76)
+  24 Mar 1916 79
+  25 Mar 1916 82
+    activity:movement (34,84)
+    place:Lefaux (78,84)
+  26 Mar 1916 88
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (78,89)
+    person:Shoeing Smith Lee (departed_leave) (85,92)
+Page 144 (type diary) http://wd3.herokuapp.com/pages/AWD00030xl  ----------
+  27 Mar 1916 18
+  29 Mar 1916 38
+    person:Sergeant W Russ (departed_leave) (26,40)
+  31 Mar 1916 50
+    person:J J Plunkett (79,70)
+Page 145 (type cover)
+Page 146 (type diary) http://wd3.herokuapp.com/pages/AWD00030v8  ----------
+  1 Apr 1916 20
+  3 Apr 1916 37
+  5 Apr 1916 57
+  7 Apr 1916 78
+  8 Apr 1916 87
+Page 147 (type diary) http://wd3.herokuapp.com/pages/AWD00030rv  ----------
+  9 Apr 1916 20
+    person:Captain J J Plunkett (departed_leave) (38,25)
+  10 Apr 1916 31
+    domestic:medical (46,39)
+  11 Apr 1916 40
+    domestic:inspections (33,48)
+  16 Apr 1916 78
+    domestic:religion (36,81)
+  17 Apr 1916 84
+    domestic:inspections (59,88)
+Page 148 (type other) http://wd3.herokuapp.com/pages/AWD00030v4  ----------
+  18 Apr 1916 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (61,80)
+Page 149 (type diary) http://wd3.herokuapp.com/pages/AWD00030po  ----------
+  26 Apr 1916 19
+    person:Corporal Philp (other) (29,29)
+    person:Private Goatcher (casualty_died) (42,30)
+  27 Apr 1916 31
+    person:Private Goatcher (casualty_non) (58,36)
+  28 Apr 1916 41
+  29 Apr 1916 48
+  30 Apr 1916 54
+Page 150 (type diary) http://wd3.herokuapp.com/pages/AWD00030w7  ----------
+  2 May 1916 25
+    domestic:hygiene (37,30)
+    domestic:inspections (79,33)
+  3 May 1916 34
+    person:Corporal Searle (other) (23,41)
+  4 May 1916 43
+  5 May 1916 48
+  6 May 1916 53
+    person:Private W Ince (returned_leave) (40,58)
+  7 May 1916 60
+  8 May 1916 65
+    domestic:medical (36,73)
+    person:Private Jessop (discipline) (84,74)
+  9 May 1916 78
+    person:Driver Brown (departed_leave) (57,86)
+    person:Private Jessop (discipline) (49,90)
+    domestic:inspections (81,92)
+Page 151 (type diary) http://wd3.herokuapp.com/pages/AWD00030rj  ----------
+  10 May 1916 20
+  16 May 1916 69
+  17 May 1916 83
+Page 152 (type diary) http://wd3.herokuapp.com/pages/AWD00030sg  ----------
+  18 May 1916 19
+  19 May 1916 28
+  20 May 1916 37
+  21 May 1916 42
+  22 May 1916 47
+  23 May 1916 53
+  24 May 1916 66
+    person:Corporal Philp (other) (41,74)
+  25 May 1916 76
+    person:Corporal W Philp (departed_leave) (42,83)
+Page 153 (type diary) http://wd3.herokuapp.com/pages/AWD00030py  ----------
+  26 May 1916 21
+Page 154 (type diary) http://wd3.herokuapp.com/pages/AWD00030r1  ----------
+  1 Jun 1916 20
+    person:Private G Price (departed_leave) (40,27)
+  2 Jun 1916 31
+    person:Corporal Philp (returned_leave) (48,34)
+  3 Jun 1916 36
+  4 Jun 1916 43
+  5 Jun 1916 48
+  6 Jun 1916 55
+    domestic:inspections (30,64)
+  7 Jun 1916 65
+  8 Jun 1916 75
+    person:Sergeant O'Neill (other) (82,79)
+  9 Jun 1916 84
+Page 155 (type diary) http://wd3.herokuapp.com/pages/AWD00030wk  ----------
+  10 Jun 1916 21
+    person:Private W Smith (departed_leave) (41,25)
+    place:Abbeville (42,28)
+    person:Private G Price (returned_leave) (75,29)
+  11 Jun 1916 31
+    domestic:religion (33,35)
+    domestic:religion (35,35)
+  12 Jun 1916 37
+    place:Hubersent (72,41)
+    domestic:inspections (48,44)
+  13 Jun 1916 46
+    domestic:hygiene (33,49)
+    place:Neufchatel (70,54)
+    place:Hubersent (28,56)
+    domestic:inspections (24,58)
+  14 Jun 1916 60
+    domestic:medical (35,64)
+    place:Neufchatel (68,65)
+    person:Sergeant O'Neill (other) (26,68)
+  15 Jun 1916 74
+    place:Neufchatel (50,77)
+  16 Jun 1916 80
+    domestic:inspections (33,85)
+Page 156 (type diary) http://wd3.herokuapp.com/pages/AWD00030w8  ----------
+  17 Jun 1916 20
+  18 Jun 1916 29
+    person:Private W Ince (departed_leave) (26,29)
+  19 Jun 1916 33
+    person:Sergeant O'Neill (other) (36,40)
+    person:Private W Smith (returned_leave) (76,43)
+    person:Corporal Philp (other) (27,44)
+  20 Jun 1916 47
+  21 Jun 1916 63
+    person:Sergeant O'Neill (other) (22,71)
+  22 Jun 1916 74
+    person:Corporal Philp (other) (24,81)
+  23 Jun 1916 82
+Page 157 (type diary) http://wd3.herokuapp.com/pages/AWD00030to  ----------
+  24 Jun 1916 20
+Page 158 (type ) http://wd3.herokuapp.com/pages/AWD00030tu  ----------
+Page 159 (type diary) http://wd3.herokuapp.com/pages/AWD00030so  ----------
+  1 Jul 1916 21
+    place:Querrieu (51,24)
+    place:Querrieu (5,25)
+    place:Meaulte (78,25)
+    activity:movement (19,26)
+    activity:movement (39,26)
+    domestic:inspections (56,30)
+    place:Meaulte (7,30)
+  2 Jul 1916 31
+    activity:movement (70,36)
+    activity:movement (22,37)
+    place:Querrieu (5,38)
+    place:Querrieu (45,40)
+  3 Jul 1916 41
+    place:Querrieu (6,44)
+    domestic:inspections (81,45)
+  4 Jul 1916 49
+    place:Forges-les-Eaux (70,54)
+    person:Philp (other) (34,56)
+  5 Jul 1916 60
+    place:Forges-les-Eaux (66,64)
+    activity:movement (43,68)
+  6 Jul 1916 70
+    domestic:inspections (37,75)
+    place:Conde-Folie (7,75)
+    person:Private Johnson (returned_leave) (49,76)
+    person:Private Johnson (returned_leave) (63,76)
+  7 Jul 1916 79
+    place:Conde-Folie (7,82)
+    unit:Xi Hussars (86,84)
+    place:Forges-les-Eaux (53,86)
+Page 160 (type diary) http://wd3.herokuapp.com/pages/AWD00030qg  ----------
+  8 Jul 1916 20
+    domestic:inspections (80,24)
+  9 Jul 1916 28
+  10 Jul 1916 38
+  11 Jul 1916 45
+    person:Corporal Philp (other) (68,53)
+    activity:movement (22,55)
+  12 Jul 1916 62
+    domestic:inspections (36,65)
+  13 Jul 1916 74
+    domestic:inspections (37,76)
+  14 Jul 1916 81
+  15 Jul 1916 86
+    domestic:inspections (56,91)
+Page 161 (type diary) http://wd3.herokuapp.com/pages/AWD00030r0  ----------
+  16 Jul 1916 20
+    domestic:inspections (38,24)
+  17 Jul 1916 26
+  18 Jul 1916 35
+  19 Jul 1916 41
+  20 Jul 1916 55
+  21 Jul 1916 64
+  22 Jul 1916 71
+  23 Jul 1916 82
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,88)
+Page 162 (type diary) http://wd3.herokuapp.com/pages/AWD00030sj  ----------
+  24 Jul 1916 21
+    domestic:accomodation (70,25)
+    activity:movement (36,25)
+    place:Forges-les-Eaux (74,27)
+  25 Jul 1916 31
+    unit:Xi Hussars (23,39)
+    unit:1 Machine Gun Squadron (43,39)
+  26 Jul 1916 40
+    unit:Queens Bays (49,45)
+    unit:H Battery Royal Horse Artillery (67,45)
+  27 Jul 1916 48
+    unit:2 Machine Gun Squadron (24,49)
+    unit:2 Machine Gun Squadron (50,54)
+    unit:1 Machine Gun Squadron (81,54)
+    domestic:inspections (82,56)
+    person:Captain Plunkett (91,57)
+  28 Jul 1916 59
+    place:Forges-les-Eaux (68,63)
+  29 Jul 1916 66
+    unit:Xi Hussars (59,67)
+    domestic:inspections (66,72)
+  30 Jul 1916 75
+  31 Jul 1916 79
+    domestic:religion (34,79)
+    unit:Queens Bays (74,80)
+    domestic:inspections (72,85)
+    unit:I Battery Royal Horse Artillery (53,86)
+Page 163 (type cover)
+Page 164 (type diary) http://wd3.herokuapp.com/pages/AWD00030sz  ----------
+  1 Aug 1916 20
+  2 Aug 1916 29
+    person:Captain J J Plunkett (92,33)
+    person:Lance Corporal Price (other) (48,35)
+  3 Aug 1916 36
+  4 Aug 1916 46
+    domestic:inspections (74,51)
+  5 Aug 1916 54
+  6 Aug 1916 65
+    domestic:inspections (49,74)
+    person:Private W Bradbrook (joined) (74,75)
+  7 Aug 1916 77
+    person:Private A J Davis (discipline) (48,83)
+    domestic:inspections (28,90)
+Page 165 (type diary) http://wd3.herokuapp.com/pages/AWD00030sw  ----------
+  8 Aug 1916 18
+Page 166 (type diary) http://wd3.herokuapp.com/pages/AWD00030sp  ----------
+  16 Aug 1916 21
+    person:Lance Corporal Price (other) (27,28)
+  17 Aug 1916 30
+    domestic:inspections (38,35)
+  18 Aug 1916 36
+    person:Driver F H Brown (discipline) (43,40)
+    person:Driver F H Brown (discipline) (28,41)
+    person:Private J Lowin (awol) (74,43)
+    person:Private J Lowin (discipline) (60,45)
+    person:Private M Martin (discipline) (71,47)
+  19 Aug 1916 52
+    person:Corporal Philp (other) (32,56)
+    person:Private M Martin (discipline) (33,60)
+  20 Aug 1916 61
+    domestic:religion (33,66)
+    person:Driver F H Brown (discipline) (78,73)
+  21 Aug 1916 81
+Page 167 (type diary) http://wd3.herokuapp.com/pages/AWD00030vd  ----------
+  22 Aug 1916 19
+    person:Private J Atkinson (discipline) (47,27)
+    domestic:medical (45,29)
+  23 Aug 1916 30
+    person:Lance Corporal Price (other) (27,37)
+  24 Aug 1916 38
+    person:Captain J J Plunkett (89,42)
+  25 Aug 1916 44
+  26 Aug 1916 50
+    domestic:inspections (63,55)
+  28 Aug 1916 60
+    domestic:inspections (38,64)
+  29 Aug 1916 65
+  30 Aug 1916 73
+    person:Lance Corporal Price (other) (64,73)
+  31 Aug 1916 78
+    domestic:inspections (36,87)
+Page 168 (type cover)
+Page 169 (type diary) http://wd3.herokuapp.com/pages/AWD00030r5  ----------
+  1 Sep 1916 20
+    person:Corporal Philp (other) (26,26)
+  2 Sep 1916 28
+  3 Sep 1916 33
+    domestic:religion (33,38)
+  4 Sep 1916 41
+  5 Sep 1916 46
+    domestic:inspections (70,54)
+  6 Sep 1916 57
+    person:Corporal Ince (other) (34,62)
+    activity:movement (55,63)
+    place:Ansenne (24,64)
+  7 Sep 1916 68
+    activity:movement (28,74)
+    place:Daours (84,75)
+  8 Sep 1916 78
+    domestic:inspections (38,81)
+  9 Sep 1916 85
+Page 170 (type diary) http://wd3.herokuapp.com/pages/AWD00030vb  ----------
+  10 Sep 1916 20
+Page 171 (type diary) http://wd3.herokuapp.com/pages/AWD00030xe  ----------
+  18 Sep 1916 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,32)
+  24 Sep 1916 88
+Page 172 (type ) http://wd3.herokuapp.com/pages/AWD00030ta  ----------
+  25 Sep 1916 19
+Page 173 (type cover)
+Page 174 (type other) http://wd3.herokuapp.com/pages/AWD00030s2  ----------
+  1 Oct 1916 19
+Page 175 (type diary) http://wd3.herokuapp.com/pages/AWD00030qq  ----------
+  7 Oct 1916 20
+    domestic:hygiene (43,26)
+  8 Oct 1916 33
+    domestic:religion (40,38)
+    person:Corporal Ince (other) (50,50)
+  10 Oct 1916 55
+    domestic:inspections (31,71)
+  12 Oct 1916 73
+    person:Corporal Philp (returned_posted) (40,76)
+Page 176 (type diary) http://wd3.herokuapp.com/pages/AWD00030rf  ----------
+  14 Oct 1916 21
+    person:Corporal Philp (other) (42,34)
+    person:Price (departed_training) (51,35)
+  16 Oct 1916 46
+    domestic:inspections (56,54)
+  18 Oct 1916 60
+  19 Oct 1916 71
+    activity:movement (44,75)
+    person:Corporal Inch (other) (64,87)
+Page 177 (type ) http://wd3.herokuapp.com/pages/AWD00030wb  ----------
+  20 Oct 1916 21
+Page 178 (type diary) http://wd3.herokuapp.com/pages/AWD00030vv  ----------
+  26 Oct 1916 20
+Page 179 (type cover)
+Page 180 (type diary) http://wd3.herokuapp.com/pages/AWD00030sh  ----------
+  1 Nov 1916 20
+  2 Nov 1916 25
+  3 Nov 1916 30
+    domestic:hygiene (32,30)
+  4 Nov 1916 35
+  6 Nov 1916 50
+  7 Nov 1916 53
+  8 Nov 1916 58
+    activity:movement (77,63)
+    place:Fieffes (44,65)
+  9 Nov 1916 66
+    activity:movement (38,70)
+  10 Nov 1916 74
+  11 Nov 1916 78
+    person:Sergeant O'Neill (other) (32,81)
+  12 Nov 1916 87
+    person:Sergeant O'Neill (other) (32,90)
+    domestic:inspections (72,90)
+Page 181 (type diary) http://wd3.herokuapp.com/pages/AWD00030q8  ----------
+  13 Nov 1916 21
+  15 Nov 1916 31
+  17 Nov 1916 43
+  19 Nov 1916 59
+  21 Nov 1916 71
+    domestic:hygiene (60,74)
+  22 Nov 1916 79
+Page 182 (type diary) http://wd3.herokuapp.com/pages/AWD00030pl  ----------
+  23 Nov 1916 19
+    person:Sergeant O'Neill (other) (73,27)
+  24 Nov 1916 29
+    person:Sergeant Russ (other) (38,33)
+  25 Nov 1916 50
+  26 Nov 1916 58
+    person:Private W Bradbrook (departed_leave) (39,65)
+  27 Nov 1916 70
+  28 Nov 1916 78
+    domestic:hygiene (33,82)
+Page 183 (type diary) http://wd3.herokuapp.com/pages/AWD00030tz  ----------
+  29 Nov 1916 20
+Page 184 (type other) http://wd3.herokuapp.com/pages/AWD00030xq  ----------
+Page 185 (type diary) http://wd3.herokuapp.com/pages/AWD00030q1  ----------
+  1 Dec 1916 21
+  2 Dec 1916 26
+    domestic:inspections (76,29)
+  3 Dec 1916 30
+  4 Dec 1916 38
+    person:Sergeant Russ (other) (27,38)
+    person:Lance Corporal Price (other) (23,45)
+  5 Dec 1916 46
+    domestic:hygiene (34,52)
+    domestic:hygiene (37,52)
+  6 Dec 1916 53
+  7 Dec 1916 62
+  8 Dec 1916 66
+  9 Dec 1916 70
+    domestic:inspections (46,77)
+  10 Dec 1916 78
+    person:Lance Corporal Price (other) (22,85)
+Page 186 (type diary) http://wd3.herokuapp.com/pages/AWD00030qb  ----------
+  11 Dec 1916 23
+    person:Driver F Brown (discipline) (24,30)
+  12 Dec 1916 31
+  13 Dec 1916 39
+    person:Sergeant Russ (other) (21,46)
+    person:Driver F Brown (discipline) (49,46)
+    person:Driver F Brown (discipline) (32,46)
+  14 Dec 1916 47
+  15 Dec 1916 52
+  16 Dec 1916 57
+    domestic:inspections (41,60)
+  17 Dec 1916 61
+  18 Dec 1916 69
+    person:Driver F Brown (46,73)
+    person:Driver F Brown (departed_sick) (29,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,74)
+  19 Dec 1916 75
+    person:Private W Bailey (departed_leave) (77,79)
+    domestic:hygiene (33,80)
+  20 Dec 1916 82
+    person:Sergeant Russ (other) (53,88)
+    person:Driver F Brown (departed_sick) (84,89)
+    person:Driver F Brown (departed_sick) (68,89)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,92)
+Page 187 (type diary) http://wd3.herokuapp.com/pages/AWD00030vi  ----------
+  21 Dec 1916 19
+Page 188 (type ) http://wd3.herokuapp.com/pages/AWD00030pp  ----------
+Page 189 (type diary) http://wd3.herokuapp.com/pages/AWD00030ur  ----------
+  1 Jan 1917 16
+  2 Jan 1917 23
+  3 Jan 1917 28
+  4 Jan 1917 32
+    person:Driver J Cranny (departed_leave) (45,34)
+    domestic:inspections (71,37)
+  6 Jan 1917 41
+  7 Jan 1917 47
+    person:Captain J J Plunkett (departed_leave) (60,51)
+  9 Jan 1917 57
+  10 Jan 1917 61
+    domestic:inspections (40,66)
+  11 Jan 1917 67
+  13 Jan 1917 77
+    domestic:inspections (78,77)
+  14 Jan 1917 82
+Page 190 (type ) http://wd3.herokuapp.com/pages/AWD00030rb  ----------
+  15 Jan 1917 19
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (79,33)
+Page 191 (type diary) http://wd3.herokuapp.com/pages/AWD00030v5  ----------
+  27 Jan 1917 19
+Page 192 (type cover)
+Page 193 (type ) http://wd3.herokuapp.com/pages/AWD00030xk  ----------
+  1 Feb 1917 23
+Page 194 (type ) http://wd3.herokuapp.com/pages/AWD00030wv  ----------
+  12 Feb 1917 0
+Page 195 (type ) http://wd3.herokuapp.com/pages/AWD00030s0  ----------
+  12 Feb 1917 0
+Page 196 (type cover)
+Page 197 (type other) http://wd3.herokuapp.com/pages/AWD00030x1  ----------
+  12 Feb 1917 0
+Page 198 (type ) http://wd3.herokuapp.com/pages/AWD00030ul  ----------
+  12 Feb 1917 0
+Page 199 (type diary) http://wd3.herokuapp.com/pages/AWD00030xn  ----------
+  19 Mar 1917 22
+  22 Mar 1917 42
+    domestic:hygiene (40,45)
+  28 Mar 1917 77
+Page 200 (type ) http://wd3.herokuapp.com/pages/AWD00030q0  ----------
+  28 Mar 1917 0
+Page 201 (type cover)
+Page 202 (type diary) http://wd3.herokuapp.com/pages/AWD00030wj  ----------
+  1 Apr 1917 21
+  2 Apr 1917 28
+  3 Apr 1917 40
+    person:Private F Tucker (discipline) (82,43)
+  4 Apr 1917 56
+    person:Corporal Kelly (other) (23,70)
+  5 Apr 1917 71
+    activity:movement (47,75)
+    place:Royon (6,78)
+  6 Apr 1917 83
+    domestic:inspections (75,86)
+Page 203 (type other) http://wd3.herokuapp.com/pages/AWD00030q7  ----------
+  6 Apr 1917 23
+    unit:No 39 mvs (28,45)
+Page 204 (type diary) http://wd3.herokuapp.com/pages/AWD00030xg  ----------
+  11 Apr 1917 23
+  16 Apr 1917 85
+Page 205 (type diary) http://wd3.herokuapp.com/pages/AWD00030sq  ----------
+  17 Apr 1917 23
+  18 Apr 1917 30
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (73,37)
+    person:Lance Corporal Price (other) (61,41)
+  19 Apr 1917 47
+  20 Apr 1917 58
+  21 Apr 1917 73
+    domestic:inspections (30,79)
+Page 206 (type diary) http://wd3.herokuapp.com/pages/AWD00030vt  ----------
+  22 Apr 1917 20
+  23 Apr 1917 33
+    person:Driver J Bullard (joined) (22,48)
+    person:Driver W Dowell (joined) (61,48)
+  24 Apr 1917 56
+    domestic:inspections (74,71)
+    person:Sergeant W Russ (discipline) (68,75)
+    person:Lance Corporal Price (other) (42,83)
+Page 207 (type diary) http://wd3.herokuapp.com/pages/AWD00030ux  ----------
+  25 Apr 1917 20
+    domestic:inspections (80,28)
+  26 Apr 1917 32
+    person:Sergeant W Russ (discipline) (41,36)
+  27 Apr 1917 40
+  28 Apr 1917 53
+  29 Apr 1917 60
+  30 Apr 1917 65
+    person:Captain J J Plunkett (89,76)
+Page 208 (type ) http://wd3.herokuapp.com/pages/AWD00030s5  ----------
+Page 209 (type diary) http://wd3.herokuapp.com/pages/AWD00030qj  ----------
+  1 May 1917 26
+  2 May 1917 29
+  3 May 1917 34
+    domestic:hygiene (31,37)
+  6 May 1917 50
+    activity:movement (30,53)
+    person:Sergeant Turton (joined) (27,83)
+    person:Sergeant W Russ (departed_posted) (31,87)
+Page 210 (type diary) http://wd3.herokuapp.com/pages/AWD00030se  ----------
+  6 May 1917 0
+  8 May 1917 25
+    person:Private Macqueen (33,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,29)
+  9 May 1917 30
+  11 May 1917 38
+    domestic:hygiene (31,41)
+  14 May 1917 49
+    activity:movement (30,52)
+  15 May 1917 54
+    activity:movement (30,56)
+    place:Auchel (45,56)
+  16 May 1917 57
+  19 May 1917 69
+    person:Private Johnson (returned_leave) (60,72)
+  20 May 1917 73
+    domestic:medical (51,76)
+  23 May 1917 85
+Page 211 (type diary) http://wd3.herokuapp.com/pages/AWD00030pe  ----------
+  23 May 1917 25
+  24 May 1917 38
+    domestic:inspections (34,41)
+  25 May 1917 46
+  26 May 1917 53
+  27 May 1917 57
+    domestic:inspections (37,60)
+  29 May 1917 65
+    person:Captain J J Plunkett (returned_leave) (69,65)
+  30 May 1917 73
+  31 May 1917 77
+    domestic:inspections (78,77)
+Page 212 (type other) http://wd3.herokuapp.com/pages/AWD00030w9  ----------
+Page 213 (type diary) http://wd3.herokuapp.com/pages/AWD00030wi  ----------
+  1 Jun 1917 25
+Page 214 (type diary) http://wd3.herokuapp.com/pages/AWD00030rn  ----------
+  13 Jun 1917 25
+    domestic:inspections (37,28)
+  14 Jun 1917 30
+    person:Corporal Kelly (other) (30,33)
+  15 Jun 1917 34
+  16 Jun 1917 37
+    domestic:inspections (75,37)
+    person:Corporal Philp (other) (30,37)
+    person:Captain J J Plunkett (91,40)
+  17 Jun 1917 41
+  18 Jun 1917 45
+    domestic:inspections (36,48)
+    domestic:inspections (81,48)
+  19 Jun 1917 49
+    person:Private Clump (discipline) (31,52)
+  20 Jun 1917 53
+    place:Neufchatel (63,53)
+  21 Jun 1917 58
+    person:Sergeant O'Neill (departed_training) (77,61)
+  23 Jun 1917 68
+  24 Jun 1917 74
+    domestic:religion (30,76)
+  26 Jun 1917 80
+  27 Jun 1917 85
+Page 215 (type diary) http://wd3.herokuapp.com/pages/AWD00030w5  ----------
+  28 Jun 1917 25
+  29 Jun 1917 30
+    activity:movement (29,33)
+    place:Bethune (5,34)
+  30 Jun 1917 35
+    person:Captain J J Plunkett (83,61)
+Page 216 (type cover)
+Page 217 (type diary) http://wd3.herokuapp.com/pages/AWD00030tb  ----------
+  1 Jul 1917 23
+  2 Jul 1917 33
+    domestic:inspections (42,33)
+    person:Sergeant W Brown (joined) (55,36)
+  3 Jul 1917 41
+    domestic:inspections (38,44)
+    place:Bethune (6,49)
+  4 Jul 1917 57
+  5 Jul 1917 64
+    domestic:hygiene (34,71)
+  6 Jul 1917 73
+    unit:2 Battalion Worcester Regiment (54,79)
+    domestic:inspections (24,83)
+    person:Captain Plunkett (72,89)
+Page 218 (type diary) http://wd3.herokuapp.com/pages/AWD00030tc  ----------
+  6 Jul 1917 0
+Page 219 (type diary) http://wd3.herokuapp.com/pages/AWD00030vq  ----------
+  15 Jul 1917 23
+    place:Bethune (6,30)
+  16 Jul 1917 34
+    activity:movement (36,37)
+    person:Private Rudland (departed_leave) (39,40)
+  17 Jul 1917 41
+  18 Jul 1917 45
+  19 Jul 1917 49
+    person:Private Gilroy (departed_leave) (40,52)
+  20 Jul 1917 53
+    person:Captain J J Plunkett (90,55)
+  21 Jul 1917 60
+  22 Jul 1917 65
+    domestic:religion (41,68)
+  23 Jul 1917 69
+    domestic:inspections (37,72)
+    person:Corporal Kelly (departed_leave) (64,72)
+  24 Jul 1917 77
+Page 220 (type diary) http://wd3.herokuapp.com/pages/AWD00030t0  ----------
+  25 Jul 1917 25
+    place:Le Grand Pacquat (5,29)
+  26 Jul 1917 38
+  27 Jul 1917 50
+    domestic:parades (51,53)
+    person:Private Jessop (departed_leave) (75,54)
+  28 Jul 1917 58
+    domestic:inspections (44,61)
+  29 Jul 1917 67
+    activity:movement (22,70)
+    place:Herzeele (24,72)
+    person:Corporal Philp (departed_sick) (42,74)
+  30 Jul 1917 78
+    place:Dickebusch (74,82)
+Page 221 (type diary) http://wd3.herokuapp.com/pages/AWD00030rk  ----------
+  31 Jul 1917 22
+    place:Abeele (56,29)
+    place:Dickebusch (7,29)
+    activity:movement (21,29)
+    domestic:accomodation (29,32)
+    person:Captain J J Plunkett (author) (42,51)
+Page 222 (type cover)
+Page 223 (type diary) http://wd3.herokuapp.com/pages/AWD00030x7  ----------
+  1 Aug 1917 22
+    place:Herzeele (5,29)
+    activity:movement (23,29)
+  2 Aug 1917 36
+    place:Dickebusch (6,41)
+    weather:rain (63,41)
+  3 Aug 1917 44
+    activity:movement (21,48)
+    place:Watten (58,53)
+  4 Aug 1917 60
+    place:Recques (6,64)
+    weather:rain (62,64)
+  5 Aug 1917 68
+    activity:movement (22,74)
+  6 Aug 1917 75
+    place:Polincove (5,80)
+  7 Aug 1917 83
+Page 224 (type diary) http://wd3.herokuapp.com/pages/AWD00030s4  ----------
+  7 Aug 1917 0
+Page 225 (type diary) http://wd3.herokuapp.com/pages/AWD00030qf  ----------
+  16 Aug 1917 23
+  17 Aug 1917 29
+    place:Polincove (5,33)
+  18 Aug 1917 37
+    activity:movement (39,41)
+    person:Captain J J Plunkett (89,42)
+  19 Aug 1917 48
+    place:Samer (5,52)
+  20 Aug 1917 56
+    domestic:inspections (35,59)
+  21 Aug 1917 64
+  22 Aug 1917 68
+    person:Private Turner (joined) (37,68)
+  23 Aug 1917 76
+    domestic:inspections (35,79)
+  24 Aug 1917 80
+Page 226 (type diary) http://wd3.herokuapp.com/pages/AWD00030s7  ----------
+  24 Aug 1917 0
+Page 227 (type diary) http://wd3.herokuapp.com/pages/AWD00030uc  ----------
+Page 228 (type diary) http://wd3.herokuapp.com/pages/AWD00030r8  ----------
+  1 Sep 1917 25
+    place:Isques (5,30)
+    place:Isques (7,56)
+  4 Sep 1917 65
+    person:Private Everest (returned_hospital) (45,68)
+  6 Sep 1917 85
+Page 229 (type diary) http://wd3.herokuapp.com/pages/AWD00030si  ----------
+  7 Sep 1917 23
+    place:Isques (7,26)
+    domestic:inspections (63,27)
+  8 Sep 1917 28
+    place:Isques (4,31)
+  9 Sep 1917 32
+  10 Sep 1917 36
+    person:Private Clamp (discipline) (44,43)
+  11 Sep 1917 44
+    person:Driver Cranny (discipline) (63,44)
+    domestic:inspections (53,47)
+  12 Sep 1917 48
+    place:Isques (5,52)
+  13 Sep 1917 55
+  14 Sep 1917 60
+  15 Sep 1917 64
+  16 Sep 1917 71
+    domestic:religion (43,75)
+  17 Sep 1917 83
+Page 230 (type diary) http://wd3.herokuapp.com/pages/AWD00030p9  ----------
+  18 Sep 1917 22
+  19 Sep 1917 28
+    person:Sergeant O'Neill (departed_leave) (63,43)
+  20 Sep 1917 44
+    person:Captain J J Plunkett (89,56)
+  21 Sep 1917 60
+  22 Sep 1917 64
+  23 Sep 1917 68
+  24 Sep 1917 72
+    person:Corporal Philp (departed_leave) (45,87)
+    person:Private Macqueen (departed_leave) (75,87)
+Page 231 (type diary) http://wd3.herokuapp.com/pages/AWD00030wh  ----------
+  25 Sep 1917 25
+    place:Isques (5,29)
+  27 Sep 1917 48
+    person:Private Price (departed_leave) (43,55)
+  28 Sep 1917 57
+    person:Private Tucker (departed_leave) (70,64)
+  30 Sep 1917 75
+Page 232 (type cover)
+Page 233 (type diary) http://wd3.herokuapp.com/pages/AWD00030ui  ----------
+  1 Oct 1917 24
+Page 234 (type diary) http://wd3.herokuapp.com/pages/AWD00030rh  ----------
+  8 Oct 1917 23
+  9 Oct 1917 30
+  10 Oct 1917 54
+Page 235 (type diary) http://wd3.herokuapp.com/pages/AWD00030ql  ----------
+  10 Oct 1917 0
+Page 236 (type diary) http://wd3.herokuapp.com/pages/AWD00030x4  ----------
+  18 Oct 1917 21
+    place:Isques (5,27)
+  19 Oct 1917 39
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (54,40)
+    person:Captain J J Plunkett (departed_leave) (44,43)
+  20 Oct 1917 51
+    place:Isques (8,57)
+  21 Oct 1917 67
+    domestic:inspections (39,70)
+  22 Oct 1917 71
+  23 Oct 1917 79
+    person:Driver Bullard (departed_leave) (25,86)
+Page 237 (type diary) http://wd3.herokuapp.com/pages/AWD00030vm  ----------
+  24 Oct 1917 22
+    place:Isques (5,29)
+  25 Oct 1917 36
+    person:Private Macqueen (returned_leave) (46,40)
+  26 Oct 1917 44
+    person:Sergeant O'Neill (returned_hospital) (49,44)
+  27 Oct 1917 48
+    place:Isques (7,48)
+    domestic:inspections (43,51)
+  28 Oct 1917 52
+  29 Oct 1917 60
+  30 Oct 1917 68
+    domestic:inspections (26,78)
+  31 Oct 1917 79
+    domestic:inspections (50,83)
+Page 238 (type cover)
+Page 239 (type diary) http://wd3.herokuapp.com/pages/AWD00030sl  ----------
+  1 Nov 1917 24
+    activity:other (23,28)
+    place:Isques (6,30)
+  3 Nov 1917 40
+  4 Nov 1917 45
+  5 Nov 1917 49
+    domestic:parades (47,51)
+    activity:training (27,52)
+    domestic:inspections (24,55)
+  6 Nov 1917 56
+    place:Isques (7,60)
+  7 Nov 1917 64
+    person:Private Bradbrook (departed_leave) (49,78)
+  8 Nov 1917 80
+Page 240 (type diary) http://wd3.herokuapp.com/pages/AWD00030rd  ----------
+  9 Nov 1917 22
+    activity:movement (16,57)
+  16 Nov 1917 89
+Page 241 (type diary) http://wd3.herokuapp.com/pages/AWD00030u8  ----------
+  17 Nov 1917 25
+    activity:other (27,29)
+    place:Buire (5,30)
+  18 Nov 1917 33
+    domestic:religion (38,36)
+  19 Nov 1917 39
+    activity:movement (74,65)
+  20 Nov 1917 70
+    activity:movement (24,73)
+    place:Fins (5,73)
+Page 242 (type diary) http://wd3.herokuapp.com/pages/AWD00030rs  ----------
+  21 Nov 1917 22
+    place:Metz (4,29)
+  22 Nov 1917 40
+    unit:No 1 mvs (48,51)
+    unit:No 10 mvs (61,75)
+Page 243 (type diary) http://wd3.herokuapp.com/pages/AWD00030va  ----------
+  22 Nov 1917 22
+    place:Metz (5,27)
+  23 Nov 1917 36
+  26 Nov 1917 76
+    activity:movement (22,78)
+  27 Nov 1917 83
+    place:Suzanne (5,88)
+Page 244 (type diary) http://wd3.herokuapp.com/pages/AWD00030xa  ----------
+  28 Nov 1917 24
+    place:Suzanne (5,28)
+  29 Nov 1917 29
+    activity:other (25,30)
+  30 Nov 1917 34
+    activity:movement (73,39)
+    person:Captain J J Plunkett (76,71)
+Page 245 (type cover)
+Page 246 (type ) http://wd3.herokuapp.com/pages/AWD00030t4  ----------
+  30 Nov 1917 0
+Page 247 (type diary) http://wd3.herokuapp.com/pages/AWD00030w3  ----------
+  10 Dec 1917 22
+    place:Suzanne (6,28)
+  11 Dec 1917 31
+  12 Dec 1917 36
+    activity:movement (24,39)
+    place:Suzanne (5,39)
+  13 Dec 1917 40
+  14 Dec 1917 44
+    person:Driver I Simpson (departed_posted) (29,51)
+  15 Dec 1917 55
+    unit:2 Queens West Surrey Regiment (22,55)
+    place:Suzanne (11,58)
+  16 Dec 1917 60
+  17 Dec 1917 68
+  18 Dec 1917 84
+Page 248 (type diary) http://wd3.herokuapp.com/pages/AWD00030sa  ----------
+  19 Dec 1917 22
+    place:Suzanne (5,29)
+  20 Dec 1917 37
+    domestic:inspections (35,40)
+  21 Dec 1917 41
+  22 Dec 1917 45
+    activity:movement (22,48)
+  23 Dec 1917 52
+    place:Buire (6,55)
+  24 Dec 1917 56
+    activity:construction (26,66)
+  25 Dec 1917 68
+    place:Buire (9,75)
+  27 Dec 1917 80
+    activity:construction (32,83)
+  28 Dec 1917 85
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (65,88)
+Page 249 (type diary) http://wd3.herokuapp.com/pages/AWD00030xm  ----------
+  29 Dec 1917 22
+    activity:other (28,27)
+  30 Dec 1917 28
+    place:Buire (6,28)
+  31 Dec 1917 41
+Page 250 (type cover)
+Page 251 (type diary) http://wd3.herokuapp.com/pages/AWD00030s9  ----------
+  1 Jan 1918 22
+    place:Buire (5,26)
+    activity:construction (31,28)
+  2 Jan 1918 29
+  3 Jan 1918 38
+  4 Jan 1918 41
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,41)
+    person:Private Tucker (40,41)
+  5 Jan 1918 53
+  6 Jan 1918 57
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,60)
+    person:Corporal Price (41,60)
+  7 Jan 1918 64
+    activity:construction (34,68)
+  8 Jan 1918 72
+    activity:construction (30,75)
+  9 Jan 1918 76
+    activity:construction (34,79)
+  10 Jan 1918 80
+    person:Corporal Stewart (joined) (36,84)
+  11 Jan 1918 85
+Page 252 (type diary) http://wd3.herokuapp.com/pages/AWD00030r6  ----------
+  12 Jan 1918 24
+    place:Buire (6,33)
+  14 Jan 1918 35
+  16 Jan 1918 54
+    person:Corporal Price (departed_posted) (34,57)
+  17 Jan 1918 62
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (62,66)
+  19 Jan 1918 82
+Page 253 (type diary) http://wd3.herokuapp.com/pages/AWD00030u6  ----------
+  20 Jan 1918 20
+  21 Jan 1918 26
+    place:Buire (6,27)
+  22 Jan 1918 30
+  24 Jan 1918 49
+  25 Jan 1918 53
+    activity:construction (34,53)
+    place:Buire (6,56)
+  26 Jan 1918 57
+  27 Jan 1918 61
+  29 Jan 1918 69
+    person:Corporal Kelly (departed_sick) (63,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (79,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (70,70)
+  30 Jan 1918 73
+  31 Jan 1918 76
+    person:Sergeant Laveny (departed_sick) (75,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,83)
+Page 254 (type ) http://wd3.herokuapp.com/pages/AWD00030u5  ----------
+Page 255 (type diary) http://wd3.herokuapp.com/pages/AWD00030vy  ----------
+  1 Feb 1918 24
+    place:Buire (5,28)
+  2 Feb 1918 29
+    person:Orchin (promotion) (30,32)
+    person:Corporal Kelly (casualty_non) (60,32)
+  6 Feb 1918 49
+    person:Private Bailey (departed_leave) (29,51)
+    place:Buire (7,51)
+  11 Feb 1918 68
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,71)
+    person:Corporal Orchin (departed_training) (32,75)
+  13 Feb 1918 76
+    person:Sergeant Brown (departed_leave) (29,79)
+  15 Feb 1918 85
+Page 256 (type diary) http://wd3.herokuapp.com/pages/AWD00030s6  ----------
+  16 Feb 1918 23
+  17 Feb 1918 28
+  21 Feb 1918 45
+    person:Sergeant Elwell (joined) (29,47)
+  23 Feb 1918 53
+    person:Private Bailey (returned_leave) (30,55)
+    person:Captain J J Plunkett (author) (87,57)
+  24 Feb 1918 61
+    person:Private Bradbrook (departed_training) (31,64)
+  25 Feb 1918 65
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (82,67)
+  27 Feb 1918 72
+    person:Private Bullock (returned_hospital) (32,74)
+  28 Feb 1918 75
+Page 257 (type cover)
+Page 258 (type diary) http://wd3.herokuapp.com/pages/AWD00030t2  ----------
+  1 Mar 1918 21
+Page 259 (type diary) http://wd3.herokuapp.com/pages/AWD00030sc  ----------
+  10 Mar 1918 0
+    activity:movement (22,48)
+Page 260 (type diary) http://wd3.herokuapp.com/pages/AWD00030uy  ----------
+  21 Mar 1918 24
+    activity:fire (55,29)
+    activity:movement (67,29)
+  22 Mar 1918 45
+    activity:movement (51,57)
+    activity:movement (32,68)
+    place:Chaulnes (15,70)
+  23 Mar 1918 77
+    activity:movement (31,83)
+    place:Clurcq (41,84)
+Page 261 (type diary) http://wd3.herokuapp.com/pages/AWD00030xj  ----------
+  23 Mar 1918 23
+  24 Mar 1918 42
+    activity:movement (20,45)
+    place:Vauvillers (55,52)
+  25 Mar 1918 77
+    activity:movement (21,80)
+  26 Mar 1918 85
+    activity:movement (64,88)
+Page 262 (type diary) http://wd3.herokuapp.com/pages/AWD00030uv  ----------
+  26 Mar 1918 24
+    activity:movement (61,33)
+  27 Mar 1918 50
+    activity:movement (24,57)
+  28 Mar 1918 69
+  29 Mar 1918 74
+Page 263 (type diary) http://wd3.herokuapp.com/pages/AWD00030v7  ----------
+  29 Mar 1918 21
+  30 Mar 1918 30
+    activity:movement (42,44)
+  31 Mar 1918 58
+    weather:rain (74,76)
+Page 264 (type cover)
+Page 265 (type diary) http://wd3.herokuapp.com/pages/AWD00030td  ----------
+  1 Apr 1918 23
+  2 Apr 1918 29
+  3 Apr 1918 37
+  4 Apr 1918 41
+    activity:movement (72,44)
+  5 Apr 1918 49
+    place:Amiens (6,54)
+  6 Apr 1918 60
+  8 Apr 1918 71
+    weather:fine (24,71)
+  9 Apr 1918 75
+  10 Apr 1918 80
+    place:Amiens (7,80)
+    place:Poulainville (75,87)
+    activity:movement (67,88)
+Page 266 (type diary) http://wd3.herokuapp.com/pages/AWD00030s8  ----------
+  10 Apr 1918 0
+Page 267 (type diary) http://wd3.herokuapp.com/pages/AWD00030sk  ----------
+  10 Apr 1918 0
+  26 Apr 1918 89
+Page 268 (type diary) http://wd3.herokuapp.com/pages/AWD00030th  ----------
+  27 Apr 1918 24
+  28 Apr 1918 30
+    person:Private Turner (34,33)
+  29 Apr 1918 38
+  30 Apr 1918 46
+    weather:rain (29,49)
+Page 269 (type cover)
+Page 270 (type diary) http://wd3.herokuapp.com/pages/AWD00030q3  ----------
+  1 May 1918 24
+  7 May 1918 50
+  13 May 1918 75
+Page 271 (type ) http://wd3.herokuapp.com/pages/AWD00030um  ----------
+  14 May 1918 22
+Page 272 (type diary) http://wd3.herokuapp.com/pages/AWD00030wc  ----------
+  28 May 1918 24
+    person:Private Harding (departed_leave) (32,27)
+  29 May 1918 29
+  30 May 1918 32
+    activity:other (26,32)
+  31 May 1918 38
+    person:Captain J J Plunkett (70,47)
+Page 273 (type diary) http://wd3.herokuapp.com/pages/AWD00030ve  ----------
+Page 274 (type ) http://wd3.herokuapp.com/pages/AWD00030rr  ----------
+  1 Jun 1918 23
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (52,37)
+Page 275 (type diary) http://wd3.herokuapp.com/pages/AWD00030uw  ----------
+  17 Jun 1918 25
+  30 Jun 1918 78
+    person:Captain J J Plunkett (author) (62,88)
+Page 276 (type cover)
+Page 277 (type diary) http://wd3.herokuapp.com/pages/AWD00030pr  ----------
+  2 Jul 1918 24
+    domestic:inspections (45,25)
+  3 Jul 1918 27
+  4 Jul 1918 28
+  5 Jul 1918 31
+  6 Jul 1918 34
+  7 Jul 1918 36
+  8 Jul 1918 39
+  9 Jul 1918 40
+  10 Jul 1918 43
+  11 Jul 1918 45
+  12 Jul 1918 47
+  13 Jul 1918 50
+  14 Jul 1918 53
+    activity:movement (46,55)
+    place:Authieule (9,58)
+  15 Jul 1918 59
+  16 Jul 1918 63
+    activity:movement (56,65)
+    weather:rain (34,66)
+    place:Amplier (7,67)
+  17 Jul 1918 68
+  18 Jul 1918 74
+  19 Jul 1918 77
+  20 Jul 1918 79
+  21 Jul 1918 81
+  22 Jul 1918 84
+    person:Captain J J Plunkett (71,93)
+Page 278 (type diary) http://wd3.herokuapp.com/pages/AWD00030up  ----------
+  24 Jul 1918 24
+    place:Amplier (7,24)
+  26 Jul 1918 30
+    activity:other (26,30)
+    weather:rain (47,31)
+  27 Jul 1918 34
+  28 Jul 1918 36
+  29 Jul 1918 38
+  30 Jul 1918 41
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (70,41)
+  31 Jul 1918 45
+    place:Amplier (8,46)
+    person:Captain J J Plunkett (69,89)
+Page 279 (type ) http://wd3.herokuapp.com/pages/AWD00030wq  ----------
+Page 280 (type diary) http://wd3.herokuapp.com/pages/AWD00030vs  ----------
+  2 Aug 1918 23
+  3 Aug 1918 25
+  4 Aug 1918 27
+  5 Aug 1918 32
+    activity:movement (37,37)
+  6 Aug 1918 38
+    place:Montrelet (57,38)
+  7 Aug 1918 41
+    activity:movement (34,42)
+    place:Argoevres (43,42)
+  8 Aug 1918 47
+    activity:movement (40,49)
+    activity:movement (44,51)
+    place:Boves (53,51)
+  9 Aug 1918 58
+  10 Aug 1918 68
+  11 Aug 1918 78
+  12 Aug 1918 84
+Page 281 (type diary) http://wd3.herokuapp.com/pages/AWD00030uf  ----------
+  13 Aug 1918 21
+    activity:movement (24,25)
+  16 Aug 1918 36
+  19 Aug 1918 42
+  21 Aug 1918 47
+  22 Aug 1918 58
+  23 Aug 1918 61
+  26 Aug 1918 81
+Page 282 (type diary) http://wd3.herokuapp.com/pages/AWD00030pc  ----------
+  27 Aug 1918 20
+  28 Aug 1918 28
+  30 Aug 1918 35
+  31 Aug 1918 40
+    person:Captain J J Plunkett (73,80)
+Page 283 (type cover)
+Page 284 (type diary) http://wd3.herokuapp.com/pages/AWD00030s1  ----------
+  2 Sep 1918 24
+  3 Sep 1918 27
+  4 Sep 1918 32
+    activity:movement (24,35)
+  5 Sep 1918 36
+    activity:movement (71,36)
+  6 Sep 1918 39
+    activity:movement (69,39)
+    place:Nuncq (65,42)
+  8 Sep 1918 45
+  10 Sep 1918 51
+  11 Sep 1918 54
+    person:Private Gilroy (departed_leave) (50,55)
+  12 Sep 1918 56
+  14 Sep 1918 61
+  16 Sep 1918 64
+  17 Sep 1918 68
+  18 Sep 1918 72
+    activity:movement (30,74)
+  19 Sep 1918 75
+  20 Sep 1918 79
+  21 Sep 1918 81
+    activity:movement (26,82)
+    place:Gueschart (35,82)
+    person:Captain J J Plunkett (returned_leave) (47,83)
+  24 Sep 1918 86
+    activity:movement (68,89)
+Page 285 (type diary) http://wd3.herokuapp.com/pages/AWD00030xf  ----------
+  25 Sep 1918 21
+    place:Martinsart (80,24)
+  26 Sep 1918 25
+    activity:movement (56,25)
+  27 Sep 1918 29
+  28 Sep 1918 30
+  29 Sep 1918 34
+    activity:movement (75,36)
+    place:Boucly (23,38)
+  30 Sep 1918 39
+    person:Captain J J Plunkett (61,73)
+Page 286 (type ) http://wd3.herokuapp.com/pages/AWD00030rt  ----------
+Page 287 (type ) http://wd3.herokuapp.com/pages/AWD00030qo  ----------
+  1 Oct 1918 20
+    unit:No 39 mvs (71,43)
+Page 288 (type diary) http://wd3.herokuapp.com/pages/AWD00030r7  ----------
+  23 Oct 1918 24
+  24 Oct 1918 26
+  25 Oct 1918 28
+    person:Captain J J Plunkett (other) (32,29)
+  26 Oct 1918 31
+    place:Esnes (50,32)
+  27 Oct 1918 33
+    place:Cambrai (44,34)
+  28 Oct 1918 36
+    domestic:inspections (62,36)
+  29 Oct 1918 38
+  30 Oct 1918 40
+    place:Cambrai (50,41)
+  31 Oct 1918 43
+    place:Cambrai (56,45)
+    person:Captain J J Plunkett (60,69)
+Page 289 (type cover)
+Page 290 (type diary) http://wd3.herokuapp.com/pages/AWD00030vo  ----------
+  2 Nov 1918 23
+  4 Nov 1918 26
+  5 Nov 1918 28
+  7 Nov 1918 31
+  8 Nov 1918 33
+    place:Aubencheul (42,33)
+    activity:movement (23,34)
+  9 Nov 1918 35
+    activity:movement (26,35)
+    place:Capelle (39,36)
+  10 Nov 1918 37
+  11 Nov 1918 38
+    activity:movement (27,38)
+    activity:movement (23,39)
+    unit:A2 Echelon (52,40)
+    unit:A2 echelon of Brigade (52,40)
+    activity:movement (24,41)
+  12 Nov 1918 42
+  13 Nov 1918 44
+  14 Nov 1918 45
+    place:Peruwelz (39,46)
+    activity:movement (24,46)
+  16 Nov 1918 48
+  17 Nov 1918 50
+  18 Nov 1918 53
+    activity:movement (69,53)
+  19 Nov 1918 54
+    place:Strepy (24,54)
+    activity:movement (22,55)
+  21 Nov 1918 59
+  22 Nov 1918 61
+  23 Nov 1918 62
+    place:Sombreffe (52,62)
+    activity:movement (25,62)
+    activity:movement (23,63)
+  24 Nov 1918 64
+  25 Nov 1918 65
+    activity:movement (43,66)
+  26 Nov 1918 67
+    place:Marchin (54,67)
+  27 Nov 1918 68
+  28 Nov 1918 70
+    activity:movement (24,70)
+    person:Captain J J Plunkett (89,71)
+    place:Xhoris (31,71)
+  29 Nov 1918 72
+  30 Nov 1918 73
+    place:Wanne (42,74)
+    activity:movement (23,74)
+Page 291 (type cover)
+Page 292 (type diary) http://wd3.herokuapp.com/pages/AWD00030x8  ----------
+  1 Dec 1918 20
+    activity:movement (64,27)
+  4 Dec 1918 33
+  5 Dec 1918 35
+    activity:movement (23,37)
+  6 Dec 1918 38
+    activity:movement (20,40)
+  8 Dec 1918 43
+    activity:movement (24,45)
+  12 Dec 1918 53
+  13 Dec 1918 55
+    activity:movement (23,56)
+    activity:movement (25,58)
+  16 Dec 1918 61
+  17 Dec 1918 63
+    person:Captain J J Plunkett (author) (78,63)
+    activity:movement (23,64)
+    activity:movement (25,65)
+  31 Dec 1918 92
+    domestic:inspections (57,93)
+Page 293 (type cover)
+Page 294 (type diary) http://wd3.herokuapp.com/pages/AWD00030tw  ----------
+  2 Jan 1919 23
+  3 Jan 1919 24
+  4 Jan 1919 26
+  5 Jan 1919 27
+  8 Jan 1919 30
+  9 Jan 1919 32
+  10 Jan 1919 33
+  12 Jan 1919 36
+  14 Jan 1919 39
+  15 Jan 1919 41
+  16 Jan 1919 42
+  17 Jan 1919 44
+  18 Jan 1919 46
+  20 Jan 1919 49
+  21 Jan 1919 52
+  23 Jan 1919 54
+  24 Jan 1919 56
+  26 Jan 1919 59
+  27 Jan 1919 61
+  28 Jan 1919 63
+  30 Jan 1919 65
+  31 Jan 1919 67
+    person:Captain J J Plunkett (commander) (78,81)
+Page 295 (type diary) http://wd3.herokuapp.com/pages/AWD00030wu  ----------
+Page 296 (type diary) http://wd3.herokuapp.com/pages/AWD00030wr  ----------
+  2 Feb 1919 23
+  3 Feb 1919 24
+    place:Zieverich (7,24)
+  5 Feb 1919 27
+  6 Feb 1919 29
+  7 Feb 1919 31
+  8 Feb 1919 32
+  9 Feb 1919 34
+  10 Feb 1919 35
+  11 Feb 1919 37
+  12 Feb 1919 39
+    unit:Xi Hussars (49,41)
+  13 Feb 1919 42
+  14 Feb 1919 43
+    unit:Escort Squadron 9 Lancers (54,44)
+  15 Feb 1919 46
+  16 Feb 1919 48
+  17 Feb 1919 49
+    domestic:inspections (25,49)
+  18 Feb 1919 51
+  20 Feb 1919 54
+  21 Feb 1919 56
+  22 Feb 1919 58
+    person:Corporal Macqueen (resigned) (33,58)
+  23 Feb 1919 59
+  24 Feb 1919 61
+  26 Feb 1919 64
+  27 Feb 1919 67
+  28 Feb 1919 68
+    person:Captain J J Plunkett (commander) (71,84)
+Page 297 (type diary) http://wd3.herokuapp.com/pages/AWD00030q9  ----------
+  2 Mar 1919 23
+  3 Mar 1919 25
+    place:Zieverich (7,25)
+  4 Mar 1919 28
+  5 Mar 1919 29
+  6 Mar 1919 31
+  9 Mar 1919 36
+  16 Mar 1919 48
+  20 Mar 1919 55
+    place:Zieverich (7,58)
+  24 Mar 1919 63
+  27 Mar 1919 69
+  31 Mar 1919 77
+    person:Captain Kelly (commander) (64,82)
+Page 298 (type cover)
+Page 299 (type diary) http://wd3.herokuapp.com/pages/AWD00030ug  ----------
+  1 Apr 1919 21
+    place:Zieverich (6,24)
+    place:Zieverich (8,51)
+  30 Apr 1919 69
+    person:Captain J J Plunkett (69,84)
+Page 300 (type cover)
+Page 301 (type diary) http://wd3.herokuapp.com/pages/AWD00030tk  ----------
+  1 May 1919 20
+    place:Zieverich (7,26)
+  11 May 1919 38
+  12 May 1919 40
+    person:Captain Ryan (commander) (61,40)
+  13 May 1919 42
+  14 May 1919 43
+    person:Captain Ryan (commander) (45,44)
+  15 May 1919 45
+    person:Captain Plunkett (resigned) (34,47)
+  18 May 1919 49
+    place:Zieverich (8,54)
+  22 May 1919 56
+  31 May 1919 73
+Page 302 (type cover)
+Page 303 (type diary) http://wd3.herokuapp.com/pages/AWD00030w6  ----------
+  1 Jun 1919 20
+    place:Zieverich (7,23)
+    place:Zieverich (6,26)
+    place:Zieverich (8,50)
+  30 Jun 1919 76
+Page 304 (type cover)
+Page 305 (type diary) http://wd3.herokuapp.com/pages/AWD00030qs  ----------
+  3 Jul 1919 24
+  4 Jul 1919 26
+    place:Zieverich (9,26)
+  5 Jul 1919 27
+  7 Jul 1919 30
+  9 Jul 1919 33
+  11 Jul 1919 36
+  12 Jul 1919 38
+  14 Jul 1919 41
+  15 Jul 1919 43
+  16 Jul 1919 44
+    place:Zieverich (9,44)
+  18 Jul 1919 47
+  20 Jul 1919 50
+  25 Jul 1919 57
+  26 Jul 1919 59
+  28 Jul 1919 61
+  29 Jul 1919 62
+  30 Jul 1919 64
+  31 Jul 1919 66
+Page 306 (type cover)
+Page 307 (type diary) http://wd3.herokuapp.com/pages/AWD00030xu  ----------
+  1 Aug 1919 21
+    place:Zieverich (8,26)
+    place:Zieverich (6,41)
+  15 Aug 1919 48
+    domestic:inspections (41,51)
+    person:General Butler (commander) (33,51)
+  31 Aug 1919 78

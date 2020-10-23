@@ -1,0 +1,281 @@
+GWD00000p8 wo/95/1273/4
+1 DIVISION: 53 Battalion Welsh Regiment 
+19 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD0003kxf  ----------
+  22 Mar 1919 29
+    time:1130AM (19,27)
+    place:Shoreham By Sea (8,27)
+    activity:movement (29,27)
+    time:1130AM (50,28)
+    place:Dover (66,28)
+    time:0405PM (37,34)
+    time:0405PM (19,35)
+    time:0455PM (53,35)
+    place:Dover (8,35)
+  23 Mar 1919 45
+    place:Dover (42,38)
+    unit:52 Leicesters (54,43)
+    time:0100PM (18,43)
+    time:0100PM (41,43)
+    place:Dover (8,43)
+    activity:movement (31,43)
+    unit:52 Leicester Regiment (28,44)
+    place:Dunkirk (7,48)
+    domestic:accomodation (61,48)
+    time:0500PM (18,49)
+    time:0500PM (41,49)
+    place:Dunkerque (8,49)
+    activity:movement (50,49)
+    activity:movement (27,50)
+  24 Mar 1919 52
+    place:Dunkirk (7,56)
+    time:1040AM (19,57)
+    place:Dunkerque (8,57)
+    domestic:parades (25,57)
+  25 Mar 1919 62
+    domestic:parades (32,62)
+    activity:movement (38,62)
+    time:0100PM (61,64)
+    time:0145AM (18,65)
+    place:Baisieux (79,65)
+    time:0245AM (64,66)
+    place:Baisieux (55,66)
+    activity:movement (66,66)
+    time:0515PM (26,67)
+    place:Charleroi (78,67)
+    activity:movement (53,67)
+  26 Mar 1919 69
+    time:0615PM (66,69)
+    place:Huy (77,69)
+    activity:movement (25,69)
+    time:1145PM (37,70)
+    time:1045PM (82,70)
+    place:Huy (33,70)
+    time:0215PM (38,73)
+    place:Duisdorf (32,73)
+    place:Alfter (57,73)
+    place:Duisdorf (8,73)
+    activity:movement (48,74)
+    unit:2 Kings Royal Rifle Corps (31,75)
+    unit:2 krrc (28,75)
+    domestic:accomodation (83,75)
+  28 Mar 1919 80
+    place:Alfter (7,80)
+    domestic:accomodation (23,80)
+  29 Mar 1919 84
+    place:Alfter (6,84)
+    domestic:accomodation (24,84)
+    person:Brigadier General T O Marden (other) (58,87)
+    time:1000AM (18,87)
+    place:Alfter (8,87)
+  31 Mar 1919 88
+    person:Brigadier General T O Marden (other) (46,92)
+    time:1000AM (18,92)
+    place:Alfter (7,92)
+    domestic:inspections (32,92)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0003kx8  ----------
+  22 Mar 1919 24
+    time:1130AM (18,27)
+    activity:movement (27,27)
+    place:Shoreham By Sea (9,28)
+    unit:52 Leicesters (56,43)
+    unit:2 K. R. R. C. (33,76)
+Page 5 (type cover)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD0003kxl  ----------
+  1 Apr 1919 23
+    place:Alfter (9,26)
+    strength:officer: 34; nco: 0; other: 601 (36,26)
+    strength:officer: 34; nco: 0; other: 601 (22,26)
+  3 Apr 1919 27
+    domestic:inspections (28,30)
+    person:Lieutenant General Walter Braithwaite (commander) (45,30)
+    person:Lieutenant General Walter Braithwaite (other) (51,30)
+    place:Alfter (9,31)
+  7 Apr 1919 38
+    place:Bonn (57,40)
+    activity:other (23,41)
+    place:Alfter (9,41)
+  10 Apr 1919 42
+    place:Alfter (9,46)
+    person:Lieutenant Colonel C C Norman (joined) (29,46)
+  12 Apr 1919 47
+    person:Lieutenant Colonel C C Norman (commander) (28,49)
+    person:Lieutenant Colonel E H C P Bellingham (62,49)
+    place:Alfter (8,50)
+    unit:Royal scots (84,50)
+    person:Second Lieutenant G H S Burrow (returned_training) (28,53)
+  15 Apr 1919 54
+    place:Oxford (60,54)
+    place:Alfter (8,57)
+    person:Lieutenant R O Hughes (resigned) (25,57)
+    person:Second Lieutenant E W Alexander (resigned) (42,58)
+  16 Apr 1919 59
+    person:Second Lieutenant M B Dowse (departed_posted) (28,59)
+    place:Alfter (8,63)
+    person:Second Lieutenant B H Hopkins (departed_posted) (26,63)
+  17 Apr 1919 64
+    place:Alfter (8,66)
+    time:1100AM (18,66)
+    person:other W J Tyson (other) (24,66)
+  18 Apr 1919 67
+    activity:training (46,67)
+    place:Alfter (8,71)
+    person:Second Lieutenant E Beynon (resigned) (27,71)
+  25 Apr 1919 72
+    unit:Western Division (54,75)
+    person:Lieutenant H M Hake (other) (27,75)
+    place:Alfter (9,76)
+  27 Apr 1919 77
+    place:Alfter (8,80)
+  29 Apr 1919 81
+    place:Newmarket (71,81)
+    person:Lieutenant T T Davies (returned_training) (25,81)
+    domestic:inspections (33,85)
+    place:Alfter (8,85)
+    time:0930AM (18,85)
+    unit:Rhinearmy (69,85)
+    place:Duisdorf (81,86)
+Page 7 (type orders) http://wd3.herokuapp.com/pages/AWD0003kxa  ----------
+  29 Apr 1919 0
+    reference:Reference Provisional Scheme for Defence of Bonn (Amendments) (48,10)
+Page 8 (type orders) http://wd3.herokuapp.com/pages/AWD0003kxk  ----------
+  29 Apr 1919 0
+    reference: Provisional Scheme for Defence of Bonn  (48,8)
+Page 9 (type orders) http://wd3.herokuapp.com/pages/AWD0003kxm  ----------
+  29 Apr 1919 0
+    person:Sergeant Sinnott (other) (42,50)
+    person:Captain W Y Price (author) (57,73)
+Page 10 (type cover)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD0003kxc  ----------
+  1 May 1919 24
+    strength:officer: 28; nco: 0; other: 671 (43,28)
+    strength:officer: 28; nco: 0; other: 671 (23,28)
+    place:Alfter (8,28)
+    unit:No. 2 Concentration Camp (60,32)
+    place:Durem (78,32)
+    person:Second Lieutenant E Ashby (resigned) (25,33)
+    person:Second Lieutenant R Smith (resigned) (32,33)
+    person:Second Lieutenant P E Doswell (resigned) (42,33)
+  11 May 1919 36
+    unit:Royal West Kent Regiment (47,40)
+    place:Alfter (7,40)
+    person:Lieutenant Colonel A C Corfe (26,41)
+  26 May 1919 43
+    place:Gielsdorf (61,47)
+    place:Alfter (42,48)
+    activity:movement (49,48)
+    unit:B Coy 1 Division: 53 Battalion Welsh Regiment (31,49)
+    place:Alfter (6,49)
+  28 May 1919 50
+    domestic:sport (25,54)
+    person:Brigadier General Tomarden (other) (70,57)
+    person:Major General E P Strickland (other) (28,58)
+    unit:51 and 52 S W Bords. (61,62)
+    strength:officer: 0; nco: 0; other: 200 (30,64)
+    time:0200PM (18,64)
+    activity:other (25,64)
+  30 May 1919 65
+    unit:51/52 South Wales Borderers (25,65)
+    activity:training (49,69)
+    time:1145AM (18,70)
+    place:Alfter (6,70)
+    domestic:other (38,70)
+    person:other Harry Johnson (other) (26,71)
+  31 May 1919 73
+    strength:officer: 26; nco: 0; other: 873 (33,77)
+    strength:officer: 26; nco: 0; other: 873 (23,78)
+    place:Alfter (6,79)
+    person:Lieutenant Colonel C (58,88)
+Page 12 (type cover)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD0003kxd  ----------
+  31 May 1919 0
+    unit: (78,14)
+  1 Jun 1919 23
+    place:Alfter (21,27)
+    strength:officer: 29; nco: 0; other: 873 (34,27)
+  18 Jun 1919 28
+    place:Alfter (21,32)
+    unit:2 Western Infantry Brigade (50,32)
+    activity:movement (28,33)
+    place:Bonn (37,34)
+    unit:53 Welsm Regiment (29,37)
+    place:Gielsdorf (44,39)
+    place:Bonn (52,39)
+    activity:movement (40,39)
+    unit:B Coy 1 Division: 53 Battalion Welsh Regiment (35,40)
+    place:University Buildings (37,41)
+  19 Jun 1919 47
+    place:Bonn (59,50)
+    activity:movement (33,50)
+    place:Alfter (21,51)
+    unit:1/5 Border Regiment. (36,53)
+    unit:1/5 Border Regiment (42,53)
+  30 Jun 1919 57
+    place:Bonn (21,62)
+    strength:officer: 30; nco: 0; other: 856 (28,62)
+    person:Lieutenant Colonel C C Norman (author) (59,78)
+Page 14 (type orders) http://wd3.herokuapp.com/pages/AWD0003kxb  ----------
+  30 Jun 1919 0
+    reference:Appendix 1. Operation No. 1 - 53rd Battalion Welsh Regiment (50,12)
+    reference:2.L.1./100.000 (38,16)
+    person:Lieutenant Brown (commander) (38,46)
+    reference:Preliminary Defence of Bonn (47,6)
+    reference:HQ 2nd Western Inf Bde (52,8)
+Page 15 (type orders) http://wd3.herokuapp.com/pages/AWD0003kxe  ----------
+  30 Jun 1919 0
+    person:Captain W Y Price (author) (55,57)
+    reference:Appendix 1. Operation No. 1 - 53rd Battalion Welsh Regiment (48,8)
+Page 16 (type orders) http://wd3.herokuapp.com/pages/AWD0003ky2  ----------
+  30 Jun 1919 0
+    reference:Appendix 1. Operation No. 1 - 53rd Battalion Welsh Regiment  (Duties) (50,9)
+Page 17 (type cover)
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD0003kxz  ----------
+  1 Jul 1919 24
+    place:Alfter (58,26)
+    activity:movement (31,27)
+    place:Alfter (21,27)
+    place:Bonn (50,27)
+    time:0900AM (72,27)
+    place:Gielsdorf (45,29)
+  4 Jul 1919 32
+    place:Alfter (21,36)
+    domestic:other (26,37)
+  5 Jul 1919 41
+    domestic:inspections (43,42)
+    place:Alfter (21,43)
+    person:General Marden (commander) (27,44)
+  13 Jul 1919 45
+    person:Captain Daniels (commander) (55,46)
+  15 Jul 1919 47
+    place:Alfter (21,47)
+    person:Captain O'Kelly (commander) (42,48)
+  18 Jul 1919 49
+    place:Alfter (19,49)
+    place:Alfter (21,50)
+    domestic:other (27,52)
+    place:Alfter (21,53)
+  19 Jul 1919 54
+    place:Alfter (28,54)
+    place:Alfter (68,55)
+    domestic:sport (47,56)
+    unit:2 Western Brigade (31,57)
+    place:Alfter (21,58)
+    person:Lieutenant T T Davies (other) (50,69)
+  21 Jul 1919 73
+    place:Alfter (21,75)
+    domestic:sport (43,76)
+    place:Alfter (21,78)
+    domestic:sport (29,78)
+    person:Major Delaney (other) (50,78)
+  26 Jul 1919 87
+    place:Alfter (21,90)
+    activity:training (43,91)
+    unit:A & B Coys 1 Division: 53 Battalion Welsh Regiment (36,92)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD0003kxh  ----------
+  30 Jul 1919 24
+    place:Duisdorf (48,27)
+    domestic:sport (30,28)
+    place:Alfter (21,29)

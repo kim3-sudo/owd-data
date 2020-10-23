@@ -1,0 +1,329 @@
+GWD000003h wo/95/1156/6
+3 CAVALRY DIVISION: Leicestershire Yeomanry 
+15 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type other) http://wd3.herokuapp.com/pages/AWD0000jno  ----------
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0000jon  ----------
+  1 Nov 1917 21
+    domestic:accomodation (32,24)
+    place:Berneuil (6,24)
+    place:Berneuil (50,24)
+  6 Nov 1917 30
+    unit:Hq 7 Cavalry Brigade (73,30)
+    person:Captain W I F Macdonald (joined) (27,31)
+  7 Nov 1917 34
+    unit:7 & 8 Cavalry Brigade (65,35)
+    time:1200PM (17,35)
+    unit:Essex Yeomanry (76,38)
+    unit:X Royal Hussars (56,38)
+    unit:X r Hussars (54,39)
+  13 Nov 1917 42
+    person:Captain Lord Somers (departed_posted) (25,44)
+  14 Nov 1917 47
+    activity:other (40,48)
+  15 Nov 1917 51
+    activity:other (39,58)
+    place:Doingt (55,59)
+    place:Peronne (71,59)
+  1 Nov 1917 21
+    unit:Leicester Yeo (71,6)
+  18 Nov 1917 62
+    place:Bray Sur Somme (68,62)
+    time:0315PM (17,63)
+    activity:movement (31,63)
+  19 Nov 1917 64
+    place:Bray Sur Somme (6,65)
+    time:0130AM (54,66)
+  20 Nov 1917 69
+  22 Nov 1917 74
+  23 Nov 1917 77
+    unit:Hq a & b squadron (79,78)
+    place:Villers Bocage (63,79)
+    domestic:accomodation (48,80)
+    activity:movement (26,81)
+    place:Montonvillers (57,82)
+    place:Villers Bocage (6,82)
+  30 Nov 1917 86
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD0000joq  ----------
+  30 Nov 1917 0
+    reference:Casualties (29,31)
+    reference:Officers (50,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,32)
+    person:Captain W I F Macdonald (joined) (47,39)
+    person:Second Lieutenant R P Spencer (joined) (47,45)
+    activity:strength (60,51)
+    person:Captain Lord Somers (departed_posted) (48,55)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD0000jos  ----------
+  1 Dec 1917 21
+    place:Villers Bocage (55,24)
+    place:Villers Bocage (7,24)
+    domestic:accomodation (37,24)
+    unit:Hq a & b squadron (68,24)
+    place:Montonvillers (34,27)
+    unit:C Sqn (49,28)
+    unit:8 Dismounted Brigade (34,34)
+    unit:8 Dismounted Brigade (42,35)
+    person:Major W F Ricardo (other) (38,38)
+    person:Lieutenant J Woodfield (other) (37,41)
+    person:Lieutenant A T Campbell (other) (53,41)
+    person:Lieutenant H A Swain (other) (68,41)
+    person:Second Lieutenant C W Barnard (other) (34,43)
+    person:Second Lieutenant E N Meakin (departed_posted) (65,44)
+    person:Second Lieutenant H Raby (other) (32,46)
+  2 Dec 1917 47
+    place:Crouy (79,48)
+    domestic:accomodation (66,49)
+    place:Crouy (7,50)
+    activity:movement (46,50)
+  10 Dec 1917 53
+    place:Cavillon (55,53)
+    place:Le Mesge (80,53)
+    unit:A Sqdn (43,54)
+    place:Marseilles (46,60)
+    place:Egypt (76,60)
+  23 Dec 1917 61
+    place:Berteaucourt (6,64)
+    activity:movement (24,64)
+    place:Bettencourt (70,66)
+    place:Berteaucourt les Dames (32,67)
+    unit:H Q & C Sqdn (51,67)
+  24 Dec 1917 69
+    place:Saint Ouen (30,70)
+    unit:Lieut Swain (75,71)
+    person:Second Lieutenant W L Oldham (other) (53,72)
+    person:Lieutenant Swain (other) (79,72)
+    person:Lieutenant E F P Clarke (other) (30,73)
+    person:Lieutenant Campbell (other) (28,75)
+  26 Dec 1917 76
+    unit:Lieut Campball (28,76)
+    person:Captain R A Heath (other) (71,78)
+    person:Major H C Meredith (other) (31,79)
+    person:Second Lieutenant R P Spencer (other) (68,81)
+    person:Lieutenant C J Henry (other) (29,82)
+  28 Dec 1917 84
+    person:Second Lieutenant H E Cowdell (departed_posted) (31,84)
+    person:Lieutenant J Woodfield (other) (53,86)
+    person:Second Lieutenant C W Barnard (other) (71,86)
+    person:Major W F Ricardo (other) (28,87)
+    person:Second Lieutenant E N Meakin (other) (38,89)
+    person:Second Lieutenant H Raby (other) (27,90)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpu  ----------
+  28 Dec 1917 0
+    activity:strength (70,29)
+    reference:Officers (51,30)
+    reference:Other  (76,30)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 1 (27,30)
+    reference:Casualties (29,31)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 1 (32,34)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 1 (25,35)
+    person:Captain H H Fetherstonhaugh (joined) (48,38)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 0 (24,40)
+    person:Lieutenant D L Matthew (departed_sick) (48,51)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD0000jou  ----------
+  1 Jan 1918 20
+    domestic:accomodation (58,24)
+    activity:resting (48,24)
+    unit:Hq & c squadron (25,26)
+    unit:A Squadron (73,26)
+  7 Jan 1918 27
+    place:Bettencourt (41,27)
+    place:Saint Ouen (65,27)
+    unit:B Squadron (52,27)
+    person:Lieutenant E F P Clarke (combat) (77,29)
+    person:Lieutenant H J Humphries (other) (29,30)
+    person:Second Lieutenant H A Whyatt (other) (54,30)
+  15 Jan 1918 33
+    person:Lieutenant E F P Clarke (other) (25,33)
+    person:Second Lieutenant W L Oldham (other) (45,33)
+    person:Captain R A Heath (other) (27,39)
+    person:Lieutenant C J Henry (other) (47,39)
+    person:Lieutenant H J Humphries (other) (63,39)
+    person:Second Lieutenant R P Spencer (other) (81,39)
+    person:Second Lieutenant H E Cowdell (other) (38,42)
+    unit:3 Cavalry Dismounted Division (69,45)
+    person:Major H C Meredith (other) (77,48)
+    person:Major H C Meredith (combat) (66,48)
+    person:Second Lieutenant H A Whyatt (other) (31,51)
+    reference:3rd Cav. Pioneer Regiment (42,54)
+    unit:3 Cavalry Dismounted Division (33,57)
+    place:Le Verguier (58,60)
+    activity:line (39,60)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 1 (76,60)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 1 (67,65)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 0 (54,66)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 1 (31,67)
+  17 Jan 1918 68
+    person:Major W Byron (departed_posted) (26,70)
+    unit:2/1 Herts Yeo (65,70)
+  24 Jan 1918 72
+    person:Major H C Meredith (other) (31,73)
+    person:Second Lieutenant S Dyson (other) (81,73)
+    person:Second Lieutenant H A Whyatt (other) (39,76)
+  27 Jan 1918 78
+    place:Bayonvillers (79,78)
+    domestic:accomodation (66,78)
+    activity:movement (56,79)
+    place:Bayonvillers (6,81)
+  28 Jan 1918 83
+    place:Montecourt (57,85)
+    domestic:accomodation (33,85)
+    activity:movement (25,86)
+    place:Montecourt (6,87)
+    mapRef:62C (36,88)
+    gridRef:V_11_A_9_6 (25,88)
+    mapRef:67c (36,89)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnw  ----------
+  28 Jan 1918 0
+    activity:strength (70,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,35)
+    person:Major W Byron (departed_posted) (47,40)
+    person:Major W F Ricardo (departed_sick) (49,45)
+    person:Second Lieutenant R P Spencer (departed_sick) (50,51)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpl  ----------
+  1 Feb 1918 21
+    activity:resting (44,24)
+    place:Montecourt (65,24)
+    place:Montecourt (6,24)
+    gridRef:V_11_A_9_6 (77,25)
+    mapRef:62c (86,25)
+    domestic:accomodation (39,25)
+  8 Feb 1918 26
+    unit:Pioneer Party (24,29)
+    place:Coulaincourt (40,44)
+    place:Bihecourt (64,46)
+    place:Bihecourt (78,57)
+    place:Hesbecourt (56,63)
+    place:Jeancourt (82,66)
+    place:Hesbecourt (72,69)
+    unit:258 Tunnelling Co., Royal Engineers (52,76)
+    place:Jeancourt (79,76)
+    place:Jeancourt (70,80)
+  28 Feb 1918 81
+    place:Trefcon (7,84)
+    unit:8 Cavalry Brigade (38,86)
+    unit:7 Cavalry Brigade (30,89)
+    mapRef:620 (69,89)
+    place:Trefcon (46,89)
+    gridRef:W_10_A_6_3 (56,90)
+    person:Captain W I Macdonald (author) (75,94)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpp  ----------
+  28 Feb 1918 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,38)
+    person:Captain W E Phipps (joined) (50,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,43)
+    person:Lieutenant A B S Tennyson (joined) (48,46)
+    activity:strength (64,69)
+    person:Captain W I Macdonald (author) (81,90)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnx  ----------
+  28 Feb 1918 0
+  1 Mar 1918 20
+    gridRef:W_10_A_6_3 (75,24)
+    domestic:accomodation (37,24)
+    place:Trefcon (65,24)
+    place:Trefcon (6,24)
+    mapRef:620 (91,25)
+  2 Mar 1918 27
+    place:Jeancourt (63,29)
+    activity:other (27,29)
+  9 Mar 1918 32
+    unit:Dismounted Party (57,34)
+    unit:258 Tunnelling Corps (15,35)
+    time:0900AM (17,35)
+    activity:other (39,35)
+    unit:Mounted Party (49,36)
+    unit:Corps Cyclist Regiment (7,41)
+  11 Mar 1918 42
+    reference:Unit to convert to Cyclist Reg. (27,42)
+  13 Mar 1918 46
+    place:Brie (58,48)
+    activity:movement (29,49)
+    place:Brie (7,50)
+    domestic:parades (36,53)
+    time:0530PM (49,55)
+    reference:400 horses to 2nd Cavalry Div (5,56)
+    person:Brigadier General A E W Harman (other) (74,57)
+    person:Brigadier General Harman (other) (30,61)
+    unit:3 Cavalry Division (52,62)
+  14 Mar 1918 64
+    person:Lieutenant Colonel H Combe (departed_posted) (24,67)
+    unit:18 Huss (80,69)
+    place:Longpre (65,73)
+    activity:movement (34,74)
+    person:Captain R A Heath (other) (74,77)
+    place:Brie (41,79)
+    place:Allery (51,79)
+  15 Mar 1918 82
+    person:Lieutenant J Woodfield (other) (59,83)
+    place:Glisy (82,83)
+    place:Hallencourt (57,86)
+    place:Hallencourt (6,86)
+  16 Mar 1918 87
+    place:Briquemesnil (44,88)
+    place:Hallencourt (55,91)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpi  ----------
+  16 Mar 1918 27
+    unit:Machine Gun Battalion (25,25)
+    place:Hallencourt (7,25)
+    place:Longpre (32,25)
+    unit:North Somerset Yeomanry (39,26)
+    person:Brigadier General C Rankin (joined) (39,27)
+    place:Longpre (64,27)
+    person:Brigadier General C Rankin (other) (26,28)
+    unit:Machine Gun Battalion (76,33)
+    unit:D.D.R. Cavalry Corps (55,33)
+    unit:North Somerset Yeomanry (42,34)
+    reference:Unit to convert to MG Reg. not Cyclist (75,34)
+  20 Mar 1918 37
+    person:Major H C Meredith (returned_leave) (31,40)
+    domestic:inspections (36,46)
+    unit:Ddr Cavalry corp (72,47)
+    unit:Dismounted Cavalry (24,47)
+  23 Mar 1918 48
+    place:Marseilles (58,52)
+  25 Mar 1918 58
+    place:Longpre (78,60)
+    unit:Cavalry (31,65)
+    activity:other (20,66)
+  26 Mar 1918 68
+    unit:Essex Yeomanry (27,70)
+    activity:movement (22,71)
+    place:Bettencourt (51,71)
+  27 Mar 1918 72
+    place:Bettencourt (7,72)
+    activity:movement (28,73)
+    time:0130AM (18,74)
+  28 Mar 1918 75
+    time:0300AM (18,78)
+    place:Abbeville (68,78)
+  16 Mar 1918 27
+  28 Mar 1918 75
+    unit:Essex Yeomanry (47,81)
+    time:0830AM (18,84)
+    domestic:accomodation (32,84)
+  29 Mar 1918 85
+    place:Long (42,85)
+    place:Long (7,85)
+    unit:Essex Yeomanry (56,87)
+    unit:North Somerset Yeomanry (58,89)
+  16 Mar 1918 27
+  30 Mar 1918 90
+    unit:A, J & B Squadrons (7,93)
+    unit:A & B Squadron (26,95)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD0000jop  ----------
+  30 Mar 1918 0
+    reference:Casualties - NIL (15,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,37)
+    person:Major W F Ricardo (returned_hospital) (49,39)
+    person:Lieutenant Simpkin (returned_leave) (49,43)
+    reference:Page 3 - reports (15,45)
+    person:Lieutenant Colonel N Combe (departed_posted) (49,53)
+    person:Captain W E Phipps (departed_posted) (52,59)
+    reference:'states' - UNIT STRENGTH (12,61)
+    activity:strength (78,65)
+    person:Major H C Meredith (author) (82,87)
+Page 15 (type cover)

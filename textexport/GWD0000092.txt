@@ -1,0 +1,966 @@
+GWD0000092 wo/95/1260/2
+1 DIVISION:  Divisional Troops: Divisional Train (7, 13, 16, 36, Companies A.S.C.).  
+91 pages
+
+Page 133 (type cover)
+Page 134 (type cover)
+Page 135 (type diary) http://wd3.herokuapp.com/pages/AWD0001crd  ----------
+  1 Jan 1916 28
+    place:Noeux-Les-Mines (9,26)
+  4 Jan 1916 38
+    person:R Hall (joined) (49,53)
+  8 Jan 1916 68
+  12 Jan 1916 82
+Page 136 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpe  ----------
+  12 Jan 1916 0
+    place:Noeux-Les-Mines (14,25)
+  13 Jan 1916 29
+    person:Lieutenant Delaine (departed_posted) (28,32)
+    place:Raimbert (70,35)
+    unit:3 Brigade (38,37)
+  14 Jan 1916 46
+    place:Raimbert (71,46)
+    unit:1 Brigade (33,48)
+    place:Raimbert (83,59)
+  15 Jan 1916 60
+  16 Jan 1916 72
+Page 137 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqk  ----------
+  16 Jan 1916 0
+    place:Raimbert (7,24)
+  17 Jan 1916 29
+    unit:No. 1 Field Ambulance (33,31)
+    unit:No. 8 Ordnance Workshop (61,31)
+  18 Jan 1916 47
+    unit:No. 8 Ordnance Workshop (32,61)
+  19 Jan 1916 65
+    person:Lieutenant Forrest (joined) (27,68)
+  20 Jan 1916 74
+    person:General Joffre (commander) (28,91)
+Page 138 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpq  ----------
+  20 Jan 1916 0
+    place:Raimbert (11,25)
+  21 Jan 1916 28
+    place:Burbure (62,30)
+  22 Jan 1916 53
+    person:Colonel Blyth (commander) (24,54)
+  25 Jan 1916 73
+Page 139 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqr  ----------
+  25 Jan 1916 0
+    place:Raimbert (11,26)
+  26 Jan 1916 31
+    place:Therouanne (60,31)
+    person:Lieutenant Humphreys (other) (30,33)
+  27 Jan 1916 44
+  28 Jan 1916 52
+  31 Jan 1916 62
+    person:Lieutenant Colonel Masters (72,76)
+Page 140 (type diary) http://wd3.herokuapp.com/pages/AWD0001cr2  ----------
+  31 Jan 1916 0
+    place:Raimbert (9,28)
+  1 Feb 1916 30
+  2 Feb 1916 39
+    activity:training (24,47)
+  5 Feb 1916 60
+    person:Lieutenant Sandilands (joined) (55,63)
+Page 141 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpb  ----------
+  6 Feb 1916 0
+    place:Raimbert (9,26)
+  7 Feb 1916 27
+    place:Hurionville (76,33)
+    place:Lespesses (56,39)
+    place:Raimbert (66,39)
+  8 Feb 1916 40
+    place:Lieres (35,40)
+    place:Auchy-Au-Bois (44,40)
+  10 Feb 1916 47
+    person:Lieutenant E L Robert (24,51)
+    person:Robert (other) (66,54)
+    person:Lieutenant Gillespie (other) (26,55)
+  13 Feb 1916 69
+    place:Haillicourt (77,81)
+  14 Feb 1916 82
+    unit:4 Company 3 Brigade (51,85)
+Page 142 (type diary) http://wd3.herokuapp.com/pages/AWD0001crk  ----------
+  14 Feb 1916 26
+    place:Raimbert (9,26)
+    place:Haillicourt (71,29)
+    activity:movement (22,30)
+  15 Feb 1916 36
+    activity:movement (25,36)
+    place:Haillicourt (70,39)
+    time:1000AM (58,39)
+    activity:movement (50,46)
+  16 Feb 1916 49
+    time:0900AM (78,52)
+    place:Haillicourt (24,58)
+    place:Haillicourt (9,63)
+  17 Feb 1916 66
+    activity:resupplying (51,75)
+    time:1000AM (40,79)
+Page 143 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpu  ----------
+  17 Feb 1916 0
+    place:Haillicourt (7,25)
+  18 Feb 1916 27
+    person:Second Lieutenant Sandilands (26,38)
+  19 Feb 1916 40
+  20 Feb 1916 56
+    place:Haillicourt (22,57)
+  22 Feb 1916 68
+    place:Bethune (52,69)
+  23 Feb 1916 78
+    person:Lieutenant Roberts (resigned) (48,81)
+Page 144 (type diary) http://wd3.herokuapp.com/pages/AWD0001cq5  ----------
+  23 Feb 1916 0
+    place:Haillicourt (8,25)
+    weather:cold (63,29)
+  25 Feb 1916 45
+Page 145 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqz  ----------
+  25 Feb 1916 0
+    place:Haillicourt (9,26)
+  28 Feb 1916 28
+    person:Lieutenant Forrest (27,42)
+  29 Feb 1916 49
+Page 146 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqh  ----------
+  29 Feb 1916 0
+    place:Haillicourt (10,28)
+  2 Mar 1916 43
+    person:Lieutenant E L Robert (departed_posted) (27,56)
+  3 Mar 1916 58
+Page 147 (type diary) http://wd3.herokuapp.com/pages/AWD0001cr1  ----------
+  5 Mar 1916 0
+    place:Haillicourt (9,26)
+  6 Mar 1916 28
+    weather:cold (40,31)
+    domestic:inspections (24,42)
+    place:La Buissiere (49,47)
+  7 Mar 1916 53
+    person:Lieutenant Vincent (other) (75,56)
+    place:Bethune (37,66)
+    domestic:inspections (24,67)
+    domestic:inspections (27,78)
+  8 Mar 1916 80
+Page 148 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqf  ----------
+  8 Mar 1916 0
+    place:Haillicourt (8,25)
+  9 Mar 1916 26
+  10 Mar 1916 36
+    unit:Northants. Regiment. (76,45)
+  11 Mar 1916 54
+  12 Mar 1916 65
+  13 Mar 1916 76
+    activity:movement (37,81)
+Page 149 (type diary) http://wd3.herokuapp.com/pages/AWD0001crg  ----------
+  13 Mar 1916 0
+    place:Braquemont (8,26)
+  14 Mar 1916 28
+    domestic:accomodation (39,32)
+  15 Mar 1916 45
+    place:Les Brebis (73,52)
+    unit:H.Q. 3 Brigade (28,60)
+  16 Mar 1916 61
+  18 Mar 1916 79
+Page 150 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpd  ----------
+  18 Mar 1916 0
+    place:Braquemont (9,27)
+  19 Mar 1916 31
+    domestic:inspections (62,32)
+    person:Captain Pollock (other) (31,34)
+  20 Mar 1916 42
+    person:Colonel Martin (other) (25,46)
+    domestic:accomodation (55,50)
+  21 Mar 1916 55
+    activity:resupplying (61,58)
+  22 Mar 1916 63
+    person:Lieutenant Woodger (commander) (84,63)
+    domestic:parades (29,73)
+    domestic:inspections (23,77)
+    person:Lieutenant Johnson (commander) (34,87)
+Page 151 (type diary) http://wd3.herokuapp.com/pages/AWD0001cq1  ----------
+  22 Mar 1916 0
+    place:Braquemont (9,26)
+  24 Mar 1916 28
+  25 Mar 1916 40
+    unit:Trench Maintenance Coy. (66,44)
+  26 Mar 1916 46
+    person:Lieutenant Mitchell (departed_posted) (25,51)
+  28 Mar 1916 67
+    person:Lieutenant Mangin (commander) (82,71)
+    person:Captain C R Molineux (departed_posted) (27,73)
+Page 152 (type cover)
+Page 153 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpp  ----------
+  28 Mar 1916 0
+    place:Braquemont (9,25)
+  1 Apr 1916 27
+    person:Brigadier General Sargent (commander) (26,31)
+    domestic:inspections (74,32)
+  2 Apr 1916 43
+    activity:fire (54,47)
+  3 Apr 1916 54
+    activity:resupplying (22,58)
+    place:Noeux (33,58)
+  5 Apr 1916 74
+    place:Noeux (32,79)
+    person:Second Lieutenant Parry (promotion) (29,84)
+Page 154 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpg  ----------
+  5 Apr 1916 0
+    place:Braquemont (7,26)
+  6 Apr 1916 27
+    place:Noeux (32,31)
+    place:Les Brebis (73,33)
+    unit:Trench Maintenance Coy. (56,35)
+  8 Apr 1916 38
+    activity:fire (25,43)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,52)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,53)
+    place:Corons (81,54)
+    activity:movement (58,55)
+    domestic:accomodation (49,56)
+  14 Apr 1916 71
+    activity:resupplying (22,75)
+  19 Apr 1916 84
+    unit:No. 2 Field Ambulance (51,85)
+    unit:No. 1 Field Ambulance (46,86)
+Page 155 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqm  ----------
+  19 Apr 1916 0
+    place:Braquemont (9,25)
+  20 Apr 1916 27
+    activity:resupplying (34,32)
+  21 Apr 1916 44
+    activity:resupplying (21,49)
+  23 Apr 1916 50
+    activity:fire (22,56)
+    domestic:accomodation (54,64)
+  25 Apr 1916 78
+    person:Captain C C H King (joined) (31,87)
+Page 156 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpj  ----------
+  25 Apr 1916 0
+    place:Braquemont (9,26)
+  26 Apr 1916 28
+    place:Haillicourt (59,34)
+    place:Bethune (47,41)
+  27 Apr 1916 48
+  28 Apr 1916 66
+    activity:resupplying (22,70)
+    person:Captain W H Williams (departed_posted) (30,73)
+    person:Lieutenant C H Johnson (commander) (30,79)
+  29 Apr 1916 82
+Page 157 (type diary) http://wd3.herokuapp.com/pages/AWD0001cre  ----------
+  29 Apr 1916 27
+    place:Braquemont (7,24)
+    unit:Trench Maintenance Coy. (41,32)
+  30 Apr 1916 34
+    place:Les Brebis (55,49)
+    person:Lieutenant Colonel Master (79,71)
+Page 158 (type cover)
+Page 159 (type diary) http://wd3.herokuapp.com/pages/AWD0001cr3  ----------
+  1 May 1916 27
+    place:Braquemont (9,27)
+    person:Captain McDermott (other) (49,31)
+    unit:N lancs (57,40)
+    unit:N. Lancs. Regiment. (55,41)
+  2 May 1916 44
+    activity:resupplying (22,47)
+  3 May 1916 66
+  4 May 1916 82
+    unit:47 Reserve Park (40,87)
+Page 160 (type diary) http://wd3.herokuapp.com/pages/AWD0001cr4  ----------
+  4 May 1916 26
+    place:Braquemont (8,25)
+  5 May 1916 36
+    person:Lieutenant Colonel Byng (commander) (23,42)
+  7 May 1916 44
+    domestic:inspections (20,49)
+  8 May 1916 64
+    person:Second Lieutenant E J Gaines (returned_posted) (46,68)
+    person:Major Hargar (other) (72,73)
+    person:Sergeant Major Hall (commander) (32,78)
+  9 May 1916 81
+    person:Second Lieutenant A G Gwyn (commander) (29,85)
+Page 161 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqn  ----------
+  9 May 1916 0
+    place:Braquemont (7,25)
+  10 May 1916 29
+    unit:17 R. P. (49,31)
+  11 May 1916 38
+    place:Vaudricourt (43,47)
+    unit:16 D. T. (32,47)
+    place:Bethune (23,53)
+  14 May 1916 66
+    unit:16 D. T. (32,79)
+Page 162 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqb  ----------
+  15 May 1916 0
+    place:Braquemont (7,25)
+  16 May 1916 28
+  17 May 1916 34
+    person:Captain Pollock (commander) (43,36)
+  20 May 1916 43
+  22 May 1916 53
+  23 May 1916 62
+Page 163 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpr  ----------
+  25 May 1916 0
+  26 May 1916 27
+    person:Corporal Elford (promotion) (37,30)
+  27 May 1916 41
+  29 May 1916 58
+Page 164 (type diary) http://wd3.herokuapp.com/pages/AWD0001crh  ----------
+  29 May 1916 0
+    place:Braquemont (7,26)
+  1 Jun 1916 28
+  3 Jun 1916 34
+  5 Jun 1916 48
+  6 Jun 1916 62
+    person:Colonel Parker (other) (22,81)
+    person:Price (promotion) (64,82)
+  7 Jun 1916 83
+    person:Lieutenant Colonel Lecky (other) (22,89)
+Page 165 (type diary) http://wd3.herokuapp.com/pages/AWD0001cra  ----------
+  7 Jun 1916 0
+    place:Braquemont (9,26)
+  8 Jun 1916 27
+  10 Jun 1916 61
+Page 166 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpy  ----------
+  11 Jun 1916 0
+    place:Braquemont (6,25)
+  12 Jun 1916 28
+    person:Captain H C Mangin (commander) (63,34)
+    person:Major A E Lloyd (commander) (23,35)
+    person:Captain A A Fraser (commander) (66,40)
+    person:Captain Fraser (other) (21,44)
+    person:Major A E Lloyd (promotion) (58,45)
+    person:Captain C C H King (24,49)
+  13 Jun 1916 56
+  14 Jun 1916 63
+    person:Corporal Brooker (discipline) (56,73)
+    person:D White (discipline) (69,74)
+  15 Jun 1916 75
+Page 167 (type diary) http://wd3.herokuapp.com/pages/AWD0001cq4  ----------
+  15 Jun 1916 0
+    place:Braquemont (10,27)
+  18 Jun 1916 29
+    time:0930AM (37,31)
+    person:Lieutenant K L Gould (returned_hospital) (22,41)
+    domestic:rations (57,44)
+  19 Jun 1916 48
+    time:0930AM (38,50)
+  20 Jun 1916 62
+    time:0730AM (34,70)
+    person:Lieutenant A M Mitchell (other) (24,80)
+    person:Lieutenant S L Thorn (departed_posted) (27,84)
+    person:Lieutenant K L Gould (departed_posted) (26,88)
+Page 168 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqd  ----------
+  20 Jun 1916 0
+  22 Jun 1916 29
+    person:General Strickland (other) (28,32)
+    domestic:inspections (61,32)
+  23 Jun 1916 41
+  25 Jun 1916 48
+    time:0730AM (66,49)
+    time:0800AM (79,49)
+    time:0930AM (53,55)
+  27 Jun 1916 70
+    time:0300PM (73,76)
+    domestic:inspections (38,76)
+Page 169 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqq  ----------
+  27 Jun 1916 0
+  29 Jun 1916 29
+    person:Captain F Price (promotion) (61,36)
+    person:Colonel Parker (other) (23,37)
+  30 Jun 1916 41
+    person:Captain Stoker (other) (34,48)
+    person:Captain Hoskins (other) (33,53)
+    person:Captain O'Dowd (other) (34,57)
+    unit:1 Black Watch (45,58)
+    unit:10 Gloucesters (58,58)
+Page 170 (type cover)
+Page 171 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpl  ----------
+  30 Jun 1916 0
+    place:Braquemont (7,26)
+  1 Jul 1916 28
+    time:0530AM (38,28)
+    time:0700AM (43,29)
+    time:1015AM (52,33)
+  2 Jul 1916 38
+    place:Bruay (40,39)
+    activity:movement (25,42)
+    place:Haillicourt (78,43)
+    place:Houchin (48,52)
+  3 Jul 1916 57
+    activity:movement (29,60)
+  4 Jul 1916 64
+    activity:movement (27,65)
+    place:Bruay (46,65)
+    place:Barlin (54,74)
+    activity:movement (29,75)
+    place:Ruitz (43,75)
+  5 Jul 1916 78
+    activity:movement (26,78)
+    place:Haillicourt (53,87)
+    place:Haillicourt (72,88)
+Page 172 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqv  ----------
+  5 Jul 1916 27
+    place:Bruay (7,24)
+  6 Jul 1916 40
+    person:Lieutenant C H Johnson (commander) (62,45)
+    person:Captain F Price (commander) (22,47)
+    person:Second Lieutenant Cooke (commander) (65,51)
+    person:Captain R Burton (commander) (68,61)
+    person:Captain R Burton (commander) (24,67)
+    person:Captain F Price (commander) (61,67)
+    person:Second Lieutenant A G Gwyn (returned_posted) (25,85)
+Page 173 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpi  ----------
+  6 Jul 1916 0
+    place:Bruay (10,25)
+  7 Jul 1916 29
+    activity:movement (32,30)
+    time:0300PM (29,40)
+    time:0130PM (54,43)
+    time:0850PM (39,49)
+    person:Lieutenant Gillespie (commander) (23,62)
+  8 Jul 1916 67
+    time:0325AM (36,68)
+    activity:movement (82,68)
+    activity:movement (21,70)
+    place:Talmas (16,75)
+    time:0230PM (23,79)
+    time:0830PM (46,89)
+    activity:movement (35,89)
+    time:1015PM (65,93)
+Page 174 (type diary) http://wd3.herokuapp.com/pages/AWD0001cq8  ----------
+  8 Jul 1916 0
+    place:Saint Gratien (16,28)
+  9 Jul 1916 31
+  10 Jul 1916 51
+    place:Dernancourt (59,54)
+  11 Jul 1916 78
+    place:Buire (49,81)
+    place:Dernancourt (45,84)
+Page 175 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqu  ----------
+  11 Jul 1916 0
+    place:Buire (17,28)
+  12 Jul 1916 31
+    activity:movement (41,34)
+    person:Lieutenant Wakely (commander) (42,49)
+  13 Jul 1916 55
+  14 Jul 1916 70
+Page 176 (type diary) http://wd3.herokuapp.com/pages/AWD0001crl  ----------
+  14 Jul 1916 0
+    place:Buire (16,27)
+    time:0900AM (42,30)
+    person:Lieutenant Darwin (commander) (43,40)
+    person:Captain King (commander) (66,55)
+    activity:movement (34,80)
+    time:0345PM (55,91)
+    person:Captain King (commander) (31,95)
+    person:Lieutenant Wakely (commander) (64,95)
+    activity:movement (41,95)
+Page 177 (type diary) http://wd3.herokuapp.com/pages/AWD0001cp2  ----------
+  14 Jul 1916 0
+    place:Albert (14,27)
+    time:0400AM (70,29)
+  19 Jul 1916 31
+    time:0900AM (41,41)
+    time:0700AM (37,42)
+    place:Becourt (36,46)
+    person:Lieutenant Wakely (returned_posted) (43,50)
+    person:Captain King (other) (54,55)
+    time:0600PM (29,56)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,60)
+  20 Jul 1916 62
+    time:0400AM (47,64)
+    place:Becourt (31,73)
+    unit:Auxiliary H. T. Company (55,73)
+    time:0600PM (48,82)
+  21 Jul 1916 86
+    time:0400AM (37,87)
+Page 178 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpw  ----------
+  21 Jul 1916 0
+    place:Albert (15,25)
+  22 Jul 1916 28
+    activity:resupplying (28,30)
+    time:0200AM (49,30)
+    place:Becourtwood (44,37)
+    time:0930AM (30,39)
+  23 Jul 1916 52
+    activity:resupplying (28,53)
+    time:0200AM (45,53)
+    activity:movement (46,57)
+    time:1015AM (30,57)
+  24 Jul 1916 70
+    person:Lieutenant Johnson (commander) (59,71)
+    person:Lieutenant Vincent (commander) (31,72)
+    person:Sergeant Major Warner (63,76)
+Page 179 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpm  ----------
+  24 Jul 1916 0
+    place:Albert (18,27)
+  25 Jul 1916 28
+  26 Jul 1916 35
+    activity:movement (31,37)
+    time:0930AM (40,41)
+    time:1000AM (40,46)
+    place:Bresle (65,49)
+    time:0100PM (40,53)
+    activity:movement (34,57)
+    time:0600PM (69,67)
+    activity:resupplying (47,68)
+  27 Jul 1916 82
+    time:0900AM (35,84)
+Page 180 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqw  ----------
+  27 Jul 1916 0
+    place:Bresle (17,26)
+  28 Jul 1916 28
+    person:Second Lieutenant A G Gwyn (commander) (31,30)
+  29 Jul 1916 44
+  31 Jul 1916 66
+    person:Captain Stoker (40,72)
+    activity:training (33,80)
+Page 181 (type cover)
+Page 182 (type diary) http://wd3.herokuapp.com/pages/AWD0001cql  ----------
+  31 Jul 1916 0
+    place:Bresle (12,29)
+  1 Aug 1916 36
+  2 Aug 1916 51
+    person:Lieutenant J Parry (departed_posted) (32,65)
+  4 Aug 1916 75
+    domestic:sport (27,79)
+Page 183 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqi  ----------
+  4 Aug 1916 0
+    place:Bresle (17,26)
+  5 Aug 1916 31
+    place:Amiens (43,32)
+  7 Aug 1916 42
+    unit:3 Brigade (39,49)
+    unit:4 Brigade (63,54)
+  8 Aug 1916 58
+    domestic:medical (33,66)
+  10 Aug 1916 74
+    place:Frechencourt (52,75)
+    person:Lieutenant Woodger (commander) (48,80)
+    unit:4 Brigade (39,89)
+Page 184 (type diary) http://wd3.herokuapp.com/pages/AWD0001cp8  ----------
+  10 Aug 1916 0
+    place:Bresle (14,25)
+  11 Aug 1916 27
+    activity:resupplying (32,29)
+  13 Aug 1916 59
+    person:Lieutenant Vincent (31,65)
+    person:Captain Johnson (41,70)
+  14 Aug 1916 75
+    unit:3 Company (33,77)
+    unit:2 Company (29,78)
+    unit:4 Company (35,80)
+    unit:34 D. T (53,80)
+    person:Lieutenant Colonel Evans (66,81)
+    person:Major Studdert (other) (33,85)
+Page 185 (type diary) http://wd3.herokuapp.com/pages/AWD0001cr7  ----------
+  14 Aug 1916 0
+    place:Albert (18,26)
+  15 Aug 1916 29
+    activity:movement (26,34)
+    activity:resupplying (28,48)
+    place:Mericourt (41,56)
+    place:Treux (50,56)
+  16 Aug 1916 64
+    person:Second Lieutenant Humphreys (joined) (33,69)
+    place:Fricourt (54,72)
+Page 186 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpx  ----------
+  16 Aug 1916 0
+    place:Albert (17,26)
+  17 Aug 1916 29
+    person:Second Lieutenant Humphreys (other) (51,36)
+    place:Lonely Copse (31,37)
+  18 Aug 1916 42
+    person:Captain Johnson (commander) (60,46)
+    place:Cagny (73,49)
+    time:0600PM (30,56)
+  19 Aug 1916 62
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,77)
+    person:Lieutenant Colonel Longridge (casualty_kia) (45,77)
+  20 Aug 1916 81
+    activity:resupplying (25,83)
+Page 187 (type diary) http://wd3.herokuapp.com/pages/AWD0001cq6  ----------
+  20 Aug 1916 27
+    person:Second Lieutenant R T Cooke (34,46)
+  22 Aug 1916 67
+    person:Lieutenant Mitchell (departed_posted) (33,68)
+  23 Aug 1916 74
+    person:Second Lieutenant Gwyn (33,84)
+    person:Second Lieutenant Humphreys (returned_posted) (50,88)
+    person:Lieutenant Gillespie (departed_posted) (32,89)
+Page 188 (type diary) http://wd3.herokuapp.com/pages/AWD0001crj  ----------
+  23 Aug 1916 0
+    place:Albert (16,26)
+  24 Aug 1916 29
+    time:0600AM (38,33)
+    time:1000AM (59,33)
+    time:0600PM (74,33)
+    activity:resupplying (26,33)
+    time:0600PM (70,40)
+    time:0800PM (74,41)
+    activity:fire (56,42)
+    activity:movement (30,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,49)
+  25 Aug 1916 52
+    time:0530AM (40,56)
+    time:0600AM (62,56)
+    activity:resupplying (26,56)
+    time:0300PM (43,60)
+    time:0200PM (39,61)
+    activity:fire (30,61)
+    activity:movement (40,65)
+  29 Aug 1916 72
+    person:Lieutenant Gillespie (other) (57,76)
+    place:Mellencourt (35,80)
+Page 189 (type diary) http://wd3.herokuapp.com/pages/AWD0001cq0  ----------
+  29 Aug 1916 0
+    place:Albert (12,23)
+  30 Aug 1916 26
+    time:1200AM (61,26)
+    time:0400AM (72,27)
+    activity:fire (29,29)
+    time:0200PM (49,33)
+    time:0300PM (53,33)
+  31 Aug 1916 53
+    unit:141 field ambulance (37,58)
+Page 190 (type ) http://wd3.herokuapp.com/pages/AWD0001cqx  ----------
+Page 191 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqc  ----------
+  31 Aug 1916 0
+    place:Albert (11,28)
+  1 Sep 1916 32
+  2 Sep 1916 46
+  3 Sep 1916 62
+  6 Sep 1916 78
+Page 192 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpv  ----------
+  6 Sep 1916 0
+    place:Albert (9,30)
+    unit:Och 2 company (31,32)
+  7 Sep 1916 35
+  8 Sep 1916 50
+  9 Sep 1916 70
+  11 Sep 1916 82
+Page 193 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqe  ----------
+  11 Sep 1916 32
+    place:Albert (16,29)
+    time:1030AM (39,33)
+    place:Albert (23,33)
+    activity:movement (45,38)
+    unit:No. 3 Company (36,41)
+  12 Sep 1916 46
+    place:Behencourt (14,46)
+    unit:No. 2 Company (61,47)
+    unit:No. 3 Company (46,54)
+  13 Sep 1916 65
+    unit:26 Brigade (28,65)
+    activity:movement (40,66)
+    activity:movement (27,67)
+    activity:movement (38,77)
+  14 Sep 1916 85
+    time:0600AM (50,88)
+    activity:movement (28,89)
+Page 194 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqp  ----------
+  14 Sep 1916 28
+    place:Behencourt (12,26)
+  15 Sep 1916 35
+    activity:resupplying (27,37)
+    time:0750AM (63,45)
+  16 Sep 1916 55
+    place:Bresle (54,57)
+    activity:movement (27,60)
+  17 Sep 1916 71
+  18 Sep 1916 82
+Page 195 (type diary) http://wd3.herokuapp.com/pages/AWD0001cr8  ----------
+  19 Sep 1916 27
+    place:Behencourt (14,27)
+  20 Sep 1916 41
+  21 Sep 1916 68
+Page 196 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpz  ----------
+  21 Sep 1916 0
+  22 Sep 1916 29
+  24 Sep 1916 42
+    person:Second Lieutenant Baker (joined) (31,42)
+  25 Sep 1916 53
+    person:Second Lieutenant I S Thomas (joined) (29,53)
+  28 Sep 1916 61
+  29 Sep 1916 73
+    activity:movement (33,77)
+    place:Behencourt (57,77)
+Page 197 (type cover)
+Page 198 (type diary) http://wd3.herokuapp.com/pages/AWD0001cr5  ----------
+  29 Sep 1916 0
+    place:Baizieux (9,27)
+  1 Oct 1916 31
+  2 Oct 1916 49
+    place:La Chaussee (76,53)
+    activity:movement (23,58)
+    place:Belloy (61,63)
+  3 Oct 1916 72
+    activity:movement (23,78)
+Page 199 (type diary) http://wd3.herokuapp.com/pages/AWD0001cps  ----------
+  3 Oct 1916 0
+  4 Oct 1916 31
+  5 Oct 1916 55
+  6 Oct 1916 78
+    place:Fressenville (60,78)
+Page 200 (type diary) http://wd3.herokuapp.com/pages/AWD0001cp9  ----------
+  6 Oct 1916 0
+    place:Bouillancourt (8,25)
+  7 Oct 1916 29
+    person:Captain Johnson (commander) (24,31)
+    person:Second Lieutenant Bawden (joined) (26,36)
+  8 Oct 1916 41
+    place:Abbeville (61,47)
+    person:Captain Johnson (other) (24,50)
+  9 Oct 1916 53
+    domestic:inspections (22,57)
+  10 Oct 1916 65
+    place:Gamaches (38,73)
+  11 Oct 1916 78
+Page 201 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpo  ----------
+  11 Oct 1916 0
+    place:Bouillancourt (10,24)
+    reference:bouliancourt (11,25)
+    reference:boulincort (10,26)
+  12 Oct 1916 27
+    domestic:inspections (20,30)
+  11 Oct 1916 0
+    reference: (3,4)
+  14 Oct 1916 36
+    reference:afm (92,40)
+  15 Oct 1916 43
+    person:Lieutenant J V Garland (joined) (30,47)
+  16 Oct 1916 53
+    person:Lieutenant Colonel M Moore (other) (68,56)
+  18 Oct 1916 63
+    domestic:inspections (22,72)
+  19 Oct 1916 81
+    person:Captain Marriott (other) (44,84)
+    activity:training (25,91)
+Page 202 (type diary) http://wd3.herokuapp.com/pages/AWD0001cq3  ----------
+  19 Oct 1916 0
+    place:Bouillancourt (8,24)
+  20 Oct 1916 28
+    domestic:inspections (49,28)
+    unit:1 & 3 Brigade (34,29)
+  21 Oct 1916 35
+    person:Captain Crocker (other) (49,36)
+    unit:2 Brigade (38,37)
+    domestic:inspections (20,38)
+  22 Oct 1916 48
+    domestic:inspections (20,50)
+    unit:3 Brigade (33,54)
+  23 Oct 1916 59
+    unit:1 Brigade (33,65)
+  24 Oct 1916 72
+    unit:Supply Section (47,76)
+Page 203 (type diary) http://wd3.herokuapp.com/pages/AWD0001crt  ----------
+  24 Oct 1916 0
+    place:Bouillancourt (8,24)
+  25 Oct 1916 27
+    person:Captain McDermott (other) (31,28)
+    unit:1 Line Transport (80,28)
+    unit:Sso (34,39)
+    time:0930PM (68,44)
+    activity:movement (32,44)
+  26 Oct 1916 50
+    unit:D A R M G (49,51)
+    place:Le Sauveur (78,52)
+    place:Ailly (28,57)
+    place:Fricourt (36,67)
+  27 Oct 1916 74
+    activity:movement (25,76)
+Page 204 (type diary) http://wd3.herokuapp.com/pages/AWD0001cp1  ----------
+  27 Oct 1916 0
+    place:Bouillancourt (8,26)
+  29 Oct 1916 27
+  30 Oct 1916 47
+    activity:movement (20,51)
+Page 205 (type diary) http://wd3.herokuapp.com/pages/AWD0001cq2  ----------
+  30 Oct 1916 0
+    place:Saint Sauveur (10,23)
+    activity:resupplying (25,24)
+    time:0700AM (45,24)
+  31 Oct 1916 26
+    place:Amiens (82,28)
+    place:Ailly (61,29)
+    place:Saint Sauveur (72,29)
+    activity:movement (23,30)
+    unit:1 Brigade Transport (33,30)
+    time:0930AM (48,30)
+    place:Henencourt Wood (58,34)
+    place:La Houssoye (45,35)
+    place:Amiens (86,38)
+    place:Saint Sauveur (62,39)
+    place:Argoeuves (77,39)
+    unit:2 Brigade Transport (33,39)
+    time:0800AM (47,39)
+    place:Bresle (58,43)
+    time:0300PM (72,43)
+    place:La Houssoye (47,44)
+    place:Saint Sauveur (73,47)
+    place:Argoeuves (82,47)
+    place:Ailly (61,48)
+    unit:3 Brigade Transport (31,48)
+    time:0845AM (47,49)
+    place:Baizieux (62,53)
+    place:Amiens (41,54)
+    place:Moyenneville (49,58)
+    place:Baizieux (62,58)
+    place:Baizieux (60,62)
+    place:Saint Sauveur (48,63)
+    person:Lieutenant Colonel Master (73,73)
+Page 206 (type cover)
+Page 207 (type diary) http://wd3.herokuapp.com/pages/AWD0001crb  ----------
+  31 Oct 1916 0
+    unit:1 Division Train (70,21)
+    place:Baizieux (10,27)
+  1 Nov 1916 32
+    activity:resupplying (24,33)
+    place:Baizieux (65,34)
+    time:1000AM (51,34)
+    place:Franvillers (74,35)
+    domestic:inspections (24,39)
+    activity:other (28,39)
+    place:Mametz (64,44)
+    activity:construction (76,44)
+    activity:movement (22,45)
+    unit:D D S T 4 Army (28,48)
+    place:Querrieu (47,49)
+    unit:Ddst 4 army (30,49)
+    gridRef:E_12_B_0_0 (39,52)
+    activity:construction (54,53)
+  2 Nov 1916 59
+    place:Saint Gratien (59,60)
+    unit:1 Black Watch (74,60)
+    person:Lieutenant Garland (departed_posted) (31,66)
+    activity:resupplying (22,76)
+  3 Nov 1916 81
+    place:Baizieux (62,82)
+    unit:141 F A (53,82)
+    place:Edgehill (30,86)
+    place:Bresle (58,86)
+Page 208 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpt  ----------
+  4 Nov 1916 26
+    place:Baizieux (12,26)
+    person:Lieutenant H Curtis (joined) (39,30)
+    person:Lieutenant R C Baker (commander) (41,53)
+    person:Captain C H Johnson (returned_posted) (49,56)
+  5 Nov 1916 63
+    person:Captain C H Johnson (commander) (39,68)
+    person:Major F Price (departed_posted) (44,72)
+    activity:movement (29,77)
+Page 209 (type diary) http://wd3.herokuapp.com/pages/AWD0001crf  ----------
+  5 Nov 1916 0
+  6 Nov 1916 26
+    place:Baizieux (8,28)
+    activity:resupplying (24,31)
+    activity:movement (29,62)
+    place:Albert (9,67)
+  7 Nov 1916 70
+    activity:resupplying (24,85)
+Page 210 (type diary) http://wd3.herokuapp.com/pages/AWD0001crc  ----------
+  7 Nov 1916 0
+  8 Nov 1916 28
+  9 Nov 1916 38
+  10 Nov 1916 67
+Page 211 (type diary) http://wd3.herokuapp.com/pages/AWD0001crm  ----------
+  11 Nov 1916 26
+    place:Albert (8,26)
+  13 Nov 1916 37
+  15 Nov 1916 53
+  16 Nov 1916 66
+Page 212 (type diary) http://wd3.herokuapp.com/pages/AWD0001cri  ----------
+  16 Nov 1916 0
+    place:Albert (8,25)
+  17 Nov 1916 26
+  18 Nov 1916 36
+    person:Lieutenant Bawden (joined) (40,56)
+  19 Nov 1916 62
+    person:Colonel Tulloch (commander) (27,83)
+Page 213 (type diary) http://wd3.herokuapp.com/pages/AWD0001cug  ----------
+  19 Nov 1916 0
+  21 Nov 1916 27
+    activity:resupplying (23,33)
+  22 Nov 1916 42
+  23 Nov 1916 59
+Page 214 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpn  ----------
+  24 Nov 1916 27
+    activity:other (23,29)
+  25 Nov 1916 36
+    place:Albert (33,40)
+  26 Nov 1916 56
+    person:Major C H Coventry (joined) (31,60)
+  27 Nov 1916 63
+Page 215 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqj  ----------
+  28 Nov 1916 28
+    unit:8 Royal Berks Regiment (30,31)
+    activity:fire (76,39)
+  29 Nov 1916 46
+    domestic:inspections (23,50)
+  30 Nov 1916 61
+Page 216 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqa  ----------
+  30 Nov 1916 0
+  2 Dec 1916 36
+    person:Lieutenant Woodger (other) (39,46)
+    domestic:inspections (21,47)
+  3 Dec 1916 58
+    person:Lieutenant R T Cooke (casualty_wounded) (26,66)
+  4 Dec 1916 75
+Page 217 (type diary) http://wd3.herokuapp.com/pages/AWD0001cq7  ----------
+  4 Dec 1916 0
+    place:S.E Of Albert (10,26)
+  6 Dec 1916 34
+  7 Dec 1916 51
+    person:Lieutenant R C Baker (commander) (68,53)
+  8 Dec 1916 62
+  10 Dec 1916 78
+    domestic:medical (48,85)
+    person:Sergeant H Cook (award) (79,88)
+    person:Sergeant Crofts (award) (65,94)
+Page 218 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqy  ----------
+  10 Dec 1916 0
+  11 Dec 1916 32
+    person:Lieutenant Woodger (commander) (61,35)
+    person:Lieutenant Bawden (commander) (48,36)
+    person:Staff Sergeant Danby (award) (75,44)
+  12 Dec 1916 51
+  13 Dec 1916 70
+    person:Lieutenant Thomas (commander) (60,78)
+  14 Dec 1916 86
+    person:Captain Barton (other) (39,91)
+Page 219 (type diary) http://wd3.herokuapp.com/pages/AWD0001cp4  ----------
+  14 Dec 1916 0
+  15 Dec 1916 29
+  17 Dec 1916 36
+    person:Second Lieutenant Thomas (returned_posted) (27,47)
+  18 Dec 1916 51
+  20 Dec 1916 68
+Page 220 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpa  ----------
+  20 Dec 1916 0
+  21 Dec 1916 30
+    person:H W Flackfield (58,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (69,48)
+    person:R W Ridout (49,55)
+Page 221 (type diary) http://wd3.herokuapp.com/pages/AWD0001cqo  ----------
+  22 Dec 1916 0
+  23 Dec 1916 27
+    person:Lieutenant Colonel A G Master (departed_leave) (37,31)
+    person:Major R G F Saunders (commander) (42,35)
+    person:Driver H Hanrahan (award) (57,46)
+    person:Driver J Prior (award) (55,50)
+Page 222 (type diary) http://wd3.herokuapp.com/pages/AWD0001cr0  ----------
+  25 Dec 1916 30
+    person:Corporal H Harwood (promotion) (39,41)
+  26 Dec 1916 54
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (31,59)
+Page 223 (type diary) http://wd3.herokuapp.com/pages/AWD0001cpk  ----------
+  26 Dec 1916 0
+    person:Driver W Gadd (departed_leave) (48,28)
+  27 Dec 1916 31
+    person:Driver Prior (departed_leave) (47,32)
+    domestic:inspections (24,36)
+  28 Dec 1916 38
+    domestic:inspections (26,43)
+    person:Major Lloyd (other) (49,43)
+  30 Dec 1916 64
+    domestic:inspections (25,68)
+  31 Dec 1916 71
+    person:Lieutenant Bawden (59,97)

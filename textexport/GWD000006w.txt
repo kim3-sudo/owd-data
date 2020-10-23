@@ -1,0 +1,69 @@
+GWD000006w wo/95/1282/5
+1 DIVISION: Light Trench Mortar Battery 
+5 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD00010xi  ----------
+  1 Aug 1916 21
+    activity:training (24,24)
+  11 Aug 1916 25
+    place:Millencourt (6,25)
+    unit:1, 2 & 3 Bdes (71,27)
+  12 Aug 1916 28
+    time:1045AM (17,28)
+    activity:training (21,30)
+    activity:training (22,32)
+  16 Aug 1916 33
+    place:Becourt Wood (40,35)
+    activity:movement (23,36)
+    domestic:accomodation (58,36)
+  17 Aug 1916 37
+    time:0910AM (17,37)
+    activity:reserve (25,41)
+    place:Becourt Wood (6,42)
+  20 Aug 1916 43
+    unit:1 & 2 bdes tm (65,46)
+    place:Mametz Wood (41,46)
+    time:0100PM (17,47)
+    place:Clarkes Trench (64,49)
+    place:High Wood (34,50)
+  22 Aug 1916 71
+    activity:line (21,71)
+    activity:line (22,75)
+  23 Aug 1916 77
+    activity:line (43,82)
+    activity:fire (70,88)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD00010x4  ----------
+  23 Aug 1916 0
+  24 Aug 1916 18
+    activity:attack (7,25)
+    activity:attack (58,27)
+    unit:46 T.M.B. (17,38)
+  25 Aug 1916 39
+    activity:attack (52,42)
+    activity:attack (21,43)
+    time:0545PM (17,43)
+    unit:2 R.M.F. (68,45)
+  26 Aug 1916 56
+    activity:attack (21,58)
+    activity:repair (54,62)
+    activity:attack (21,66)
+    unit:Swb;s (35,68)
+    time:0630PM (17,68)
+    unit:S.W.B (44,74)
+    unit:Swb;s (44,74)
+  27 Aug 1916 82
+    time:0300PM (17,86)
+    unit:46 T M B (22,87)
+    domestic:accomodation (62,89)
+    place:Albert (74,89)
+    unit:46 T.M.B (37,90)
+    activity:movement (52,90)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD00010xc  ----------
+  27 Aug 1916 0
+  28 Aug 1916 21
+    place:Albert (6,26)
+    activity:training (25,27)
+  1 Sep 1916 53
+    person:Captain Ellis (commander) (50,53)

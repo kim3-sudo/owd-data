@@ -1,0 +1,535 @@
+GWD00000ln wo/95/1273/3
+1 DIVISION: 52 Battalion Welsh Regiment 
+33 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD00034kr  ----------
+  1 Mar 1919 24
+    place:Lowestoft (6,26)
+    place:Germany (57,26)
+  2 Mar 1919 27
+    time:1255AM (17,27)
+    time:0955AM (17,30)
+    activity:movement (30,30)
+    place:Lowestoft (7,30)
+  3 Mar 1919 32
+    time:0530PM (45,32)
+    place:Dover (14,33)
+    time:1230AM (18,35)
+    activity:movement (23,35)
+    place:Dover (6,35)
+  4 Mar 1919 37
+    place:Dunkirk (36,37)
+    time:0400PM (18,38)
+    place:Dunkirk (7,38)
+    place:Dunkirk (6,39)
+    place:Sand Siding (38,40)
+    time:1030AM (18,41)
+  5 Mar 1919 43
+    place:Cologne (41,43)
+  6 Mar 1919 45
+    time:1130PM (18,45)
+    activity:movement (54,45)
+    place:Cologne (7,45)
+    place:Duisdorf (5,48)
+    time:0230AM (18,49)
+  7 Mar 1919 53
+  8 Mar 1919 56
+    person:Second Lieutenant A L Dyer (discipline) (28,58)
+  10 Mar 1919 59
+  12 Mar 1919 61
+  14 Mar 1919 64
+  16 Mar 1919 79
+  17 Mar 1919 82
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD00034ko  ----------
+  21 Mar 1919 25
+    place:Duisdorf (7,27)
+  24 Mar 1919 34
+    place:Duisdorf (8,35)
+  25 Mar 1919 40
+    place:Duisdorf (7,41)
+  26 Mar 1919 58
+    place:Duisdorf (7,60)
+  27 Mar 1919 64
+    place:Duisdorf (7,65)
+  28 Mar 1919 67
+    place:Duisdorf (7,68)
+  29 Mar 1919 70
+    place:Duisdorf (7,72)
+  30 Mar 1919 73
+    place:Duisdorf (7,75)
+    person:B E Crocker (32,75)
+  31 Mar 1919 82
+    place:Duisdorf (8,85)
+Page 5 (type ) http://wd3.herokuapp.com/pages/AWD00034kk  ----------
+  16 Mar 1919 6
+    orders:other (39,11)
+    reference:No. S.100/2 (60,14)
+    date:16 Mar 1919 (64,8)
+Page 6 (type orders) http://wd3.herokuapp.com/pages/AWD00034jx  ----------
+  16 Mar 1919 0
+    reference:No. S.100/2 (63,5)
+Page 7 (type orders) http://wd3.herokuapp.com/pages/AWD00034js  ----------
+  16 Mar 1919 0
+    person:Captain A Bridgens (commander) (49,34)
+    reference:No. S.100/2 (41,4)
+    date:16 Mar 1919 (53,43)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD00034kn  ----------
+  1 Apr 1919 21
+    place:Duisdorf (7,22)
+  2 Apr 1919 25
+    place:Duisdorf (8,26)
+  3 Apr 1919 30
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,30)
+    place:Duisdorf (8,32)
+    domestic:inspections (32,33)
+    person:Captain J A L Draffin (departed_leave) (25,39)
+    person:Captain R H Lindsay (departed_leave) (41,39)
+    person:Lieutenant W T Shannon (departed_leave) (59,39)
+  4 Apr 1919 42
+    place:Duisdorf (8,44)
+    domestic:hygiene (32,47)
+  5 Apr 1919 51
+    place:Duisdorf (8,52)
+    person:Colonel Fawkes (other) (27,53)
+    person:Lieutenant W Cowper (departed_training) (28,56)
+    domestic:sport (58,62)
+    person:Lieutenant Colonel J R M Minshull Ford (33,65)
+  6 Apr 1919 68
+    place:Duisdorf (8,70)
+    person:Lieutenant Colonel R E Crocker (other) (70,70)
+  7 Apr 1919 72
+    place:Duisdorf (8,74)
+    person:Chaplain H H Longuet Higgins (departed_posted) (35,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (22,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,87)
+    domestic:sport (28,90)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD00034k8  ----------
+  8 Apr 1919 24
+    place:Bonn (61,26)
+    activity:reconnoitered (51,26)
+    place:Duisdorf (8,27)
+    activity:working (44,30)
+  9 Apr 1919 32
+    place:Witterschlick (41,32)
+    person:Second Lieutenant T Molloy (resigned) (29,35)
+    place:Duisdorf (9,35)
+    place:Duisdorf (30,41)
+    domestic:inspections (52,41)
+    place:Lessenich (34,44)
+  10 Apr 1919 45
+    place:Duisdorf (9,48)
+    place:Duisdorf (76,48)
+    domestic:sport (28,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (26,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,52)
+  11 Apr 1919 54
+    activity:reconnoitered (56,54)
+    place:Duisdorf (9,56)
+    place:Rosberg (45,57)
+    activity:training (28,60)
+    place:Duisdorf (42,62)
+    place:Dransdorf (67,63)
+    place:Alfter (77,63)
+    domestic:uniform (27,65)
+  12 Apr 1919 67
+    domestic:uniform (26,67)
+    place:Duisdorf (8,70)
+  13 Apr 1919 74
+    person:Lieutenant E J James (other) (78,74)
+    place:Duisdorf (8,77)
+  14 Apr 1919 80
+    place:Duisdorf (8,83)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD00034ju  ----------
+  15 Apr 1919 23
+    place:Dransdorf (43,25)
+    place:Roisdorf (52,25)
+    place:Duisdorf (6,25)
+    activity:training (31,26)
+  16 Apr 1919 27
+    activity:training (54,29)
+    domestic:hygiene (44,29)
+  17 Apr 1919 36
+    activity:working (59,38)
+    domestic:hygiene (44,38)
+    domestic:inspections (74,41)
+    domestic:sport (27,57)
+    person:Tyson (other) (34,65)
+    person:Chaplain C M Smith (joined) (33,76)
+  18 Apr 1919 80
+    domestic:religion (40,86)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD00034jz  ----------
+  18 Apr 1919 25
+    person:Lieutenant M C Southall (joined) (30,26)
+    place:Duisdorf (6,27)
+    person:Major W A V Findlater (departed_posted) (30,34)
+  19 Apr 1919 40
+  20 Apr 1919 48
+    domestic:religion (39,49)
+  21 Apr 1919 67
+    domestic:sport (81,78)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD00034k9  ----------
+  21 Apr 1919 23
+    place:Duisdorf (6,25)
+    domestic:sport (35,26)
+    unit:1 kfcm northampton (33,39)
+  22 Apr 1919 44
+    activity:training (53,48)
+  23 Apr 1919 50
+    person:Lieutenant H M Hake (other) (25,65)
+  25 Apr 1919 84
+    activity:training (28,87)
+    domestic:hygiene (23,89)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD00034kl  ----------
+  27 Apr 1919 30
+    place:Duisdorf (7,31)
+    domestic:religion (31,32)
+  28 Apr 1919 37
+    unit:51 Welsh Regiment (63,38)
+    domestic:other (43,57)
+  29 Apr 1919 59
+  30 Apr 1919 67
+    domestic:inspections (41,68)
+    activity:training (65,87)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD00034kj  ----------
+  1 May 1919 25
+    domestic:sport (34,26)
+    place:Duisdorf (5,27)
+    person:Sergeant O H Williams (returned_posted) (45,30)
+  3 May 1919 31
+    activity:training (37,32)
+    weather:overcast (33,35)
+  5 May 1919 42
+    activity:training (39,43)
+    activity:training (30,56)
+  6 May 1919 63
+    activity:training (34,65)
+  7 May 1919 67
+    activity:training (34,70)
+  8 May 1919 77
+    person:Lieutenant W T Shannon (departed_posted) (59,87)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD00034kf  ----------
+  8 May 1919 25
+    place:Duisdorf (6,28)
+    domestic:inspections (28,32)
+    domestic:sport (34,33)
+  9 May 1919 35
+    place:Duisdorf (6,37)
+  10 May 1919 46
+    person:Major General E P Strickland (other) (29,48)
+    place:Duisdorf (6,48)
+  11 May 1919 53
+    place:Duisdorf (6,54)
+    domestic:religion (32,56)
+  12 May 1919 63
+    place:Duisdorf (7,65)
+    activity:training (37,67)
+  13 May 1919 70
+    place:Duisdorf (6,72)
+    activity:training (48,73)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD00034k4  ----------
+  14 May 1919 25
+    activity:training (37,27)
+    place:Duisdorf (5,29)
+  15 May 1919 32
+    domestic:sport (54,34)
+    domestic:sport (35,40)
+  16 May 1919 42
+    activity:training (47,43)
+  17 May 1919 51
+    person:Captain E D T Hayes (departed_posted) (65,55)
+  18 May 1919 62
+    person:Captain F Godson (joined) (56,64)
+    domestic:medical (43,68)
+    domestic:religion (29,68)
+  19 May 1919 71
+    activity:training (48,73)
+  20 May 1919 75
+    person:G L Tysham (other) (83,76)
+  21 May 1919 83
+    activity:training (48,84)
+    domestic:other (38,89)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD00034kg  ----------
+  22 May 1919 26
+    activity:training (42,27)
+    place:Duisdorf (5,28)
+  23 May 1919 33
+    activity:training (40,33)
+    activity:reconnoitered (34,41)
+  24 May 1919 44
+    activity:training (34,53)
+  25 May 1919 56
+    domestic:religion (24,58)
+    domestic:medical (41,58)
+  26 May 1919 60
+  27 May 1919 83
+    activity:training (47,83)
+    place:Duisdorf (6,84)
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD00034kc  ----------
+  28 May 1919 26
+    place:Duisdorf (7,27)
+    domestic:hygiene (49,27)
+  29 May 1919 28
+    place:Duisdorf (7,30)
+    activity:training (31,30)
+    unit:Cheshire Regiment (33,40)
+    unit:5 scottish rifles (26,41)
+  30 May 1919 47
+    place:Duisdorf (7,49)
+    activity:training (28,49)
+  31 May 1919 52
+    place:Duisdorf (7,52)
+    domestic:sport (36,53)
+    weather:fine (80,53)
+    weather:fine (23,58)
+    domestic:sport (34,66)
+    person:Major General E P Strickland (other) (48,70)
+    person:Captain G L Worlock (other) (43,90)
+Page 19 (type blank)
+Page 20 (type cover)
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD00034ki  ----------
+  1 Jun 1919 25
+    domestic:religion (27,27)
+  2 Jun 1919 28
+    place:Duisdorf (8,28)
+    place:Duisdorf (6,29)
+    activity:training (52,30)
+  3 Jun 1919 34
+    place:Duisdorf (7,36)
+    domestic:parades (62,40)
+  4 Jun 1919 53
+    place:Duisdorf (7,54)
+    domestic:inspections (50,55)
+    activity:training (29,59)
+    unit:4 bat cheshire Regiment (66,64)
+  5 Jun 1919 70
+    activity:training (39,93)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD00034ke  ----------
+  6 Jun 1919 25
+    place:Duisdorf (6,27)
+  8 Jun 1919 31
+    domestic:inspections (53,33)
+    domestic:religion (26,34)
+    domestic:medical (44,34)
+    place:Duisdorf (5,34)
+  9 Jun 1919 37
+    place:Duisdorf (6,39)
+    unit:53 welsh (60,41)
+    domestic:sport (25,42)
+    domestic:sport (35,42)
+    unit:53 Welch Regiment (64,43)
+  10 Jun 1919 46
+    place:Duisdorf (5,47)
+    domestic:sport (58,48)
+    person:Second Lieutenant P Mactavish (returned_leave) (59,51)
+  14 Jun 1919 56
+    place:Duisdorf (5,57)
+  16 Jun 1919 63
+    place:Duisdorf (5,64)
+    activity:training (52,65)
+  17 Jun 1919 71
+    place:Duisdorf (5,72)
+    person:Captain J A L Draffin (departed_leave) (24,90)
+    person:Second Lieutenant F Ratcliffe (departed_leave) (53,90)
+    person:Captain J A L Draffin (departed_leave) (37,90)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD00034jy  ----------
+  18 Jun 1919 24
+    person:Lieutenant W R D Cooper (departed_leave) (28,26)
+    person:Lieutenant R Parry (departed_leave) (46,26)
+    place:Duisdorf (5,27)
+    unit:Coldstram Guards (65,36)
+    unit:16 lancs fus (72,40)
+    unit:16 Lancashire Fusiliers (82,40)
+  19 Jun 1919 66
+    place:Duisdorf (6,54)
+    person:Lieutenant F W Moorsom (departed_leave) (29,55)
+    person:Lieutenant J C Ferneley (departed_leave) (46,56)
+    person:Lieutenant H Parry (departed_leave) (60,56)
+    time:0815AM (17,61)
+    place:Duisdorf (6,61)
+    activity:movement (31,62)
+    time:0930AM (17,68)
+    place:Bonn (6,69)
+    person:Major R H Montgomery (commander) (29,75)
+    person:Lieutenant Colonel Minshull Ford (other) (26,82)
+    activity:reconnoitered (69,91)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD00034kb  ----------
+  20 Jun 1919 40
+    place:Bonn (6,26)
+    activity:working (48,29)
+    activity:construction (74,29)
+    unit:16 Lancashire Fusiliers (87,35)
+    unit:16 Lancarshire Fusiliers (79,36)
+    place:Rhinewerft (27,36)
+    place:Bonn (5,42)
+    domestic:hygiene (25,46)
+  22 Jun 1919 47
+    place:Bonn (5,48)
+    domestic:religion (32,49)
+  23 Jun 1919 51
+    place:Bonn (5,52)
+    person:Regimental Sergeant Major Lewis (joined) (25,56)
+    person:Lieutenant Colonel Jr Minshull Ford (commander) (30,67)
+    person:J R Minshull Ford (commander) (40,67)
+    person:Major R H Montgomery (commander) (57,70)
+    person:Captain G L Worlock (commander) (55,73)
+  24 Jun 1919 77
+    place:Bonn (5,79)
+    person:Lieutenant H Hunt (returned_leave) (28,79)
+    person:Lieutenant H Hunt (departed_posted) (71,79)
+    person:Captain R H Lindsay (departed_leave) (30,83)
+    activity:training (66,87)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD00034kh  ----------
+  24 Jun 1919 24
+    place:Bonn (7,27)
+  25 Jun 1919 37
+    person:Captain R H Lindsay (departed_posted) (28,39)
+    activity:training (41,43)
+    domestic:sport (57,47)
+  26 Jun 1919 49
+    activity:training (51,58)
+  27 Jun 1919 59
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (77,60)
+    person:Lieutenant L Bell (departed_sick) (61,60)
+    unit:3 Welsh Regiment (62,63)
+    place:Coblenz (83,67)
+    place:Wesseling (75,72)
+  28 Jun 1919 77
+    activity:training (37,84)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD00034k6  ----------
+  28 Jun 1919 25
+    place:Bonn (6,27)
+    domestic:sport (34,30)
+    unit:Hd Qrs Lancashire Division (58,31)
+  29 Jun 1919 41
+    domestic:religion (25,43)
+  30 Jun 1919 45
+    activity:other (40,46)
+    place:Duisdorf (63,46)
+    person:R H Montgomery (author) (55,60)
+Page 27 (type cover)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD00034ka  ----------
+  1 Jul 1919 24
+    activity:movement (34,26)
+    place:Duisdorf (7,27)
+  2 Jul 1919 29
+    person:Captain G L Worlock (departed_leave) (26,29)
+    place:Duisdorf (6,32)
+    place:Bisley (75,35)
+    person:Lieutenant E J James (other) (24,35)
+  3 Jul 1919 45
+    place:Impecoven (64,46)
+    place:Duisdorf (6,48)
+  4 Jul 1919 53
+    place:Duisdorf (6,55)
+    domestic:sport (53,59)
+    place:Widdig (62,66)
+  5 Jul 1919 68
+    place:Duisdorf (7,71)
+  6 Jul 1919 75
+    place:Duisdorf (6,77)
+    domestic:religion (24,77)
+  7 Jul 1919 82
+    place:Duisdorf (6,84)
+    person:Lieutenant J W O Candy (returned_posted) (31,86)
+    person:Lieutenant Jarrett (departed_leave) (83,88)
+    person:Captain J A Gilbert (departed_leave) (63,89)
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD00034kd  ----------
+  7 Jul 1919 25
+    place:Duisdorf (7,26)
+  8 Jul 1919 28
+  9 Jul 1919 38
+    person:Lieutenant S J Needham (departed_leave) (26,43)
+    activity:training (41,46)
+  10 Jul 1919 49
+  11 Jul 1919 59
+    person:Company Sergeant Major Davies (other) (41,61)
+    person:Sergeant Blything (other) (50,61)
+    person:Sergeant Bownes (other) (67,61)
+  12 Jul 1919 72
+  13 Jul 1919 82
+    domestic:religion (26,84)
+    person:Second Lieutenant E Evans (departed_training) (33,90)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD00034k5  ----------
+  14 Jul 1919 26
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (68,27)
+    person:(departed_leave) (30,27)
+    place:Duisdorf (7,28)
+    person: (30,30)
+  15 Jul 1919 34
+    place:Duisdorf (8,35)
+    domestic:hygiene (35,36)
+    domestic:uniform (53,36)
+    person:Captain A W Fish (departed_leave) (61,40)
+    person:other (79,42)
+  16 Jul 1919 47
+    person:other (28,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,49)
+    person:(departed_leave) (61,52)
+  17 Jul 1919 56
+    person:Lieutenant W H Corner (returned_leave) (26,57)
+    person:Captain A G J Owen (departed_leave) (65,57)
+  18 Jul 1919 65
+    domestic:uniform (34,68)
+    person:Second Lieutenant E J Peters (departed_sick) (61,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (74,75)
+    person:Captain G L Worlock (returned_leave) (29,77)
+  19 Jul 1919 78
+    person:Second Lieutenant S E Harper (returned_leave) (51,78)
+    domestic:sport (32,84)
+    person:other (departed_leave) (38,87)
+Page 31 (type diary) http://wd3.herokuapp.com/pages/AWD00034jt  ----------
+  20 Jul 1919 23
+    place:Duisdorf (8,26)
+    domestic:religion (28,26)
+    domestic:medical (74,26)
+    person:Lieutenant R Crow (joined) (55,32)
+  21 Jul 1919 35
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,43)
+  22 Jul 1919 48
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,50)
+    domestic:hygiene (51,57)
+  23 Jul 1919 58
+    domestic:inspections (42,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (74,65)
+  24 Jul 1919 68
+    person:Lieutenant T M Jarrett (returned_leave) (58,68)
+    domestic:hygiene (34,71)
+    domestic:uniform (54,71)
+  25 Jul 1919 81
+    domestic:sport (40,81)
+    person:Lieutenant E Evans (returned_training) (28,83)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD00034kp  ----------
+  26 Jul 1919 24
+    person:Lieutenant L Bell (27,26)
+    place:Duisdorf (7,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,28)
+    person:Major R H Montgomery (departed_posted) (61,32)
+  27 Jul 1919 36
+    domestic:religion (25,38)
+    domestic:medical (60,39)
+    person:other (71,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,43)
+  28 Jul 1919 46
+    person:Second Lieutenant H Taylor (joined) (30,47)
+    person:Lieutenant S J Needham (departed_leave) (28,51)
+    person:Second Lieutenant T Postlethwaite (departed_leave) (50,51)
+    activity:training (55,58)
+  29 Jul 1919 62
+    activity:training (67,64)
+    domestic:inspections (47,64)
+    person:Captain A Bridgens (commander) (30,68)
+    person:Major R H Montgomery (departed_posted) (77,68)
+  30 Jul 1919 85
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD00034km  ----------
+  30 Jul 1919 23
+    person:Lieutenant C Nicholson (returned_hospital) (77,24)
+    place:Duisdorf (8,26)
+    person:S E Harper (departed_sick) (35,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,29)
+  31 Jul 1919 31
+    person:Lieutenant D Candy (departed_posted) (25,35)
+    place:Rosberg (53,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (34,46)
+    person:Captain A Bridgens (72,59)

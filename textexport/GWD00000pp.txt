@@ -1,0 +1,1862 @@
+GWD00000pp wo/95/1258/2
+1 DIVISION:  Divisional Troops: 2 Field Ambulance.  
+136 pages
+
+Page 159 (type cover)
+Page 160 (type cover)
+Page 161 (type diary) http://wd3.herokuapp.com/pages/AWD0003mgc  ----------
+  1 Jul 1915 25
+    place:Verquin (22,27)
+    time:0900AM (13,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 38; wounded: 0 (74,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (71,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 0 (30,34)
+    activity:casualty (42,36)
+    unit:L north lines (41,38)
+  2 Jul 1915 44
+    place:Verquin (23,46)
+    time:0900AM (13,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 6 (68,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 35; wounded: 0 (73,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 35 (59,48)
+    activity:casualty (34,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 19; wounded: 2 (44,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 19; wounded: 0 (50,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (68,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 40; wounded: 0 (72,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (29,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (36,61)
+    unit:Scots Guard (54,62)
+    unit:No. 8 M.A,C (42,65)
+    place:Bethune (68,68)
+    unit:No. 8 M.A,C (50,78)
+    unit:No. 3 Field Ambulance (35,81)
+    place:Bethune (66,84)
+    activity:movement (34,84)
+    time:0800AM (27,87)
+Page 162 (type diary) http://wd3.herokuapp.com/pages/AWD0003mg8  ----------
+  3 Jul 1915 25
+    time:0800AM (48,27)
+    reference:Yerquin (40,27)
+    reference:Ecole Jules Ferry (67,27)
+    place:Verquin (40,27)
+    activity:movement (31,27)
+    time:0850AM (36,31)
+    reference:Bethune (30,31)
+    place:Bethune (29,31)
+    domestic:hygiene (60,37)
+    reference:Bethune (21,48)
+    place:Bethune (20,48)
+    time:0900AM (30,51)
+    time:0900AM (68,51)
+    place:Verquin (54,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (72,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 25; wounded: 0 (31,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 7 (51,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 0 (58,57)
+    unit:No iii ambulance (44,59)
+    unit:No vi a. (63,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (31,63)
+    unit:No viii m.a.c (67,64)
+    time:1200PM (31,69)
+    person:Ritchie (departed_leave) (66,74)
+    person:Boyers (departed_posted) (29,75)
+    unit:26 Brigade Royal Field Artillery (49,75)
+    unit:9 Regiment (63,80)
+    person:Wooderson (45,83)
+    person:Major B W Hogath (joined) (33,86)
+    person:Sergeant Mackenzie (other) (60,87)
+Page 163 (type diary) http://wd3.herokuapp.com/pages/AWD0003meb  ----------
+  3 Jul 1915 0
+  4 Jul 1915 23
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 0 (75,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 9 (58,26)
+    time:0900AM (13,26)
+    place:Bethune (23,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (48,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (74,30)
+    person:Major Hogarth (59,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 13 (49,48)
+    unit:Munster Fusilliers (40,52)
+    person:Lieutenant Ferne (casualty_died) (49,54)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,54)
+  5 Jul 1915 58
+    time:0900AM (9,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 27; wounded: 18 (69,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 27; wounded: 0 (74,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 0 (51,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 24 (43,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 0 (74,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (41,69)
+    person:Lieutenant C F Ferne (casualty_died) (37,72)
+Page 164 (type diary) http://wd3.herokuapp.com/pages/AWD0003met  ----------
+  6 Jul 1915 23
+    time:0900AM (11,26)
+    place:Bethune (21,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 27; wounded: 0 (59,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (54,35)
+    unit:2 welch Regiment (46,41)
+    time:1100AM (12,46)
+    activity:fire (45,47)
+  7 Jul 1915 62
+    time:0900AM (10,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 19 (74,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 0 (48,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (46,74)
+  8 Jul 1915 80
+    weather:rain (47,80)
+    time:0900AM (17,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 38; wounded: 0 (69,84)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,91)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (70,92)
+    person:Second Lieutenant Cooper (casualty_died) (39,93)
+    person:Second Lieutenant A de B Cooper (casualty_died) (37,93)
+Page 165 (type orders) http://wd3.herokuapp.com/pages/AWD0003mgi  ----------
+  8 Jul 1915 0
+    date:2 Jul 1915 (61,18)
+    reference: (33,33)
+    person:Lieutenant Colonel (commander) (56,70)
+    reference: (40,83)
+Page 166 (type orders) http://wd3.herokuapp.com/pages/AWD0003mdw  ----------
+  8 Jul 1915 0
+    date:9 Jul 1915 (59,11)
+Page 167 (type signals) http://wd3.herokuapp.com/pages/AWD0003mdk  ----------
+  8 Jul 1915 0
+    date:19 Jul 1915 (46,29)
+    person:(commander) (33,29)
+    time:0100PM (34,92)
+Page 168 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfd  ----------
+  8 Jul 1915 23
+    time:0900AM (11,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 0 (30,27)
+    place:Bethune (20,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 0 (41,28)
+    time:0900AM (10,29)
+  9 Jul 1915 33
+    unit:L North Lancs (35,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 2 (59,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 0 (74,43)
+    unit:Black Watch (67,53)
+    unit:2 krr (60,57)
+  10 Jul 1915 65
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 46; wounded: 9 (70,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 46; wounded: 9 (61,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 46; wounded: 9 (31,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 38; wounded: 2 (62,80)
+Page 169 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfb  ----------
+  11 Jul 1915 24
+    time:0900AM (9,26)
+    place:Bethune (22,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 41; wounded: 5 (68,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 41; wounded: 5 (50,31)
+    unit:Not 7 ambulance (41,37)
+    time:0320PM (65,57)
+    unit:Bearer Division of No3 Field Ambulance (39,60)
+    unit:No 3 field ambulance (50,61)
+  12 Jul 1915 74
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 27; wounded: 2 (54,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 27; wounded: 2 (60,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 47; wounded: 2 (30,86)
+Page 170 (type diary) http://wd3.herokuapp.com/pages/AWD0003mf1  ----------
+  12 Jul 1915 24
+    person:Private E Passingham (casualty_wounded) (40,27)
+    place:Bethune (22,28)
+    person:Private E Passingham (casualty_wounded) (27,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (48,32)
+    time:1230AM (38,33)
+  13 Jul 1915 39
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 28; wounded: 2 (69,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 28; wounded: 2 (61,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 28; wounded: 2 (29,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 39; wounded: 0 (39,53)
+  14 Jul 1915 61
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 32; wounded: 4 (62,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 52; wounded: 4 (31,72)
+    weather:rain (42,78)
+  15 Jul 1915 79
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 33; wounded: 4 (56,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 33; wounded: 4 (65,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 38; wounded: 4 (46,89)
+Page 171 (type diary) http://wd3.herokuapp.com/pages/AWD0003mga  ----------
+  15 Jul 1915 24
+    place:Bethune (22,27)
+  16 Jul 1915 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 39; wounded: 13 (34,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 52; wounded: 7 (52,48)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,56)
+    person:Cramer (casualty_died) (71,58)
+    time:0915AM (11,59)
+    activity:fire (45,63)
+  17 Jul 1915 70
+    weather:rain (44,70)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 37; wounded: 2 (54,82)
+    unit:Black Watch (43,88)
+Page 172 (type diary) http://wd3.herokuapp.com/pages/AWD0003me9  ----------
+  18 Jul 1915 23
+    time:0900AM (12,27)
+    place:Bethune (22,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 39; wounded: 10 (52,28)
+    unit:No 3 field ambulance (41,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 44; wounded: 6 (54,36)
+    time:0915AM (33,46)
+    activity:fire (59,47)
+    activity:fire (54,57)
+    time:1100AM (70,57)
+  19 Jul 1915 58
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 34; wounded: 13 (59,64)
+    unit:No 1 field ambulance (42,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 50; wounded: 14 (36,74)
+    time:0735AM (49,87)
+    time:0825AM (55,87)
+    activity:fire (38,88)
+    time:1050AM (62,88)
+    time:1155AM (70,88)
+Page 173 (type diary) http://wd3.herokuapp.com/pages/AWD0003mdn  ----------
+  19 Jul 1915 23
+    place:Bethune (19,27)
+    activity:fire (41,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (62,37)
+    activity:movement (46,46)
+    place:Annezin (17,63)
+    time:0545PM (29,66)
+  20 Jul 1915 69
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 27; wounded: 3 (60,72)
+    time:0900AM (10,72)
+    place:Annezin (23,72)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,77)
+    unit:No 1 field ambulance (37,80)
+Page 174 (type diary) http://wd3.herokuapp.com/pages/AWD0003mdx  ----------
+  21 Jul 1915 24
+    place:Annezin (21,27)
+    time:0900AM (10,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 0 (62,29)
+    activity:casualty (19,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 12; wounded: 0 (37,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 0 (17,32)
+    unit:Loyal North Lanes (33,35)
+    unit:Royal North Lanes (25,36)
+  22 Jul 1915 40
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 0 (64,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (73,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 0 (62,51)
+    activity:fire (39,57)
+    time:0500PM (63,58)
+    time:0600PM (29,60)
+  23 Jul 1915 63
+    time:0900AM (7,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (65,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 23; wounded: 0 (38,71)
+    person:Captain Walker (returned_hospital) (28,74)
+    unit:9 Liverpools (70,77)
+    person:Lieutenant Mackenzie (departed_leave) (42,79)
+    person:Major Hogarth (commander) (39,88)
+    person:Lieutenant Colonel (author) (66,96)
+Page 175 (type diary) http://wd3.herokuapp.com/pages/AWD0003mff  ----------
+  26 Jul 1915 76
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (0,100)
+  24 Jul 1915 25
+    time:0900AM (9,27)
+    place:Annezin (21,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 0 (40,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 33; wounded: 0 (30,37)
+    unit:No. 3 field abulance (59,38)
+    person:Major Hogarth (author) (66,48)
+  25 Jul 1915 50
+    time:0900AM (10,54)
+    unit:No. 1 field abulance (69,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 15; wounded: 4 (40,57)
+    person:Lieutenant Mcleod (returned_posted) (49,72)
+    unit:2 Royal Sussex (38,75)
+  26 Jul 1915 76
+    time:0900AM (10,79)
+    person:Lieutenant Colonel Inkson (departed_leave) (29,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 19; wounded: 0 (36,84)
+    person:Lieutenant Boyers (joined) (30,93)
+Page 176 (type diary) http://wd3.herokuapp.com/pages/AWD0003mgs  ----------
+  27 Jul 1915 24
+    place:Annezin (20,27)
+    time:0900AM (8,28)
+    unit:No. 1 field ambulance (41,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (51,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 32; wounded: 0 (36,38)
+    time:1000AM (13,45)
+    activity:movement (32,47)
+    time:1100AM (11,59)
+    activity:movement (31,59)
+    place:Bethune (18,59)
+  28 Jul 1915 63
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (67,67)
+    place:Bethune (20,67)
+    time:0900AM (10,68)
+    unit:No. 1 field ambulance (68,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 0 (33,76)
+  29 Jul 1915 77
+    time:0900AM (9,81)
+    person:Captain Power (32,92)
+    unit:1 l.n. Lanes (60,97)
+Page 177 (type diary) http://wd3.herokuapp.com/pages/AWD0003mde  ----------
+  30 Jul 1915 24
+    place:Bethune (20,27)
+    time:0900AM (7,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (40,31)
+    unit:No. 1 Field Ambulance (63,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (74,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 28; wounded: 0 (62,36)
+  31 Jul 1915 51
+    time:0900AM (7,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (41,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 29; wounded: 0 (33,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (51,68)
+    person:Captain W H Forsyth (joined) (36,71)
+    person:Captain T Walker (joined) (54,71)
+    person:Major B W Hogarth (author) (67,76)
+  1 Aug 1915 77
+    time:0900AM (7,79)
+Page 178 (type cover)
+Page 179 (type diary) http://wd3.herokuapp.com/pages/AWD0003mdb  ----------
+  1 Aug 1915 23
+    place:Bethune (19,25)
+    time:0900AM (7,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 0 (36,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 0 (41,34)
+    unit:No. 3 Field Ambulance (60,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 33; wounded: 0 (39,41)
+  2 Aug 1915 43
+    time:0900AM (7,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 1 (67,69)
+  3 Aug 1915 73
+    person:Colonel Inkson (65,74)
+    time:0900AM (6,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (71,80)
+    unit:No. 1 Field Ambulance (39,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (25,83)
+    unit:No. 3 Field Ambulance (61,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (73,85)
+Page 180 (type diary) http://wd3.herokuapp.com/pages/AWD0003mep  ----------
+  4 Aug 1915 23
+    place:Bethune (22,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 51; wounded: 1 (32,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (47,37)
+    unit:The bearer Division no2 field ambulance (32,41)
+    place:Vermelles (65,44)
+    unit:Not field ambulance bearer Division (31,45)
+    place:Sailly (58,45)
+    time:1000AM (52,48)
+    place:Cambrin (28,48)
+  5 Aug 1915 49
+    unit:No. 1Field Ambulance (39,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (56,59)
+    unit:1 Nothants (29,67)
+    unit:1 Northamptonshire (28,67)
+    unit:1 Nothants (58,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (48,71)
+  6 Aug 1915 73
+    unit:No 1 Field Ambulance (39,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 43; wounded: 0 (40,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (73,90)
+Page 181 (type diary) http://wd3.herokuapp.com/pages/AWD0003me0  ----------
+  7 Aug 1915 22
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 30; wounded: 0 (70,26)
+    place:Bethune (21,26)
+    activity:casualty (29,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 30; wounded: 0 (27,31)
+    unit:No 1 Field Ambulance (43,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 42; wounded: 0 (50,34)
+  8 Aug 1915 43
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (31,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 40; wounded: 0 (46,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (37,65)
+  9 Aug 1915 66
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (62,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 2 (72,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 36; wounded: 0 (57,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (53,86)
+Page 182 (type diary) http://wd3.herokuapp.com/pages/AWD0003mf7  ----------
+  10 Aug 1915 22
+    place:Bethune (20,26)
+    time:0900AM (9,27)
+    unit:No 1 Field Ambulance (27,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (35,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 31; wounded: 0 (44,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (30,42)
+  11 Aug 1915 43
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 0 (60,45)
+  12 Aug 1915 60
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (62,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 31; wounded: 0 (53,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (37,73)
+    domestic:other (26,74)
+  13 Aug 1915 75
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (40,83)
+    unit:No 1 Field Ambulance (29,83)
+    unit:No 3 Field Ambulance (48,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (58,85)
+    unit:No 4 Stationary Hospital (50,88)
+Page 183 (type diary) http://wd3.herokuapp.com/pages/AWD0003mg5  ----------
+  13 Aug 1915 23
+    place:Bethune (20,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (46,28)
+  14 Aug 1915 32
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (68,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (73,40)
+    unit:No. 1 field ambulance (39,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 32; wounded: 0 (42,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (70,47)
+  15 Aug 1915 50
+    unit:No. 1 field ambulance (26,59)
+    unit:No. 3 field ambulance (44,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (35,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (53,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 37; wounded: 0 (47,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (72,70)
+  16 Aug 1915 73
+    unit:No. 1 field ambulance (67,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (28,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 42; wounded: 0 (53,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (57,90)
+Page 184 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfo  ----------
+  16 Aug 1915 23
+    place:Bethune (19,27)
+    unit:3 Field Ambulance (41,28)
+    time:0330PM (48,31)
+  17 Aug 1915 32
+    time:0900AM (14,36)
+    unit:3 Field Ambulance (36,39)
+    weather:rain (38,50)
+  18 Aug 1915 52
+    unit:No. 1 Field Ambulance (68,58)
+    unit:3 Field Ambulance (35,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 31; wounded: 0 (72,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (42,64)
+    weather:rain (38,66)
+    weather:fine (34,70)
+    place:Bethune (52,72)
+    activity:fire (32,72)
+  19 Aug 1915 76
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (27,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 39; wounded: 0 (65,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (41,88)
+Page 185 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfv  ----------
+  20 Aug 1915 22
+    place:Bethune (21,25)
+    time:0900AM (12,27)
+    activity:casualty (28,28)
+    unit:No. 1 Field Ambulance (39,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (50,31)
+    unit:No. 4 Stationary Hospital (46,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 34; wounded: 0 (36,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (73,45)
+  21 Aug 1915 47
+    unit:No. 1 Field Ambulance (39,56)
+    unit:No. 3 Field Ambulance (55,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (64,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (66,66)
+    person:Captain W H Forsyth (departed_posted) (28,69)
+    person:Captain T Walker (departed_posted) (32,76)
+    person:Lieutenant T E Ashley (joined) (27,84)
+Page 186 (type diary) http://wd3.herokuapp.com/pages/AWD0003mdd  ----------
+  22 Aug 1915 21
+    place:Bethune (22,25)
+    activity:casualty (28,27)
+    unit:No. 1 field ambulnace (70,27)
+    time:0900AM (11,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 0 (54,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (36,30)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 41; wounded: 0 (67,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,35)
+    person:Captain C R Macleod (returned_posted) (28,42)
+  23 Aug 1915 46
+    unit:No. 3 Field Ambulance (28,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 34; wounded: 0 (41,56)
+    unit:No. 1 Field Ambulance (50,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (66,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 78; wounded: 0 (54,60)
+  24 Aug 1915 67
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (43,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 15; wounded: 0 (55,72)
+Page 187 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfr  ----------
+  25 Aug 1915 22
+    time:0900AM (11,27)
+    place:Bethune (20,27)
+    activity:casualty (28,28)
+    unit:No. 1 Field Ambulance (44,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (52,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (35,38)
+  26 Aug 1915 40
+    unit:No. 1 Field Ambulance (71,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 63; wounded: 0 (61,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (34,53)
+  27 Aug 1915 56
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (26,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 50; wounded: 0 (55,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (27,73)
+    person:Colonel Wilmot Herringham (other) (31,77)
+  28 Aug 1915 83
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (47,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 48; wounded: 0 (36,90)
+Page 188 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfz  ----------
+  28 Aug 1915 23
+    place:Bethune (22,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (38,27)
+    time:0900AM (10,27)
+  29 Aug 1915 31
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 0 (49,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 51; wounded: 0 (58,43)
+  30 Aug 1915 52
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (54,55)
+    activity:casualty (29,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 51; wounded: 0 (51,61)
+  31 Aug 1915 72
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 3 (54,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 61; wounded: 4 (53,85)
+Page 189 (type diary) http://wd3.herokuapp.com/pages/AWD0003mgy  ----------
+  31 Aug 1915 24
+    place:Bethune (20,27)
+    place:Allouagne (37,27)
+    person:Lieutenant Colonel E T Inkson (66,40)
+    person:Inkson (author) (61,43)
+Page 190 (type cover)
+Page 191 (type diary) http://wd3.herokuapp.com/pages/AWD0003mg9  ----------
+  31 Aug 1915 0
+  1 Sep 1915 22
+    place:Bethune (21,27)
+    time:0900AM (11,27)
+    casualties:died: 2; killed: 0; missing: 0; prisoner: 0; sick: 27; wounded: 11 (65,28)
+    casualties:died: 2; killed: 0; missing: 0; prisoner: 0; sick: 27; wounded: 11 (30,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 49; wounded: 10 (41,33)
+    unit:No 1 Field Ambulance (57,33)
+    casualties:died: 2; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 2 (44,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 10 (40,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 106; wounded: 11 (70,42)
+    casualties:died: 2; killed: 0; missing: 0; prisoner: 0; sick: 108; wounded: 11 (26,43)
+    weather:rain (33,56)
+    weather:rain (44,56)
+  2 Sep 1915 60
+    casualties:died: 3; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 26 (66,68)
+    casualties:died: 3; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 26 (33,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 37; wounded: 4 (68,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 20 (47,75)
+    unit:27 Field Ambulance (48,84)
+Page 192 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfy  ----------
+  2 Sep 1915 0
+  3 Sep 1915 23
+    place:Bethune (20,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 20 (56,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 18 (47,27)
+    time:0900AM (11,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 6 (72,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 17; wounded: 2 (49,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 46; wounded: 20 (29,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (56,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 47; wounded: 20 (46,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 2 (29,40)
+    place:Ecole Jules Ferry (44,48)
+    place:Annezin (57,48)
+    unit:27 Field Ambulance (51,51)
+    place:Bethune (44,54)
+    activity:movement (34,55)
+    time:0215PM (53,56)
+    unit:Second Brigade (63,59)
+    time:0330PM (27,62)
+    place:Allouagne (19,66)
+    time:0515PM (10,66)
+    place:Allouagne (43,67)
+    activity:movement (39,67)
+    place:Cercle Catholique (63,68)
+    domestic:accomodation (46,70)
+    domestic:accomodation (39,74)
+    weather:rain (44,76)
+    weather:rain (55,78)
+    domestic:rations (50,81)
+  4 Sep 1915 84
+    time:0900AM (10,86)
+    place:Allouagne (20,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 5 (47,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 5 (60,90)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 14 (35,92)
+Page 193 (type diary) http://wd3.herokuapp.com/pages/AWD0003mdl  ----------
+  4 Sep 1915 24
+    time:0900AM (9,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 48; wounded: 11 (30,27)
+    place:Allouagne (20,27)
+    unit:27 Field Ambulance (43,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,32)
+    weather:rain (38,39)
+    activity:casualty (44,41)
+    unit:Second Brigade (30,43)
+    place:Lillers (52,43)
+    activity:other (30,48)
+    domestic:hygiene (46,49)
+    person:Major Hogarth (other) (42,56)
+  5 Sep 1915 59
+    place:Allouagne (20,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 0 (57,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 0 (48,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (62,67)
+    domestic:religion (32,72)
+  6 Sep 1915 73
+    time:1000AM (57,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 17; wounded: 0 (48,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,82)
+    domestic:medical (40,91)
+Page 194 (type diary) http://wd3.herokuapp.com/pages/AWD0003mdm  ----------
+  7 Sep 1915 22
+    place:Allouagne (20,25)
+    time:0900AM (12,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 0 (60,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 29; wounded: 0 (66,33)
+    activity:training (35,41)
+    person:Captain C Yatesford (returned_leave) (31,47)
+    weather:fine (35,48)
+  8 Sep 1915 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 19; wounded: 0 (64,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 31; wounded: 0 (54,59)
+    activity:training (37,68)
+  9 Sep 1915 72
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (67,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 28; wounded: 0 (50,80)
+    unit:9 Liverpool (52,82)
+Page 195 (type diary) http://wd3.herokuapp.com/pages/AWD0003mea  ----------
+  10 Sep 1915 22
+    place:Allouagne (22,26)
+    time:0900AM (12,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 12; wounded: 0 (62,27)
+    unit:141 F.A. (68,31)
+    unit:Not f.a. (44,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 32; wounded: 0 (67,35)
+    weather:fine (31,42)
+    activity:training (36,47)
+  11 Sep 1915 52
+    time:0900AM (11,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (61,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 25; wounded: 0 (56,62)
+    weather:fine (29,70)
+    activity:training (42,71)
+  12 Sep 1915 75
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (52,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (49,83)
+    domestic:religion (31,87)
+    person:Captain Bell (other) (32,89)
+Page 196 (type diary) http://wd3.herokuapp.com/pages/AWD0003mdj  ----------
+  13 Sep 1915 21
+    place:Allouagne (22,25)
+    time:0900AM (12,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (55,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 0 (46,30)
+    activity:training (38,39)
+  14 Sep 1915 46
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 1 (58,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (67,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,57)
+    unit:1 9 Kings (42,59)
+    unit:9 Kings Liverpool (46,59)
+    unit:2 krr (71,64)
+    unit:No 10 stationary hospital (46,67)
+    unit:No 7 mac (65,67)
+    activity:training (34,68)
+    activity:training (46,71)
+    person:Major Hogarth (commander) (69,73)
+    weather:rain (36,76)
+  15 Sep 1915 79
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 12; wounded: 0 (52,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,89)
+Page 197 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfc  ----------
+  15 Sep 1915 23
+    place:Allouagne (22,24)
+    activity:training (37,27)
+    activity:training (53,28)
+    place:Allouagne (22,29)
+  16 Sep 1915 33
+    time:0900AM (8,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,43)
+    activity:training (40,50)
+    activity:training (49,52)
+  17 Sep 1915 54
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 0 (52,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,65)
+    activity:training (37,68)
+  18 Sep 1915 77
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,86)
+    activity:training (35,89)
+Page 198 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfi  ----------
+  19 Sep 1915 23
+    place:Allouagne (22,24)
+    time:0900AM (11,26)
+    place:Allouagne (23,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 0 (63,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (71,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,30)
+    unit:9 Kings Liverpool (40,39)
+    unit:9 Kings (37,40)
+    domestic:religion (28,43)
+    domestic:religion (39,44)
+    time:1000AM (63,44)
+  20 Sep 1915 56
+    time:0900AM (8,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (52,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (71,67)
+    activity:training (45,75)
+    time:0915PM (18,75)
+    unit:1 Infantry Brigade (50,77)
+    place:Le Marequet Wood (41,84)
+    unit:141 Field Ambulance (66,89)
+Page 199 (type diary) http://wd3.herokuapp.com/pages/AWD0003mf4  ----------
+  21 Sep 1915 21
+    time:0900AM (13,25)
+    place:Allouagne (23,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 0 (62,28)
+    unit:141 field ambulance (64,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 4; sick: 0; wounded: 0 (29,42)
+    time:0915AM (13,45)
+    activity:movement (37,47)
+    place:Le Marequet Wood (19,51)
+    time:0945AM (13,52)
+    unit:1 Brigade (36,62)
+    unit:2 Brigade (60,63)
+    place:Marles les Mines (32,66)
+    place:Lapugnoy (49,66)
+    person:Captain C R Macleod (returned_leave) (34,74)
+  22 Sep 1915 80
+    time:0900AM (11,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (56,84)
+Page 200 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfq  ----------
+  22 Sep 1915 23
+    activity:training (39,27)
+  23 Sep 1915 32
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 0 (52,36)
+    time:0900AM (9,38)
+    activity:training (37,49)
+    weather:rain (36,53)
+  24 Sep 1915 60
+    time:0700AM (7,64)
+    activity:movement (38,64)
+    place:Philosophe (30,75)
+    place:Le Rutoire Farm (55,81)
+    time:1100AM (7,88)
+    place:Verquin (21,88)
+    activity:movement (38,90)
+    place:Verquin (47,93)
+Page 201 (type diary) http://wd3.herokuapp.com/pages/AWD0003mgb  ----------
+  24 Sep 1915 23
+    place:Verquin (20,26)
+    place:Verquin (39,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 0 (69,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 7 (73,55)
+    weather:rain (32,63)
+  25 Sep 1915 65
+    place:Verquin (21,68)
+    time:0900AM (5,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,75)
+    time:1100AM (7,86)
+Page 202 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfa  ----------
+  25 Sep 1915 22
+    place:Verquin (21,25)
+    activity:resupplying (35,35)
+    time:1115AM (6,43)
+    place:Philosophe (58,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 32 (56,64)
+    time:1200PM (7,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 32 (68,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 32 (28,69)
+    activity:casualty (39,69)
+    time:0200PM (7,73)
+    activity:resupplying (49,79)
+    unit:The dados 1 Division (29,79)
+Page 203 (type diary) http://wd3.herokuapp.com/pages/AWD0003me3  ----------
+  25 Sep 1915 22
+    place:Verquin (21,24)
+    weather:rain (33,26)
+    time:0750PM (12,63)
+    time:0900PM (11,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,89)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 420 (63,90)
+Page 204 (type diary) http://wd3.herokuapp.com/pages/AWD0003mek  ----------
+  25 Sep 1915 23
+    place:Verquin (21,27)
+  26 Sep 1915 48
+    place:Verquin (21,52)
+    time:0600AM (10,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 143 (49,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 164 (28,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (64,62)
+    time:0900AM (10,68)
+    casualties:died: 7; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 588 (40,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 377 (50,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 32 (60,87)
+Page 205 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfp  ----------
+  26 Sep 1915 22
+    time:1100AM (20,25)
+    place:Verquin (23,25)
+    place:Philosophe (69,26)
+    time:1100AM (16,34)
+    time:1200PM (17,37)
+    time:0600AM (69,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 86 (63,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,45)
+    time:0130PM (16,47)
+    activity:movement (31,50)
+    place:Philosophe (36,52)
+    time:0740PM (14,59)
+    time:0900PM (13,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (71,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,88)
+Page 206 (type diary) http://wd3.herokuapp.com/pages/AWD0003mdv  ----------
+  26 Sep 1915 23
+    place:Verquin (21,24)
+    weather:fine (36,49)
+  27 Sep 1915 65
+    time:0600AM (22,68)
+    time:0900AM (21,81)
+    casualties:died: 6; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 222 (60,82)
+    casualties:died: 6; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 215 (28,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 7 (53,93)
+Page 207 (type diary) http://wd3.herokuapp.com/pages/AWD0003mdz  ----------
+  27 Sep 1915 23
+    place:Verquin (22,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,27)
+    time:1200PM (21,30)
+    weather:fine (38,37)
+    activity:casualty (39,41)
+    time:0330PM (15,53)
+    place:Philosophe (52,55)
+    place:Verquin (69,60)
+    time:0600PM (16,73)
+    activity:movement (40,75)
+    time:0800PM (15,81)
+    weather:rain (46,82)
+Page 208 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfn  ----------
+  27 Sep 1915 22
+    place:Verquin (20,27)
+    time:0900PM (20,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (62,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,41)
+  28 Sep 1915 58
+    time:0600AM (20,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,70)
+    time:0700AM (19,73)
+    time:0900AM (20,80)
+    casualties:died: 4; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 161 (54,81)
+    time:0900AM (17,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 161 (69,83)
+    casualties:died: 4; killed: 0; missing: 0; prisoner: 0; sick: 25; wounded: 439 (46,89)
+    casualties:died: 4; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (27,91)
+Page 209 (type diary) http://wd3.herokuapp.com/pages/AWD0003mdu  ----------
+  28 Sep 1915 22
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (49,26)
+    time:0900AM (7,27)
+    place:Verquin (22,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 4; sick: 0; wounded: 0 (32,43)
+Page 210 (type diary) http://wd3.herokuapp.com/pages/AWD0003mes  ----------
+  28 Sep 1915 23
+    place:Verquin (21,26)
+    place:Verquin (63,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (36,58)
+    person:Private J R Appleby (casualty_wounded) (38,67)
+    person:Private T W Bryan (casualty_wounded) (37,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (37,72)
+    person:Private J Rostron (casualty_wounded) (40,74)
+    person:Private E Baldwin (casualty_wounded) (38,78)
+    person:Lieutenant H Boyers (departed_posted) (30,87)
+    person:Lieutenant F Dallimore (joined) (28,92)
+Page 211 (type diary) http://wd3.herokuapp.com/pages/AWD0003mf2  ----------
+  28 Sep 1915 23
+    place:Verquin (21,26)
+    activity:movement (34,31)
+    place:Verquin (44,31)
+    unit:141 Field Ambulance (43,32)
+    place:Verquin (44,36)
+    place:Philosophe (20,43)
+    time:0600PM (5,43)
+    mapRef: Fosse No. 7 (52,53)
+    unit:15 Dunnin (34,60)
+    time:1200AM (7,64)
+    place:Hulluch (39,67)
+    unit:1 Brigade (59,70)
+    gridRef:G_16_D__ (44,72)
+    place:Loos (52,84)
+Page 212 (type diary) http://wd3.herokuapp.com/pages/AWD0003mg6  ----------
+  28 Sep 1915 0
+  29 Sep 1915 23
+    place:Philosophe (20,26)
+    time:0900AM (6,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 9 (67,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,31)
+    time:1030AM (6,38)
+    unit:3 Cavalry Division (35,42)
+    place:Loos (42,46)
+    place:Quality Street (48,53)
+    gridRef:G_34_D_6_9 (50,60)
+    time:1200PM (7,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (69,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 10 (51,84)
+    time:0230PM (6,85)
+    place:Noeux les Mines (69,91)
+Page 213 (type diary) http://wd3.herokuapp.com/pages/AWD0003mg1  ----------
+  29 Sep 1915 24
+    place:Philosophe (18,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 10 (64,43)
+    unit:28 field ambulance (65,47)
+    place:Bethune (32,48)
+    time:0630PM (6,56)
+    place:Philosophe (50,63)
+    time:0900PM (7,69)
+    time:0900PM (5,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,75)
+    weather:rain (43,79)
+    weather:cold (57,79)
+  30 Sep 1915 80
+    time:0600AM (9,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,85)
+Page 214 (type diary) http://wd3.herokuapp.com/pages/AWD0003me2  ----------
+  30 Sep 1915 24
+    place:Philosophe (20,26)
+    time:0900AM (6,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 18 (63,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 17; wounded: 17 (70,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 17; wounded: 0 (30,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 16 (46,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (30,40)
+    time:1030AM (6,41)
+    person:Captain Ford (other) (41,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,63)
+    time:1200PM (7,65)
+    time:0600PM (7,70)
+    unit:47 Division (60,79)
+    time:0830PM (7,85)
+Page 215 (type diary) http://wd3.herokuapp.com/pages/AWD0003mgo  ----------
+  30 Sep 1915 23
+    place:Philosophe (20,26)
+    place:Philosophe (44,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (69,47)
+    time:0900PM (5,48)
+Page 216 (type diary) http://wd3.herokuapp.com/pages/AWD0003me5  ----------
+  30 Sep 1915 0
+    unit:Bearer Division (56,26)
+  24 Sep 1915 28
+    activity:movement (44,38)
+    place:Allouagne (54,38)
+    place:Philosophe (31,40)
+    place:Philosophe (21,48)
+    place:Le Rutoire Farm (53,51)
+  25 Sep 1915 55
+    place:Le Rutoire Farm (56,60)
+    activity:movement (34,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,84)
+Page 217 (type diary) http://wd3.herokuapp.com/pages/AWD0003mh0  ----------
+  25 Sep 1915 23
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 250 (34,28)
+  26 Sep 1915 45
+    time:0930PM (66,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 450 (49,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,84)
+Page 218 (type diary) http://wd3.herokuapp.com/pages/AWD0003me1  ----------
+  27 Sep 1915 24
+    unit:Guards Division (36,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,31)
+    activity:casualty (30,32)
+    time:1200AM (10,49)
+    time:1200AM (32,49)
+    place:Quality Street (55,58)
+  28 Sep 1915 61
+    time:0800AM (27,65)
+    time:0800AM (7,67)
+    place:Philosophe (30,72)
+    activity:movement (60,75)
+    time:0700PM (7,79)
+    time:0700PM (33,80)
+  29 Sep 1915 81
+    place:Loos (61,90)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 60 (41,93)
+Page 219 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfs  ----------
+  30 Sep 1915 23
+    activity:casualty (32,27)
+    place:Lens (67,34)
+    place:Maroc (31,35)
+    place:Maroc (66,39)
+    activity:casualty (45,39)
+    unit:6 London ambulance (39,42)
+  1 Oct 1915 44
+  2 Oct 1915 54
+    place:Noeux-les-Mines (46,58)
+    person:Lieutenant Colonel Inkson (62,64)
+Page 220 (type orders) http://wd3.herokuapp.com/pages/AWD0003mec  ----------
+  2 Oct 1915 0
+    person:Colonel S Macdonald (commander) (47,13)
+    date:29 Aug 1915 (52,17)
+    date:31 Aug 1915 (55,28)
+    date:30 Aug 1915 (48,51)
+    reference:Appendix I (34,7)
+    date:2 Sep 1915 (56,72)
+    reference:royal Army Medical Corps Operation Order No 55 (53,8)
+    date:3 Sep 1915 (50,88)
+Page 221 (type orders) http://wd3.herokuapp.com/pages/AWD0003mgx  ----------
+  2 Oct 1915 0
+    reference:Appendix I - page 2 (35,5)
+    person:Colonel S Macdonald (commander) (56,74)
+Page 222 (type orders) http://wd3.herokuapp.com/pages/AWD0003mgv  ----------
+  2 Oct 1915 0
+    reference:royal Army Medical Corps Operation Order No 58 (43,12)
+    person:Colonel S Macdonald (commander) (39,17)
+    date:16 Sep 1915 (59,21)
+    reference:Appendix II (55,7)
+    person:Major W R P Goodwin (other) (55,73)
+Page 223 (type orders) http://wd3.herokuapp.com/pages/AWD0003mds  ----------
+  2 Oct 1915 0
+    orders:move (33,12)
+Page 224 (type orders) http://wd3.herokuapp.com/pages/AWD0003mgq  ----------
+  2 Oct 1915 0
+    person:Major Goodwin (commander) (67,41)
+    date:20 Sep 1915 (24,53)
+    date:20 Sep 1915 (31,56)
+Page 225 (type orders) http://wd3.herokuapp.com/pages/AWD0003mgj  ----------
+  2 Oct 1915 0
+    date:16 Sep 1915 (43,31)
+    person:Major W R Goodwin (other) (74,61)
+    date:19 Sep 1915 (22,77)
+Page 226 (type orders) http://wd3.herokuapp.com/pages/AWD0003mdr  ----------
+  2 Oct 1915 0
+    date:19 Sep 1915 (58,14)
+    reference:Appendix III (56,6)
+    person:Colonel S Macdonald (commander) (43,9)
+Page 227 (type orders) http://wd3.herokuapp.com/pages/AWD0003mdh  ----------
+  2 Oct 1915 0
+    reference:Appendix III - page 2 (32,3)
+Page 228 (type orders) http://wd3.herokuapp.com/pages/AWD0003mfh  ----------
+  2 Oct 1915 0
+    reference:Appendix III - page 3 (33,6)
+    person:Colonel S Macdonald (58,67)
+    person:Colonel S Macdonald (commander) (51,71)
+Page 229 (type signals) http://wd3.herokuapp.com/pages/AWD0003mgg  ----------
+  2 Oct 1915 0
+    date:26 Sep 1915 (44,29)
+    signals:other (32,34)
+    time:1100AM (43,63)
+    person:Major W R P Goodwin (54,88)
+Page 230 (type signals) http://wd3.herokuapp.com/pages/AWD0003me4  ----------
+  2 Oct 1915 0
+    date:28 Sep 1915 (44,28)
+    time:0105PM (37,88)
+Page 231 (type orders) http://wd3.herokuapp.com/pages/AWD0003mgu  ----------
+  2 Oct 1915 0
+    person:Colonel S Macdonald (commander) (41,13)
+    date:28 Sep 1915 (56,18)
+    orders:move (35,26)
+    reference:Appendix VI (33,47)
+    reference:Appendix V (47,6)
+    orders:move (40,77)
+    person:Major W R P Goodwin (other) (57,88)
+Page 232 (type orders) http://wd3.herokuapp.com/pages/AWD0003mdp  ----------
+  2 Oct 1915 0
+    person:Colonel S Macdonald (commander) (42,18)
+    date:30 Sep 1915 (54,23)
+    reference:Appendix 7 (47,5)
+Page 233 (type cover)
+Page 234 (type diary) http://wd3.herokuapp.com/pages/AWD0003mg0  ----------
+  1 Oct 1915 23
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 19 (52,26)
+    place:Philosophe (20,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 19 (61,28)
+    time:0600AM (22,30)
+    casualties:died: 2; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 24 (60,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (69,37)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 23 (27,37)
+    time:0900AM (7,38)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,42)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (67,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 0 (51,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 14 (67,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 20 (26,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 20 (41,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (53,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (59,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (44,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (65,58)
+    time:1200PM (7,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (25,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (73,61)
+    unit:No 4 field ambulance (69,73)
+    place:Philosophe (56,74)
+    place:Lens (63,80)
+    place:Quality Street (55,83)
+    place:Loos (36,85)
+    activity:movement (46,90)
+    time:0300PM (6,91)
+    place:Philosophe (39,92)
+Page 235 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfj  ----------
+  1 Oct 1915 23
+    time:0530PM (5,27)
+    time:1200AM (8,34)
+  2 Oct 1915 38
+    time:0900AM (6,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 5 (56,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 5 (29,45)
+    time:1120AM (6,58)
+Page 236 (type diary) http://wd3.herokuapp.com/pages/AWD0003mdt  ----------
+  2 Oct 1915 22
+Page 237 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfk  ----------
+  3 Oct 1915 23
+    place:Noeux les Mines (20,28)
+    domestic:religion (32,38)
+  4 Oct 1915 48
+    weather:rain (53,58)
+  5 Oct 1915 62
+    weather:rain (36,69)
+    time:0530PM (7,74)
+    place:Philosophe (61,83)
+    place:Mazingarbe (44,87)
+Page 238 (type diary) http://wd3.herokuapp.com/pages/AWD0003mf5  ----------
+  5 Oct 1915 0
+  6 Oct 1915 23
+    place:Noeux les Mines (19,26)
+    activity:movement (43,26)
+    time:0730AM (7,28)
+    place:Philosophe (54,29)
+    time:0800AM (8,34)
+    activity:movement (38,35)
+    place:Mazingarbe (56,36)
+    place:Mazingarbe (18,38)
+    place:Mazingarbe (48,39)
+    time:0900AM (8,39)
+    unit:38 field ambulance (37,42)
+    time:1000AM (61,43)
+    unit:38 Field Ambulance (28,43)
+    unit:Not field ambulance (29,51)
+    place:Philosophe (42,62)
+    time:0600PM (50,62)
+    place:Philosophe (40,70)
+  7 Oct 1915 71
+    place:Mazingarbe (20,75)
+    weather:fine (34,75)
+    person:Captain E L Mackenzie (joined) (29,84)
+    place:Philosophe (52,88)
+Page 239 (type diary) http://wd3.herokuapp.com/pages/AWD0003mf3  ----------
+  7 Oct 1915 22
+    place:Mazingarbe (18,26)
+    person:Captain Lennane (departed_sick) (31,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (40,35)
+  8 Oct 1915 47
+    place:Mazingarbe (19,52)
+    activity:movement (32,59)
+    time:0600PM (11,59)
+    activity:movement (44,61)
+    place:Noeux les Mines (27,66)
+    place:Noeux-les-Mines (18,69)
+    unit:142 Brigade (35,74)
+    time:0900PM (10,81)
+    place:Philosophe (58,88)
+    person:Captain Walker (other) (30,91)
+Page 240 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfw  ----------
+  9 Oct 1915 22
+    place:Noeux les Mines (19,26)
+    person:Field Marshal Douglas Haig (other) (32,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (39,71)
+    person:Private R Chappel (casualty_wounded) (49,87)
+    person:Private J Daley (casualty_wounded) (29,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (40,90)
+    person:Private E Rowlands (casualty_wounded) (30,92)
+Page 241 (type diary) http://wd3.herokuapp.com/pages/AWD0003mf9  ----------
+  9 Oct 1915 23
+    place:Noeux les Mines (20,26)
+    person:Private Linney (discipline) (67,28)
+  10 Oct 1915 39
+    person:Captain E L Mackenzie (departed_posted) (36,47)
+    person:Lieutenant Dallimore (other) (28,54)
+    weather:fine (32,63)
+  11 Oct 1915 65
+    person:Lieutenant F Dallimore (departed_posted) (32,70)
+Page 242 (type diary) http://wd3.herokuapp.com/pages/AWD0003mgt  ----------
+  11 Oct 1915 23
+    weather:rain (34,34)
+  12 Oct 1915 37
+    place:Philosophe (57,42)
+    person:Lieutenant T E Ashley (departed_posted) (28,46)
+    person:Lieutenant Dallimore (returned_posted) (38,50)
+    activity:resupplying (39,55)
+    unit:Not dressing station (37,65)
+    place:Mazingarbe (59,65)
+  13 Oct 1915 67
+    time:1120AM (7,73)
+    place:Mazingarbe (47,79)
+    person:Major Hogarth (commander) (34,89)
+Page 243 (type diary) http://wd3.herokuapp.com/pages/AWD0003me7  ----------
+  13 Oct 1915 23
+    place:Noeux les Mines (22,26)
+    unit:141 field ambulance (53,27)
+    time:1245PM (6,27)
+    person:Captain Ford (departed_posted) (49,30)
+    time:0800PM (5,34)
+    activity:resupplying (30,34)
+  14 Oct 1915 39
+    time:0100PM (6,45)
+    place:Noeux les Mines (21,45)
+    place:Allouagne (49,49)
+    time:0400PM (7,62)
+    place:Philosophe (31,70)
+    unit:47 Durum (49,82)
+    place:Loos (28,92)
+Page 244 (type diary) http://wd3.herokuapp.com/pages/AWD0003mer  ----------
+  14 Oct 1915 23
+    place:Noeux les Mines (21,24)
+    place:Allouagne (54,30)
+  15 Oct 1915 31
+    time:0930AM (6,34)
+    activity:movement (49,38)
+    place:Philosophe (68,43)
+    time:0100PM (7,44)
+    place:Allouagne (20,45)
+    place:Allouagne (45,48)
+    activity:casualty (51,52)
+    time:0300PM (7,57)
+    person:Captain Macleod (other) (50,60)
+    person:Lieutenant Ashley (discipline) (55,65)
+    unit:4 corps (29,73)
+    time:0430PM (7,74)
+    person:Ashley (discipline) (28,77)
+    time:0930PM (6,88)
+Page 245 (type diary) http://wd3.herokuapp.com/pages/AWD0003me6  ----------
+  5 Oct 1915 25
+  6 Oct 1915 34
+    unit:38 Field Ambulance (38,37)
+    place:Philosophe (20,39)
+  7 Oct 1915 42
+    place:Loos (58,42)
+    place:Quality Street (55,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,46)
+  8 Oct 1915 47
+  9 Oct 1915 51
+  10 Oct 1915 54
+  11 Oct 1915 58
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 43; wounded: 0 (27,60)
+  12 Oct 1915 61
+  13 Oct 1915 64
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,65)
+    place:Loos (28,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 30; wounded: 221 (27,73)
+    activity:casualty (36,76)
+    place:Philosophe (49,77)
+  14 Oct 1915 81
+    place:Bethune (31,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,84)
+  15 Oct 1915 85
+    activity:movement (40,89)
+    place:Allouagne (51,89)
+Page 246 (type diary) http://wd3.herokuapp.com/pages/AWD0003me8  ----------
+  16 Oct 1915 22
+    place:Allouagne (19,25)
+    time:0900AM (6,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (57,27)
+    place:Lillers (28,41)
+    activity:resupplying (39,44)
+    person:Lieutenant Ashley (discipline) (62,56)
+  17 Oct 1915 58
+    time:0900AM (6,62)
+    place:Allouagne (19,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 20; wounded: 0 (61,64)
+    time:1200PM (6,75)
+    person:Lieutenant Ashley (discipline) (30,79)
+    person:Captain Darcy Power (departed_leave) (33,84)
+Page 247 (type diary) http://wd3.herokuapp.com/pages/AWD0003mew  ----------
+  17 Oct 1915 0
+  18 Oct 1915 22
+    place:Allouagne (19,25)
+    time:0900AM (5,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 23; wounded: 0 (59,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 0 (50,28)
+    time:0930AM (6,38)
+    time:0230PM (6,44)
+    person:Lieutenant Ashley (discipline) (61,48)
+    place:Bethune (48,64)
+  19 Oct 1915 66
+    time:0700AM (4,70)
+    place:Allouagne (21,70)
+    activity:working (31,71)
+    place:Bethune (34,75)
+    time:0750AM (7,77)
+    place:Allouagne (38,90)
+Page 248 (type diary) http://wd3.herokuapp.com/pages/AWD0003mgp  ----------
+  19 Oct 1915 23
+    place:Allouagne (19,25)
+    time:0900AM (5,27)
+    unit:2 Inf Brigade (30,40)
+    person:Private Linney (discipline) (36,43)
+    time:1055AM (5,51)
+    time:0245PM (6,78)
+    activity:movement (48,82)
+    place:Burbure (39,85)
+Page 249 (type diary) http://wd3.herokuapp.com/pages/AWD0003mgl  ----------
+  19 Oct 1915 23
+    activity:movement (31,26)
+    time:0330PM (5,27)
+    place:Allouagne (20,27)
+    time:0445PM (6,32)
+    place:Burbure (20,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (68,35)
+    person:Captain Macleod (62,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (37,37)
+    person:Captain Bell (28,38)
+    person:Lieutenant Ashley (discipline) (62,39)
+    time:0800PM (6,40)
+  20 Oct 1915 47
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (66,51)
+    time:0900AM (5,51)
+    place:Burbure (20,51)
+    time:1000AM (6,65)
+    person:Lieutenant Ashley (discipline) (60,67)
+    time:1130AM (5,69)
+    time:1225PM (6,77)
+    place:Auchel (54,84)
+    person:Major Barton (other) (65,89)
+Page 250 (type diary) http://wd3.herokuapp.com/pages/AWD0003mf8  ----------
+  20 Oct 1915 24
+    place:Burbure (19,27)
+    unit:No 13 sanitary section (29,35)
+    time:0330PM (12,45)
+    activity:movement (31,47)
+    place:Burbure (36,47)
+    time:0445PM (12,51)
+    place:Auchel (20,52)
+    person:Captain W J E Bell (award) (34,70)
+    person:Captain T Walker (award) (30,76)
+    person:Quarter Master Sergeant G P Pursey (award) (30,79)
+    person:Lance Corporal B S Franklin (award) (30,84)
+    person:Private F Linney (discipline) (32,89)
+Page 251 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfg  ----------
+  20 Oct 1915 0
+  21 Oct 1915 23
+    place:Auchel (17,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (60,27)
+    time:0900AM (12,27)
+    person:Captain Bell (award) (31,30)
+    person:Captain Walker (award) (40,31)
+    person:Lance Corporal Franklin (award) (67,31)
+    person:Quarter Master Sergeant Pursey (award) (50,32)
+    place:Lillers (54,37)
+    activity:other (35,50)
+  22 Oct 1915 61
+    time:0900AM (13,64)
+    place:Auchel (19,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (60,66)
+    person:Private Linney (discipline) (27,82)
+Page 252 (type diary) http://wd3.herokuapp.com/pages/AWD0003mel  ----------
+  23 Oct 1915 21
+    place:Auchel (21,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (61,26)
+    place:Auchel (21,27)
+  24 Oct 1915 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 0 (59,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (52,47)
+    person:Captain Walker (departed_leave) (31,50)
+    weather:rain (34,53)
+  25 Oct 1915 55
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 0 (59,58)
+  26 Oct 1915 82
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (54,86)
+    weather:rain (41,95)
+Page 253 (type diary) http://wd3.herokuapp.com/pages/AWD0003men  ----------
+  27 Oct 1915 22
+    place:Auchel (19,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 0 (54,26)
+    weather:rain (35,35)
+  28 Oct 1915 47
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 0 (55,50)
+    place:Auchel (20,50)
+    unit:No 141 field ambulance (38,54)
+    domestic:parades (41,62)
+    place:Marles (30,66)
+    unit:No 141 field ambulance (31,70)
+    place:La Buissiere (30,77)
+    unit:No 141 field ambulance (45,81)
+    place:Marles (65,90)
+Page 254 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfu  ----------
+  28 Oct 1915 0
+  29 Oct 1915 23
+    place:Auchel (20,25)
+    place:Auchel (22,28)
+    time:0900AM (8,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 0 (58,28)
+    person:Lieutenant Ashley (discipline) (30,38)
+  30 Oct 1915 48
+    time:0900AM (8,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 0 (62,53)
+    weather:fine (34,69)
+  31 Oct 1915 76
+    time:0900AM (7,78)
+    domestic:religion (29,91)
+    weather:rain (60,92)
+    person:E Inkson (author) (64,95)
+Page 255 (type orders) http://wd3.herokuapp.com/pages/AWD0003mf0  ----------
+  31 Oct 1915 0
+    person:Colonel S Macdonald (commander) (40,13)
+    date:5 Oct 1915 (55,19)
+    reference:Appendix I (58,4)
+Page 256 (type ) http://wd3.herokuapp.com/pages/AWD0003mgk  ----------
+  31 Oct 1915 0
+    date:8 Oct 1915 (45,28)
+Page 257 (type signals) http://wd3.herokuapp.com/pages/AWD0003mgz  ----------
+  31 Oct 1915 0
+Page 258 (type orders) http://wd3.herokuapp.com/pages/AWD0003mgw  ----------
+  31 Oct 1915 0
+    orders:other (35,11)
+    person:Colonel S Macdonald (commander) (43,15)
+    date:11 Oct 1915 (60,20)
+    reference:Medical arrangements (47,25)
+    reference:Appendix III (57,3)
+Page 259 (type orders) http://wd3.herokuapp.com/pages/AWD0003mee  ----------
+  31 Oct 1915 0
+    person:Major W R P Goodwin (other) (54,49)
+    reference:Appendix III - page 2 (32,5)
+Page 260 (type orders) http://wd3.herokuapp.com/pages/AWD0003mfx  ----------
+  31 Oct 1915 0
+    person:Colonel S Macdonald (commander) (44,17)
+    date:14 Oct 1915 (55,22)
+    reference:Appendix IV (61,7)
+Page 261 (type orders) http://wd3.herokuapp.com/pages/AWD0003mdg  ----------
+  31 Oct 1915 0
+    person:Major W R P Goodwin (other) (57,47)
+    reference:Appendix IV - page 2 (40,7)
+Page 262 (type signals) http://wd3.herokuapp.com/pages/AWD0003meo  ----------
+  31 Oct 1915 0
+    date:14 Oct 1915 (43,29)
+    time:0315PM (37,86)
+Page 263 (type orders) http://wd3.herokuapp.com/pages/AWD0003mda  ----------
+  31 Oct 1915 0
+    reference:Appendix VI (56,4)
+    date:14 Oct 1915 (39,80)
+Page 264 (type cover)
+Page 265 (type diary) http://wd3.herokuapp.com/pages/AWD0003meu  ----------
+  31 Oct 1915 0
+  1 Nov 1915 23
+    place:Auchel (21,26)
+    time:0900AM (8,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (70,28)
+    domestic:medical (36,31)
+    weather:rain (39,37)
+    weather:cold (44,37)
+    unit:No 141 field ambulance (36,50)
+    unit:3 Brigade (47,55)
+  2 Nov 1915 57
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 0 (58,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 0 (60,64)
+    weather:rain (40,72)
+    weather:cold (46,74)
+    unit:141 field ambulance (59,77)
+  3 Nov 1915 80
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,87)
+Page 266 (type diary) http://wd3.herokuapp.com/pages/AWD0003mgm  ----------
+  4 Nov 1915 22
+    place:Auchel (20,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (59,27)
+    weather:rain (38,48)
+    weather:cold (47,50)
+  5 Nov 1915 54
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 41; wounded: 0 (58,58)
+    weather:fine (35,86)
+Page 267 (type diary) http://wd3.herokuapp.com/pages/AWD0003mgf  ----------
+  6 Nov 1915 23
+    place:Auchel (17,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (31,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (61,38)
+    weather:fine (42,45)
+  7 Nov 1915 51
+    time:0900AM (5,53)
+    place:Auchel (19,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 22; wounded: 1 (45,55)
+    weather:cold (45,64)
+    weather:fine (40,65)
+    weather:cold (49,67)
+  8 Nov 1915 69
+    activity:casualty (32,76)
+    weather:fine (35,88)
+    weather:fine (43,90)
+    weather:rain (59,91)
+Page 268 (type diary) http://wd3.herokuapp.com/pages/AWD0003mev  ----------
+  9 Nov 1915 22
+    time:0900AM (8,27)
+    place:Auchel (22,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 20; wounded: 1 (70,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 42; wounded: 0 (70,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (41,35)
+    activity:casualty (35,38)
+    weather:rain (41,47)
+    weather:rain (48,49)
+  10 Nov 1915 55
+    time:0900AM (9,61)
+    person:Lieutenant Colonel E Inkson (departed_leave) (29,62)
+    place:Auchel (20,65)
+    person:Major B W Hogarth (commander) (53,66)
+    weather:rain (65,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (69,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 45; wounded: 0 (59,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 50; wounded: 1 (72,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (40,83)
+    domestic:medical (55,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 50; wounded: 0 (75,91)
+Page 269 (type diary) http://wd3.herokuapp.com/pages/AWD0003mge  ----------
+  11 Nov 1915 20
+    weather:cold (29,26)
+    place:Auchel (19,26)
+    weather:rain (49,27)
+    time:0900AM (7,27)
+    place:Auchel (20,30)
+    time:0900AM (9,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 25; wounded: 0 (55,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 54; wounded: 0 (57,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 23; wounded: 3 (89,41)
+    person:Lieutenant T E Ashley (discipline) (58,44)
+  12 Nov 1915 68
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 45; wounded: 0 (53,57)
+    time:0900AM (8,58)
+    place:Arques (49,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 54; wounded: 0 (66,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (50,63)
+    time:0630PM (9,70)
+    weather:rain (34,71)
+    person:Lieutenant Ashley (discipline) (35,73)
+    place:Lillers (53,75)
+    person:Lieutenant Moore (other) (65,75)
+  13 Nov 1915 81
+    time:0900AM (9,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 62; wounded: 0 (62,93)
+Page 270 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfl  ----------
+  13 Nov 1915 23
+    time:0900AM (9,26)
+    place:Auchel (20,26)
+    unit:4 London Field Ambulance (39,27)
+    unit:4 London F.A. (28,30)
+  14 Nov 1915 31
+    time:0500PM (8,34)
+    activity:movement (36,39)
+    unit:5 London Field Ambulance (39,40)
+    unit:5 London Field Ambulance (70,42)
+    unit:5 London F.A. (29,46)
+    place:Auchel (63,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 39; wounded: 1 (25,66)
+    weather:cold (40,75)
+    weather:fine (45,75)
+Page 271 (type diary) http://wd3.herokuapp.com/pages/AWD0003mey  ----------
+  15 Nov 1915 37
+    time:0900AM (7,27)
+    unit:5 London Field Ambulance (42,30)
+    place:Philosophe (56,37)
+    time:0500PM (8,38)
+    domestic:inspections (28,38)
+    weather:fine (37,44)
+    weather:cold (40,45)
+  16 Nov 1915 65
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 33; wounded: 1 (46,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (68,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 39; wounded: 0 (73,53)
+    time:0900AM (9,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (43,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (58,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (37,58)
+    time:0900PM (8,67)
+    weather:cold (37,84)
+Page 272 (type diary) http://wd3.herokuapp.com/pages/AWD0003mgh  ----------
+  17 Nov 1915 42
+    time:0900AM (8,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (67,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (55,33)
+    place:Noeux Les Mines (13,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 55; wounded: 1 (79,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (36,40)
+    time:0600PM (9,43)
+    weather:cold (38,44)
+  18 Nov 1915 62
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (68,51)
+    time:0900AM (8,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 28; wounded: 2 (48,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 0 (45,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 69; wounded: 0 (65,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 69; wounded: 2 (77,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (38,61)
+    weather:cold (42,64)
+    time:0600PM (8,66)
+    person:Captain Bell (returned_leave) (39,68)
+    person:Captain Bell (returned_leave) (29,70)
+  19 Nov 1915 73
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 2 (58,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (64,78)
+    time:0600PM (9,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (44,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 6 (36,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 75; wounded: 5 (78,87)
+    weather:cold (42,91)
+    weather:overcast (40,92)
+    person:Lieutenant Hamilton Hamilton (68,93)
+Page 273 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfe  ----------
+  20 Nov 1915 23
+    time:0900AM (7,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 64; wounded: 5 (58,27)
+    place:Noeux les Mines (17,35)
+    time:0600PM (9,44)
+    weather:cold (43,45)
+    weather:overcast (37,46)
+  21 Nov 1915 50
+    time:0900AM (8,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 39; wounded: 2 (59,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 39; wounded: 2 (48,56)
+    weather:cold (42,73)
+    weather:overcast (36,74)
+    person:Major B W Hogarth (59,75)
+  22 Nov 1915 77
+    person:Lieutenant Colonel E Inkson (returned_leave) (30,82)
+    weather:overcast (39,90)
+    weather:cold (41,90)
+    weather:cold (46,90)
+Page 274 (type diary) http://wd3.herokuapp.com/pages/AWD0003meq  ----------
+  22 Nov 1915 22
+    time:0900AM (9,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 45; wounded: 4 (54,27)
+    time:0630PM (8,43)
+    person:Lieutenant Colonel Inkson (59,47)
+  23 Nov 1915 50
+    time:0900AM (6,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 30; wounded: 0 (55,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 30; wounded: 2 (57,59)
+  24 Nov 1915 74
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 32; wounded: 3 (58,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 32; wounded: 3 (43,81)
+Page 275 (type diary) http://wd3.herokuapp.com/pages/AWD0003mfm  ----------
+  24 Nov 1915 23
+    place:Noeux les Mines (22,28)
+    unit:141 Field Ambulance (39,62)
+    place:Mazingarb (32,71)
+    place:Mazingarb (63,72)
+  25 Nov 1915 83
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 2 (68,87)
+Page 276 (type diary) http://wd3.herokuapp.com/pages/AWD0003mg4  ----------
+  25 Nov 1915 23
+    place:Noeux les Mines (19,26)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,27)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,27)
+  26 Nov 1915 44
+    weather:overcast (37,44)
+    unit:141 Field Ambulance (33,52)
+    weather:cold (38,75)
+    weather:cold (45,76)
+  27 Nov 1915 80
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 19; wounded: 5 (64,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 19; wounded: 5 (53,84)
+Page 277 (type diary) http://wd3.herokuapp.com/pages/AWD0003mh1  ----------
+  27 Nov 1915 23
+    place:Noeux les Mines (20,26)
+    weather:fine (39,39)
+  28 Nov 1915 42
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 32; wounded: 5 (54,46)
+    weather:cold (41,61)
+  29 Nov 1915 63
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 24; wounded: 6 (61,68)
+    weather:rain (39,85)
+Page 278 (type diary) http://wd3.herokuapp.com/pages/AWD0003med  ----------
+  30 Nov 1915 21
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 29; wounded: 3 (51,26)
+    time:0900AM (16,26)
+    place:Noeux les Mines (7,26)
+    weather:rain (51,45)
+Page 279 (type orders) http://wd3.herokuapp.com/pages/AWD0003meh  ----------
+  30 Nov 1915 0
+    reference:ROYAL ARMY MEDICAL CORPS OPERATION ORDER NO 65 (53,11)
+    reference:ROYAL ARMY MEDICAL CORPS OPERATION ORDER NO 65 BY A.D.N.S INT DIVISION (45,15)
+    date:11 Nov 1915 (56,18)
+    orders:move (37,22)
+    reference:Appendix I (55,5)
+Page 280 (type orders) http://wd3.herokuapp.com/pages/AWD0003mf6  ----------
+  30 Nov 1915 0
+    person:Major W R P Goodwin (other) (61,62)
+    date:11 Nov 1915 (52,71)
+    reference:Appendix I - page 2 (39,9)
+Page 281 (type orders) http://wd3.herokuapp.com/pages/AWD0003mej  ----------
+  30 Nov 1915 0
+    person:Colonel S Macdonald (commander) (44,10)
+    date:22 Nov 1915 (54,16)
+    reference:Appendix 2 (58,3)
+    reference:RAMC Operation Order No 65 (38,6)
+    person:Major W R P Goodwin (other) (59,75)
+Page 282 (type orders) http://wd3.herokuapp.com/pages/AWD0003meg  ----------
+  30 Nov 1915 0
+    person:Colonel S Macdonald (commander) (44,14)
+    date:24 Nov 1915 (54,20)
+    reference:Appendix III (58,5)
+    person:Major W R P Goodwin (other) (59,80)
+    reference:RAMC Operation Order No 67 (39,9)
+Page 283 (type cover)
+Page 284 (type diary) http://wd3.herokuapp.com/pages/AWD0003mex  ----------
+  1 Dec 1915 19
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 43; wounded: 9 (49,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 43; wounded: 9 (61,24)
+    time:0900AM (16,24)
+    weather:overcast (33,39)
+    weather:rain (42,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 6 (66,44)
+  2 Dec 1915 54
+    time:0900AM (16,56)
+    weather:overcast (36,79)
+Page 285 (type diary) http://wd3.herokuapp.com/pages/AWD0003mg2  ----------
+  3 Dec 1915 21
+    time:0900AM (15,22)
+    place:Noeux les Mines (6,24)
+    activity:casualty (21,25)
+    time:0900AM (15,27)
+    unit:Not 7 (21,29)
+    unit:Iv corp rest station (56,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 129; wounded: 0 (85,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (28,37)
+    weather:rain (34,44)
+  4 Dec 1915 54
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (54,56)
+    time:0900AM (16,57)
+    unit:Not 7 (72,58)
+    activity:casualty (20,59)
+    unit:Ivth corps rest station (22,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (33,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 111; wounded: 0 (25,66)
+    weather:rain (31,68)
+  5 Dec 1915 73
+    unit:1srt Division Bombing school (47,73)
+    person:Major Hogarth (departed_posted) (24,73)
+    time:0900AM (16,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (51,78)
+    activity:casualty (23,79)
+    unit:Iv corps rest station (71,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 92; wounded: 0 (85,86)
+    weather:overcast (38,88)
+Page 286 (type diary) http://wd3.herokuapp.com/pages/AWD0003mgr  ----------
+  6 Dec 1915 20
+    place:Noeux les Mines (6,23)
+    time:0900AM (16,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 24; wounded: 8 (53,25)
+    weather:fine (37,38)
+    weather:rain (74,41)
+  7 Dec 1915 47
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 10 (54,50)
+    time:0900AM (16,51)
+    place:Mazingarbe (32,62)
+    weather:overcast (62,63)
+  8 Dec 1915 69
+    time:0900AM (16,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 7 (53,75)
+Page 287 (type diary) http://wd3.herokuapp.com/pages/AWD0003mei  ----------
+  8 Dec 1915 21
+    place:Noeux les Mines (6,24)
+    weather:rain (30,30)
+    weather:rain (33,31)
+  9 Dec 1915 37
+    time:0900AM (16,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 29; wounded: 11 (54,42)
+    domestic:inspections (41,64)
+    weather:rain (37,68)
+  10 Dec 1915 71
+    time:0900AM (16,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 6 (58,76)
+Page 288 (type diary) http://wd3.herokuapp.com/pages/AWD0003mg3  ----------
+  10 Dec 1915 21
+    place:Noeux les Mines (6,26)
+  11 Dec 1915 28
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 29; wounded: 3 (56,32)
+    weather:rain (31,46)
+  12 Dec 1915 54
+    time:0900AM (16,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 45; wounded: 4 (53,59)
+    weather:overcast (27,76)
+  13 Dec 1915 77
+    time:0900AM (16,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 44; wounded: 3 (61,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 44; wounded: 3 (53,83)
+    weather:fine (62,93)
+    weather:cold (73,94)
+Page 289 (type diary) http://wd3.herokuapp.com/pages/AWD0003mdf  ----------
+  14 Dec 1915 21
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 50; wounded: 6 (52,24)
+    place:Noeux les Mines (6,25)
+    time:0900AM (16,26)
+    weather:cold (40,45)
+    weather:fine (33,45)
+  15 Dec 1915 48
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 35; wounded: 2 (50,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 35; wounded: 2 (60,53)
+    activity:casualty (29,54)
+  16 Dec 1915 79
+    weather:cold (40,79)
+    time:0900AM (17,83)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 35; wounded: 6 (57,84)
+Page 290 (type diary) http://wd3.herokuapp.com/pages/AWD0003mez  ----------
+  16 Dec 1915 21
+    place:Noeux les Mines (6,23)
+  17 Dec 1915 32
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 30; wounded: 3 (54,37)
+    weather:overcast (31,51)
+    weather:overcast (36,52)
+  18 Dec 1915 55
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 29; wounded: 2 (52,59)
+  19 Dec 1915 77
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 23; wounded: 1 (47,80)
+    weather:rain (39,90)
+    weather:fine (33,91)
+Page 291 (type diary) http://wd3.herokuapp.com/pages/AWD0003mem  ----------
+  20 Dec 1915 19
+    place:Noeux les Mines (6,21)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 1 (47,24)
+    time:0900AM (15,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 59; wounded: 2 (78,29)
+    weather:overcast (33,35)
+  21 Dec 1915 37
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 0 (55,42)
+    place:Mazingarbe (56,55)
+    weather:rain (35,57)
+  22 Dec 1915 60
+    time:0900AM (15,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 22; wounded: 7 (55,64)
+    weather:rain (37,74)
+  23 Dec 1915 76
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 4 (52,80)
+Page 292 (type diary) http://wd3.herokuapp.com/pages/AWD0003mdi  ----------
+  24 Dec 1915 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 11 (53,25)
+    place:Noeux les Mines (7,26)
+    place:Busnes (29,33)
+    weather:overcast (32,40)
+    place:Mazingarbe (23,46)
+  25 Dec 1915 51
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 15; wounded: 9 (55,55)
+    activity:casualty (30,57)
+    weather:overcast (32,66)
+  26 Dec 1915 68
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 2 (55,73)
+    weather:overcast (33,84)
+    gridRef:G_17_D_3_5 (66,87)
+Page 293 (type diary) http://wd3.herokuapp.com/pages/AWD0003mef  ----------
+  27 Dec 1915 21
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 25; wounded: 2 (48,24)
+    time:0900AM (16,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 25; wounded: 2 (56,25)
+    place:Noeux les Mines (5,25)
+    weather:overcast (51,32)
+  28 Dec 1915 34
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 19; wounded: 1 (58,39)
+    weather:fine (35,52)
+    weather:fine (30,53)
+    weather:overcast (38,54)
+  29 Dec 1915 56
+    weather:fine (29,80)
+Page 294 (type diary) http://wd3.herokuapp.com/pages/AWD0003mdo  ----------
+  30 Dec 1915 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 38; wounded: 2 (54,24)
+    weather:fine (32,40)
+  31 Dec 1915 43
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 15; wounded: 8 (52,47)
+    weather:fine (35,58)
+    weather:rain (67,63)
+    place:Mazingarbe (51,66)
+    person:Lieutenant Colonel Inkson (67,86)

@@ -1,0 +1,899 @@
+GWD000006i wo/95/1265/3
+1 DIVISION: 4 Battalion Cheshire Regiment 
+42 pages
+
+Page 1 (type cover)
+Page 2 (type diary) http://wd3.herokuapp.com/pages/AWD0000zpa  ----------
+  Hashtags: #Place 
+  1 Apr 1919 24
+    place:Hersal (6,26)
+  2 Apr 1919 27
+    place:Roisdorf (8,29)
+    mapRef:Germany 2L (10,31)
+  3 Apr 1919 32
+    place:Hersal (38,34)
+    domestic:inspections (30,34)
+    place:Roisdorf (26,36)
+    activity:movement (45,36)
+  4 Apr 1919 37
+    place:Roisdorf (38,39)
+    domestic:inspections (29,39)
+    place:Hersal (26,41)
+    domestic:medical (43,41)
+  5 Apr 1919 42
+    domestic:inspections (54,42)
+    domestic:hygiene (65,43)
+    domestic:hygiene (58,44)
+    time:1015AM (22,46)
+    place:Roisdorf (28,46)
+  6 Apr 1919 48
+    domestic:religion (29,49)
+    domestic:parades (34,49)
+  7 Apr 1919 51
+    activity:training (34,53)
+  8 Apr 1919 54
+    activity:training (37,56)
+  9 Apr 1919 57
+    activity:training (35,58)
+  10 Apr 1919 60
+    activity:training (37,61)
+    time:0900AM (21,62)
+  11 Apr 1919 64
+    time:1200PM (22,64)
+    activity:training (31,65)
+    activity:training (36,66)
+  12 Apr 1919 68
+    domestic:other (60,68)
+    domestic:hygiene (69,68)
+  13 Apr 1919 71
+  14 Apr 1919 73
+    domestic:religion (28,73)
+    activity:training (31,75)
+  15 Apr 1919 77
+    activity:training (32,78)
+  16 Apr 1919 80
+    domestic:inspections (29,81)
+  17 Apr 1919 83
+    activity:training (31,84)
+  18 Apr 1919 86
+    domestic:religion (44,88)
+    domestic:parades (47,88)
+  19 Apr 1919 89
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD0000zpk  ----------
+  Hashtags: #Jelf #EASTERSUNDAY 
+  20 Apr 1919 25
+    domestic:religion (40,26)
+    domestic:parades (43,26)
+    place:Roisdorf (9,26)
+  21 Apr 1919 28
+    place:Hersel (10,30)
+    activity:training (30,30)
+    time:1100AM (22,33)
+  22 Apr 1919 34
+    activity:training (30,35)
+  23 Apr 1919 37
+    activity:training (34,39)
+    domestic:inspections (71,40)
+  24 Apr 1919 41
+    activity:training (34,41)
+    domestic:medical (64,42)
+    place:Roisdorf (45,42)
+    activity:training (24,42)
+    person:Lieutenant H M Hake (other) (41,44)
+    time:1100AM (22,46)
+  25 Apr 1919 50
+    place:Roisdorf (7,51)
+    activity:training (30,51)
+    place:Roisdorf (50,52)
+    place:Buschdorf (60,52)
+    place:Hersel (12,52)
+  26 Apr 1919 54
+    domestic:hygiene (25,55)
+    place:Buschdorf (10,55)
+    unit:2 Brigade (26,57)
+    time:1120PM (22,59)
+    place:Duisdorf (31,60)
+    place:Buschdorf (49,67)
+    place:Hersel (30,68)
+    place:Roisdorf (37,68)
+  27 Apr 1919 72
+    domestic:religion (29,74)
+    domestic:parades (34,74)
+  28 Apr 1919 76
+    activity:training (24,76)
+    activity:training (37,77)
+  30 Apr 1919 82
+    activity:training (32,83)
+    person:Lieutenant Colonel (82,88)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0000zpl  ----------
+  Hashtags: #NOMINALROLL 
+  30 Apr 1919 86
+    reference:Strength (16,27)
+    reference:Casualties (35,29)
+    reference:1 Off Transferred to 6th Ches (80,30)
+    unit:9 Cheshires (94,30)
+    reference:Off (38,32)
+    reference:ORs (44,32)
+    reference:ORs (67,32)
+    reference:Demobolized (9,32)
+    unit:9 ches (89,33)
+    reference:From Hospital (55,34)
+    reference:31 ORs to 9th Ches (81,34)
+    person:Lieutenant Longworth (resigned) (13,35)
+    reference:Demobolized (29,35)
+    reference:18 (39,35)
+    reference:361 (45,35)
+    reference:- (62,35)
+    reference:12 (67,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 15; wounded: 0 (28,36)
+    reference:11 ORs Ex 1st Cheshires (81,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 15 (46,38)
+    reference:From Base (55,38)
+    person:Lieutenant J Ollerenshaw (resigned) (10,39)
+    reference:To Hospital (29,39)
+    reference:15 (45,39)
+    reference:- (62,39)
+    reference:11 (67,39)
+    reference:23 (66,42)
+    reference:Struck off Strength (30,43)
+    reference:31 (45,43)
+    person:Lieutenant E R Hall (resigned) (12,44)
+    person:Second Lieutenant W Harvey (resigned) (16,46)
+    person:Second Lieutenant Harvey (resigned) (6,47)
+    reference:19 (39,47)
+    reference:407 (44,47)
+    person:Lieutenant C G Turner (resigned) (10,49)
+    person:Second Lieutenant F Dodd (resigned) (11,52)
+    person:Lieutenant E Allinson (resigned) (13,54)
+    person:Lieutenant Radcliffe (resigned) (13,58)
+    person:Second Lieutenant H J Bunker (resigned) (14,60)
+    person:Lieutenant Birch (resigned) (12,64)
+    person:Lieutenant Hilditch (resigned) (12,67)
+    reference:Off (87,67)
+    reference:ORs (90,67)
+    strength:officer: 89; nco: 0; other: 1681 (79,68)
+    reference:Effective Strength (64,68)
+    person:Second Lieutenant B Warner (resigned) (15,69)
+    reference:89 (87,69)
+    reference:1681 (91,69)
+    date:1 Apr 1919 (75,69)
+    person:Second Lieutenant D Vawser (resigned) (12,72)
+    strength:officer: 68; nco: 0; other: 1297 (79,72)
+    reference:Effective Strength (65,72)
+    reference:68 (87,72)
+    reference:1297 (90,72)
+    date:30 Apr 1919 (76,72)
+    person:Second Lieutenant C Foreman (resigned) (14,75)
+    reference:384 (90,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (83,76)
+    reference:Total Casualties (70,76)
+    reference:19 (86,76)
+    person:Lieutenant R Hard (resigned) (11,78)
+    person:Lieutenant A E Evans (resigned) (13,80)
+    unit:6 Cheshires (22,80)
+    place:Hersel (76,84)
+    reference:Transferred to 6th Ches (9,84)
+    reference:Hersel Germany (80,86)
+    person:Second Lieutenant H E Heath (departed_posted) (11,87)
+    date:30 Apr 1919 (82,88)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD0000zp5  ----------
+  Hashtags: #TRANSFERREDTOUK 
+  30 Apr 1919 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 0 (33,25)
+    person:Lieutenant W J Lawton (returned_hospital) (77,27)
+    person:Major B E Massy (other) (79,31)
+    person:Second Lieutenant G H Barker (departed_posted) (11,32)
+    person:Second Lieutenant L R (10,33)
+    person:Lieutenant T W Shannon (other) (80,34)
+    person:Second Lieutenant L R Earp (departed_posted) (10,35)
+    person:Second Lieutenant J Jones (departed_posted) (9,37)
+    person:Captain J Ellis (joined) (79,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 0 (44,39)
+    person:Lieutenant R H Morse (departed_posted) (11,40)
+    person:Second Lieutenant W J Lawton (departed_posted) (9,43)
+    person:Lieutenant C G Drew (departed_posted) (10,45)
+    person:Second Lieutenant F S Stafford (departed_posted) (15,48)
+    person:Major J H Keith (resigned) (10,57)
+    unit:6 D.W.A.P.M. (49,59)
+    person:Second Lieutenant S D Potts (resigned) (12,60)
+    unit:6 Division. a.p.m. (50,62)
+    unit:6 D W A P M (46,63)
+    person:Second Lieutenant M J Parker (resigned) (12,63)
+  1 May 1919 70
+    person:Lieutenant R F Jenkins (21,71)
+    person:Lieutenant R F Jenkins (6,71)
+    strength:officer: 68; nco: 0; other: 1297 (82,73)
+  31 May 1919 93
+    person:Second Lieutenant C O Bryant (11,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (83,80)
+    person:Lieutenant Colonel A C Corfe (departed_posted) (23,81)
+    person:Lieutenant Colonel A C Corfe (departed_posted) (8,81)
+    person:Second Lieutenant W E Levings (departed_posted) (12,88)
+    person:Second Lieutenant L Foreman (departed_posted) (14,91)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD0000zp2  ----------
+  31 May 1919 0
+    place:Roisdorf (14,26)
+    place:Hersel (6,26)
+    place:Buschdorf (8,29)
+    mapRef:GERMANY. 2L. 1/100000 (4,32)
+    activity:training (34,32)
+    activity:training (27,34)
+    time:1030AM (9,37)
+    activity:training (35,40)
+    domestic:religion (31,45)
+    unit:1 western infantry Brigade (34,47)
+    domestic:inspections (27,47)
+    time:1130AM (10,48)
+    activity:training (38,50)
+    activity:training (33,54)
+    activity:training (31,57)
+    mapRef:Germany 2L (51,60)
+    mapRef:GERMANY. 2L. 1/100000 (64,61)
+    time:0245PM (10,62)
+    place:Bornheim (28,63)
+    activity:training (59,66)
+    domestic:other (32,69)
+    activity:training (32,76)
+  13 May 1919 77
+    activity:training (38,79)
+    activity:training (54,81)
+  14 May 1919 84
+    activity:training (34,85)
+    unit:Royal Engineers (33,86)
+    activity:training (42,87)
+    place:Waldorf (67,87)
+    place:Merten (57,88)
+    mapRef:Germany 2L (38,90)
+    mapRef:GERMANY. 2L. 1/100000 (24,91)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD0000zpp  ----------
+  Hashtags: #SECRET 
+  14 May 1919 0
+  15 May 1919 25
+    activity:training (31,26)
+    person:Lieutenant Riley (other) (39,29)
+    time:1030AM (12,30)
+  16 May 1919 33
+    activity:training (34,34)
+  17 May 1919 36
+  18 May 1919 39
+    domestic:religion (32,41)
+  19 May 1919 42
+    activity:training (32,44)
+  20 May 1919 45
+    activity:training (36,47)
+    person:Lieutenant Colonel Tyshem (other) (37,50)
+    time:1030AM (12,51)
+    place:Bornheim (29,53)
+  21 May 1919 55
+    activity:training (35,55)
+  22 May 1919 58
+    activity:training (33,60)
+  23 May 1919 61
+    activity:training (35,63)
+  24 May 1919 65
+  25 May 1919 69
+    domestic:religion (30,70)
+  26 May 1919 72
+    activity:training (32,73)
+  27 May 1919 78
+    activity:training (35,80)
+  28 May 1919 84
+    activity:training (35,86)
+  29 May 1919 89
+    activity:training (36,90)
+    domestic:sport (41,92)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD0000zpm  ----------
+  30 May 1919 24
+    activity:training (37,26)
+  31 May 1919 28
+Page 9 (type orders) http://wd3.herokuapp.com/pages/AWD0000zpb  ----------
+  26 May 1919 0
+    orders:move (48,10)
+    reference:Germany 1/100,000heet 2.1a (37,12)
+    reference:APPENDIX I - SECRET ORDERS NO 7 (48,2)
+    reference:OPERATION ORDERS NO.7 APPENDIX I (46,6)
+    person:Second Lieutenant C J Parr (other) (37,62)
+    person:Lieutenant McKay (commander) (60,62)
+    reference:Operation Orders No. 7 (50,7)
+    person:Sergeant Cotterill (other) (46,79)
+    person:Lieutenant Ralph (other) (39,80)
+    person:Lieutenant Allum (other) (44,88)
+Page 10 (type orders) http://wd3.herokuapp.com/pages/AWD0000zpq  ----------
+  26 May 1919 0
+    reference:Operation Orders No. 7 (continued) (38,2)
+    orders:move (55,3)
+    reference:OPERATION ORDERS NO.7 APPENDIX I (34,4)
+    person:Captain H Warner (commander) (53,75)
+    reference:APPENDIX I - SECRET ORDER NO 7  - CONT (39,8)
+Page 11 (type orders) http://wd3.herokuapp.com/pages/AWD0000zp9  ----------
+  26 May 1919 0
+    reference:OPERATION ORDERS NO.7 APPENDIX II (39,11)
+    reference:Operation Orders No. 7 (49,13)
+    reference:Appendix II. Copy no 15 (34,19)
+    reference:APPENDIX 1I - SECRET ORDER NO 7   -FAILURE OF PEACE NEGOTIATIONS (52,4)
+    person:Lieutenant Colonel J A Pemberton (commander) (46,48)
+    reference:1 DIVISION: 4 Battalion Cheshire Regiment (43,7)
+Page 12 (type orders) http://wd3.herokuapp.com/pages/AWD0000zpt  ----------
+  26 May 1919 0
+    reference:Appendix II. continued (33,11)
+    reference:Operation Orders No. 7 (continued) (39,4)
+    person:Captain H Warner (author) (50,68)
+    reference:Operation Orders No. 7 (Continued) (43,9)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD0000zpd  ----------
+  26 May 1919 0
+    mapRef:Germany 59 (68,14)
+  1 Jun 1919 25
+    place:Hersel (14,27)
+  2 Jun 1919 29
+    activity:training (28,30)
+    place:Hersel (14,30)
+  3 Jun 1919 35
+    activity:movement (40,36)
+    activity:training (68,36)
+    place:Witterschlick (55,36)
+    place:Hersel (14,37)
+    domestic:parades (26,43)
+    domestic:parades (38,44)
+    time:0900AM (18,44)
+  4 Jun 1919 55
+    activity:training (28,56)
+    place:Hersel (19,56)
+  7 Jun 1919 58
+    place:Witterschlick (16,59)
+  8 Jun 1919 61
+    place:Witterschlick (15,62)
+  9 Jun 1919 64
+    place:Witterschlick (15,65)
+  10 Jun 1919 68
+    activity:training (29,69)
+    place:Witterschlick (15,69)
+  11 Jun 1919 71
+    activity:training (29,72)
+    place:Witterschlick (15,73)
+    unit:Royal Engineers (24,73)
+    strength:officer: 4; nco: 0; other: 100 (61,73)
+    activity:working (28,75)
+    place:Rosberg (46,75)
+    time:0645AM (16,76)
+  12 Jun 1919 77
+    activity:training (31,78)
+    place:Hersel (19,79)
+  13 Jun 1919 81
+    activity:training (31,82)
+    place:Witterschlick (14,82)
+    unit:Royal Engineers (24,82)
+    place:Rosberg (45,84)
+    activity:working (29,85)
+    time:0645AM (17,85)
+    strength:officer: 4; nco: 0; other: 100 (58,85)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD0000zou  ----------
+  13 Jun 1919 0
+  14 Jun 1919 25
+    domestic:other (29,25)
+    place:Hersel (16,26)
+    place:Hersel (55,28)
+    place:Witterschlick (14,29)
+    place:Witterschlick (67,29)
+    domestic:sport (30,34)
+  15 Jun 1919 36
+    place:Witterschlick (17,37)
+    domestic:parades (30,38)
+    place:Hersel (11,38)
+  16 Jun 1919 40
+    activity:training (32,40)
+    place:Witterschlick (17,40)
+    place:Rosberg (47,42)
+    unit:Royal Engineers (27,42)
+    strength:officer: 4; nco: 0; other: 140 (61,42)
+    activity:working (32,43)
+    time:0700AM (16,43)
+    unit:1 Brigade (38,45)
+  17 Jun 1919 46
+    place:Hersel (12,46)
+    place:Witterschlick (17,47)
+    place:Witterschlick (61,54)
+  18 Jun 1919 61
+    place:Hersel (13,62)
+    unit:Royal Engineers (24,66)
+    time:0700AM (16,67)
+    activity:working (30,68)
+    place:Rosberg (46,68)
+  19 Jun 1919 70
+    place:Hersel (11,71)
+    activity:training (33,72)
+    domestic:religion (30,75)
+  20 Jun 1919 83
+    place:Rosberg (44,83)
+    unit:Royal Engineers (24,83)
+    activity:working (29,84)
+    place:Hersel (11,84)
+    time:0800AM (15,84)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD0000zox  ----------
+  Hashtags: #PEACETREATY 
+  20 Jun 1919 25
+    unit:1 Brigade (27,25)
+    place:Hersel (17,27)
+  21 Jun 1919 35
+    place:Hersel (17,36)
+  22 Jun 1919 43
+    place:Hersel (17,44)
+  23 Jun 1919 47
+    place:Hersel (17,47)
+    unit:Royal Engineers (24,49)
+    time:0715AM (53,49)
+    activity:training (30,49)
+  24 Jun 1919 50
+    place:Hemmerich (44,50)
+    place:Hersel (17,51)
+    activity:training (31,51)
+    activity:training (31,54)
+  25 Jun 1919 58
+    unit:Royal Engineers (24,58)
+    place:Hemmerich (45,59)
+    place:Hersel (17,60)
+    activity:training (30,61)
+    activity:training (34,63)
+  26 Jun 1919 64
+    place:Hersel (16,66)
+    activity:training (34,66)
+    unit:Royal Engineers (24,67)
+  27 Jun 1919 68
+    place:Hemmerich (44,68)
+    activity:working (40,68)
+    place:Hersel (17,69)
+  28 Jun 1919 70
+    place:Hersel (15,71)
+  29 Jun 1919 74
+    place:Hersel (17,74)
+  30 Jun 1919 77
+    place:Hersel (17,77)
+    activity:training (31,77)
+    place:Hersel (20,88)
+  2 Jul 1919 90
+Page 16 (type orders) http://wd3.herokuapp.com/pages/AWD0000zp3  ----------
+  2 Jul 1919 0
+    reference:APPENDIX I - OPERATION ORDER NO 8 (56,11)
+    reference:Appendix I (57,15)
+    reference:OPERATION ORDERS NO.8 APPENDIX I (46,7)
+    reference:Operation Order No. 8 (45,8)
+Page 17 (type orders) http://wd3.herokuapp.com/pages/AWD0000zp7  ----------
+  2 Jul 1919 0
+    person:Major Masey (other) (56,13)
+    person:Second Lieutenant Donman (other) (35,14)
+    person:Regimental Sergeant Major Martin (other) (61,15)
+    person:Lance Corporal Sunman (other) (35,16)
+    person:Sergeant Dorman Reade (other) (36,16)
+    person:Private Heaton (other) (59,16)
+    person:Lance Corporal Broadhurst (other) (59,17)
+    person:Lance Corporal Halksworth (other) (36,19)
+    person:Private Heaton (other) (62,19)
+    person:Private Drew (other) (36,20)
+    person:Private Aitken (other) (40,20)
+    person:Private Mound (other) (53,20)
+    person:Broadhurst (other) (62,22)
+    person:Lance Corporal R Latham (other) (59,29)
+    person:Private H Chetham (joined) (57,29)
+    person:Private Etchells (other) (35,30)
+    person:Private E Webb (other) (39,32)
+    person:Private A Upham (other) (58,32)
+    person:Private H Chetham (other) (62,32)
+    person:Private A Houghton (other) (58,33)
+    person:Private J Irving (joined) (44,34)
+    person:Private J Irving (other) (37,36)
+    person:Captain G Fitzsimmons (commander) (44,59)
+Page 18 (type orders) http://wd3.herokuapp.com/pages/AWD0000zp0  ----------
+  2 Jul 1919 0
+    reference:MAP - SHEET 2 L. GERMANY 1/100000 (57,11)
+    person:Corporal Dodd (other) (39,44)
+    person:Sergeant Bryant (other) (40,45)
+    person:Sergeant Goulbourne (other) (38,47)
+    reference:OPERATION ORDERS NO.9 APPENDIX II (38,5)
+    reference:APPENDIX II - OPERATION ORDER NO 9 (58,5)
+    reference:appx 2 (64,5)
+    person:Lieutenant Jaques (other) (40,50)
+    person:Corporal L Chadwick (other) (34,67)
+    person:Private R P Rowlands (joined) (37,68)
+    person:Corporal H Smallman (other) (56,68)
+    person:Private G Hay (other) (35,69)
+    person:Private S T Richardson (other) (58,69)
+    person:Private W Holland (other) (56,71)
+    person:Private L Clark (other) (55,72)
+Page 19 (type orders) http://wd3.herokuapp.com/pages/AWD0000zoz  ----------
+  2 Jul 1919 0
+    reference:OPERATION ORDERS NO.9 APPENDIX II (40,10)
+    reference:Operation Order No. 9 Continued (42,13)
+    reference:Operation Orders No. 9 (continued) (45,17)
+    reference:APPENDIX II - OPERATION ORDER NO 9 - CONT (41,17)
+    person:Second Lieutenant P Shaw (joined) (41,24)
+    person:Second Lieutenant P Shaw (joined) (59,25)
+    person:Lieutenant F V Jaques (joined) (38,26)
+    person:Lieutenant F V Jaques (joined) (58,26)
+    person:Captain R E Rev. Jones (joined) (40,27)
+    person:Captain Jones (joined) (56,30)
+    person:Captain H Warner (author) (53,51)
+    date:14 Jun 1919 (38,63)
+Page 20 (type orders) http://wd3.herokuapp.com/pages/AWD0000zp6  ----------
+  2 Jul 1919 0
+    reference:APPENDIX III - G5/661  (51,17)
+    reference:G5/661 (62,5)
+    orders:other (42,6)
+    person:Lieutenant Colonel J A Pemberton (commander) (55,65)
+    person:Lieutenant Colonel J A Pemberton (commander) (55,71)
+    date:17 Jun 1919 (27,81)
+    reference:G5/661  APPENDIX III (58,9)
+Page 21 (type orders) http://wd3.herokuapp.com/pages/AWD0000zpj  ----------
+  2 Jul 1919 0
+    reference:SECRET OPERATION ORDERS NO.7 APPENDIX IV (48,10)
+    reference:Reference Secret Operation Orders No. 7 (46,4)
+    orders:move (35,5)
+    reference:APPENDIX IV - SECRET OPERATION ORDER NO 7 (57,5)
+    person:Captain H Warner (author) (55,50)
+    date:18 Jun 1919 (37,61)
+    reference:Reference Secret Operation Orders No 7 (46,8)
+Page 22 (type blank)
+Page 23 (type orders) http://wd3.herokuapp.com/pages/AWD0000zp4  ----------
+  2 Jul 1919 0
+    reference:ADDENDUM TO OPERATION ORDER NO.7 APPENDIX V (37,10)
+    person:Lieutenant A J Ralph (other) (57,13)
+    person:Private C Keighley (other) (60,15)
+    person:Lieutenant A J Ralph (commander) (37,16)
+    person:Second Lieutenant E O Salt (other) (50,16)
+    person:Second Lieutenant C Booth (other) (56,17)
+    person:Lieutenant F V Jaques (other) (35,18)
+    person:Second Lieutenant D W Morgan (other) (39,18)
+    person:Sergeant Mattocks (other) (53,18)
+    person:Sergeant A Edwards (other) (41,19)
+    person:Sergeant W Owen (other) (54,19)
+    person:Sergeant W Slater (other) (39,21)
+    person:Corporal J Williams (other) (52,21)
+    person:Sergeant J Robins (other) (36,22)
+    person:Sergeant T E W Jones (other) (43,23)
+    person:Sergeant G Samuels (other) (56,23)
+    person:Sergeant R Roughley (other) (57,24)
+    person:Sergeant C R Ambler (other) (40,25)
+    person:Lance Corporal J B Shallcross (other) (59,25)
+    person:Sergeant T Bryant (other) (38,26)
+    person:Private A McCalpin (other) (53,26)
+    person:Lance Corporal A Worthington (other) (38,27)
+    person:Private J Harris (other) (56,28)
+    person:Lance Corporal H Ellis (other) (39,29)
+    person:Private J Howard (other) (52,29)
+    reference:APPENDIX V -  AMENDMENT SECRET OPERATION ORDER NO 7 (58,3)
+    person:Lance Corporal G W Gibby (other) (43,30)
+    person:Private R Kelly (other) (55,30)
+    person:Private W Shaw (other) (40,31)
+    person:Private G Dawson (other) (53,32)
+    person:Private McAlpine (other) (38,33)
+    person:Private J H Thomas (other) (53,33)
+    person:Private J Walton (other) (39,34)
+    person:Private R Marshall (other) (38,34)
+    person:Private T Smith (other) (54,35)
+    person:Corporal F Barnett (other) (41,36)
+    person:Private G Minshall (other) (54,36)
+    person:Second Lieutenant D W Morgan (other) (53,42)
+    person:Second Lieutenant C Booth (other) (55,43)
+    reference:Addendum to Operation Order No. 7 (45,5)
+    person:Captain H Warner (author) (48,60)
+    date:19 Jun 1919 (36,68)
+Page 24 (type orders) http://wd3.herokuapp.com/pages/AWD0000zp1  ----------
+  2 Jul 1919 0
+    reference:ADDENDUM NO.2 TO OPERATION ORDER NO.7 APPENDIX V1 (49,10)
+    date:20 Jun 1919 (61,11)
+    reference:MAP GERMANY SHEET SL. 1/100000 (35,17)
+    reference:Map Germany Sheet 24 (48,17)
+    reference:APPENDIX V -  AMENDMENT 2 - SECRET OPERATION ORDER NO 7 (58,5)
+    reference:COPY NO.16 (58,9)
+Page 25 (type orders) http://wd3.herokuapp.com/pages/AWD0000zpg  ----------
+  2 Jul 1919 0
+    person:Lance Corporal S Mottershead (other) (41,38)
+    person:Regimental Quarter Master Sergeant T Moss (other) (52,39)
+    person:Private W Shaw (other) (59,41)
+    person:Private W Shaw (other) (37,42)
+    person:Captain H Warner (author) (55,47)
+    person:Captain H Warner (author) (50,50)
+    reference:ADDENDUM NO.2 TO OPERATION ORDER NO.7 APPENDIX V1 (51,6)
+    reference:APPENDIX V -  AMENDMENT 2 - CONT (39,7)
+Page 26 (type orders) http://wd3.herokuapp.com/pages/AWD0000zp8  ----------
+  2 Jul 1919 0
+    reference:Addendum No3 to O.O. No.7 (continued) (46,13)
+    reference:COPY NO 15 (57,6)
+    reference:ADDENDUM NO.5 TO OPERATION ORDER NO.7 APPENDIX V11 (52,7)
+    date:21 Jun 1919 (60,9)
+Page 27 (type orders) http://wd3.herokuapp.com/pages/AWD0000zph  ----------
+  Hashtags: #TORNPAGE 
+  2 Jul 1919 0
+    reference:APPENDIX V -  AMENDMENT 6 - TO OPERATION ORDER NO 7 (47,14)
+    reference:Addendum No. 4  To Operation Order No. 7 (44,15)
+    reference:Addendum No4 to O.O. No.7  (39,19)
+    date:24 Jun 1919 (71,21)
+    reference:ADDENDUM NO.4 TO OPERATION ORDER NO.7 (36,23)
+Page 28 (type orders) http://wd3.herokuapp.com/pages/AWD0000zps  ----------
+  2 Jul 1919 0
+    person:Sergeant Robins (other) (61,40)
+    person:Sergeant Slater (joined) (65,41)
+    date:30 Jun 1919 (59,7)
+    person:Lance Corporal Shallcross (other) (39,72)
+    person:Private Davies (other) (38,73)
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD0000zpf  ----------
+  Hashtags: #VICTORYMARCH #VICTORYPARADE #SIGNINGOFPEACE 
+  1 Jul 1919 24
+    activity:working (28,26)
+    unit:409 Royal Engineers Coy (64,26)
+  2 Jul 1919 27
+    place:Hersel (6,27)
+    place:Witterschlick (50,29)
+  3 Jul 1919 30
+  4 Jul 1919 33
+    domestic:sport (29,34)
+  5 Jul 1919 35
+    activity:working (32,35)
+    activity:working (26,37)
+    place:Roisdorf (68,37)
+  6 Jul 1919 39
+    activity:training (38,39)
+    domestic:religion (30,40)
+  7 Jul 1919 42
+    activity:training (26,44)
+    place:Paris (71,45)
+    domestic:parades (60,46)
+  8 Jul 1919 47
+    activity:training (26,49)
+  9 Jul 1919 51
+    activity:training (28,52)
+  10 Jul 1919 54
+    activity:training (27,56)
+  11 Jul 1919 57
+    activity:training (28,57)
+  12 Jul 1919 60
+    activity:training (28,61)
+  13 Jul 1919 62
+    domestic:religion (35,64)
+  14 Jul 1919 65
+  15 Jul 1919 68
+    activity:training (26,70)
+  16 Jul 1919 71
+    activity:training (30,72)
+  17 Jul 1919 74
+    domestic:inspections (48,75)
+    activity:training (27,76)
+  18 Jul 1919 79
+    place:Witterschlick (57,80)
+    activity:movement (37,81)
+  19 Jul 1919 82
+    domestic:sport (26,84)
+  20 Jul 1919 85
+    domestic:religion (30,86)
+  21 Jul 1919 87
+    activity:training (30,89)
+  22 Jul 1919 91
+    activity:training (30,91)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD0000zow  ----------
+  23 Jul 1919 24
+    place:Hersel (6,26)
+  24 Jul 1919 27
+    activity:training (28,27)
+    activity:training (34,27)
+  25 Jul 1919 30
+    activity:training (42,32)
+  26 Jul 1919 33
+    activity:training (28,35)
+  27 Jul 1919 36
+    domestic:religion (30,39)
+  28 Jul 1919 40
+    activity:training (31,42)
+  30 Jul 1919 47
+    activity:training (28,48)
+    activity:training (26,49)
+    activity:training (34,49)
+Page 31 (type diary) http://wd3.herokuapp.com/pages/AWD0000zpi  ----------
+  31 Jul 1919 0
+    person:Second Lieutenant S V Keeling (resigned) (9,26)
+    person:Second Lieutenant S V Keeling (resigned) (23,26)
+    person:Lieutenant H H Scott (returned_hospital) (78,27)
+    person:Lieutenant H H Scott (departed_sick) (8,28)
+    person:Second Lieutenant E O Bryant (returned_hospital) (76,30)
+    person:Second Lieutenant Brooks (departed_posted) (10,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 23; wounded: 0 (41,31)
+    person:Lieutenant E C Chidley (returned_posted) (76,33)
+    unit:53 S.W.B. (21,34)
+    unit:53 bn s.w.b. (89,34)
+    person:Lieutenant E N Rothwell (departed_posted) (8,36)
+    person:Second Lieutenant A E Lovegreen (returned_posted) (76,36)
+    person:Rothwell (departed_posted) (19,38)
+    person:Lieutenant H V Oldfield (returned_posted) (76,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,39)
+    unit:11 bn leicester Regiment. (23,40)
+    person:Lieutenant S D Barton (returned_posted) (76,43)
+    unit:53 bn sherwood foresters (89,44)
+    person:Captain Robertson (departed_posted) (6,44)
+    person:Captain H J Robertson (departed_posted) (13,45)
+    unit:51 bn d.l.i. (22,47)
+    person:Captain Robertson (departed_posted) (24,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,48)
+    unit:1 Brigade hq (23,61)
+    unit:K.S.L.I. (22,64)
+    unit:R.A.O.C. (21,67)
+    unit:R.A.S.C. M.T. (24,70)
+    strength:officer: 57; nco: 0; other: 1073 (87,76)
+    strength:officer: 58; nco: 0; other: 1030 (86,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (81,85)
+Page 32 (type orders) http://wd3.herokuapp.com/pages/AWD0000zpc  ----------
+  31 Jul 1919 0
+    reference:Addendum No. 1 to Operation Order No. 10 (46,11)
+    reference:ADDENDUM NO 1 TO OPERATION ORDER NO 10 (33,14)
+    date:1 Jul 1919 (74,20)
+    reference:ADDENDUM NO.1 TO OPERATION ORDER NO.10 (30,21)
+Page 33 (type orders) http://wd3.herokuapp.com/pages/AWD0000zov  ----------
+  31 Jul 1919 0
+    date:13 Jul 1919 (60,12)
+    person:Second Lieutenant F G Wilson (other) (60,17)
+    person:Second Lieutenant A E Lovegreen (other) (52,18)
+    person:Second Lieutenant F G Wilson (other) (42,53)
+    person:Lieutenant A J (author) (53,69)
+    date:13 Jul 1919 (63,8)
+    person:Lieutenant Colonel J A Pemberton (commander) (38,8)
+Page 34 (type orders) http://wd3.herokuapp.com/pages/AWD0000zop  ----------
+  31 Jul 1919 0
+    reference:ADDENDUM NO.1 TO OPERATION ORDER NO.11 OF 13/7/19 (45,17)
+    reference:Addendum to Operation Order No. 11 of 13/7/19. (48,22)
+    date:13 Jul 1919 (68,24)
+    reference:Addendum No.1 to O.O. No. 11 (46,25)
+    reference:ADDENDUM NO 1 TO OPERATION ORDER NO 11 (34,25)
+    date:13 Jul 1919 (73,32)
+    date:18 Jul 1919 (54,35)
+    date:15 Jul 1919 (75,35)
+    date:14 Jul 1919 (25,67)
+Page 35 (type orders) http://wd3.herokuapp.com/pages/AWD0000zq3  ----------
+  31 Jul 1919 0
+    person:Captain H H Scott (other) (45,15)
+    reference:Warning Order (46,2)
+    orders:move (39,4)
+    date:14 Jul 1919 (37,58)
+    reference:Warning Order (47,6)
+    reference:WARNING ORDER (46,7)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD0000zot  ----------
+  31 Jul 1919 0
+  1 Aug 1919 23
+    activity:training (44,25)
+    domestic:inspections (28,25)
+  2 Aug 1919 26
+    place:Hersel (6,26)
+    domestic:medical (49,28)
+  3 Aug 1919 29
+    place:Roisdorf (5,30)
+  4 Aug 1919 32
+    domestic:sport (28,32)
+    place:Buschdorf (7,33)
+  5 Aug 1919 34
+    activity:training (30,36)
+  6 Aug 1919 37
+    activity:training (31,39)
+    domestic:hygiene (57,39)
+  7 Aug 1919 40
+  8 Aug 1919 42
+    activity:training (31,42)
+    domestic:inspections (29,44)
+    activity:movement (45,45)
+  9 Aug 1919 46
+  10 Aug 1919 49
+    domestic:religion (28,49)
+  11 Aug 1919 51
+    domestic:parades (27,51)
+    activity:training (30,53)
+  14 Aug 1919 60
+  16 Aug 1919 66
+  17 Aug 1919 69
+  18 Aug 1919 72
+    activity:training (31,73)
+    activity:training (25,75)
+  21 Aug 1919 82
+    activity:other (32,84)
+Page 37 (type diary) http://wd3.herokuapp.com/pages/AWD0000zpe  ----------
+  23 Aug 1919 24
+    strength:officer: 33; nco: 0; other: 684 (58,24)
+    activity:movement (22,26)
+    place:United Kingdom (39,26)
+    time:0100PM (17,27)
+    place:Roisdorf (7,27)
+  25 Aug 1919 28
+    activity:movement (22,29)
+    place:Calais (7,30)
+    time:0615AM (18,31)
+    place:Dover (48,31)
+    time:1030AM (17,33)
+    activity:movement (25,33)
+    activity:movement (33,35)
+    time:1230PM (18,36)
+    place:Rhyl (38,37)
+    place:Dover (7,37)
+    time:0200PM (17,39)
+    activity:movement (22,39)
+  26 Aug 1919 40
+    activity:movement (31,41)
+    time:1230AM (18,43)
+    activity:movement (25,43)
+    place:Rhyl (7,43)
+    place:Kinmel (7,46)
+  27 Aug 1919 48
+    place:Kinmel Park Camp (6,48)
+    domestic:hygiene (22,50)
+  28 Aug 1919 51
+    domestic:hygiene (23,52)
+  29 Aug 1919 54
+    domestic:other (26,56)
+  30 Aug 1919 57
+  31 Aug 1919 84
+    domestic:religion (23,61)
+Page 38 (type diary) http://wd3.herokuapp.com/pages/AWD0000zoy  ----------
+  Hashtags: #A78QDRAFTED 
+  31 Aug 1919 0
+    person:Lieutenant E O Salt (resigned) (9,26)
+    person:Lieutenant E O Salt (resigned) (27,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 35; wounded: 0 (41,26)
+    person:Lieutenant P B Gilbert (resigned) (10,29)
+    person:Lieutenant P B Gilbert (resigned) (24,29)
+    person:Second Lieutenant J Mayall (resigned) (8,33)
+    person:Second Lieutenant J Mayall (resigned) (22,33)
+    person:Captain J Atkinson (departed_posted) (9,36)
+    person:Captain J Atkinson (departed_posted) (22,39)
+    person:Captain W Siddons (resigned) (7,41)
+    person:Captain W Siddons (resigned) (23,47)
+    unit:9 corps cyclists (25,52)
+    unit:T.H.B. (22,55)
+    unit:R.A.M.C. (22,58)
+    unit:141 F.A. (22,61)
+    unit:16 H.H.H.T. (24,64)
+    unit:R.e. sigs (22,67)
+    unit:R.A.S.C. M.T. (23,70)
+    strength:officer: 58; nco: 0; other: 1033 (73,76)
+    strength:officer: 58; nco: 0; other: 1033 (82,79)
+    strength:officer: 53; nco: 0; other: 899 (83,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (87,86)
+Page 39 (type diary) http://wd3.herokuapp.com/pages/AWD0000zpz  ----------
+  Hashtags: #DESERTERS 
+  31 Aug 1919 74
+    person:Second Lieutenant D W Morgan (resigned) (23,25)
+    person:Second Lieutenant D W Morgan (resigned) (9,25)
+  13 Aug 1919 27
+    person:Lieutenant H H Scott (other) (10,32)
+  12 Aug 1919 35
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 24; wounded: 0 (25,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 24; wounded: 0 (43,37)
+    unit:R.A.S.C. M.T. (20,49)
+    unit:Roscmt (9,50)
+    unit:Ramc (11,52)
+    unit:R.A.M.C. (19,52)
+    unit:Wes Dev L~~~~~ (9,54)
+    unit:Wes Division train (18,54)
+    unit:Mgc (10,64)
+    unit:M.G.C. (18,64)
+  1 Aug 1919 71
+    strength:officer: 50; nco: 0; other: 906 (83,73)
+  31 Aug 1919 74
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (5,74)
+    unit:R ~ Sigs (9,76)
+    strength:officer: 48; nco: 0; other: 835 (84,77)
+    unit:Supply Depot Antwerp (8,81)
+    person:Captain H Warner (author) (74,87)
+Page 40 (type orders) http://wd3.herokuapp.com/pages/AWD0000zpn  ----------
+  31 Aug 1919 0
+    orders:move (36,6)
+    reference:OPERATION ORDERS NO.14 MOVE TO ENGLAND (52,7)
+    reference:OPERATION  ORDER NO 14 - MOVE TO ENGLAND (41,7)
+    orders:move (44,8)
+    person:Lieutenant H H Rockett (other) (51,81)
+    person:Lieutenant F C Woodcock (other) (51,81)
+    person:Lieutenant A J Ralph (other) (42,90)
+Page 41 (type orders) http://wd3.herokuapp.com/pages/AWD0000zpo  ----------
+  31 Aug 1919 0
+    reference:O.O. 14 Contd (60,3)
+    orders:move (35,5)
+    reference:OPERATION ORDERS NO.14 MOVE TO ENGLAND PAGE 2 (49,7)
+    reference:Operation Order No. 14 (contd) (60,7)
+    reference:OPERATION  ORDER NO 14 - MOVE TO ENGLAND - CONT (58,7)
+Page 42 (type orders) http://wd3.herokuapp.com/pages/AWD0000zpu  ----------
+  31 Aug 1919 0
+    person:Captain H Warner (author) (53,42)
+    date:20 Aug 1919 (35,48)
+    orders:move (35,5)
+    orders:move (43,7)

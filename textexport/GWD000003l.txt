@@ -1,0 +1,454 @@
+GWD000003l wo/95/1248/3
+1 DIVISION: Divisional Cyclist Company 
+36 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD0000jv9  ----------
+  1 May 1915 26
+    place:Locon (19,30)
+    place:Richebourg (60,30)
+    activity:other (32,33)
+  8 May 1915 41
+    activity:movement (35,46)
+    unit:Signal Company (48,55)
+  10 May 1915 61
+    place:Locon (18,66)
+    activity:other (37,67)
+  31 May 1915 73
+    place:Labeuvriere (17,76)
+    activity:other (31,76)
+  25 May 1915 77
+    place:Annequin (61,81)
+    place:Gorre (39,85)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvm  ----------
+  1 Jun 1915 27
+    place:Labeuvriere (19,31)
+    activity:other (35,31)
+  5 Jun 1915 35
+    activity:other (28,38)
+    place:Annezin (17,39)
+  24 Jun 1915 43
+    place:Labeuvriere (19,47)
+    activity:other (33,47)
+  29 Jun 1915 48
+    place:Fouquieres (19,51)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvg  ----------
+  1 Jul 1915 24
+    unit:1 Division Headquarters (57,30)
+    unit:Apm (72,34)
+    unit:D.A. advanced Headquarters (56,35)
+    place:Fouquieres (16,36)
+  5 Jul 1915 41
+    activity:other (44,41)
+  7 Jul 1915 46
+    activity:other (45,46)
+    activity:other (45,50)
+  23 Jul 1915 51
+    activity:other (45,54)
+Page 6 (type cover)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvu  ----------
+  1 Aug 1915 26
+    unit:1 Division Headquarters (56,31)
+    place:Fouquieres (10,34)
+    unit:D.A. advanced Headquarters (37,34)
+    unit:Apm (73,35)
+  3 Aug 1915 38
+    place:Vermelles (57,42)
+  5 Aug 1915 43
+    activity:other (33,43)
+    domestic:sport (49,45)
+  23 Aug 1915 47
+    activity:reconnoitered (31,51)
+  29 Aug 1915 56
+    place:Annequin (62,57)
+    activity:repair (45,58)
+  30 Aug 1915 61
+    activity:repair (46,66)
+  31 Aug 1915 26
+    place:Vermelles (38,69)
+    unit:1 Brigade Headquarters (67,73)
+  29 Aug 1915 56
+    place:Gosnay (14,77)
+    place:Gosnay (45,77)
+    activity:movement (29,77)
+    person:Lieutenant Harris (departed_posted) (30,81)
+Page 8 (type cover)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD0000jup  ----------
+  24 Sep 1915 28
+    place:Gosnay (18,31)
+    unit:Brigade hq (40,38)
+  8 Sep 1915 40
+    activity:repair (48,42)
+  10 Sep 1915 46
+    place:Vermelles (52,46)
+  20 Sep 1915 47
+    activity:repair (47,51)
+    place:Vermelles (34,54)
+  24 Sep 1915 28
+    unit:Advanced hq (57,58)
+    time:1000PM (19,61)
+    activity:movement (35,61)
+    place:Verquin (45,61)
+  25 Sep 1915 62
+    activity:movement (25,62)
+    time:0730AM (17,65)
+    place:Corons de Rutoire (45,65)
+    activity:movement (29,66)
+    time:0430PM (19,69)
+    activity:movement (26,69)
+    place:Hulloch (61,69)
+    place:Haie Wood (38,70)
+    time:0630PM (19,73)
+    activity:movement (27,73)
+    place:Corons de Rutoire (44,73)
+    activity:reconnoitered (29,77)
+    time:1000AM (18,78)
+    place:Lone Tree (50,78)
+  26 Sep 1915 81
+    reference:on patrol, enemy found in trenches (39,81)
+    reference:supplied troops to stop and collect stragglers (32,86)
+    place:Corons de Rutoire (19,86)
+    reference:supplied troops to rebuild bridge over trench (35,89)
+    activity:repair (54,89)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD0000jtd  ----------
+  27 Sep 1915 26
+    place:Corons de Rutoire (17,30)
+    activity:other (50,34)
+    place:Lone Tree (63,34)
+    reference:Burying the dead at Lone tree (52,34)
+    activity:fire (39,35)
+    time:1230PM (16,35)
+  28 Sep 1915 39
+    activity:fire (44,39)
+    activity:other (48,42)
+    activity:fire (63,46)
+    place:Lone Tree (31,46)
+    place:Hulloch Road (49,46)
+  29 Sep 1915 49
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (47,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (34,50)
+    activity:movement (30,53)
+  30 Sep 1915 54
+    time:0130PM (16,54)
+    activity:resting (31,57)
+    place:Noeux-les-Mines (15,57)
+    reference:Eight Signalers attached to Signal Company during Battle (28,60)
+    unit:Signal Company (50,61)
+Page 11 (type cover)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD0000jv5  ----------
+  1 Oct 1915 27
+    unit:Signal company (61,29)
+    unit:1 Division hq (45,30)
+    place:Noeux les Mines (15,31)
+  5 Oct 1915 34
+    unit:Advanced hq (38,35)
+    unit:Afm (60,35)
+    unit:Cavalry (50,38)
+    unit:Squadron of Cavalry (51,38)
+    unit:Cavalry (60,38)
+    activity:training (33,38)
+  6 Oct 1915 40
+    time:0950AM (21,42)
+    activity:movement (32,42)
+  7 Oct 1915 48
+    place:Mazingarbe (14,43)
+    place:Mazingarbe Chateau (49,43)
+  8 Oct 1915 44
+    reference:party loading and taking to the front line gas cylinders (50,46)
+    activity:other (35,46)
+  7 Oct 1915 48
+    reference:company burying telephone line in front of Hulloch (39,50)
+    activity:repair (30,50)
+  12 Oct 1915 52
+    reference:company carrying amunition, bombs, and water ato front line at night (30,54)
+    activity:other (32,54)
+    reference:einht signaLLERS ATTACHED TO SIGNAL COMPANY (27,61)
+    activity:strength (33,61)
+    unit:Signal company (51,62)
+    unit:Signal Company (61,62)
+  13 Oct 1915 63
+    activity:movement (32,65)
+    time:0900AM (17,66)
+    reference:picking up stragglers (40,66)
+    place:Le Rutoire Farm (33,69)
+    place:Loos (68,69)
+    place:Bethune (58,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (46,73)
+  14 Oct 1915 74
+    reference:stragglers posts withdrawn (27,76)
+    time:1100AM (18,77)
+    activity:withdraw (31,77)
+    activity:movement (50,77)
+    activity:resting (61,77)
+  15 Oct 1915 81
+    place:Haut Rieux (53,81)
+    domestic:accomodation (40,81)
+  18 Oct 1915 83
+    activity:training (28,85)
+  19 Oct 1915 86
+    place:Ferfay (71,89)
+    activity:repair (30,89)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvq  ----------
+  19 Oct 1915 26
+    activity:movement (27,29)
+    place:Raimbert (40,30)
+    time:0530PM (17,31)
+  20 Oct 1915 32
+    place:Ferfay (65,34)
+    activity:repair (27,35)
+  26 Oct 1915 37
+    place:Floringham (61,38)
+    place:Lillers (28,42)
+  27 Oct 1915 44
+    place:Ferfay (52,46)
+    activity:repair (27,46)
+  28 Oct 1915 48
+    place:Labuissiere (68,49)
+    domestic:inspections (65,53)
+    reference:kings army inspection (64,54)
+  30 Oct 1915 61
+    place:Ferfay (51,62)
+    activity:repair (28,62)
+Page 14 (type cover)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD0000juy  ----------
+  1 Nov 1915 23
+    place:Rimbert Les Auchel (13,30)
+    activity:strength (34,31)
+    place:Marles les Mines (41,37)
+    activity:repair (50,42)
+  15 Nov 1915 50
+    place:Ferfay (44,45)
+    activity:movement (31,50)
+    place:Ferfay (18,50)
+    place:Ferfay (50,50)
+    activity:repair (46,57)
+    activity:repair (38,58)
+    unit:1 Divisional Bomb School (37,61)
+Page 16 (type cover)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvc  ----------
+  Hashtags: #stitch 
+  1 Dec 1915 25
+    activity:strength (35,29)
+    place:Mazingarbe (55,38)
+    activity:movement (27,38)
+    time:0130PM (17,38)
+    activity:movement (35,39)
+    activity:repair (59,42)
+    place:Mazingarbe (8,43)
+    activity:line (67,53)
+    activity:repair (55,60)
+  3 Dec 1915 68
+    activity:repair (43,69)
+    unit:2 r mf (87,69)
+    unit:Goc (85,70)
+  8 Dec 1915 73
+    unit:Royal Munster Fusiliers (82,74)
+    activity:repair (34,76)
+  7 Dec 1915 78
+    person:Second Lieutenant H F Painter (joined) (55,81)
+    person:Second Lieutenant H F Painter (joined) (44,81)
+    person:Second Lieutenant J A Patterson (joined) (35,85)
+    person:Second Lieutenant J A Patterson (joined) (42,85)
+    unit:Divisional Mounted Troops (62,93)
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD0000jva  ----------
+  9 Dec 1915 27
+    place:Mazingarbe (10,30)
+    activity:training (34,33)
+    activity:strength (49,34)
+    unit:Northumberland Hussars (54,38)
+    unit:B Squadron Northumberland Hussars (45,38)
+    unit:B Squadron Northumberland Hussars (35,39)
+  10 Dec 1915 42
+    activity:repair (33,46)
+    activity:repair (46,46)
+    place:Railway Alley (23,50)
+    place:Chalk Pit Alley (23,53)
+    place:Posen Alley (23,57)
+    place:Vendin Alley (25,61)
+    place:Essex Lane (23,64)
+    place:Hag Alley (25,69)
+    place:Wings Way (24,73)
+    place:Devon Lane (25,77)
+    domestic:accomodation (63,91)
+    place:Mazingarbe (44,94)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD0000juq  ----------
+  10 Dec 1915 27
+    place:Mazingarbe (9,26)
+    activity:repair (38,31)
+    activity:enemy_activity (54,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (37,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (25,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (48,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (58,50)
+    place:Cite Saint Elie (36,58)
+    place:Loos (43,62)
+    activity:repair (44,75)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvh  ----------
+  27 Dec 1915 25
+    place:Mazingarbe (9,27)
+    person:Second Lieutenant J A Patterson (departed_sick) (37,28)
+    person:Second Lieutenant J A Patterson (departed_sick) (27,30)
+    person:Second Lieutenant J A Patterson (departed_sick) (46,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (59,31)
+  28 Dec 1915 34
+    person:Second Lieutenant R F Goodman (joined) (30,38)
+    person:Second Lieutenant R F Goodman (joined) (39,39)
+Page 21 (type cover)
+Page 22 (type cover)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvv  ----------
+  28 Dec 1915 0
+    place:Mazingarbe (12,31)
+  1 Jan 1916 33
+    activity:repair (40,36)
+  12 Jan 1916 44
+    person:Lieutenant G W Arnold (joined) (73,44)
+    time:1200PM (10,47)
+    unit:B Squadron Northumberland Hussars (34,50)
+    reference:guarding stores (38,55)
+    activity:movement (69,58)
+  15 Jan 1916 61
+    reference:stores handed over to 15 div cycling company (34,64)
+    time:1100AM (8,66)
+    unit:15 Division cyclists coy (25,68)
+    place:Haut Rieux (14,74)
+    place:Haut Rieux (55,76)
+  16 Jan 1916 84
+    activity:movement (33,77)
+    domestic:accomodation (43,77)
+  31 Jan 1916 81
+    activity:resting (63,81)
+  16 Jan 1916 84
+    activity:training (69,85)
+    domestic:inspections (56,89)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvr  ----------
+  20 Jan 1916 34
+    domestic:inspections (69,43)
+    place:Philomel (30,43)
+    person:General Joffre (other) (58,46)
+    unit:Signal Company (71,50)
+    activity:strength (37,50)
+  15 Jan 1916 55
+    activity:strength (33,58)
+    person:Fawfitt (author) (62,69)
+Page 25 (type cover)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvt  ----------
+  1 Feb 1916 35
+    place:Haut Rieux (18,31)
+    activity:strength (42,32)
+    activity:training (34,42)
+    unit:B Squadron Northumberland Hussars (52,43)
+    unit:Northumberland Hussars (63,43)
+    unit:B squadron Northumberland Hussars (46,43)
+  16 Feb 1916 45
+    activity:movement (36,50)
+    place:Les Brebis (54,50)
+    place:Les Brebis (19,51)
+  17 Feb 1916 53
+    person:Captain J G G Rae (other) (85,57)
+    activity:repair (37,58)
+    unit:Northumberland Hussars (34,61)
+    person:Second Lieutenant Rf Goodman (other) (76,61)
+    person:R F Goodman (joined) (80,61)
+    activity:repair (64,62)
+    unit:B Squadron Northumberland Hussars (36,62)
+    person:Lieutenant Goodman (other) (90,62)
+    person:Second Lieutenant H F Painter (other) (80,65)
+    place:Whitehall (44,80)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvs  ----------
+  17 Feb 1916 25
+    place:Edgeware Road (30,34)
+    place:South Street East (33,37)
+    place:South Street West (32,41)
+    person:Captain (author) (74,79)
+Page 28 (type cover)
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD0000jut  ----------
+  31 Mar 1916 29
+    place:Les Brebis (19,31)
+    activity:repair (64,38)
+    activity:repair (31,41)
+  23 Mar 1916 51
+    person:Second Lieutenant B H Johnson (joined) (34,54)
+Page 30 (type cover)
+Page 31 (type diary) http://wd3.herokuapp.com/pages/AWD0000jv2  ----------
+  1 Apr 1916 26
+    activity:repair (61,31)
+    place:Les Brebis (21,32)
+    activity:strength (63,35)
+    unit:Signal Company (78,42)
+    activity:repair (46,44)
+    place:North Street (32,61)
+    place:South Street East (36,70)
+    place:Haymarket (33,73)
+    place:Whitehall (32,77)
+    place:Union Street (31,82)
+    place:Carfax Road (32,85)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvk  ----------
+  18 Apr 1916 64
+    place:South Street West (30,30)
+    place:Les Brebis (18,31)
+    unit:B Squadron Northumberland Hussars (80,32)
+    place:Saint James Street (31,34)
+    activity:strength (79,35)
+    place:Cordiale Avenue (31,37)
+    unit:B Squadron Northumberland Hussars (82,38)
+    place:Middle Alley (32,41)
+    place:Seventh Avenue (31,45)
+    place:Treize Alley (31,52)
+    activity:strength (84,54)
+    place:Neuf Alley (31,55)
+    place:Edgeware Road (31,59)
+    place:Maroc Road (29,62)
+  30 Apr 1916 66
+    place:Chateau de Florinethun (8,71)
+    activity:training (57,73)
+    activity:repair (84,74)
+    place:Condette (12,75)
+    unit:1 Cavalry Division (61,78)
+    place:Boulogne (17,79)
+Page 33 (type cover)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvf  ----------
+  1 May 1916 26
+    activity:training (36,30)
+    unit:1 Cavalry Division (50,31)
+    place:Condette (16,37)
+    unit:1 Cavalry Division (40,38)
+    activity:repair (37,44)
+    place:Maroc Defences (52,45)
+  9 May 1916 46
+    place:Les Brebis (30,46)
+    domestic:accomodation (66,49)
+    activity:movement (32,50)
+    place:Coyecques (50,50)
+    place:Les Brebis (65,53)
+  10 May 1916 67
+    place:Les Brebis (53,61)
+    activity:movement (44,62)
+    place:Maroc Defences (60,68)
+    activity:repair (32,70)
+    unit:2 Brigade (55,72)
+    reference:special work (37,72)
+    place:Les Brebis (10,73)
+  29 May 1916 85
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (45,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (25,78)
+  25 May 1916 79
+    reference:scouts to man observation post (28,83)
+  29 May 1916 85
+  31 May 1916 87
+    reference:straggler post (62,88)
+    unit:16 Division (53,89)
+Page 35 (type cover)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvj  ----------
+  31 May 1916 0
+  11 Jun 1916 35
+    place:Calonne (55,42)
+    unit:12 & 15 Divisions Cyclist Company (53,45)
+    activity:other (45,47)
+  21 Jun 1916 50
+    activity:movement (43,53)
+    place:Verquin (62,54)
+    unit:12 and 16d Division cycle corps (50,58)
+    unit:12 & 15 Division Cyl Corps (39,58)
+    person:Second Lieutenant Arnold (departed_posted) (81,58)
+    unit:1 corps Cycling Battalion (65,62)

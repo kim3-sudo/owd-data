@@ -1,0 +1,1315 @@
+GWD0000064 wo/95/1152/3
+3 CAVALRY DIVISION: 6 Machine Gun Squadron 
+66 pages
+
+Page 443 (type cover)
+Page 444 (type cover)
+Page 445 (type diary) http://wd3.herokuapp.com/pages/AWD0000y00  ----------
+  1 Feb 1916 0
+  29 Feb 1916 87
+    place:Offin (57,24)
+    place:Offin (7,24)
+    activity:other (31,25)
+    person:Captain G Sartorius (commander) (62,29)
+    person:Lieutenant H P Holt (joined) (51,33)
+    person:Lieutenant S B Horn (joined) (63,34)
+    person:Second Lieutenant J B Bickersteth (joined) (29,36)
+    person:Second Lieutenant A R Cooper (joined) (52,37)
+    person:Second Lieutenant M H Tisdall (joined) (23,40)
+    person:Second Lieutenant F B Ratcliffe (joined) (68,41)
+    unit:3 dg (50,48)
+    unit:Ird (59,49)
+    unit:Nsy (66,49)
+    place:Offin (78,86)
+    activity:training (77,91)
+Page 446 (type diary) http://wd3.herokuapp.com/pages/AWD0000xz8  ----------
+  29 Feb 1916 0
+    weather:rain (37,27)
+  21 Mar 1916 32
+    unit:6 Cavalry Brigade (32,32)
+    domestic:inspections (33,33)
+    domestic:inspections (51,34)
+    place:Offin (7,35)
+    strength:officer: 0; nco: 0; other: 232 (57,57)
+  1 May 1916 58
+    place:Offin (40,60)
+    place:Le Touquet (8,60)
+    activity:movement (35,61)
+    place:Le Touquet (74,61)
+Page 447 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0r  ----------
+  1 May 1916 29
+    activity:movement (34,31)
+    place:Le Touquet (53,31)
+    place:Le Touquet (8,31)
+    activity:training (56,36)
+  10 May 1916 41
+    domestic:sport (24,43)
+    unit:North Somerset Yeomanry (73,47)
+  15 May 1916 48
+    place:Saint Riquier (50,49)
+    activity:training (68,50)
+    activity:movement (35,51)
+  20 May 1916 52
+    activity:movement (32,54)
+    place:Offin (24,58)
+  24 May 1916 60
+    place:Offin (67,61)
+    activity:movement (36,62)
+    place:Le Touquet (50,62)
+  11 Jun 1916 64
+    activity:movement (34,66)
+    place:Torcy (80,66)
+  15 Jun 1916 68
+    activity:movement (36,70)
+    place:Cavron (62,70)
+  17 Jun 1916 72
+    person:Captain Sartorius (other) (29,73)
+    person:Lieutenant Holt (commander) (31,78)
+  24 Jun 1916 79
+    place:Domuast (52,81)
+    activity:movement (31,82)
+  25 Jun 1916 84
+    activity:movement (36,85)
+    place:Saint Leger-Le-Domart (73,85)
+    activity:movement (52,87)
+  26 Jun 1916 88
+    activity:movement (34,89)
+    place:Bonnay (68,89)
+Page 448 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzh  ----------
+  27 Jun 1916 28
+    place:Bonnay (7,31)
+  30 Jun 1916 33
+    person:Captain F King (commander) (26,34)
+Page 449 (type diary) http://wd3.herokuapp.com/pages/AWD0000xz2  ----------
+  30 Jun 1916 59
+    domestic:accomodation (47,28)
+    activity:movement (35,29)
+    place:Torcy (78,29)
+    place:Le Touquet (8,31)
+  15 Jun 1916 32
+    place:Cavron-St-Martin (56,33)
+    domestic:accomodation (43,33)
+    activity:movement (36,34)
+    place:Cavron (54,34)
+  17 Jun 1916 36
+    person:Captain Sartorius (commander) (30,38)
+    person:Lieutenant Holt (commander) (27,42)
+  24 Jun 1916 44
+    place:Domvast (45,45)
+    activity:movement (35,46)
+  25 Jun 1916 48
+    activity:movement (33,49)
+    place:Saint Leger-Le-Domart (58,49)
+    activity:movement (28,51)
+  26 Jun 1916 52
+    activity:movement (41,53)
+    place:Bonnay (62,53)
+  30 Jun 1916 59
+    person:Captain F King (commander) (26,61)
+Page 450 (type diary) http://wd3.herokuapp.com/pages/AWD0000y06  ----------
+  1 Jul 1916 27
+    unit:3 Cavalry Division (59,29)
+    activity:other (35,30)
+    place:Bonnay (7,30)
+  4 Jul 1916 36
+    activity:movement (34,38)
+    place:Wiry-Au-Mont (51,38)
+    place:Airaines (70,38)
+  9 Jul 1916 40
+    place:Corbie (39,41)
+    activity:movement (29,42)
+  10 Jul 1916 43
+    activity:movement (54,46)
+    unit:6 Cavalry Brigade (38,46)
+    place:Vaux-Sur-Somme (70,46)
+  20 Jul 1916 51
+    place:La Neuville (46,53)
+    activity:movement (32,54)
+  29 Jul 1916 55
+    activity:construction (71,57)
+    unit:3 Corps (48,57)
+    activity:movement (30,58)
+    activity:movement (38,65)
+    place:Becourt (60,65)
+  30 Jul 1916 67
+    place:Mametz Wood (55,69)
+    activity:movement (31,70)
+    place:Mametz (56,70)
+    activity:movement (27,72)
+    unit:Royals (73,72)
+    activity:line (50,73)
+    place:Mametz Wood (68,77)
+    unit:North Somerset Yeomen (80,81)
+    place:Mametz Wood (69,81)
+    place:Bazentin Le Petit (80,84)
+Page 451 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzg  ----------
+  30 Jul 1916 0
+    activity:fire (28,31)
+    activity:construction (64,34)
+    activity:fire (38,38)
+    time:0900PM (48,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,42)
+  31 Jul 1916 44
+    activity:withdraw (36,45)
+    unit:4 Army (74,45)
+    activity:movement (70,49)
+    place:La Neuville (28,54)
+Page 452 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0x  ----------
+  1 Aug 1916 28
+    place:Caours (44,30)
+    place:La Neuville (6,30)
+    domestic:accomodation (54,30)
+    activity:movement (34,30)
+    place:Maintenay (49,34)
+    activity:movement (38,34)
+    activity:movement (78,34)
+  4 Aug 1916 36
+    place:Cavron Saint Martin (65,37)
+    place:Cavron (71,38)
+  5 Aug 1916 39
+    place:Cavron Saint Martin (6,42)
+    domestic:accomodation (68,42)
+    activity:training (46,42)
+    activity:training (79,45)
+  26 Aug 1916 48
+    activity:training (31,49)
+    place:Wambercourt (82,57)
+    activity:training (49,59)
+    activity:training (39,61)
+    activity:training (70,64)
+  14 Aug 1916 72
+    person:Second Lieutenant W H Green (joined) (29,73)
+    person:Second Lieutenant G H Eaton (joined) (82,73)
+    person:Second Lieutenant G H Eaton (joined) (28,77)
+  23 Aug 1916 83
+    activity:movement (41,88)
+Page 453 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzd  ----------
+  25 Aug 1916 28
+    place:Cavron (7,29)
+    place:Cavron Saint Martin (7,30)
+    unit:8 mg squadron (72,37)
+    unit:8 Machine Gun Squadron (73,38)
+    place:Thiepval (68,42)
+  27 Aug 1916 52
+    activity:movement (64,47)
+    unit:2 Corps (47,49)
+    place:Cavron (58,57)
+  30 Aug 1916 67
+    person:Second Lieutenant W P Clones (joined) (28,68)
+Page 454 (type diary) http://wd3.herokuapp.com/pages/AWD0000xz9  ----------
+  30 Aug 1916 36
+  3 Sep 1916 28
+    unit:Royals (72,29)
+    activity:attack (45,30)
+    place:Thiepval (61,30)
+    place:Thiepval (9,30)
+    unit:4 (Royals) Guns (73,30)
+    unit:3 D Gs (40,33)
+    place:Thiepval (29,34)
+    place:Hamel (69,34)
+  30 Aug 1916 36
+    place:Aveluy Wood (37,38)
+    time:0510AM (47,41)
+    activity:withdraw (42,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (66,53)
+  4 Sep 1916 56
+    activity:other (26,57)
+  6 Sep 1916 59
+    place:Hamel (48,61)
+    place:Hamel Ridge (48,61)
+    place:Cavron (84,69)
+    place:Bouzincourt (45,69)
+  7 Sep 1916 71
+    activity:movement (55,71)
+    place:Cavron (60,72)
+    activity:movement (23,75)
+  8 Sep 1916 76
+  10 Sep 1916 83
+    activity:movement (32,85)
+    place:Somme (72,85)
+    place:Saulchoy (25,89)
+  5 Sep 1916 91
+    place:England (58,93)
+    person:Second Lieutenant F B Ratcliffe (departed_posted) (27,95)
+    place:Tidworth (83,96)
+Page 455 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzk  ----------
+  Hashtags: #scattered 
+  11 Sep 1916 28
+    place:Neuilly l'Hopital (73,30)
+    activity:movement (27,31)
+  12 Sep 1916 32
+    activity:movement (26,34)
+    place:Tirancourt (70,34)
+    place:La Chaussee (42,34)
+    place:Tirancourt Chateau (72,34)
+    unit:Brigade hq (26,38)
+  14 Sep 1916 40
+    place:Bussy (41,42)
+    place:Somme (50,46)
+  15 Sep 1916 48
+    place:Morval (63,53)
+    unit:3 Cavalry Division (50,55)
+    activity:attack (27,55)
+  17 Sep 1916 56
+    place:Daours (90,56)
+    activity:movement (23,57)
+    place:Hallue River (69,57)
+    unit:3 Cavalry Division (36,58)
+    weather:rain (27,65)
+    person:Second Lieutenant Clowes (departed_posted) (27,70)
+  22 Sep 1916 74
+    place:Lemesge-Soves (71,77)
+    activity:withdraw (35,78)
+    domestic:accomodation (38,80)
+  23 Sep 1916 82
+    place:Bealcourt (89,84)
+    activity:movement (26,85)
+    domestic:accomodation (80,85)
+    place:Bealcourt (47,85)
+    place:Wavans (59,85)
+  24 Sep 1916 88
+    domestic:accomodation (30,88)
+    place:Roussent (43,89)
+    place:Merlimont (68,94)
+    place:Maintenay (28,95)
+Page 456 (type diary) http://wd3.herokuapp.com/pages/AWD0000y07  ----------
+  20 Oct 1916 27
+    place:Roussent (57,30)
+    activity:training (55,34)
+  21 Oct 1916 56
+    place:Verton (66,41)
+    place:Uckfield (79,45)
+    person:Second Lieutenant A R Cooper (departed_posted) (28,46)
+    person:Lieutenant R A Spong (joined) (32,54)
+    place:Merlimont (67,77)
+    place:Rang (86,77)
+Page 457 (type diary) http://wd3.herokuapp.com/pages/AWD0000y02  ----------
+  1 Nov 1916 25
+    place:Verton (7,28)
+    activity:training (42,38)
+    activity:training (68,48)
+    unit:3 Dragoons (62,69)
+    person:Lieutenant Tisdall (departed_training) (49,84)
+    person:Sergeant Harding (departed_training) (63,84)
+    unit:Division Gas School (61,89)
+Page 458 (type diary) http://wd3.herokuapp.com/pages/AWD0000y15  ----------
+  1 Dec 1916 26
+    person:Lieutenant Bickersteth (28,30)
+    person:Sergeant Cornish (47,30)
+    person:Corporal Wittenbach (68,30)
+    place:Verton (8,30)
+    place:Verton (7,31)
+    place:Uckfield (40,38)
+Page 459 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzc  ----------
+  1 Dec 1916 40
+    place:Verton (6,30)
+    person:Sergeant Cornish (departed_posted) (43,30)
+    person:Corporal Wittenbach (departed_posted) (62,30)
+    place:Uckfield (47,38)
+    place:Uckfield (61,41)
+    person:Lieutenant Cooper (returned_training) (26,41)
+    person:Sergeant Twist (returned_training) (37,42)
+    activity:training (69,45)
+    domestic:parades (25,46)
+  22 Dec 1916 39
+    place:Maresquel (7,54)
+    activity:movement (34,57)
+    place:Maresquel (69,57)
+    place:Ecquemicourt (31,61)
+  11 Dec 1916 82
+    place:Verton (7,85)
+    domestic:inspections (26,85)
+Page 460 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0h  ----------
+  11 Dec 1916 0
+    activity:training (29,30)
+    place:Verton (8,30)
+    place:Bahot Wood (47,37)
+  14 Dec 1916 47
+    person:Second Lieutenant J B Bickersteth (promotion) (20,68)
+    person:Second Lieutenant J B Bickersteth (promotion) (34,69)
+    person:Second Lieutenant A R Cooper (promotion) (32,72)
+    person:Second Lieutenant C H Elmes (promotion) (24,76)
+    person:Second Lieutenant C H Elmes (promotion) (36,76)
+    person:J B Ratcliffe (promotion) (21,83)
+    place:Maresquel (8,84)
+    person:Lieutenant J B Ratcliffe (promotion) (41,84)
+Page 461 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzq  ----------
+  14 Dec 1916 0
+    person:Lieutenant C H Elmes (departed_posted) (29,30)
+    person:Lieutenant R Spong (departed_training) (26,42)
+    place:Maresquel (7,42)
+Page 462 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0k  ----------
+  1 Jan 1917 28
+    place:Maresquel (7,30)
+    activity:construction (30,32)
+    weather:rain (22,50)
+    weather:cold (83,50)
+  22 Jan 1917 54
+    person:Lieutenant W H Green (25,57)
+    place:Uckfield (46,61)
+  26 Jan 1917 62
+    place:Uckfield (55,65)
+    person:Lieutenant J B Bickersteth (returned_training) (28,65)
+  30 Jan 1917 68
+    activity:line (24,69)
+    person:Major King (other) (23,73)
+    person:Captain Ratcliffe (other) (33,73)
+    person:Lieutenant Tisdall (other) (42,73)
+    person:Lieutenant Cooper (other) (52,73)
+    person:Lieutenant Eaton (other) (58,73)
+    place:Villers-Au-Bois (64,77)
+    place:Vimy Ridge (25,77)
+    place:Maresquel (51,81)
+Page 463 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0f  ----------
+  Hashtags: #faint 
+  1 Feb 1917 28
+    strength:officer: 5; nco: 0; other: 87 (69,30)
+    activity:movement (26,31)
+    place:Souchez (8,31)
+    unit:4 Canadian Division (78,34)
+    place:Souchez (48,34)
+    unit:12 Canadian Infantry Brigade (30,49)
+    place:Givenchy (28,57)
+  13 Feb 1917 66
+    place:Souchez (85,69)
+    activity:repair (77,73)
+  14 Feb 1917 78
+Page 464 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0b  ----------
+  Hashtags: #Gas 
+  15 Feb 1917 30
+    place:Souchez (7,30)
+    activity:line (22,35)
+    place:Souchez (6,35)
+  28 Feb 1917 38
+    place:Souchez (5,41)
+    time:0300AM (61,41)
+    activity:attack (57,46)
+  1 Mar 1917 59
+    activity:withdraw (31,61)
+  2 Mar 1917 66
+    activity:movement (27,69)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (64,69)
+    place:Maresquel (7,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (21,73)
+    person:Quarter Master Sergeant H C Sutton (award) (56,77)
+    person:Quarter Master Sergeant H C Sutton (award) (35,77)
+    person:Private H G Tedder (award) (56,80)
+    person:Private H G Tedder (award) (34,81)
+  16 Feb 1917 85
+    person:Quarter Master Sergeant H C Sutton (award) (43,85)
+    person:Second Lieutenant C G Lowden (joined) (28,89)
+Page 465 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0j  ----------
+  1 Mar 1917 23
+    activity:resting (38,25)
+    place:Vimy Ridge (69,25)
+    place:Vimy (69,25)
+    place:Cabaret Rouge (6,25)
+    place:Villers Au Bois (52,29)
+    place:Cabaret Rouge (7,30)
+  2 Mar 1917 33
+    place:Maresquel (8,37)
+  10 Mar 1917 41
+    activity:resting (25,42)
+  31 Mar 1917 49
+    activity:training (56,49)
+    activity:training (24,51)
+    place:Hesmond (78,65)
+    activity:other (24,66)
+  21 Mar 1917 77
+    weather:cold (70,79)
+    activity:training (25,80)
+  14 Mar 1917 87
+    person:Lieutenant R A Spong (other) (55,90)
+Page 466 (type diary) http://wd3.herokuapp.com/pages/AWD0000xz6  ----------
+  14 Mar 1917 0
+  1 Apr 1917 21
+    place:Maresquel (56,23)
+    place:Maresquel (7,24)
+  4 Apr 1917 29
+    place:Ecquemicourt (27,37)
+    place:Arras (76,39)
+  5 Apr 1917 41
+    activity:movement (25,45)
+    place:Ecquemicourt (35,45)
+  7 Apr 1917 54
+    activity:movement (25,56)
+    place:Vacquerie (72,56)
+    place:Fortel (58,57)
+    place:Vacquerie (7,57)
+  8 Apr 1917 63
+    place:Fosseux (81,63)
+    activity:movement (26,65)
+    place:Fosseux (7,66)
+  9 Apr 1917 70
+    activity:movement (25,74)
+    mapRef: (16,75)
+    unit:8 Battalion (46,75)
+    place:Arras (39,77)
+    place:Arras (8,78)
+Page 467 (type diary) http://wd3.herokuapp.com/pages/AWD0000y01  ----------
+  9 Apr 1917 23
+    activity:movement (55,28)
+    place:Duisans (30,32)
+  10 Apr 1917 34
+    time:1100AM (59,37)
+    place:Duisans (35,38)
+    activity:movement (29,38)
+    place:Duisans (7,39)
+    place:Feuchy (41,46)
+    place:Arras (7,49)
+    activity:enemy_activity (59,51)
+  11 Apr 1917 77
+    place:Arras (7,60)
+    time:0600AM (29,61)
+    activity:movement (35,63)
+    place:Arras (8,69)
+    time:0830AM (26,79)
+    activity:movement (40,82)
+    unit:3 Dragoon Guards (72,83)
+    unit:3 D Grs (34,84)
+    person:Captain Holdroyd-Smith (commander) (29,86)
+    place:La Bergere (42,90)
+    place:Monchy (57,90)
+Page 468 (type diary) http://wd3.herokuapp.com/pages/AWD0000y1k  ----------
+  Hashtags: #Hill 
+  11 Apr 1917 25
+    place:Saint Robart (80,29)
+    activity:attack (47,33)
+    time:1130AM (24,38)
+    person:Lieutenant Lowden (casualty_wounded) (36,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (76,38)
+    person:Sergeant Eaton (commander) (67,41)
+    activity:fire (33,42)
+    place:Arras (7,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (67,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (26,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (36,54)
+    person:General Harman (commander) (36,57)
+    time:0300PM (26,58)
+    person:Major King (commander) (59,58)
+    person:Colonel Burt (commander) (46,61)
+    person:Lieutenant Cooper (commander) (53,65)
+    place:Guemappe (62,68)
+    activity:fire (32,69)
+    person:Lieutenant Cooper (casualty_wounded) (46,73)
+    time:0400PM (25,80)
+    person:Lieutenant Elmes (38,85)
+    person:Lieutenant Tisdall (66,85)
+    unit:N S T (54,89)
+    person:Major West (74,89)
+Page 469 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0m  ----------
+  11 Apr 1917 21
+    mapRef:28/23 (90,13)
+    place:La Bergere (35,26)
+    place:Guemappe (63,35)
+    activity:fire (38,47)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 3 (31,50)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 3 (23,50)
+    weather:cold (30,54)
+    weather:cold (38,55)
+    time:1130PM (23,55)
+  12 Apr 1917 65
+    time:1230AM (26,69)
+    person:Major King (commander) (26,73)
+    place:Racecourse (51,79)
+    place:Arras (70,79)
+    activity:movement (30,80)
+    weather:cold (68,88)
+    place:Arras (53,88)
+Page 470 (type diary) http://wd3.herokuapp.com/pages/AWD0000xyz  ----------
+  12 Apr 1917 58
+    activity:movement (26,25)
+    weather:cold (56,30)
+    time:0530AM (45,35)
+    weather:cold (66,38)
+    time:0700AM (58,49)
+    time:0900AM (61,52)
+    place:Fosseux (53,58)
+    activity:movement (26,60)
+    place:Fosseux (7,60)
+  16 Apr 1917 67
+    place:Auxi-le-Chateau (71,68)
+    activity:movement (25,71)
+    place:Vaulx (7,73)
+    place:Vaulx (41,75)
+    domestic:accomodation (59,76)
+  20 Apr 1917 81
+    activity:movement (26,84)
+    place:Buire-le-Sec (67,85)
+    place:Vaulx (7,87)
+    domestic:accomodation (40,87)
+Page 471 (type diary) http://wd3.herokuapp.com/pages/AWD0000y04  ----------
+  Hashtags: #horses 
+  30 Apr 1917 24
+    activity:resupplying (42,27)
+    activity:casualty (27,34)
+    person:Lieutenant Wilkes (joined) (26,56)
+    place:Gallipoli (31,60)
+  25 Apr 1917 69
+    person:Second Lieutenant Ellis (joined) (25,73)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 5 (28,80)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 5 (33,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (64,86)
+    person:Lieutenant Cooper (casualty_wounded) (34,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (64,91)
+Page 472 (type diary) http://wd3.herokuapp.com/pages/AWD0000y03  ----------
+  11 May 1917 23
+    place:Buire-le-Sec (6,26)
+    place:Buire (6,26)
+    activity:training (36,26)
+  18 May 1917 62
+    place:Buire (78,62)
+    activity:movement (31,63)
+    place:Peronne (26,66)
+  13 May 1917 68
+    place:Raye-Sur-Authie (28,70)
+  14 May 1917 72
+    activity:movement (33,72)
+    place:Barly (26,74)
+  15 May 1917 76
+    activity:movement (32,76)
+    place:Pernois (24,79)
+  16 May 1917 80
+    activity:movement (35,80)
+    place:Bussy (25,82)
+  17 May 1917 84
+    activity:movement (35,85)
+    place:Harbonieres (29,86)
+  19 May 1917 88
+    activity:movement (35,88)
+    place:Buire (26,89)
+Page 473 (type diary) http://wd3.herokuapp.com/pages/AWD0000xz5  ----------
+  22 May 1917 22
+    activity:line (21,25)
+    place:Epehy (50,25)
+    place:Buire (7,25)
+Page 474 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0g  ----------
+  1 Jun 1917 24
+    place:Epehy (6,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (28,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (53,64)
+    person:Captain J B Ratcliffe (other) (36,70)
+Page 475 (type diary) http://wd3.herokuapp.com/pages/AWD0000xz0  ----------
+  Hashtags: #horses 
+  2 Jun 1917 22
+    place:Buire (7,25)
+  3 Jun 1917 28
+    person:Sergeant Major J Walker (award) (56,29)
+  2 Jun 1917 22
+    activity:training (33,37)
+  9 Jun 1917 34
+    activity:line (30,58)
+    person:Captain J B Ratcliffe (commander) (67,61)
+  12 Jun 1917 75
+    person:Major F King (commander) (30,76)
+  10 Jun 1917 82
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (45,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (73,85)
+Page 476 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0t  ----------
+  10 Jun 1917 25
+    place:Epehy (6,27)
+  28 Jun 1917 71
+    place:Vendhuile (75,39)
+    person:Lieutenant J B Bickersteth (departed_posted) (31,56)
+    unit:1 Royal Dragoons (60,57)
+    activity:withdraw (39,72)
+Page 477 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzv  ----------
+  1 Jul 1917 22
+    place:Buire (6,25)
+  3 Jul 1917 31
+    place:Auchel (67,31)
+    activity:movement (33,32)
+    place:Mericourt (70,35)
+    place:Suzanne (57,36)
+    place:Amplier (80,36)
+  7 Jul 1917 40
+    activity:movement (27,43)
+  16 Jul 1917 45
+    place:Auchel (7,45)
+    activity:training (77,55)
+  17 Jul 1917 59
+    activity:movement (28,62)
+    place:Le Touquet (63,63)
+    place:Haverskerque (80,63)
+  31 Jul 1917 68
+    place:Le Touquet (7,68)
+  21 Jul 1917 74
+  10 Jul 1917 77
+    person:Lieutenant A Cole (joined) (28,79)
+Page 478 (type diary) http://wd3.herokuapp.com/pages/AWD0000xyy  ----------
+  Hashtags: #horses 
+  1 Aug 1917 24
+    place:Le Touquet (8,26)
+    activity:training (28,29)
+  10 Aug 1917 44
+    domestic:inspections (25,47)
+  31 Aug 1917 65
+    person:Major F King (departed_training) (30,65)
+    weather:rain (60,76)
+Page 479 (type diary) http://wd3.herokuapp.com/pages/AWD0000y05  ----------
+  31 Aug 1917 0
+  1 Oct 1917 22
+    person:Major F King (departed_training) (40,26)
+    place:Le Touquet (7,27)
+    person:Captain Ratcliffe (commander) (61,39)
+    activity:training (29,44)
+  31 Aug 1917 0
+  30 Oct 1917 82
+    person:Major F King (27,85)
+Page 480 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0e  ----------
+  Hashtags: #horses 
+  15 Oct 1917 23
+    place:Le Touquet (6,28)
+    activity:training (43,34)
+    place:Saint Venant (61,40)
+  18 Oct 1917 48
+    place:Abbeville (52,50)
+    place:Boyaval (31,55)
+    place:Bonnieres (59,56)
+  24 Oct 1917 62
+  31 Oct 1917 72
+  26 Oct 1917 80
+    person:Lieutenant S G Hibbert (joined) (31,82)
+    place:Doingt (71,84)
+    person:Second Lieutenant Ellis (departed_posted) (27,86)
+  27 Oct 1917 88
+    person:Lieutenant J A Guthrie (departed_sick) (28,90)
+Page 481 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzx  ----------
+  1 Nov 1917 22
+    activity:training (71,25)
+    place:Epagne (7,26)
+    activity:training (27,27)
+  17 Nov 1917 52
+    domestic:sport (35,38)
+    person:Captain Ratcliffe (departed_training) (36,43)
+    person:Sergeant Harriott (departed_training) (76,43)
+    activity:training (57,44)
+    unit:Division (67,55)
+    place:Beaucourt (84,56)
+  18 Nov 1917 59
+    place:Suzanne (43,61)
+    unit:3 Army (78,64)
+    activity:reserve (57,65)
+  23 Nov 1917 69
+    place:Cambrai (37,70)
+  28 Nov 1917 74
+    place:Rubenpre (26,74)
+    strength:officer: 5; nco: 0; other: 99 (24,81)
+  30 Nov 1917 84
+    person:Captain Ratcliffe (author) (74,92)
+Page 482 (type diary) http://wd3.herokuapp.com/pages/AWD0000xza  ----------
+  Hashtags: #Marseilles #horses 
+  1 Dec 1917 26
+    place:Rubempre (9,29)
+  21 Dec 1917 33
+    place:Rubempre (32,33)
+    activity:movement (70,41)
+    place:Epagne (48,47)
+    weather:cold (31,52)
+    time:1130PM (47,60)
+  9 Dec 1917 65
+    place:Rubempre (39,65)
+    place:Marseilles (42,71)
+  4 Dec 1917 77
+    person:Lieutenant Abtodd (joined) (31,79)
+    person:Lieutenant Todd (joined) (29,79)
+Page 483 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzw  ----------
+  1 Dec 1917 22
+    person:Major F King (departed_posted) (25,25)
+    place:Rubempre (6,26)
+    place:Hancourt (80,26)
+  5 Dec 1917 29
+    place:Templeux (62,32)
+    place:Ronsoy (81,32)
+    activity:line (29,34)
+    unit:7 Machine Gun Squadron (27,37)
+  8 Dec 1917 39
+    activity:line (37,41)
+  10 Dec 1917 46
+    place:Fagot Copse (61,51)
+    place:Le Verguier (60,55)
+    person:Major F King (commander) (23,66)
+  8 Dec 1917 39
+    person:Lieutenant Eaton (other) (85,76)
+    person:Lieutenant Elmes (commander) (24,78)
+  31 Dec 1917 80
+    person:Major Chomley (commander) (69,81)
+    person:Major King (departed_posted) (27,83)
+Page 484 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzl  ----------
+  2 Jan 1918 22
+    person:Second Lieutenant Todd (departed_posted) (49,24)
+    person:Lieutenant Hibbert (departed_posted) (36,25)
+    place:Epagne (6,26)
+    activity:line (30,28)
+    person:Lieutenant Elmes (returned_posted) (63,28)
+    person:Lieutenant Eaton (returned_posted) (77,28)
+  4 Jan 1918 30
+    person:Major F King (award) (27,38)
+    person:Major F King (departed_posted) (25,45)
+    unit:Tank Corps (48,49)
+    person:Lieutenant Elmes (departed_posted) (27,49)
+    person:Second Lieutenant C C Smith (joined) (26,54)
+    person:Lieutenant Cole (commander) (54,57)
+    place:Le Verguier (56,62)
+    unit:2 mg squadron (66,66)
+    unit:2md Machine Gun Squadron (60,66)
+    place:Epagne (69,70)
+  14 Jan 1918 74
+    strength:officer: 5; nco: 0; other: 91 (33,75)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,76)
+    person:Corporal Coxall (casualty_kia) (54,77)
+  11 Jan 1918 78
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,78)
+    person:Coxall (casualty_kia) (36,78)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (70,80)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (25,81)
+    person:Private Gibbs (commander) (36,81)
+    person:Private Gibbs (casualty_kia) (46,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (61,85)
+    person:Sergeant Arliss (35,85)
+    person:Sergeant Arliss (casualty_wounded) (48,85)
+Page 485 (type diary) http://wd3.herokuapp.com/pages/AWD0000y1m  ----------
+  Hashtags: #AdrianHut #NissenHuts #horses 
+  11 Jan 1918 0
+    place:Epagne (7,23)
+  14 Jan 1918 24
+    activity:resupplying (79,26)
+  27 Jan 1918 32
+    domestic:sport (50,33)
+    place:Monchy (79,40)
+    activity:movement (70,40)
+    activity:movement (32,43)
+    unit:5 Division (60,44)
+    unit:5 Division (68,45)
+  28 Jan 1918 52
+    place:Belloy (52,52)
+    place:Argoeuves (6,52)
+    activity:movement (30,52)
+    place:Argoeuves (37,56)
+    place:Proyart (51,62)
+  29 Jan 1918 63
+    place:Harbonniers (6,63)
+    activity:movement (39,63)
+    place:Harbonniers (40,65)
+  30 Jan 1918 70
+    place:Tertry (49,71)
+    place:Tertry (8,73)
+    activity:movement (36,73)
+    place:Tertry (50,74)
+  31 Jan 1918 88
+    person:Captain F B Ratcliffe (commander) (63,88)
+Page 486 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzs  ----------
+  Hashtags: #Canada #Canadian 
+  1 Feb 1918 23
+    place:Tertry (6,25)
+    activity:construction (35,29)
+  20 Feb 1918 30
+    activity:repair (53,36)
+  4 Feb 1918 48
+    person:Sergeant Major J Walker (award) (38,51)
+  6 Feb 1918 55
+    person:Captain C D Leyland (commander) (30,58)
+  21 Feb 1918 63
+    person:Lieutenant G H Eaton (commander) (72,64)
+  25 Feb 1918 74
+    place:Jeancourt (27,74)
+    activity:support (52,80)
+    unit:Canadian Cavalry Brigade (57,84)
+    unit:Canadian Cavalry Brigade (47,85)
+    unit:Canadian Cavalry Brigade (22,86)
+    unit:Canadian Cavalry Brigade (32,86)
+    place:Le Duc Trench (59,87)
+    mapRef:Bellenglise (37,94)
+Page 487 (type diary) http://wd3.herokuapp.com/pages/AWD0000y09  ----------
+  25 Feb 1918 0
+    time:0950PM (40,23)
+    gridRef:M_10_A_5_5 (42,27)
+    place:Saint Helenes Trench (41,32)
+    activity:attack (67,39)
+  21 Feb 1918 46
+    person:Lieutenant Bickersteth (departed_posted) (34,46)
+    unit:Royal Dragoons (80,46)
+    person:Lieutenant J B Bickersteth (departed_posted) (27,47)
+    person:Captain Cheyland (author) (66,67)
+Page 488 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0d  ----------
+  3 Mar 1918 22
+    person:Lieutenant G H Eaton (returned_posted) (41,24)
+    place:Jeancourt (63,24)
+    place:Tertry (6,25)
+  4 Mar 1918 27
+  5 Mar 1918 31
+    domestic:parades (29,34)
+  6 Mar 1918 35
+    place:Tertry (76,35)
+    activity:training (21,38)
+    activity:training (47,39)
+  13 Mar 1918 44
+    place:Devise (7,44)
+    place:Devise (42,46)
+    activity:movement (29,47)
+    person:Lieutenant S G Hibbert (departed_posted) (25,50)
+    person:Second Lieutenant C C Smith (departed_posted) (38,50)
+    person:Lieutenant A G Windham (joined) (28,53)
+    person:Lieutenant A G Windham (joined) (22,53)
+  16 Mar 1918 54
+    person:Captain J C Humfrey (commander) (26,58)
+  17 Mar 1918 60
+    domestic:sport (50,64)
+    person:Brigadier General A E W Harman (other) (26,67)
+  21 Mar 1918 68
+    person:Captain J C Humfrey (departed_leave) (28,72)
+    activity:movement (63,77)
+    time:0430PM (85,78)
+    person:Captain F B Ratcliffe (commander) (28,80)
+    place:Beaumont (57,81)
+    time:1100PM (65,82)
+    time:1130PM (83,82)
+    activity:movement (74,82)
+    place:Chauny (40,84)
+    place:Viry (80,86)
+    person:Captain F B Ratcliffe (commander) (37,87)
+Page 489 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzo  ----------
+  22 Mar 1918 23
+    unit:3 Dragoon Guards (78,26)
+    unit:Royals 10 Horse (86,26)
+    activity:reserve (43,26)
+    place:Viry (6,27)
+    unit:10 H (21,30)
+  23 Mar 1918 31
+    activity:fire (35,35)
+    activity:fire (44,43)
+    person:Lieutenant Wilkes (casualty_wounded) (56,48)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (50,53)
+    activity:withdraw (83,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (70,54)
+    place:Chauny (53,62)
+    person:Captain F B Ratcliffe (commander) (53,67)
+    activity:withdraw (79,68)
+  24 Mar 1918 71
+    place:Viry (37,71)
+    place:Chauny (75,76)
+    place:Chauny (7,78)
+    unit:3 dg (41,81)
+    unit:10 H (59,81)
+    activity:withdraw (67,86)
+    person:Captain F B Ratcliffe (casualty_wounded) (51,89)
+Page 490 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0n  ----------
+  24 Mar 1918 0
+    activity:withdraw (43,28)
+    place:Abbecourt (79,29)
+    activity:withdraw (59,32)
+    person:Lieutenant G H Eaton (casualty_kia) (54,37)
+    place:Quierzy (38,37)
+    place:Quierzy (23,41)
+  25 Mar 1918 42
+    activity:withdraw (44,46)
+    activity:movement (64,51)
+    domestic:accomodation (76,51)
+    place:Ollencourt (22,54)
+  27 Mar 1918 55
+    activity:movement (56,59)
+    place:Choisy-Au-Bac (7,59)
+    place:Choisy-Au-Bac (80,59)
+  29 Mar 1918 66
+    place:Choisy-Au-Bac (36,69)
+    place:Arion (54,69)
+    activity:movement (23,70)
+  30 Mar 1918 72
+    place:Sains-En-Amienois (55,75)
+    activity:movement (23,76)
+Page 491 (type cover)
+Page 492 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzb  ----------
+  Hashtags: #alliedrelations 
+  1 Apr 1918 14
+    place:Sains-En-Amienois (43,19)
+    activity:movement (28,19)
+  2 Apr 1918 20
+    place:Boves (6,20)
+    domestic:accomodation (43,22)
+    place:Boves (22,22)
+  3 Apr 1918 25
+    unit:3 D G, 10 Hussars and Royals (65,28)
+    unit:3 Dragoon Guards (78,28)
+    place:Fouilly (45,29)
+    activity:movement (30,30)
+    activity:movement (22,32)
+    place:Bois l'Abbe (72,33)
+    unit:Royals (24,35)
+  4 Apr 1918 37
+    unit:10 Royal Hussars (43,41)
+    unit:14 Division (82,41)
+    unit:14 Division (74,41)
+    activity:fire (25,42)
+    place:Hamel (76,45)
+    place:Villers-Bretonneux (81,49)
+    unit:3 D Guards (57,49)
+    unit:3 Dragoon Guards (60,49)
+    unit:Royals (70,50)
+    unit:Australians (68,58)
+    unit:10 R.H. (39,58)
+    unit:10 Royal Hussars (34,59)
+  5 Apr 1918 60
+    unit:3 D Guards Royals (69,64)
+    unit:10 Royal Hussars (35,65)
+    unit:3 Dragoon Guards (73,65)
+    unit:Australians (39,68)
+  6 Apr 1918 75
+    unit:Australians (54,79)
+Page 493 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzt  ----------
+  7 Apr 1918 13
+    place:Camon (77,18)
+    domestic:accomodation (66,18)
+    activity:movement (22,18)
+    place:Camon (5,19)
+    activity:movement (53,19)
+    person:Lieutenant Hawkings (joined) (59,22)
+    person:Second Lieutenant Neale (joined) (75,23)
+    person:Second Lieutenant Elliker (joined) (23,27)
+    person:Second Lieutenant Fletcher (joined) (44,27)
+  10 Apr 1918 28
+    place:Aumerval (53,34)
+    activity:movement (32,34)
+    place:Bachimont (25,42)
+  30 Apr 1918 45
+    place:Conteville (28,46)
+    place:Aumerval (6,50)
+    place:Aumerval (27,53)
+Page 494 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzp  ----------
+  Hashtags: #horses 
+  30 Apr 1918 68
+    domestic:accomodation (76,26)
+    activity:training (29,26)
+    activity:training (45,26)
+    place:Aumerval (6,28)
+    domestic:accomodation (43,34)
+    place:Contay (62,34)
+    activity:movement (31,34)
+    place:Monchel (24,38)
+    place:Boffles (35,38)
+    place:Contay (6,42)
+  16 Apr 1918 47
+    activity:reconnoitered (24,50)
+  17 Apr 1918 53
+    place:Belloy (6,56)
+    place:Belloy (54,57)
+    activity:movement (33,57)
+    activity:training (41,61)
+  30 Apr 1918 68
+    place:Montigny (5,70)
+    place:Behencourt (42,71)
+    activity:movement (29,71)
+    unit:7 Brigade (84,73)
+Page 495 (type diary) http://wd3.herokuapp.com/pages/AWD0000xyw  ----------
+  1 Jun 1918 22
+    activity:reconnoitered (57,26)
+    activity:reconnoitered (45,27)
+    place:Montigny (6,28)
+  14 Jun 1918 39
+    place:Belloy (39,42)
+    place:Belloy (6,42)
+    activity:movement (24,43)
+    activity:training (65,43)
+  25 Jun 1918 51
+    place:Riencourt (55,54)
+    place:Riencourt (5,54)
+    activity:movement (24,54)
+Page 496 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0l  ----------
+  1 Jul 1918 23
+    place:Riencourt (5,27)
+    activity:training (35,28)
+  31 Jul 1918 32
+    person:Major J C Humfrey (commander) (67,76)
+Page 497 (type diary) http://wd3.herokuapp.com/pages/AWD0000y08  ----------
+  Hashtags: #bivouac 
+  1 Sep 1918 22
+    place:Riencourt (6,26)
+  5 Sep 1918 32
+    activity:movement (29,33)
+  6 Sep 1918 37
+    place:Pont de Metz (40,39)
+    place:Petit Saint Jean (6,40)
+    activity:movement (30,40)
+  7 Sep 1918 42
+    place:Bovee (78,45)
+    activity:movement (32,45)
+  8 Sep 1918 46
+    unit:7 Brigade (52,49)
+    place:Demuin (73,50)
+    activity:movement (33,50)
+    place:Amien (59,54)
+    place:Caix (60,58)
+  9 Sep 1918 63
+    unit:3 Division (74,67)
+    time:1100AM (49,67)
+    place:Caix (46,71)
+  10 Sep 1918 73
+    activity:movement (30,76)
+    place:Folies (37,79)
+  11 Sep 1918 80
+    place:Fouencamps (67,83)
+    time:0500PM (24,83)
+    activity:movement (38,84)
+  15 Sep 1918 86
+    place:Riencourt (7,88)
+    place:Riencourt (68,89)
+    activity:movement (31,89)
+Page 498 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzr  ----------
+  16 Sep 1918 21
+  21 Sep 1918 26
+    place:Riencourt (6,26)
+    place:Fieffs (47,27)
+    activity:movement (25,28)
+  25 Sep 1918 33
+    place:Fieffs (5,34)
+    place:Willencourt (33,36)
+    activity:movement (23,37)
+  26 Sep 1918 38
+    place:Grand Bouret (42,41)
+    activity:movement (23,41)
+  29 Sep 1918 43
+    person:Lieutenant Sanders (other) (40,46)
+    place:Arras (28,50)
+    person:J C Humfrey (62,82)
+Page 499 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0o  ----------
+  29 Sep 1918 66
+    place:Grand Bouret (8,29)
+    place:Wailly (38,33)
+    unit:10 Hussars (44,33)
+    place:Willeman (37,36)
+    place:Willeman (7,36)
+    activity:movement (22,36)
+  17 Sep 1918 42
+    activity:movement (22,42)
+    place:Nuncq (7,49)
+    activity:movement (23,50)
+  25 Sep 1918 51
+    place:Saint Leger (7,55)
+    activity:movement (23,55)
+  26 Sep 1918 56
+    place:Albert (6,60)
+  27 Sep 1918 61
+    place:Meault (28,61)
+    place:Albert Area (7,61)
+    activity:movement (23,61)
+    place:Hem (26,65)
+    place:Hem (7,65)
+    activity:movement (24,65)
+  29 Sep 1918 66
+    place:Vermand (28,69)
+    place:Vermand (7,69)
+    activity:movement (23,69)
+  30 Sep 1918 72
+Page 500 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzy  ----------
+  2 Oct 1918 23
+    place:Vermand (42,23)
+    place:Vermand (8,24)
+    activity:movement (27,26)
+    place:Bellenglise (8,26)
+    time:0800AM (17,26)
+    activity:movement (31,27)
+    place:Bellenglise (39,27)
+    activity:movement (22,28)
+    place:Vermand (8,28)
+    place:Vermand (29,28)
+  3 Oct 1918 29
+    time:0100PM (17,29)
+    activity:movement (23,31)
+    place:Bellenglise (31,31)
+    place:Bellenglise (7,32)
+    time:1000AM (17,32)
+    mapRef:62B (35,33)
+    mapRef:62b (33,33)
+    activity:fire (71,33)
+    activity:movement (27,34)
+    time:0400PM (17,34)
+  4 Oct 1918 35
+    activity:movement (62,35)
+    place:Pontruet (70,35)
+    place:Pontruet (7,35)
+  5 Oct 1918 37
+    place:Pontruet (24,38)
+    place:Trefcon (8,39)
+  8 Oct 1918 40
+    activity:movement (23,40)
+    place:Trefcon (31,40)
+    time:1030AM (17,40)
+    mapRef:62B (38,42)
+    activity:movement (54,42)
+    place:Beaurevoir (82,42)
+    time:0400AM (17,42)
+    activity:movement (24,43)
+  9 Oct 1918 44
+    mapRef:57B (11,44)
+    activity:movement (22,45)
+    time:0500PM (18,45)
+    activity:attack (81,47)
+    unit:3 Dragoon Guards (68,47)
+    person:Lieutenant Neale (54,47)
+    mapRef:57B (30,48)
+    mapRef:57b (29,48)
+    activity:movement (24,48)
+    time:0600AM (17,48)
+    activity:attack (54,50)
+    gridRef:P_23_D_0_0 (23,50)
+    activity:attack (68,51)
+    person:Second Lieutenant Ellis (55,52)
+    mapRef:57B (35,57)
+    mapRef:57b (33,57)
+    unit:10 Hussars (80,57)
+    activity:attack (32,58)
+    person:Lieutenant Younghusband (62,58)
+    activity:fire (40,60)
+    activity:fire (53,60)
+    activity:fire (67,62)
+    activity:fire (69,63)
+    activity:fire (74,65)
+    activity:movement (26,66)
+    activity:fire (59,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (79,70)
+    activity:fire (51,71)
+    place:Honnechy (23,71)
+    activity:attack (29,76)
+    time:0500PM (17,76)
+    person:Second Lieutenant Elliker (83,78)
+  10 Oct 1918 85
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,85)
+    activity:fire (52,87)
+    place:Montigny (71,87)
+    place:Montigny (7,87)
+  11 Oct 1918 88
+    activity:movement (23,88)
+    activity:movement (72,88)
+    time:0500AM (17,88)
+    activity:movement (24,91)
+    place:Elincourt (31,91)
+    place:Elincourt (8,92)
+Page 501 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzm  ----------
+  13 Oct 1918 21
+    activity:movement (23,24)
+    place:Banteux (8,24)
+  14 Oct 1918 26
+  23 Oct 1918 28
+    activity:movement (23,28)
+    place:Etricourt (8,28)
+    activity:movement (24,32)
+    place:Equancourt (7,32)
+  31 Oct 1918 35
+Page 502 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzf  ----------
+  1 Nov 1918 20
+    place:Equancourt (6,23)
+    place:Equancourt (25,24)
+  6 Nov 1918 26
+    place:Sans-Lez-Marquion (30,29)
+    activity:movement (21,30)
+    place:Sans-Lez-Marquion (6,30)
+    place:Marquion (5,30)
+  7 Nov 1918 31
+    place:Esquerchin (31,34)
+  8 Nov 1918 35
+    activity:movement (22,35)
+    place:Esquerchin (6,35)
+    place:Peronne (29,37)
+    activity:movement (22,38)
+    place:Peronne (6,38)
+  11 Nov 1918 41
+    activity:movement (22,41)
+    place:Vaulx-la-Tournai (28,41)
+    domestic:accomodation (79,42)
+    place:Vaulx-la-Tournai (5,42)
+    place:Vaulx (6,42)
+    activity:movement (25,44)
+    place:Leuze (36,45)
+  12 Nov 1918 47
+    activity:movement (22,50)
+    place:Bertincroix (29,50)
+    place:Bertincroix (6,50)
+  17 Nov 1918 51
+    unit:Royals (65,51)
+    unit:3 Dragoon Guards (47,52)
+    unit:3 D Gs (46,52)
+    activity:movement (22,53)
+    place:Fouleng (27,53)
+  18 Nov 1918 54
+    place:Fouleng (7,54)
+    place:Quenast (29,56)
+  21 Nov 1918 57
+    activity:movement (22,57)
+    place:Quenast (6,57)
+    place:Limelette (31,59)
+    activity:movement (22,60)
+    place:Limelette (6,60)
+  22 Nov 1918 62
+    activity:movement (23,63)
+    place:Grand Rosiere (29,63)
+    place:Grand Rosiere (7,64)
+  24 Nov 1918 67
+    activity:movement (23,67)
+    place:Les Boscailles (31,67)
+    place:Les Boscailles (6,69)
+  30 Nov 1918 70
+Page 503 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzn  ----------
+  30 Nov 1918 0
+  1 Dec 1918 19
+    place:Les Boscailles (15,24)
+    activity:movement (43,25)
+    domestic:accomodation (53,25)
+    place:Leuze (63,25)
+    activity:movement (30,26)
+  10 Dec 1918 30
+    place:Leuze (14,34)
+    place:Fumal (53,34)
+    activity:movement (27,35)
+    activity:movement (37,35)
+  12 Dec 1918 38
+    activity:movement (27,42)
+    place:Fumal (15,42)
+    activity:movement (37,43)
+  20 Dec 1918 44
+    place:Yernawe (51,44)
+    activity:movement (27,52)
+    place:Yernawe (15,52)
+    activity:movement (36,53)
+    place:Amay (51,53)
+    person:Major J C Humfrey (commander) (62,81)
+Page 504 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0i  ----------
+  8 Jan 1919 26
+    place:Amay (19,29)
+    place:Amay (58,32)
+    domestic:accomodation (51,33)
+    activity:resting (49,33)
+  8 Feb 1919 36
+Page 505 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0c  ----------
+  1 Feb 1919 27
+    place:Amay (43,30)
+    domestic:accomodation (30,30)
+    activity:resting (31,30)
+    place:Amay (16,32)
+    domestic:accomodation (39,32)
+  28 Feb 1919 37
+    person:Captain Windham (commander) (69,86)
+Page 506 (type diary) http://wd3.herokuapp.com/pages/AWD0000y0a  ----------
+  1 Mar 1919 28
+    activity:resting (29,34)
+    domestic:accomodation (33,34)
+    place:Amay (16,35)
+  14 Mar 1919 41
+    place:Saint Georges (47,42)
+    activity:movement (29,43)
+    domestic:accomodation (32,48)
+    activity:resting (28,49)
+    place:Saint Georges (16,49)
+  31 Mar 1919 50
+    person:Lieutenant A Cooper (77,88)
+Page 507 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzu  ----------
+  1 Apr 1919 33
+    place:Saint Georges (24,41)
+  30 Apr 1919 44
+Page 508 (type diary) http://wd3.herokuapp.com/pages/AWD0000xzz  ----------
+  1 May 1919 24
+    activity:resting (27,30)
+    domestic:accomodation (25,30)
+    place:Amay (7,30)
+  31 May 1919 32

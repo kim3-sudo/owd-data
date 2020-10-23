@@ -1,0 +1,1435 @@
+GWD000003w wo/95/1336/1
+2 DIVISION:  Divisional Troops: 4 Field Ambulance.  
+216 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhu  ----------
+  26 Aug 1914 10
+  27 Aug 1914 11
+    reference: (31,12)
+  1 Aug 1914 0
+    unit:No.2 Field Ambulance, R.A.M.C (54,5)
+  27 Aug 1914 11
+    unit:No.4 Field Ambulance, R.A.M.C (53,79)
+  25 Aug 1914 8
+    place:Mons (51,9)
+    activity:withdraw (56,9)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0000liq  ----------
+  27 Aug 1914 0
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljo  ----------
+  23 Aug 1914 7
+    activity:movement (43,14)
+    place:Rouvetoy (67,19)
+    reference:Cross roads, due North of Rouveroy, Belgium (53,19)
+    unit:C Section, No.2 Field Ambulance, R.A.M.C (50,33)
+    activity:other (54,39)
+    unit:4 Guards Brigade (37,42)
+    mapRef: (67,56)
+    place:Givry (57,60)
+    unit:A & b sections, 2 field ambulance, ramc (40,76)
+    place:Givry (56,9)
+    activity:fire (43,93)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD0000lj7  ----------
+  23 Aug 1914 0
+    place:Mons (46,12)
+    activity:enemy_activity (42,27)
+    place:Givry (32,45)
+    reference:North East Mons (56,6)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD0000llb  ----------
+  23 Aug 1914 0
+    unit:A& B Sections, 4 Field Ambulance, 2 Division (50,10)
+    activity:movement (36,14)
+    activity:withdraw (63,17)
+    place:Quevy Le Petit (34,25)
+    place:Quevy Le Grand (56,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 50 (30,3)
+    place:La Longueville (33,30)
+    place:Maroilles (38,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 50 (38,4)
+    unit: (49,42)
+    unit:Guards Brigade (42,44)
+    unit:Guards Brigade (53,46)
+    person:Major P H Collingwood (other) (51,70)
+    unit:Gunners Brigade (83,70)
+    activity:movement (54,74)
+    place:Givry (44,80)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD0000lj5  ----------
+  23 Aug 1914 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 50 (43,23)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1000 (39,54)
+  24 Aug 1914 69
+    person:Colonel H Thompson (other) (42,80)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD0000lln  ----------
+  Hashtags: #Uhlans #Refugees 
+  24 Aug 1914 0
+    activity:attack (61,12)
+    place:Landrecies (57,17)
+    place:Maroilles (33,30)
+    place:Landrecies (69,38)
+    place:Landrecies (53,54)
+    unit:Uhlers (48,67)
+    activity:enemy_activity (48,67)
+    unit:Brigade (49,7)
+    place:Landrecies (46,73)
+    unit:Army Service Corps (43,77)
+    activity:other (52,79)
+    unit:Army Service Corps (50,87)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljh  ----------
+  24 Aug 1914 0
+    person:Major Lynch Rume (other) (55,24)
+    person:Major Lynch (other) (61,25)
+    place:Landrecies (59,48)
+    activity:enemy_activity (35,54)
+    unit:The Guards (40,83)
+    unit:Guards Brigade (43,85)
+    place:Landrecies (53,91)
+    activity:enemy_activity (51,95)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkh  ----------
+  24 Aug 1914 0
+    place:Landrecies (48,15)
+    activity:reconnoitered (61,21)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,53)
+    person:Major Lynch (other) (42,58)
+  25 Aug 1914 76
+    person:Major Lynch (other) (60,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (56,91)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD0000lk0  ----------
+  25 Aug 1914 56
+    place:Landrecies (53,25)
+    unit:Brigade of Guards (61,53)
+    unit:Brigade of Guards (51,54)
+    unit:Guards Brigade (61,55)
+    time:1200PM (56,76)
+    activity:fire (39,83)
+    person:Major Ph Collingwood (other) (62,90)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgl  ----------
+  25 Aug 1914 0
+    activity:withdraw (36,10)
+    place:Favril (60,11)
+    reference:Favril (61,12)
+    reference:Favril (31,28)
+  26 Aug 1914 76
+    activity:withdraw (68,41)
+    reference:Landrecie (53,44)
+    place:La Groise (28,45)
+    reference:La Groise Road (34,46)
+    unit:4 Field Ambulance (65,51)
+    reference:Landrecie (51,64)
+    reference:La Groise Road (63,65)
+    place:La Groise (56,74)
+    reference:La Groise (56,76)
+    unit:2 Division (46,89)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD0000lil  ----------
+  26 Aug 1914 0
+    unit:A Section, 4 Field Ambulance (46,16)
+    unit:B & C Sections, 4 Field Ambulance (68,25)
+    reference:NNE (70,35)
+    place:Favril (35,37)
+    unit:Regiments (53,57)
+    unit:Guards Regiment (41,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 160 (56,75)
+    activity:enemy_activity (54,84)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD0000liv  ----------
+  26 Aug 1914 0
+    place:La Groise (31,22)
+    person:Major Lynch (other) (53,37)
+    place:Landrecies (65,49)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD0000lk9  ----------
+  26 Aug 1914 0
+    unit:A Section, 4 Field Ambulance (69,11)
+    activity:movement (58,22)
+    activity:movement (43,85)
+    place:Landrecies (64,89)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD0000llf  ----------
+  26 Aug 1914 0
+    person:Major Lynch (other) (36,30)
+    person:Major Ruthven (other) (67,36)
+    place:Landrecies (57,49)
+    person:Major Collingwood (other) (35,6)
+    activity:enemy_activity (47,75)
+    place:Landrecies (57,85)
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD0000lj4  ----------
+  26 Aug 1914 0
+    reference:Geneva Convention (60,79)
+    reference:Geneva Convention (43,9)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljk  ----------
+  26 Aug 1914 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,33)
+    person:Major Wb Fry (other) (55,60)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkt  ----------
+  26 Aug 1914 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 51 (28,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 51 (38,38)
+    person:Major P H Collingwood (other) (66,73)
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD0000ll4  ----------
+  26 Aug 1914 0
+    unit:Guards (48,10)
+    unit:Co q Guard (35,11)
+    unit:Company of Guards (40,11)
+    person:Major Ph Collingwood (other) (61,69)
+    person:Major Fry (other) (51,87)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD0000llg  ----------
+  26 Aug 1914 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,72)
+    person:Major Fry (other) (58,74)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhv  ----------
+  Hashtags: #21 
+  26 Aug 1914 0
+    person:Major Lynch (other) (69,17)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,31)
+    person:Major Collingwood (other) (37,45)
+    person:Major P H Collingwood (other) (52,45)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD0000lmq  ----------
+  26 Aug 1914 0
+    person:Sergeant Major Ryan (other) (47,13)
+    activity:movement (34,17)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD0000lij  ----------
+  26 Aug 1914 0
+    person:Lieutenant Hills (joined) (56,23)
+    person:Major P H Collingwood (other) (36,39)
+    place:Landrecies (48,59)
+    person:Private Gasnie (other) (64,61)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhh  ----------
+  Hashtags: #CAPTURED 
+  26 Aug 1914 0
+    activity:enemy_activity (53,16)
+    person:Lieutenant Hills (other) (68,17)
+    person:Major Lynch (other) (32,20)
+    place:Landrecies (64,21)
+    activity:enemy_activity (45,21)
+    activity:movement (33,28)
+    activity:enemy_activity (32,4)
+    place:Etreux (67,44)
+    place:Landrecies (59,49)
+    person:other Jones (other) (41,61)
+    place:Landrecies (34,64)
+    activity:other (45,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 51 (40,91)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD0000lk1  ----------
+  26 Aug 1914 0
+    person:Lieutenant Nelson (other) (53,11)
+    reference:No 4 Field Ambulance (46,47)
+    activity:withdraw (45,59)
+    place:La Groise (61,6)
+    reference:La Groise (58,6)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD0000lju  ----------
+  26 Aug 1914 82
+    place:La Groise (41,12)
+    place:Etreux (62,13)
+    unit:Guards Brigade (64,18)
+    reference:Strong defensive postion (63,31)
+    place:Landrecies (39,6)
+    place:Etreux (68,6)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,65)
+    activity:movement (54,7)
+    place:Guise (61,73)
+    activity:movement (66,88)
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD0000lla  ----------
+  26 Aug 1914 0
+    domestic:accomodation (38,19)
+    domestic:medical (57,21)
+    reference:page 27 (52,3)
+    domestic:rations (55,31)
+    person:Lieutenant Nelson (other) (42,40)
+    place:Guise (61,49)
+    reference:Not a British officer could be found (37,65)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD0000lk2  ----------
+  26 Aug 1914 0
+    domestic:accomodation (34,27)
+    domestic:rations (56,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,53)
+    time:0400AM (50,72)
+  27 Aug 1914 88
+    activity:resting (52,93)
+    place:Guise (64,93)
+Page 31 (type diary) http://wd3.herokuapp.com/pages/AWD0000lli  ----------
+  27 Aug 1914 0
+    place:Guise (54,12)
+    activity:movement (42,24)
+    unit:2 Division (59,26)
+    place:Guise (32,33)
+    activity:movement (50,43)
+    domestic:accomodation (32,56)
+    domestic:rations (63,68)
+    activity:enemy_activity (53,90)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD0000lh5  ----------
+  27 Aug 1914 0
+    activity:resting (66,13)
+    activity:movement (46,24)
+    reference:page 2 (44,4)
+    unit:Artillery Battery (62,51)
+    unit:Battery of artillery (31,51)
+    activity:movement (51,59)
+    reference:no one in the unit who had any knowledge of map reading (57,67)
+    reference:read map accuratly.............fail....and fall into the hands of the enemy (40,84)
+    unit:The Transport pickets (37,9)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljl  ----------
+  27 Aug 1914 0
+    unit:4 Brigade of the 2 Division (70,16)
+    reference:page 3 (50,3)
+    reference:(2)Accurate map reading,so that we might keep on th eroad (40,48)
+    place:Landrecies (55,74)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD0000ll6  ----------
+  27 Aug 1914 0
+    domestic:rations (59,17)
+    activity:withdraw (36,91)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,96)
+Page 35 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljc  ----------
+  27 Aug 1914 0
+    place:Soupir (61,10)
+    place:Aisne (31,13)
+    unit:British Forces (45,19)
+    reference:page 5 (49,2)
+    place:La Fere (58,29)
+    unit:Mont dOrigny (42,29)
+    unit:La Fere (58,29)
+    activity:withdraw (32,32)
+    reference:Absence of records (39,52)
+    reference:admission and discharge book (46,63)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD0000lh2  ----------
+  27 Aug 1914 0
+    reference:page 6 (45,2)
+    reference:Motor transport was considered too expensive for a public who did not believe in war (33,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,8)
+    unit:Adms (32,95)
+Page 37 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhd  ----------
+  27 Aug 1914 0
+    unit:A.S.C (54,80)
+    domestic:rations (57,85)
+Page 38 (type diary) http://wd3.herokuapp.com/pages/AWD0000lik  ----------
+  27 Aug 1914 0
+    reference:The results were deplorable (53,23)
+    reference:page 8 (61,3)
+    domestic:rations (38,31)
+    reference:" the survival of the fittest" (49,72)
+    reference:money grubbing public (68,87)
+Page 39 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkb  ----------
+  27 Aug 1914 0
+    unit:Medical Corps (36,11)
+    reference:page 9 (68,3)
+    unit:Expeditionary Force (58,33)
+    reference:This page is very difficult to tag being mostly opinion (32,9)
+Page 40 (type diary) http://wd3.herokuapp.com/pages/AWD0000lmd  ----------
+  27 Aug 1914 0
+    reference:This page is very difficult to tag being mostly opinion (32,12)
+    unit:Combatant Staff (41,74)
+Page 41 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljt  ----------
+  27 Aug 1914 0
+    reference:page 11 (70,2)
+    unit:4 Field Ambulance (53,22)
+    unit:Divisional Staff (48,32)
+    unit:A S C (31,5)
+    unit:Army Service Corps (31,5)
+    reference:reprisals of a personal nature against me (54,84)
+Page 42 (type diary) http://wd3.herokuapp.com/pages/AWD0000lk6  ----------
+  27 Aug 1914 0
+    domestic:accomodation (55,27)
+    reference:page 12 (65,3)
+    unit:Artillery (58,44)
+    unit:The Artillery (54,44)
+Page 43 (type diary) http://wd3.herokuapp.com/pages/AWD0000lip  ----------
+  27 Aug 1914 0
+    reference:13 (64,2)
+Page 44 (type diary) http://wd3.herokuapp.com/pages/AWD0000lk4  ----------
+  27 Aug 1914 0
+    reference:14 (65,2)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,39)
+Page 45 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgt  ----------
+  27 Aug 1914 0
+    reference:15 (63,2)
+Page 46 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljn  ----------
+  27 Aug 1914 0
+    place:Charmes (35,40)
+    activity:repair (51,43)
+Page 47 (type diary) http://wd3.herokuapp.com/pages/AWD0000lic  ----------
+  27 Aug 1914 0
+    weather:rain (55,10)
+    time:1030PM (40,14)
+    reference:17 (67,2)
+    unit:French Reserve Division (49,21)
+    unit:French Reserve Division (60,22)
+    place:La Fere (67,28)
+    activity:withdraw (43,83)
+    place:Foret de Gobain (36,90)
+Page 48 (type diary) http://wd3.herokuapp.com/pages/AWD0000ll9  ----------
+  27 Aug 1914 0
+    reference:18 (67,3)
+    activity:withdraw (50,6)
+Page 49 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljy  ----------
+  27 Aug 1914 0
+    activity:withdraw (62,11)
+    reference:19 (68,3)
+    person:Lieutenant Nelson (other) (42,37)
+    unit:Divisional Second Line (59,6)
+Page 50 (type diary) http://wd3.herokuapp.com/pages/AWD0000ll8  ----------
+  27 Aug 1914 0
+    place:Soissons (33,12)
+    place:Boursonne (57,25)
+    reference:20 (68,3)
+    unit:2 Division (53,32)
+    activity:enemy_activity (53,37)
+    unit:German Cavalry (52,43)
+    activity:withdraw (36,6)
+    unit:Artillery (29,69)
+    unit: (36,81)
+    unit:Regiment (30,83)
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD0000lif  ----------
+  27 Aug 1914 0
+    reference:21 (69,2)
+    unit:Artillery (34,69)
+    activity:movement (41,82)
+Page 52 (type diary) http://wd3.herokuapp.com/pages/AWD0000lh3  ----------
+  27 Aug 1914 0
+    reference:22 (68,3)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,94)
+Page 53 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgh  ----------
+  27 Aug 1914 0
+    domestic:rations (41,21)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,29)
+    activity:enemy_activity (69,88)
+Page 54 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgc  ----------
+  27 Aug 1914 0
+    place:River Marne (68,35)
+    reference:page 24 (69,4)
+    place:River Marne (33,40)
+    place:Saint Jean (52,45)
+    place:River Marne (63,63)
+    place:La Ferte (46,68)
+    activity:movement (35,7)
+    activity:movement (41,73)
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD0000lix  ----------
+  27 Aug 1914 0
+    reference:page 25 (70,2)
+    reference:cannot say to this day whether he was an enemy agent or not (58,81)
+Page 56 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljx  ----------
+  27 Aug 1914 0
+    place:Saint Jean (48,17)
+    domestic:rations (68,25)
+    activity:movement (43,72)
+    place:Changis (41,87)
+    unit:Cavalry patrol (37,92)
+Page 57 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhc  ----------
+  27 Aug 1914 0
+    reference:page 27 (70,2)
+    unit:Artillery Battery (63,28)
+    unit:Battery of artillery (65,28)
+    activity:movement (38,44)
+    place:Meaux (52,58)
+    unit:No.2 Division (48,63)
+    place:Meaux (42,67)
+    activity:enemy_activity (40,71)
+    activity:attack (57,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (54,95)
+Page 58 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljm  ----------
+  27 Aug 1914 0
+    domestic:discipline (60,18)
+    reference:"lagging behind" (41,22)
+    reference:page 28 (68,3)
+    unit:Vi field ambulance (58,7)
+    place:Clignon River (40,81)
+    activity:other (44,93)
+    domestic:medical (38,94)
+Page 59 (type diary) http://wd3.herokuapp.com/pages/AWD0000lid  ----------
+  27 Aug 1914 0
+    place:Hautevesnes (40,10)
+    reference:page 29 (70,2)
+    activity:movement (61,22)
+    place:La Croix (34,35)
+    place:Brueres (48,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,5)
+    place:Aisne Region (38,54)
+    reference:Point 175  (195 ??) (43,59)
+    reference:point 175 (39,60)
+    mapRef:Longitude of Longueval, France (45,60)
+    reference:L of Longueval (58,62)
+    domestic:accomodation (60,74)
+    place:Saint Mard (53,79)
+    reference:49.3872,3.5842 (57,80)
+    place:River Aisne (50,86)
+Page 60 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgr  ----------
+  27 Aug 1914 0
+    place:Saint Mard (32,10)
+    reference:49.3872,3.5842 (30,10)
+    reference:page 30 (70,2)
+    activity:enemy_activity (57,23)
+    unit:Irish Guards (54,6)
+    reference:49.3872,3.5842 (63,61)
+    place:Saint Mard (67,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,74)
+    mapRef:Longitude of Longueval, France (35,87)
+    reference:point 175 (30,87)
+    reference:due West & Sout (52,94)
+Page 61 (type diary) http://wd3.herokuapp.com/pages/AWD0000lh9  ----------
+  27 Aug 1914 0
+    activity:movement (43,22)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,4)
+    place:Braine (57,41)
+    place:Braine (32,52)
+Page 62 (type diary) http://wd3.herokuapp.com/pages/AWD0000lm9  ----------
+  27 Aug 1914 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,79)
+Page 63 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkl  ----------
+  27 Aug 1914 0
+    activity:movement (37,13)
+    domestic:medical (37,40)
+    reference:Point 175 (64,43)
+    reference:point 175 (54,44)
+    mapRef:Longitude of Longueval, France (58,44)
+    time:1100PM (46,9)
+Page 64 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgy  ----------
+  27 Aug 1914 0
+    unit:Cavalry Regiment (27,20)
+    unit:Cavalry Regiment (36,20)
+    activity:enemy_activity (29,51)
+    place:Courcelles (46,63)
+    domestic:accomodation (34,89)
+    place:Courcelles (49,89)
+Page 65 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkc  ----------
+  27 Aug 1914 0
+    domestic:rations (30,12)
+    reference:after they had attended to thier horses (66,13)
+    person:Staff Sergeant Andrews (other) (56,20)
+    reference:page 35 (53,3)
+    reference:several horses who were now crippled (47,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (68,51)
+    activity:other (66,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,55)
+    time:1100AM (38,59)
+    mapRef:Longitude of Longueval, France (61,63)
+    reference:point 175 (55,63)
+    reference:point 175 (48,67)
+    person:Captain Davidson (other) (40,71)
+    place:Soupir (59,83)
+Page 66 (type diary) http://wd3.herokuapp.com/pages/AWD0000lji  ----------
+  27 Aug 1914 0
+    place:Vieil-Arcy (33,13)
+    person:Lieutenant Nelson (other) (61,16)
+    place:Pont-Arcy (32,28)
+    reference:page 36 (53,3)
+    domestic:medical (45,33)
+    domestic:medical (63,33)
+    place:L'Hopital (47,34)
+    person:Lieutenant Nelson (other) (54,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,40)
+    reference:theses officers came forward with the transport (56,48)
+    activity:movement (55,7)
+    domestic:rations (33,70)
+    unit:Section of Artillary (68,72)
+    unit:Artillery (38,75)
+    place:Vieil-Arcy (32,82)
+    activity:fire (51,86)
+    activity:fire (44,87)
+Page 67 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkd  ----------
+  27 Aug 1914 0
+    activity:fire (62,20)
+    activity:movement (31,28)
+    reference:page 37 (55,3)
+    reference:my groom cleared off on my horse (48,33)
+    reference:a shell had blown up one of our horses (56,44)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,47)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,47)
+    person:Lieutenant Howell (casualty_wounded) (57,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (61,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (41,60)
+    activity:fire (55,63)
+    activity:withdraw (48,9)
+    activity:line (57,9)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,90)
+Page 68 (type diary) http://wd3.herokuapp.com/pages/AWD0000lky  ----------
+  27 Aug 1914 0
+    person:Lieutenant Armstrong (casualty_kia) (28,15)
+    person:Lieutenant Armstrong (casualty_kia) (37,16)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,20)
+    reference:wounded horses and human remains (60,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,36)
+    unit:Artillery Battery (46,39)
+    reference:page 38 (56,4)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,51)
+    activity:fire (41,59)
+    activity:fire (52,62)
+Page 69 (type diary) http://wd3.herokuapp.com/pages/AWD0000lga  ----------
+  27 Aug 1914 0
+    place:Soupir (54,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,7)
+Page 70 (type diary) http://wd3.herokuapp.com/pages/AWD0000liy  ----------
+  27 Aug 1914 0
+    unit:No V Field Ambulance (46,24)
+    unit:No.5 Field Ambulance, R.A.M.C (48,25)
+    place:Saint Mard (30,47)
+    reference:49.3872,3.5842 (36,49)
+    time:1200AM (32,52)
+    activity:movement (42,56)
+    place:Oeuilly (65,65)
+    reference:49° 23′ 26.88″ N, 3° 41′ 20.04″ E (68,65)
+    activity:movement (46,7)
+    place:Bourg (43,71)
+    place:Soupir (54,72)
+    activity:fire (44,77)
+    place:Viel-Arcy (62,8)
+    activity:movement (30,85)
+Page 71 (type diary) http://wd3.herokuapp.com/pages/AWD0000ll0  ----------
+  27 Aug 1914 0
+    time:0300PM (40,11)
+    place:Bourg (46,20)
+    unit:Cavalry field ambulance (35,28)
+    unit:Artillery (32,32)
+    unit:Other units (40,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,44)
+    place:Soupir (50,51)
+    person:Lieutenant Nelson (other) (33,55)
+    place:Bourg (30,62)
+Page 72 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkg  ----------
+  27 Aug 1914 0
+    activity:movement (51,11)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (85,16)
+    activity:fire (36,16)
+    place:Soupir (57,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,47)
+    unit:Cavalry Division (28,74)
+    unit:Cavalry Division (36,75)
+Page 73 (type diary) http://wd3.herokuapp.com/pages/AWD0000llq  ----------
+  27 Aug 1914 0
+    place:Soupir (29,12)
+    activity:other (30,25)
+    domestic:rations (57,41)
+Page 74 (type diary) http://wd3.herokuapp.com/pages/AWD0000li9  ----------
+  27 Aug 1914 0
+Page 75 (type diary) http://wd3.herokuapp.com/pages/AWD0000li3  ----------
+  27 Aug 1914 0
+    person:Captain Lloyd Jones (joined) (27,19)
+    person:Captain P A Lloyd Jones (joined) (39,20)
+    unit:Saint Johns Ambulance (42,28)
+    unit:St.Johns Ambulance Brigade (49,28)
+    person:Colonel Holt (other) (47,40)
+    person:General Lord Cavan (other) (41,67)
+    person:Captain Lloyd Jones (other) (53,80)
+  17 Dec 1915 87
+    person:Lieutenant Colonel Fallone (author) (51,88)
+Page 76 (type cover)
+Page 77 (type cover)
+Page 78 (type diary) http://wd3.herokuapp.com/pages/AWD0000lha  ----------
+  17 Dec 1915 0
+    person:Lieutenant Howell (joined) (49,36)
+    place:Courcelles (40,48)
+    activity:movement (28,48)
+    weather:rain (66,52)
+    domestic:accomodation (33,53)
+    activity:movement (26,59)
+    place:Vauxtin (65,60)
+    place:Vauxtin (15,63)
+    domestic:accomodation (42,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 12 (28,88)
+Page 79 (type diary) http://wd3.herokuapp.com/pages/AWD0000lm1  ----------
+  17 Dec 1915 0
+    activity:movement (31,27)
+    activity:fire (66,28)
+    place:Soupir (46,28)
+    place:L Of M (19,33)
+    place:Viel-Arcy (50,33)
+    person:Driver Ludlow (casualty_wounded) (31,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (34,42)
+    person:Lieutenant Howell (casualty_wounded) (54,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (68,43)
+    person:Driver Ludlow (casualty_died) (30,51)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,51)
+    activity:fire (62,55)
+    person:Major P H Falkner (other) (54,61)
+    person:Lieutenant Lovell (other) (28,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,66)
+    place:Braine (47,76)
+Page 80 (type diary) http://wd3.herokuapp.com/pages/AWD0000lk8  ----------
+  17 Dec 1915 0
+    domestic:accomodation (32,41)
+    place:Soupir (39,56)
+    place:Bourg (29,61)
+    unit:Cavalry (28,85)
+    unit:Artillery (40,85)
+    place:Soupir (35,93)
+Page 81 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhy  ----------
+  17 Dec 1915 0
+    place:Soupir (21,25)
+    place:Soupir (19,31)
+    activity:other (33,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 165 (51,35)
+    place:Braine (64,38)
+    time:0530AM (45,43)
+    person:Lieutenant Jones (other) (33,47)
+    place:Chateau Soupir (36,54)
+    place:Soupir (21,54)
+    place:Soupir (19,58)
+    person:Major P H Falkner (other) (48,61)
+    person:Lieutenant Nelson (other) (48,66)
+    person:Lieutenant A G H Lovell (other) (47,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 86 (36,73)
+    place:Soupir (19,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (56,80)
+Page 82 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgz  ----------
+  17 Dec 1915 0
+    place:Soupir (15,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 55 (32,31)
+    place:Soupir (15,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 55 (41,33)
+    activity:other (32,37)
+    domestic:accomodation (36,51)
+    place:Soupir (19,59)
+    place:Soupir (18,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 52 (40,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 52 (32,75)
+Page 83 (type diary) http://wd3.herokuapp.com/pages/AWD0000lj0  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 20 (31,31)
+    place:Soupir (20,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 15 (35,57)
+    person:Lieutenant Lovell (departed_posted) (32,61)
+    unit:1 kings lpool Regiment. (67,62)
+    place:Soupir (19,62)
+    person:Gunner Graham (departed_posted) (62,67)
+    person:Captain P A Lloyd Jones (joined) (36,72)
+Page 84 (type diary) http://wd3.herokuapp.com/pages/AWD0000llc  ----------
+  17 Dec 1915 0
+    place:Soupir (19,27)
+    place:Soupir (18,32)
+    person:Lieutenant W Mc H McCullogh (joined) (37,33)
+    person:Lieutenant W Foot (joined) (36,39)
+    person:Lieutenant B W Armstrong (joined) (40,43)
+    person:Lieutenant B W Armstrong (joined) (27,44)
+    person:Gunner Newby (joined) (30,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 48 (38,57)
+    place:Soupir (20,61)
+    person:Captain W W Boyce (joined) (34,63)
+    place:Soupir (18,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 25 (40,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 25 (30,70)
+Page 85 (type diary) http://wd3.herokuapp.com/pages/AWD0000lmp  ----------
+  17 Dec 1915 0
+    place:Soupir (21,27)
+    person:Lieutenant H H P Morton (joined) (36,30)
+    place:Soupir (18,33)
+    person:Lieutenant Nelson (departed_posted) (32,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 55 (38,48)
+    place:Soupir (20,54)
+    person:other P N Waggett (joined) (32,55)
+    person:Private Bird (joined) (65,58)
+    person:Corporal Tophill (joined) (35,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 44 (36,77)
+Page 86 (type diary) http://wd3.herokuapp.com/pages/AWD0000li1  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 42 (32,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 32 (37,54)
+    person:Private Lawrence (joined) (66,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 17 (42,76)
+    activity:other (33,83)
+Page 87 (type diary) http://wd3.herokuapp.com/pages/AWD0000lmv  ----------
+  17 Dec 1915 0
+    person:Lieutenant B W Armstrong (departed_posted) (30,83)
+    unit:1 kings lpool Regiment. (68,85)
+Page 88 (type diary) http://wd3.herokuapp.com/pages/AWD0000lmt  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 16 (31,30)
+    person:Lieutenant Lovell (joined) (34,36)
+    unit:1 kings lpool Regiment. (61,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 28 (42,49)
+    unit:6 Infantry Brigade (39,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 12 (43,62)
+Page 89 (type cover)
+Page 90 (type ) http://wd3.herokuapp.com/pages/AWD0000lh1  ----------
+  17 Dec 1915 0
+Page 91 (type orders) http://wd3.herokuapp.com/pages/AWD0000ll1  ----------
+  17 Dec 1915 0
+    reference:Order, not report (29,28)
+    person:Major Irvine (author) (58,84)
+    person:Major Irvine (author) (56,84)
+Page 92 (type orders) http://wd3.herokuapp.com/pages/AWD0000llw  ----------
+  17 Dec 1915 0
+Page 93 (type diary) http://wd3.herokuapp.com/pages/AWD0000ln1  ----------
+  17 Dec 1915 0
+    person:Major P H Falkner (departed_posted) (30,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 22 (41,75)
+    unit:No. 5 Field Ambulance (29,81)
+    unit:No. 6 Field Ambulance (32,81)
+Page 94 (type diary) http://wd3.herokuapp.com/pages/AWD0000lit  ----------
+  17 Dec 1915 0
+    place:Bourg (65,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 16 (49,31)
+    person:Lieutenant E H Moore (joined) (28,37)
+    person:Private J Dale (joined) (28,39)
+    person:Corporal W Gardner (joined) (27,44)
+    person:Corporal L Tuson (joined) (27,47)
+Page 95 (type diary) http://wd3.herokuapp.com/pages/AWD0000llj  ----------
+  17 Dec 1915 0
+    place:Soupir (19,28)
+    place:Soupir (83,53)
+Page 96 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhj  ----------
+  17 Dec 1915 0
+    place:Soupir (22,27)
+    unit:4 Guards Infantry Brigade (24,46)
+    unit:4 Guards Infantry Brigade (45,48)
+    place:Braine (56,68)
+    domestic:medical (29,90)
+Page 97 (type diary) http://wd3.herokuapp.com/pages/AWD0000ln3  ----------
+  17 Dec 1915 0
+    place:Soupir (22,26)
+    place:Cys (40,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 36 (47,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 21 (39,58)
+Page 98 (type diary) http://wd3.herokuapp.com/pages/AWD0000lmh  ----------
+  17 Dec 1915 0
+    place:Soupir (22,26)
+    place:Soupir (47,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1038 (39,30)
+    activity:movement (26,34)
+    place:Hopital (51,35)
+    place:Vieil Arcy (44,45)
+    weather:fine (29,49)
+    activity:movement (46,67)
+    place:Hopital (22,67)
+    place:Fismes (47,67)
+    place:Cassel (29,71)
+    place:Cassel (20,76)
+    place:Cassel (39,76)
+    person:Private Eldrett (departed_sick) (26,85)
+    activity:movement (26,90)
+    place:Hazebrouck (44,91)
+Page 99 (type diary) http://wd3.herokuapp.com/pages/AWD0000lk3  ----------
+  17 Dec 1915 0
+    place:Hazebrouck (19,29)
+    place:Rue-de-Merville (52,33)
+    person:Captain W W Boyce (other) (46,47)
+    person:Lieutenant Lovell (other) (45,55)
+    person:Lieutenant McCullagh (other) (46,64)
+    person:Lieutenant E H H Moore (other) (45,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (36,89)
+Page 100 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhe  ----------
+  17 Dec 1915 0
+    activity:movement (34,30)
+    place:Hazebrouck (61,31)
+    place:Hazebrouck (18,31)
+    time:0700AM (46,31)
+    place:Saint Sylvestre (35,34)
+    place:Steenvoorde (48,34)
+    place:Boescheppe (63,35)
+    place:Poperinghe (31,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (60,40)
+    place:Boescheppe (58,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (39,55)
+    place:Boescheppe (19,57)
+    place:Boescheppe (19,61)
+    person:Eaton (promotion) (35,65)
+    person:Lovell (promotion) (62,66)
+    person:C Martin (promotion) (73,67)
+    person:T Davis (promotion) (36,68)
+    person:J McKeown (promotion) (48,69)
+    person:J E McNeill (promotion) (65,69)
+    person:C Pocock (promotion) (52,72)
+    person:Steele (promotion) (64,72)
+    person:J Webb (promotion) (41,74)
+    place:Boescheppe (20,77)
+    person:other Day (joined) (32,77)
+    person:Lieutenant E H Moore (departed_posted) (31,85)
+    unit:41 Battalion. Royal Field Artillery (66,87)
+Page 101 (type diary) http://wd3.herokuapp.com/pages/AWD0000lj6  ----------
+  17 Dec 1915 0
+    place:Boescheppe (21,28)
+    place:Heksken (55,30)
+    place:Boescheppe (34,31)
+    place:Vlamertinge (68,31)
+    activity:movement (25,32)
+    unit:4 + 5 Field Ambulance (45,33)
+    weather:rain (28,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (30,45)
+    place:Boescheppe (69,52)
+    place:Poperinghe (70,68)
+    place:Ypres (64,72)
+    place:Vlamertinge (31,76)
+    person:Captain T S Blackwell (joined) (37,82)
+    person:Lieutenant G E Dyas (joined) (34,90)
+Page 102 (type diary) http://wd3.herokuapp.com/pages/AWD0000li7  ----------
+  17 Dec 1915 0
+    person:Lieutenant W Foot (departed_posted) (34,28)
+    unit:3 Coldstream Guards (68,29)
+    place:Vlamertinge (20,29)
+    unit:No. 5 Field Ambulance (44,32)
+    unit:No. 6 Field Ambulance (53,32)
+    activity:movement (27,34)
+    place:Ypres (36,36)
+    time:1030AM (29,41)
+    place:Rue-des-Chiens (44,45)
+    activity:other (34,50)
+    weather:rain (33,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 263 (43,73)
+    activity:movement (34,77)
+    place:Vlamertinge (32,79)
+    place:Saint Julien (43,79)
+    place:Wiltje (52,79)
+    place:Ypres (34,87)
+Page 103 (type diary) http://wd3.herokuapp.com/pages/AWD0000ll5  ----------
+  17 Dec 1915 0
+    person:Lieutenant T L Harty (32,27)
+    person:Lieutenant A R Esler (56,28)
+    place:Ypres (20,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 55 (44,36)
+    unit:5 - 6 Field Ambulance (31,41)
+    weather:cold (33,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 86 (40,66)
+    place:Ypres (20,69)
+Page 104 (type diary) http://wd3.herokuapp.com/pages/AWD0000lko  ----------
+  17 Dec 1915 0
+    casualties:died: 64; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,27)
+    casualties:died: 42; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,58)
+    unit:No. 5 Field Ambulance (54,69)
+Page 105 (type diary) http://wd3.herokuapp.com/pages/AWD0000lia  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 129 (38,29)
+    place:Ypres (22,31)
+    person:Gunner H Newby (departed_sick) (33,34)
+    person:Lieutenant Foot (other) (60,36)
+    person:Private Donald (departed_sick) (35,39)
+    person:Private W Furness (departed_sick) (35,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 58 (35,61)
+    place:Ypres (19,66)
+Page 106 (type orders) http://wd3.herokuapp.com/pages/AWD0000lfn  ----------
+  17 Dec 1915 0
+    reference:Sender's number: SC 765 (31,20)
+Page 107 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgm  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 30; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,28)
+    place:Ypres (19,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 727 (27,36)
+    casualties:died: 0; killed: 727; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,37)
+    weather:rain (53,57)
+    place:Ypres (28,65)
+    time:0300PM (43,67)
+    place:Ypres (20,73)
+    unit:No 3 Clearing hospital (38,74)
+Page 108 (type ) http://wd3.herokuapp.com/pages/AWD0000ljd  ----------
+  17 Dec 1915 0
+    reference:Sender's number: M 21 (32,13)
+    date:28 Oct 1914 (50,14)
+    person:Colonel M P Holt (author) (45,75)
+Page 109 (type orders) http://wd3.herokuapp.com/pages/AWD0000lms  ----------
+  17 Dec 1915 0
+    person:Major Irvine (author) (63,42)
+    date:28 Oct 1914 (32,50)
+Page 110 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkf  ----------
+  17 Dec 1915 0
+Page 111 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgj  ----------
+  17 Dec 1915 0
+    place:Ypres (18,26)
+    activity:other (40,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 114 (35,59)
+    place:Zillebeke Lake (59,63)
+    unit:6 Field Ambulance (37,72)
+    place:Ypres (53,73)
+    weather:rain (36,93)
+Page 112 (type cover)
+Page 113 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljz  ----------
+  17 Dec 1915 0
+    place:Ypres (14,25)
+Page 114 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhl  ----------
+  17 Dec 1915 0
+    person:Corporal Coad (departed_posted) (42,29)
+    unit:6 Field Ambulance (60,31)
+    place:Ypres (20,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 71 (32,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 71 (40,37)
+Page 115 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgg  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 49 (31,28)
+    person:Private H Fitch (35,32)
+    person:Private A Jones (37,41)
+    person:Private L Boyes (37,45)
+Page 116 (type orders) http://wd3.herokuapp.com/pages/AWD0000lnm  ----------
+  17 Dec 1915 0
+    person:Colonel M P Holt (other) (41,13)
+Page 117 (type orders) http://wd3.herokuapp.com/pages/AWD0000lie  ----------
+  17 Dec 1915 0
+    reference:F A positions in + around Ypres (30,47)
+    person:Major F S Irvine (author) (60,65)
+    date:4 Nov 1914 (36,72)
+Page 118 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgb  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 139 (35,28)
+Page 119 (type diary) http://wd3.herokuapp.com/pages/AWD0000lj1  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 10 (67,27)
+    person:Millicent Duchess Of Sutherland (other) (36,28)
+    place:Poperinghe (42,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 187 (25,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 189 (43,37)
+    person:Private Edwards (departed_posted) (24,43)
+    person:Private Edwards (42,44)
+Page 120 (type diary) http://wd3.herokuapp.com/pages/AWD0000lg5  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 239 (54,28)
+Page 121 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljv  ----------
+  17 Dec 1915 0
+    unit:No. 6 Field Ambulance (51,37)
+    unit:No. 6 Field Ambulance (33,79)
+Page 122 (type diary) http://wd3.herokuapp.com/pages/AWD0000lks  ----------
+  17 Dec 1915 0
+Page 123 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkz  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 163 (34,27)
+    person:Private Furness (returned_hospital) (40,34)
+Page 124 (type diary) http://wd3.herokuapp.com/pages/AWD0000lj3  ----------
+  17 Dec 1915 0
+    unit:9 Field Ambulance (48,35)
+    unit:2 Echelon of 2 Division (58,50)
+Page 125 (type diary) http://wd3.herokuapp.com/pages/AWD0000lh8  ----------
+  17 Dec 1915 0
+    place:Ypres (20,27)
+    unit:French Infantry (65,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 60 (32,48)
+    person:Lieutenant O Wilson (joined) (34,55)
+Page 126 (type diary) http://wd3.herokuapp.com/pages/AWD0000llr  ----------
+  17 Dec 1915 0
+    unit:London Scottish (33,28)
+    unit:London Scottish (78,28)
+    place:Ypres (19,29)
+    casualties:died: 0; killed: 60; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,45)
+    casualties:died: 60; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,49)
+    unit:Germans (45,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 70 (32,57)
+    casualties:died: 60; killed: 0; missing: 0; prisoner: 70; sick: 0; wounded: 107 (46,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 107 (26,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 107 (39,68)
+    person:Sergeant V Guy (joined) (45,71)
+    person:Private J Evans (joined) (22,73)
+    person:Private J Evans (joined) (47,75)
+    person:Private J Kilpatrick (joined) (23,77)
+    person:Private J Kilpatrick (joined) (40,79)
+    person:Private S A Hickmore (joined) (23,82)
+    person:Private S A Hickmore (joined) (45,83)
+Page 127 (type diary) http://wd3.herokuapp.com/pages/AWD0000lir  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (31,28)
+    place:Ypres (13,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 180 (32,49)
+Page 128 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhw  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 335 (60,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 335 (40,30)
+Page 129 (type diary) http://wd3.herokuapp.com/pages/AWD0000li2  ----------
+  17 Dec 1915 0
+Page 130 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhg  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 108 (37,29)
+Page 131 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkn  ----------
+  17 Dec 1915 0
+    casualties:died: 73; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,28)
+    unit:Herts Territorials (25,47)
+Page 132 (type orders) http://wd3.herokuapp.com/pages/AWD0000ljg  ----------
+  17 Dec 1915 0
+Page 133 (type orders) http://wd3.herokuapp.com/pages/AWD0000ll3  ----------
+  17 Dec 1915 0
+Page 134 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgs  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 157 (41,29)
+Page 135 (type orders) http://wd3.herokuapp.com/pages/AWD0000lfp  ----------
+  17 Dec 1915 0
+    date:18 Nov 1914 (63,12)
+    reference:Copy (39,2)
+    person:Colonel M P Holt (author) (45,9)
+Page 136 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljr  ----------
+  17 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 61 (36,28)
+Page 137 (type diary) http://wd3.herokuapp.com/pages/AWD0000lmr  ----------
+  17 Dec 1915 0
+    unit:4 Inf Brigade (60,34)
+    place:Meteren (34,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 27 (45,59)
+Page 138 (type diary) http://wd3.herokuapp.com/pages/AWD0000lle  ----------
+  17 Dec 1915 0
+    place:Duderdon (23,31)
+    place:Meteren (23,39)
+Page 139 (type diary) http://wd3.herokuapp.com/pages/AWD0000lke  ----------
+  17 Dec 1915 0
+    domestic:accomodation (29,31)
+Page 140 (type diary) http://wd3.herokuapp.com/pages/AWD0000lh7  ----------
+  17 Dec 1915 0
+    domestic:accomodation (39,28)
+    place:Ypres (40,47)
+    unit:7 Field Ambulance (34,53)
+    person:Lieutenant Wilson (other) (48,76)
+    unit:7 Field Ambulance (36,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 34; wounded: 0 (31,95)
+Page 141 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljq  ----------
+  17 Dec 1915 0
+    place:Meteren (16,27)
+    domestic:religion (36,28)
+    person:Captain Blackwell (departed_leave) (35,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 50; wounded: 0 (37,51)
+    person:Captain Blackwell (departed_leave) (22,56)
+    person:Captain Boyce (departed_leave) (33,61)
+    person:Lieutenant Dyas (departed_leave) (25,66)
+    person:Lieutenant Lovell (departed_leave) (33,72)
+    person:Lieutenant G M Jones (departed_leave) (33,78)
+Page 142 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhp  ----------
+  17 Dec 1915 0
+    place:Meteren (10,32)
+    unit:18 Field Ambulance (55,46)
+    person:Todd (departed_leave) (27,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 0 (34,71)
+Page 143 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgo  ----------
+  17 Dec 1915 0
+    place:Meteren (19,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 19; wounded: 0 (37,33)
+    place:Meteren (11,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 19; wounded: 0 (25,35)
+Page 144 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgp  ----------
+  17 Dec 1915 0
+    unit:Heats Terrt Regiment (33,28)
+    unit:Herts Territorial Rgt (43,28)
+    unit:Herts. Terr. Regiment. (42,29)
+    person:Lord Hampden (other) (28,33)
+    place:Meteren (15,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (36,46)
+Page 145 (type diary) http://wd3.herokuapp.com/pages/AWD0000ln4  ----------
+  17 Dec 1915 0
+    place:Meteren (20,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 0 (25,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 0 (34,32)
+    place:Meteren (10,33)
+Page 146 (type diary) http://wd3.herokuapp.com/pages/AWD0000lh4  ----------
+  17 Dec 1915 0
+    person:Colonel Fielding (author) (30,27)
+    person:Brigadier General Lord Cavan (other) (30,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 31; wounded: 0 (55,86)
+Page 147 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgn  ----------
+  17 Dec 1915 0
+    place:Meteren (10,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 0 (37,35)
+    person:Private Stanfield (37,42)
+Page 148 (type diary) http://wd3.herokuapp.com/pages/AWD0000llk  ----------
+  17 Dec 1915 0
+    place:Meteren (19,27)
+    place:Meteren (11,32)
+    person:Staff Sergeant Jones (departed_leave) (27,32)
+    person:Jones (departed_leave) (45,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 20; wounded: 0 (34,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 20; wounded: 0 (25,38)
+    person:Driver Matthews (63,41)
+    person:Driver Matthews (42,44)
+    person:Captain Blackwell (returned_leave) (36,50)
+    person:Captain P A Lloyd-Jones (departed_leave) (35,55)
+    person:Lieutenant H H P Martin (departed_leave) (35,60)
+    person:Lieutenant O Wilson (departed_leave) (36,64)
+Page 149 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhn  ----------
+  17 Dec 1915 0
+Page 150 (type diary) http://wd3.herokuapp.com/pages/AWD0000lj9  ----------
+  30 Nov 1915 26
+    person:Lieutenant MacDonald (departed_posted) (32,32)
+    place:Meteren (10,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 0 (38,43)
+Page 151 (type cover)
+Page 152 (type diary) http://wd3.herokuapp.com/pages/AWD0000lib  ----------
+  1 Dec 1915 23
+    person:Lieutenant McCullagh (returned_leave) (30,28)
+    place:Meteren (11,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 19; wounded: 0 (25,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 19; wounded: 0 (35,37)
+Page 153 (type diary) http://wd3.herokuapp.com/pages/AWD0000liu  ----------
+  2 Dec 1915 26
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 35; wounded: 0 (40,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 35; wounded: 0 (25,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 35; wounded: 0 (34,31)
+    place:Meteren (11,35)
+Page 154 (type orders) http://wd3.herokuapp.com/pages/AWD0000lgk  ----------
+  Hashtags: #King 
+  2 Dec 1915 0
+Page 155 (type diary) http://wd3.herokuapp.com/pages/AWD0000llz  ----------
+  3 Dec 1915 25
+    place:Meteren (10,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (35,40)
+Page 156 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljs  ----------
+  3 Dec 1915 0
+  4 Dec 1915 27
+    person:Pepper (departed_leave) (31,29)
+    place:Meteren (12,34)
+    person:Sergeant Moon (departed_leave) (36,38)
+    unit:4 Brigade (60,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 0 (37,69)
+Page 157 (type diary) http://wd3.herokuapp.com/pages/AWD0000lku  ----------
+  5 Dec 1915 26
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 0 (24,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 0 (42,29)
+    place:Meteren (13,36)
+Page 158 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhi  ----------
+  6 Dec 1915 25
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (36,35)
+    place:Meteren (15,36)
+Page 159 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljw  ----------
+  6 Dec 1915 0
+    place:Meteren (11,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 0 (33,35)
+Page 160 (type diary) http://wd3.herokuapp.com/pages/AWD0000lma  ----------
+  8 Dec 1915 27
+    person:Pepper (returned_leave) (36,28)
+    person:Sergeant Moon (returned_leave) (36,34)
+    place:Meteren (15,38)
+    person:Sergeant Freeman (returned_leave) (38,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (40,45)
+    person:Captain Blackwell (award) (30,59)
+    person:Pepper (award) (33,76)
+    person:Private Ranger (award) (38,86)
+Page 161 (type diary) http://wd3.herokuapp.com/pages/AWD0000lmk  ----------
+  9 Dec 1915 25
+    place:Meteren (11,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 0 (37,36)
+Page 162 (type diary) http://wd3.herokuapp.com/pages/AWD0000lk5  ----------
+  10 Dec 1915 25
+    person:Private Jones (departed_posted) (30,26)
+    place:Meteren (16,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (36,40)
+Page 163 (type diary) http://wd3.herokuapp.com/pages/AWD0000liw  ----------
+  10 Dec 1915 0
+Page 164 (type diary) http://wd3.herokuapp.com/pages/AWD0000lj2  ----------
+  12 Dec 1915 25
+    place:Meteren (14,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (35,43)
+Page 165 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhs  ----------
+  13 Dec 1915 25
+    place:Meteren (9,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (41,40)
+Page 166 (type orders) http://wd3.herokuapp.com/pages/AWD0000lin  ----------
+  13 Dec 1915 0
+    reference:Copy (40,5)
+    date:13 Dec 1914 (48,9)
+Page 167 (type diary) http://wd3.herokuapp.com/pages/AWD0000lii  ----------
+  14 Dec 1915 25
+    place:Meteren (9,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (40,35)
+Page 168 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkj  ----------
+  15 Dec 1915 24
+    person:Private W Costello (departed_posted) (27,32)
+    person:Private W Costello (departed_posted) (44,32)
+    place:Meteren (10,33)
+    person:Private S Abrahams (departed_posted) (25,37)
+    person:Private S Myers (departed_posted) (25,41)
+    person:Private R Fletcher (departed_posted) (24,46)
+    person:Private W Furness (departed_posted) (24,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (22,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (34,57)
+Page 169 (type diary) http://wd3.herokuapp.com/pages/AWD0000lig  ----------
+  16 Dec 1915 25
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (40,30)
+    place:Meteren (10,35)
+Page 170 (type orders) http://wd3.herokuapp.com/pages/AWD0000li4  ----------
+  16 Dec 1915 0
+    reference:Copy (34,9)
+    date:15 Dec 1914 (50,9)
+Page 171 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgf  ----------
+  16 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (42,30)
+    place:Meteren (9,34)
+Page 172 (type diary) http://wd3.herokuapp.com/pages/AWD0000lly  ----------
+  18 Dec 1915 25
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (40,29)
+    place:Meteren (12,36)
+Page 173 (type diary) http://wd3.herokuapp.com/pages/AWD0000lht  ----------
+  19 Dec 1915 25
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (38,35)
+    place:Meteren (13,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (36,39)
+Page 174 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkk  ----------
+  20 Dec 1915 24
+    person:Corporal S L Holstead (joined) (28,28)
+    person:Private W G Price (joined) (26,31)
+    person:Private W G Price (joined) (42,31)
+    place:Meteren (10,34)
+    person:Private H Kirwin (joined) (28,35)
+    person:Private A Wills (joined) (27,38)
+    person:Private A Wills (joined) (42,38)
+    person:Private S King (joined) (26,41)
+    person:Private J Dunn (joined) (42,44)
+    person:Private S W Rogers (joined) (26,47)
+    person:Private G Fraser (joined) (27,50)
+    person:Private G Fraser (joined) (43,50)
+    person:Private V Davids (joined) (25,53)
+    person:Private Dobson (joined) (28,55)
+    person:Private G F Dobson (joined) (44,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (37,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (27,63)
+Page 175 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkp  ----------
+  21 Dec 1915 24
+    place:Meteren (10,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (38,69)
+Page 176 (type orders) http://wd3.herokuapp.com/pages/AWD0000lg3  ----------
+  21 Dec 1915 0
+    orders:move (34,19)
+Page 177 (type orders) http://wd3.herokuapp.com/pages/AWD0000lih  ----------
+  21 Dec 1915 0
+Page 178 (type diary) http://wd3.herokuapp.com/pages/AWD0000lja  ----------
+  21 Dec 1915 0
+  22 Dec 1915 24
+    activity:movement (30,27)
+    time:0800AM (48,27)
+    place:Bethune (70,28)
+    place:Meteren (10,33)
+    time:0730PM (30,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,41)
+    place:Outersteen (45,48)
+    place:Vieux Berquin (60,48)
+    place:Neuve Berquin (31,56)
+    place:Merville (49,56)
+    place:Locon (65,56)
+    place:Bethune (33,61)
+Page 179 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhx  ----------
+  23 Dec 1915 26
+    person:Lieutenant Murphy (joined) (29,30)
+    unit:113 Field Ambulance of Indian Army (68,35)
+    place:Bethune (11,35)
+    unit:113 Field Ambulance Indian Army (44,36)
+Page 180 (type diary) http://wd3.herokuapp.com/pages/AWD0000lmg  ----------
+  25 Dec 1915 26
+    place:Bethune (9,35)
+Page 181 (type ) http://wd3.herokuapp.com/pages/AWD0000lis  ----------
+  25 Dec 1915 0
+    reference:Copy - illegible (34,11)
+Page 182 (type diary) http://wd3.herokuapp.com/pages/AWD0000lh6  ----------
+  25 Dec 1915 0
+  23 Dec 1915 26
+    place:Bethune (10,33)
+Page 183 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhr  ----------
+  23 Dec 1915 0
+    place:Bethune (10,34)
+Page 184 (type orders) http://wd3.herokuapp.com/pages/AWD0000lg6  ----------
+  23 Dec 1915 0
+Page 185 (type orders) http://wd3.herokuapp.com/pages/AWD0000li5  ----------
+  23 Dec 1915 0
+    reference:Copy (42,12)
+    person:Major F S Irvine (author) (49,42)
+    date:24 Dec 1914 (34,50)
+Page 186 (type diary) http://wd3.herokuapp.com/pages/AWD0000lk7  ----------
+  25 Dec 1915 28
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 0 (42,49)
+Page 187 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgi  ----------
+  26 Dec 1915 27
+    place:Bethune (14,36)
+    person:Captain Boyce (other) (51,38)
+    person:Chaplain Fleming (joined) (36,60)
+Page 188 (type report) http://wd3.herokuapp.com/pages/AWD0000lnq  ----------
+  26 Dec 1915 0
+    reference:Legible copy of page 181 (number 45) (30,51)
+    date:26 Dec 1914 (32,65)
+Page 189 (type diary) http://wd3.herokuapp.com/pages/AWD0000ll7  ----------
+  26 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 82; wounded: 20 (64,31)
+Page 190 (type diary) http://wd3.herokuapp.com/pages/AWD0000ll2  ----------
+  26 Dec 1915 0
+Page 191 (type diary) http://wd3.herokuapp.com/pages/AWD0000ln6  ----------
+  26 Dec 1915 27
+    activity:other (26,36)
+    place:Bethune (16,41)
+    unit:4 Infantry Brigade (46,76)
+Page 192 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkr  ----------
+  27 Dec 1915 27
+    person:Captain Blackwell (other) (34,29)
+    unit:Indian hospital (49,34)
+    place:Bethune (13,37)
+    place:Locon (54,46)
+    place:Bethune (59,61)
+Page 193 (type ) http://wd3.herokuapp.com/pages/AWD0000lkx  ----------
+  27 Dec 1915 0
+    reference:57 (68,5)
+    date:27 Dec 1914 (34,61)
+Page 194 (type report) http://wd3.herokuapp.com/pages/AWD0000lll  ----------
+  27 Dec 1915 0
+    person:Captain Lloyd-Jones (author) (56,59)
+    date:27 Dec 1914 (31,63)
+Page 195 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljf  ----------
+Page 196 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkq  ----------
+  27 Dec 1915 26
+    place:Bethune (11,41)
+    unit:1 Army Corps (40,85)
+Page 197 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhm  ----------
+  27 Dec 1915 26
+    place:Bethune (13,41)
+Page 198 (type diary) http://wd3.herokuapp.com/pages/AWD0000lki  ----------
+  27 Dec 1915 24
+    place:Bethune (11,40)
+    person:Lieutenant Dyas (other) (64,43)
+    place:Locon (50,43)
+    person:Captain Blackwell (other) (63,56)
+    person:Lieutenant C S Lovell (other) (37,66)
+    person:Lieutenant T Morton (other) (49,75)
+    person:Lieutenant Murphy (other) (51,79)
+    person:Lieutenant Willes (other) (47,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 54 (56,93)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 54 (36,94)
+Page 199 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkv  ----------
+  27 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 50; wounded: 0 (36,74)
+Page 200 (type diary) http://wd3.herokuapp.com/pages/AWD0000lfs  ----------
+  27 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 50; wounded: 4 (62,50)
+Page 201 (type diary) http://wd3.herokuapp.com/pages/AWD0000lld  ----------
+  Hashtags: #hospitalcaoacity 
+  27 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 46; wounded: 4 (55,49)
+Page 202 (type diary) http://wd3.herokuapp.com/pages/AWD0000lhk  ----------
+  27 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 84; wounded: 3 (57,49)
+    unit:1 Army Corps (38,90)
+Page 203 (type diary) http://wd3.herokuapp.com/pages/AWD0000liz  ----------
+  Hashtags: #trenchfoot 
+  29 Dec 1915 26
+    place:Bethune (15,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 76; wounded: 0 (42,90)
+Page 204 (type diary) http://wd3.herokuapp.com/pages/AWD0000lio  ----------
+  29 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 100; wounded: 4 (56,45)
+Page 205 (type diary) http://wd3.herokuapp.com/pages/AWD0000lm7  ----------
+Page 206 (type diary) http://wd3.herokuapp.com/pages/AWD0000lim  ----------
+  29 Dec 1915 60
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 93; wounded: 21 (49,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 83; wounded: 4 (57,48)
+Page 207 (type diary) http://wd3.herokuapp.com/pages/AWD0000lkm  ----------
+  Hashtags: #medals #DCM 
+  30 Dec 1915 25
+    person:Sergeant Hallimore (award) (44,32)
+    place:Bethune (14,36)
+    person:Private Ranger (award) (40,37)
+    person:Private Lucas (award) (44,41)
+    person:Private Marshall (award) (44,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 49; wounded: 0 (40,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 49; wounded: 0 (26,69)
+Page 208 (type report) http://wd3.herokuapp.com/pages/AWD0000lkw  ----------
+  30 Dec 1915 0
+    date:30 Dec 1914 (32,60)
+    person:Captain Lloyd-Jones (author) (51,71)
+Page 209 (type diary) http://wd3.herokuapp.com/pages/AWD0000ljp  ----------
+  30 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 98; wounded: 45 (58,26)
+Page 210 (type diary) http://wd3.herokuapp.com/pages/AWD0000lmf  ----------
+  30 Dec 1915 63
+    activity:strength (50,15)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 104; wounded: 37 (46,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 37 (65,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 104; wounded: 0 (58,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,44)
+    person:Lloyd Jones (author) (61,57)
+Page 211 (type diary) http://wd3.herokuapp.com/pages/AWD0000lgv  ----------
+  31 Dec 1915 25
+    place:Bethune (15,34)
+Page 212 (type diary) http://wd3.herokuapp.com/pages/AWD0000lje  ----------
+  31 Dec 1915 0
+Page 213 (type diary) http://wd3.herokuapp.com/pages/AWD0000lka  ----------
+  31 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 108; wounded: 13 (37,30)
+Page 214 (type diary) http://wd3.herokuapp.com/pages/AWD0000li8  ----------
+  31 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 79; wounded: 24 (39,31)
+Page 215 (type diary) http://wd3.herokuapp.com/pages/AWD0000li6  ----------
+  31 Dec 1915 24
+    place:Bethune (13,36)
+    person:other M Henry (other) (47,40)
+    person:Lieutenant Lovell (other) (57,46)
+    person:Lieutenant G Lovell (other) (32,50)
+Page 216 (type diary) http://wd3.herokuapp.com/pages/AWD0000lmj  ----------
+  31 Dec 1915 23
+    place:Bethune (14,33)

@@ -1,0 +1,669 @@
+GWD00000le wo/95/1257/1
+1 DIVISION:  Divisional Troops: 1 Field Ambulance.  
+60 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD00033db  ----------
+  1 Aug 1914 0
+    person:Major H A Hinge (52,36)
+    person:Major H A Hinge (author) (41,37)
+  5 Aug 1914 42
+    time:0900AM (10,46)
+    place:Aldershot (17,48)
+    person:Packard (joined) (61,52)
+    person:Captain Forsyth (joined) (50,53)
+    time:0200PM (23,54)
+    person:Major Ritchie (joined) (30,54)
+    person:Captain Weston (joined) (39,54)
+    time:0400PM (23,58)
+    person:Winter (other) (79,71)
+  6 Aug 1914 72
+    person:Captain Stewart (other) (80,74)
+    person:Lieutenant G R Ward (other) (79,76)
+    person:Lieutenant Pedler (commander) (82,79)
+    unit:Remounts (46,85)
+    time:0700AM (21,85)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD00033dw  ----------
+  6 Aug 1914 27
+    place:Aldershot (16,26)
+    time:0300PM (22,29)
+    time:0330PM (22,35)
+    time:0630PM (23,39)
+    domestic:medical (41,44)
+    time:0700PM (22,55)
+  7 Aug 1914 59
+    time:0615AM (23,63)
+  8 Aug 1914 75
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD00033cd  ----------
+  9 Aug 1914 25
+    place:Aldershot (18,27)
+    time:0300PM (22,43)
+  10 Aug 1914 59
+    time:0200PM (22,75)
+    person:Lieutenant Pedlar (joined) (48,77)
+    person:Sergeant Major Filmer (promotion) (33,86)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD00033de  ----------
+  10 Aug 1914 0
+    place:Aldershot (17,25)
+  11 Aug 1914 27
+  12 Aug 1914 32
+    activity:training (28,36)
+    time:0900AM (18,37)
+  13 Aug 1914 43
+    person:Quarter Master Sergeant Lofts (promotion) (38,52)
+    person:Quarter Master Sergeant Enwright (other) (50,56)
+    person:Lieutenant Colonel Winter (other) (55,73)
+    person:other J S Stewart (joined) (37,76)
+  14 Aug 1914 80
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD00033dr  ----------
+  14 Aug 1914 26
+    place:Aldershot (15,26)
+  15 Aug 1914 55
+    time:0330PM (23,82)
+    place:Southampton (11,83)
+    time:0530PM (38,87)
+    place:Southampton (24,87)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD00033cl  ----------
+  16 Aug 1914 27
+    place:Southampton (12,27)
+    activity:movement (36,33)
+    time:0100AM (21,36)
+    time:0200AM (47,36)
+    person:Captain Forsyth (casualty_wounded) (31,65)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD00033ch  ----------
+  16 Aug 1914 27
+    place:Southampton (13,26)
+    time:0300PM (23,31)
+    activity:movement (32,52)
+    time:0530PM (23,53)
+    time:0700PM (23,63)
+    unit:Ss turkomen (76,68)
+  17 Aug 1914 69
+    time:0130AM (40,69)
+    activity:movement (62,75)
+    time:0315AM (50,79)
+    time:0445AM (66,81)
+    time:0845AM (53,88)
+    activity:movement (49,88)
+    unit:Ra (66,96)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD00033dc  ----------
+  17 Aug 1914 0
+    time:0900AM (34,24)
+    weather:fine (51,32)
+    place:Boulogne (48,37)
+  18 Aug 1914 44
+    time:0700AM (45,45)
+    place:Boulogne (10,45)
+    time:1000AM (40,48)
+    place:Boulogne (14,51)
+    time:0130PM (54,52)
+    time:0338AM (45,55)
+    place:Abbeville (69,55)
+    place:Amiens (30,57)
+  19 Aug 1914 58
+    place:Cambrai (44,58)
+    place:Boue (16,61)
+    place:Etapes (35,61)
+    time:0800AM (43,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (20,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (31,87)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD00033da  ----------
+  19 Aug 1914 22
+    place:Boue (14,27)
+    person:Major Ritchie (other) (33,30)
+    weather:fine (35,48)
+  20 Aug 1914 54
+    unit:1 Army Corps (71,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 84; wounded: 0 (23,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 84; wounded: 0 (73,76)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD00033dn  ----------
+  20 Aug 1914 0
+    person:General Maxse (commander) (53,26)
+    place:Boue (14,27)
+    domestic:inspections (68,30)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD00033ck  ----------
+  20 Aug 1914 24
+    unit:3 Brigade (33,29)
+    unit:1 Brigade (42,32)
+    mapRef:Sheet 11a (81,36)
+  21 Aug 1914 37
+    place:Boue (11,42)
+    activity:movement (32,43)
+    place:Cartiginies (50,43)
+    place:Cartiginies (12,47)
+    domestic:accomodation (48,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (28,55)
+    unit:3 Brigade (55,72)
+    unit:Munster Regiment (72,87)
+    unit:No 7 General Hospital (34,96)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD00033d8  ----------
+  22 Aug 1914 24
+    place:Cartiginies (12,27)
+    unit:3 Brigade (48,32)
+    unit:1 Brigade (70,33)
+    mapRef:Sheet 11b (83,33)
+    place:Dompierre (34,39)
+    place:Dourlers (45,39)
+    place:Maubeuge (60,39)
+    activity:movement (27,39)
+    person:General Maxse (other) (69,46)
+    place:Beaufort (65,50)
+    unit:Royal Munster Fusiliers (15,53)
+    place:Avesnes (29,56)
+    place:Maubeuge (37,57)
+    unit:Royal Munster Fusiliers (34,73)
+    domestic:rations (55,81)
+    activity:movement (69,85)
+    mapRef:Namur - Belgiu, Sheet 8 (62,90)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD00033cs  ----------
+  22 Aug 1914 25
+    place:Grand Reng (14,28)
+    mapRef:Namur - Belgium, Sheet 8 (18,30)
+    activity:movement (28,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,44)
+  23 Aug 1914 53
+    place:Grand Reng (28,55)
+    time:0600AM (20,76)
+    weather:overcast (55,93)
+    weather:rain (46,96)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD00033cw  ----------
+  21 Aug 1914 25
+    time:0730AM (8,26)
+    place:Le Nouvion (57,27)
+    place:Boue (16,27)
+    unit:2 Infantry Batallion (41,28)
+    activity:movement (29,28)
+    activity:movement (31,29)
+    unit:2 Infatry Brigade (23,31)
+    time:0830AM (7,32)
+    place:Le Nouvion (15,32)
+    time:0330PM (8,35)
+    place:Avesnes (36,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 0 (45,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 0 (23,36)
+    place:Avesnes (14,36)
+  22 Aug 1914 39
+    time:0600AM (7,41)
+    place:Avesnes (14,42)
+    activity:movement (27,43)
+    time:0930AM (8,50)
+    place:Mont Dourlers (15,50)
+    unit:1 fa (18,58)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD00033d2  ----------
+  22 Aug 1914 25
+    unit:3 Infantry Brigade (50,27)
+    activity:movement (30,28)
+    place:Cartignies (17,28)
+    time:0315AM (6,29)
+    unit:3 Infantry Brigade (14,40)
+    unit:3 Infantry Brigade (60,43)
+    time:1200PM (7,46)
+    place:Maubeuge (13,49)
+    place:Fort Dessars (60,49)
+    time:0200PM (6,53)
+    place:Fort Dessars (13,58)
+    time:0500PM (7,74)
+    place:Villiers (12,77)
+    time:0830PM (9,87)
+    place:Croix le Rouveroy (16,87)
+  23 Aug 1914 92
+    time:1230PM (9,96)
+    unit:1 fa (8,97)
+    place:Grand Reng (20,97)
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD00033dp  ----------
+  23 Aug 1914 24
+    place:Grand Reng (15,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (73,26)
+    place:Grand Reng (14,31)
+    time:0830AM (22,32)
+    time:0945AM (22,40)
+    unit:2 fa (20,45)
+    time:1015AM (23,57)
+    activity:movement (34,74)
+    place:Elesmes (19,80)
+  24 Aug 1914 82
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD00033d9  ----------
+  24 Aug 1914 24
+    unit:3 Brigade (44,36)
+    unit:2 Brigade (66,37)
+    unit:1 Brigade (73,37)
+  25 Aug 1914 43
+    place:La Longueville (12,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 0 (39,46)
+    activity:movement (34,52)
+    weather:rain (65,73)
+    place:Dompierre (47,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 70; wounded: 0 (29,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 70; wounded: 0 (21,83)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD00033cc  ----------
+  26 Aug 1914 23
+    time:0600AM (24,26)
+    activity:movement (27,26)
+  27 Aug 1914 65
+    activity:movement (25,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 23 (66,94)
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD00033cm  ----------
+  28 Aug 1914 24
+    place:Jonqueuse (12,27)
+  29 Aug 1914 82
+    place:Saint Gobain (17,83)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD00033cp  ----------
+  29 Aug 1914 24
+    place:Saint Gobain (15,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 52 (32,58)
+  31 Aug 1914 64
+    place:Soissons (12,68)
+    activity:movement (24,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 10 (73,71)
+    weather:hot (53,73)
+Page 23 (type cover)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD00033dv  ----------
+  1 Sep 1914 24
+    activity:movement (28,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 20; wounded: 0 (73,43)
+  2 Sep 1914 74
+    place:Meaux (14,76)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD00033dk  ----------
+  2 Sep 1914 27
+    place:Meaux (13,26)
+    person:Stewart (commander) (43,28)
+  3 Sep 1914 57
+    place:Meaux (11,59)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD00033cu  ----------
+  3 Sep 1914 0
+  4 Sep 1914 27
+    place:Coulommiers (15,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (38,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 0 (33,71)
+  5 Sep 1914 78
+    place:Nesles (19,86)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD00033do  ----------
+  5 Sep 1914 33
+    place:Pompierre (39,36)
+  6 Sep 1914 60
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 1; sick: 0; wounded: 0 (65,61)
+    activity:casualty (26,70)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,93)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD00033ce  ----------
+  6 Sep 1914 0
+    place:Raperie (16,35)
+  7 Sep 1914 58
+  8 Sep 1914 74
+    place:Dagny (15,74)
+    unit:2 & 3 fa (47,74)
+  9 Sep 1914 88
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD00033dm  ----------
+  9 Sep 1914 24
+    time:0430AM (20,26)
+    person:Captain Painton (casualty_wounded) (65,34)
+    activity:movement (36,42)
+  10 Sep 1914 59
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 0 (70,69)
+    unit:3 fa (19,82)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD00033cy  ----------
+  11 Sep 1914 30
+    activity:movement (28,26)
+    activity:clearing (51,28)
+    place:Courchamps (14,29)
+    domestic:accomodation (50,37)
+    weather:rain (30,40)
+    activity:movement (70,66)
+  12 Sep 1914 81
+    place:Bazoches (14,81)
+Page 31 (type diary) http://wd3.herokuapp.com/pages/AWD00033d7  ----------
+  14 Sep 1914 26
+    activity:movement (37,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (32,68)
+    place:Moulins (13,70)
+  15 Sep 1914 72
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD00033ct  ----------
+  15 Sep 1914 24
+    place:Moulins (12,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 130 (44,38)
+    domestic:rations (29,44)
+  16 Sep 1914 59
+    activity:casualty (34,65)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (21,73)
+    unit:1 queens (41,89)
+    person:Lieutenant Pringle (casualty_died) (65,91)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD00033cg  ----------
+  16 Sep 1914 26
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 91 (41,27)
+    place:Moulins (9,28)
+  17 Sep 1914 39
+    mapRef:RIEMS (83,50)
+    mapRef:Reims Sheet (85,55)
+  18 Sep 1914 57
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD00033d6  ----------
+  19 Sep 1914 25
+    place:Moulins (20,27)
+  20 Sep 1914 38
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 29 (84,39)
+    unit:19 fa (72,53)
+    time:0300PM (23,58)
+    place:Villers (15,65)
+  21 Sep 1914 87
+Page 35 (type diary) http://wd3.herokuapp.com/pages/AWD00033cj  ----------
+  21 Sep 1914 24
+  22 Sep 1914 34
+  23 Sep 1914 47
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 74 (63,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 16 (50,57)
+  24 Sep 1914 64
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (53,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 69 (44,80)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD00033ci  ----------
+  26 Sep 1914 24
+    place:Villers (15,28)
+  27 Sep 1914 34
+  28 Sep 1914 85
+Page 37 (type diary) http://wd3.herokuapp.com/pages/AWD00033cv  ----------
+  29 Sep 1914 22
+    place:Villers (15,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 15; wounded: 16 (43,32)
+    domestic:medical (31,35)
+    weather:cold (36,59)
+  30 Sep 1914 67
+Page 38 (type cover)
+Page 39 (type diary) http://wd3.herokuapp.com/pages/AWD00033c9  ----------
+  1 Oct 1914 22
+    place:Villers En Praveres (17,24)
+    activity:fire (46,26)
+    activity:movement (50,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 22; wounded: 34 (61,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (31,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (47,43)
+    weather:fine (45,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 22; wounded: 34 (21,48)
+  2 Oct 1914 50
+    domestic:inspections (56,54)
+    domestic:inspections (32,60)
+  6 Oct 1914 69
+    domestic:medical (46,75)
+    activity:fire (61,78)
+  10 Oct 1914 81
+    domestic:uniform (61,85)
+Page 40 (type diary) http://wd3.herokuapp.com/pages/AWD00033du  ----------
+  13 Oct 1914 24
+  14 Oct 1914 34
+    activity:movement (35,47)
+  15 Oct 1914 56
+    domestic:accomodation (28,58)
+    place:Branges (13,59)
+    activity:movement (24,65)
+  16 Oct 1914 67
+    activity:movement (27,71)
+  17 Oct 1914 75
+    place:Hazebrouck (12,78)
+  18 Oct 1914 79
+  19 Oct 1914 82
+    domestic:religion (45,82)
+  20 Oct 1914 85
+    domestic:other (31,85)
+    activity:movement (29,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (70,95)
+Page 41 (type diary) http://wd3.herokuapp.com/pages/AWD00033ca  ----------
+  21 Oct 1914 22
+    place:Poperinghe (13,26)
+    activity:movement (30,27)
+    place:Poperinghe (13,29)
+    domestic:accomodation (51,35)
+  22 Oct 1914 36
+    place:Pilkem (19,37)
+    activity:casualty (32,47)
+    place:Elverdinghe (37,56)
+  23 Oct 1914 57
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 66 (60,57)
+    activity:casualty (43,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 375 (31,63)
+  24 Oct 1914 64
+Page 42 (type diary) http://wd3.herokuapp.com/pages/AWD00033cn  ----------
+  24 Oct 1914 24
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 50 (47,28)
+  25 Oct 1914 45
+    person:Private S Evans (casualty_wounded) (37,59)
+    person:Captain Steward (other) (78,83)
+Page 43 (type diary) http://wd3.herokuapp.com/pages/AWD00033cz  ----------
+  25 Oct 1914 22
+    place:Pilkem (16,27)
+    person:Private Evans (other) (42,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 63 (32,32)
+    person:Captain Steward (joined) (33,37)
+    person:Corporal Maxwell (other) (43,46)
+    person:Private Roderick (award) (65,46)
+    person:Private Evans (other) (60,47)
+    person:Captain Steward (other) (68,55)
+    activity:movement (28,60)
+    place:Zillebeke (34,60)
+    place:Ypres (47,60)
+    person:Lieutenant Ward (departed_posted) (67,61)
+    weather:rain (62,63)
+    place:Zillebeke (16,66)
+  26 Oct 1914 68
+    activity:movement (43,70)
+Page 44 (type diary) http://wd3.herokuapp.com/pages/AWD00033dq  ----------
+  27 Oct 1914 34
+    activity:casualty (32,30)
+    mapRef:Ostend (81,40)
+    mapRef:Tournay (87,40)
+    casualties:died: 1; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (31,47)
+    casualties:died: 2; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (20,47)
+    casualties:died: 2; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (43,47)
+    activity:fire (44,49)
+    unit:Cameron Highlanders (63,61)
+    activity:fire (30,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (55,66)
+    person:Captain Steward (other) (28,69)
+    person:Lieutenant Stewart (other) (34,70)
+    person:Captain Worthington (other) (64,74)
+  28 Oct 1914 81
+Page 45 (type diary) http://wd3.herokuapp.com/pages/AWD00033dl  ----------
+  29 Oct 1914 24
+    activity:fire (37,42)
+    unit:No 2 fa (55,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 600 (63,52)
+  30 Oct 1914 64
+    activity:fire (50,69)
+    person:Major Ritchie (other) (74,92)
+    activity:movement (37,93)
+Page 46 (type diary) http://wd3.herokuapp.com/pages/AWD00033d5  ----------
+  31 Oct 1914 24
+    activity:fire (64,25)
+    place:Ypres (16,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 15 (45,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 120 (66,45)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (50,49)
+    casualties:died: 3; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (62,50)
+    activity:fire (56,59)
+  1 Nov 1914 62
+    weather:fine (36,64)
+Page 47 (type ) http://wd3.herokuapp.com/pages/AWD00033co  ----------
+  1 Nov 1914 0
+    reference:GALLANTRY (35,21)
+    person:Private N Freshwater (award) (49,21)
+    person:Captain Fack (other) (59,38)
+    person:Private N Freshwater (50,57)
+    person:Major A E Edwards (commander) (62,73)
+    person:Private C Arnold (award) (32,86)
+    person:Private C Arnold (award) (54,87)
+    person:Private Page (award) (52,89)
+    person:Private Page (award) (33,89)
+Page 48 (type cover)
+Page 49 (type diary) http://wd3.herokuapp.com/pages/AWD00033di  ----------
+  1 Nov 1914 23
+    place:Ypres (15,29)
+    activity:casualty (47,33)
+  2 Nov 1914 35
+    activity:fire (44,37)
+  3 Nov 1914 38
+    person:Lieutenant Stewart (departed_posted) (27,40)
+    person:Lieutenant Adams (62,42)
+    person:Lieutenant Pedlar (other) (51,44)
+  4 Nov 1914 49
+    activity:fire (34,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,57)
+    weather:rain (29,61)
+    activity:movement (73,62)
+    casualties:died: 2; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (44,68)
+  5 Nov 1914 79
+  6 Nov 1914 88
+    weather:fine (70,88)
+    person:Lieutenant J H Owen (63,93)
+Page 50 (type diary) http://wd3.herokuapp.com/pages/AWD00033cx  ----------
+  6 Nov 1914 27
+    place:Ypres (15,27)
+    person:Captain Nimmo (other) (57,29)
+    weather:fog (35,34)
+  8 Nov 1914 35
+    domestic:religion (36,37)
+    weather:fine (60,38)
+  11 Nov 1914 41
+    person:Captain Irvine (other) (60,55)
+    person:Captain Forsyth (other) (67,61)
+  12 Nov 1914 73
+    person:Lieutenant Adams (returned_posted) (31,76)
+    unit:8 Infantry Division (21,85)
+    activity:fire (37,88)
+    unit:8 Division (41,94)
+    unit:1 and 2 Divisions (69,96)
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD00033d4  ----------
+  14 Nov 1914 22
+    place:Ypres (18,24)
+  15 Nov 1914 30
+    weather:cold (71,30)
+  16 Nov 1914 39
+    unit:Scots Guards (41,46)
+    unit:Cameron Highlanders (31,47)
+    unit:London Scottish (63,48)
+    unit:Black Watch (44,49)
+  17 Nov 1914 61
+    activity:movement (26,65)
+  18 Nov 1914 74
+    place:Borre (13,75)
+    domestic:accomodation (59,75)
+    activity:resting (29,76)
+    weather:cold (54,78)
+  19 Nov 1914 81
+    activity:movement (28,83)
+    place:Pradelles (12,84)
+    domestic:accomodation (51,84)
+    person:Captain Irvine (departed_leave) (27,88)
+    person:Captain Steward (departed_leave) (36,88)
+    person:Lieutenant Colonel Hinge (departed_leave) (65,88)
+    person:Lieutenant Scott (departed_leave) (45,89)
+    person:Chaplain Blackbourne (departed_leave) (52,89)
+    person:Major Ritchie (commander) (59,93)
+Page 52 (type diary) http://wd3.herokuapp.com/pages/AWD00033cq  ----------
+  21 Nov 1914 23
+    person:Lieutenant Packard (departed_leave) (33,25)
+    place:Pradelles (16,25)
+    person:Chaplain D A Morrison (departed_leave) (39,27)
+  24 Nov 1914 30
+    person:Major Ritchie (departed_leave) (53,33)
+    person:Captain Weston (departed_leave) (61,33)
+    person:Lieutenant Adams (departed_leave) (28,34)
+    person:Lieutenant Pedlar (departed_leave) (68,34)
+  28 Nov 1914 36
+    person:Sergeant Major Loft (departed_leave) (56,36)
+    person:Sergeant Rideout (departed_leave) (65,36)
+    domestic:inspections (31,41)
+    person:other John French (other) (53,42)
+    person:Douglas Haig (other) (69,42)
+    person:Douglas Haig (other) (27,43)
+    person:General Henderson (other) (37,43)
+    weather:cold (37,49)
+  29 Nov 1914 52
+    person:Captain Weston (returned_leave) (45,54)
+    person:Major Ritchie (returned_leave) (52,54)
+    person:Lieutenant Pedlar (returned_leave) (58,54)
+    domestic:religion (34,54)
+    person:Lieutenant Adams (returned_leave) (63,55)
+    person:Lieutenant Adams (departed_posted) (30,56)
+  30 Nov 1914 58
+    person:Captain Howell (other) (58,58)
+    domestic:inspections (33,61)
+    person:Sergeant Major Loft (returned_leave) (52,64)
+Page 53 (type cover)
+Page 54 (type cover)
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD00033dj  ----------
+  1 Dec 1914 23
+    place:Pradelles (14,26)
+    domestic:medical (53,30)
+  2 Dec 1914 36
+    weather:cold (51,45)
+    person:Lieutenant Adams (departed_posted) (29,48)
+    person:Captain Howlett (joined) (62,48)
+  3 Dec 1914 54
+    person:other George H M The King (commander) (29,57)
+    person:Captain Steward (award) (69,70)
+    person:Sergeant Major Loft (award) (34,72)
+    person:Private Freshwater (award) (33,77)
+Page 56 (type diary) http://wd3.herokuapp.com/pages/AWD00033df  ----------
+  5 Dec 1914 24
+    place:Pradelles (11,27)
+  6 Dec 1914 51
+    domestic:religion (33,54)
+    domestic:uniform (71,55)
+  9 Dec 1914 57
+    activity:fire (34,57)
+    domestic:medical (52,61)
+    unit:1 Coldstream Guards (32,65)
+    domestic:medical (53,76)
+    domestic:medical (61,91)
+Page 57 (type diary) http://wd3.herokuapp.com/pages/AWD00033d1  ----------
+  10 Dec 1914 27
+    domestic:uniform (42,28)
+  11 Dec 1914 32
+    person:Chaplain J Blackbourne (award) (30,40)
+    person:Captain Steward (award) (40,42)
+    person:Lieutenant Stewart (award) (54,43)
+    person:Sergeant Philbrook (award) (28,47)
+    person:other Robertson (award) (64,47)
+    person:Lance Corporal Brogden (award) (36,48)
+    person:Private Freshwater (47,49)
+    person:Officer Cadet Douglas Haig (other) (61,52)
+    domestic:medical (43,55)
+    weather:cold (45,64)
+  13 Dec 1914 66
+    domestic:religion (30,69)
+  14 Dec 1914 76
+    person:Chaplain J Blackbourne (departed_posted) (43,88)
+    domestic:uniform (65,92)
+Page 58 (type diary) http://wd3.herokuapp.com/pages/AWD00033dd  ----------
+  16 Dec 1914 24
+    place:Pradelles (11,25)
+    domestic:inspections (56,28)
+    domestic:medical (32,32)
+  20 Dec 1914 45
+    domestic:religion (29,54)
+    activity:movement (35,77)
+Page 59 (type diary) http://wd3.herokuapp.com/pages/AWD00033d3  ----------
+  21 Dec 1914 24
+    place:Pradelles (11,26)
+    activity:movement (50,28)
+  22 Dec 1914 34
+    place:Bethune (14,36)
+    weather:cold (63,55)
+  23 Dec 1914 60
+  24 Dec 1914 73
+  25 Dec 1914 83
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 68; wounded: 12 (55,86)
+    weather:cold (59,95)
+Page 60 (type diary) http://wd3.herokuapp.com/pages/AWD00033dx  ----------
+  26 Dec 1914 23
+    place:Bethune (11,26)
+  27 Dec 1914 27
+    weather:rain (44,28)
+  28 Dec 1914 30
+    place:Beuvry (40,30)
+    place:Beuvry (33,35)
+  29 Dec 1914 49
+    domestic:inspections (28,52)
+  30 Dec 1914 55
+    place:Beuvry (35,57)
+    domestic:accomodation (46,61)
+  31 Dec 1914 70
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (34,77)

@@ -1,0 +1,871 @@
+GWD00000cv wo/95/1272/3
+1 DIVISION:  2 Infantry Brigade: 2 Battalion King's Royal Rifle Corps.  
+141 pages
+
+Page 338 (type diary) http://wd3.herokuapp.com/pages/AWD0001xwq  ----------
+  1 Sep 1915 30
+    weather:fine (41,33)
+    activity:repair (47,35)
+    unit:Liverpool (50,39)
+    activity:enemy_activity (47,71)
+Page 339 (type diary) http://wd3.herokuapp.com/pages/AWD0001xye  ----------
+  Hashtags: #sideways 
+  2 Sep 1915 47
+    unit:The 2 Sussex (31,100)
+  1 Sep 1915 0
+    unit:Liverpool (23,27)
+    unit:The Devons (30,32)
+    weather:overcast (64,37)
+    unit:The 1 Northamptons (26,40)
+    activity:repair (48,44)
+  2 Sep 1915 47
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (20,48)
+    unit:The Battalion of Liverpools (62,58)
+    unit:The 45 infantry boe (29,65)
+Page 340 (type diary) http://wd3.herokuapp.com/pages/AWD0001xyg  ----------
+  3 Sep 1915 28
+    weather:rain (43,33)
+    time:010AM (51,33)
+    activity:repair (45,37)
+    unit:2/Sussex (46,41)
+    activity:movement (44,44)
+    unit:1/Northampton (59,45)
+    unit:The 2 Royal Sussex (48,46)
+    unit:2/Sussex (48,46)
+    place:Vermelles (55,53)
+    person:Lieutenant Colonel Green (commander) (45,54)
+    activity:repair (52,61)
+    person:Captain (author) (44,81)
+Page 341 (type diary) http://wd3.herokuapp.com/pages/AWD0001xyi  ----------
+  Hashtags: #animal #Parrot 
+  3 Sep 1915 27
+    activity:enemy_activity (44,35)
+    activity:enemy_activity (51,36)
+    place:Bois Carre (46,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (58,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (44,53)
+    strength:officer: 19; nco: 0; other: 873 (58,56)
+    person:Second Lieutenant Nash (departed_training) (42,63)
+Page 342 (type diary) http://wd3.herokuapp.com/pages/AWD0001xvv  ----------
+  4 Sep 1915 25
+    weather:rain (42,31)
+    activity:repair (42,37)
+    activity:repair (47,45)
+    activity:repair (44,51)
+    activity:construction (45,67)
+    activity:enemy_activity (44,74)
+    time:1030PM (58,76)
+    place:Bois Carre (49,78)
+Page 343 (type diary) http://wd3.herokuapp.com/pages/AWD0001xvx  ----------
+  4 Sep 1915 26
+    mapRef:Ref Aucby-LGNS (56,30)
+    mapRef:Ref Aucby-LGNS (49,38)
+    mapRef:1 (57,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (45,45)
+    strength:officer: 19; nco: 0; other: 870 (54,48)
+    person:Captain (author) (42,67)
+Page 344 (type diary) http://wd3.herokuapp.com/pages/AWD0001xyl  ----------
+  5 Sep 1915 25
+    weather:rain (44,31)
+    activity:repair (44,35)
+    activity:repair (45,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (53,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,59)
+    activity:resupplying (47,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 1 (53,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (42,70)
+    strength:officer: 19; nco: 0; other: 864 (51,72)
+    strength:officer: 19; nco: 0; other: 864 (57,72)
+    person:Captain (author) (42,80)
+Page 345 (type diary) http://wd3.herokuapp.com/pages/AWD0001xvn  ----------
+  6 Sep 1915 26
+    activity:repair (45,38)
+    activity:repair (46,46)
+    person:Second Lieutenant Dowdle (other) (45,56)
+    activity:reconnoitered (49,58)
+Page 346 (type diary) http://wd3.herokuapp.com/pages/AWD0001xys  ----------
+  6 Sep 1915 0
+    reference:Bois Carre (48,36)
+    reference:Bois Carre (44,45)
+    person:Colonel Green (other) (56,54)
+    person:Second Lieutenant Dowden (other) (43,56)
+    gridRef:G_22_B_9_7 (50,69)
+    gridRef:G_17_C_8_1 (60,69)
+    gridRef:G_17_C_4_1 (54,75)
+    activity:reconnoitered (46,76)
+    activity:fire (53,76)
+    person:Captain (author) (43,82)
+Page 347 (type diary) http://wd3.herokuapp.com/pages/AWD0001xxs  ----------
+  6 Sep 1915 26
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (44,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 1 (51,32)
+  7 Sep 1915 36
+    weather:fine (38,41)
+    activity:repair (48,44)
+    unit:The Gloucester (56,47)
+    reference:ECQUECDECQUES (56,48)
+    time:1215PM (55,49)
+    activity:movement (44,50)
+    gridRef:K_2_G_7_1 (41,52)
+  8 Sep 1915 54
+    activity:movement (52,58)
+    weather:hot (41,58)
+    time:1000AM (44,60)
+    place:Ecquecdecques (56,62)
+    reference:ECQUEDECQUES (55,62)
+    time:0330PM (44,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,72)
+    person:Captain (author) (40,78)
+Page 348 (type diary) http://wd3.herokuapp.com/pages/AWD0001xv5  ----------
+  9 Sep 1915 30
+    person:Heseltine (promotion) (51,36)
+    domestic:uniform (42,41)
+    activity:resupplying (49,42)
+  10 Sep 1915 47
+    domestic:hygiene (43,52)
+    domestic:hygiene (52,53)
+    reference:Rambart Mines (52,57)
+    person:Second Lieutenant Nash (departed_training) (43,59)
+    person:Second Lieutenant Dowden (departed_posted) (43,63)
+    reference:new pattern smoke helmets (59,66)
+Page 349 (type diary) http://wd3.herokuapp.com/pages/AWD0001xvb  ----------
+  11 Sep 1915 29
+    weather:fine (40,34)
+    person:Colonel (promotion) (41,38)
+    reference:70th Brigade, 23rd Division (61,41)
+    domestic:parades (43,43)
+    place:Saint Venant (50,46)
+    person:Major Priaulx (commander) (44,49)
+  12 Sep 1915 52
+    weather:fine (42,56)
+  13 Sep 1915 59
+    weather:fine (40,64)
+    activity:training (48,64)
+    time:0730PM (51,72)
+    domestic:sport (45,73)
+Page 350 (type diary) http://wd3.herokuapp.com/pages/AWD0001xwv  ----------
+  14 Sep 1915 25
+    weather:fine (40,30)
+    domestic:inspections (55,33)
+  15 Sep 1915 34
+    weather:fine (39,39)
+    activity:training (44,40)
+    domestic:parades (51,42)
+  16 Sep 1915 44
+    activity:training (53,48)
+    weather:fine (39,48)
+    strength:officer: 18; nco: 0; other: 859 (53,56)
+Page 351 (type diary) http://wd3.herokuapp.com/pages/AWD0001xx1  ----------
+  Hashtags: #draft 
+  17 Sep 1915 27
+    weather:fine (40,31)
+    activity:training (52,32)
+  18 Sep 1915 43
+    activity:training (44,47)
+  19 Sep 1915 48
+    weather:fine (41,51)
+    domestic:religion (48,52)
+  20 Sep 1915 53
+    time:0630PM (56,57)
+    activity:movement (44,58)
+    place:Marle (59,59)
+    domestic:accomodation (51,59)
+    time:0815PM (45,61)
+    person:Second Lieutenant Simpson (returned_posted) (44,63)
+  21 Sep 1915 65
+    weather:fine (40,68)
+    person:Major Priaulx (promotion) (52,71)
+Page 352 (type diary) http://wd3.herokuapp.com/pages/AWD0001xyb  ----------
+  Hashtags: #equipmentevaluation 
+  22 Sep 1915 27
+    weather:fine (41,33)
+    activity:movement (45,44)
+    place:Minx (60,44)
+    time:0830PM (52,45)
+  23 Sep 1915 49
+    time:1115PM (47,54)
+    domestic:accomodation (52,55)
+    activity:movement (43,57)
+    activity:movement (59,59)
+Page 353 (type diary) http://wd3.herokuapp.com/pages/AWD0001xxi  ----------
+  23 Sep 1915 29
+    strength:officer: 20; nco: 0; other: 870 (50,35)
+    domestic:rations (40,39)
+    person:Second Lieutenant Dowden (departed_posted) (47,42)
+    person:Second Lieutenant Symington (departed_posted) (46,45)
+  24 Sep 1915 49
+    weather:rain (41,54)
+    unit:Swbs (46,56)
+    time:0530AM (44,56)
+    unit:S.W.B.s (40,57)
+    unit:S W B (36,57)
+    activity:movement (42,61)
+    unit:46 B O E (61,63)
+    time:1100PM (47,63)
+    unit:46 Brigade (41,65)
+    unit:L N Lancs (60,65)
+    unit:2 Sussex (56,67)
+    unit:3 boe (55,73)
+Page 354 (type diary) http://wd3.herokuapp.com/pages/AWD0001xxp  ----------
+  Hashtags: #gas #equipmentevaluation 
+  25 Sep 1915 28
+    time:0400AM (40,35)
+    time:0550AM (53,36)
+    activity:attack (50,38)
+    time:0440AM (41,38)
+    time:0550AM (41,39)
+    time:0600AM (40,48)
+    unit:B company (62,50)
+    time:0634AM (42,61)
+    time:0620AM (60,62)
+    time:0634AM (58,63)
+    activity:attack (45,65)
+Page 355 (type diary) http://wd3.herokuapp.com/pages/AWD0001xxo  ----------
+  Hashtags: #surrender 
+  25 Sep 1915 0
+    activity:withdraw (51,36)
+    activity:attack (42,43)
+    unit:15 Division (62,45)
+    unit:15 Divsn (42,47)
+    place:Hill 70 (57,48)
+    place:Loos (50,49)
+    unit:7 Division (61,50)
+    activity:achieved (45,52)
+    unit:2 B O E (37,56)
+    time:0756AM (40,58)
+    unit:Northants (59,58)
+    unit:2 Sussex (44,61)
+    unit:L N Lancs (37,62)
+    unit:3 B O E (57,64)
+    time:1200PM (40,66)
+    activity:achieved (53,71)
+    unit:B O E (60,74)
+    time:0330PM (41,75)
+    place:Bois Hugo (58,77)
+    activity:reserve (57,81)
+    unit:2 B O E (57,82)
+Page 356 (type diary) http://wd3.herokuapp.com/pages/AWD0001xyj  ----------
+  Hashtags: #map #sketch 
+  25 Sep 1915 0
+    place:Bois Hugo (39,30)
+    activity:achieved (52,34)
+    time:0430PM (44,36)
+    activity:repair (45,39)
+    mapRef:36 c (63,39)
+    unit:Northants (54,42)
+    mapRef:Ref 36 C N W (62,46)
+    unit:2 K R R (46,47)
+    unit:2 Sussex (48,53)
+    unit:L N Lancs (58,53)
+    mapRef:Ref 36 C N W (60,59)
+    person:Second Lieutenant Dowden (42,64)
+    person:Lieutenant Symington (51,64)
+    weather:rain (43,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (51,74)
+    person:Lieutenant Colonel Priaulx (casualty_wounded) (47,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (48,78)
+    person:Major Heseltine (casualty_wounded) (50,79)
+    person:Captain Dubs (casualty_wounded) (50,81)
+Page 357 (type diary) http://wd3.herokuapp.com/pages/AWD0001xw7  ----------
+  Hashtags: #gas 
+  25 Sep 1915 29
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 1; wounded: 8 (47,33)
+    person:Second Lieutenant Fowler (casualty_wounded) (48,33)
+    person:Second Lieutenant Nash (casualty_wounded) (48,35)
+    person:Lieutenant Bristowe (casualty_wounded) (50,37)
+    person:Lieutenant Eyre (casualty_kia) (54,40)
+    person:Second Lieutenant Scudamore (casualty_kia) (43,41)
+    person:Second Lieutenant Scudamore (casualty_kia) (51,43)
+    person:Lieutenant Simpson (casualty_kia) (52,44)
+    casualties:died: 0; killed: 100; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,54)
+    casualties:died: 0; killed: 100; missing: 234; prisoner: 0; sick: 0; wounded: 250 (51,55)
+  26 Sep 1915 58
+    casualties:died: 0; killed: 0; missing: 237; prisoner: 0; sick: 0; wounded: 0 (47,58)
+    unit:21 Division (47,62)
+    time:0400AM (55,62)
+    activity:movement (44,64)
+    time:1200PM (42,66)
+    unit:French troops (57,67)
+    place:Souchez (52,69)
+    time:0350PM (41,71)
+    activity:line (53,71)
+    activity:line (44,72)
+Page 358 (type diary) http://wd3.herokuapp.com/pages/AWD0001xwt  ----------
+  26 Sep 1915 0
+    reference:German trenches (46,70)
+Page 359 (type diary) http://wd3.herokuapp.com/pages/AWD0001xva  ----------
+  Hashtags: #gas 
+  26 Sep 1915 56
+    unit:W Kent (34,24)
+    casualties:died: 0; killed: 81; missing: 149; prisoner: 0; sick: 0; wounded: 193 (62,50)
+    casualties:died: 0; killed: 81; missing: 149; prisoner: 0; sick: 0; wounded: 193 (66,50)
+    casualties:died: 0; killed: 81; missing: 149; prisoner: 0; sick: 0; wounded: 193 (51,52)
+  28 Sep 1915 53
+    casualties:died: 0; killed: 0; missing: 149; prisoner: 0; sick: 0; wounded: 0 (44,53)
+  26 Sep 1915 56
+    unit:21 Division (60,66)
+    place:Hulluch (51,70)
+    place:Le Rutoire (61,72)
+    time:0500PM (41,72)
+    unit:Guards Division (57,74)
+    unit:Cavalry (47,78)
+    activity:support (59,79)
+Page 360 (type diary) http://wd3.herokuapp.com/pages/AWD0001xvr  ----------
+  Hashtags: #prisoners 
+  26 Sep 1915 28
+    unit:Guards Division (50,31)
+    place:Loos (57,33)
+  27 Sep 1915 62
+    activity:reserve (48,69)
+  28 Sep 1915 71
+    place:Mazingarbe (58,74)
+    activity:movement (49,75)
+    time:1030AM (44,76)
+    time:0830PM (61,76)
+    activity:resting (53,77)
+    person:Second Lieutenant Johnston (joined) (43,79)
+    person:Major Binham (commander) (51,80)
+Page 361 (type diary) http://wd3.herokuapp.com/pages/AWD0001xz1  ----------
+  Hashtags: #prisoners 
+  28 Sep 1915 28
+    time:0840PM (55,32)
+    activity:movement (43,33)
+    place:Loos (57,37)
+  27 Sep 1915 39
+    person:Brigadier General Pollard (other) (51,75)
+Page 362 (type diary) http://wd3.herokuapp.com/pages/AWD0001xym  ----------
+  29 Sep 1915 29
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (56,34)
+  30 Sep 1915 35
+    person:Second Lieutenant Reid (casualty_wounded) (41,35)
+    activity:repair (45,39)
+Page 363 (type diary) http://wd3.herokuapp.com/pages/AWD0001xvq  ----------
+  Hashtags: #gas #nominalroll 
+  23 Sep 1915 29
+    title:List of Officers (45,29)
+    date:23 Sep 1915 (43,32)
+    person:Lieutenant Colonel Priaulx (casualty_wounded) (48,34)
+    person:Lieutenant Colonel Priaulx (casualty_wounded) (40,34)
+    person:Captain P J R Currie (commander) (41,36)
+    person:Lieutenant A Robinson (other) (44,38)
+    person:Lieutenant H K Ward (casualty_wounded) (43,39)
+    person:Second Lieutenant T R Reid (casualty_wounded) (42,41)
+    person:Second Lieutenant T B Mahar (other) (45,43)
+    person:Captain G R Dubs (casualty_wounded) (45,45)
+    person:Lieutenant J C Grahame-Stewart (casualty_kia) (51,47)
+    person:Second Lieutenant G G Fowler (casualty_wounded) (39,49)
+    person:Second Lieutenant G G Fowler (casualty_wounded) (42,49)
+    person:Lieutenant A W Symington (other) (43,53)
+    person:Captain J B Brady (other) (45,55)
+    person:Second Lieutenant L G Nash (casualty_wounded) (44,56)
+    person:Second Lieutenant C H Dowden (other) (43,58)
+    person:Second Lieutenant C H Dowden (commander) (43,58)
+    person:Second Lieutenant W H Palmer (casualty_wounded) (46,60)
+    person:Captain Wenham (other) (50,62)
+    person:Second Lieutenant W P Bristowe (casualty_wounded) (42,64)
+    person:Second Lieutenant T Hone (casualty_wounded) (43,66)
+    person:Second Lieutenant H K Dinn (casualty_wounded) (47,67)
+    person:Captain J E N Heseltine (casualty_wounded) (48,72)
+    person:Lieutenant C H Eyre (casualty_kia) (44,73)
+    person:Second Lieutenant J Scudamore (casualty_kia) (43,75)
+    person:Second Lieutenant J Angell (other) (45,77)
+    person:Lieutenant J H Simpson (casualty_kia) (43,79)
+    person:Second Lieutenant F H Campbell (departed_posted) (44,81)
+Page 364 (type diary) http://wd3.herokuapp.com/pages/AWD0001xyr  ----------
+  23 Sep 1915 0
+    person:Major Bircham (other) (44,31)
+    person:Second Lieutenant Johnstone (other) (44,34)
+Page 365 (type diary) http://wd3.herokuapp.com/pages/AWD0001xw9  ----------
+  23 Sep 1915 0
+    person:Rifleman J Bland (casualty_kia) (50,32)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (50,34)
+    person:Rifleman J West (casualty_wounded) (57,35)
+    person:Rifleman J West (casualty_wounded) (44,35)
+    person:Rifleman F Woodcock (casualty_wounded) (50,37)
+Page 366 (type cover)
+Page 367 (type orders) http://wd3.herokuapp.com/pages/AWD0001xwm  ----------
+  23 Sep 1915 0
+    reference:2nd Infantry Brigade Operation Order No. 30 (47,12)
+    reference:2nd Inf. Bde. OO No. 30 (54,15)
+    date:1 Sep 1915 (64,16)
+    person:Brigadier General Pollard (commander) (43,18)
+    reference:Auchy-Lens trench map (30,20)
+Page 368 (type orders) http://wd3.herokuapp.com/pages/AWD0001xwu  ----------
+  23 Sep 1915 0
+    person:Major R Terry (commander) (54,41)
+Page 369 (type orders) http://wd3.herokuapp.com/pages/AWD0001xwx  ----------
+  23 Sep 1915 0
+    person:Lieutenant Colonel E W B Green (commander) (47,30)
+    person:Captain N G Dobbie (author) (54,70)
+    date:2 Sep 1915 (40,76)
+Page 370 (type other) http://wd3.herokuapp.com/pages/AWD0001xv4  ----------
+  Hashtags: #equipmentevaluation 
+  23 Sep 1915 0
+Page 371 (type other) http://wd3.herokuapp.com/pages/AWD0001xwe  ----------
+  Hashtags: #equipmentevaluation 
+  23 Sep 1915 0
+Page 372 (type blank)
+Page 373 (type orders) http://wd3.herokuapp.com/pages/AWD0001xv2  ----------
+  23 Sep 1915 0
+    person:Captain (65,79)
+    reference:Leakage of information (35,8)
+    date:5 Sep 1915 (25,87)
+    date:5 Sep 1915 (32,88)
+Page 374 (type orders) http://wd3.herokuapp.com/pages/AWD0001xwz  ----------
+  23 Sep 1915 0
+    reference:2nd Inf. Bde. OO No. 32 (41,10)
+    reference:2nd Infantry Brigade Operation Order No. 32 (48,10)
+    date:5 Sep 1915 (63,15)
+    person:Brigadier J H W Pollard (commander) (40,15)
+    reference:Auchy-Lens trench map (30,17)
+    reference:Augey-Lens Trench Map (37,23)
+    orders:move (46,8)
+Page 375 (type signals) http://wd3.herokuapp.com/pages/AWD0001xx4  ----------
+  Hashtags: #alliedrelations 
+  23 Sep 1915 0
+    date:10 Sep 1915 (62,33)
+    unit:2 Rifles (59,36)
+    unit:3 German guard Division (64,56)
+    unit:48 reserve Division division (48,58)
+    time:1155AM (48,81)
+Page 376 (type other) http://wd3.herokuapp.com/pages/AWD0001xy1  ----------
+  23 Sep 1915 0
+Page 377 (type orders) http://wd3.herokuapp.com/pages/AWD0001xxh  ----------
+  23 Sep 1915 0
+    date:11 Sep 1915 (59,11)
+    orders:other (37,19)
+    person:Captain T H Preston (commander) (56,79)
+    reference:Append 1 (35,8)
+Page 378 (type report) http://wd3.herokuapp.com/pages/AWD0001xxw  ----------
+  23 Sep 1915 0
+    reference:1st Div, No. 117 (58,11)
+    reference:Map France 38.c.N.W. Sheet 3 and part Sheet 1 (37,15)
+    reference:France 36.c. N.W  (43,15)
+Page 379 (type report) http://wd3.herokuapp.com/pages/AWD0001xvd  ----------
+  Hashtags: #sketch 
+  23 Sep 1915 0
+    reference:H.31.d.3.9 (48,12)
+    reference:H.33.a. (50,14)
+    reference:H.33.a.4.8. (54,15)
+    reference:35.a.5.7 (63,15)
+    reference:35.a.6.5. (63,28)
+    reference:H.26.c. (48,33)
+    reference:H.31.b. (47,37)
+    reference:H.32.b. (47,40)
+    reference:H.14.c.3.3 (54,46)
+    reference:H.25.c.9.6 (51,48)
+    reference:H.25.a.7.5 (52,5)
+    reference:H.31.b. (51,7)
+    reference:G.15.b.1.9. (40,79)
+Page 380 (type report) http://wd3.herokuapp.com/pages/AWD0001xyt  ----------
+  23 Sep 1915 0
+Page 381 (type report) http://wd3.herokuapp.com/pages/AWD0001xyc  ----------
+  23 Sep 1915 0
+    person:Major V Vivian (53,68)
+    date:11 Sep 1915 (36,74)
+Page 382 (type report) http://wd3.herokuapp.com/pages/AWD0001xx5  ----------
+  23 Sep 1915 0
+Page 383 (type orders) http://wd3.herokuapp.com/pages/AWD0001xwp  ----------
+  23 Sep 1915 0
+    reference:Appex 1 (G) (58,4)
+    date:12 Sep 1915 (39,65)
+Page 384 (type report) http://wd3.herokuapp.com/pages/AWD0001xxe  ----------
+  23 Sep 1915 0
+    reference:Para.3 of Report on Country between Vermelles ... (40,14)
+    person:Major V Vivian (author) (57,70)
+    date:13 Sep 1915 (38,73)
+Page 385 (type report) http://wd3.herokuapp.com/pages/AWD0001xxt  ----------
+  23 Sep 1915 0
+    title:Reconnaissance Report (42,11)
+    reference:1st Div, No. 417 (59,12)
+    reference:1st Division No. 417 (G) (54,15)
+    reference:1st Div No.417(G) dated 11th Sept 1915  (38,15)
+    person:Major V Vivian (author) (57,54)
+    date:14 Sep 1915 (41,61)
+Page 386 (type report) http://wd3.herokuapp.com/pages/AWD0001xvs  ----------
+  23 Sep 1915 0
+Page 387 (type report) http://wd3.herokuapp.com/pages/AWD0001xwh  ----------
+  23 Sep 1915 0
+Page 388 (type report) http://wd3.herokuapp.com/pages/AWD0001xx3  ----------
+  23 Sep 1915 0
+Page 389 (type orders) http://wd3.herokuapp.com/pages/AWD0001xvy  ----------
+  23 Sep 1915 0
+    date:22 Sep 1915 (34,8)
+Page 390 (type orders) http://wd3.herokuapp.com/pages/AWD0001xw8  ----------
+  23 Sep 1915 0
+    reference:1st Division No.509G (56,11)
+    person:Major General S Holland (commander) (51,79)
+    date:17 Sep 1915 (38,82)
+Page 391 (type orders) http://wd3.herokuapp.com/pages/AWD0001xvp  ----------
+  23 Sep 1915 0
+    reference:2nd Infantry Brigade Operation Order No.31 (43,11)
+    date:19 Sep 1915 (62,13)
+    person:Brigadier General J H W Pollard (commander) (45,14)
+    orders:move (44,8)
+    reference:Operation Order No. 31 (58,9)
+Page 392 (type orders) http://wd3.herokuapp.com/pages/AWD0001xvz  ----------
+  23 Sep 1915 0
+    date:19 Sep 1915 (38,58)
+Page 393 (type orders) http://wd3.herokuapp.com/pages/AWD0001xxr  ----------
+  Hashtags: #gas 
+  23 Sep 1915 0
+    reference:1st Division No. 509(G) (61,7)
+    date:20 Sep 1915 (40,83)
+Page 394 (type report) http://wd3.herokuapp.com/pages/AWD0001xzb  ----------
+  23 Sep 1915 0
+    date:18 Sep 1915 (45,15)
+    reference:32nd Reactive Regiment (54,21)
+    reference:11th Reserve Regiment (60,22)
+    reference:117th division (59,24)
+    reference:117th Foot Artillery Battalion (46,28)
+    reference:Cite St. Augustn (58,38)
+    reference:VENDIN-LE-VIEIL (43,39)
+    reference:PONT-A-VENDIN (52,39)
+    person:Major V Vivian (author) (56,63)
+    person:Major V Vivian (56,70)
+    date:20 Sep 1915 (39,70)
+Page 395 (type report) http://wd3.herokuapp.com/pages/AWD0001xv9  ----------
+  23 Sep 1915 0
+    reference: 36.c.  (43,24)
+    reference:H.7.c.7.4 (51,38)
+    reference:I.19.o (51,72)
+    reference:B.30.a. (41,79)
+    reference:B.30.a. (61,80)
+Page 396 (type report) http://wd3.herokuapp.com/pages/AWD0001xya  ----------
+  23 Sep 1915 0
+Page 397 (type orders) http://wd3.herokuapp.com/pages/AWD0001xwb  ----------
+  23 Sep 1915 0
+    reference:1st Army IVth Corps (57,11)
+    orders:attack (41,11)
+    reference:Map 36.c.   1/40,000 (39,18)
+Page 398 (type orders) http://wd3.herokuapp.com/pages/AWD0001xvw  ----------
+  23 Sep 1915 0
+    orders:attack (40,5)
+Page 399 (type orders) http://wd3.herokuapp.com/pages/AWD0001xvk  ----------
+  23 Sep 1915 0
+    orders:attack (36,12)
+Page 400 (type orders) http://wd3.herokuapp.com/pages/AWD0001xxf  ----------
+  23 Sep 1915 0
+    orders:attack (39,12)
+    date:18 Sep 1915 (62,16)
+    reference:Operation Order No. 110 (51,16)
+    reference:Operation Order No.110 of 18 Sept 1915 (38,17)
+Page 401 (type orders) http://wd3.herokuapp.com/pages/AWD0001xw2  ----------
+  23 Sep 1915 0
+    reference:2nd Infantry Brigade (43,14)
+    reference:1st Infantry Brigade (43,20)
+    reference:vide para. 4 of G. 509 (52,31)
+    reference:2nd Infantry Brigade (44,36)
+    reference:1st Infantry Brigade (43,42)
+    reference:PHILOSOPHE (61,56)
+    reference:FRENCH ALLEY (47,57)
+Page 402 (type orders) http://wd3.herokuapp.com/pages/AWD0001xxv  ----------
+  23 Sep 1915 0
+    orders:attack (34,5)
+Page 403 (type orders) http://wd3.herokuapp.com/pages/AWD0001xy3  ----------
+  23 Sep 1915 0
+    reference:Puits Hulluch (42,32)
+    orders:attack (38,7)
+Page 404 (type orders) http://wd3.herokuapp.com/pages/AWD0001xyq  ----------
+  Hashtags: #Disease 
+  23 Sep 1915 0
+    orders:attack (39,8)
+    person:Wgs Dobbin (author) (56,81)
+    date:18 Sep 1915 (40,84)
+Page 405 (type orders) http://wd3.herokuapp.com/pages/AWD0001xy4  ----------
+  23 Sep 1915 0
+Page 406 (type orders) http://wd3.herokuapp.com/pages/AWD0001xxm  ----------
+  23 Sep 1915 0
+Page 407 (type orders) http://wd3.herokuapp.com/pages/AWD0001xy2  ----------
+  23 Sep 1915 0
+Page 408 (type other) http://wd3.herokuapp.com/pages/AWD0001xxc  ----------
+  Hashtags: #map 
+  23 Sep 1915 0
+Page 409 (type orders) http://wd3.herokuapp.com/pages/AWD0001xvo  ----------
+  23 Sep 1915 0
+    person:Brigadier General J H W Pollard (commander) (42,14)
+    date:21 Sep 1915 (62,15)
+    person:Major R Terry (53,67)
+    reference:2nd Inf. Bde OO No. 35a (45,7)
+    orders:move (40,8)
+    reference:Operation Order No 33a (51,9)
+Page 410 (type ) http://wd3.herokuapp.com/pages/AWD0001xy9  ----------
+Page 411 (type orders) http://wd3.herokuapp.com/pages/AWD0001xxq  ----------
+  23 Sep 1915 78
+    date:22 Sep 1915 (63,13)
+    person:Brigadier General J H W Pollard (commander) (42,15)
+    time:0830PM (66,26)
+    time:0915PM (63,31)
+  24 Sep 1915 66
+    time:0200AM (55,41)
+  23 Sep 1915 78
+    time:0400PM (52,46)
+  24 Sep 1915 66
+    place:Northampton (55,49)
+    time:1000PM (53,50)
+    time:1150PM (58,50)
+    activity:movement (45,55)
+    time:1100PM (50,63)
+    time:0430PM (54,68)
+  23 Sep 1915 78
+    time:1000PM (62,80)
+    person:Major R Terry (author) (55,84)
+    time:1100AM (41,87)
+    reference:2nd Inf. Bde OO No. 34 (39,9)
+    reference:Operation Order No 34 (55,9)
+    place:Northampton (42,93)
+Page 412 (type other) http://wd3.herokuapp.com/pages/AWD0001xy5  ----------
+  23 Sep 1915 0
+    domestic:accomodation (44,54)
+Page 413 (type ) http://wd3.herokuapp.com/pages/AWD0001xxj  ----------
+  23 Sep 1915 0
+  24 Sep 1915 60
+    date:24 Sep 1915 (43,61)
+Page 414 (type ) http://wd3.herokuapp.com/pages/AWD0001xxd  ----------
+  24 Sep 1915 0
+Page 415 (type orders) http://wd3.herokuapp.com/pages/AWD0001xvi  ----------
+  24 Sep 1915 0
+Page 416 (type ) http://wd3.herokuapp.com/pages/AWD0001xx0  ----------
+  24 Sep 1915 0
+Page 417 (type ) http://wd3.herokuapp.com/pages/AWD0001xwo  ----------
+  24 Sep 1915 0
+    domestic:accomodation (61,61)
+Page 418 (type ) http://wd3.herokuapp.com/pages/AWD0001xvl  ----------
+  24 Sep 1915 0
+    domestic:medical (41,25)
+Page 419 (type ) http://wd3.herokuapp.com/pages/AWD0001xwg  ----------
+  24 Sep 1915 0
+Page 420 (type other) http://wd3.herokuapp.com/pages/AWD0001xyf  ----------
+  24 Sep 1915 0
+Page 421 (type other) http://wd3.herokuapp.com/pages/AWD0001xwy  ----------
+  24 Sep 1915 0
+Page 422 (type ) http://wd3.herokuapp.com/pages/AWD0001xvh  ----------
+  24 Sep 1915 0
+  22 Sep 1915 71
+Page 423 (type other) http://wd3.herokuapp.com/pages/AWD0001xvu  ----------
+  Hashtags: #map #sketch 
+  22 Sep 1915 0
+Page 424 (type other) http://wd3.herokuapp.com/pages/AWD0001xwl  ----------
+  Hashtags: #map #sketch 
+Page 425 (type other) http://wd3.herokuapp.com/pages/AWD0001xxk  ----------
+Page 426 (type other) http://wd3.herokuapp.com/pages/AWD0001xyk  ----------
+  22 Sep 1915 0
+Page 427 (type other) http://wd3.herokuapp.com/pages/AWD0001xvm  ----------
+  22 Sep 1915 0
+Page 428 (type cover)
+Page 429 (type ) http://wd3.herokuapp.com/pages/AWD0001xxu  ----------
+  Hashtags: #illegible #faint 
+  22 Sep 1915 0
+Page 430 (type signals) http://wd3.herokuapp.com/pages/AWD0001xxl  ----------
+  22 Sep 1915 0
+Page 431 (type signals) http://wd3.herokuapp.com/pages/AWD0001xw3  ----------
+  22 Sep 1915 0
+    date:24 Sep 1915 (46,41)
+    time:0530AM (42,78)
+Page 432 (type signals) http://wd3.herokuapp.com/pages/AWD0001xxb  ----------
+  22 Sep 1915 0
+    date:24 Sep 1915 (46,42)
+    time:0600PM (41,64)
+    time:0110PM (41,78)
+Page 433 (type signals) http://wd3.herokuapp.com/pages/AWD0001xx8  ----------
+  22 Sep 1915 0
+    date:24 Sep 1915 (47,40)
+    time:0115PM (41,76)
+Page 434 (type signals) http://wd3.herokuapp.com/pages/AWD0001xwr  ----------
+  22 Sep 1915 0
+    date:24 Sep 1915 (46,41)
+    time:0305PM (41,78)
+Page 435 (type signals) http://wd3.herokuapp.com/pages/AWD0001xvc  ----------
+  22 Sep 1915 0
+    date:24 Sep 1915 (46,40)
+Page 436 (type signals) http://wd3.herokuapp.com/pages/AWD0001xxn  ----------
+  22 Sep 1915 0
+    date:24 Sep 1915 (46,41)
+    time:0300PM (40,78)
+Page 437 (type signals) http://wd3.herokuapp.com/pages/AWD0001xy0  ----------
+  22 Sep 1915 0
+    date:24 Sep 1915 (48,40)
+    time:0430PM (42,77)
+Page 438 (type signals) http://wd3.herokuapp.com/pages/AWD0001xx7  ----------
+  22 Sep 1915 0
+    date:24 Sep 1915 (45,41)
+    signals:situation (44,46)
+    time:0500PM (40,78)
+Page 439 (type signals) http://wd3.herokuapp.com/pages/AWD0001xv8  ----------
+  22 Sep 1915 0
+    date:24 Sep 1915 (46,41)
+    time:0540PM (41,79)
+Page 440 (type signals) http://wd3.herokuapp.com/pages/AWD0001xyp  ----------
+  22 Sep 1915 0
+    date:24 Sep 1915 (47,43)
+    time:0550PM (43,79)
+Page 441 (type signals) http://wd3.herokuapp.com/pages/AWD0001xvf  ----------
+  22 Sep 1915 0
+    date:24 Sep 1915 (46,39)
+    time:0700PM (42,75)
+Page 442 (type signals) http://wd3.herokuapp.com/pages/AWD0001xyo  ----------
+  22 Sep 1915 0
+    date:24 Sep 1915 (46,39)
+    time:0745PM (41,76)
+Page 443 (type signals) http://wd3.herokuapp.com/pages/AWD0001xwc  ----------
+  22 Sep 1915 0
+    date:24 Sep 1915 (46,40)
+    time:0750PM (40,76)
+Page 444 (type signals) http://wd3.herokuapp.com/pages/AWD0001xw5  ----------
+  22 Sep 1915 0
+    date:24 Sep 1915 (47,40)
+    signals:other (42,46)
+    time:0905PM (41,78)
+Page 445 (type signals) http://wd3.herokuapp.com/pages/AWD0001xx2  ----------
+  22 Sep 1915 0
+    date:25 Sep 1915 (48,38)
+    time:1250AM (42,75)
+Page 446 (type signals) http://wd3.herokuapp.com/pages/AWD0001xw4  ----------
+  22 Sep 1915 0
+    date:25 Sep 1915 (46,40)
+Page 447 (type signals) http://wd3.herokuapp.com/pages/AWD0001xvj  ----------
+  22 Sep 1915 0
+    date:25 Sep 1915 (48,43)
+Page 448 (type signals) http://wd3.herokuapp.com/pages/AWD0001xwa  ----------
+  22 Sep 1915 0
+    date:25 Sep 1915 (47,43)
+    time:0445AM (41,80)
+Page 449 (type signals) http://wd3.herokuapp.com/pages/AWD0001xve  ----------
+  25 Sep 1915 41
+    date:25 Sep 1915 (48,43)
+    time:0445AM (41,80)
+Page 450 (type signals) http://wd3.herokuapp.com/pages/AWD0001xxg  ----------
+  25 Sep 1915 0
+    date:25 Sep 1915 (48,44)
+    time:0445AM (41,81)
+Page 451 (type signals) http://wd3.herokuapp.com/pages/AWD0001xwi  ----------
+  25 Sep 1915 0
+    date:25 Sep 1915 (47,40)
+    signals:situation (49,46)
+    time:0515AM (41,76)
+Page 452 (type signals) http://wd3.herokuapp.com/pages/AWD0001xx9  ----------
+  25 Sep 1915 0
+    time:0630AM (47,33)
+    time:0620AM (52,78)
+Page 453 (type other) http://wd3.herokuapp.com/pages/AWD0001xw6  ----------
+  25 Sep 1915 0
+    time:0830AM (43,59)
+Page 454 (type signals) http://wd3.herokuapp.com/pages/AWD0001xwd  ----------
+  Hashtags: #gas 
+  25 Sep 1915 0
+    date:25 Sep 1915 (48,43)
+    person:Colonel Priaulx (casualty_wounded) (55,47)
+    person:Major Heseltine (casualty_wounded) (40,49)
+    person:Lieutenant Eyre (casualty_wounded) (51,49)
+    person:Lieutenant Bristowe (casualty_wounded) (39,52)
+    person:Second Lieutenant Palmer (casualty_wounded) (40,53)
+    person:Captain Brady (casualty_wounded) (54,53)
+    time:0930AM (42,80)
+Page 455 (type signals) http://wd3.herokuapp.com/pages/AWD0001xy6  ----------
+  25 Sep 1915 0
+    date:25 Sep 1915 (46,40)
+    time:1010AM (42,78)
+Page 456 (type signals) http://wd3.herokuapp.com/pages/AWD0001xxa  ----------
+  25 Sep 1915 0
+    date:25 Sep 1915 (46,40)
+    unit:9 Kings (39,50)
+    time:1230PM (41,78)
+Page 457 (type signals) http://wd3.herokuapp.com/pages/AWD0001xxy  ----------
+  25 Sep 1915 0
+    person:Lance Corporal Newman (combat) (43,36)
+    date:25 Sep 1915 (47,41)
+    unit:Gloucesters (43,53)
+    time:0220PM (41,77)
+Page 458 (type signals) http://wd3.herokuapp.com/pages/AWD0001xy7  ----------
+  25 Sep 1915 0
+    date:26 Sep 1915 (45,42)
+Page 459 (type signals) http://wd3.herokuapp.com/pages/AWD0001xwn  ----------
+  25 Sep 1915 0
+    date:26 Sep 1915 (46,40)
+    time:1230PM (41,77)
+Page 460 (type signals) http://wd3.herokuapp.com/pages/AWD0001xx6  ----------
+  25 Sep 1915 0
+    person:Simmons (commander) (52,26)
+    date:24 Sep 1915 (47,38)
+    time:0715PM (56,75)
+Page 461 (type signals) http://wd3.herokuapp.com/pages/AWD0001xy8  ----------
+  25 Sep 1915 0
+    date:25 Sep 1915 (45,40)
+    time:0440AM (51,78)
+Page 462 (type signals) http://wd3.herokuapp.com/pages/AWD0001xzy  ----------
+  25 Sep 1915 0
+    date:25 Sep 1915 (47,41)
+    time:0455AM (56,76)
+Page 463 (type signals) http://wd3.herokuapp.com/pages/AWD0001xwk  ----------
+  25 Sep 1915 0
+    date:25 Sep 1915 (46,40)
+    signals:order (40,45)
+Page 464 (type signals) http://wd3.herokuapp.com/pages/AWD0001xwf  ----------
+  25 Sep 1915 0
+    date:25 Sep 1915 (47,39)
+    unit:N Lancs (45,47)
+    time:0756AM (41,76)
+Page 465 (type signals) http://wd3.herokuapp.com/pages/AWD0001xv3  ----------
+  Hashtags: #duplicate 
+  25 Sep 1915 0
+    date:25 Sep 1915 (45,41)
+    time:0756AM (51,78)
+Page 466 (type signals) http://wd3.herokuapp.com/pages/AWD0001xv6  ----------
+  25 Sep 1915 0
+    date:25 Sep 1915 (46,42)
+Page 467 (type signals) http://wd3.herokuapp.com/pages/AWD0001xvg  ----------
+  Hashtags: #Greensforce 
+  25 Sep 1915 0
+    date:25 Sep 1915 (47,39)
+    time:0330PM (55,74)
+Page 468 (type signals) http://wd3.herokuapp.com/pages/AWD0001xyd  ----------
+  25 Sep 1915 0
+    date:26 Sep 1915 (48,40)
+Page 469 (type signals) http://wd3.herokuapp.com/pages/AWD0001xyn  ----------
+  25 Sep 1915 0
+    date:26 Sep 1915 (47,41)
+    time:0700AM (40,78)
+Page 470 (type signals) http://wd3.herokuapp.com/pages/AWD0001xyh  ----------
+  25 Sep 1915 0
+    date:26 Sep 1915 (60,33)
+    date:26 Sep 1915 (48,43)
+    unit:2 krr (48,46)
+    time:0350PM (55,80)
+Page 471 (type signals) http://wd3.herokuapp.com/pages/AWD0001xw1  ----------
+  25 Sep 1915 0
+    date:26 Sep 1915 (57,33)
+    person:Rifleman F Sullivan (other) (57,37)
+    date:26 Sep 1915 (44,44)
+    signals:other (36,47)
+    time:0450PM (53,81)
+Page 472 (type signals) http://wd3.herokuapp.com/pages/AWD0001xyw  ----------
+  25 Sep 1915 0
+    person:Sergeant F Walters (other) (60,33)
+    date:26 Sep 1915 (46,41)
+    unit:2 krr (42,56)
+    time:0515PM (52,77)
+Page 473 (type signals) http://wd3.herokuapp.com/pages/AWD0001xws  ----------
+  25 Sep 1915 0
+    date:26 Sep 1915 (57,30)
+    person:Sergeant F Walters (other) (57,34)
+    signals:situation (37,44)
+Page 474 (type signals) http://wd3.herokuapp.com/pages/AWD0001xv7  ----------
+  25 Sep 1915 0
+    date:27 Sep 1915 (48,41)
+    signals:other (43,43)
+Page 475 (type signals) http://wd3.herokuapp.com/pages/AWD0001xwj  ----------
+  25 Sep 1915 0
+    date:27 Sep 1915 (45,44)
+    person:Brigadier General Pollard (commander) (47,79)
+Page 476 (type signals) http://wd3.herokuapp.com/pages/AWD0001xww  ----------
+  25 Sep 1915 0
+    time:1240AM (61,37)
+    date:27 Sep 1915 (48,44)
+Page 477 (type signals) http://wd3.herokuapp.com/pages/AWD0001xw0  ----------
+  25 Sep 1915 0
+    time:0215PM (58,38)
+    date:27 Sep 1915 (45,45)
+    signals:other (39,47)
+Page 478 (type signals) http://wd3.herokuapp.com/pages/AWD0001xyx  ----------
+  25 Sep 1915 0
+    date:27 Sep 1915 (48,41)

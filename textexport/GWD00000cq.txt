@@ -1,0 +1,1987 @@
+GWD00000cq wo/95/1260/4
+1 DIVISION:  Divisional Troops: Divisional Train (7, 13, 16, 36, Companies A.S.C.).  
+151 pages
+
+Page 340 (type cover)
+Page 341 (type diary) http://wd3.herokuapp.com/pages/AWD0001xds  ----------
+  1 Jan 1918 30
+    place:Woesten (12,27)
+    activity:resupplying (24,34)
+    unit:57 Division Artillery (53,35)
+    domestic:inspections (24,43)
+  2 Jan 1918 47
+    activity:resupplying (24,52)
+    person:Lieutenant Colonel A G Master (award) (43,63)
+    person:Lieutenant Colonel A G Master (award) (58,65)
+    person:Major A E Lloyd (award) (55,69)
+    person:Sergeant H W Flackfield (award) (60,75)
+    person:Sergeant H W Flackfield (award) (46,75)
+    person:H Peagram (award) (64,81)
+    person:H Peagram (award) (45,81)
+Page 342 (type diary) http://wd3.herokuapp.com/pages/AWD0001xf4  ----------
+  2 Jan 1918 0
+    place:Woesten (12,26)
+  3 Jan 1918 27
+    person:Captain A A Fraser (award) (64,31)
+    person:Sergeant C Robinson (award) (64,35)
+    person:Sergeant C Robinson (award) (79,36)
+  5 Jan 1918 55
+    activity:training (75,61)
+    domestic:inspections (24,68)
+    unit:141 Field Ambulance (64,69)
+  7 Jan 1918 71
+    domestic:inspections (24,77)
+Page 343 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfe  ----------
+  7 Jan 1918 0
+    place:Woesten (10,27)
+  9 Jan 1918 29
+    time:0230PM (58,31)
+  10 Jan 1918 32
+    domestic:inspections (35,32)
+    domestic:inspections (21,32)
+    domestic:inspections (29,36)
+  11 Jan 1918 66
+    domestic:inspections (29,40)
+  12 Jan 1918 41
+    time:1130AM (58,43)
+    domestic:inspections (29,44)
+  10 Jan 1918 32
+  11 Jan 1918 66
+    domestic:inspections (23,69)
+  16 Jan 1918 74
+    domestic:inspections (24,77)
+Page 344 (type diary) http://wd3.herokuapp.com/pages/AWD0001xct  ----------
+  16 Jan 1918 0
+    place:Woesten (11,27)
+  17 Jan 1918 29
+    domestic:inspections (24,31)
+    person:Major Herklots (other) (38,31)
+  19 Jan 1918 41
+    domestic:inspections (24,44)
+    place:Rousbrugge (69,52)
+  20 Jan 1918 62
+  25 Jan 1918 70
+    unit:3 Brigade (58,73)
+    time:0830AM (37,77)
+    time:0850AM (37,81)
+    time:0910AM (36,85)
+    time:0950AM (36,89)
+Page 345 (type diary) http://wd3.herokuapp.com/pages/AWD0001xe0  ----------
+  25 Jan 1918 0
+    place:Woesten (11,28)
+  26 Jan 1918 29
+    activity:resupplying (26,32)
+    unit:92 Brigade 32 Division (35,32)
+    time:0930AM (46,36)
+    time:0215PM (64,43)
+  29 Jan 1918 50
+    unit:2 Royal Munster Fusiliers (37,65)
+    unit:8 Royal Berks (36,68)
+    unit:10 Gloucester Regiment (36,73)
+    unit:2 Royal Munster Fusiliers (37,77)
+    unit:8 Royal Berks (38,81)
+Page 346 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdu  ----------
+  29 Jan 1918 0
+    place:Woesten (10,26)
+  1 Feb 1918 29
+    unit:2 Royal Munster Fusiliers (49,32)
+    activity:resupplying (23,32)
+    time:0200PM (31,35)
+  2 Feb 1918 40
+    activity:resupplying (30,43)
+    unit:2 Royal Munster Fusiliers (32,44)
+    unit:2 Royal Munster Fusiliers (35,52)
+    person:Major A E Lloyd (departed_sick) (33,56)
+    person:Major R G F Saunders (other) (34,60)
+    person:Captain Gm Dermott (31,64)
+    person:Captain G McDermott (other) (34,65)
+  3 Feb 1918 70
+  5 Feb 1918 77
+    time:0230PM (62,81)
+    person:Lieutenant H J Lewis (other) (35,81)
+    domestic:other (21,82)
+Page 347 (type diary) http://wd3.herokuapp.com/pages/AWD0001xck  ----------
+  5 Feb 1918 29
+    place:Woesten (10,27)
+    activity:movement (24,31)
+    unit:10 Gloucester Regiment (49,48)
+  6 Feb 1918 56
+    activity:movement (23,60)
+    unit:8 R Berks (79,60)
+    unit:6 Royal Berks Regiment (48,61)
+    unit:8 Bat Royal North Lancs Regiment (74,61)
+    unit:18 Division (47,64)
+Page 348 (type diary) http://wd3.herokuapp.com/pages/AWD0001xez  ----------
+  6 Feb 1918 0
+    place:Woesten (11,28)
+  7 Feb 1918 33
+    activity:movement (35,33)
+    activity:resupplying (24,37)
+  8 Feb 1918 41
+    time:0230PM (32,41)
+    activity:movement (24,45)
+  9 Feb 1918 54
+    mapRef:28 (60,54)
+    mapRef:28/B13-a-4-5 (61,54)
+    place:Roussel Camp (46,54)
+    gridRef:B_13_A_4_5 (69,54)
+    activity:resupplying (25,57)
+    mapRef:28/B13-a-4-5 (48,58)
+    place:Elverdinghe (45,58)
+    time:0800AM (38,61)
+    activity:movement (24,65)
+    mapRef:28 (51,66)
+    unit:1 Brigade (32,66)
+    gridRef:C_22_B_9_1 (60,66)
+    mapRef:28 (63,70)
+    place:Hospital Farm (55,70)
+    unit:3 Brigade (31,70)
+    gridRef:B_19_D__ (74,70)
+    gridRef:B_8_C_9_4 (56,74)
+    mapRef:28 (47,75)
+    mapRef:28 (47,78)
+    gridRef:B_8_C_8_7 (56,78)
+    mapRef:28 (47,82)
+    gridRef:B_14_A_0_7 (56,82)
+Page 349 (type diary) http://wd3.herokuapp.com/pages/AWD0001xd1  ----------
+  9 Feb 1918 33
+    place:Elverdinghe (10,29)
+    mapRef:28 (7,32)
+    gridRef:B_14_A_0_7 (12,33)
+    activity:resupplying (31,37)
+  10 Feb 1918 66
+    time:0730AM (44,70)
+    activity:resupplying (26,71)
+  11 Feb 1918 74
+    time:0800AM (44,79)
+    activity:resupplying (25,79)
+    time:0830AM (43,83)
+    time:0900AM (44,86)
+    time:0930AM (44,91)
+Page 350 (type diary) http://wd3.herokuapp.com/pages/AWD0001xcx  ----------
+  11 Feb 1918 29
+    place:Elverdinghe (11,29)
+    unit:6 Royal Berks (67,33)
+    domestic:inspections (25,33)
+    place:Roussel Camp (34,37)
+  12 Feb 1918 40
+    domestic:inspections (25,45)
+    person:Lieutenant Douglas (other) (69,50)
+    person:Lieutenant Lewis (other) (75,54)
+    domestic:parades (24,54)
+  13 Feb 1918 74
+    person:Captain O'Dowd (other) (79,78)
+    domestic:inspections (24,78)
+  14 Feb 1918 82
+    unit:5 Auxiliary Petrol Company (80,87)
+    place:Abbeville (47,91)
+Page 351 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdo  ----------
+  14 Feb 1918 0
+    place:Elverdinghe (12,28)
+  15 Feb 1918 29
+    person:Captain W J Teele (departed_posted) (40,32)
+    time:1210AM (57,32)
+    place:Chatham (73,33)
+  16 Feb 1918 40
+    unit:6 Welch Regiment (62,44)
+    domestic:inspections (24,44)
+    unit:6 Welsh Regiment (71,45)
+    place:Morat Camp (84,45)
+  18 Feb 1918 48
+    unit:216 mgc (70,53)
+    domestic:inspections (24,53)
+    activity:resupplying (24,61)
+  19 Feb 1918 65
+    time:0800AM (41,69)
+    activity:resupplying (24,69)
+    time:0830AM (40,73)
+    time:0900AM (40,77)
+Page 352 (type diary) http://wd3.herokuapp.com/pages/AWD0001xg3  ----------
+  19 Feb 1918 0
+  20 Feb 1918 24
+    activity:resupplying (25,29)
+    place:Elverdinghe (10,29)
+  21 Feb 1918 40
+    activity:resupplying (25,43)
+    person:Lieutenant Colonel A G Master (29,49)
+  22 Feb 1918 54
+  23 Feb 1918 64
+    domestic:inspections (26,69)
+  24 Feb 1918 71
+    domestic:inspections (25,76)
+  26 Feb 1918 77
+    person:Major Saunders (79,86)
+Page 353 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdg  ----------
+  1 Mar 1918 26
+    place:Elverdinghe (9,28)
+    activity:resupplying (24,33)
+  2 Mar 1918 41
+    unit:7507 Field Ambulnce (63,49)
+    unit:761 Area Employment Co (63,52)
+  3 Mar 1918 53
+    unit:Machine Gun Battalion (74,56)
+    unit:216 M.G Co, (23,64)
+    domestic:inspections (23,68)
+  4 Mar 1918 71
+    activity:resupplying (24,76)
+Page 354 (type diary) http://wd3.herokuapp.com/pages/AWD0001xda  ----------
+  4 Mar 1918 29
+    place:Elverdinghe (10,28)
+    domestic:inspections (27,29)
+    domestic:parades (25,33)
+  5 Mar 1918 35
+  6 Mar 1918 42
+    domestic:parades (25,42)
+    activity:resupplying (25,46)
+    domestic:inspections (25,50)
+    unit:7 Leinster Regiment (58,50)
+  8 Mar 1918 54
+    domestic:parades (25,58)
+  9 Mar 1918 59
+    domestic:parades (25,81)
+  10 Mar 1918 83
+    person:Lieutenant Colonel A G Master (46,86)
+Page 355 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdn  ----------
+  10 Mar 1918 0
+    place:Elverdinghe (10,28)
+  11 Mar 1918 29
+    domestic:inspections (24,32)
+    unit:7 Leinster Regimental Transport (56,33)
+    place:Rudolph Farm (67,37)
+    domestic:rations (24,37)
+    person:Major R G F Saunders (39,45)
+  12 Mar 1918 49
+    person:Captain G McDermott (departed_leave) (32,49)
+    person:Lieutenant J S Woodger (promotion) (34,53)
+  13 Mar 1918 57
+    person:Captain A A Fraser (departed_leave) (69,58)
+    place:Caistre (59,61)
+  14 Mar 1918 73
+    domestic:inspections (25,78)
+    place:Crombeke (82,79)
+    unit:No.2 fa (73,79)
+  15 Mar 1918 82
+    unit:3 Brigade Battalions (54,87)
+    activity:resupplying (24,87)
+Page 356 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfz  ----------
+  16 Mar 1918 28
+    place:Elverdinghe (11,29)
+    activity:resupplying (24,32)
+    unit:2 Brigade (51,33)
+  17 Mar 1918 37
+    unit:Transport no.1 fa (61,40)
+    domestic:inspections (24,40)
+    place:Gwalia Farm (79,42)
+    place:Siege Camp (58,45)
+  18 Mar 1918 46
+    unit:2 Brigade (49,48)
+    unit:3 Brigade (76,49)
+    activity:resupplying (24,50)
+  19 Mar 1918 54
+    person:Major A E Lloyd (departed_sick) (39,57)
+    person:Major R G F Saunders (40,66)
+  20 Mar 1918 71
+    person:Captain G McDermott (38,71)
+  21 Mar 1918 78
+    activity:resupplying (23,82)
+    unit:Da group (32,83)
+    gridRef:A_18_A_8_3 (61,87)
+    mapRef:28 (71,87)
+Page 357 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfb  ----------
+  Hashtags: #Railhead 
+  21 Mar 1918 0
+  22 Mar 1918 29
+    place:Kruisdoorn (35,33)
+    unit:Da droup (50,37)
+    unit:Da group (26,37)
+    activity:resupplying (24,38)
+    unit:1 Brigade Group (69,40)
+    unit:11 Brigade afa (26,40)
+    unit:11 Brigade afa (48,41)
+    unit:2 Brigade Group (25,43)
+    unit:3 Brigade Group (68,45)
+    unit:2 Brigade group (52,46)
+    unit:1 Brigade Group (26,46)
+    unit:3 Brigade Group (25,49)
+    activity:resupplying (23,50)
+    unit:Da group (32,53)
+    gridRef:S_29_A_5_8 (42,54)
+    mapRef:20 (53,54)
+    mapRef:20 (37,54)
+    unit:3 Brigade Group (63,57)
+    gridRef:B_1_D_2_4 (72,57)
+    mapRef:28 (84,57)
+  24 Mar 1918 59
+    place:Cardoen Camp (54,61)
+  25 Mar 1918 63
+    activity:resupplying (23,68)
+  26 Mar 1918 72
+    unit:17 H L I (57,82)
+    unit:20 Lancs Fusiliers (40,83)
+    unit:11 Innerskillin Fusiliers (65,86)
+    unit:11 Inniskilling Fusiliers (59,87)
+    unit:14 Gloucesters (39,91)
+    unit:16 Northumberland Fusiliers (62,91)
+Page 358 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfd  ----------
+  26 Mar 1918 30
+    place:'Some' Camp (10,28)
+  27 Mar 1918 38
+    activity:resupplying (24,41)
+    domestic:inspections (23,45)
+  28 Mar 1918 50
+  29 Mar 1918 53
+    domestic:inspections (24,53)
+    unit:20 Lancs (68,53)
+    place:Elverdinghe Chateau (72,58)
+    place:'Some' Camp (50,58)
+    activity:movement (23,58)
+  30 Mar 1918 66
+    place:Reigersburg (38,70)
+    unit:1 da (33,74)
+    unit:11 afa Brigade (32,77)
+    unit:3 Brigade (33,82)
+    unit:1 Brigade (33,86)
+    unit:2 Brigade (33,90)
+Page 359 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdp  ----------
+  30 Mar 1918 33
+    place:Elverdinghe Chateau (11,29)
+    activity:resupplying (23,37)
+    unit:Transport 11 ...Fusiliers (82,40)
+    domestic:inspections (23,41)
+    unit:16 nf (67,41)
+    unit:11 Inniskilling Fusiliers (76,41)
+    unit:Transport 16 nf (64,42)
+  31 Mar 1918 44
+    activity:resupplying (23,49)
+    unit:Da group (32,53)
+    place:Cardoen Camp (43,54)
+    activity:resupplying (23,54)
+    mapRef:28 (40,57)
+    unit:1 Brigade (31,57)
+    gridRef:B_22_D_1_6 (49,58)
+    mapRef:28 (40,61)
+    unit:2 Brigade (31,61)
+    place:Pioneer Junction (60,62)
+    gridRef:B_22_C_7_9 (48,62)
+    mapRef:28 (40,65)
+    gridRef:B_22_B_2_0 (48,66)
+    unit:3 Brigade (31,66)
+Page 360 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdv  ----------
+  31 Mar 1918 0
+    place:Elverdinghe Chateau (10,31)
+  1 Apr 1918 32
+    activity:resupplying (22,36)
+    activity:resupplying (24,39)
+    domestic:inspections (23,48)
+    place:School Camp (35,52)
+    place:Houtkerque (33,56)
+    place:Proven (33,61)
+    place:La Lovie (33,65)
+    person:Corporal Ward (commander) (67,69)
+    place:Hamhoek (34,77)
+    unit:916 Area Coy (63,77)
+  2 Apr 1918 81
+    place:Fantasio Farm (73,85)
+    activity:resupplying (23,85)
+    unit:2 Brigade (50,86)
+Page 361 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdz  ----------
+  2 Apr 1918 0
+    place:Elverdinghe Chateau (9,27)
+  3 Apr 1918 31
+    activity:resupplying (24,36)
+    unit:3 Brigade (35,39)
+    unit:1 Brigade (35,44)
+    unit:2 Brigade (35,48)
+    unit:D.A. (35,52)
+  4 Apr 1918 56
+    activity:resupplying (23,60)
+    unit:2 Brigade (45,61)
+    unit:2 Brigade transport (30,65)
+    unit:Saa of dac (36,65)
+    activity:movement (23,65)
+    place:Goedwaersveloe (33,69)
+  5 Apr 1918 73
+    unit:2 Brigade (33,76)
+    unit:2 Brigade (54,76)
+    activity:movement (22,77)
+    person:Major R E Sanders (joined) (26,81)
+Page 362 (type diary) http://wd3.herokuapp.com/pages/AWD0001xcj  ----------
+  5 Apr 1918 0
+    place:Elverdinghe Chateau (11,28)
+  6 Apr 1918 29
+    unit:2 Brigade (47,32)
+    place:Lillers (63,32)
+    activity:resupplying (23,33)
+    unit:2 Brigade (48,37)
+    activity:resupplying (23,37)
+  7 Apr 1918 41
+    activity:resupplying (23,44)
+    activity:resupplying (23,48)
+    unit:Dhq (64,65)
+    unit:De (69,65)
+    unit:Signals (75,65)
+    unit:1 mg bn (80,65)
+    unit:Saa section (31,69)
+    unit:Divisional Troops Transport (46,73)
+    person:Lieutenant Moore (commander) (74,73)
+    unit:3 Brigade Transport (32,74)
+    activity:movement (26,74)
+    place:Goedwaersvelde (59,77)
+Page 363 (type diary) http://wd3.herokuapp.com/pages/AWD0001xeh  ----------
+  7 Apr 1918 0
+    activity:movement (9,27)
+  8 Apr 1918 29
+    activity:resupplying (25,32)
+    activity:resupplying (24,36)
+    unit:3 Brigade Transport (35,40)
+    activity:movement (24,40)
+    place:Caestre (77,40)
+    unit:Division. Troops Transport (44,41)
+    place:Hazebrouck (43,44)
+    place:Beuvry (74,44)
+    place:Bethune (81,44)
+    place:Fouquieres (51,48)
+    unit:1 Brigade transport (31,56)
+    place:Goedwaersvelde (72,57)
+    unit:1 da (46,61)
+    unit:30 Division (64,61)
+Page 364 (type diary) http://wd3.herokuapp.com/pages/AWD0001xek  ----------
+  Hashtags: #railhead 
+  9 Apr 1918 29
+    place:Fouquieres (9,29)
+    place:Chocques (35,33)
+    place:Bethune (71,36)
+    activity:resupplying (24,37)
+    place:Marles-les-Mines (62,41)
+    unit:1 Division (38,41)
+    unit:1 Brigade (40,41)
+    place:Marles-les-Mines (70,44)
+    unit:1 Brigade (29,45)
+    activity:movement (24,46)
+    place:Beuvry (49,53)
+    place:Annezin (59,53)
+  10 Apr 1918 58
+    place:Annezin (40,61)
+    gridRef:E_9_B_2_7 (49,61)
+    unit:1 Brigade (32,61)
+    activity:resupplying (24,62)
+    place:Annezin (39,65)
+    gridRef:E_9_B_3_3 (51,65)
+    unit:2 Brigade (32,65)
+    place:Annezin (40,69)
+    gridRef:E_9_D_0_0 (51,69)
+    unit:3 Brigade (32,69)
+    activity:movement (23,74)
+  11 Apr 1918 78
+    activity:resupplying (23,82)
+    place:Lapugnoy (44,86)
+    place:Hesdigneul (57,86)
+    activity:movement (23,86)
+    place:Fouquereuil (56,90)
+Page 365 (type diary) http://wd3.herokuapp.com/pages/AWD0001xd5  ----------
+  11 Apr 1918 29
+    place:Fouquieres (9,28)
+    activity:movement (24,32)
+    place:Fouquieres (59,36)
+    unit:2 Brigade Transport (28,40)
+    unit:3 Brigade Transport (28,44)
+    domestic:inspections (24,48)
+  12 Apr 1918 53
+    unit:1 Brigade (35,56)
+    activity:resupplying (24,56)
+    gridRef:E_25_D_3_5 (46,57)
+    place:Hesdigneul (59,57)
+    unit:2 Brigade (35,61)
+    gridRef:D_24_B_2_7 (47,61)
+    place:Sand Pit (56,64)
+    unit:3 Brigade (35,65)
+    gridRef:D_24_B_8_9 (47,65)
+    activity:movement (23,69)
+    place:Bois-des-Montagnes (65,69)
+    unit:1 Brigade (43,73)
+    unit:1 Brigade (33,73)
+Page 366 (type diary) http://wd3.herokuapp.com/pages/AWD0001xen  ----------
+  Hashtags: #Wagons #Railhead 
+  12 Apr 1918 0
+    place:Hesdigneul (11,27)
+  13 Apr 1918 29
+    place:La Pugnoy (36,32)
+    place:Hesdigneul (56,36)
+    unit:1 Brigade (34,36)
+    gridRef:E_25_D_3_5 (47,36)
+    activity:resupplying (23,36)
+    unit:2 Brigade (33,40)
+    gridRef:D_24_B_2_7 (46,40)
+    place:Sand Pit (56,42)
+    unit:3 Brigade (33,44)
+    gridRef:D_24_B_8_9 (48,44)
+    place:Hesdigneul (65,48)
+    activity:movement (23,48)
+  14 Apr 1918 58
+    activity:resupplying (23,64)
+  15 Apr 1918 69
+    activity:resupplying (24,76)
+    activity:movement (22,81)
+Page 367 (type diary) http://wd3.herokuapp.com/pages/AWD0001xep  ----------
+  15 Apr 1918 0
+    place:Hesdigneul (9,27)
+  16 Apr 1918 29
+    activity:resupplying (24,33)
+    unit:D hq (30,40)
+    domestic:inspections (23,44)
+    unit:2 Brigade Transport (54,45)
+  17 Apr 1918 48
+    activity:resupplying (23,54)
+    gridRef:E_25_D_3_5 (48,57)
+    unit:1 Brigade (37,57)
+    activity:resupplying (23,58)
+    gridRef:E_25_A_1_6 (49,61)
+    unit:2 Brigade (37,61)
+    gridRef:K_2_B_0_0 (50,65)
+    unit:3 Brigade (37,65)
+    place:Verquin (71,69)
+    unit:2 Brigade (43,70)
+    activity:movement (24,70)
+    person:Major R E Sanders (departed_posted) (41,78)
+Page 368 (type diary) http://wd3.herokuapp.com/pages/AWD0001xf2  ----------
+  18 Apr 1918 28
+    activity:resupplying (23,32)
+    unit:1 Brigade (32,32)
+    unit:2 Brigade (32,36)
+    unit:3 Brigade (32,40)
+    place:Gosnay (54,41)
+    gridRef:E_25_A_1_6 (41,41)
+  19 Apr 1918 57
+    domestic:inspections (22,65)
+    unit:3 Brigade Transport (56,65)
+  20 Apr 1918 69
+    domestic:inspections (23,73)
+    unit:2 Brigade Transport (54,73)
+Page 369 (type diary) http://wd3.herokuapp.com/pages/AWD0001xgf  ----------
+  Hashtags: #horsecasualties #horsescasualties 
+  20 Apr 1918 0
+    place:Hesdigneul (7,23)
+  21 Apr 1918 25
+    unit:2 Brigade (51,27)
+    place:Verquin (81,28)
+    activity:resupplying (23,28)
+  22 Apr 1918 33
+    person:Corporal Hepple (casualty_wounded) (41,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (52,41)
+    person:Carrol (casualty_died) (41,44)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (48,49)
+  23 Apr 1918 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (49,53)
+    activity:resupplying (24,56)
+    unit:1 Brigade (42,60)
+    unit:2 Brigade (42,65)
+    unit:3 Brigade (42,69)
+    unit:Da 55 (29,73)
+    unit:2 Brigade Transport (29,77)
+    activity:movement (23,77)
+    activity:resupplying (23,84)
+    activity:resupplying (21,84)
+    unit:1 Line Transport (32,85)
+Page 370 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfp  ----------
+  23 Apr 1918 0
+    place:Barlin (10,26)
+  24 Apr 1918 29
+    activity:resupplying (24,32)
+    activity:resupplying (22,35)
+    unit:Dhq (31,40)
+    activity:movement (24,41)
+    place:Barlin (53,44)
+    unit:2 Brigade Transport (41,48)
+    unit:3 Brigade Transport (40,53)
+  25 Apr 1918 57
+    activity:resupplying (24,61)
+    activity:resupplying (23,64)
+    unit:Da group (32,65)
+    place:Hesdigneul (42,69)
+    unit:1 Brigade (32,69)
+    place:Houchin (42,73)
+    gridRef:K_16_A_6_8 (49,73)
+    unit:2 Brigade (32,73)
+    gridRef:K_11_D_0_0 (59,77)
+    unit:3 Brigade (31,77)
+    unit:1 da (81,81)
+    activity:movement (23,82)
+    gridRef:K_19_C_3_4 (54,82)
+    unit:2 Corps (73,82)
+    gridRef:K_31_D_7_4 (60,86)
+Page 371 (type diary) http://wd3.herokuapp.com/pages/AWD0001xg0  ----------
+  Hashtags: #Railhead 
+  25 Apr 1918 0
+    place:Barlin (8,27)
+  26 Apr 1918 28
+    place:Houdain (34,32)
+    activity:resupplying (23,36)
+    gridRef:J_30_B_5_8 (44,36)
+    unit:Da group (33,36)
+    unit:Brigades (32,40)
+    place:Noeux-les-Mines (49,41)
+  27 Apr 1918 44
+    place:Houdain (45,48)
+    activity:resupplying (23,49)
+    unit:1 Brigade (32,53)
+    unit:Da group (31,55)
+    unit:2 Brigade (31,60)
+    unit:3 Brigade (31,64)
+    activity:resupplying (22,69)
+    unit:Da group (31,69)
+    gridRef:K_31_C_4_4 (48,74)
+    unit:1 Brigade (31,74)
+    unit:2 Brigade (30,78)
+    place:Noeux-les-Mines (52,80)
+    unit:3 Brigade (30,81)
+    activity:movement (22,86)
+    place:Maisnil (60,86)
+Page 372 (type diary) http://wd3.herokuapp.com/pages/AWD0001xf3  ----------
+  28 Apr 1918 28
+    place:Barlin (9,28)
+    activity:resupplying (24,32)
+    place:Houdain (36,33)
+    unit:1 Brigade (31,35)
+    unit:2 Brigade (31,40)
+    time:0915AM (40,41)
+    unit:3 Brigade (31,45)
+    time:0930AM (40,45)
+    unit:Da group (30,49)
+    time:0945AM (40,49)
+    unit:1 Brigade (33,53)
+    gridRef:K_31_C_4_4 (49,53)
+    activity:resupplying (23,54)
+    unit:2 Brigade (32,57)
+    gridRef:K_33_C_0_0 (51,57)
+    place:Barlin (39,57)
+    gridRef:K_33_A_6_4 (48,61)
+    unit:3 Brigade (32,62)
+    place:Barlin (38,62)
+  29 Apr 1918 65
+    unit:Da group (32,65)
+    gridRef:J_30_B_5_8 (41,65)
+    activity:resupplying (24,70)
+    activity:resupplying (24,74)
+  30 Apr 1918 77
+    person:Lieutenant Colonel Master (76,81)
+Page 373 (type diary) http://wd3.herokuapp.com/pages/AWD0001xe7  ----------
+  Hashtags: #Horseremounts 
+  30 Apr 1918 0
+    place:Barlin (11,32)
+  1 May 1918 33
+    place:Houdain (39,36)
+    activity:resupplying (25,37)
+    activity:resupplying (24,41)
+    domestic:inspections (24,49)
+  2 May 1918 53
+    person:Lieutenant G P Burton (joined) (44,58)
+    place:Havre (35,61)
+  3 May 1918 70
+    domestic:inspections (26,75)
+  4 May 1918 77
+Page 374 (type diary) http://wd3.herokuapp.com/pages/AWD0001xg7  ----------
+  Hashtags: #watersupply #Bicycles 
+  4 May 1918 0
+    place:Barlin (13,28)
+  5 May 1918 30
+    activity:resupplying (25,37)
+  6 May 1918 46
+  10 May 1918 71
+  12 May 1918 79
+    activity:resupplying (24,81)
+Page 375 (type diary) http://wd3.herokuapp.com/pages/AWD0001xf1  ----------
+  13 May 1918 26
+    place:Barlin (12,28)
+    domestic:inspections (26,33)
+  15 May 1918 40
+    activity:resupplying (24,45)
+  17 May 1918 65
+  18 May 1918 77
+Page 376 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfk  ----------
+  Hashtags: #RailHead 
+  19 May 1918 28
+    place:Barlin (10,28)
+    domestic:inspections (25,32)
+  21 May 1918 44
+    domestic:inspections (24,50)
+  23 May 1918 61
+    activity:resupplying (25,67)
+    activity:resupplying (25,87)
+Page 377 (type diary) http://wd3.herokuapp.com/pages/AWD0001xd7  ----------
+  Hashtags: #communications 
+  23 May 1918 0
+    place:Barlin (10,29)
+  24 May 1918 34
+    activity:resupplying (25,37)
+    activity:resupplying (24,41)
+    domestic:inspections (25,49)
+  25 May 1918 53
+    activity:resupplying (25,59)
+Page 378 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfn  ----------
+  Hashtags: #Mention 
+  26 May 1918 25
+    place:Barlin (8,27)
+    domestic:inspections (27,28)
+    person:Major C T Boyd (joined) (39,33)
+    person:Sergeant Hendy (joined) (35,37)
+  27 May 1918 42
+    domestic:inspections (24,45)
+    activity:training (29,49)
+  28 May 1918 58
+    activity:resupplying (25,62)
+    person:Major C T Boyd (commander) (39,66)
+    person:Captain C H Johnson (departed_posted) (39,70)
+    person:Lieutenant J S Woodger (award) (49,82)
+    person:Farrier Sergeant S C Sherring (award) (63,86)
+    person:Driver J Lynskey (award) (64,91)
+Page 379 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdj  ----------
+  28 May 1918 0
+    place:Barlin (10,28)
+  29 May 1918 33
+    activity:training (26,37)
+    person:Second Lieutenant H S Barker (departed_sick) (46,49)
+  30 May 1918 52
+  31 May 1918 56
+Page 380 (type diary) http://wd3.herokuapp.com/pages/AWD0001xcz  ----------
+  31 May 1918 0
+    place:Barlin (11,29)
+  1 Jun 1918 33
+    activity:training (23,36)
+    person:Sergeant Hendry (other) (31,49)
+    activity:resupplying (23,53)
+  4 Jun 1918 57
+    activity:resupplying (24,63)
+Page 381 (type diary) http://wd3.herokuapp.com/pages/AWD0001xe5  ----------
+  4 Jun 1918 24
+    place:Barlin (9,25)
+    activity:resupplying (26,29)
+  5 Jun 1918 56
+    activity:training (24,61)
+    activity:resupplying (24,74)
+Page 382 (type diary) http://wd3.herokuapp.com/pages/AWD0001xev  ----------
+  Hashtags: #militarycross #MilitaryCross 
+  7 Jun 1918 25
+    place:Barlin (10,25)
+    person:Captain G McDermott (award) (57,32)
+  9 Jun 1918 37
+    activity:other (24,43)
+Page 383 (type diary) http://wd3.herokuapp.com/pages/AWD0001xd8  ----------
+  10 Jun 1918 26
+    place:Barlin (8,26)
+    place:Barlin (5,30)
+    activity:resupplying (24,30)
+  13 Jun 1918 36
+    activity:training (23,42)
+  15 Jun 1918 50
+    activity:other (24,55)
+    activity:training (28,75)
+  18 Jun 1918 80
+    person:Second Lieutenant H S Barker (departed_sick) (44,85)
+Page 384 (type diary) http://wd3.herokuapp.com/pages/AWD0001xgi  ----------
+  Hashtags: #Meritorious #Medical 
+  18 Jun 1918 26
+    place:Barlin (9,26)
+    place:Barlin (5,30)
+    domestic:inspections (24,36)
+  19 Jun 1918 38
+    domestic:sport (23,41)
+  21 Jun 1918 44
+    person:Sergeant Major Morrison (award) (76,50)
+    person:Staff Sergeant J Mitchell (award) (75,56)
+  25 Jun 1918 62
+    person:Farrier Sergeant H Peagram (award) (79,62)
+    domestic:medical (24,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 51; wounded: 0 (23,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 51; wounded: 0 (46,69)
+  28 Jun 1918 70
+  30 Jun 1918 79
+    person:Lieutenant Colonel A Master (author) (74,90)
+Page 385 (type cover)
+Page 386 (type diary) http://wd3.herokuapp.com/pages/AWD0001xd4  ----------
+  Hashtags: #reinforcements 
+  30 Jun 1918 0
+    place:Barlin (9,28)
+  1 Jul 1918 33
+    activity:resupplying (25,36)
+  2 Jul 1918 40
+  3 Jul 1918 49
+    domestic:inspections (23,53)
+  4 Jul 1918 57
+    domestic:inspections (23,62)
+  5 Jul 1918 65
+    activity:training (24,83)
+Page 387 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfv  ----------
+  Hashtags: #Surplus 
+  5 Jul 1918 0
+    place:Barlin (9,24)
+  11 Jul 1918 29
+    domestic:inspections (24,33)
+  12 Jul 1918 40
+    person:Second Lieutenant C A Wickham-Jones (50,45)
+    person:Lieutenant P Moore (other) (45,54)
+  14 Jul 1918 57
+    person:Lieutenant H R Best (departed_sick) (47,62)
+  18 Jul 1918 65
+  19 Jul 1918 78
+    person:Second Lieutenant Ferguson (other) (40,78)
+    domestic:inspections (23,83)
+    person:Brigadier General Parker (other) (37,83)
+Page 388 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdb  ----------
+  Hashtags: #Medical #HorseRation 
+  19 Jul 1918 0
+    place:Barlin (9,28)
+  20 Jul 1918 30
+    domestic:medical (26,58)
+Page 389 (type diary) http://wd3.herokuapp.com/pages/AWD0001xeb  ----------
+  Hashtags: #Saluting 
+  20 Jul 1918 0
+    place:Barlin (9,29)
+  24 Jul 1918 30
+    person:Lieutenant Biggs (departed_sick) (43,33)
+  30 Jul 1918 50
+    domestic:inspections (25,54)
+  31 Jul 1918 79
+Page 390 (type diary) http://wd3.herokuapp.com/pages/AWD0001xcs  ----------
+  1 Aug 1918 21
+    place:Barlin (12,29)
+    person:Second Lieutenant T F A Speedy (joined) (42,37)
+    person:Lieutenant E L Blake (departed_sick) (40,41)
+    person:Lieutenant G P Burton (39,45)
+  2 Aug 1918 49
+    activity:resupplying (25,54)
+    person:Lieutenant J H Lewis (departed_posted) (43,70)
+  3 Aug 1918 74
+    activity:resupplying (24,79)
+Page 391 (type diary) http://wd3.herokuapp.com/pages/AWD0001xgq  ----------
+  Hashtags: #reinforcements #Divisional #Leisure 
+  3 Aug 1918 28
+    place:Barlin (9,28)
+    activity:resupplying (24,33)
+  4 Aug 1918 36
+    domestic:sport (25,41)
+  7 Aug 1918 61
+    domestic:inspections (23,66)
+  8 Aug 1918 70
+    person:Second Lieutenant J H Stokes (joined) (45,83)
+    person:Lieutenant H J Lewis (53,87)
+Page 392 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfi  ----------
+  Hashtags: #Leave 
+  9 Aug 1918 22
+    place:Barlin (11,28)
+  10 Aug 1918 36
+    domestic:inspections (23,40)
+  12 Aug 1918 45
+  13 Aug 1918 56
+    person:Second Lieutenant J H Stokes (promotion) (40,62)
+Page 393 (type diary) http://wd3.herokuapp.com/pages/AWD0001xci  ----------
+  Hashtags: #HorsesRemounts #horsesremounts 
+  13 Aug 1918 0
+  14 Aug 1918 24
+    place:Barlin (10,29)
+    activity:movement (24,32)
+    place:Barlin (54,33)
+    place:Ruitz (62,33)
+    mapRef:44B (80,34)
+    person:Lieutenant Burton (other) (33,36)
+  15 Aug 1918 40
+    place:Ruitz (10,45)
+    person:Sergeant Major Morrison (departed_posted) (50,50)
+  16 Aug 1918 52
+    domestic:inspections (24,62)
+  17 Aug 1918 65
+    domestic:inspections (24,70)
+Page 394 (type diary) http://wd3.herokuapp.com/pages/AWD0001xcu  ----------
+  18 Aug 1918 26
+    place:Ruitz (7,29)
+    activity:resupplying (25,33)
+  19 Aug 1918 37
+    activity:resupplying (25,41)
+  20 Aug 1918 45
+    activity:resupplying (24,50)
+    activity:resupplying (24,66)
+    activity:resupplying (24,83)
+Page 395 (type diary) http://wd3.herokuapp.com/pages/AWD0001xcg  ----------
+  Hashtags: #Railhead 
+  21 Aug 1918 23
+    place:Ruitz (8,25)
+    unit:Da group (53,37)
+    gridRef:J_32_A_7_5 (71,37)
+    place:Houdain (62,37)
+    unit:1 Brigade (52,41)
+    place:Boyaval (64,41)
+    unit:2 Brigade (52,45)
+    place:Dieval (62,45)
+    unit:3 Brigade (51,50)
+    gridRef:G_24_D_6_7 (74,50)
+    place:Tangry (63,50)
+    place:Sains les Pernes (60,70)
+    unit:3 Brigade (47,71)
+    place:Dieval (59,75)
+Page 396 (type diary) http://wd3.herokuapp.com/pages/AWD0001xga  ----------
+  21 Aug 1918 22
+    activity:movement (23,31)
+  22 Aug 1918 33
+    place:Houdain (44,37)
+    unit:Da group (34,37)
+    activity:resupplying (24,37)
+    place:Dieval (42,45)
+    unit:2 Brigade (33,45)
+    gridRef:O_13_C_5_7 (51,45)
+    place:Tangry (42,49)
+    gridRef:G_24_D_6_7 (51,49)
+    unit:3 Brigade (33,50)
+    activity:movement (24,54)
+  23 Aug 1918 61
+    place:Dieval (8,62)
+    activity:resupplying (24,66)
+  25 Aug 1918 73
+    activity:resupplying (24,80)
+Page 397 (type diary) http://wd3.herokuapp.com/pages/AWD0001xf7  ----------
+  25 Aug 1918 0
+    place:Dieval (10,26)
+  27 Aug 1918 29
+    person:Second Lieutenant F P Grant (joined) (38,33)
+    activity:training (30,47)
+  28 Aug 1918 66
+    activity:resupplying (25,71)
+    activity:movement (23,79)
+    unit:6 Welch Regiment (37,83)
+Page 398 (type diary) http://wd3.herokuapp.com/pages/AWD0001xeq  ----------
+  28 Aug 1918 0
+    place:Dieval (9,28)
+  29 Aug 1918 29
+    activity:resupplying (25,32)
+    activity:resupplying (24,49)
+    domestic:inspections (25,54)
+  30 Aug 1918 57
+Page 399 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdq  ----------
+  31 Aug 1918 28
+    activity:movement (23,46)
+Page 400 (type diary) http://wd3.herokuapp.com/pages/AWD0001xeg  ----------
+  31 Aug 1918 28
+    person:Lieutenant Colonel A Master (commander) (73,62)
+Page 401 (type diary) http://wd3.herokuapp.com/pages/AWD0001xd9  ----------
+  31 Aug 1918 0
+    activity:movement (14,32)
+  1 Sep 1918 33
+    activity:resupplying (24,39)
+    activity:movement (23,58)
+    place:Arras (46,66)
+    unit:Train hq (35,66)
+    place:Agny (47,70)
+    unit:1 Coy (34,70)
+    place:Beaurains (48,74)
+    unit:2 Coy (37,74)
+    place:Ranville (45,78)
+    unit:3 Coy (35,79)
+    place:Achicourt (47,82)
+    unit:4 Coy (37,83)
+Page 402 (type diary) http://wd3.herokuapp.com/pages/AWD0001xe8  ----------
+  Hashtags: #Railhead 
+  2 Sep 1918 28
+    place:Arras (9,28)
+    activity:resupplying (25,37)
+    activity:movement (23,41)
+  3 Sep 1918 53
+    activity:resupplying (24,61)
+    activity:resupplying (23,66)
+    mapRef:51B (83,69)
+    unit:2 Coy (33,70)
+    gridRef:N_12_C_1_7 (74,70)
+    unit:3 Coy (31,74)
+    mapRef:51B (82,74)
+    gridRef:N_18_B_7_7 (75,74)
+  4 Sep 1918 78
+    unit:4 Coy (33,78)
+    mapRef:51B (84,78)
+    activity:resupplying (24,83)
+    unit:Dhq (32,87)
+    activity:movement (23,87)
+    unit:Train hq (34,91)
+    gridRef:N_12_D_0_2 (64,91)
+Page 403 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfm  ----------
+  Hashtags: #Canadian 
+  4 Sep 1918 33
+    gridRef:N_12_D_0_2 (11,31)
+    unit:Canadian Division (62,36)
+    unit:Xxii corps (79,37)
+    activity:movement (22,38)
+  5 Sep 1918 41
+    activity:resupplying (23,46)
+    unit:56 Division (80,49)
+    unit:1 Division (35,50)
+  6 Sep 1918 53
+    activity:resupplying (25,57)
+    activity:movement (23,63)
+    mapRef:51B (70,82)
+Page 404 (type diary) http://wd3.herokuapp.com/pages/AWD0001xgk  ----------
+  7 Sep 1918 24
+    place:Gemappes (11,26)
+    activity:resupplying (25,28)
+    gridRef:N_12_D_0_2 (11,31)
+    place:Harbarcq (53,32)
+    activity:movement (23,42)
+  8 Sep 1918 45
+    activity:resupplying (23,50)
+    activity:movement (23,58)
+    place:Gemappes (52,66)
+Page 405 (type diary) http://wd3.herokuapp.com/pages/AWD0001xef  ----------
+  8 Sep 1918 0
+    activity:movement (11,26)
+  9 Sep 1918 30
+    activity:resupplying (24,32)
+    activity:movement (24,45)
+    activity:movement (11,49)
+  10 Sep 1918 51
+    activity:resupplying (24,53)
+    activity:movement (23,61)
+    place:Bayonvillers (44,79)
+Page 406 (type diary) http://wd3.herokuapp.com/pages/AWD0001xe1  ----------
+  Hashtags: #Railhead 
+  10 Sep 1918 0
+    place:Bayonvillers (11,29)
+  11 Sep 1918 33
+    place:Bayonvillers (5,34)
+    mapRef:62D (58,41)
+    unit:1 Brigade (34,41)
+    mapRef:62D (59,45)
+    unit:2 Brigade (34,46)
+    mapRef:62D (59,49)
+    unit:3 Brigade (31,50)
+    activity:resupplying (24,54)
+    place:Cerisy (60,62)
+    unit:1 Coy (38,62)
+    place:Morcourt (62,66)
+    unit:2 Coy (35,67)
+    place:Proyart (61,70)
+    unit:3 Coy (39,70)
+    unit:4 Coy (36,75)
+Page 407 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdd  ----------
+  Hashtags: #Railhead 
+  12 Sep 1918 25
+    place:Bayonvillers (8,27)
+    activity:movement (24,45)
+    mapRef:62C (69,45)
+    place:Villers Bretonneux (43,46)
+    place:Proyart (40,49)
+    place:Morcourt (41,53)
+  13 Sep 1918 57
+    activity:resupplying (24,67)
+    activity:movement (23,75)
+Page 408 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfq  ----------
+  Hashtags: #Horsecasuallies #Railhead 
+  13 Sep 1918 0
+    activity:movement (11,25)
+  14 Sep 1918 28
+    unit:1 Brigade (29,33)
+    unit:3 Brigade (33,33)
+    activity:resupplying (24,33)
+    unit:2 Brigade (31,41)
+    activity:movement (22,49)
+    place:Meraucourt (9,65)
+  15 Sep 1918 66
+    activity:resupplying (24,71)
+    place:Meraucourt (5,71)
+    activity:resupplying (24,74)
+Page 409 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfr  ----------
+  16 Sep 1918 24
+    place:Meraucourt (9,25)
+    activity:movement (24,27)
+    gridRef:P_26_B__ (67,28)
+    mapRef:63c (76,28)
+    mapRef:62C (77,29)
+  18 Sep 1918 33
+    activity:resupplying (24,48)
+  19 Sep 1918 57
+    activity:resupplying (24,61)
+  22 Sep 1918 65
+    mapRef:62C (71,69)
+  23 Sep 1918 76
+    activity:resupplying (22,89)
+Page 410 (type diary) http://wd3.herokuapp.com/pages/AWD0001xeo  ----------
+  24 Sep 1918 22
+    place:Meraucourt (9,26)
+    activity:resupplying (24,32)
+    unit:46 Division (83,61)
+    unit:2 Brigade (39,62)
+    activity:attack (24,62)
+    place:Gricourt (75,65)
+    unit:6 Division (44,65)
+    unit:46 (32,66)
+  25 Sep 1918 69
+    activity:achieved (37,69)
+    activity:resupplying (25,74)
+  26 Sep 1918 77
+    activity:resupplying (25,82)
+Page 411 (type diary) http://wd3.herokuapp.com/pages/AWD0001xf8  ----------
+  26 Sep 1918 0
+    place:Meraucourt (8,26)
+  27 Sep 1918 27
+  28 Sep 1918 36
+    unit:1 Brigade (55,37)
+    unit:2 Brigade (57,37)
+    domestic:inspections (24,37)
+  29 Sep 1918 41
+    activity:other (24,44)
+  30 Sep 1918 49
+    gridRef:X_2_B_2_9 (54,53)
+    place:Marteville (36,53)
+    mapRef:62c (65,53)
+    mapRef:62C (65,53)
+    activity:resupplying (24,60)
+    mapRef:62c (75,64)
+    gridRef:X_2_B_2_9 (64,65)
+    place:Vermand (53,65)
+    mapRef:62C (76,65)
+    activity:movement (23,66)
+    person:Lieutenant Colonel A Master (73,78)
+Page 412 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdf  ----------
+  Hashtags: #Armistice 
+  1 Oct 1918 23
+    activity:movement (13,32)
+    place:Marteville (30,40)
+    mapRef:62C (29,46)
+    place:Vermand (61,52)
+    activity:movement (23,54)
+  2 Oct 1918 71
+    unit:46 Division (36,72)
+    place:Vermand (6,76)
+  3 Oct 1918 79
+  4 Oct 1918 85
+    activity:other (25,89)
+Page 413 (type diary) http://wd3.herokuapp.com/pages/AWD0001xcv  ----------
+  4 Oct 1918 27
+    place:Vermand (9,26)
+    unit:1 Brigade (31,30)
+    unit:2 Brigade (31,35)
+    activity:training (48,39)
+    domestic:parades (23,40)
+  5 Oct 1918 43
+  6 Oct 1918 49
+    activity:training (46,52)
+    domestic:parades (23,52)
+  7 Oct 1918 53
+    domestic:parades (23,57)
+  8 Oct 1918 58
+    domestic:parades (23,62)
+  9 Oct 1918 63
+    unit:1 Brigade (28,67)
+    unit:2 Brigade (32,67)
+  10 Oct 1918 68
+  11 Oct 1918 73
+    person:Lieutenant Colonel A G Master (departed_leave) (37,77)
+  12 Oct 1918 79
+    person:Major C T Boyd (commander) (60,80)
+    unit:6 Welch Pioneers (33,83)
+    unit:Field companies re (48,83)
+  13 Oct 1918 88
+    unit:Field companies re (43,88)
+    activity:movement (28,92)
+Page 414 (type diary) http://wd3.herokuapp.com/pages/AWD0001xg2  ----------
+  Hashtags: #HorseRemounts #HorsesRemounts 
+  14 Oct 1918 23
+    place:Vermand (7,27)
+    person:Second Lieutenant J Austin (departed_sick) (39,37)
+  15 Oct 1918 39
+    unit:Field companies re (36,44)
+    place:Levergies (67,44)
+    activity:movement (29,44)
+    activity:resupplying (23,47)
+  16 Oct 1918 48
+    activity:resupplying (24,52)
+    mapRef:62B (91,52)
+    unit:6 Welch Regiment (55,54)
+    unit:Field companies re (67,54)
+    activity:movement (22,67)
+    mapRef:62B (70,74)
+    mapRef:62B (61,76)
+  17 Oct 1918 81
+    mapRef:62B (87,84)
+    place:Brancourt (7,85)
+    activity:resupplying (23,85)
+    person:Lieutenant C A Wickham-Jones (other) (49,88)
+Page 415 (type diary) http://wd3.herokuapp.com/pages/AWD0001xer  ----------
+  Hashtags: #Railhead #gas 
+  18 Oct 1918 25
+    place:Brancourt (8,27)
+    gridRef:D_14_D_5_3 (52,31)
+    place:Bohain (44,31)
+    mapRef:62B (58,31)
+    activity:movement (23,49)
+  19 Oct 1918 52
+    mapRef:62B (87,53)
+    activity:resupplying (25,56)
+    mapRef:62B (69,57)
+    activity:movement (23,60)
+    mapRef:57B (73,61)
+  20 Oct 1918 65
+    person:Second Lieutenant F P Grant (departed_posted) (40,69)
+    person:Major C T Boyd (departed_sick) (35,74)
+    person:Major R G F Saunders (commander) (50,77)
+    activity:resupplying (23,81)
+    mapRef:57B (79,83)
+  21 Oct 1918 88
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,91)
+Page 416 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfs  ----------
+  Hashtags: #Railhead 
+  23 Oct 1918 24
+    person:Major C T Boyd (35,28)
+    place:Vaux Andigny (6,28)
+    person:Lieutenant G P Burton (departed_sick) (41,30)
+  26 Oct 1918 40
+  27 Oct 1918 46
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 3 (54,48)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 3 (23,48)
+    activity:fire (38,48)
+    person:Lieutenant H C Bell (departed_leave) (33,52)
+  28 Oct 1918 55
+    activity:fire (43,57)
+    activity:movement (32,59)
+    person:Lieutenant Colonel A G Master (commander) (37,64)
+  30 Oct 1918 68
+  31 Oct 1918 74
+    person:Lieutenant Colonel A G Master (76,80)
+Page 417 (type diary) http://wd3.herokuapp.com/pages/AWD0001xcm  ----------
+  Hashtags: #supply 
+  31 Oct 1918 0
+    place:Vaux Andigny (7,29)
+  1 Nov 1918 31
+    activity:resupplying (23,34)
+  2 Nov 1918 40
+    activity:resupplying (22,43)
+  3 Nov 1918 45
+    activity:resupplying (22,49)
+  4 Nov 1918 66
+    activity:resupplying (21,70)
+Page 418 (type diary) http://wd3.herokuapp.com/pages/AWD0001xem  ----------
+  Hashtags: #HorseRemounts 
+  4 Nov 1918 26
+    place:Vaux Andigny (9,27)
+    activity:resupplying (24,29)
+    unit:French troops (75,48)
+    unit:1 Brigade (36,63)
+    unit:3 Brigade (35,67)
+    unit:2 Brigade (33,72)
+    unit:6 Welch (41,72)
+  5 Nov 1918 73
+    activity:resupplying (23,81)
+Page 419 (type diary) http://wd3.herokuapp.com/pages/AWD0001xed  ----------
+  Hashtags: #Railhead 
+  5 Nov 1918 0
+  6 Nov 1918 27
+    activity:resupplying (24,31)
+    activity:movement (23,49)
+  7 Nov 1918 67
+    place:Fresnoy le Grand (8,67)
+    activity:resupplying (24,76)
+    unit:1 Bn M.G.Corps (33,92)
+Page 420 (type diary) http://wd3.herokuapp.com/pages/AWD0001xe6  ----------
+  Hashtags: #Railhead_Bellicourt #lightRailway_Brancourt 
+  8 Nov 1918 26
+    place:Fresnoy le Grand (7,28)
+    activity:resupplying (23,32)
+  9 Nov 1918 48
+    domestic:inspections (24,52)
+    activity:resupplying (24,58)
+  10 Nov 1918 61
+    activity:resupplying (24,65)
+    domestic:inspections (24,81)
+Page 421 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfg  ----------
+  Hashtags: #armistice 
+  11 Nov 1918 27
+    place:Fresnoy le Grand (10,27)
+    activity:resupplying (24,40)
+  12 Nov 1918 50
+    activity:resupplying (23,60)
+    activity:movement (23,72)
+Page 422 (type diary) http://wd3.herokuapp.com/pages/AWD0001xes  ----------
+  Hashtags: #Railhead_Fresnoy #Railhead_Bohain #Rhine 
+  13 Nov 1918 24
+    activity:movement (14,27)
+    place:Bohain (34,32)
+    place:Vaux-Andigny (43,34)
+    activity:resupplying (24,36)
+    place:Grand Fayt (58,52)
+    activity:movement (23,53)
+    place:Favril (57,57)
+    place:Bazuel (57,61)
+    place:Favril (56,66)
+  14 Nov 1918 68
+    place:Favril (7,69)
+    place:Vaux-Andigny (44,75)
+    place:Grand Fayt (43,81)
+    place:Favril (43,85)
+    place:Bazuel (41,89)
+Page 423 (type diary) http://wd3.herokuapp.com/pages/AWD0001xf5  ----------
+  14 Nov 1918 0
+    activity:movement (13,26)
+  15 Nov 1918 27
+    activity:resupplying (23,30)
+    activity:movement (23,35)
+  16 Nov 1918 64
+    place:Beugnies (7,64)
+    activity:resupplying (23,68)
+    activity:movement (23,83)
+Page 424 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfl  ----------
+  Hashtags: #Australian_light_Horse #Australian 
+  17 Nov 1918 27
+    place:Beugnies (9,27)
+    activity:resupplying (23,30)
+    unit:3 Inf Brigade (75,70)
+    unit:2 Inf Brigade (58,71)
+    unit:1 Inf Brigade (41,72)
+    unit:6 Welch Regiment (42,85)
+Page 425 (type diary) http://wd3.herokuapp.com/pages/AWD0001xde  ----------
+  18 Nov 1918 24
+    activity:movement (18,27)
+    activity:resupplying (24,34)
+    activity:movement (24,49)
+    unit:1 Brigade (35,54)
+    unit:2 Brigade (34,57)
+    unit:3 Brigade (34,61)
+    unit:1 Division (32,70)
+Page 426 (type diary) http://wd3.herokuapp.com/pages/AWD0001xe9  ----------
+  18 Nov 1918 0
+    place:Barbencon (11,26)
+  19 Nov 1918 27
+    activity:resupplying (24,31)
+    unit:1 Division hq gp (35,47)
+    unit:1 Brigade (34,52)
+    unit:2 Brigade (34,56)
+    unit:3 Brigade (33,60)
+  20 Nov 1918 74
+    activity:resupplying (24,78)
+Page 427 (type diary) http://wd3.herokuapp.com/pages/AWD0001xd2  ----------
+  21 Nov 1918 26
+    place:Barbencon (8,26)
+    activity:resupplying (24,30)
+  23 Nov 1918 32
+    activity:resupplying (24,34)
+    activity:movement (23,39)
+  24 Nov 1918 62
+    place:Ostemre (12,62)
+    activity:resupplying (24,66)
+    activity:movement (23,80)
+Page 428 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfh  ----------
+  Hashtags: #Railhead_Ciney 
+  25 Nov 1918 24
+    activity:movement (10,26)
+    activity:resupplying (23,29)
+    activity:movement (22,46)
+  26 Nov 1918 49
+  28 Nov 1918 54
+  29 Nov 1918 63
+    activity:resupplying (23,67)
+  30 Nov 1918 68
+    person:Lieutenant Colonel A G Master (commander) (69,74)
+Page 429 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdh  ----------
+  Hashtags: #Railhead_Dinant 
+  30 Nov 1918 0
+    place:Bouvignes (11,29)
+  1 Dec 1918 30
+    place:Dinant (35,32)
+    activity:movement (23,45)
+    activity:resupplying (25,76)
+Page 430 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdm  ----------
+  1 Dec 1918 28
+    place:Bouvignes (10,26)
+    activity:resupplying (27,31)
+  2 Dec 1918 50
+    activity:resupplying (24,54)
+    unit:1 Brigade (34,61)
+    unit:2 Brigade (33,70)
+    unit:Division hq gp (35,80)
+    unit:3 Brigade (33,88)
+Page 431 (type diary) http://wd3.herokuapp.com/pages/AWD0001xey  ----------
+  2 Dec 1918 27
+    place:Bouvignes (8,27)
+    activity:resupplying (25,31)
+    activity:movement (17,51)
+  3 Dec 1918 53
+    activity:resupplying (24,57)
+    activity:resupplying (24,66)
+    activity:movement (24,76)
+Page 432 (type diary) http://wd3.herokuapp.com/pages/AWD0001xgl  ----------
+  Hashtags: #Railhead_Ciney 
+  4 Dec 1918 22
+    place:Rochefort (10,26)
+    activity:resupplying (26,31)
+  5 Dec 1918 33
+    activity:resupplying (25,36)
+  7 Dec 1918 39
+    activity:movement (24,43)
+  8 Dec 1918 57
+    activity:resupplying (25,60)
+  9 Dec 1918 66
+    activity:resupplying (25,70)
+    activity:movement (24,75)
+Page 433 (type diary) http://wd3.herokuapp.com/pages/AWD0001xch  ----------
+  9 Dec 1918 23
+    place:Rochefort (12,27)
+    activity:movement (28,32)
+    unit:39 Brigade Royal Field Artillery (45,41)
+    unit:25 Brigade Royal Field Artillery (38,42)
+    unit:1 bn mgc (39,52)
+    activity:resupplying (25,64)
+Page 434 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdl  ----------
+  9 Dec 1918 0
+  10 Dec 1918 28
+    unit:1 Brigade (34,31)
+    unit:2 Brigade (33,34)
+    unit:3 Brigade (33,39)
+    unit:Division Gp (33,43)
+    activity:movement (23,48)
+    activity:resupplying (24,80)
+Page 435 (type diary) http://wd3.herokuapp.com/pages/AWD0001xge  ----------
+  Hashtags: #Railhead_Marche 
+  11 Dec 1918 26
+    place:Laroche (10,27)
+    place:Laroche (4,29)
+    activity:resupplying (26,35)
+    unit:1 Brigade (35,52)
+    activity:movement (24,53)
+    unit:2 Brigade (35,56)
+    unit:3 Brigade (34,65)
+    unit:Division Gp (34,71)
+    activity:resupplying (24,77)
+Page 436 (type diary) http://wd3.herokuapp.com/pages/AWD0001xco  ----------
+  11 Dec 1918 0
+    place:Laroche (9,26)
+  12 Dec 1918 28
+  13 Dec 1918 45
+    unit:1 Brigade (32,53)
+    activity:resupplying (24,61)
+    activity:resupplying (24,76)
+Page 437 (type diary) http://wd3.herokuapp.com/pages/AWD0001xg8  ----------
+  Hashtags: #RailHead_Troisponts 
+  14 Dec 1918 25
+    activity:movement (11,26)
+    activity:resupplying (25,35)
+    place:Sart (67,37)
+    unit:1 Brigade (36,39)
+    activity:movement (24,39)
+    place:Comte (57,42)
+    place:Grandmesnil (61,45)
+    unit:2 Brigade (35,48)
+    place:Manhay (57,50)
+    unit:3 Brigade (35,55)
+    place:Mormont (64,62)
+    place:Aisne (72,62)
+    unit:Division Gp (34,65)
+    place:Salmchateau (67,70)
+    activity:resupplying (24,73)
+    place:Petit Sart (39,78)
+    place:Grandmesnil (40,81)
+    place:Aisne (37,91)
+Page 438 (type diary) http://wd3.herokuapp.com/pages/AWD0001xel  ----------
+  14 Dec 1918 24
+    activity:movement (22,25)
+    person:Major R G F Saunders (departed_sick) (48,29)
+  15 Dec 1918 37
+    place:Salmchateau (11,37)
+    activity:resupplying (23,45)
+    unit:1 Brigade (33,61)
+    unit:2 Brigade (33,69)
+    unit:3 Brigade (33,76)
+    activity:resupplying (24,90)
+Page 439 (type diary) http://wd3.herokuapp.com/pages/AWD0001xcq  ----------
+  Hashtags: #Railhead_Weywertz 
+  16 Dec 1918 23
+    place:Salmchateau (7,29)
+    activity:resupplying (24,37)
+    unit:1 Brigade (34,42)
+    unit:2 Brigade (34,51)
+    unit:3 Brigade (34,60)
+    activity:resupplying (24,77)
+Page 440 (type diary) http://wd3.herokuapp.com/pages/AWD0001xcn  ----------
+  17 Dec 1918 21
+    place:Salmchateau (12,26)
+    activity:resupplying (25,36)
+    unit:1 Brigade (35,42)
+    unit:2 Brigade (34,50)
+    unit:3 Brigade (35,58)
+    activity:resupplying (24,75)
+Page 441 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfu  ----------
+  17 Dec 1918 0
+    activity:movement (9,26)
+  18 Dec 1918 28
+    activity:resupplying (24,35)
+    unit:1 Brigade (32,40)
+    activity:movement (33,42)
+    unit:2 Brigade (31,48)
+    unit:3 Brigade (32,57)
+    unit:Division Gp (31,65)
+Page 442 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdr  ----------
+  19 Dec 1918 26
+    place:Altmuthen (9,27)
+    unit:1 Brigade (31,37)
+    unit:2 Brigade (32,45)
+    unit:3 Brigade (32,53)
+    unit:Division Gp (31,61)
+  20 Dec 1918 84
+    activity:resupplying (40,87)
+    activity:resupplying (24,94)
+Page 443 (type diary) http://wd3.herokuapp.com/pages/AWD0001xg1  ----------
+  Hashtags: #RailHead_Eoskirchen 
+  20 Dec 1918 0
+    place:Altmuthen (9,27)
+  21 Dec 1918 28
+    activity:resupplying (24,37)
+    unit:1 Brigade (35,41)
+    unit:2 Brigade (35,49)
+    unit:3 Brigade (35,57)
+    unit:Division Gp (35,68)
+    activity:resupplying (25,78)
+Page 444 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdx  ----------
+  21 Dec 1918 0
+    place:Altmuthen (11,24)
+  22 Dec 1918 27
+    place:Altmuthen (7,29)
+    activity:resupplying (24,30)
+    unit:1 Brigade (31,35)
+    unit:2 Brigade (32,43)
+    unit:3 Brigade (31,53)
+    unit:Division Gp (33,64)
+    activity:resupplying (24,74)
+Page 445 (type diary) http://wd3.herokuapp.com/pages/AWD0001xd3  ----------
+  22 Dec 1918 0
+    activity:movement (11,28)
+  23 Dec 1918 29
+    activity:resupplying (26,33)
+    place:Waldorf (66,35)
+    place:Bornheim (74,35)
+    unit:1 Brigade (34,38)
+    place:Brenig (58,38)
+    activity:movement (25,39)
+    unit:2 Brigade (34,47)
+    place:Munstereifel (61,51)
+    unit:3 Brigade (34,54)
+    unit:Division Gp (34,63)
+    activity:resupplying (25,73)
+Page 446 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfa  ----------
+  24 Dec 1918 22
+    place:Rheinbach (10,28)
+    activity:resupplying (24,37)
+    unit:2 Brigade (32,45)
+    unit:3 Brigade (32,53)
+    unit:Division Gp (33,62)
+    activity:resupplying (23,75)
+Page 447 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfc  ----------
+  25 Dec 1918 29
+    place:Rheinbach (12,27)
+    activity:resupplying (28,31)
+  26 Dec 1918 35
+    activity:resupplying (26,41)
+  27 Dec 1918 43
+    activity:resupplying (26,48)
+    unit:Division Gp (36,53)
+    activity:resupplying (25,64)
+Page 448 (type diary) http://wd3.herokuapp.com/pages/AWD0001xgb  ----------
+  28 Dec 1918 22
+    place:Rheinbach (10,27)
+    activity:resupplying (24,36)
+  29 Dec 1918 44
+    activity:resupplying (25,49)
+  30 Dec 1918 51
+  31 Dec 1918 58
+    activity:resupplying (26,61)
+    person:Lieutenant Colonel A G Master (commander) (74,79)
+Page 449 (type cover)
+Page 450 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdy  ----------
+  1 Jan 1919 25
+    place:Rheinbach (11,34)
+    activity:resupplying (24,43)
+    activity:resupplying (24,74)
+Page 451 (type diary) http://wd3.herokuapp.com/pages/AWD0001xe2  ----------
+  2 Jan 1919 23
+    place:Rheinbach (8,29)
+    activity:resupplying (24,32)
+  3 Jan 1919 35
+    activity:resupplying (24,38)
+  4 Jan 1919 41
+    activity:resupplying (24,45)
+  5 Jan 1919 47
+    person:Lieutenant Colonel W K Bernard (joined) (38,52)
+  6 Jan 1919 59
+  7 Jan 1919 65
+    activity:resupplying (24,65)
+  8 Jan 1919 71
+    person:Lieutenant Colonel Bernard (departed_posted) (32,71)
+    person:Lieutenant Colonel W K Bernard (departed_posted) (46,72)
+    person:Captain G Mcdermott (award) (49,85)
+Page 452 (type diary) http://wd3.herokuapp.com/pages/AWD0001xe4  ----------
+  9 Jan 1919 25
+    place:Rheinbach (10,27)
+    activity:resupplying (26,30)
+  15 Jan 1919 50
+    person:Captain S L Thorn (joined) (39,65)
+    person:Lieutenant J S Woodger (promotion) (44,77)
+    person:Captain A A Fraser (other) (62,86)
+Page 453 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdi  ----------
+  Hashtags: #education 
+  16 Jan 1919 22
+    place:Rheinbach (8,27)
+    activity:resupplying (43,30)
+  31 Jan 1919 87
+    person:A G Master (75,85)
+    person:Lieutenant Colonel Master (81,88)
+Page 454 (type diary) http://wd3.herokuapp.com/pages/AWD0001xex  ----------
+  31 Jan 1919 0
+    place:Rheinbach (11,31)
+  1 Feb 1919 33
+    activity:resupplying (25,42)
+    activity:resupplying (24,52)
+Page 455 (type diary) http://wd3.herokuapp.com/pages/AWD0001xf6  ----------
+  Hashtags: #American #msm #Meritous 
+  2 Feb 1919 22
+    place:Rheinbach (11,28)
+  4 Feb 1919 45
+    person:Sergeant F Biggs (award) (53,70)
+    person:Company Quarter Master Sergeant H W Harwood (award) (59,74)
+    person:other J T Brisco (award) (53,80)
+    person:Sergeant F Wallbutton (award) (56,86)
+Page 456 (type diary) http://wd3.herokuapp.com/pages/AWD0001xeu  ----------
+  Hashtags: #leave 
+  5 Feb 1919 22
+Page 457 (type diary) http://wd3.herokuapp.com/pages/AWD0001xgg  ----------
+  Hashtags: #ArmyofOccupation #demobilisation #Demobilisation 
+  6 Feb 1919 23
+    place:Rheinbach (11,27)
+    person:Captain S L Thorn (departed_posted) (42,42)
+  7 Feb 1919 53
+  8 Feb 1919 63
+    domestic:inspections (24,67)
+  10 Feb 1919 75
+Page 458 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfy  ----------
+  Hashtags: #Thaw 
+  10 Feb 1919 0
+    place:Rheinbach (9,24)
+  12 Feb 1919 27
+    place:Rheinbach (6,27)
+  13 Feb 1919 34
+  16 Feb 1919 42
+  17 Feb 1919 59
+    activity:resupplying (26,63)
+    domestic:inspections (24,77)
+Page 459 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdc  ----------
+  18 Feb 1919 21
+    place:Rheinbach (10,28)
+    activity:resupplying (26,32)
+  22 Feb 1919 42
+    domestic:inspections (24,45)
+  24 Feb 1919 49
+    unit:75 & 76 field cos re (35,53)
+  26 Feb 1919 61
+    activity:resupplying (25,66)
+  28 Feb 1919 74
+    unit:1/7 Cheshires (32,78)
+    person:Lieutenant Colonel A G Master (author) (75,89)
+Page 460 (type diary) http://wd3.herokuapp.com/pages/AWD0001xg5  ----------
+  Hashtags: #Summer 
+  1 Mar 1919 24
+    place:Rheinbach (11,31)
+  2 Mar 1919 62
+    person:Captain A F B Jackson (joined) (39,65)
+    person:Captain Teele (casualty_wounded) (64,69)
+  5 Mar 1919 73
+    person:Captain A F B Jackson (other) (70,77)
+    domestic:inspections (25,77)
+Page 461 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfw  ----------
+  Hashtags: #demobilization #horsespurchase 
+  6 Mar 1919 21
+    place:Rheinbach (12,28)
+    domestic:inspections (24,36)
+  8 Mar 1919 45
+    domestic:inspections (24,68)
+Page 462 (type diary) http://wd3.herokuapp.com/pages/AWD0001xgd  ----------
+  Hashtags: #Remounts 
+  8 Mar 1919 0
+    place:Rheinbach (10,27)
+  9 Mar 1919 30
+    person:Second Lieutenant Ferguson (other) (44,32)
+  10 Mar 1919 42
+    domestic:inspections (24,45)
+    person:Sergeant Major C Robinson (departed_posted) (39,53)
+  12 Mar 1919 62
+    person:Lieutenant Colonel G Hawes (other) (35,65)
+    domestic:inspections (24,65)
+  15 Mar 1919 71
+Page 463 (type diary) http://wd3.herokuapp.com/pages/AWD0001xff  ----------
+  15 Mar 1919 0
+    place:Rheinbach (10,28)
+  16 Mar 1919 31
+    domestic:inspections (25,33)
+    person:Staff Sergeant Brisco (resigned) (72,40)
+    person:Second Lieutenant A C Wickham-Jones (resigned) (44,41)
+  17 Mar 1919 51
+    unit:51 Welch Regiment (30,81)
+    unit:2 Welch Regiment (73,81)
+Page 464 (type diary) http://wd3.herokuapp.com/pages/AWD0001xet  ----------
+  18 Mar 1919 27
+    place:Rheinbach (11,28)
+  22 Mar 1919 45
+  23 Mar 1919 62
+    unit:1/4 Cheshires (30,65)
+Page 465 (type diary) http://wd3.herokuapp.com/pages/AWD0001xg4  ----------
+  25 Mar 1919 22
+    place:Rheinbach (9,26)
+    unit:51 S.W.Bs (29,36)
+    unit:53 swb (33,37)
+  26 Mar 1919 42
+    unit:104 Brigade Royal Field Artillery (31,45)
+    unit:25 Brigade Royal Field Artillery (69,45)
+    unit:2/K.R.R. (66,49)
+    unit:53 Welch Regiment (33,50)
+    unit:2 krr (71,50)
+  25 Mar 1919 22
+    unit:2/Welch (44,58)
+    unit:2 Welch Regiment (48,59)
+  28 Mar 1919 68
+    unit:1/S.W.Bs (42,70)
+    unit:53 Cheshires (34,78)
+Page 466 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfo  ----------
+  29 Mar 1919 26
+    place:Rheinbach (9,26)
+  30 Mar 1919 33
+  31 Mar 1919 45
+    unit:51 Welch (30,50)
+    unit:52 swb (31,57)
+    unit:Hqde 75 & 76 fd coys re (29,67)
+    person:Captain G McDermott (departed_posted) (39,78)
+    person:Major J W S Clare (joined) (57,83)
+    person:A G Master (82,91)
+Page 467 (type cover)
+Page 468 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfj  ----------
+  31 Mar 1919 0
+    place:Rheinbach (7,32)
+  1 Apr 1919 38
+    activity:resupplying (27,44)
+    person:Major R G F Saunders (departed_posted) (36,53)
+  4 Apr 1919 58
+Page 469 (type diary) http://wd3.herokuapp.com/pages/AWD0001xf9  ----------
+  Hashtags: #demobilisation 
+  4 Apr 1919 28
+    place:Rheinbach (8,30)
+    person:Captain Ord (joined) (30,33)
+  5 Apr 1919 37
+    person:Captain C H Johnson (resigned) (32,41)
+    person:Second Lieutenant R R Hogg (joined) (53,45)
+  6 Apr 1919 50
+    person:Captain A Ludlow-Hewitt (departed_posted) (33,53)
+    person:Captain Ord (commander) (71,53)
+    person:Lieutenant Lewis (other) (60,62)
+    activity:movement (33,63)
+  7 Apr 1919 71
+    place:Urfeld (5,74)
+    unit:Division hq (26,75)
+  8 Apr 1919 83
+    person:Lieutenant Colonel A G Master (departed_posted) (33,87)
+    person:Lieutenant Colonel R E Sanders (26,91)
+Page 470 (type diary) http://wd3.herokuapp.com/pages/AWD0001xg9  ----------
+  Hashtags: #Demobalisation 
+  9 Apr 1919 26
+    place:Urfeld (7,28)
+    person:Captain K L Gould (commander) (29,29)
+    person:Lieutenant H J Lewis (other) (77,29)
+  10 Apr 1919 33
+    person:Captain A A Fraser (resigned) (31,37)
+    unit:2 krrs (32,40)
+  11 Apr 1919 41
+    unit:2 K.R.Rs (32,41)
+    person:Captain R G Banks (joined) (32,44)
+    person:Lieutenant E C Tyndale (joined) (31,49)
+  13 Apr 1919 53
+    unit:1 camerons (39,54)
+    person:Lieutenant G P Burton (departed_posted) (30,58)
+  14 Apr 1919 62
+    unit:1 l n lancs (40,62)
+    unit:1 L.N.Lancs (34,62)
+    person:Second Lieutenant G A Smith (joined) (29,65)
+    unit:2 R.Sussex (33,69)
+  15 Apr 1919 70
+    unit:2 r sussex (41,70)
+  17 Apr 1919 78
+  20 Apr 1919 87
+    person:Second Lieutenant W G G Macdonald (joined) (37,91)
+Page 471 (type diary) http://wd3.herokuapp.com/pages/AWD0001xh8  ----------
+  22 Apr 1919 31
+  25 Apr 1919 38
+  26 Apr 1919 46
+    person:Major R G F Saunders (joined) (30,50)
+  27 Apr 1919 51
+    person:Lieutenant Kemball-Cook (joined) (27,54)
+  28 Apr 1919 55
+    person:Major R G F Saunders (departed_posted) (31,58)
+  30 Apr 1919 60
+    person:Second Lieutenant Speedy (other) (68,61)
+    person:Second Lieutenant Rees (joined) (25,62)
+Page 472 (type cover)
+Page 473 (type diary) http://wd3.herokuapp.com/pages/AWD0001xec  ----------
+  1 May 1919 30
+    place:Urfeld (7,32)
+    person:Second Lieutenant Speedy (resigned) (29,33)
+  6 May 1919 42
+  8 May 1919 54
+    person:Lieutenant Baldwin (joined) (27,57)
+  13 May 1919 63
+    unit:1 Northamptons (32,69)
+  14 May 1919 71
+    unit:Division Art Group (30,74)
+  15 May 1919 79
+Page 474 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdt  ----------
+  16 May 1919 25
+    person:Second Lieutenant Burgess (departed_posted) (73,28)
+  21 May 1919 38
+    person:Lieutenant K J Hawes (joined) (29,41)
+  23 May 1919 46
+    unit:23 Field Co Royal Engineers (33,49)
+    unit:39 Brigade Royal Field Artillery. (57,49)
+  28 May 1919 54
+    unit:26 Field Co Royal Engineers (31,57)
+    person:Second Lieutenant G A Smith (resigned) (30,62)
+Page 475 (type other) http://wd3.herokuapp.com/pages/AWD0001xdw  ----------
+  28 May 1919 0
+    date:28 May 1919 (36,69)
+Page 476 (type cover)
+Page 477 (type diary) http://wd3.herokuapp.com/pages/AWD0001xf0  ----------
+  28 May 1919 0
+    place:Urfeld (9,29)
+  1 Jun 1919 30
+  7 Jun 1919 42
+    person:Lieutenant H C Bell (resigned) (28,45)
+  8 Jun 1919 46
+  9 Jun 1919 52
+    person:Major Clare (commander) (29,54)
+    person:Lieutenant Colonel R E Sanders (departed_leave) (45,58)
+  10 Jun 1919 63
+  11 Jun 1919 68
+    unit:65 Brigade Royal Field Artillery (28,71)
+  12 Jun 1919 81
+Page 478 (type diary) http://wd3.herokuapp.com/pages/AWD0001xfx  ----------
+  12 Jun 1919 26
+    person:Lieutenant J S Harrison (joined) (75,29)
+    person:Lieutenant K J Hawes (departed_posted) (27,30)
+  13 Jun 1919 34
+    person:Lieutenant J S Harrison (33,38)
+  14 Jun 1919 39
+    person:Second Lieutenant O Rees (departed_posted) (25,42)
+  15 Jun 1919 43
+  16 Jun 1919 47
+  17 Jun 1919 51
+  18 Jun 1919 72
+    unit:466 Battery (24,76)
+    unit:504 Battery (30,76)
+    unit:75 Field Co Royal Engineers (47,82)
+    unit:51 Welch (25,87)
+Page 479 (type diary) http://wd3.herokuapp.com/pages/AWD0001xcp  ----------
+  19 Jun 1919 26
+  20 Jun 1919 60
+  21 Jun 1919 76
+  22 Jun 1919 80
+    activity:other (24,82)
+  23 Jun 1919 84
+    activity:other (26,86)
+  24 Jun 1919 88
+Page 480 (type diary) http://wd3.herokuapp.com/pages/AWD0001xdk  ----------
+  Hashtags: #Peace #Demobalisation 
+  25 Jun 1919 28
+    person:Lieutenant E R Ryder (joined) (29,39)
+    person:Lieutenant C E Findlay (joined) (59,39)
+    person:Second Lieutenant T P Southall (82,39)
+    person:Second Lieutenant F M Carefull (joined) (77,42)
+    person:Lieutenant C H Link (joined) (53,43)
+    person:Second Lieutenant T P Southall (joined) (27,43)
+  26 Jun 1919 47
+    person:Second Lieutenant F M Carefull (joined) (26,47)
+  27 Jun 1919 52
+  28 Jun 1919 56
+    unit:65 Brigade Royal Field Artillery (28,60)
+  29 Jun 1919 65
+    unit:104 Brigade Royal Field Artillery. (23,68)
+  30 Jun 1919 73
+    unit:51 Battalion. Welch (42,92)
+Page 481 (type diary) http://wd3.herokuapp.com/pages/AWD0001xea  ----------
+  Hashtags: #Re 
+  30 Jun 1919 0
+    person:Major General E D Strickland (commander) (66,27)
+    place:Kinmel Park (7,28)
+Page 482 (type diary) http://wd3.herokuapp.com/pages/AWD0001xei  ----------
+  1 Jul 1919 33
+    activity:resupplying (34,41)
+  2 Jul 1919 54
+    activity:resupplying (32,61)
+    activity:resupplying (35,71)
+  3 Jul 1919 78
+  4 Jul 1919 85
+    activity:resupplying (32,89)
+Page 483 (type diary) http://wd3.herokuapp.com/pages/AWD0001xd6  ----------
+  5 Jul 1919 26
+  11 Jul 1919 46
+    person:Major Clare (commander) (27,49)
+    person:Lieutenant Colonel Sanders (departed_leave) (26,52)
+  19 Jul 1919 75
+  21 Jul 1919 87
+    domestic:sport (24,90)
+Page 484 (type ) http://wd3.herokuapp.com/pages/AWD0001xcw  ----------
+  21 Jul 1919 0
+    date:3 Jul 1919 (37,88)
+Page 485 (type diary) http://wd3.herokuapp.com/pages/AWD0001xg6  ----------
+  Hashtags: #Demobilisation 
+  23 Jul 1919 27
+    activity:resupplying (24,27)
+  26 Jul 1919 37
+  30 Jul 1919 49
+Page 486 (type diary) http://wd3.herokuapp.com/pages/AWD0001xgm  ----------
+  1 Aug 1919 30
+    place:Urfeld (7,32)
+  2 Aug 1919 33
+  3 Aug 1919 37
+    person:Lieutenant Colonel Sanders (returned_leave) (29,37)
+  5 Aug 1919 46
+  6 Aug 1919 50
+  8 Aug 1919 59
+    person:Lieutenant Colonel Sanders (award) (26,61)
+    person:Captain Bawden (award) (72,61)
+    person:Major R C F Saunders (award) (48,62)
+    person:Captain Woodger (award) (42,65)
+    person:Captain Ludlow-Hewitt (award) (27,66)
+    person:Sergeant Holgate (award) (64,66)
+    person:Captain Ord (award) (65,70)
+    person:Driver Robson (award) (79,70)
+  9 Aug 1919 71
+    domestic:sport (23,82)
+Page 487 (type diary) http://wd3.herokuapp.com/pages/AWD0001xgh  ----------
+  Hashtags: #horsesevacuated #rd 
+  10 Aug 1919 23
+  12 Aug 1919 33
+    person:Lieutenant Colonel Sanders (departed_posted) (27,36)
+    person:Major Clare (commander) (56,36)
+  13 Aug 1919 39
+  15 Aug 1919 44
+  16 Aug 1919 47
+  17 Aug 1919 51
+  18 Aug 1919 58
+    activity:resupplying (23,62)
+  21 Aug 1919 79
+Page 488 (type diary) http://wd3.herokuapp.com/pages/AWD0001xew  ----------
+  21 Aug 1919 25
+  22 Aug 1919 41
+    activity:movement (23,43)
+    person:Major Clare (other) (26,51)
+    person:Captain Jackson (commander) (81,51)
+  23 Aug 1919 56
+    activity:movement (24,59)
+  24 Aug 1919 60
+    place:Calais (27,64)
+    activity:movement (22,65)
+  25 Aug 1919 69
+    activity:movement (18,71)
+  26 Aug 1919 74
+    activity:movement (24,75)
+  27 Aug 1919 78
+  28 Aug 1919 85
+    weather:rain (22,88)
+Page 489 (type cover)
+Page 490 (type ) http://wd3.herokuapp.com/pages/AWD0001xft  ----------
+  28 Aug 1919 0

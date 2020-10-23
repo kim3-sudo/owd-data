@@ -1,0 +1,683 @@
+GWD00000cn wo/95/1255/4
+1 DIVISION:  Divisional Troops: Divisional Signal Company.  
+55 pages
+
+Page 361 (type cover)
+Page 362 (type cover)
+Page 363 (type diary) http://wd3.herokuapp.com/pages/AWD0001x36  ----------
+  Hashtags: #Newyear 
+  1 Jan 1917 23
+    unit:1 Division (42,25)
+    activity:movement (40,26)
+    unit:50 Division (27,26)
+    place:Fricourt Camp (6,31)
+    time:1000AM (36,31)
+    place:Albert (75,33)
+    time:1000AM (51,33)
+    place:Albert (37,34)
+    place:Albert (7,35)
+    time:1000AM (63,35)
+    place:Fricourt (43,36)
+    activity:movement (29,38)
+    person:Second Lieutenant Noble (other) (45,41)
+    activity:clearing (28,43)
+    time:1100AM (17,43)
+    place:Dernancourt (28,45)
+  2 Jan 1917 48
+    domestic:sport (51,51)
+    activity:resting (28,52)
+    domestic:other (33,52)
+    place:Albert (6,52)
+    time:0900PM (54,54)
+  3 Jan 1917 55
+    time:0430PM (26,55)
+  4 Jan 1917 59
+    place:Albert (7,59)
+  5 Jan 1917 64
+    place:Albert (7,64)
+    place:Albert (7,67)
+  6 Jan 1917 68
+    place:Albert (7,71)
+  7 Jan 1917 72
+    place:Albert (7,76)
+    person:Second Lieutenant Me Holdsworth (31,78)
+    person:Second Lieutenant M E Holdsworth (departed_posted) (27,78)
+  8 Jan 1917 79
+    place:Albert (7,83)
+  9 Jan 1917 84
+    activity:quiet (34,87)
+    place:Albert (7,87)
+Page 364 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2k  ----------
+  10 Jan 1917 25
+    activity:quiet (31,27)
+    place:Albert (7,28)
+  11 Jan 1917 29
+    activity:training (26,32)
+    activity:training (69,32)
+  12 Jan 1917 33
+  13 Jan 1917 37
+    person:Lieutenant T J Evans (joined) (30,37)
+    activity:training (63,39)
+  14 Jan 1917 40
+    domestic:inspections (38,43)
+  15 Jan 1917 44
+    activity:training (30,49)
+  16 Jan 1917 53
+    activity:training (40,53)
+  17 Jan 1917 56
+    activity:training (34,61)
+    unit:Airborne Detachments (26,62)
+  18 Jan 1917 64
+    weather:cold (36,67)
+  19 Jan 1917 68
+    activity:training (33,71)
+  20 Jan 1917 73
+    activity:training (48,78)
+    time:0530PM (39,87)
+    time:0630PM (47,87)
+Page 365 (type diary) http://wd3.herokuapp.com/pages/AWD0001x3f  ----------
+  Hashtags: #N2 
+  21 Jan 1917 24
+    domestic:parades (24,27)
+    domestic:inspections (59,28)
+    domestic:inspections (80,28)
+    place:Albert (6,28)
+    activity:training (34,32)
+    time:1000AM (64,36)
+    time:1200PM (74,36)
+  22 Jan 1917 40
+  23 Jan 1917 44
+    activity:movement (34,45)
+    unit:129 Division (24,47)
+    place:Albert (41,47)
+    time:1100AM (48,48)
+    place:Baizieux (6,48)
+    place:Baizieux (66,48)
+  24 Jan 1917 49
+  25 Jan 1917 53
+    activity:quiet (36,56)
+  26 Jan 1917 57
+  27 Jan 1917 61
+  28 Jan 1917 64
+    place:Chuignolles (42,66)
+    time:0800AM (52,68)
+    place:Chuignolles (7,68)
+    activity:movement (31,68)
+    strength:officer: 0; nco: 0; other: 30 (67,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,71)
+    person:Second Lieutenant Jones (commander) (44,75)
+    place:Baizieux (28,75)
+  29 Jan 1917 80
+    activity:resting (36,83)
+  30 Jan 1917 84
+    place:Chuignes (51,87)
+    activity:reconnoitered (83,88)
+Page 366 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2p  ----------
+  30 Jan 1917 25
+    place:Chuignolles (7,28)
+  31 Jan 1917 36
+    activity:repair (57,42)
+    unit:1 Division signal school (29,44)
+    place:Albert (52,44)
+Page 367 (type diary) http://wd3.herokuapp.com/pages/AWD0001x3a  ----------
+  Hashtags: #MonthSummary 
+  31 Jan 1917 0
+    activity:other (82,29)
+    activity:training (66,37)
+    activity:training (42,61)
+    unit:2/6 Knight, 6 Battalion, Welsh Regiment (35,75)
+    person:Second Lieutenant Knight (other) (33,75)
+    activity:movement (25,83)
+  28 Jan 1917 85
+Page 368 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2b  ----------
+  Hashtags: #MonthSummary 
+  28 Jan 1917 0
+    unit:1 Division (83,28)
+    weather:cold (55,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,51)
+    activity:movement (76,67)
+    person:Captain Gilchrist (75,78)
+Page 369 (type other) http://wd3.herokuapp.com/pages/AWD0001x3u  ----------
+  28 Jan 1917 0
+Page 370 (type cover)
+Page 371 (type diary) http://wd3.herokuapp.com/pages/AWD0001x41  ----------
+  Hashtags: #Flirey 
+  1 Feb 1917 29
+    place:Chuignolles (7,30)
+    place:Chuignolles (62,31)
+    place:Chuignes (73,32)
+    activity:construction (42,32)
+    activity:construction (37,34)
+  2 Feb 1917 36
+    place:Chuignolles (58,36)
+    place:N2 (67,36)
+  3 Feb 1917 40
+    place:Mericourt (66,47)
+    place:Baizieux (37,48)
+    place:Mericourt-Sur-Somme (68,48)
+    time:1000AM (45,48)
+    time:1100AM (82,48)
+  4 Feb 1917 55
+    activity:construction (43,59)
+  5 Feb 1917 61
+    place:Chuignolles (59,64)
+    activity:construction (32,64)
+    activity:construction (44,64)
+    activity:construction (80,64)
+  6 Feb 1917 67
+    place:Chuignolles (41,67)
+    place:Chuignes (53,67)
+    unit:Flirey Regiment of 24 French Division (68,86)
+    unit:Flirey Regiment (52,87)
+    unit:24 French Division (76,88)
+Page 372 (type diary) http://wd3.herokuapp.com/pages/AWD0001x3j  ----------
+  6 Feb 1917 25
+    time:0630PM (80,27)
+    place:Chuignolles (71,27)
+    place:Chuignolles (6,28)
+    place:Chuignes (65,31)
+  7 Feb 1917 33
+    activity:construction (50,36)
+    place:Chuignes (25,40)
+    place:Fontaine-les-Cappy (40,40)
+    place:Chuignes (30,42)
+    unit:Divisional Advanced Dressing Station (43,43)
+    unit:Rto chiugnes (21,44)
+    activity:construction (56,47)
+    unit:108 French (46,55)
+    unit:108 French Regiment (44,55)
+    time:1000AM (80,58)
+    unit:1 Division (29,59)
+    place:Chuignolles (70,59)
+    time:0730PM (17,60)
+    place:Mericourt (73,63)
+    place:Chuignolles (60,71)
+    place:Mericourt (47,74)
+Page 373 (type diary) http://wd3.herokuapp.com/pages/AWD0001x3b  ----------
+  7 Feb 1917 0
+  8 Feb 1917 24
+    place:Chuignolles (5,25)
+    time:1000AM (16,27)
+    place:Fontaine (68,31)
+    place:Chuignes (62,32)
+    activity:construction (41,34)
+    place:Chuignolles (30,39)
+    unit:Right group ra (74,42)
+    gridRef:M_6_C_5_6 (54,47)
+    unit:6 Welsh Battalion (43,47)
+    unit:6 Welsch (41,47)
+    gridRef:M_6_D_5_0 (23,48)
+    gridRef:G_34_C_5_2 (86,48)
+    place:Sucrerie (45,51)
+  9 Feb 1917 52
+    activity:construction (36,56)
+    place:Fontaine-les-Cappy (59,56)
+    place:Chuignolles (47,59)
+    place:Chuignes (60,60)
+  10 Feb 1917 63
+    place:Dompierre (72,63)
+    place:Chuignolles (60,64)
+    place:Chuignolles (66,67)
+    place:Chuignes (74,68)
+  11 Feb 1917 71
+    place:Sucrerie (68,71)
+  12 Feb 1917 79
+    unit:Reserve Artillery Brigade (50,82)
+    unit:Reserve artillary Brigade (61,83)
+    place:Sucrerie (60,87)
+Page 374 (type diary) http://wd3.herokuapp.com/pages/AWD0001x3d  ----------
+  12 Feb 1917 0
+  13 Feb 1917 22
+    unit:39 Brigade (71,26)
+    unit:39 battalion waggoners (78,27)
+    unit:Reserve Artillery Brigade (55,27)
+    place:Chuignolles (6,28)
+    unit:Reserve artillary Brigade (63,28)
+    place:Assevillers (49,40)
+  14 Feb 1917 44
+  15 Feb 1917 59
+    unit:2 battalion (42,60)
+Page 375 (type diary) http://wd3.herokuapp.com/pages/AWD0001x3l  ----------
+  15 Feb 1917 25
+  16 Feb 1917 26
+    place:Chuignolles (7,28)
+    place:Mericourt-Sur-Somme (39,32)
+    place:Chuignolles (76,32)
+    time:1000AM (57,32)
+  17 Feb 1917 40
+    activity:working (42,46)
+  19 Feb 1917 51
+    place:Dompierre (79,54)
+    place:Becquincourt (68,55)
+    activity:construction (30,56)
+    place:Sucrerie (38,59)
+    place:Assevillers (81,61)
+    place:Fontaine-les-Cappy (34,67)
+    place:Fay (48,67)
+  20 Feb 1917 71
+    place:Fontaine-les-Cappy (66,78)
+    place:Assevillers (75,78)
+    place:Becquincourt (33,79)
+    place:Flaucourt (80,86)
+Page 376 (type diary) http://wd3.herokuapp.com/pages/AWD0001x3m  ----------
+  20 Feb 1917 23
+    unit:3 corps (50,27)
+    place:Chuignolles (5,28)
+    activity:working (59,28)
+  21 Feb 1917 31
+    place:Chuignolles (61,36)
+    activity:working (42,37)
+  22 Feb 1917 43
+    place:Sucrerie (26,51)
+    place:Bois Vert (69,59)
+    place:Bois Noir (79,59)
+  23 Feb 1917 63
+    place:Flaucourt (30,63)
+    place:Becquincourt (56,71)
+    place:Chuignes (67,71)
+  24 Feb 1917 74
+Page 377 (type diary) http://wd3.herokuapp.com/pages/AWD0001x33  ----------
+  25 Feb 1917 23
+    activity:other (25,26)
+    domestic:inspections (20,27)
+    place:Chuignolles (6,27)
+  26 Feb 1917 28
+    domestic:inspections (47,28)
+    activity:construction (20,35)
+    unit:French Ponts-et-chaussies (63,59)
+    unit:French ponts et chaussees (76,59)
+  27 Feb 1917 70
+Page 378 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2i  ----------
+  Hashtags: #KITE 
+  28 Feb 1917 34
+  27 Feb 1917 23
+    place:Assevillers (61,27)
+    place:Chuignolles (6,28)
+    place:Bois-des-Loges (25,32)
+  28 Feb 1917 34
+    place:Becquincourt (42,43)
+    place:Bois-Noir (59,44)
+    place:Herbecourt (73,44)
+    place:Bois-des-Loges (35,62)
+    unit:Kite Balloon (48,63)
+    place:Assevillers (69,67)
+    activity:working (31,74)
+    person:Lieutenant Ewart (commander) (70,75)
+    activity:repair (25,79)
+Page 379 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2l  ----------
+  Hashtags: #MonthlySummary 
+  28 Feb 1917 23
+    place:Chuignolles (6,28)
+    activity:construction (25,30)
+    unit:The French (46,59)
+Page 380 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2q  ----------
+  28 Feb 1917 23
+    place:Chuignolles (8,28)
+    activity:construction (24,30)
+    activity:construction (20,51)
+    unit:1 Division Signal Company (19,70)
+    unit:1 Division (18,70)
+    place:Mericourt (25,75)
+    place:Chuignolles (43,82)
+Page 381 (type diary) http://wd3.herokuapp.com/pages/AWD0001x3o  ----------
+  28 Feb 1917 22
+    place:Chuignolles (7,29)
+    person:Captain Gilchrist (author) (59,79)
+Page 382 (type cover)
+Page 383 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2v  ----------
+  28 Feb 1917 0
+    mapRef:62c & 62d (82,12)
+  1 Mar 1917 20
+    place:Chuignolles (5,24)
+    unit:No 1 A section (27,24)
+    place:Becquincourt (79,25)
+    place:Bois-Noir (29,29)
+    place:Herbecourt (42,29)
+    person:Lieutenant Ewart (commander) (38,35)
+    place:Becquincourt (33,39)
+    unit:48 Division (31,46)
+    unit:50 Division (41,46)
+  2 Mar 1917 53
+    unit:2 Brigade (25,61)
+    place:Fontaine-les-Cappy (48,76)
+    place:Assevillers (64,76)
+Page 384 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2u  ----------
+  2 Mar 1917 0
+  3 Mar 1917 21
+    place:Chuignolles (5,24)
+    domestic:hygiene (23,40)
+  4 Mar 1917 41
+    domestic:parades (32,41)
+    domestic:inspections (25,45)
+  5 Mar 1917 48
+    unit:48 Division (39,62)
+    unit:50 Division (45,62)
+  6 Mar 1917 63
+    place:Becquincourt (24,80)
+Page 385 (type diary) http://wd3.herokuapp.com/pages/AWD0001x3k  ----------
+  6 Mar 1917 0
+    activity:construction (26,17)
+  7 Mar 1917 21
+    place:Chuignolles (6,25)
+    place:Becquincourt (22,33)
+    place:Fontaine-les-Cappy (66,37)
+    place:Assevillers (81,37)
+  8 Mar 1917 47
+    place:Martinique Trench (23,61)
+    gridRef:N_15_C_3_4 (48,68)
+    unit:40 batteries Royal Field Artillery. (61,68)
+    unit:113 batteries Royal Field Artillery. (38,69)
+  9 Mar 1917 70
+Page 386 (type diary) http://wd3.herokuapp.com/pages/AWD0001x37  ----------
+  9 Mar 1917 0
+    activity:construction (25,18)
+  10 Mar 1917 20
+    place:Mericourt (67,23)
+    place:Chuignolles (5,24)
+    place:Mericourt (24,36)
+  11 Mar 1917 43
+    domestic:inspections (22,48)
+  12 Mar 1917 50
+    place:Assevillers (53,61)
+    place:Chuignes (25,74)
+Page 387 (type diary) http://wd3.herokuapp.com/pages/AWD0001x3y  ----------
+  Hashtags: #cabling 
+  13 Mar 1917 20
+    place:Chuignolles (4,21)
+    place:Buchot (42,27)
+    place:Becquincourt (62,27)
+    place:Assevillers (27,28)
+  12 Mar 1917 0
+  14 Mar 1917 44
+    place:Chuignes (40,68)
+    place:Chuignolles (29,69)
+    place:Fontaine-les-Cappy (67,71)
+    place:Herbecourt (68,80)
+    unit:Left Sub-Group Royal Field Artillery. (27,83)
+    place:Bois-Noir (57,84)
+Page 388 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2d  ----------
+  14 Mar 1917 0
+  15 Mar 1917 20
+    place:Chuignes (61,24)
+    place:Chuignolles (5,24)
+    activity:achieved (80,25)
+    place:Assevillers (52,29)
+    activity:working (30,32)
+    unit:1/6 Welsh Regiment (47,33)
+    place:Becquincourt (33,50)
+    place:Chuignolles (6,53)
+  16 Mar 1917 67
+    unit:B.w. cable section from iii corps (20,71)
+    unit:Iii corps (49,72)
+    place:Fontaine-les-Cappy (68,84)
+Page 389 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2s  ----------
+  16 Mar 1917 0
+    place:Chuignolles (4,23)
+  17 Mar 1917 24
+    place:Assevillers (30,24)
+    place:River Somme (28,32)
+    unit:Right Brigade (50,32)
+    unit:Left Brigade (63,32)
+    activity:movement (43,33)
+    place:Meudon Quarry (38,37)
+    gridRef:N_15_D_5_6 (27,37)
+  18 Mar 1917 45
+    place:Chuignolles (62,54)
+    strength:officer: 0; nco: 0; other: 46 (67,57)
+    activity:movement (26,58)
+  19 Mar 1917 62
+    unit:R.a. (23,65)
+    unit:Right Group R.A. (19,66)
+    place:Martinique (57,72)
+    unit:Left Group R.A. (71,83)
+Page 390 (type diary) http://wd3.herokuapp.com/pages/AWD0001x28  ----------
+  20 Mar 1917 20
+    activity:construction (18,24)
+    place:Assevillers (39,25)
+    unit:2 Brigade (55,28)
+    unit:Second Brigade (61,28)
+    place:Villers Carbonnel (26,29)
+    unit:2 Brigade (26,40)
+    place:Villers Carbonnel (52,44)
+    gridRef:O_28_B__ (35,46)
+  23 Mar 1917 57
+    activity:working (25,57)
+    place:Becquincourt (7,57)
+  25 Mar 1917 66
+    domestic:inspections (20,71)
+    domestic:other (23,76)
+  26 Mar 1917 81
+Page 391 (type diary) http://wd3.herokuapp.com/pages/AWD0001x34  ----------
+  Hashtags: #cablesalving 
+  27 Mar 1917 21
+  28 Mar 1917 34
+  29 Mar 1917 43
+  30 Mar 1917 53
+  31 Mar 1917 61
+Page 392 (type other) http://wd3.herokuapp.com/pages/AWD0001x2z  ----------
+  Hashtags: #sketch 
+Page 393 (type other) http://wd3.herokuapp.com/pages/AWD0001x2j  ----------
+  Hashtags: #sketch 
+  31 Mar 1917 0
+    mapRef:62d (11,4)
+Page 394 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2t  ----------
+  Hashtags: #MonthSummary 
+  31 Mar 1917 0
+Page 395 (type diary) http://wd3.herokuapp.com/pages/AWD0001x31  ----------
+  31 Mar 1917 0
+    place:Eterpigny (48,67)
+    place:Happlincourt (65,67)
+Page 396 (type diary) http://wd3.herokuapp.com/pages/AWD0001x3c  ----------
+  Hashtags: #cablewagon 
+  31 Mar 1917 0
+    person:Captain Gilchrist (author) (77,91)
+Page 397 (type cover)
+Page 398 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2n  ----------
+  31 Mar 1917 0
+    mapRef:6VC (77,15)
+    mapRef:6Vd (81,15)
+  1 Apr 1917 21
+    place:Chuignolles (7,26)
+    place:Chuignolles (35,32)
+    place:Chuignolles (80,36)
+  2 Apr 1917 42
+    domestic:inspections (22,46)
+    domestic:inspections (60,48)
+    domestic:hygiene (22,51)
+    domestic:hygiene (31,52)
+    activity:training (49,54)
+  3 Apr 1917 55
+    activity:training (21,55)
+    activity:training (72,60)
+    time:0200PM (69,70)
+    time:0400PM (76,70)
+    domestic:parades (35,71)
+  4 Apr 1917 75
+    activity:training (28,75)
+    weather:cold (21,83)
+    weather:cold (37,83)
+    activity:training (35,87)
+Page 399 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2x  ----------
+  4 Apr 1917 22
+    place:Chuignolles (5,22)
+    activity:training (30,29)
+    time:0745AM (73,32)
+    time:0630PM (28,36)
+    time:0800PM (37,36)
+    activity:training (51,39)
+  5 Apr 1917 41
+    place:Mericourt-Sur-Somme (39,52)
+    activity:training (25,71)
+    domestic:parades (39,73)
+  6 Apr 1917 80
+Page 400 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2w  ----------
+  6 Apr 1917 22
+    domestic:inspections (40,29)
+  7 Apr 1917 34
+    strength:officer: 0; nco: 2; other: 30 (52,39)
+    unit:Working Party Divisional Rest Camp (79,39)
+    activity:working (38,40)
+    place:Chuignes (25,48)
+    place:Fontaine-les-Cappy (41,48)
+    activity:construction (21,51)
+    place:Praifort (67,54)
+    place:Mericourt (77,54)
+    place:Chuignolles (53,55)
+    place:Froiny (25,59)
+    activity:training (25,74)
+  8 Apr 1917 80
+    place:Chuignolles (69,82)
+    unit:3 Brigade (32,82)
+    place:Peronne (47,83)
+    unit:2 Brigade (57,83)
+    domestic:inspections (31,86)
+Page 401 (type diary) http://wd3.herokuapp.com/pages/AWD0001x3n  ----------
+  Hashtags: #roadscondition 
+  8 Apr 1917 0
+  9 Apr 1917 22
+    place:Bayonvillers (51,32)
+    place:Mericourt (40,36)
+    place:Chuignes (80,47)
+    place:Fontaine-les-Cappy (32,51)
+  10 Apr 1917 53
+    unit:French d5 (32,68)
+    activity:training (31,70)
+    activity:construction (26,86)
+Page 402 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2e  ----------
+  10 Apr 1917 22
+    unit:3 Brigade (41,29)
+    gridRef:N_3_A__ (27,29)
+    activity:achieved (41,33)
+    unit:Iii corps (56,36)
+  11 Apr 1917 41
+    place:Chuignolles (5,47)
+    time:0900AM (21,48)
+    activity:training (33,50)
+    domestic:parades (25,60)
+  12 Apr 1917 68
+    unit:Working Party from Division Rest Camp (49,79)
+Page 403 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2h  ----------
+  12 Apr 1917 22
+    place:Chuignolles (6,25)
+    activity:construction (35,29)
+    activity:training (20,48)
+  13 Apr 1917 58
+    activity:construction (20,63)
+    place:Chuignes (77,68)
+    activity:construction (23,75)
+    unit:Da (52,79)
+    mapRef:62c (26,80)
+Page 404 (type diary) http://wd3.herokuapp.com/pages/AWD0001x29  ----------
+  13 Apr 1917 21
+    place:Chuignolles (6,24)
+    weather:fine (19,27)
+  14 Apr 1917 30
+    activity:construction (18,35)
+    activity:training (21,42)
+  15 Apr 1917 45
+  16 Apr 1917 58
+    unit:1 Division (26,63)
+    activity:movement (37,65)
+    time:0900AM (36,67)
+    place:Chuignolles (22,67)
+    time:1000AM (72,68)
+    unit:2 Brigade (35,71)
+    place:Chuignolles (53,71)
+    unit:1 D.A. (25,75)
+    place:Chuignolles (71,75)
+    place:Becquincourt (54,76)
+  17 Apr 1917 77
+    time:0600AM (15,82)
+    activity:training (28,83)
+Page 405 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2y  ----------
+  17 Apr 1917 21
+    place:Mericourt-Sur-Somme (6,24)
+    activity:training (37,31)
+    time:0200PM (15,32)
+  18 Apr 1917 34
+    activity:training (19,38)
+    place:Mericourt-Sur-Somme (31,44)
+    place:Cerisy (52,44)
+    place:Mericourt-Sur-Somme (71,44)
+    activity:training (37,50)
+    place:Chuignolles (30,56)
+    place:Mericourt-Sur-Somme (51,56)
+  19 Apr 1917 61
+    activity:training (49,73)
+  20 Apr 1917 80
+    activity:training (45,87)
+Page 406 (type diary) http://wd3.herokuapp.com/pages/AWD0001x2o  ----------
+  20 Apr 1917 23
+    activity:training (20,29)
+    unit:B.S.P. (71,33)
+  21 Apr 1917 40
+  22 Apr 1917 54
+    domestic:inspections (23,59)
+  23 Apr 1917 62
+    activity:training (48,70)
+    time:0900AM (61,79)
+    time:0900PM (42,86)
+Page 407 (type diary) http://wd3.herokuapp.com/pages/AWD0001x3e  ----------
+  23 Apr 1917 21
+    place:Mericourt-Sur-Somme (6,30)
+  24 Apr 1917 34
+    activity:construction (20,38)
+    person:Second Lieutenant Nex Evans (commander) (83,40)
+    place:Maurepas (65,41)
+    unit:Xiv corps (21,43)
+    unit:Xiv company (24,44)
+    activity:training (33,51)
+  25 Apr 1917 61
+    activity:training (25,64)
+    activity:other (24,78)
+Page 408 (type diary) http://wd3.herokuapp.com/pages/AWD0001x3x  ----------
+  Hashtags: #itch 
+  25 Apr 1917 0
+  26 Apr 1917 21
+    activity:training (21,26)
+  27 Apr 1917 33
+  28 Apr 1917 39
+    activity:training (40,43)
+  29 Apr 1917 51
+    domestic:inspections (23,55)
+    domestic:medical (28,56)
+    domestic:inspections (37,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (43,60)
+  30 Apr 1917 64
+    unit:3 Brigade (66,69)
+    activity:training (31,70)
+    place:Nesle (29,73)
+Page 409 (type diary) http://wd3.herokuapp.com/pages/AWD0001x27  ----------
+  Hashtags: #MonthlySummary 
+  30 Apr 1917 0
+    activity:training (28,28)
+    place:Combles (60,48)
+    place:Saillisel (37,49)
+    place:Morval (51,49)
+    place:Rouy (74,71)
+    place:Eterpigny (79,71)
+    place:Mesnil (66,72)
+    place:Nesle (47,74)
+    place:Roisel (25,78)
+Page 410 (type ) http://wd3.herokuapp.com/pages/AWD0001x2c  ----------
+  30 Apr 1917 0
+    person:Captain H G Gilchrist (promotion) (71,35)
+    person:Lieutenant H Carter (promotion) (60,39)
+    unit:R A Signal [Royal Artillery Signal] (27,49)
+    unit:R A Signal [Royal Artillery Signal] (62,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (53,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (64,66)
+    person:Major H G Gilchrist (author) (75,83)
+Page 411 (type orders) http://wd3.herokuapp.com/pages/AWD0001x2m  ----------
+  30 Apr 1917 0
+    reference:Map Amiens 1/100,000 (47,2)
+    person:Major H G Gilchrist (commander) (58,75)
+    date:21 Apr 1917 (61,83)
+Page 412 (type other) http://wd3.herokuapp.com/pages/AWD0001x3g  ----------
+  Hashtags: #sketch 
+  30 Apr 1917 0
+Page 413 (type other) http://wd3.herokuapp.com/pages/AWD0001x2f  ----------
+  Hashtags: #sketch 
+  30 Apr 1917 0
+Page 414 (type cover)
+Page 415 (type cover)

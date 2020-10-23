@@ -1,0 +1,2161 @@
+GWD00000d1 wo/95/1279/2
+1 DIVISION:  3 Infantry Brigade: 2 Battalion Royal Munster Fusiliers.  
+198 pages
+
+Page 130 (type cover)
+Page 131 (type cover)
+Page 132 (type ) http://wd3.herokuapp.com/pages/AWD0001yep  ----------
+Page 133 (type diary) http://wd3.herokuapp.com/pages/AWD0001yh9  ----------
+  14 Jan 1915 23
+    activity:repair (70,28)
+    activity:construction (28,29)
+    place:Mazingarbe (7,31)
+  15 Jan 1915 34
+  16 Jan 1915 41
+    place:Lozingham (5,44)
+    activity:training (78,44)
+  31 Jan 1915 45
+  3 Jan 1916 56
+    strength:officer: 0; nco: 0; other: 65 (36,59)
+  9 Jan 1916 61
+  18 Jan 1916 65
+  29 Jan 1916 69
+  15 Jan 1916 76
+    person:Captain T W Filgate (casualty_died) (34,79)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,79)
+    casualties:died: 1; killed: 0; missing: 2; prisoner: 0; sick: 0; wounded: 0 (21,80)
+    person:Second Lieutenant A M Horsfall (award) (79,82)
+    person:Second Lieutenant (34,82)
+    person:Second Lieutenant A M Horsfall (casualty_mia) (29,83)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 0 (59,83)
+    person:Second Lieutenant T R Price (casualty_mia) (35,86)
+    person:Second Lieutenant T R Price (award) (75,87)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 0 (58,87)
+Page 134 (type diary) http://wd3.herokuapp.com/pages/AWD0001yd9  ----------
+  15 Jan 1916 0
+    person:Second Lieutenant J Obrien (29,31)
+    person:Second Lieutenant J O'Brien (award) (43,32)
+    person:Quarter Master Sergeant R Jones (award) (27,36)
+    person:Sergeant P Harte (casualty_mia) (45,40)
+    person:Sergeant P Harte (casualty_mia) (23,40)
+    person:Sergeant A O'Donoghue (casualty_mia) (45,43)
+    person:A O'Donoghue (casualty_mia) (28,44)
+    person:C Kavanagh (casualty_mia) (24,47)
+    person:Corporal C Kavanagh (casualty_mia) (42,48)
+    person:Private C Barry (casualty_kia) (38,52)
+    person:Private C Barry (casualty_kia) (21,52)
+    person:Sergeant J McGee (award) (43,62)
+    person:Sergeant J Foley (award) (67,64)
+    person:Sergeant J Butler (award) (32,67)
+    person:Corporal J Noonan (award) (56,67)
+    person:Private G Kilpeck (award) (45,71)
+    person:Private G Kilpeck (award) (26,72)
+Page 135 (type cover)
+Page 136 (type diary) http://wd3.herokuapp.com/pages/AWD0001yfq  ----------
+  Hashtags: #bombing 
+  15 Jan 1916 0
+    activity:resting (47,30)
+  1 Feb 1916 31
+    activity:training (41,36)
+  7 Feb 1916 40
+    activity:movement (53,42)
+    place:Raimbert (41,47)
+  13 Feb 1916 49
+    place:Raimbert (17,54)
+    activity:training (39,55)
+  14 Feb 1916 59
+    activity:movement (32,61)
+    place:Lilliers (41,62)
+    place:Noeux Les Mines (35,67)
+    place:Les Brebis (33,71)
+    unit:7 and 15 Battalions of London Regiment, 47 Division (63,73)
+    unit:7 and 15 Londen Regiment (53,73)
+    unit: (71,73)
+    unit:7 & 15 Bns London Regiment (61,74)
+    activity:line (42,75)
+    place:Loos (65,78)
+    unit:15 Division (56,78)
+    unit: (44,78)
+    unit:15 Division (35,81)
+    unit:1 Regiment (61,81)
+  15 Feb 1916 83
+    place:Loos (14,89)
+    activity:line (41,90)
+Page 137 (type diary) http://wd3.herokuapp.com/pages/AWD0001ygf  ----------
+  17 Feb 1916 33
+    activity:enemy_activity (32,29)
+    activity:fire (55,32)
+    place:Harts Crater (29,33)
+    place:Loos (15,40)
+    domestic:accomodation (66,43)
+    unit:1 South wales .... (55,45)
+    unit:1 South Wales Borderers (38,46)
+    unit:1 South Wales Borderers (29,46)
+    place:Les Brebis (38,50)
+  19 Feb 1916 55
+    domestic:accomodation (42,56)
+    activity:reserve (63,56)
+    place:Les Brebis (14,59)
+  20 Feb 1916 60
+    unit:1 South wales .... (46,62)
+    unit:1 South Wales Borderers (36,63)
+    unit:1 Gloucester Regiment (50,65)
+    unit:1 Gloucester Regiment (63,66)
+    unit:1 Gloucesters (63,67)
+    unit:15 Division (35,68)
+  21 Feb 1916 73
+    activity:enemy_activity (59,77)
+    activity:line (38,78)
+    place:Loos (16,80)
+  23 Feb 1916 84
+    activity:support (66,86)
+    unit:1 South Wales Borderers (45,87)
+    unit:1 S.W.B. (34,88)
+Page 138 (type diary) http://wd3.herokuapp.com/pages/AWD0001yfj  ----------
+  24 Feb 1916 35
+    activity:working (67,37)
+    activity:support (46,38)
+    weather:cold (56,42)
+    activity:working (23,43)
+  26 Feb 1916 48
+    unit:1 Northants Brigade (53,49)
+    unit:1 Northants (43,49)
+    activity:reserve (64,53)
+    place:Mazingarbe (63,57)
+    domestic:accomodation (52,58)
+    activity:movement (39,59)
+  27 Feb 1916 61
+    domestic:accomodation (40,65)
+    place:Mazingarbe (16,70)
+    casualties:died: 0; killed: 8; missing: 0; prisoner: 0; sick: 0; wounded: 10 (58,70)
+    activity:fire (37,73)
+    casualties:died: 0; killed: 8; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,73)
+    person:Sergeant Gannon (casualty_kia) (46,75)
+    person:Sergeant Slattery (casualty_kia) (60,75)
+  29 Feb 1916 80
+    place:Le Braquemont (61,82)
+    domestic:accomodation (45,84)
+    activity:movement (38,85)
+    activity:working (65,87)
+    place:Noeux les Mines (36,88)
+Page 139 (type diary) http://wd3.herokuapp.com/pages/AWD0001yfv  ----------
+  Hashtags: #shellshock 
+  24 Feb 1916 37
+  13 Feb 1916 41
+    person:Second Lieutenant A H Sullivan (joined) (66,47)
+    person:Lieutenant A H Batten Poole (joined) (33,48)
+  16 Feb 1916 31
+    person:Second Lieutenant W S Smith (joined) (68,52)
+    person:Second Lieutenant C M Ryan (joined) (42,53)
+    casualties:died: 0; killed: 11; missing: 2; prisoner: 0; sick: 0; wounded: 69 (48,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (70,65)
+    casualties:died: 0; killed: 11; missing: 2; prisoner: 0; sick: 6; wounded: 63 (36,69)
+    person:Second Lieutenant K T Roe (casualty_wounded) (37,79)
+    person:Lieutenant Colonel F Stubbs (commander) (81,82)
+    person:Second Lieutenant T R H Dorman (casualty_mia) (43,84)
+    person:Second Lieutenant T R H Dorman (casualty_mia) (30,84)
+Page 140 (type cover)
+Page 141 (type diary) http://wd3.herokuapp.com/pages/AWD0001ydi  ----------
+  1 Mar 1916 25
+    activity:reserve (42,28)
+    place:Les Brebis (59,28)
+  3 Mar 1916 33
+    activity:line (59,36)
+    unit:10 Battalion of the Gloster Regiment (33,36)
+    place:Maroc (68,36)
+  4 Mar 1916 37
+    activity:line (27,37)
+  5 Mar 1916 41
+    activity:line (23,41)
+    activity:line (22,44)
+  6 Mar 1916 46
+    unit:S.W Borduers (55,46)
+    activity:support (76,48)
+    activity:line (35,49)
+    activity:working (47,52)
+  8 Mar 1916 56
+    activity:support (25,56)
+  9 Mar 1916 60
+    activity:support (22,60)
+    activity:line (82,63)
+  10 Mar 1916 64
+    unit:4 Platoon R. S, Fusiliers (41,64)
+    unit:1 South Wales Borderers (71,64)
+    unit:4 Platoons of R I Fusiliers (31,64)
+    activity:line (23,67)
+    person:Second Lieutenant H G Whelan (joined) (43,67)
+  11 Mar 1916 69
+    activity:line (23,71)
+  13 Mar 1916 75
+    activity:line (32,75)
+    activity:reserve (75,75)
+    unit:1 South Wales Borderers (48,75)
+    place:Maroc (83,75)
+  14 Mar 1916 77
+    activity:reserve (25,79)
+  15 Mar 1916 81
+    activity:reserve (80,82)
+    unit:2 Sussex Regiment (41,83)
+    person:Second Lieutenant F M West (casualty_wounded) (40,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (57,86)
+    place:Les Brebis (23,87)
+Page 142 (type diary) http://wd3.herokuapp.com/pages/AWD0001yge  ----------
+  16 Mar 1916 25
+    activity:reserve (32,28)
+  17 Mar 1916 29
+    activity:reserve (24,31)
+    person:Major Blockley (commander) (47,32)
+    person:Lieutenant Colonel Stubbs (other) (66,32)
+  18 Mar 1916 33
+    activity:reserve (23,36)
+  19 Mar 1916 37
+    activity:reserve (23,40)
+    person:Second Lieutenant J H Jordeson (promotion) (40,40)
+  20 Mar 1916 41
+    activity:reserve (23,44)
+  22 Mar 1916 46
+    activity:line (30,48)
+    unit:1 Cameron Highlanders (61,48)
+    place:Loos (39,48)
+  23 Mar 1916 50
+    activity:line (23,52)
+    person:Captain Oldnall (joined) (37,52)
+  24 Mar 1916 53
+    unit:1 South Wales Borderers (36,55)
+    activity:support (59,56)
+    unit:1/S. W. B. (40,56)
+  25 Mar 1916 57
+    activity:support (23,59)
+  26 Mar 1916 60
+    person:Second Lieutenant J H Bennett (joined) (39,60)
+    activity:support (23,64)
+  27 Mar 1916 65
+  28 Mar 1916 68
+    activity:line (38,68)
+    unit:1 South Wales Borderers (27,68)
+    place:Loos (46,68)
+    unit:1 S.W. B (37,69)
+  29 Mar 1916 72
+    activity:line (26,73)
+  30 Mar 1916 76
+    activity:line (29,77)
+    activity:reserve (63,79)
+    unit:1 South Wales Borderers (39,79)
+    place:Maroc (74,79)
+  31 Mar 1916 80
+    unit:1 S.W. B (31,80)
+    activity:reserve (30,83)
+Page 143 (type diary) http://wd3.herokuapp.com/pages/AWD0001ygu  ----------
+  31 Mar 1916 24
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 39 (38,31)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 39 (63,34)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 39 (23,35)
+    person:Sergeant Walker (casualty_kia) (32,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 39 (50,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 39 (25,40)
+Page 144 (type cover)
+Page 145 (type cover)
+Page 146 (type diary) http://wd3.herokuapp.com/pages/AWD0001yi5  ----------
+  1 Apr 1916 25
+    activity:reserve (33,28)
+  2 Apr 1916 29
+    unit:2 Sussex Regiment (42,32)
+    activity:reserve (76,33)
+    domestic:inspections (37,36)
+    place:Les Brebis (22,36)
+  3 Apr 1916 37
+    activity:training (54,37)
+    activity:working (80,37)
+    domestic:parades (43,37)
+    activity:reserve (25,40)
+  4 Apr 1916 42
+    activity:reserve (24,44)
+  6 Apr 1916 49
+    activity:reserve (24,49)
+    activity:reserve (24,52)
+  7 Apr 1916 53
+    activity:reserve (26,56)
+    person:Major T T Stubbs (departed_leave) (40,57)
+    person:Major W B Lyons (joined) (60,57)
+  9 Apr 1916 64
+    unit:1 Cameron Highlanders (66,64)
+    unit:1/Cameron Highrs. (67,64)
+    activity:line (32,64)
+    place:Maroc (42,64)
+  10 Apr 1916 68
+    activity:line (26,68)
+    person:Lieutenant S S Payne (joined) (39,68)
+    activity:line (25,72)
+  11 Apr 1916 73
+    unit:1 South Wales Borderers (42,75)
+    activity:reserve (63,76)
+    activity:working (32,79)
+  12 Apr 1916 80
+    activity:reserve (23,83)
+  14 Apr 1916 84
+    unit:1 South Wales Borderers (30,87)
+    activity:line (38,87)
+Page 147 (type diary) http://wd3.herokuapp.com/pages/AWD0001yfs  ----------
+  Hashtags: #shellshock 
+  16 Apr 1916 28
+    activity:line (23,28)
+  17 Apr 1916 32
+    activity:line (23,32)
+    unit:1 South Wales Borderers (34,36)
+    activity:support (56,36)
+  20 Apr 1916 40
+    person:Captain G Kennedy (joined) (38,40)
+    activity:support (22,40)
+    place:Les Brebis (72,44)
+    unit:2 Sussex Regiment (37,44)
+  21 Apr 1916 45
+    activity:reserve (61,45)
+  22 Apr 1916 49
+    activity:reserve (24,49)
+    activity:reserve (26,51)
+  23 Apr 1916 53
+    person:Second Lieutenant S J Pegum (joined) (39,56)
+    activity:reserve (22,56)
+  24 Apr 1916 57
+    activity:reserve (24,59)
+  26 Apr 1916 63
+    activity:reserve (23,63)
+    person:Second Lieutenant J McGuire (joined) (36,64)
+    person:Second Lieutenant W S Clarke (joined) (54,64)
+    activity:line (28,67)
+  27 Apr 1916 68
+    place:Loos (36,68)
+    unit:1 Cameron Highlanders (56,68)
+    activity:line (27,70)
+  28 Apr 1916 73
+    activity:line (25,73)
+  30 Apr 1916 79
+    person:Second Lieutenant J F Shea (casualty_wounded) (66,79)
+    unit:1 South Wales Borderers (36,79)
+    activity:support (55,79)
+    activity:support (24,83)
+Page 148 (type diary) http://wd3.herokuapp.com/pages/AWD0001yhj  ----------
+  30 Apr 1916 0
+    casualties:died: 0; killed: 7; missing: 0; prisoner: 0; sick: 0; wounded: 15 (34,28)
+    casualties:died: 0; killed: 7; missing: 0; prisoner: 0; sick: 0; wounded: 15 (54,34)
+    casualties:died: 0; killed: 7; missing: 0; prisoner: 0; sick: 0; wounded: 15 (29,35)
+    casualties:died: 0; killed: 7; missing: 0; prisoner: 0; sick: 0; wounded: 15 (38,40)
+    casualties:died: 0; killed: 7; missing: 0; prisoner: 0; sick: 0; wounded: 15 (55,41)
+Page 149 (type cover)
+Page 150 (type cover)
+Page 151 (type diary) http://wd3.herokuapp.com/pages/AWD0001ydu  ----------
+  Hashtags: #OldGermanline #oldgermanline 
+  1 May 1916 26
+    activity:support (32,28)
+    place:Loos (60,28)
+    mapRef:Sheet 36 b (19,33)
+  2 May 1916 37
+    place:Seaforth Alley (55,38)
+    activity:line (31,39)
+    place:Loos (16,40)
+  3 May 1916 41
+    unit:1/Glosters (65,43)
+    place:Loos (17,44)
+  4 May 1916 45
+    activity:line (30,45)
+    place:Loos (16,48)
+  5 May 1916 49
+    activity:line (31,49)
+    activity:line (30,52)
+    place:Loos (15,52)
+  6 May 1916 53
+    unit:1 South Wales Borderers (41,53)
+    activity:support (32,56)
+    place:Maroc (17,56)
+  7 May 1916 58
+    activity:support (31,61)
+  8 May 1916 62
+    unit:1 Northants (48,65)
+  9 May 1916 67
+    activity:support (30,67)
+  30 Apr 1916 0
+  9 May 1916 67
+    activity:reserve (31,70)
+    place:Petit Sains (17,70)
+  11 May 1916 75
+    activity:reserve (30,75)
+    place:Petit Sains (15,75)
+    activity:reserve (31,78)
+    place:Petit Sains (15,78)
+  12 May 1916 79
+    activity:reserve (30,82)
+  13 May 1916 83
+    activity:movement (42,84)
+    place:Petit Sains (14,84)
+  14 May 1916 86
+    activity:reserve (30,86)
+    unit:13 Essex (55,88)
+    activity:line (30,89)
+    unit:1 Gloucesters (40,89)
+    place:Maroc (17,89)
+Page 152 (type diary) http://wd3.herokuapp.com/pages/AWD0001yew  ----------
+  15 May 1916 27
+    place:Maroc (20,29)
+    activity:line (31,29)
+  16 May 1916 31
+    activity:line (30,34)
+  17 May 1916 36
+    activity:line (30,40)
+  18 May 1916 41
+    activity:line (29,44)
+  19 May 1916 46
+    unit:1 / S.W.B. (37,49)
+    activity:line (29,50)
+    place:Neuf Alley (65,53)
+    activity:enemy_activity (39,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 3; sick: 0; wounded: 0 (52,57)
+  20 May 1916 66
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 5 (39,66)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 5 (31,67)
+    activity:reserve (32,69)
+  21 May 1916 70
+    place:Vimy (69,73)
+  22 May 1916 74
+    activity:reserve (29,74)
+    activity:enemy_activity (43,74)
+  23 May 1916 78
+    activity:reserve (29,78)
+  24 May 1916 82
+    activity:reserve (28,85)
+  25 May 1916 87
+    activity:reserve (28,89)
+Page 153 (type diary) http://wd3.herokuapp.com/pages/AWD0001yfd  ----------
+  26 May 1916 28
+    place:S. Maroc (21,30)
+    activity:reserve (34,30)
+  27 May 1916 32
+    activity:reserve (30,36)
+    time:1045PM (41,36)
+    activity:enemy_activity (64,39)
+    activity:movement (40,40)
+  28 May 1916 44
+    activity:reserve (32,48)
+  29 May 1916 49
+    activity:reserve (30,52)
+    unit:1/L.N. Lancs Reg (51,52)
+  30 May 1916 54
+    place:Les Brebis (19,56)
+    person:Lieutenant S S Payne (departed_leave) (51,56)
+    activity:reserve (31,57)
+  31 May 1916 58
+    place:Les Brebis (20,61)
+    activity:reserve (31,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 30 (67,64)
+    casualties:died: 0; killed: 13; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,65)
+    casualties:died: 0; killed: 13; missing: 0; prisoner: 0; sick: 0; wounded: 30 (47,65)
+    casualties:died: 0; killed: 13; missing: 0; prisoner: 0; sick: 0; wounded: 30 (36,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 30 (30,70)
+    unit:9 Royal Munster Fusiliers (65,74)
+    person:Major L R Shildrick (joined) (36,78)
+    person:Captain M M Fletcher (joined) (56,78)
+    strength:officer: 0; nco: 0; other: 117 (46,82)
+    person:Second Lieutenant H S Beevor (joined) (30,83)
+  25 May 1916 84
+    person:Captain H M Humphries (joined) (61,85)
+    person:Captain H M Humphries (joined) (51,86)
+    person:Captain E D Conran (casualty_wounded) (49,90)
+Page 154 (type diary) http://wd3.herokuapp.com/pages/AWD0001yeh  ----------
+  25 May 1916 0
+    person:Second Lieutenant D J B Murray (casualty_wounded) (37,29)
+    person:Major H B Lyons (60,37)
+Page 155 (type cover)
+Page 156 (type orders) http://wd3.herokuapp.com/pages/AWD0001yic  ----------
+  25 May 1916 0
+    date:12 May 1916 (61,13)
+    reference:Trench Map 1:10000 (38,15)
+    reference:Trench Map 1:10000 (45,16)
+    orders:move (36,17)
+    orders:move (36,32)
+    reference:Appendix 4 (56,4)
+    person:Captain J O'Brien (52,63)
+Page 157 (type orders) http://wd3.herokuapp.com/pages/AWD0001yfc  ----------
+  25 May 1916 0
+    reference:Appendix III (66,11)
+    date:8 May 1916 (34,34)
+    orders:other (46,41)
+Page 158 (type orders) http://wd3.herokuapp.com/pages/AWD0001ydg  ----------
+  25 May 1916 0
+    date:2 May 1916 (52,10)
+    reference:Appendix I (64,11)
+    reference:French Map (35,14)
+    reference:Appendix 1 (67,15)
+    person:Captain J O'Brien (commander) (56,82)
+Page 159 (type orders) http://wd3.herokuapp.com/pages/AWD0001ygl  ----------
+  25 May 1916 0
+    reference:Trench Map 1:1000 Sheet 36 C.S.W.I (41,12)
+    reference:Trench Map 36 C S W 1 (54,13)
+    reference:French Map 1/1000 (39,13)
+    reference:Trench Map 1/1000 Sheet 36 c. S.W.I. (36,31)
+    reference:operation order no.6 (36,4)
+    reference:Appendix II (62,7)
+    date:5 May 1916 (54,7)
+    person:Captain J O'Brien (other) (56,95)
+Page 160 (type cover)
+Page 161 (type diary) http://wd3.herokuapp.com/pages/AWD0001ye7  ----------
+  1 Jun 1916 20
+    place:Les Brebis (7,23)
+    activity:reserve (20,26)
+    place:Les Brebis (7,28)
+  2 Jun 1916 29
+    place:Calonne (7,32)
+    unit:10 Glouchester Regiment (64,33)
+  3 Jun 1916 38
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 0 (53,40)
+    person:Private Lyttle (casualty_mia) (34,40)
+  6 Jun 1916 49
+    unit:1 South Wales Borderers (32,51)
+    activity:reserve (53,51)
+    unit:1 S.W.B (17,52)
+    unit:1 S.W.B (34,52)
+    place:Grenay (5,52)
+  8 Jun 1916 56
+    unit:1 S.W.B. (24,59)
+  10 Jun 1916 64
+    unit:1 South Wales Borderers (28,66)
+    unit:1 S.W.B. (16,67)
+    unit:1 S.W.B (28,67)
+    place:Calonne (4,67)
+  12 Jun 1916 73
+    unit:19 R. W. Fusiliers (40 Division) (25,74)
+    unit:19 R W Fus (33,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (63,75)
+    person:Captain J O'Brien (casualty_wounded) (54,75)
+    person:Second Lieutenant S L Clark (joined) (78,75)
+  14 Jun 1916 84
+    activity:support (28,87)
+  15 Jun 1916 89
+    person:Second Lieutenant S L Clark (casualty_wounded) (30,90)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,91)
+Page 162 (type diary) http://wd3.herokuapp.com/pages/AWD0001yfr  ----------
+  16 Jun 1916 25
+    person:Second Lieutenant G O'Callaghan (other) (38,29)
+    activity:support (31,29)
+    person:Captain Carrigan (other) (55,30)
+    place:Calonne (17,30)
+  17 Jun 1916 35
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (50,40)
+    person:Second Lieutenant Lj Nugent (casualty_wounded) (39,40)
+    activity:support (29,40)
+  18 Jun 1916 45
+    activity:support (30,49)
+  20 Jun 1916 56
+  21 Jun 1916 60
+    unit:1 South Wales Borderers (35,60)
+    activity:line (29,64)
+  22 Jun 1916 65
+    place:Les Brebis (17,69)
+    activity:reserve (64,69)
+    unit:8 Roy Bucks (44,70)
+  23 Jun 1916 71
+    person:Captain D D Sheehan (joined) (59,74)
+    strength:officer: 0; nco: 0; other: 31 (44,75)
+    activity:reserve (29,75)
+    person:Second Lieutenant G G Hewison (joined) (35,79)
+  24 Jun 1916 81
+    place:Calonne (15,83)
+    activity:movement (30,84)
+Page 163 (type diary) http://wd3.herokuapp.com/pages/AWD0001yhx  ----------
+  25 Jun 1916 22
+    activity:line (28,26)
+    activity:raid (49,27)
+    place:Calonne (12,28)
+    time:1110PM (64,31)
+    place:Lieyen (53,31)
+  26 Jun 1916 37
+    place:Les Brebis (13,41)
+  27 Jun 1916 43
+    unit:10 Glosters (16,45)
+    strength:officer: 0; nco: 0; other: 87 (48,46)
+    activity:reserve (29,46)
+  28 Jun 1916 47
+  29 Jun 1916 53
+  30 Jun 1916 59
+    person:Second Lieutenant E V Twiss (joined) (36,64)
+    person:Second Lieutenant B Roche (joined) (51,64)
+    casualties:died: 0; killed: 10; missing: 12; prisoner: 0; sick: 0; wounded: 74 (26,70)
+    casualties:died: 0; killed: 9; missing: 10; prisoner: 0; sick: 0; wounded: 70 (54,77)
+    casualties:died: 0; killed: 10; missing: 12; prisoner: 0; sick: 0; wounded: 74 (43,77)
+Page 164 (type diary) http://wd3.herokuapp.com/pages/AWD0001yg2  ----------
+  Hashtags: #militarymedal #militarycross 
+  30 Jun 1916 0
+    person:Second Lieutenant E D Conran (award) (27,36)
+    person:Private Looney (award) (27,48)
+    person:Sergeant Smith (award) (27,60)
+    person:Corporal F Ring (award) (28,66)
+    person:Lance Corporal Wills (award) (33,70)
+Page 165 (type orders) http://wd3.herokuapp.com/pages/AWD0001yhf  ----------
+  30 Jun 1916 0
+    orders:move (33,14)
+    reference:R.5.C.7.3 (61,38)
+    date:1 Jun 1916 (33,75)
+    reference:operation order no.10 (38,8)
+Page 166 (type signals) http://wd3.herokuapp.com/pages/AWD0001ye9  ----------
+  Hashtags: #alliedrelations #ententecordiale 
+  30 Jun 1916 0
+    unit:104 Regiment Infantarie Armee Active Francaise (30,21)
+    unit:104 Regiment of the French Armed Infantry (39,22)
+    signals:other (31,32)
+Page 167 (type signals) http://wd3.herokuapp.com/pages/AWD0001yeb  ----------
+  Hashtags: #King 
+  30 Jun 1916 0
+    date:4 Jun 1916 (64,11)
+    unit:104 Regiment of the French Armed Infantry (45,26)
+    person:Colonel Tearigin (commander) (39,85)
+Page 168 (type signals) http://wd3.herokuapp.com/pages/AWD0001yek  ----------
+  30 Jun 1916 0
+    date:4 Jun 1916 (63,18)
+Page 169 (type signals) http://wd3.herokuapp.com/pages/AWD0001yhv  ----------
+  Hashtags: #faint #king 
+  30 Jun 1916 0
+    date:4 Jun 1916 (63,10)
+    date:4 Jun 1916 (65,14)
+Page 170 (type other) http://wd3.herokuapp.com/pages/AWD0001yf6  ----------
+  Hashtags: #alliedrelations 
+  30 Jun 1916 0
+Page 171 (type orders) http://wd3.herokuapp.com/pages/AWD0001yei  ----------
+  30 Jun 1916 0
+    reference:operation order no.11 (36,24)
+    date:6 Jun 1916 (40,32)
+Page 172 (type orders) http://wd3.herokuapp.com/pages/AWD0001ye3  ----------
+  30 Jun 1916 0
+    reference:operation order no.12 (35,8)
+    date:9 Jun 1916 (40,82)
+Page 173 (type orders) http://wd3.herokuapp.com/pages/AWD0001ydj  ----------
+  30 Jun 1916 0
+    reference:operation order no.13 (36,18)
+    date:14 Jun 1916 (53,29)
+    reference:APPENDIX 9 (39,72)
+Page 174 (type orders) http://wd3.herokuapp.com/pages/AWD0001ygi  ----------
+  Hashtags: #Wire 
+  30 Jun 1916 0
+    reference:wire cutters (29,6)
+Page 175 (type orders) http://wd3.herokuapp.com/pages/AWD0001yft  ----------
+  30 Jun 1916 0
+    reference:operation order no.16 (35,10)
+    date:23 Jun 1916 (35,62)
+Page 176 (type orders) http://wd3.herokuapp.com/pages/AWD0001yfi  ----------
+  30 Jun 1916 0
+    reference:operation order no.14 (39,4)
+    date:19 Jun 1916 (55,8)
+Page 177 (type orders) http://wd3.herokuapp.com/pages/AWD0001yf1  ----------
+  30 Jun 1916 0
+    reference:operation order no.15 (35,10)
+    date:22 Jun 1916 (40,56)
+    reference:APPENDIX 11 (43,65)
+Page 178 (type orders) http://wd3.herokuapp.com/pages/AWD0001yh2  ----------
+  30 Jun 1916 0
+    reference:3rd Brigade no. 5858/2 (52,23)
+    orders:attack (16,39)
+Page 179 (type orders) http://wd3.herokuapp.com/pages/AWD0001ydc  ----------
+  30 Jun 1916 0
+    reference:distribution of picquets (19,5)
+Page 180 (type orders) http://wd3.herokuapp.com/pages/AWD0001yha  ----------
+  Hashtags: #camouflage 
+  30 Jun 1916 0
+    date:21 Jun 1916 (63,12)
+    reference:Aeropland Photgraph No. 18.A.1.48 (53,16)
+    reference:AEROPLANE PHOTO 18.A.148 (59,17)
+    reference:Photo No 18.A.1 48 (35,18)
+    date:5 May 1916 (48,19)
+    orders:attack (38,23)
+    reference:M.15.D.2 1/2.1 1/2 (40,40)
+    reference:AEROPLANE PHOTO 18.A.148 (60,57)
+    reference:plan for raid (37,9)
+Page 181 (type orders) http://wd3.herokuapp.com/pages/AWD0001yd7  ----------
+  30 Jun 1916 0
+    orders:attack (38,13)
+    reference:M.15.D.2 .2 (40,36)
+    reference:plan for raid - page 2 (35,4)
+Page 182 (type orders) http://wd3.herokuapp.com/pages/AWD0001yel  ----------
+  30 Jun 1916 0
+    orders:attack (34,17)
+    reference:plan for raid - page 3 (41,8)
+Page 183 (type orders) http://wd3.herokuapp.com/pages/AWD0001yhw  ----------
+  30 Jun 1916 0
+    reference:plan for raid - page 4 (42,3)
+    orders:attack (38,6)
+Page 184 (type orders) http://wd3.herokuapp.com/pages/AWD0001yfe  ----------
+  30 Jun 1916 0
+    reference:plan for raid - page 5 (44,2)
+    orders:attack (42,6)
+Page 185 (type orders) http://wd3.herokuapp.com/pages/AWD0001yiv  ----------
+  30 Jun 1916 0
+    reference:M.15.D.4.6 (52,29)
+    reference:plan for raid - page 6 (41,3)
+    reference:M.15.D.1.7 (61,32)
+    orders:attack (37,5)
+    person:Lieutenant A H Batten-Pooll (other) (39,56)
+Page 186 (type other) http://wd3.herokuapp.com/pages/AWD0001yho  ----------
+  Hashtags: #sketch 
+  30 Jun 1916 0
+Page 187 (type report) http://wd3.herokuapp.com/pages/AWD0001yg5  ----------
+  Hashtags: #prisoners 
+  30 Jun 1916 0
+    reference:No. 5869 dated 26th June 1916 (45,13)
+    reference:36.c.s.w.2 (48,31)
+    reference:M.15.D.4.6 (51,33)
+    reference:M.15.D.4 (53,34)
+    person:Second Lieutenant Smith (casualty_kia) (47,71)
+    reference:ref order 5869 (40,9)
+Page 188 (type report) http://wd3.herokuapp.com/pages/AWD0001yhi  ----------
+  Hashtags: #prisoners #machinegun 
+  30 Jun 1916 0
+    reference:ref order 5869 - page 2 (34,2)
+    reference:M.15.D.4.6 (44,21)
+    casualties:died: 0; killed: 0; missing: 2; prisoner: 0; sick: 0; wounded: 0 (58,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (43,28)
+    person:Lieutenant Batten-Pooll (casualty_wounded) (37,28)
+    person:Second Lieutenant Beevor (casualty_wounded) (46,29)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,35)
+    person:Second Lieutenant Clarke (casualty_kia) (42,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,46)
+    person:Second Lieutenant Jordeson (combat) (39,50)
+    person:Private Rock (combat) (51,55)
+    person:Private Rock (casualty_kia) (45,56)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,57)
+    person:Second Lieutenant Jordeson (commander) (59,67)
+    person:Lieutenant Batten-Pooll (commander) (56,68)
+Page 189 (type report) http://wd3.herokuapp.com/pages/AWD0001yej  ----------
+  30 Jun 1916 0
+    reference:ref order 5869 - page 3 (35,2)
+    person:Lieutenant Colonel W B Lyons (commander) (52,28)
+Page 190 (type cover)
+Page 191 (type report) http://wd3.herokuapp.com/pages/AWD0001yee  ----------
+  30 Jun 1916 0
+    person:Captain Angel (combat) (58,39)
+    reference:report on raid of 25/6/1916 (37,7)
+Page 192 (type report) http://wd3.herokuapp.com/pages/AWD0001yh8  ----------
+  30 Jun 1916 0
+    person:Second Lieutenant Clarke (casualty_kia) (47,36)
+Page 193 (type report) http://wd3.herokuapp.com/pages/AWD0001yde  ----------
+  Hashtags: #equipmentevaluation 
+  30 Jun 1916 0
+    person:Second Lieutenant Smith (casualty_wounded) (38,56)
+    date:27 Jun 1916 (35,93)
+    person:Lieutenant Colonel W B Lyons (commander) (49,93)
+Page 194 (type other) http://wd3.herokuapp.com/pages/AWD0001ye2  ----------
+  Hashtags: #newspaper 
+  30 Jun 1916 0
+Page 195 (type other) http://wd3.herokuapp.com/pages/AWD0001yh1  ----------
+  30 Jun 1916 0
+    date:26 Jun 1916 (36,93)
+Page 196 (type ) http://wd3.herokuapp.com/pages/AWD0001ydn  ----------
+  30 Jun 1916 0
+Page 197 (type report) http://wd3.herokuapp.com/pages/AWD0001yi1  ----------
+  30 Jun 1916 0
+    date:29 Jun 1916 (39,95)
+Page 198 (type report) http://wd3.herokuapp.com/pages/AWD0001yhb  ----------
+  30 Jun 1916 0
+    date:26 Jun 1916 (45,13)
+    reference:MAROC SECTION (36,31)
+    reference:LOOS SECTION (36,37)
+    reference:APPENDIX 16 (66,39)
+    reference:14 BIS  SECTION (37,42)
+    reference:H.31.B.2.5 (34,44)
+    reference:H.25.4 (34,51)
+    reference:HUULUCH SECTION (37,64)
+    reference:APPENDIX 16 (57,7)
+    reference:HOHENZOLLERN SECTION (36,72)
+    reference:M.16.A.7 1/2.7 (44,83)
+    reference:M.10.B.5.1 (36,93)
+Page 199 (type report) http://wd3.herokuapp.com/pages/AWD0001yhc  ----------
+  30 Jun 1916 0
+    person:Captain E H Smythe (author) (51,75)
+Page 200 (type report) http://wd3.herokuapp.com/pages/AWD0001ydd  ----------
+  30 Jun 1916 0
+    date:27 Jun 1916 (42,10)
+    reference:Wad Appendix 16 (61,7)
+Page 201 (type report) http://wd3.herokuapp.com/pages/AWD0001yi3  ----------
+  30 Jun 1916 0
+    person:Captain Smythe (author) (53,92)
+    date:27 Jun 1916 (38,96)
+Page 202 (type orders) http://wd3.herokuapp.com/pages/AWD0001yhn  ----------
+  30 Jun 1916 0
+Page 203 (type orders) http://wd3.herokuapp.com/pages/AWD0001yib  ----------
+  30 Jun 1916 0
+Page 204 (type ) http://wd3.herokuapp.com/pages/AWD0001yhl  ----------
+  30 Jun 1916 0
+    reference:machine gun scheme for 25/26 June 1916 (40,5)
+    date:24 Jun 1916 (38,72)
+Page 205 (type orders) http://wd3.herokuapp.com/pages/AWD0001yf3  ----------
+  30 Jun 1916 0
+    reference:machine gun scheme for 25/26 June 1916 (7,5)
+Page 206 (type orders) http://wd3.herokuapp.com/pages/AWD0001yh5  ----------
+  30 Jun 1916 0
+    reference:machine gun scheme for 25/26 June 1916 (11,8)
+Page 207 (type orders) http://wd3.herokuapp.com/pages/AWD0001yfk  ----------
+  30 Jun 1916 0
+    reference:scheme for raid (41,7)
+Page 208 (type orders) http://wd3.herokuapp.com/pages/AWD0001yhd  ----------
+  30 Jun 1916 0
+    reference:scheme for raid - page 2 (30,4)
+    orders:attack (36,7)
+    person:H B Davies (commander) (55,77)
+    date:18 Jun 1916 (38,81)
+Page 209 (type orders) http://wd3.herokuapp.com/pages/AWD0001yeu  ----------
+  30 Jun 1916 0
+    reference:artillery for raid - page 2 (38,4)
+    orders:attack (32,5)
+    date:18 Jun 1916 (37,96)
+Page 210 (type orders) http://wd3.herokuapp.com/pages/AWD0001ygn  ----------
+  30 Jun 1916 0
+    date:25 Jun 1916 (33,48)
+    reference:3rd Brigade operation order no.95 (41,9)
+Page 211 (type orders) http://wd3.herokuapp.com/pages/AWD0001ydw  ----------
+  30 Jun 1916 0
+    reference:orders forb trench party (32,3)
+Page 212 (type cover)
+Page 213 (type diary) http://wd3.herokuapp.com/pages/AWD0001yd8  ----------
+  30 Jun 1916 0
+    mapRef:57 DSE (78,21)
+  1 Jul 1916 22
+    place:Les Brebis (11,23)
+    mapRef:Martin Puich Area (77,25)
+    activity:resting (45,26)
+    activity:reserve (28,27)
+    mapRef:57 CSW (78,27)
+  3 Jul 1916 30
+    unit:2 Battalion Royal Munster Fusiliers 1 Division (27,33)
+    unit:2 Battalion Royal Munster Fusiliers 40 Division (43,33)
+  4 Jul 1916 35
+  5 Jul 1916 39
+    place:Bruay (17,39)
+  6 Jul 1916 43
+    activity:reserve (27,43)
+    place:Bruay (15,48)
+    place:Choques (40,48)
+    activity:movement (27,48)
+    place:Doulens (60,49)
+  7 Jul 1916 50
+    person:Second Lieutenant C D Boudren (joined) (36,52)
+    activity:movement (40,55)
+    place:Bertangles (61,56)
+  8 Jul 1916 57
+    place:Bonneville (31,57)
+    place:Canaples (44,59)
+    place:Vignacourt (52,59)
+    place:Bertangles (16,60)
+  9 Jul 1916 61
+    place:Franvillers (41,62)
+    activity:movement (28,62)
+    place:Franvillers (11,64)
+  10 Jul 1916 65
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,66)
+    activity:resting (26,66)
+  11 Jul 1916 67
+    person:Captain W M H Humphries (departed_sick) (39,67)
+    unit:23 Brigade (60,71)
+    place:Albert (13,71)
+    place:Albert (40,71)
+  12 Jul 1916 72
+    activity:movement (28,72)
+    unit:Res Brigade 23 Division (58,73)
+    activity:training (37,74)
+  13 Jul 1916 76
+    place:Becourt (43,80)
+    unit:Res. Brigade 23 Division (19,84)
+Page 214 (type diary) http://wd3.herokuapp.com/pages/AWD0001ydk  ----------
+  Hashtags: #prisoner #gas #prisoners 
+  14 Jul 1916 20
+    place:Albert (5,23)
+    unit:Black Watch (40,27)
+    place:Albert (7,28)
+    person:Captain D D Sheehan (departed_leave) (59,30)
+  15 Jul 1916 33
+    person:Second Lieutenant G T Hewison (casualty_kia) (49,36)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,37)
+    activity:line (22,37)
+    casualties:died: 0; killed: 31; missing: 0; prisoner: 0; sick: 0; wounded: 1 (87,39)
+    person:Second Lieutenant H G Whelan (returned_posted) (22,40)
+    activity:fire (79,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,46)
+  16 Jul 1916 49
+    activity:line (22,53)
+    activity:attack (34,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (58,58)
+    person:Second Lieutenant H G Whelan (casualty_wounded) (44,59)
+  17 Jul 1916 60
+    activity:line (22,64)
+    unit:34 Division (42,64)
+  18 Jul 1916 65
+    unit:34 Division (83,65)
+  19 Jul 1916 68
+    unit:1 Northamptonshire Reg. (31,68)
+    unit:1 Glouchester Regiment (83,69)
+    unit:Northamptonshire Reg (51,69)
+    unit:1 Black Watch (63,71)
+  20 Jul 1916 72
+    unit:1 Batallion Black Watch (69,72)
+    activity:support (20,73)
+  21 Jul 1916 76
+    place:Albert (7,79)
+  22 Jul 1916 81
+    unit:1 Division Battalion (35,82)
+    activity:support (21,83)
+  23 Jul 1916 84
+    place:Albert (8,87)
+    activity:reserve (24,89)
+Page 215 (type diary) http://wd3.herokuapp.com/pages/AWD0001ygx  ----------
+  24 Jul 1916 21
+    activity:support (21,25)
+    mapRef:30 & 31 (91,27)
+    place:Scotts Redoubt (9,27)
+    unit:2/krrc (42,27)
+    unit:1 Kings Royal Rifle Corps (49,28)
+  25 Jul 1916 32
+    person:Captain H V Bateman (joined) (46,32)
+    activity:support (20,36)
+    activity:movement (48,36)
+    place:Contalmaison (8,36)
+    unit:2 Welch Regiment (31,36)
+  26 Jul 1916 37
+    unit:No. 5 corp r e (42,39)
+  27 Jul 1916 40
+    activity:movement (24,40)
+    place:Millencourt (8,40)
+    unit:13 durham li (71,41)
+    activity:resting (22,44)
+  28 Jul 1916 45
+  29 Jul 1916 49
+    activity:resting (23,49)
+  30 Jul 1916 52
+    activity:resting (20,55)
+  31 Jul 1916 56
+    unit:1 Army School (67,56)
+    person:Lieutenant F G V MacDaniel (returned_posted) (27,56)
+    activity:resting (21,59)
+    person:Lieutenant C Dodds (joined) (68,64)
+    person:Lieutenant F A R Considine (joined) (20,67)
+    person:Second Lieutenant J D Noonan (joined) (31,67)
+    person:Second Lieutenant J O'Neill (joined) (49,67)
+    person:Second Lieutenant J H O'Connor (joined) (58,68)
+    person:Second Lieutenant J P Quinn (joined) (69,68)
+    person:Second Lieutenant N R Clarke (joined) (80,68)
+    person:Second Lieutenant F G Drought (joined) (65,72)
+    person:Second Lieutenant W E P Corbett (joined) (80,72)
+    person:Second Lieutenant H Hayman (joined) (20,75)
+Page 216 (type orders) http://wd3.herokuapp.com/pages/AWD0001ye4  ----------
+  31 Jul 1916 0
+    reference:Sheet 36.b.  1:40000 (60,18)
+    date:3 Jul 1916 (38,73)
+Page 217 (type orders) http://wd3.herokuapp.com/pages/AWD0001yey  ----------
+  31 Jul 1916 0
+    reference:Order No.19 (47,11)
+    reference:Sheet 36.b.  1:40000 (62,12)
+    reference:ref Sheet 36.b. 1/40000 (42,18)
+    orders:move (34,7)
+    date:6 Jul 1916 (38,91)
+Page 218 (type orders) http://wd3.herokuapp.com/pages/AWD0001yfz  ----------
+  31 Jul 1916 0
+    reference:Lens and Amians (57,21)
+Page 219 (type orders) http://wd3.herokuapp.com/pages/AWD0001yia  ----------
+  31 Jul 1916 0
+Page 220 (type orders) http://wd3.herokuapp.com/pages/AWD0001yhs  ----------
+  31 Jul 1916 0
+    date:10 Jul 1916 (36,11)
+    reference:Order No.22 (47,11)
+Page 221 (type signals) http://wd3.herokuapp.com/pages/AWD0001ye1  ----------
+  31 Jul 1916 0
+    unit:2 Royal Munster Fusiliers (44,22)
+    unit:1 Black Watch (42,36)
+    unit:Aaa bn (61,40)
+    unit:3 Brigade (39,82)
+Page 222 (type report) http://wd3.herokuapp.com/pages/AWD0001yu9  ----------
+  31 Jul 1916 0
+    unit:6 Battalion Welsh Regiment (51,32)
+    reference:Map Martinpuich Area (49,8)
+Page 223 (type report) http://wd3.herokuapp.com/pages/AWD0001yev  ----------
+  31 Jul 1916 0
+    person:Major L R Shildrick (other) (53,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (54,55)
+Page 224 (type report) http://wd3.herokuapp.com/pages/AWD0001yi8  ----------
+  Hashtags: #prisoners 
+  31 Jul 1916 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,34)
+    unit:1 Gloucester Regiment (58,57)
+    unit:South Wales Borderers (55,64)
+Page 225 (type report) http://wd3.herokuapp.com/pages/AWD0001ygq  ----------
+  31 Jul 1916 0
+    unit:Royal Engineers (46,51)
+Page 226 (type report) http://wd3.herokuapp.com/pages/AWD0001yed  ----------
+  Hashtags: #prisoners #watersupply #surrender 
+  31 Jul 1916 0
+Page 227 (type report) http://wd3.herokuapp.com/pages/AWD0001ydr  ----------
+  Hashtags: #snipers #casualties 
+  31 Jul 1916 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,15)
+    unit:1 Battalion Northampton Regiment (44,20)
+    casualties:died: 0; killed: 8; missing: 7; prisoner: 0; sick: 50; wounded: 105 (37,27)
+    person:Second Lieutenant George (55,52)
+Page 228 (type report) http://wd3.herokuapp.com/pages/AWD0001yhg  ----------
+  Hashtags: #smoke 
+  31 Jul 1916 0
+  22 Jul 1916 60
+  31 Jul 1916 0
+Page 229 (type other) http://wd3.herokuapp.com/pages/AWD0001yhu  ----------
+  Hashtags: #map 
+Page 230 (type ) http://wd3.herokuapp.com/pages/AWD0001yg7  ----------
+  22 Jul 1916 0
+    person:Brigadier General H R Davies (commander) (40,12)
+  21 Jul 1916 15
+  22 Jul 1916 0
+  21 Jul 1916 15
+Page 231 (type cover)
+Page 232 (type diary) http://wd3.herokuapp.com/pages/AWD0001yex  ----------
+  Hashtags: #DCM #victoriacross #leisure #militarycross #militarymedal #Victoriacross #D #horseshow 
+  21 Jul 1916 0
+  1 Aug 1916 24
+    activity:reserve (27,27)
+    unit:3 Brigade (44,27)
+    place:Millencourt (7,28)
+    domestic:inspections (53,28)
+    mapRef:57.D S.E. (90,28)
+    gridRef:V_29_A__ (35,31)
+  2 Aug 1916 32
+    activity:resting (26,35)
+  3 Aug 1916 36
+    activity:resting (20,40)
+  4 Aug 1916 41
+    person:Lieutenant C M J Ryan (award) (55,42)
+    person:Sergeant Sullivan (award) (80,42)
+  5 Aug 1916 44
+    domestic:sport (31,44)
+    activity:resting (22,44)
+    person:Private J Murphy (award) (43,52)
+  6 Aug 1916 53
+    person:Private J Hayes (award) (59,53)
+    person:Private P Hannon (award) (73,53)
+  7 Aug 1916 55
+    activity:resting (24,56)
+  8 Aug 1916 59
+    activity:resting (25,59)
+    domestic:sport (37,63)
+    activity:resting (25,63)
+    gridRef:V_29_C__ (61,64)
+    person:Lieutenant Batten-Pooll (award) (24,67)
+    place:Calonne (78,72)
+  9 Aug 1916 74
+    activity:resting (21,78)
+    person:Second Lieutenant J H Bennet (award) (35,79)
+    person:Private E Dunne (award) (76,79)
+    person:Second Lieutenant H G Whelan (award) (81,82)
+    place:Pozieres (56,83)
+    person:Sergeant Healy (award) (29,86)
+    place:Pozieres (70,90)
+Page 233 (type diary) http://wd3.herokuapp.com/pages/AWD0001ygp  ----------
+  Hashtags: #horseshow #leisure 
+  9 Aug 1916 22
+    person:Lieutenant J G Fitzmaurice (returned_training) (26,28)
+    mapRef:57.D S.E. (89,28)
+    place:Millencourt (7,28)
+  10 Aug 1916 31
+    gridRef:V_29_C__ (56,36)
+    domestic:sport (27,36)
+    place:Millencourt (6,36)
+    person:Lieutenant C M J Ryan (award) (45,40)
+    person:Second Lieutenant E V Twiss (63,44)
+  11 Aug 1916 47
+    place:Millencourt (6,51)
+    activity:resting (24,52)
+  12 Aug 1916 54
+    activity:resting (22,59)
+    place:Millencourt (6,59)
+  13 Aug 1916 61
+    person:Brigadier General H R Davies (commander) (36,67)
+    activity:resting (21,67)
+    domestic:inspections (47,67)
+    place:Millencourt (7,67)
+  14 Aug 1916 71
+    person:Captain J F Gloster (departed_posted) (37,71)
+    person:Second Lieutenant W F Sugrue (37,75)
+    activity:resting (21,75)
+    place:Millencourt (7,75)
+  15 Aug 1916 78
+    unit:3 Brigade (22,82)
+    unit:1 Division (50,83)
+    unit:13 Kings Royal Rifle Corps (76,83)
+    unit:13 K. R. R. C. (74,83)
+    place:Mametz Wood (6,84)
+    gridRef:X_23_C__ (31,86)
+    person:Major R L Shildrick (63,87)
+Page 234 (type diary) http://wd3.herokuapp.com/pages/AWD0001ycx  ----------
+  16 Aug 1916 24
+    mapRef:57d SE (90,26)
+    domestic:accomodation (37,28)
+    place:Albert (46,28)
+    place:Albert (5,28)
+    activity:movement (22,28)
+    activity:reserve (54,28)
+  17 Aug 1916 31
+    mapRef:57.c.SW. APP 39 (86,31)
+    place:Albert (6,36)
+    activity:reserve (21,36)
+  18 Aug 1916 40
+    activity:reserve (21,43)
+    place:Albert (7,44)
+  19 Aug 1916 47
+    activity:reserve (21,51)
+    place:Albert (6,52)
+  20 Aug 1916 55
+    unit:10 Glove Regiment (78,55)
+    unit:8 Berks Regiment (79,56)
+    mapRef:57.c.SW. APP 40 (88,57)
+    unit:3 Brigade (23,59)
+    unit:8 Berkshire Regiment (82,60)
+    place:Bazentin (7,62)
+    gridRef:S_2_D__ (63,63)
+    person:Second Lieutenant E D Jehring (casualty_wounded) (71,64)
+    gridRef:S_2_C__ (54,64)
+  21 Aug 1916 70
+    person:Lieutenant Colonel W B Lyons (casualty_wounded) (23,75)
+    person:Major A W Blockley (commander) (69,75)
+  22 Aug 1916 79
+    person:Second Lieutenant T Seale (casualty_kia) (20,83)
+Page 235 (type diary) http://wd3.herokuapp.com/pages/AWD0001yi7  ----------
+  Hashtags: #gas #draft 
+  23 Aug 1916 23
+    mapRef:57.D S.E. (88,26)
+    mapRef:57d SE (89,26)
+    place:Bazentin (5,26)
+    person:Lieutenant F Moran (casualty_kia) (24,27)
+  24 Aug 1916 31
+    activity:attack (24,36)
+    person:Second Lieutenant J O'Neill (casualty_kia) (27,40)
+    person:Second Lieutenant N P Clark (casualty_kia) (34,40)
+    person:Second Lieutenant J H Jordeson (casualty_wounded) (55,40)
+    person:Lieutenant F G V McDaniel (casualty_wounded) (69,41)
+    person:Lieutenant F A R Considine (casualty_wounded) (80,41)
+    person:Second Lieutenant A H Middleton (casualty_wounded) (27,44)
+    person:Second Lieutenant C Roche (casualty_wounded) (54,44)
+    person:Captain H V Bateman (25,48)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 1; wounded: 4 (50,50)
+  25 Aug 1916 52
+    unit:1 S W B (35,55)
+    activity:movement (67,55)
+    activity:reserve (77,56)
+    place:Mametz Wood (63,59)
+    gridRef:S_13_B__ (40,60)
+    gridRef:S_14_A__ (51,60)
+  26 Aug 1916 63
+    gridRef:S_8_D__ (60,67)
+    activity:movement (27,67)
+    unit:1 S. W. B. (77,68)
+  27 Aug 1916 71
+    person:Second Lieutenant J P Quinn (casualty_wounded) (26,71)
+    gridRef:X_25_D_8_1 (74,75)
+    activity:movement (45,75)
+    place:Becourt Wood (60,75)
+    domestic:accomodation (53,75)
+    unit:1 Division (38,78)
+    activity:reserve (30,78)
+    unit:3 Brigade (21,79)
+  28 Aug 1916 82
+    activity:reserve (23,86)
+    place:Becourt Wood (8,86)
+Page 236 (type diary) http://wd3.herokuapp.com/pages/AWD0001ygv  ----------
+  29 Aug 1916 23
+    person:Lieutenant Colonel A Moore (commander) (47,28)
+    place:Becourt Wood (6,28)
+    activity:reserve (25,28)
+    mapRef:57.C S.W. (90,28)
+    mapRef:57c Sw (88,28)
+    unit:1 Division (35,28)
+  30 Aug 1916 31
+    activity:reserve (25,35)
+    place:Becourt Wood (6,36)
+    activity:reserve (21,36)
+  31 Aug 1916 39
+    place:Becourt Wood (7,44)
+    activity:reserve (23,44)
+    person:Lieutenant Colonel Athelstan Moore (author) (66,71)
+Page 237 (type other) http://wd3.herokuapp.com/pages/AWD0001ygo  ----------
+  Hashtags: #newspaper 
+Page 238 (type other) http://wd3.herokuapp.com/pages/AWD0001ycy  ----------
+  Hashtags: #victoriacross 
+  31 Aug 1916 0
+    reference:Appendix 36.1 (41,7)
+Page 239 (type other) http://wd3.herokuapp.com/pages/AWD0001yd3  ----------
+  31 Aug 1916 0
+Page 240 (type report) http://wd3.herokuapp.com/pages/AWD0001ye5  ----------
+  Hashtags: #distinguishedconductmedal #militarycross #nominalroll #miltarycross #dcm 
+  31 Aug 1916 0
+    person:Lieutenant W Y Price (award) (39,22)
+    person:Second Lieutenant H G Whelan (award) (41,29)
+    person:Sergeant Jeffries (award) (41,43)
+    person:Sergeant J Ware (award) (40,46)
+    person:Sergeant H Worts (award) (41,48)
+    person:Lance Sergeant S Russ (award) (40,51)
+    person:Private C Dunne (award) (40,56)
+Page 241 (type orders) http://wd3.herokuapp.com/pages/AWD0001yh4  ----------
+  31 Aug 1916 0
+    reference:No.33 (42,17)
+    orders:move (35,18)
+    date:14 Aug 1916 (35,59)
+    reference:Appendix 38 (64,62)
+    reference:Appendix 38 (51,7)
+Page 242 (type orders) http://wd3.herokuapp.com/pages/AWD0001yfw  ----------
+  31 Aug 1916 0
+    reference:No.34 Map Sheets 57d SE 1/20,000 (49,27)
+    orders:move (40,27)
+    reference:Sheet 57.d.S.E. 1:20000 (47,29)
+    date:16 Aug 1916 (42,76)
+    reference:Appendix 39 (55,80)
+Page 243 (type orders) http://wd3.herokuapp.com/pages/AWD0001ydv  ----------
+  31 Aug 1916 0
+    orders:move (38,26)
+    reference:No.35 Map Sheets 57d SE 57c SW 1/20,000 (46,26)
+    reference:Sheet 57.d.S.E. 57.c.S.W. (44,27)
+    reference:Appendix 40 (37,40)
+    reference:Appendix 40 (40,47)
+    date:19 Aug 1916 (41,79)
+Page 244 (type orders) http://wd3.herokuapp.com/pages/AWD0001yen  ----------
+  Hashtags: #weaponssytems #gas 
+  31 Aug 1916 0
+    date:23 Aug 1916 (64,13)
+    reference:RE:3rd Brigade Order No.37 d 23-8-16 (38,13)
+    reference:3rd Brigade Order No.37 (52,13)
+    person:Captain D Burt-Marshall (author) (53,78)
+    orders:attack (35,8)
+    date:24 Aug 1916 (37,80)
+Page 245 (type signals) http://wd3.herokuapp.com/pages/AWD0001yfb  ----------
+  Hashtags: #smoke 
+  31 Aug 1916 0
+    unit:Royal Munster Fusiliers (46,36)
+    date:24 Aug 1916 (47,41)
+    signals:other (41,45)
+    unit:3 Brigade (47,74)
+    time:0257PM (44,78)
+    person:Captain D Burt-Marshall (author) (57,80)
+Page 246 (type signals) http://wd3.herokuapp.com/pages/AWD0001yeo  ----------
+  Hashtags: #flares #aeroplane 
+  31 Aug 1916 0
+    date:24 Aug 1916 (46,37)
+    time:0700PM (60,45)
+    unit:3 Brigade (44,71)
+    time:0210PM (41,74)
+    person:Captain D Burt-Marshall (other) (54,76)
+Page 247 (type orders) http://wd3.herokuapp.com/pages/AWD0001yg0  ----------
+  Hashtags: #gas #weaponsystems 
+  31 Aug 1916 0
+    reference:3rd Brigade Order No.37  (40,16)
+    date:23 Aug 1916 (56,19)
+    orders:attack (35,9)
+Page 248 (type orders) http://wd3.herokuapp.com/pages/AWD0001yer  ----------
+  31 Aug 1916 0
+    reference:Re:3rd Brigade Order No.37 d 23-8-16 (41,12)
+    date:23 Aug 1916 (47,15)
+    person:Captain Ellis (other) (47,89)
+    person:Captain Sparrow (commander) (60,96)
+Page 249 (type orders) http://wd3.herokuapp.com/pages/AWD0001yem  ----------
+  31 Aug 1916 0
+    reference:Re:3rd Brigade Order No.37 d 23-8-16(cont) (43,4)
+    person:Brigadier General H Davies (commander) (60,73)
+    date:23 Aug 1916 (46,76)
+Page 250 (type ) http://wd3.herokuapp.com/pages/AWD0001yga  ----------
+  31 Aug 1916 0
+Page 251 (type report) http://wd3.herokuapp.com/pages/AWD0001yd6  ----------
+  Hashtags: #flares 
+  31 Aug 1916 0
+    reference:Order No.37 (52,18)
+    person:Captain Jordeson (commander) (57,26)
+    person:Captain Kennedy (commander) (44,28)
+Page 252 (type report) http://wd3.herokuapp.com/pages/AWD0001yh0  ----------
+  Hashtags: #enemymorale 
+  31 Aug 1916 0
+    person:Captain Bateman (commander) (59,23)
+Page 253 (type report) http://wd3.herokuapp.com/pages/AWD0001yhz  ----------
+  31 Aug 1916 0
+    person:Captain Jordeson (commander) (47,19)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,73)
+    person:Captain Kennedy (other) (47,73)
+Page 254 (type report) http://wd3.herokuapp.com/pages/AWD0001yef  ----------
+  31 Aug 1916 0
+    person:Major A W Blockley (commander) (57,84)
+    date:26 Aug 1916 (37,85)
+Page 255 (type other) http://wd3.herokuapp.com/pages/AWD0001yfg  ----------
+  Hashtags: #map 
+Page 256 (type orders) http://wd3.herokuapp.com/pages/AWD0001yih  ----------
+  31 Aug 1916 0
+    reference:No.36  (47,23)
+    orders:move (40,25)
+    person:Lieutenant Jameson (author) (53,68)
+    date:27 Aug 1916 (44,71)
+    reference:Appendix 43 (49,75)
+Page 257 (type report) http://wd3.herokuapp.com/pages/AWD0001yfm  ----------
+  Hashtags: #casualties 
+  31 Aug 1916 0
+    reference:Appendix 44 (49,41)
+    reference:Appendix 44 (48,48)
+Page 258 (type report) http://wd3.herokuapp.com/pages/AWD0001ydp  ----------
+  Hashtags: #casualties 
+  31 Aug 1916 0
+    reference:Appendix 44 (33,24)
+Page 259 (type diary) http://wd3.herokuapp.com/pages/AWD0001ydx  ----------
+  Hashtags: #casualties 
+  31 Aug 1916 0
+    casualties:died: 0; killed: 6; missing: 0; prisoner: 0; sick: 0; wounded: 10 (40,27)
+Page 260 (type cover)
+Page 261 (type diary) http://wd3.herokuapp.com/pages/AWD0001yfu  ----------
+  Hashtags: #story 
+  1 Sep 1916 22
+    place:Becourt Wood (7,25)
+    unit:3 Brigade (22,26)
+  2 Sep 1916 27
+    unit:1 Division (42,27)
+    activity:reserve (31,28)
+    mapRef:57.C S.E. (93,29)
+    mapRef:57c SE (87,30)
+    place:Mametz Wood (8,31)
+    activity:movement (28,32)
+    activity:support (52,32)
+    gridRef:S_13_C_2_1 (63,32)
+    unit:3 Brigade (22,32)
+    unit:1 Brigade (41,32)
+    activity:support (36,33)
+  3 Sep 1916 36
+    unit:8 Berks (83,36)
+    place:Mametz Wood (8,40)
+    gridRef:S_9_D_0_0 (42,40)
+    activity:support (54,41)
+    unit:1 Brigade (65,41)
+  4 Sep 1916 44
+    activity:support (22,48)
+    place:Bazentin-le-Grand (7,48)
+    person:Second Lieutenant T J O'Farrell (joined) (33,48)
+    person:Second Lieutenant D Hickey (joined) (41,48)
+    person:Second Lieutenant Laing (joined) (50,49)
+  5 Sep 1916 51
+    place:Bazentin-le-Grand (7,55)
+    unit:8 Berks (31,55)
+    activity:line (56,56)
+    gridRef:S_10_B__ (66,56)
+    unit:1 Camerons (44,56)
+    unit:1 S. W. B. (75,56)
+    unit:8 berks and 1 cameroons (26,56)
+    unit:1 S W B (76,57)
+    unit:24 Division (25,59)
+  6 Sep 1916 62
+    activity:line (22,67)
+    place:Bazentin-le-Grand (6,67)
+    person:Second Lieutenant J C Donovan (joined) (34,67)
+    person:Second Lieutenant J C Donovan (casualty_wounded) (68,68)
+    person:Second Lieutenant J C Donovan (36,68)
+  7 Sep 1916 71
+    activity:line (22,74)
+    place:Bazentin-le-Grand (7,74)
+    activity:reserve (86,75)
+    unit:2 royal sx (52,75)
+    unit:3 Brigade (22,78)
+    activity:movement (29,79)
+    place:Mametz Wood (50,79)
+    gridRef:X_24_A_2_4 (66,79)
+    activity:line (24,82)
+  8 Sep 1916 83
+    unit:1 S W B (49,83)
+    unit:1 S. W. B. (51,83)
+    activity:movement (30,86)
+    place:Bazentin-le-Grand (7,86)
+    gridRef:S_9_D_0_0 (45,86)
+    unit:3 Brigade (36,87)
+    person:Captain M Fletcher (72,87)
+    activity:support (58,88)
+Page 262 (type diary) http://wd3.herokuapp.com/pages/AWD0001yfh  ----------
+  8 Sep 1916 0
+    unit:2 Welsh Regiment (33,23)
+    unit:2 Welch Regiment (45,24)
+    place:High Wood (8,25)
+    unit:2 Platoon 1 Glove Regiment (64,25)
+    activity:line (33,26)
+    mapRef:57.c.S.E. (79,26)
+    unit:1 Glouc Regiment (29,27)
+    mapRef:57c SE (84,28)
+    unit:1 Northants (36,33)
+    unit:1 Northants (47,36)
+    unit:1 Northants (31,36)
+    unit:1 Division (56,38)
+    activity:movement (29,39)
+    activity:support (39,39)
+    gridRef:X_23_C_7_5 (56,42)
+    person:Second Lieutenant F J O'Farrell (casualty_wounded) (45,45)
+    person:Second Lieutenant J Pattinson (joined) (51,47)
+    person:Second Lieutenant C E A O'Callaghan (joined) (29,48)
+    place:Henencourt (9,50)
+    unit:18 London Regiment (28,50)
+    activity:movement (29,51)
+    unit:1 London Regiment (52,51)
+    place:Franvillers (8,59)
+    place:Franvillers (56,59)
+    activity:movement (26,60)
+    activity:resting (31,68)
+    unit:1 Divison (29,68)
+    activity:resting (28,77)
+Page 263 (type diary) http://wd3.herokuapp.com/pages/AWD0001yfl  ----------
+  16 Sep 1916 22
+    mapRef:57.d.S.E. (77,23)
+    place:Franvillers (11,26)
+    place:Henencourt (49,26)
+    activity:movement (28,26)
+    mapRef:57.c.S.W (76,27)
+    mapRef:57.C S.W. (88,27)
+    mapRef:57c SW (84,28)
+    domestic:accomodation (44,30)
+  17 Sep 1916 34
+    place:Henencourt (12,39)
+    activity:training (28,39)
+    person:Second Lieutenant E V Twiss (returned_hospital) (39,39)
+  18 Sep 1916 44
+    place:Albert (45,45)
+    place:Albert (12,47)
+    activity:movement (30,48)
+    person:Second Lieutenant Stokes (joined) (54,51)
+    person:Second Lieutenant Dilworth (joined) (36,52)
+  19 Sep 1916 53
+    place:Bazentin-le-Grand (12,56)
+    activity:movement (28,57)
+    activity:support (44,57)
+    gridRef:S_9_C_0_9 (63,58)
+  20 Sep 1916 62
+    place:Bazentin-le-Grand (13,66)
+    activity:support (29,66)
+  21 Sep 1916 70
+    place:Bazentin-le-Grand (13,74)
+    activity:support (29,74)
+  22 Sep 1916 76
+    place:Flers Line (8,79)
+    unit:Canterbury Battalion New Zealand Division (26,80)
+    place:Flers (39,82)
+    activity:line (47,83)
+    activity:support (56,83)
+    gridRef:M_29_D__ (27,87)
+    person:Second Lieutenant J H Bennet (casualty_kia) (57,88)
+    person:Second Lieutenant O C Stokes (casualty_wounded) (52,95)
+    person:Second Lieutenant W E P Corbett (casualty_wounded) (39,95)
+Page 264 (type diary) http://wd3.herokuapp.com/pages/AWD0001yg9  ----------
+  23 Sep 1916 21
+    gridRef:M_29_D__ (65,25)
+    activity:line (43,26)
+    place:Flers Line (16,26)
+  24 Sep 1916 27
+    activity:attack (31,31)
+    place:Flers Line (70,31)
+    place:Flers Line (15,34)
+    person:Second Lieutenant F G Wetherall (casualty_wounded) (57,35)
+  25 Sep 1916 44
+    unit:1 Black Watch (37,44)
+    unit:Black Watch (51,44)
+    place:Mametz Wood (11,49)
+    activity:movement (35,50)
+    place:Mametz Wood (60,50)
+    activity:movement (47,53)
+    place:Black Wood (61,54)
+  26 Sep 1916 59
+    unit:1 Brigade (71,64)
+    place:Black Wood (11,64)
+  27 Sep 1916 68
+    activity:reserve (35,73)
+    place:Black Wood (15,73)
+  28 Sep 1916 74
+    activity:reserve (52,76)
+    domestic:accomodation (48,78)
+    activity:movement (35,79)
+    place:Millencourt (14,79)
+  29 Sep 1916 81
+    activity:reserve (67,82)
+    place:Henencourt Wood (12,85)
+    activity:movement (34,86)
+    place:Henencourt Wood (52,86)
+Page 265 (type diary) http://wd3.herokuapp.com/pages/AWD0001yf4  ----------
+  Hashtags: #medalofstgeorge #militarycross #militarymedal #DCM 
+  30 Sep 1916 22
+    activity:reserve (40,28)
+    place:Henencourt Wood (10,31)
+    person:Lieutenant Bainbridge Bell (award) (65,50)
+    person:Captain M Fletcher (award) (41,51)
+    person:Corporal F Godfrey (award) (47,53)
+    person:Private P Ring (award) (67,56)
+    person:Sergeant F Smith (award) (72,60)
+    person:Corporal J Wills (award) (41,61)
+    person:Lance Corporal P Barrett (award) (62,63)
+    person:Corporal D Scanlon (award) (32,64)
+    person:Private E Kenefick (award) (28,66)
+    person:Company Sergeant Major E Potter (award) (43,66)
+    person:Company Sergeant Major E Potter (award) (63,66)
+    person:Sergeant A Burt (award) (30,69)
+Page 266 (type cover)
+Page 267 (type signals) http://wd3.herokuapp.com/pages/AWD0001yf9  ----------
+  30 Sep 1916 0
+    reference:Appendix 49 (63,17)
+Page 268 (type signals) http://wd3.herokuapp.com/pages/AWD0001yda  ----------
+  30 Sep 1916 0
+Page 269 (type signals) http://wd3.herokuapp.com/pages/AWD0001ye6  ----------
+  30 Sep 1916 0
+Page 270 (type signals) http://wd3.herokuapp.com/pages/AWD0001yfo  ----------
+  30 Sep 1916 0
+    time:0830PM (62,70)
+Page 271 (type report) http://wd3.herokuapp.com/pages/AWD0001ygr  ----------
+  30 Sep 1916 0
+Page 272 (type report) http://wd3.herokuapp.com/pages/AWD0001yfp  ----------
+  Hashtags: #faint 
+  30 Sep 1916 0
+Page 273 (type report) http://wd3.herokuapp.com/pages/AWD0001yf8  ----------
+  Hashtags: #faint 
+  30 Sep 1916 0
+Page 274 (type report) http://wd3.herokuapp.com/pages/AWD0001yea  ----------
+  Hashtags: #faint 
+  30 Sep 1916 0
+    date:25 Sep 1916 (41,71)
+Page 275 (type orders) http://wd3.herokuapp.com/pages/AWD0001ydq  ----------
+  30 Sep 1916 0
+    orders:move (34,11)
+    reference:Order No. 51 (39,15)
+    reference:Sheet 57d SE 1/20,000 (38,19)
+    reference:Appendix 48 (59,5)
+    person:Lieutenant Morris (other) (55,53)
+    person:Lieutenant Bainbridge-Bell (commander) (49,59)
+    person:Lieutenant Jameson (author) (55,64)
+    date:18 Sep 1916 (43,65)
+Page 276 (type orders) http://wd3.herokuapp.com/pages/AWD0001yg6  ----------
+  30 Sep 1916 0
+    date:24 Sep 1916 (48,97)
+Page 277 (type report) http://wd3.herokuapp.com/pages/AWD0001yfa  ----------
+  30 Sep 1916 0
+    reference:Secret Map (sh 2) 1/5,000 3/9/16 (35,15)
+    reference:Appendix 46 (67,4)
+    title:Report on Attack on Enemy Trenches 9/9/16 (35,8)
+Page 278 (type report) http://wd3.herokuapp.com/pages/AWD0001ydh  ----------
+  30 Sep 1916 0
+    reference:Appendix 46 (63,6)
+Page 279 (type report) http://wd3.herokuapp.com/pages/AWD0001yi9  ----------
+  30 Sep 1916 0
+    reference:Appendix 46 (33,8)
+Page 280 (type orders) http://wd3.herokuapp.com/pages/AWD0001yh7  ----------
+  Hashtags: #weaponsystems 
+  30 Sep 1916 0
+    reference:Flers Line (44,17)
+    reference:M.29.d.5.5 (52,17)
+    person:Second Lieutenant Jones (commander) (38,22)
+    reference:Flers Line (37,28)
+    reference:Goose Lane (56,38)
+    reference:Order No.14 No.4 Special Company RE (40,6)
+Page 281 (type orders) http://wd3.herokuapp.com/pages/AWD0001ygc  ----------
+  Hashtags: #bombs 
+  30 Sep 1916 0
+    person:Lieutenant Thompson (commander) (53,29)
+    date:23 Sep 1916 (43,69)
+    reference:Order No.14 No.4 Special Company RE(cont) (41,7)
+Page 282 (type orders) http://wd3.herokuapp.com/pages/AWD0001yd5  ----------
+  30 Sep 1916 0
+    orders:move (37,16)
+    reference:Order No.52  Map Sheet 57d SE (36,18)
+    person:Lieutenant Jameson (author) (55,62)
+    date:27 Sep 1916 (43,64)
+    reference:Appendix 51 (54,7)
+Page 283 (type report) http://wd3.herokuapp.com/pages/AWD0001ygw  ----------
+  Hashtags: #casualty #casualties 
+  30 Sep 1916 0
+Page 284 (type report) http://wd3.herokuapp.com/pages/AWD0001yes  ----------
+  30 Sep 1916 0
+Page 285 (type cover)
+Page 286 (type diary) http://wd3.herokuapp.com/pages/AWD0001yhp  ----------
+  1 Oct 1916 22
+    unit:3 Brigade (29,26)
+    place:Henencourt Wood (42,26)
+  2 Oct 1916 29
+    place:Henencourt Wood (12,33)
+    place:Feuquieres (60,34)
+  3 Oct 1916 37
+    place:Feuquieres (50,41)
+    activity:movement (32,42)
+    place:Feuquieres (12,43)
+  4 Oct 1916 44
+    activity:training (31,50)
+    place:Feuquieres (12,50)
+  5 Oct 1916 52
+    activity:training (31,57)
+    place:Feuquieres (12,58)
+  6 Oct 1916 60
+    activity:training (31,64)
+    place:Feuquieres (13,64)
+  7 Oct 1916 67
+    activity:training (31,71)
+    place:Feuquieres (13,71)
+  8 Oct 1916 72
+    activity:training (32,74)
+  9 Oct 1916 76
+    place:Feuquieres (14,76)
+    person:Second Lieutenant J H Jordeson (returned_hospital) (50,79)
+    activity:training (31,80)
+    place:Feuquieres (13,80)
+  10 Oct 1916 84
+    activity:training (31,89)
+    place:Feuquieres (13,89)
+Page 287 (type diary) http://wd3.herokuapp.com/pages/AWD0001ygm  ----------
+  11 Oct 1916 23
+    mapRef:Abbeville No,14 (79,26)
+    mapRef:Abbeville No14 (91,27)
+    activity:training (30,28)
+    place:Feuquieres (16,29)
+    unit:10 Corps (49,29)
+  12 Oct 1916 31
+    place:Feuquieres (13,36)
+    activity:training (31,36)
+  13 Oct 1916 37
+    person:Major A W Blockley (35,41)
+    activity:training (31,44)
+    place:Feuquieres (14,45)
+    place:Aldershot (54,45)
+  14 Oct 1916 47
+    place:Feuquieres (11,51)
+    activity:training (30,52)
+  15 Oct 1916 53
+    place:Feuquieres (13,58)
+    activity:training (31,58)
+  16 Oct 1916 60
+    place:Feuquieres (11,64)
+    activity:training (30,66)
+  17 Oct 1916 68
+    place:Feuquieres (14,72)
+    activity:training (30,72)
+  18 Oct 1916 74
+    person:Captain G F Gloster (returned_posted) (35,79)
+    person:Captain G F Gloster (53,79)
+    activity:training (30,79)
+    place:Feuquieres (14,80)
+  19 Oct 1916 81
+    activity:training (30,86)
+    place:Feuquieres (13,87)
+Page 288 (type diary) http://wd3.herokuapp.com/pages/AWD0001yg3  ----------
+  20 Oct 1916 23
+    mapRef:Abbeville No. 14 (87,26)
+    place:Feuquieres (13,30)
+    activity:training (29,30)
+  21 Oct 1916 31
+    mapRef:Abbeville No,14 (79,31)
+    activity:training (29,35)
+  22 Oct 1916 37
+    place:Feuquieres (14,37)
+    place:Feuquieres (14,42)
+    activity:training (30,42)
+  23 Oct 1916 43
+    place:Feuquieres (14,48)
+    domestic:inspections (41,48)
+    activity:training (30,49)
+  24 Oct 1916 50
+    place:Feuquieres (14,56)
+    activity:training (30,56)
+  26 Oct 1916 64
+    place:Feuquieres (13,64)
+    activity:training (30,64)
+    person:Second Lieutenant W de C Dodd (joined) (65,67)
+    person:Second Lieutenant W T Phillips (joined) (47,68)
+    place:Feuquieres (13,69)
+    activity:training (30,69)
+  27 Oct 1916 73
+    place:Feuquieres (13,77)
+    activity:training (29,77)
+  28 Oct 1916 78
+    mapRef:Amiens No. 17 (84,79)
+  29 Oct 1916 82
+    place:Feuquieres (13,82)
+    activity:training (30,82)
+    place:Baizieux (65,85)
+    activity:training (29,86)
+    place:Feuquieres (13,87)
+Page 289 (type diary) http://wd3.herokuapp.com/pages/AWD0001yi0  ----------
+  Hashtags: #casualty #prison 
+  30 Oct 1916 23
+    place:Feuquieres (6,27)
+  31 Oct 1916 28
+    place:Baizieux (68,28)
+    activity:training (22,28)
+    place:Baizieux (44,32)
+    activity:movement (31,32)
+    time:0900AM (16,32)
+    place:Feuquieres (8,33)
+    place:Baizieux (42,36)
+    activity:movement (30,36)
+    time:0600PM (16,36)
+    domestic:accomodation (58,37)
+    domestic:accomodation (70,37)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,58)
+Page 290 (type orders) http://wd3.herokuapp.com/pages/AWD0001yid  ----------
+  31 Oct 1916 0
+    orders:move (36,13)
+    reference:Appendix 44 (59,14)
+    reference:Appendix 44 October (63,16)
+    reference:1st Division Administrative Orders and March Table (40,32)
+    person:Lieutenant Morris (commander) (37,36)
+    person:Captain A C Arnold (other) (58,81)
+Page 291 (type orders) http://wd3.herokuapp.com/pages/AWD0001yg8  ----------
+  Hashtags: #germanmeasles #medical 
+  31 Oct 1916 0
+    reference:Q1131 (54,4)
+    orders:move (37,8)
+    reference:1st Division No.541a/32 (42,9)
+    reference:1st Division No 5416/32 (56,9)
+Page 292 (type orders) http://wd3.herokuapp.com/pages/AWD0001ydz  ----------
+  31 Oct 1916 0
+    reference:1st Division No.541a/32(cont) (40,7)
+    date:28 Oct 1916 (38,89)
+Page 293 (type orders) http://wd3.herokuapp.com/pages/AWD0001ydt  ----------
+  31 Oct 1916 0
+Page 294 (type orders) http://wd3.herokuapp.com/pages/AWD0001ygb  ----------
+  31 Oct 1916 0
+    reference:1st Division No.5410/30 (48,11)
+    reference:1st Division No 5410/30 (60,12)
+Page 295 (type cover)
+Page 296 (type diary) http://wd3.herokuapp.com/pages/AWD0001yez  ----------
+  Hashtags: #roadscondition 
+  1 Nov 1916 21
+    place:Mametz Wood (70,25)
+    place:Baizieux (47,26)
+    activity:movement (34,26)
+    mapRef:57d SE (78,27)
+    domestic:accomodation (52,28)
+  2 Nov 1916 29
+    gridRef:X_23_D_8_4 (63,29)
+    mapRef:57.D S.E. (78,30)
+    mapRef:57D S E and 57c S W (93,31)
+    unit:R E (53,32)
+    place:Mametz Wood (14,33)
+    mapRef:57.C S.W. (80,34)
+    mapRef:57c SW (79,34)
+    unit:Re (56,35)
+    place:Mametz (11,35)
+  3 Nov 1916 40
+    place:Mametz Wood (13,43)
+  4 Nov 1916 44
+    activity:construction (30,45)
+  5 Nov 1916 48
+    place:Mametz Wood (13,48)
+    activity:construction (30,49)
+    place:Mametz Wood (13,51)
+  6 Nov 1916 52
+    activity:construction (30,53)
+  7 Nov 1916 56
+    place:Mametz Wood (13,56)
+    activity:construction (30,56)
+    place:Mametz Wood (13,59)
+  8 Nov 1916 61
+    activity:construction (30,61)
+    place:Mametz Wood (13,64)
+    activity:construction (30,65)
+  9 Nov 1916 66
+    place:Mametz Wood (13,69)
+    activity:construction (30,69)
+  10 Nov 1916 70
+    place:Mametz Wood (13,73)
+    activity:construction (29,73)
+  11 Nov 1916 74
+    place:Mametz Wood (13,78)
+    activity:construction (29,78)
+  13 Nov 1916 83
+    place:Mametz Wood (13,83)
+    activity:construction (29,83)
+    place:Mametz Wood (13,88)
+Page 297 (type diary) http://wd3.herokuapp.com/pages/AWD0001yhr  ----------
+  14 Nov 1916 22
+    unit:R E (55,26)
+    unit:Re (58,27)
+    mapRef:57d SE (79,27)
+    mapRef:57.D S.E. (80,29)
+    place:Mametz Wood (12,31)
+    mapRef:57.C S.W. (85,32)
+    mapRef:57c SW (78,33)
+    place:Flatiron Copse (48,33)
+  15 Nov 1916 35
+    mapRef:57D S E and 57C S W (83,36)
+  16 Nov 1916 39
+    activity:construction (31,39)
+    place:Mametz Wood (15,39)
+  17 Nov 1916 44
+    activity:construction (31,45)
+    place:Mametz Wood (15,45)
+    unit:1 Division (56,48)
+    unit:3 Brigade (31,49)
+    place:Mametz Wood (15,50)
+  19 Nov 1916 55
+    place:Mametz Wood (17,55)
+    activity:reserve (32,60)
+    place:Mametz Wood (15,60)
+  20 Nov 1916 62
+    activity:reserve (31,66)
+    activity:construction (40,66)
+    place:Mametz Wood (15,67)
+  21 Nov 1916 69
+    place:Bazentin-le-Grand (13,72)
+    activity:support (63,73)
+    domestic:accomodation (44,73)
+    activity:movement (32,74)
+    unit:1 Loyal North Lancs (50,80)
+Page 298 (type diary) http://wd3.herokuapp.com/pages/AWD0001yi2  ----------
+  Hashtags: #artistsrifles 
+  21 Nov 1916 0
+  22 Nov 1916 21
+    unit:3 Brigade (22,24)
+    unit:1 Division (41,25)
+    person:Second Lieutenant M Prendergast (joined) (57,25)
+    activity:support (31,25)
+    place:Bazentin-le-Grand (7,25)
+  23 Nov 1916 27
+    mapRef:57C S W (86,27)
+    place:Bazentin-le-Grand (8,30)
+    activity:support (33,31)
+    mapRef:57.C S.W. (88,31)
+  24 Nov 1916 32
+    activity:support (24,32)
+    person:Second Lieutenant E H F Kelly (joined) (39,36)
+    place:Bazentin-le-Grand (7,36)
+  25 Nov 1916 37
+    activity:support (22,37)
+    place:Bazentin-le-Grand (7,41)
+  26 Nov 1916 42
+    activity:support (22,42)
+    activity:support (20,46)
+  27 Nov 1916 47
+    place:Bazentin-le-Grand (7,47)
+    unit:3 Brigade (21,50)
+    unit:2 Brigade (36,50)
+    place:Bazentin-le-Grand (8,51)
+    unit:2/Royal Sussex Regiment (86,52)
+    activity:line (28,53)
+    gridRef:M_24_A_4_9 (30,57)
+    gridRef:M_24_B_7_6 (51,57)
+    gridRef:M_30_A_4_8 (47,60)
+    unit:1 Glouc Regiment (65,60)
+    gridRef:M_24_C_5_4 (30,61)
+    unit:1 S. W. B. (34,64)
+  28 Nov 1916 66
+    activity:line (23,70)
+  29 Nov 1916 71
+    activity:line (22,75)
+  30 Nov 1916 77
+    activity:line (23,81)
+    person:Lieutenant Colonel Athelstan Moore (69,82)
+Page 299 (type orders) http://wd3.herokuapp.com/pages/AWD0001yhk  ----------
+  30 Nov 1916 0
+    reference:No.70 (43,13)
+    person:Lieutenant Jameson (author) (55,53)
+    date:21 Nov 1916 (35,55)
+    reference:Appendix 70 (58,64)
+Page 300 (type orders) http://wd3.herokuapp.com/pages/AWD0001yf5  ----------
+  30 Nov 1916 0
+    reference:No.71 (44,13)
+    orders:move (44,14)
+    reference:Reference Sheet 57.c.S.W (47,20)
+    person:Lieutenant J E Jameson (author) (56,57)
+    date:27 Nov 1916 (36,62)
+    reference:Appendix 71 (56,68)
+    orders:move (36,7)
+Page 301 (type report) http://wd3.herokuapp.com/pages/AWD0001ygd  ----------
+  Hashtags: #medical #trenchfoot 
+  30 Nov 1916 0
+    reference:Appendix 72 (60,44)
+    person:Second Lieutenant J Pattinson (departed_posted) (53,52)
+Page 302 (type report) http://wd3.herokuapp.com/pages/AWD0001yet  ----------
+  Hashtags: #misfiled #casualty 
+  30 Nov 1916 0
+    title:Casualties O Ranks July 1916 (42,22)
+    reference:Appendix 33 (45,41)
+Page 303 (type report) http://wd3.herokuapp.com/pages/AWD0001yh3  ----------
+  Hashtags: #misfiled #casualty 
+  30 Nov 1916 0
+    reference:Appendix 33 (35,25)
+Page 304 (type orders) http://wd3.herokuapp.com/pages/AWD0001ygy  ----------
+  Hashtags: #misfiled 
+  30 Nov 1916 0
+    orders:move (43,24)
+    reference:No.28 (46,25)
+    person:Lieutenant Jameson (author) (53,67)
+    date:22 Jul 1916 (43,67)
+    reference:Appendix 29 (46,71)
+    reference:Appendix 29 (46,76)
+Page 305 (type orders) http://wd3.herokuapp.com/pages/AWD0001ye8  ----------
+  Hashtags: #misfiled 
+  30 Nov 1916 0
+    orders:move (43,26)
+    reference:No.29 (52,27)
+    person:Lieutenant Jameson (author) (55,71)
+    date:24 Jul 1916 (46,72)
+    reference:Appendix 30 (52,75)
+    reference:Appendix 30 (51,79)
+Page 306 (type orders) http://wd3.herokuapp.com/pages/AWD0001ydo  ----------
+  Hashtags: #misfiled 
+  30 Nov 1916 0
+    reference:No.30 (49,26)
+    orders:move (40,26)
+    reference:Appendix 31 (42,74)
+    person:Lieutenant Jameson (author) (55,75)
+    date:25 Jul 1916 (45,77)
+Page 307 (type orders) http://wd3.herokuapp.com/pages/AWD0001ygh  ----------
+  Hashtags: #misfiled 
+  30 Nov 1916 0
+    orders:move (39,23)
+    reference:No.31 (52,25)
+    person:Lieutenant Jameson (author) (52,70)
+    date:26 Jul 1916 (43,71)
+    reference:Appendix 32 (50,76)
+Page 308 (type cover)
+Page 309 (type diary) http://wd3.herokuapp.com/pages/AWD0001yfx  ----------
+  Hashtags: #draft 
+  1 Dec 1916 21
+    activity:line (23,25)
+    mapRef:57.C S.W. (89,26)
+    unit:8 Berks (56,28)
+    unit:1 swb (28,30)
+    unit:1 swb (18,30)
+    unit:8 Berks (66,30)
+    activity:movement (26,31)
+    gridRef:S_9_D__ (44,31)
+  2 Dec 1916 32
+    domestic:accomodation (35,32)
+    mapRef:57C S W (90,32)
+    place:High Wood Camp (5,35)
+    unit:1 S W B (37,35)
+    activity:support (52,36)
+  3 Dec 1916 42
+    place:High Wood Camp (5,46)
+  4 Dec 1916 47
+    place:High Wood Camp (5,51)
+    activity:support (24,52)
+  5 Dec 1916 53
+    place:High Wood Camp (6,56)
+  6 Dec 1916 57
+    activity:support (24,57)
+  7 Dec 1916 61
+    place:High Wood Camp (6,61)
+    activity:support (25,61)
+    place:High Wood Camp (5,66)
+    activity:support (22,66)
+  8 Dec 1916 67
+    place:High Wood Camp (6,73)
+    activity:support (22,73)
+    person:Lieutenant Colonel A Moore (other) (44,75)
+  9 Dec 1916 78
+    place:High Wood Camp (6,83)
+    activity:support (23,84)
+Page 310 (type diary) http://wd3.herokuapp.com/pages/AWD0001ygs  ----------
+  10 Dec 1916 20
+    gridRef:M_24_A_4_9 (70,24)
+    activity:line (54,24)
+    place:High Wood Camp (5,25)
+    unit:2 Welch Regiment (47,25)
+    unit:1 Northants (88,27)
+    gridRef:M_24_B_6_8 (22,28)
+    unit:1 Bn Royal Highlanders (64,28)
+    person:Captain V L C Manning (joined) (54,33)
+    person:Lieutenant A T MacGillicuddy (joined) (26,36)
+    person:Second Lieutenant K T Roe (joined) (51,36)
+    person:Second Lieutenant Ardagh (joined) (80,36)
+    person:Second Lieutenant W S Kidd (joined) (42,37)
+    person:Second Lieutenant P W L Cahill (joined) (60,37)
+    person:Second Lieutenant T Roche (joined) (69,37)
+  11 Dec 1916 39
+    person:Second Lieutenant W F Grove-Price (joined) (21,39)
+    person:Second Lieutenant M Callanan (joined) (37,40)
+    activity:line (25,43)
+    person:Major W F Ackland (joined) (50,44)
+  12 Dec 1916 51
+    activity:line (19,55)
+  13 Dec 1916 57
+  14 Dec 1916 61
+    person:Second Lieutenant W MacDonald (joined) (56,61)
+    activity:line (20,61)
+    activity:reserve (72,64)
+    unit:1 Glouc. Regiment. (37,65)
+    place:High Wood Camp (5,66)
+    unit:1 Glouc Regiment (49,66)
+  15 Dec 1916 67
+    person:Lieutenant V Harcourt (joined) (43,70)
+    person:Second Lieutenant C R Horan (joined) (69,70)
+    activity:reserve (30,71)
+  16 Dec 1916 72
+    activity:reserve (21,73)
+  17 Dec 1916 76
+    activity:reserve (22,76)
+  18 Dec 1916 81
+    activity:reserve (27,81)
+    place:Mametz Wood (65,84)
+    place:Mametz Wood (7,85)
+    activity:movement (19,85)
+    unit:1 S. W. B. (77,86)
+    activity:support (61,87)
+    unit:1 S W B (30,88)
+    gridRef:M_24_D__ (20,92)
+Page 311 (type diary) http://wd3.herokuapp.com/pages/AWD0001yf2  ----------
+  Hashtags: #weaponsystems 
+  19 Dec 1916 23
+    place:Mametz Wood (42,26)
+    gridRef:M_24_D__ (60,33)
+    activity:support (31,34)
+    person:Captain G Kennedy (casualty_wounded) (37,38)
+  20 Dec 1916 39
+    activity:movement (40,41)
+    place:Mametz Wood (54,44)
+    person:Second Lieutenant M Prendergast (casualty_wounded) (69,48)
+    person:Second Lieutenant M Callanan (casualty_kia) (33,49)
+    person:Second Lieutenant F G Drought (casualty_wounded) (55,49)
+  21 Dec 1916 52
+    place:Mametz Wood (42,56)
+  22 Dec 1916 57
+    activity:support (34,58)
+    activity:support (31,61)
+    activity:construction (42,61)
+  23 Dec 1916 63
+    person:Lieutenant A T MacGillicuddy (departed_sick) (38,64)
+    activity:movement (65,67)
+    unit:1 glouc. (49,67)
+    unit:1 Glouc Regiment (55,69)
+    place:High Wood Camp (11,69)
+    place:High Wood Camp (45,71)
+  24 Dec 1916 72
+    activity:reserve (38,75)
+    place:High Wood Camp (13,76)
+  25 Dec 1916 78
+    place:High Wood Camp (12,83)
+    activity:reserve (31,84)
+Page 312 (type diary) http://wd3.herokuapp.com/pages/AWD0001yg4  ----------
+  26 Dec 1916 22
+    activity:line (58,29)
+    unit:2 Welch Regiment. (32,30)
+    place:High Wood Camp (11,31)
+    unit:1 Camerons (52,34)
+    unit:1 Camerons (61,34)
+    gridRef:M_24_A__ (30,34)
+    gridRef:M_24_B__ (43,34)
+    unit:1 Northants (35,37)
+  27 Dec 1916 39
+    activity:line (28,44)
+  28 Dec 1916 45
+    activity:line (27,49)
+    activity:raid (36,50)
+    place:Maze (65,51)
+    person:Second Lieutenant R K Dilworth (casualty_kia) (57,55)
+  29 Dec 1916 59
+    gridRef:M_24_A__ (6,63)
+    activity:line (29,64)
+  30 Dec 1916 65
+    unit:5 Bu Northumberland Fusiliers (30,69)
+    unit:5 Northumberland Fus. (51,69)
+    unit:5 Bn Northumberland Fus (42,70)
+    gridRef:M_24_A__ (7,70)
+    activity:movement (71,70)
+    place:Bazentin-le-Petit (48,71)
+    unit:5 Bn Northumberland Fus (67,72)
+  31 Dec 1916 75
+    activity:movement (46,78)
+    activity:movement (32,78)
+    time:0200PM (31,79)
+    person:Lieutenant Colonel E M Browne (53,89)
+Page 313 (type orders) http://wd3.herokuapp.com/pages/AWD0001yeq  ----------
+  31 Dec 1916 0
+    orders:move (35,10)
+    reference:No.72 (42,15)
+    person:Lieutenant Jameson (author) (54,58)
+    date:10 Dec 1916 (38,62)
+    reference:Appendix 80 (56,68)
+    reference:Appendix 80 (54,74)
+    reference:appendix 80 (53,79)
+Page 314 (type orders) http://wd3.herokuapp.com/pages/AWD0001ygt  ----------
+  31 Dec 1916 0
+    reference:No.73 (36,12)
+    reference:Map Sheet 57c SW (55,12)
+    person:Lieutenant L H Bainbridge-Bell (commander) (52,27)
+    person:Lieutenant Jameson (author) (56,58)
+    date:17 Dec 1916 (39,59)
+    orders:move (38,7)
+    reference:Appendix 81 (61,77)
+    reference:appendix 81 (48,85)
+Page 315 (type orders) http://wd3.herokuapp.com/pages/AWD0001yif  ----------
+  Hashtags: #aeroplane 
+  31 Dec 1916 0
+    reference:3rd Inf Bde No.75 (40,10)
+    date:21 Dec 1916 (34,65)
+    reference:Appendix 82 (62,84)
+Page 316 (type orders) http://wd3.herokuapp.com/pages/AWD0001ye0  ----------
+  Hashtags: #aeroplane 
+  31 Dec 1916 0
+    orders:move (35,10)
+    reference:No.75   Map sheet 57c SW (39,13)
+    person:Lieutenant Jameson (author) (54,65)
+    date:26 Dec 1916 (39,66)
+    reference:Appendix 83 (63,81)
+Page 317 (type report) http://wd3.herokuapp.com/pages/AWD0001yiu  ----------
+  31 Dec 1916 0
+    reference:3rd Infantry Brigade Order No.77 (57,22)
+    reference:raid of 29 & 3012/16 (41,6)
+    reference:Appendix 84 (57,7)
+Page 318 (type report) http://wd3.herokuapp.com/pages/AWD0001yf0  ----------
+  31 Dec 1916 0
+    reference:Maze (60,20)
+    reference:Apex (45,21)
+    reference:Apex (54,25)
+    person:Lieutenant Dilworth (combat) (63,26)
+    person:Lieutenant Horan (combat) (51,27)
+    reference:Yarra Bend (40,31)
+    reference:M.18.c.7. 1+1/2. (35,38)
+    person:Private Walsh (casualty_kia) (60,39)
+    person:Second Lieutenant Dilworth (casualty_wounded) (38,40)
+    person:Private Walsh (casualty_kia) (37,41)
+    person:Lieutenant Horan (combat) (36,45)
+    person:Private Higgs (combat) (48,45)
+    person:Second Lieutenant Dilworth (casualty_died) (57,54)
+    reference:Maze (45,62)
+    date:30 Dec 1916 (36,71)
+    person:Lieutenant Colonel E Monteagle-Browne (commander) (53,71)
+    reference:Appendix 84 (36,8)
+Page 319 (type orders) http://wd3.herokuapp.com/pages/AWD0001yds  ----------
+  Hashtags: #aeroplane 
+  31 Dec 1916 0
+    reference:3rd Infantry Brigade Order No.78 (41,13)
+    person:Captain Arnold (56,41)
+    date:28 Dec 1916 (35,41)
+    reference:Appendix 85 (54,67)
+Page 320 (type orders) http://wd3.herokuapp.com/pages/AWD0001yfn  ----------
+  31 Dec 1916 0
+    reference:Addendum to Administrative Orders  for Relief d. 27 Dec 1916 (24,31)
+    date:28 Dec 1916 (26,65)
+    person:Captain A C Arnold (author) (51,66)
+    reference:Appendix 85 (62,75)
+Page 321 (type orders) http://wd3.herokuapp.com/pages/AWD0001yi6  ----------
+  31 Dec 1916 0
+    date:27 Dec 1916 (57,11)
+    reference:Appendix 85 (47,84)
+    reference:1st Division RAMC No.88 (39,9)
+Page 322 (type orders) http://wd3.herokuapp.com/pages/AWD0001ydy  ----------
+  31 Dec 1916 0
+    reference:1st Division RAMC No.88(cont) (40,23)
+    date:27 Dec 1916 (51,31)
+Page 323 (type orders) http://wd3.herokuapp.com/pages/AWD0001yfy  ----------
+  Hashtags: #aeroplane 
+  31 Dec 1916 0
+    reference:Secret Map No.6 (42,13)
+    reference:appendix 85 (35,43)
+    reference:Appendix 85 (37,57)
+    reference:Appendix 85 (37,63)
+    person:Lieutenant Jameson (author) (58,89)
+    reference:No.77 (42,9)
+    orders:move (39,9)
+    date:29 Dec 1916 (41,95)
+Page 324 (type orders) http://wd3.herokuapp.com/pages/AWD0001yie  ----------
+  31 Dec 1916 0
+    orders:routine (38,12)
+    reference:620sw 020d19 (41,24)
+Page 325 (type orders) http://wd3.herokuapp.com/pages/AWD0001ygj  ----------
+  31 Dec 1916 0
+    reference:3rd Brigade Order No.? (41,12)
+    person:Captain A C Arnold (author) (51,59)
+    date:27 Dec 1916 (37,63)
+    reference:Appendix 85 (53,75)
+    reference:Appendix 85 (45,77)
+Page 326 (type other) http://wd3.herokuapp.com/pages/AWD0001yhh  ----------
+  Hashtags: #sketch 
+Page 327 (type other) http://wd3.herokuapp.com/pages/AWD0001ygg  ----------
+  Hashtags: #map 

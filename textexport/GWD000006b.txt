@@ -1,0 +1,3716 @@
+GWD000006b wo/95/1256/1
+1 DIVISION: 1 Battalion Machine Gun Corps 
+259 pages
+
+Page 2 (type cover)
+Page 3 (type cover)
+Page 4 (type cover)
+Page 5 (type cover)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD0000yp6  ----------
+  1 Mar 1918 24
+    place:Canal Bank (9,25)
+    mapRef:28 NWC 25 d 1.7 (27,27)
+    person:Lieutenant Colonel H F Bidder (commander) (45,27)
+    person:Major J G Frere (joined) (78,27)
+    person:Lieutenant Shanks (joined) (35,30)
+    person:Lieutenant Hewins (joined) (56,30)
+    person:Lieutenant P R D Grattan (joined) (80,30)
+    mapRef:28 NW (10,33)
+  2 Mar 1918 42
+  3 Mar 1918 46
+    activity:raid (52,47)
+    place:Moray House (70,47)
+    unit:1 Brigade (40,47)
+    gridRef:V_21_D_2_7 (24,49)
+    activity:movement (67,52)
+    mapRef:28 NWB 29 d 25 d  (51,55)
+    mapRef:28 NW (34,56)
+    place:Reigersberg Camp (32,57)
+  4 Mar 1918 59
+    place:Agadir Camp (8,59)
+    domestic:inspections (62,59)
+  5 Mar 1918 62
+    mapRef:28 NW (10,65)
+    mapRef:28 NW (34,65)
+    mapRef:28 H 6a 6.5  (45,65)
+    activity:fire (81,65)
+  6 Mar 1918 66
+  7 Mar 1918 70
+    person:Brigadier Grant (other) (43,76)
+    person:Captain Vernon (commander) (61,76)
+  8 Mar 1918 79
+  9 Mar 1918 83
+    unit:35 Division (57,88)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD0000ynk  ----------
+  10 Mar 1918 24
+    unit:Sos (84,27)
+    time:0500AM (73,27)
+    activity:fire (43,27)
+    place:Agadir Camp (9,27)
+    time:0400PM (65,29)
+    mapRef:28 B30 C  (10,29)
+    unit:A company (79,30)
+    mapRef:28B30 (10,30)
+    unit:35 Divisional (52,32)
+    unit:A company of 35 th Battalion (74,33)
+  11 Mar 1918 34
+    unit:D Company of 35 Battalion (80,34)
+    place:Ypres-Staden Railway (66,34)
+    unit:D Company of 35 Battalion (26,36)
+    unit:B Company of 35 Battalion (42,37)
+    unit:B Company of 35 Battalion (75,37)
+    place:Agadir Camp (9,37)
+    unit:C Company of 35 Battalion (23,38)
+    unit:Sos (37,40)
+    time:0500AM (23,40)
+  12 Mar 1918 42
+    unit:Infantry (42,42)
+    time:0200AM (71,44)
+    place:Agadir Camp (10,45)
+  13 Mar 1918 46
+    unit:Sos (59,47)
+    place:Agadir Camp (10,49)
+    unit:Infantry (33,50)
+    unit:Sos (40,50)
+    time:0200AM (58,51)
+    mapRef:Appendix A5 (89,53)
+  14 Mar 1918 54
+    place:Poelcapelle (76,55)
+    activity:quiet (32,56)
+    unit:Sos (49,57)
+    time:0930PM (75,57)
+    place:Agadir Camp (10,57)
+    mapRef:B2  (57,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,60)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (37,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (49,60)
+  15 Mar 1918 62
+    unit:Sos (62,64)
+    place:Agadir Camp (10,65)
+    unit:Infantry (60,67)
+    mapRef:28 (79,69)
+    mapRef:Appendix A (89,69)
+  16 Mar 1918 70
+    time:1000AM (81,72)
+    place:Armada Camp (9,72)
+    unit:A 1 Company (77,73)
+    mapRef:B28 (54,74)
+    mapRef:Appendix A (89,74)
+    mapRef:28B30C 5-3 (8,74)
+    mapRef:28 B30 C  (11,74)
+  17 Mar 1918 75
+    unit:D company 35 Battalion (22,76)
+    unit:B company 35 Battalion (34,77)
+    place:Armada Camp (9,77)
+    mapRef:B2 (30,78)
+  18 Mar 1918 83
+    place:Armada Camp (9,84)
+    unit:Infantry (83,85)
+  19 Mar 1918 88
+    unit:A company 35 Battalion (57,88)
+    place:Armada Camp (9,88)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD0000yoy  ----------
+  Hashtags: #SOS #signal 
+  20 Mar 1918 22
+    activity:fire (47,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (83,25)
+    person:Captain Hancock (casualty_wounded) (68,25)
+    place:Armada Camp (9,26)
+    activity:attack (81,28)
+    person:Captain Anson (joined) (40,28)
+    person:Lieutenant Ltn Gurney (departed_posted) (64,28)
+  21 Mar 1918 32
+    activity:fire (53,35)
+  22 Mar 1918 40
+    activity:fire (52,43)
+  23 Mar 1918 48
+  24 Mar 1918 57
+    place:Turco Farm Huts (9,60)
+  25 Mar 1918 61
+  26 Mar 1918 65
+    activity:attack (44,70)
+  29 Mar 1918 81
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD0000ypv  ----------
+  Hashtags: #faint 
+  30 Mar 1918 22
+    place:Turco Farm (7,24)
+    place:Turco Farm Huts (9,25)
+  31 Mar 1918 28
+    strength:officer: 49; nco: 0; other: 0 (64,45)
+    strength:officer: 46; nco: 0; other: 0 (63,49)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 14; wounded: 1 (24,56)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,57)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 15; wounded: 1 (59,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (51,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 0 (71,60)
+Page 10 (type other) http://wd3.herokuapp.com/pages/AWD0000yt4  ----------
+  31 Mar 1918 0
+    mapRef:BETHUNE (combined) SHEET (50,36)
+Page 11 (type orders) http://wd3.herokuapp.com/pages/AWD0000yt6  ----------
+  31 Mar 1918 0
+    orders:move (48,12)
+    reference:BETHUNE combined sheet (41,16)
+    reference:COMBAT SHEET (53,17)
+    reference:B COMPANY (43,21)
+    reference:RELIEVE (49,21)
+    reference:C COMPANY (54,22)
+    reference:GAMBRIN SECTION (61,22)
+    reference:C COMPANY (52,28)
+    reference:PROCEED TO BILLOTS IN BARLIN (60,29)
+    reference:MOVE BY RAIL (51,33)
+    reference:COMPLETION REPORTED UNDER CODE WORD JORDAN (47,38)
+    person:Major J S Snowball (commander) (43,42)
+    reference:MAJOR (40,42)
+    reference:CAPTAIN AND ADJUTANT (64,48)
+    reference:1ST BATTALION, MACHINE GUN CORPS (61,52)
+    reference:G C A COMPANY (57,56)
+    reference:COPIES TO (37,57)
+    reference:D COMPANY (57,58)
+    reference:C AND D COMPANY (59,58)
+    reference:secret (37,6)
+    reference:COPY NO 19 (63,6)
+    reference:CAMMANDING OFFICER (57,61)
+    reference:QUARTERMASTER (45,63)
+    reference:TRANSPORT OFFICER (59,63)
+    reference:SIGNALLING OFFICER (57,64)
+    reference:MEDICAL OFFICER (45,66)
+    reference:55TH BATALLION M G C (56,67)
+    reference:1ST TO 3RD INFANTRY BRIGADE (59,69)
+    reference:1ST BATTALION, MACHINE GUN CORPS (47,7)
+    reference:1ST DIVISION G (57,72)
+    reference:1ST DIVISION Q (45,74)
+    reference:WAR DIARY (53,75)
+    reference:FOLIO (51,78)
+Page 12 (type orders) http://wd3.herokuapp.com/pages/AWD0000yth  ----------
+  31 Mar 1918 0
+    person:Captain (commander) (58,47)
+Page 13 (type other) http://wd3.herokuapp.com/pages/AWD0000yoj  ----------
+Page 14 (type orders) http://wd3.herokuapp.com/pages/AWD0000yt8  ----------
+  31 Mar 1918 0
+    reference:battalion reliefs (34,11)
+    reference:FRONT SYSTEM (48,19)
+    reference:M G COMPANY (31,21)
+    reference:CANAL BANK (61,22)
+    reference:4 GUNS (48,26)
+    reference:LESS 2 GUNS (59,28)
+    reference:1st BTTN MACHINE GUN CORPS (61,3)
+    reference:REIGERSBERG (49,30)
+    reference:RELIEF 6 DAYS (56,32)
+    date:5 Mar 1918 (33,37)
+    reference:C COMPANY RELIEVE A COMPANY IN FRONT SYSTEM (64,38)
+    date:6 Mar 1918 (33,38)
+    reference:Appendix A (46,4)
+    reference:B COMPANY TAKE NEW POSITION (69,40)
+    person:Captain A Shanks (commander) (65,67)
+    person:Captain A Shanks (53,67)
+    date:4 Mar 1918 (32,69)
+    reference:ORDER 1 (61,9)
+Page 15 (type ) http://wd3.herokuapp.com/pages/AWD0000ynm  ----------
+  31 Mar 1918 0
+    date:6 Mar 1918 (59,16)
+    person:Captain A S Vernon (commander) (43,16)
+    reference:COPY OF A LETTER (28,5)
+    person:Brigadier General Charles Grant (commander) (58,84)
+    reference:COMMANDING 1ST INFANTRY BRIGADE (53,93)
+Page 16 (type orders) http://wd3.herokuapp.com/pages/AWD0000ypy  ----------
+  31 Mar 1918 0
+    reference:Order No 2 (57,10)
+    orders:move (51,14)
+    reference:35th Battalion Machine Gun Corps (60,15)
+    date:10 Mar 1918 (44,16)
+    date:11 Mar 1918 (47,16)
+    reference:WATER HOUSE (32,21)
+    reference:Water House (39,22)
+    reference:Taube Farm (39,25)
+    reference:35TH BATTALION MACHINE GUNE CORPS (57,26)
+    reference:EAGLE TRENCH (42,34)
+    reference:Eagle Trench (40,34)
+    reference:35TH BATALLION M G C (59,35)
+    reference:A3 (48,4)
+    reference:KEMPTON PARK (59,41)
+    reference:Kempton Park (60,43)
+    reference:A Company Headquarters established at Kempton Park (35,43)
+    reference:UNDER ORDERS (46,45)
+    date:13 Mar 1918 (34,47)
+    reference:An inventory of all Trench Stores, documents defence schemes, maps &c taken over will be made by 6p.m. on the 11th instant (35,55)
+    reference:RELIEF REPORTED WITH CODE WORD CORNHILL (64,57)
+    reference:Codeword "Cornhill" (41,58)
+    reference:3RD INFANTRY BRIGADE (59,60)
+    person:Lieutenant A Shanks (commander) (54,65)
+    reference:1ST BATTALION MACHINE GUN CORPS (63,67)
+    date:9 Mar 1918 (35,68)
+Page 17 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqf  ----------
+  31 Mar 1918 0
+    orders:move (67,12)
+    date:11 Mar 1918 (43,15)
+    date:12 Mar 1918 (46,16)
+    reference:A4 (46,4)
+    reference:REIGERSBERT CAMP (71,43)
+    reference:1ST BATTALION MACHINE GUN CORPS (39,5)
+    reference:COMPLETION RECORDED WITH CODE WORD CORNWALL (55,56)
+    person:Lieutenant A Shanks (commander) (49,75)
+    reference:1ST BATTALION MACHINE GUN CORPS (65,76)
+    date:9 Mar 1918 (32,79)
+    reference:ORDER NO 3 (59,9)
+Page 18 (type orders) http://wd3.herokuapp.com/pages/AWD0000yta  ----------
+  31 Mar 1918 0
+    reference:1ST BATTALION MACHINE GUN CORPS (41,19)
+    reference:AMENDMENT TO ORDER NO 2 (59,22)
+    date:13 Mar 1918 (63,39)
+    person:Lieutenant A Shanks (commander) (49,49)
+    date:13 Mar 1918 (34,54)
+    reference:1ST BATTALION MACHINE GUN CORPS (64,55)
+    reference:A5 (49,6)
+Page 19 (type orders) http://wd3.herokuapp.com/pages/AWD0000yso  ----------
+  31 Mar 1918 0
+    reference:REF. SHEET 28 N W 1/20000 (46,10)
+    reference:29 N.W. 1/20,000 (37,11)
+    orders:move (44,13)
+    date:17 Mar 1918 (39,15)
+    date:18 Mar 1918 (38,15)
+    reference:"D" Company (53,21)
+    reference:"B" Company (60,21)
+    reference:"C" Company (52,26)
+    reference:"D" Company (61,26)
+    reference:A6 (48,3)
+    reference:REIGERSBERT CAMP (64,32)
+    reference:RELIEF REPORTED WITH CODE WORD DEVON (61,43)
+    reference:1ST BATTALION MACHINE GUN CORPS (38,6)
+    person:Lieutenant A Shanks (commander) (56,60)
+    reference:ORDER NO. 3 (59,8)
+Page 20 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqc  ----------
+  31 Mar 1918 0
+    reference:1st Battalion Machine Gun Corps (36,13)
+    reference:Ref.Sheet 28 N.W. 1/20,000. (29,18)
+    date:17 Mar 1918 (47,23)
+    person:Lieutenant J Bullpitt (other) (52,58)
+    date:16 Mar 1918 (33,63)
+Page 21 (type orders) http://wd3.herokuapp.com/pages/AWD0000ysr  ----------
+  31 Mar 1918 0
+    orders:move (36,15)
+    date:23 Mar 1918 (41,15)
+    date:24 Mar 1918 (46,15)
+    reference:A8 (49,4)
+    person:Lieutenant A Shanks (commander) (51,69)
+    date:22 Mar 1918 (37,76)
+Page 22 (type orders) http://wd3.herokuapp.com/pages/AWD0000yr0  ----------
+  Hashtags: #SOS #Delta #House #Norfolk #splendid 
+  31 Mar 1918 0
+    orders:other (45,11)
+    orders:routine (44,11)
+    person:Lieutenant A Shanks (commander) (51,24)
+    date:23 Mar 1918 (36,28)
+    date:22 Mar 1918 (56,37)
+    reference:M.G.B. 151 (56,4)
+    reference:A9 (48,5)
+    person:Major W Barnes (author) (55,58)
+Page 23 (type orders) http://wd3.herokuapp.com/pages/AWD0000ytp  ----------
+  31 Mar 1918 0
+    reference:28 N. W. 1/20.000 (34,11)
+    reference:28 N.W. 1/20,000 (43,11)
+    date:29 Mar 1918 (41,16)
+    reference:A10 (49,2)
+    orders:move (48,8)
+    person:Captain A Shanks (commander) (54,80)
+    date:28 Mar 1918 (48,81)
+Page 24 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqz  ----------
+  31 Mar 1918 0
+    date:4 Apr 1918 (46,19)
+    date:5 Apr 1918 (53,19)
+    reference:C coy (55,27)
+    reference:B coy (62,27)
+    person:Captain A Shanks (commander) (54,67)
+    date:3 Apr 1918 (46,70)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD0000ypr  ----------
+  31 Mar 1918 0
+  1 Apr 1918 22
+    place:Vacher Farm (57,28)
+  2 Apr 1918 32
+    time:1200PM (52,35)
+    unit:1 Gloucesters (61,35)
+    unit:1 Gloucesters (72,35)
+    mapRef:Poel Capelle Spriet (32,37)
+    gridRef:V_15_C_2_0 (60,37)
+    unit:1 Black Watch (83,37)
+    activity:raid (24,38)
+    mapRef:Gravel Farm (47,39)
+    mapRef:Gravel Farm (16,40)
+  3 Apr 1918 43
+    unit:Gloucesters (24,43)
+  4 Apr 1918 52
+  5 Apr 1918 56
+  6 Apr 1918 60
+    unit:K & D Company (39,63)
+    unit:36 (65,63)
+  7 Apr 1918 64
+    unit:A Company (36,67)
+    unit:30 (52,68)
+  8 Apr 1918 69
+    activity:movement (21,71)
+    mapRef:La Bassee Canal (54,71)
+    mapRef:Fouquerevil (70,73)
+    unit:D Company (67,75)
+    unit:A Company (33,77)
+  9 Apr 1918 81
+    activity:fire (30,83)
+    place:Le Quesnoy (7,83)
+    activity:fire (35,84)
+    mapRef:La Bassee Canal (51,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (73,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,85)
+    person:Lieutenant (74,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,86)
+    casualties:died: 0; killed: 50; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,86)
+    time:1030AM (57,88)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD0000ys5  ----------
+  Hashtags: #prisoner #gas #faint 
+  9 Apr 1918 23
+    place:Le Quesnoy (6,25)
+    unit:55 Division (57,26)
+    unit:A Company (30,27)
+    unit:B Company (21,28)
+    place:La Bassee Canal (54,30)
+    activity:enemy_activity (36,30)
+    place:Givenchy (77,31)
+    place:George Street (44,32)
+    mapRef:George Street (45,32)
+    unit:55 Division (74,35)
+    place:Le Quesnoy (38,36)
+    unit:G Company (33,39)
+  10 Apr 1918 40
+    activity:attack (24,40)
+    gridRef:A_14_A_0_2 (59,47)
+    unit:D company (81,47)
+    place:Bethune (39,47)
+    place:Vauxhall (50,47)
+    place:Fouquieres (37,49)
+  11 Apr 1918 50
+    place:Fouquieres (5,51)
+  12 Apr 1918 53
+    unit:A Company (51,53)
+    place:Houchin (73,53)
+    activity:fire (21,53)
+    weather:fine (22,55)
+    unit:A Company (66,57)
+    domestic:accomodation (82,57)
+    activity:fire (36,57)
+    activity:movement (69,57)
+    person:Captain Cornwall (departed_posted) (71,59)
+    place:Fouquereuil (33,59)
+    weather:cold (57,59)
+    weather:overcast (64,59)
+  13 Apr 1918 61
+    person:Captain M C Campbell (joined) (67,61)
+    unit:59 Battalion (38,61)
+    person:Lieutenant T V Anderson (casualty_died) (63,64)
+  14 Apr 1918 65
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (21,66)
+    unit:C Company, 55 Battalion (21,68)
+    unit:C Company (84,68)
+    unit:55 Battalion (26,68)
+    mapRef:Festubert Line (53,68)
+  15 Apr 1918 69
+    person:Major Vernon (departed_posted) (47,70)
+    person:Major Fitzwilliams (69,70)
+    place:Hesdigneul (30,70)
+    activity:movement (23,70)
+    weather:overcast (58,72)
+  16 Apr 1918 73
+    activity:fire (23,73)
+    activity:fire (21,76)
+    unit:B Company (29,78)
+    unit:D Company, 55 Battalion (41,78)
+    unit:B Coy (29,78)
+    place:Brewery Corner (68,78)
+  17 Apr 1918 79
+    unit:A Company (55,81)
+    place:Gosnay (38,81)
+    gridRef:D_24_D_9_1 (45,82)
+    unit:A Company, 55 (68,82)
+    unit:A Coy (58,82)
+  18 Apr 1918 85
+    place:Gosnay (7,88)
+    activity:fire (22,90)
+    gridRef:D_24_D_9_1 (5,91)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD0000yp8  ----------
+  Hashtags: #militarycross 
+  18 Apr 1918 23
+    place:Gosnay (8,25)
+    activity:attack (29,25)
+    time:0800AM (53,26)
+    place:La Bassee (81,27)
+    gridRef:D_24_D_9_1 (9,28)
+    activity:achieved (68,29)
+    place:Festubert (43,30)
+    place:Givenchy (69,32)
+  19 Apr 1918 37
+    activity:clearing (33,39)
+    activity:attack (23,40)
+    activity:enemy_activity (68,40)
+  20 Apr 1918 41
+    activity:achieved (39,43)
+    person:Lieutenant Shead (combat) (52,45)
+    place:Givenchy (40,45)
+    domestic:accomodation (41,48)
+    weather:cold (60,48)
+    weather:overcast (65,48)
+  21 Apr 1918 49
+    unit:C Coy 55 Battalion (23,49)
+    activity:movement (35,49)
+    place:Hesdigneul (49,50)
+    unit:C Coy 55 Battalion (27,51)
+  22 Apr 1918 54
+    activity:fire (26,55)
+  23 Apr 1918 61
+    unit:C Coy 55 Battalion (38,63)
+    unit:D Coy 55 Battalion (42,63)
+    activity:quiet (26,63)
+    place:Hesdigneul (27,65)
+  24 Apr 1918 66
+    activity:movement (35,66)
+    unit:A Coy 55 Battalion (48,67)
+    place:Barlin (38,67)
+    place:Barlin (7,67)
+    place:Hesdigneul (29,68)
+    place:Barlin (58,69)
+    person:Captain Cornwall (award) (68,70)
+    place:Le Quesnoy (53,72)
+  25 Apr 1918 74
+    place:Annequin Fosse (59,77)
+    unit:B Coy 11 Battalion (40,78)
+    unit:A Coy 11 Battalion (31,79)
+  26 Apr 1918 81
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (20,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (39,82)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (79,82)
+    place:Barlin (68,82)
+    weather:overcast (47,84)
+    weather:overcast (37,84)
+  27 Apr 1918 86
+    place:Barlin (74,88)
+    place:Bruay (82,88)
+    weather:fine (45,88)
+    weather:fine (30,88)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD0000ypb  ----------
+  28 Apr 1918 23
+    place:Barlin (76,24)
+    place:Bruay (83,24)
+    weather:fine (39,24)
+    place:Barlin (8,25)
+    person:Captain Pearson (commander) (25,28)
+  29 Apr 1918 33
+    weather:overcast (40,35)
+  30 Apr 1918 37
+    place:Barlin (27,37)
+    weather:overcast (40,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,74)
+Page 29 (type orders) http://wd3.herokuapp.com/pages/AWD0000yu2  ----------
+  30 Apr 1918 0
+    date:5 Apr 1918 (42,74)
+Page 30 (type orders) http://wd3.herokuapp.com/pages/AWD0000ynq  ----------
+  30 Apr 1918 0
+    reference:1st Battalion M.G.C. Operation Order No. 7 (35,14)
+    date:5 Apr 1918 (42,79)
+Page 31 (type orders) http://wd3.herokuapp.com/pages/AWD0000yst  ----------
+  30 Apr 1918 0
+    reference:Machine Gun Order No 8 (38,12)
+    person:Captain A Shanks (commander) (49,42)
+    date:5 Apr 1918 (45,47)
+    orders:move (37,8)
+Page 32 (type orders) http://wd3.herokuapp.com/pages/AWD0000yo4  ----------
+  30 Apr 1918 0
+    reference:28 N W 1/20/000 (38,11)
+    reference:Sheet 28 N.W. 1/20,000 (37,12)
+    orders:move (38,13)
+    person:Captain A Shanks (commander) (51,40)
+    date:7 Apr 1918 (38,47)
+Page 33 (type orders) http://wd3.herokuapp.com/pages/AWD0000yrc  ----------
+  Hashtags: #faint 
+  30 Apr 1918 0
+    date:8 Apr 1918 (35,58)
+    person:Lieutenant H Joyce (author) (57,58)
+    reference:St 3 6 B 1/40,000 (30,9)
+Page 34 (type orders) http://wd3.herokuapp.com/pages/AWD0000yoc  ----------
+  Hashtags: #faint 
+  30 Apr 1918 0
+    person:Captain A E Shanks (67,77)
+    person:Captain A E Shanks (56,77)
+Page 35 (type orders) http://wd3.herokuapp.com/pages/AWD0000yno  ----------
+  30 Apr 1918 0
+    reference:Order no.10 (66,11)
+    orders:move (32,11)
+    orders:withdraw (32,15)
+    person:Captain A Shanks (author) (57,79)
+    date:14 Apr 1918 (29,82)
+    reference:1st Battn Machine Gun Corps Order No 10 (34,9)
+Page 36 (type orders) http://wd3.herokuapp.com/pages/AWD0000ytf  ----------
+  30 Apr 1918 0
+    reference:Order no.11 (65,10)
+    orders:move (31,13)
+    person:Captain A Shanks (author) (58,63)
+    date:15 Apr 1918 (32,66)
+    date:15 Apr 1918 (31,7)
+    reference:1st Battn Machine Gun Corps Order No 11 (33,9)
+Page 37 (type orders) http://wd3.herokuapp.com/pages/AWD0000yu1  ----------
+  30 Apr 1918 0
+    orders:move (22,17)
+    reference:1st Battn Machine Gun Corps Order No 12 (25,4)
+    person:Captain A Shanks (author) (60,63)
+    date:20 Apr 1918 (41,65)
+    reference:Map Bethune combined sheet (44,9)
+Page 38 (type orders) http://wd3.herokuapp.com/pages/AWD0000yp5  ----------
+  30 Apr 1918 0
+    reference:Order no.13 (49,10)
+    reference:Map Bethune combined sheet (35,16)
+    reference:Map BETHUNE (44,16)
+    person:Captain A Shanks (57,47)
+    reference:1st Battn Machine Gun Corps Order No 13 (30,5)
+    date:21 Apr 1918 (43,55)
+Page 39 (type orders) http://wd3.herokuapp.com/pages/AWD0000yog  ----------
+  30 Apr 1918 0
+    reference:1st Battn Machine Gun Corps  Amendment to Order  No 14 (30,27)
+    date:22 Apr 1918 (53,38)
+    date:23 Apr 1918 (58,43)
+    date:22 Apr 1918 (44,62)
+Page 40 (type orders) http://wd3.herokuapp.com/pages/AWD0000ytl  ----------
+  30 Apr 1918 0
+    reference:Map Bethune combined sheet (46,16)
+    orders:move (35,16)
+    date:21 Apr 1918 (47,61)
+    reference:1st Battn Machine Gun Corps  Order  No 14 (38,9)
+Page 41 (type orders) http://wd3.herokuapp.com/pages/AWD0000ypu  ----------
+  Hashtags: #faint #badscan #fadedink 
+  30 Apr 1918 0
+    reference:Operation order NO. 15 (53,10)
+    person:Captain A Shanks (51,69)
+    date:23 Apr 1918 (38,70)
+    reference:1st Battalion Machine Gun Corps (47,8)
+    reference:1st Battn Machine Gun Corps  Order  No 15 (39,8)
+Page 42 (type orders) http://wd3.herokuapp.com/pages/AWD0000yu3  ----------
+  30 Apr 1918 0
+    reference:GORRE Map, sheet 1/20,000 (41,12)
+    reference:No. 16 Map Gorre Sheet 1/20,000 (36,12)
+    person:Captain A Shanks (author) (51,50)
+    date:23 Apr 1918 (44,56)
+    reference:1st Battn Machine Gun Corps  Order  No 16 (40,6)
+Page 43 (type orders) http://wd3.herokuapp.com/pages/AWD0000yse  ----------
+  Hashtags: #faint 
+  30 Apr 1918 0
+    orders:move (39,12)
+    reference:Bethune Map (39,15)
+    date:24 Apr 1918 (45,22)
+    person:Captain Shanks (author) (52,56)
+    date:24 Apr 1918 (45,62)
+Page 44 (type orders) http://wd3.herokuapp.com/pages/AWD0000yrm  ----------
+  30 Apr 1918 0
+    orders:move (42,17)
+    reference:Bethune Map (35,20)
+    reference:BETHUNE Map, combined sheet (48,20)
+    person:Captain Shanks (52,55)
+    date:28 Apr 1918 (44,59)
+Page 45 (type report) http://wd3.herokuapp.com/pages/AWD0000ynz  ----------
+  Hashtags: #enemymorale 
+  30 Apr 1918 0
+    date:9 Apr 1918 (36,10)
+    person:Captain F G Gurney (commander) (48,15)
+    person:Second Lieutenant P Marks (commander) (36,37)
+    person:Sergeant Black (combat) (34,43)
+    person:Second Lieutenant P Marks (57,49)
+    person:Second Lieutenant F Barker (commander) (54,53)
+    person:Second Lieutenant F Barker (combat) (49,70)
+Page 46 (type report) http://wd3.herokuapp.com/pages/AWD0000yt5  ----------
+  Hashtags: #gas 
+  30 Apr 1918 0
+    person:Second Lieutenant Edgell (commander) (47,16)
+    person:Lieutenant Wadley (59,25)
+    person:Second Lieutenant Booth (59,29)
+    person:Second Lieutenant Grant (55,33)
+    reference:Gorre 1/20,000 & Bethune 1/40,000 (48,45)
+    reference:Maps, GORRE 1/20,000 & BETHUNE combined sheet 1/40,000 (53,47)
+    date:17 Apr 1918 (34,49)
+    reference:X.22.b.9.1 (65,52)
+    reference:Gorre 1/20,000  (33,53)
+    date:18 Apr 1918 (34,58)
+    person:Second Lieutenant Edgell (commander) (43,66)
+    reference:X.24,d. (63,70)
+    reference:S.19.d. (65,72)
+    reference:20.c. (56,74)
+    reference:19.d. (52,75)
+    date:16 Apr 1918 (34,9)
+Page 47 (type report) http://wd3.herokuapp.com/pages/AWD0000yr2  ----------
+  30 Apr 1918 0
+    person:Lieutenant R C Wadley (combat) (50,35)
+    person:Second Lieutenant J H Booth (combat) (43,36)
+    person:Corporal Duchars (combat) (46,45)
+    person:Private Holloway (combat) (36,60)
+    person:Private Wilkinson (combat) (43,60)
+    person:Corporal Foster (combat) (48,62)
+    date:19 Apr 1918 (36,66)
+    person:Second Lieutenant S R Grant (casualty_kia) (61,67)
+    person:Corporal Foster (combat) (60,71)
+    reference:NO.16999 (56,72)
+    person:Lieutenant R C Wadley (casualty_wounded) (61,73)
+Page 48 (type report) http://wd3.herokuapp.com/pages/AWD0000yq8  ----------
+  Hashtags: #faint #enemyequipment 
+  30 Apr 1918 0
+    date:18 Apr 1918 (42,10)
+    reference:N.G.V.10. (50,47)
+    date:16 Apr 1918 (49,6)
+    reference:N.G.V.c. (43,74)
+    reference:A.S.c.50.40. (50,90)
+Page 49 (type report) http://wd3.herokuapp.com/pages/AWD0000yto  ----------
+  Hashtags: #gas #faint 
+  30 Apr 1918 0
+    reference:N.G.V.S.c. (36,17)
+    reference:A.S.b.10.55. (43,30)
+    reference:A.S.c.80.80. (50,35)
+    reference:A.1.b.70.70. (40,37)
+    reference:X.50.d.55.55. (53,50)
+    reference:A.1.b.65.90. (36,56)
+    reference:N.G.V.10.a. (38,57)
+    reference:A.S.c.40.30. (50,6)
+    reference:N.G.V.10. (37,61)
+    reference:V.10.a (53,62)
+    reference:N.G.V.9. (36,66)
+    reference:N.G.V.9.a. (36,74)
+Page 50 (type report) http://wd3.herokuapp.com/pages/AWD0000yss  ----------
+  30 Apr 1918 0
+    person:Second Lieutenant Melville (40,12)
+    person:Sergeant Grant (combat) (57,13)
+    person:Lieutenant Rohde (58,17)
+    person:Lieutenant Merville (35,19)
+    person:Sergeant Waldie (combat) (63,20)
+    person:Sergeant Waldie (35,21)
+    person:Lieutenant Rohde (63,24)
+    person:Lieutenant Lowdon (45,31)
+    person:Corporal Waugh (combat) (49,40)
+    person:Sergeant Waldie (casualty_mia) (53,41)
+    person:Second Lieutenant Shead (46,45)
+    person:Corporal Usher (combat) (42,52)
+    person:Corporal Usher (36,57)
+    person:Lieutenant Shead (other) (42,62)
+    person:Second Lieutenant Berra (combat) (35,71)
+    person:Second Lieutenant James (combat) (48,71)
+    person:Second Lieutenant Berra (57,76)
+    date:18 Apr 1918 (33,8)
+    person:Lieutenant Rohde (60,80)
+    person:Second Lieutenant Shead (commander) (61,82)
+    date:22 Apr 1918 (35,83)
+Page 51 (type report) http://wd3.herokuapp.com/pages/AWD0000yuc  ----------
+  30 Apr 1918 0
+    date:22 Apr 1918 (39,5)
+    person:Lieutenant Rohde (commander) (42,7)
+    person:Second Lieutenant Berra (commander) (37,8)
+    date:23 Apr 1918 (33,9)
+Page 52 (type diary) http://wd3.herokuapp.com/pages/AWD0000yol  ----------
+  Hashtags: #badscan #aeroplanes #faint 
+  1 May 1918 22
+    place:Barlin (8,25)
+    weather:overcast (43,26)
+  2 May 1918 28
+    activity:fire (63,28)
+    weather:fine (81,30)
+    place:Barlin (39,31)
+  3 May 1918 32
+    person:Lieutenant T Morgan (43,33)
+    person:Major F G Gurney (other) (76,33)
+    activity:fire (40,35)
+  4 May 1918 36
+    place:Fosse (27,36)
+    activity:enemy_activity (58,37)
+    place:Barlin (35,37)
+    person:Lieutenant W Coombs (departed_posted) (50,39)
+    weather:fine (39,39)
+  5 May 1918 40
+    place:Barlin (79,40)
+    person:Captain Hewins (other) (33,41)
+    activity:fire (41,43)
+    place:Annequin (55,43)
+    place:Pontfixe (60,43)
+    place:Cuinchy (76,43)
+  6 May 1918 44
+    activity:fire (39,45)
+    place:Annequin Fosse (63,47)
+    place:La Bassee Canal (38,48)
+  7 May 1918 52
+    person:Second Lieutenant A E Elvidge (71,56)
+    weather:overcast (44,56)
+    person:Second Lieutenant W D Souter (other) (60,58)
+    activity:fire (30,60)
+  8 May 1918 61
+    place:Sailly La Bourse (79,64)
+    place:Noeux les Mines (75,65)
+    person:Major H M Heyland (56,67)
+    person:Major H M Heyland (commander) (56,68)
+  9 May 1918 69
+    person:Lieutenant Colonel Kidder (other) (40,69)
+    weather:fine (43,72)
+    gridRef:B_9_A_5_8 (61,74)
+    activity:attack (69,74)
+    place:Sailly La Bourse (25,74)
+    unit:11 Battalion (35,76)
+    unit:11 Division (61,76)
+  10 May 1918 77
+    activity:fire (42,80)
+    person:Lieutenant Colonel H M Heyland (joined) (41,82)
+    person:Lieutenant Colonel H F Bidder (departed_posted) (23,84)
+  11 May 1918 85
+    activity:fire (39,88)
+Page 53 (type diary) http://wd3.herokuapp.com/pages/AWD0000ysk  ----------
+  Hashtags: #gas #militarycross #faint #DCM #badscan 
+  11 May 1918 22
+    person:Lieutenant Smyth (joined) (26,25)
+    place:Barlin (8,25)
+  12 May 1918 28
+    activity:attack (41,31)
+  13 May 1918 32
+    place:Vermelles (53,35)
+    place:Noeux les Mines (24,39)
+  14 May 1918 40
+  15 May 1918 44
+    weather:fine (63,44)
+    unit:Infantry (25,45)
+    weather:fine (37,47)
+  16 May 1918 49
+    unit:Infantry (75,49)
+    activity:attack (36,49)
+    weather:fine (36,51)
+    person:Lieutenant R C Wadley (award) (77,52)
+  17 May 1918 53
+    person:Second Lieutenant A H Edgell (award) (24,53)
+    person:Second Lieutenant G S Shead (award) (33,53)
+    person:Second Lieutenant R S Melville (award) (42,53)
+    person:Sergeant Haynes (award) (65,53)
+    person:Corporal J Ussher (award) (78,53)
+  18 May 1918 56
+    unit:B Coy (36,59)
+    unit:C Coy (49,60)
+  19 May 1918 61
+    place:Barlin (24,61)
+    person:Major Gurney (award) (53,64)
+    weather:fine (38,64)
+    place:Auchy (78,66)
+    person:Major C G Fitzwilliams (departed_leave) (28,68)
+    person:Captain C Y Ford (joined) (81,68)
+  20 May 1918 69
+    person:Captain G M Campbell (departed_posted) (57,69)
+  21 May 1918 73
+    unit:Infantry (32,74)
+    activity:enemy_activity (51,74)
+  22 May 1918 77
+    activity:attack (33,77)
+    unit:Infantry (32,78)
+    weather:fine (70,78)
+    activity:fire (43,80)
+  23 May 1918 81
+    weather:fine (23,81)
+    activity:attack (71,81)
+    weather:fine (66,84)
+    activity:attack (41,84)
+  24 May 1918 85
+    activity:attack (43,88)
+    unit:2 Kings Royal Rifle (39,90)
+    unit:2 krrc (40,90)
+Page 54 (type diary) http://wd3.herokuapp.com/pages/AWD0000yns  ----------
+  Hashtags: #militarymedal #prisoners #aircraft #aeroplane #machinegun #enemycasualties #military 
+  24 May 1918 23
+    time:1230AM (25,25)
+    place:Barlin (9,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 20 (77,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 20 (32,30)
+    place:Sailly la Bourse (71,32)
+    place:Barlin (76,35)
+    unit:A Coy (25,35)
+    unit:B Coy (35,35)
+  25 May 1918 36
+    activity:enemy_activity (44,39)
+    activity:attack (65,39)
+  26 May 1918 41
+    person:Chaplain H C Day (joined) (58,41)
+    unit:Infantry (39,41)
+    activity:attack (58,43)
+    unit:Infantry (29,45)
+    person:Private F Banks (award) (50,47)
+    person:Private F Banks (award) (32,47)
+    person:Private P Heaphy (award) (49,49)
+    person:Private P Heaphy (award) (33,49)
+    person:Private W Power (award) (48,51)
+  27 May 1918 53
+    person:Private A Crouch (award) (50,53)
+    activity:enemy_activity (42,56)
+    activity:enemy_activity (62,57)
+    person:Major C C L Fitzwilliams (returned_leave) (65,60)
+    unit:Infantry (48,60)
+  28 May 1918 61
+    activity:enemy_activity (60,64)
+    activity:attack (77,64)
+    activity:attack (34,65)
+    person:Major J G Frere (commander) (65,66)
+    unit:Infantry (50,66)
+    person:Colonel Heyland (departed_leave) (49,68)
+  29 May 1918 70
+    unit:D Coy (53,72)
+    unit:D Coy (41,72)
+    place:Barlin (66,74)
+    unit:A Coy (23,74)
+    unit:Infantry (41,76)
+  30 May 1918 78
+    activity:attack (80,80)
+    activity:attack (39,81)
+  31 May 1918 82
+    unit:Infantry (44,82)
+    activity:attack (36,83)
+    unit:Infantry (74,84)
+    person:Sergeant M Morrison (award) (59,86)
+    person:Sergeant W J Grant (award) (73,86)
+    person:Private J Palethorpe (award) (26,88)
+    person:Private A McKechnie (award) (77,88)
+    person:Private A V Sharp (award) (39,89)
+    person:Lance Corporal R Campbell (award) (59,89)
+    person:Corporal A Foster (award) (42,90)
+    person:Sergeant R Dunn (award) (59,90)
+    person:Corporal H Alderslade (award) (75,90)
+    person:Sergeant Pulman (award) (27,91)
+    person:Private C Owen (award) (65,92)
+    person:Private R J Barker (award) (30,93)
+    person:Private W E Bridle (award) (47,93)
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD0000ypq  ----------
+  Hashtags: #draft #unitstrength 
+  31 May 1918 34
+    place:Barlin (9,25)
+    strength:officer: 42; nco: 0; other: 787 (59,33)
+    strength:officer: 46; nco: 0; other: 880 (59,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (73,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,45)
+    person:Lieutenant Colonel H M Heyland (joined) (48,61)
+    person:Lieutenant Colonel H M Heyland (joined) (57,62)
+    person:Captain C Y Ford (joined) (53,66)
+    person:Second Lieutenant A E Elvidge (joined) (54,70)
+    person:Second Lieutenant W Harriss (joined) (48,73)
+    person:Second Lieutenant W Harriss (joined) (58,74)
+    person:Second Lieutenant W D Souter (joined) (58,78)
+    person:Second Lieutenant W D Souter (joined) (47,78)
+    person:Second Lieutenant J Reast (joined) (56,81)
+    person:Second Lieutenant J Reast (joined) (47,82)
+    person:Lieutenant Colonel Bidder (departed_posted) (53,88)
+    person:Second Lieutenant J Reast (departed_posted) (51,91)
+Page 56 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqp  ----------
+  31 May 1918 0
+    date:2 May 1918 (48,15)
+    date:4 May 1918 (49,25)
+    reference:Order No 19 (48,5)
+Page 57 (type orders) http://wd3.herokuapp.com/pages/AWD0000yu7  ----------
+  Hashtags: #duplicate 
+  31 May 1918 0
+    reference:Map Gorre (46,12)
+    reference:Map GORRE 1/20,000 (36,12)
+    date:2 May 1918 (60,17)
+    date:4 May 1918 (36,25)
+    person:Captain A Shanks (author) (54,57)
+    date:1 May 1918 (43,62)
+    date:1 May 1918 (33,62)
+    reference:Order No 19 (48,9)
+Page 58 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqh  ----------
+  31 May 1918 0
+    reference:20 (56,10)
+    reference:Map Gorre (41,14)
+    reference:No.20 map Gorre 1/20,000 (34,16)
+    person:Captain A Shanks (commander) (53,58)
+    date:7 May 1918 (34,66)
+    reference:Operation Order No 20 (47,9)
+Page 59 (type orders) http://wd3.herokuapp.com/pages/AWD0000yo3  ----------
+  31 May 1918 0
+    reference:20 (69,22)
+    date:8 May 1918 (22,50)
+Page 60 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqo  ----------
+  31 May 1918 0
+    reference:No.21 map Gorre 1/20,000 (41,14)
+    reference:Relief in place 1st Bn Machine Gun Corps (48,19)
+    reference:21 (58,40)
+    date:15 May 1918 (41,60)
+    reference:Relief in place 1st Bn Machine Gun Corps (49,9)
+Page 61 (type orders) http://wd3.herokuapp.com/pages/AWD0000ynd  ----------
+  31 May 1918 0
+    reference:22 (52,10)
+    date:15 May 1918 (56,13)
+    person:Major J S Snowball (commander) (49,23)
+    person:Major T G Amson (commander) (48,40)
+    person:Captain A Shanks (53,78)
+    date:17 May 1918 (43,85)
+    reference:Operation Order No 22 (54,9)
+Page 62 (type orders) http://wd3.herokuapp.com/pages/AWD0000yr3  ----------
+  31 May 1918 0
+    reference:23 (61,32)
+    reference:Operation Order No 23 - Ammendment 1 (69,39)
+    date:17 May 1918 (39,76)
+Page 63 (type orders) http://wd3.herokuapp.com/pages/AWD0000ys8  ----------
+  31 May 1918 0
+    reference:Operation Order No 23  (54,13)
+    reference:Map Gorre 1/20,000 (42,15)
+    orders:move (46,19)
+    date:18 May 1918 (41,19)
+    person:Captain A Shanks (commander) (54,56)
+    date:17 May 1918 (43,61)
+Page 64 (type orders) http://wd3.herokuapp.com/pages/AWD0000yov  ----------
+  31 May 1918 0
+    reference:24 (53,20)
+    reference:Operation Order No 24 (44,22)
+    date:25 May 1918 (45,59)
+Page 65 (type orders) http://wd3.herokuapp.com/pages/AWD0000ysh  ----------
+  31 May 1918 0
+    reference:Addendum No.1 to order No.25 (32,33)
+    reference:25 (60,37)
+    reference:Operation Order No 25 - Ammendment 1 (44,38)
+    person:Captain A Shanks (60,60)
+    person:Captain A Shanks (commander) (63,66)
+    date:28 May 1918 (20,68)
+Page 66 (type orders) http://wd3.herokuapp.com/pages/AWD0000yr9  ----------
+  31 May 1918 0
+    reference:25 (52,17)
+    reference:No.25 (48,17)
+    reference:Operation Order No 25  (56,18)
+    person:Captain A Shanks (55,51)
+    date:27 May 1918 (46,62)
+Page 67 (type orders) http://wd3.herokuapp.com/pages/AWD0000ytr  ----------
+  31 May 1918 0
+    reference:Ammendment No 1 to 1st Battalion , Machine Gun Corps Defence Scheme (62,11)
+    reference:1st Bn Machine Gun Corps Defence Scheme (45,13)
+    reference:1st Battalion M.G.O, No.1255, d/d 23/5/1998 (39,23)
+    date:25 May 1918 (18,54)
+Page 68 (type orders) http://wd3.herokuapp.com/pages/AWD0000ysi  ----------
+  31 May 1918 0
+    reference:REference 1st Battn M G C No1255 (43,19)
+    reference:1st Bn MGC No.1255 dated 23/5/1918 (33,33)
+    person:Captain A Shanks (54,78)
+    date:27 May 1918 (17,88)
+Page 69 (type orders) http://wd3.herokuapp.com/pages/AWD0000yuh  ----------
+  31 May 1918 0
+    reference:1255 (64,14)
+    reference:Defence Scheme (47,9)
+    reference:1st Bn MG Corps Defence Scheme (49,9)
+Page 70 (type orders) http://wd3.herokuapp.com/pages/AWD0000yng  ----------
+  31 May 1918 0
+    reference:1st Bn MG Corps Defence Scheme(cont) (40,8)
+Page 71 (type orders) http://wd3.herokuapp.com/pages/AWD0000yu9  ----------
+  31 May 1918 0
+    reference:1st Bn MG Corps Defence Scheme(cont) (39,14)
+    reference:G.3.o.75.20. (56,19)
+    reference:A.14.D.3. 1. (58,23)
+    reference:F.29.c.90.00. (59,27)
+    reference:A.20.c. 4. 7. (56,29)
+    reference:F.29.c.90.00. (53,31)
+    person:Captain A Shanks (commander) (52,49)
+    date:23 May 1918 (37,51)
+Page 72 (type orders) http://wd3.herokuapp.com/pages/AWD0000yoa  ----------
+  31 May 1918 0
+    reference:No 1104 (51,6)
+    person:Captain A Shanks (commander) (55,93)
+Page 73 (type orders) http://wd3.herokuapp.com/pages/AWD0000ypn  ----------
+  31 May 1918 0
+    reference:Appendix to 1st Bn MG Corps Defence Scheme(cont) (46,8)
+    reference:Administrative Arrangements (58,9)
+    person:Captain A Shanks (commander) (53,94)
+Page 74 (type orders) http://wd3.herokuapp.com/pages/AWD0000ytc  ----------
+  Hashtags: #aeroplanes 
+  31 May 1918 0
+    reference:G.3.d.35.15. (56,17)
+    reference:G.9.a.3.8. (57,22)
+    reference:G.8.b.0.8. (58,24)
+    reference:G.1.d.2.8. (59,26)
+    reference:F.29.d.2.86. (60,27)
+    reference:G.2.b.25.70. (62,28)
+    reference:A.23.b.30.30. (58,32)
+    reference:A.20.b.95.75. (61,34)
+    reference:A.14.d.70.60. (63,35)
+    reference:A.20.a.55.00. (59,39)
+    reference:Appendix 4 (42,4)
+    reference:A.25.b80.05. (62,41)
+    reference:Appendix to 1st Bn MG Corps Defence Scheme(cont) (46,5)
+    reference:G. 8.b.40.00. (59,68)
+    orders:standing (33,7)
+    reference:G. 9.a.55.85. (61,70)
+    reference:G. 3.d.30.15. (63,71)
+    reference:A.26.b.35.10. (59,76)
+    reference:A.21.c.15.65. (60,78)
+    reference:A.20.c.58.30. (61,79)
+    reference:A.20.c.68.35. (63,80)
+Page 75 (type orders) http://wd3.herokuapp.com/pages/AWD0000ys4  ----------
+  31 May 1918 0
+    reference:G.5.c.3.6. (52,28)
+    reference:A.26.d.47.35. (56,30)
+    reference:A.20.c.63.74. (52,35)
+    reference:Appendix to 1st Bn MG Corps Defence Scheme(cont) (35,5)
+    person:Captain A Shanks (commander) (54,57)
+Page 76 (type orders) http://wd3.herokuapp.com/pages/AWD0000yro  ----------
+  31 May 1918 0
+    reference:Order No 25 (46,13)
+    date:31 May 1918 (44,55)
+Page 77 (type diary) http://wd3.herokuapp.com/pages/AWD0000ypg  ----------
+  Hashtags: #gas #militarycross #prisoners #enemycasualities #MID #DCM 
+  1 Jun 1918 24
+    place:Barlin (8,25)
+    activity:attack (55,26)
+    unit:Infantry (77,26)
+  2 Jun 1918 29
+    activity:enemy_activity (44,31)
+    activity:attack (66,31)
+    mapRef:Sheet 44b (6,31)
+    unit:Infantry (30,33)
+    place:Sailly Labourse (41,35)
+    unit:Coy D (57,36)
+  3 Jun 1918 37
+    unit:Infantry (45,41)
+    person:Second Lieutenant F Barker (award) (79,42)
+    person:Second Lieutenant P Marks (award) (28,44)
+    person:Sergeant Black (award) (67,44)
+    person:Sergeant J F Sellick (award) (25,45)
+  4 Jun 1918 46
+    person:Corporal D Jones (award) (43,46)
+    activity:attack (50,48)
+    unit:Infantry (75,48)
+    unit:3 Infantry Brigade (34,50)
+    unit:9 Coy R I R 207 Division (58,52)
+    person:Major E J Hanbury (award) (64,52)
+  5 Jun 1918 54
+    person:Major G S Snowball (award) (27,54)
+    person:Lieutenant J Bullpitt (award) (45,54)
+    person:Second Lieutenant T M Pritchard (award) (54,54)
+    person:Lance Corporal C M Cothers (award) (71,54)
+    person:Lieutenant A B Browne (award) (35,54)
+    person:Major A S Vernon (award) (78,54)
+    unit:15 M G Coy (49,57)
+    activity:movement (39,60)
+    place:Noeux les Mines (46,60)
+    person:Colonel Heyland (returned_leave) (69,61)
+    person:Second Lieutenant A H Edgell (57,62)
+    person:Second Lieutenant A Hedgell (award) (59,62)
+    place:Cambrin (63,64)
+    activity:enemy_activity (49,65)
+  6 Jun 1918 67
+    weather:fine (68,69)
+    activity:attack (25,70)
+    activity:enemy_activity (47,70)
+    person:Second Lieutenant Melville (departed_sick) (48,70)
+  7 Jun 1918 71
+    activity:attack (72,74)
+    unit:Infantry (26,76)
+  8 Jun 1918 78
+    weather:overcast (79,81)
+  9 Jun 1918 82
+    activity:attack (48,82)
+  10 Jun 1918 86
+    unit:Infantry (41,87)
+    unit:Infantry (73,88)
+    activity:attack (71,89)
+Page 78 (type diary) http://wd3.herokuapp.com/pages/AWD0000yqs  ----------
+  Hashtags: #PUO #rockets 
+  11 Jun 1918 22
+    place:Barlin (8,25)
+    unit:Infantry (29,27)
+  12 Jun 1918 28
+    mapRef:Sheet 44b (9,29)
+  13 Jun 1918 33
+    activity:attack (46,35)
+    weather:overcast (63,35)
+  14 Jun 1918 37
+    unit:Infantry (48,37)
+  15 Jun 1918 41
+    unit:A Coy (27,41)
+    unit:C Coy (37,41)
+    place:Barlin (74,41)
+    activity:attack (27,44)
+  16 Jun 1918 45
+  17 Jun 1918 49
+    person:Lieutenant J Fraser (departed_posted) (25,53)
+  18 Jun 1918 54
+    person:Lieutenant H S Joyce (departed_posted) (36,54)
+    activity:attack (68,55)
+    activity:quiet (25,56)
+  19 Jun 1918 57
+    unit:55 Division (56,57)
+  20 Jun 1918 62
+  22 Jun 1918 74
+    unit:B Coy (62,77)
+    unit:A Coy (72,77)
+  23 Jun 1918 78
+    place:Barlin (44,78)
+    activity:attack (70,81)
+  24 Jun 1918 83
+  25 Jun 1918 86
+    activity:attack (64,89)
+Page 79 (type diary) http://wd3.herokuapp.com/pages/AWD0000yp7  ----------
+  Hashtags: #aircraft #drafts #roll #PUO 
+  26 Jun 1918 22
+    place:Barlin (8,25)
+    activity:quiet (21,25)
+  27 Jun 1918 29
+    mapRef:Sheet 44b (7,29)
+  28 Jun 1918 33
+  29 Jun 1918 37
+  30 Jun 1918 41
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (21,45)
+    strength:officer: 47; nco: 0; other: 890 (55,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,65)
+    person:Lieutenant M A Hart (joined) (43,77)
+    person:Lieutenant Sharpe (joined) (44,81)
+    person:Second Lieutenant E H Hedley (joined) (42,84)
+Page 80 (type orders) http://wd3.herokuapp.com/pages/AWD0000yrf  ----------
+  30 Jun 1918 0
+    reference:Ops order No 28 Ref Bethune (32,11)
+    reference:Operation Order No 28 (61,12)
+    reference:No.28 Map Bethune combined sheet (34,16)
+    person:Major F G Gurney (commander) (24,74)
+Page 81 (type orders) http://wd3.herokuapp.com/pages/AWD0000yr4  ----------
+  30 Jun 1918 0
+    date:13 Jun 1918 (38,11)
+    reference:No.28 cont (26,7)
+Page 82 (type orders) http://wd3.herokuapp.com/pages/AWD0000ysc  ----------
+  30 Jun 1918 0
+    reference:Operation Order No 29 (56,15)
+    reference:No.29 Map Bethune combined sheet (42,17)
+    person:Major Fitzwilliams (commander) (43,45)
+    person:Captain Shanks (54,52)
+    date:21 Jun 1918 (38,58)
+Page 83 (type cover)
+Page 84 (type other) http://wd3.herokuapp.com/pages/AWD0000ys3  ----------
+  Hashtags: #map 
+  30 Jun 1918 0
+    mapRef:36 c N.W.1 (7,17)
+    mapRef: (77,96)
+Page 85 (type other) http://wd3.herokuapp.com/pages/AWD0000yq5  ----------
+  Hashtags: #map 
+  30 Jun 1918 0
+    mapRef:36 (34,96)
+Page 86 (type cover)
+Page 87 (type diary) http://wd3.herokuapp.com/pages/AWD0000yts  ----------
+  Hashtags: #aircraft #prisoners 
+  1 Jul 1918 21
+    place:Barlin (9,25)
+    activity:attack (24,27)
+    person:Second Lieutenant C O Davies (joined) (49,27)
+    mapRef:Sheet 44b (7,28)
+    person:Second Lieutenant W McLean (joined) (66,28)
+  2 Jul 1918 31
+    activity:fire (24,34)
+  3 Jul 1918 36
+    activity:attack (61,36)
+    activity:fire (44,39)
+    unit:C Coy (25,41)
+    unit:B Coy (47,41)
+    weather:fine (55,43)
+    place:Barlin (45,43)
+  4 Jul 1918 44
+  5 Jul 1918 48
+    activity:attack (70,48)
+    weather:overcast (26,49)
+    activity:fire (41,51)
+  6 Jul 1918 52
+    weather:overcast (69,52)
+    activity:attack (26,53)
+  7 Jul 1918 56
+    unit:B Coy (24,57)
+    unit:D Coy (31,57)
+    activity:attack (64,60)
+    activity:attack (32,61)
+    unit:Black Watch (31,61)
+    unit:Black Watch (41,62)
+  8 Jul 1918 65
+    activity:attack (24,68)
+  9 Jul 1918 69
+    activity:attack (44,70)
+  10 Jul 1918 73
+    activity:attack (67,74)
+    place:Cambrin (80,76)
+    unit:A Coy (56,76)
+    place:Barlin (43,77)
+    unit:C Coy (71,77)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,80)
+  12 Jul 1918 85
+    activity:attack (37,87)
+Page 88 (type diary) http://wd3.herokuapp.com/pages/AWD0000ytq  ----------
+  Hashtags: #aircraft #trenchmortars #raid #aeroplane 
+  13 Jul 1918 22
+    place:Barlin (8,25)
+    activity:enemy_activity (31,25)
+    activity:attack (73,25)
+  14 Jul 1918 29
+    mapRef:Sheet 44b (9,30)
+    activity:attack (71,31)
+  15 Jul 1918 32
+    activity:attack (72,35)
+    activity:quiet (44,36)
+  16 Jul 1918 37
+    activity:attack (61,37)
+    unit:D Coy (33,40)
+    unit:A coy 3 (rhg) Battalion guards machine gun (42,40)
+    unit: (46,40)
+  17 Jul 1918 41
+    place:Barlin (71,41)
+    weather:fine (74,43)
+    activity:attack (83,43)
+  18 Jul 1918 45
+    activity:attack (26,45)
+    unit: (84,47)
+    activity:fire (39,47)
+    unit:C Coy (74,48)
+  19 Jul 1918 49
+    place:Cambrin (31,49)
+    weather:fine (82,49)
+    unit:A Coy (23,50)
+    place:Barlin (64,50)
+  20 Jul 1918 53
+    activity:attack (45,54)
+    activity:attack (39,55)
+    activity:raid (59,56)
+    place:La Bassee Road (69,57)
+    activity:fire (77,57)
+    activity:attack (26,58)
+  21 Jul 1918 62
+    activity:fire (27,62)
+    activity:attack (67,64)
+  22 Jul 1918 65
+    activity:enemy_activity (47,68)
+    unit:Infantry (59,70)
+    activity:attack (35,73)
+  23 Jul 1918 74
+    activity:attack (67,77)
+    activity:attack (75,78)
+  24 Jul 1918 82
+    activity:fire (37,85)
+    activity:attack (57,86)
+    activity:attack (49,87)
+    place:Auchy (58,88)
+    place:Haines (66,88)
+    unit:B Coy (74,89)
+    unit: (83,89)
+    place:Hohenzollern Sector (35,90)
+    place:Barlin (61,90)
+    unit:D Coy (24,91)
+Page 89 (type diary) http://wd3.herokuapp.com/pages/AWD0000yrx  ----------
+  Hashtags: #prisoner #gas #bomb #bombs #aircraft 
+  25 Jul 1918 22
+    place:Barlin (9,24)
+    person:Lieutenant Colonel H M Heyland (commander) (69,25)
+    activity:attack (49,25)
+    gridRef:K_32_B_0_0 (7,26)
+    person:Major Frere (other) (44,27)
+  26 Jul 1918 28
+    mapRef:Sheet 44b (6,29)
+    activity:attack (60,31)
+    unit:A Coy (48,32)
+    place:Haines (35,32)
+    unit:C Coy (61,33)
+    place:Auchy (42,33)
+    place:Cambrin (74,33)
+    place:Barlin (40,35)
+  27 Jul 1918 36
+    activity:enemy_activity (47,39)
+  28 Jul 1918 40
+    activity:attack (73,40)
+    activity:attack (59,43)
+  29 Jul 1918 44
+    place:Spotted Dog (26,44)
+    activity:attack (46,45)
+  30 Jul 1918 49
+    place:Pont Fixe (33,49)
+    activity:enemy_activity (48,51)
+    activity:fire (34,52)
+    place:Cambrin (67,52)
+    time:1230PM (41,53)
+  31 Jul 1918 57
+    activity:enemy_activity (42,59)
+    activity:attack (66,60)
+    strength:officer: 47; nco: 0; other: 900 (57,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 8 (33,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,82)
+Page 90 (type orders) http://wd3.herokuapp.com/pages/AWD0000yre  ----------
+  31 Jul 1918 0
+    reference:Order No 30 (55,14)
+    reference:No.30 Map Bethune combined Sheet 1/40,000 (42,14)
+    orders:move (38,15)
+    reference:Bethune 1/40,000 (48,17)
+    date:1 Jul 1918 (44,64)
+Page 91 (type orders) http://wd3.herokuapp.com/pages/AWD0000ypa  ----------
+  31 Jul 1918 0
+    reference:Order No 31 (58,17)
+    reference:No.31 Map Bethune combined Sheet 1/40,000 (41,21)
+    person:Major J S Snowball (commander) (49,42)
+    date:5 Jul 1918 (43,55)
+Page 92 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqr  ----------
+  31 Jul 1918 0
+    reference:Order No 32 (50,18)
+    reference:Bethune 1/40,000 (38,21)
+    reference:No.32 Map Bethune combined Sheet 1/40,000 (31,21)
+    person:Lieutenant (commander) (53,77)
+    date:9 Jul 1918 (34,87)
+Page 93 (type orders) http://wd3.herokuapp.com/pages/AWD0000yo8  ----------
+  31 Jul 1918 0
+    reference:No.32 (cont.) (21,10)
+Page 94 (type orders) http://wd3.herokuapp.com/pages/AWD0000yql  ----------
+  31 Jul 1918 0
+    orders:move (23,11)
+    reference:Order No 33 (61,12)
+    reference:Bethune 1/40,000 (27,17)
+    person:Major J S Snowball (commander) (32,76)
+    person:Captain A Shanks (author) (55,80)
+    date:15 Jul 1918 (40,87)
+Page 95 (type orders) http://wd3.herokuapp.com/pages/AWD0000ynt  ----------
+  31 Jul 1918 0
+    reference:No.33 (cont.) (19,13)
+Page 96 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqq  ----------
+  31 Jul 1918 0
+    reference:Order No 34 (51,16)
+    reference:No.34 Map Bethune combined sheet (45,17)
+    reference:Bethune combined sheet (34,22)
+    person:Captain (author) (59,77)
+    date:16 Jul 1918 (36,82)
+Page 97 (type orders) http://wd3.herokuapp.com/pages/AWD0000yt9  ----------
+  31 Jul 1918 0
+    reference:No.34(cont.) (20,9)
+Page 98 (type orders) http://wd3.herokuapp.com/pages/AWD0000yti  ----------
+  31 Jul 1918 0
+    reference:Order No 35 (51,20)
+    person:Captain A Shanks (author) (54,72)
+    date:22 Jul 1918 (34,78)
+Page 99 (type orders) http://wd3.herokuapp.com/pages/AWD0000yom  ----------
+  31 Jul 1918 0
+    reference:Order No 36 (50,14)
+    reference:Bethune combined sheet 1/40,000 (29,17)
+    reference:No.36 Map Bethune combined sheet 1/40,000 (39,19)
+    person:Captain T Morgan (commander) (33,74)
+    person:Captain A Shanks (author) (58,82)
+    person:Captain P Shanks (commander) (68,86)
+    date:24 Jul 1918 (39,88)
+Page 100 (type orders) http://wd3.herokuapp.com/pages/AWD0000yu4  ----------
+  31 Jul 1918 0
+    reference:No.36(cont.) (18,7)
+Page 101 (type orders) http://wd3.herokuapp.com/pages/AWD0000ysx  ----------
+  31 Jul 1918 0
+    reference:Order No 37 (50,19)
+    reference:No.37 Map Bethune combined sheet (47,20)
+    person:Major T G Anson (commander) (26,74)
+    date:31 Jul 1918 (22,90)
+Page 102 (type orders) http://wd3.herokuapp.com/pages/AWD0000yp9  ----------
+  31 Jul 1918 0
+    reference:No.37(cont.) (20,9)
+Page 103 (type diary) http://wd3.herokuapp.com/pages/AWD0000yo6  ----------
+  Hashtags: #aeroplane #faded #prisoner #prisoners #raid 
+  1 Aug 1918 22
+    unit:3 rhg (67,24)
+    unit:B Coy (41,25)
+    place:Barlin (7,26)
+    mapRef:44b (7,27)
+    activity:attack (50,28)
+    gridRef:K_32_B_0_0 (8,28)
+    mapRef:Sheet 44b (7,31)
+    mapRef:44 b (7,31)
+    place:La Bassee (44,31)
+  2 Aug 1918 32
+    activity:attack (55,35)
+  3 Aug 1918 36
+    gridRef:A_16_D_9_1 (36,37)
+    gridRef:A_22_B_5_7 (46,37)
+    activity:attack (43,39)
+    place:Lock (72,40)
+    activity:attack (30,42)
+  5 Aug 1918 49
+    activity:attack (36,49)
+    activity:attack (55,49)
+    activity:attack (69,52)
+    place:Cambrin (71,55)
+  6 Aug 1918 57
+    activity:attack (65,60)
+    unit:C Coy (82,61)
+    activity:attack (31,62)
+    place:La Bassee Road (38,62)
+    place:Auchy Alley (51,62)
+    unit:A Coy (34,64)
+    unit:D Coy (48,64)
+  7 Aug 1918 66
+    place:Barlin (31,66)
+    activity:fire (61,68)
+    place:Pont Fixe (76,68)
+    activity:enemy_activity (72,70)
+    time:0125AM (53,70)
+    time:0100AM (39,71)
+  8 Aug 1918 74
+    activity:attack (57,74)
+    activity:attack (41,77)
+    unit:10 Coy 309 I/R (22,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (42,81)
+  9 Aug 1918 86
+    activity:attack (56,89)
+    activity:attack (69,89)
+Page 104 (type diary) http://wd3.herokuapp.com/pages/AWD0000ysd  ----------
+  Hashtags: #aeroplanes #aircraft 
+  10 Aug 1918 22
+    place:Barlin (9,24)
+    activity:enemy_activity (52,25)
+    gridRef:K_32_B_0_0 (7,27)
+    mapRef:Sheet 44b (9,28)
+    mapRef:44b (10,28)
+    gridRef:A_29_A_0_0 (44,31)
+  11 Aug 1918 32
+    time:1030AM (69,35)
+    activity:enemy_activity (65,36)
+    place:Pont Fixe (39,37)
+    place:Annequin (45,37)
+    place:Sailly (54,37)
+    place:Sailly (40,39)
+  12 Aug 1918 40
+  13 Aug 1918 45
+    activity:fire (36,46)
+    activity:attack (21,47)
+  14 Aug 1918 49
+    activity:attack (41,51)
+    activity:attack (36,51)
+  15 Aug 1918 53
+    activity:reconnoitered (37,56)
+  16 Aug 1918 57
+    unit:D Coy (24,60)
+    unit:A Coy (30,60)
+    unit:C Coy (56,60)
+    unit:B Coy (65,60)
+  17 Aug 1918 61
+    unit:A Coy (27,62)
+    place:Factory (51,62)
+    unit:D Coy (43,63)
+    activity:attack (65,63)
+    activity:attack (50,64)
+  18 Aug 1918 66
+  19 Aug 1918 70
+    activity:attack (62,72)
+  20 Aug 1918 74
+    place:Barlin (48,76)
+  21 Aug 1918 78
+    activity:attack (54,78)
+    unit:D Coy (37,81)
+    unit:D Coy (64,81)
+    place:Eps (74,81)
+  22 Aug 1918 82
+    activity:attack (46,82)
+    unit:C Coy (23,84)
+    activity:fire (73,86)
+    unit:A Coy (27,87)
+    unit:C Coy (30,87)
+    unit:Bn hq (34,87)
+    place:Eps (31,87)
+Page 105 (type diary) http://wd3.herokuapp.com/pages/AWD0000you  ----------
+  Hashtags: #strength 
+  23 Aug 1918 23
+    activity:training (24,28)
+    place:Eps (8,28)
+  31 Aug 1918 34
+    activity:movement (63,34)
+    place:Arras (47,35)
+    place:Anvin (80,35)
+    activity:movement (41,36)
+    strength:officer: 50; nco: 0; other: 892 (42,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,57)
+Page 106 (type orders) http://wd3.herokuapp.com/pages/AWD0000ypi  ----------
+  31 Aug 1918 0
+    reference:Bethune combined shoot (47,17)
+    reference:No.38 Map Bethune combined sheet (34,18)
+    reference:Barlin (78,39)
+    reference:Sailly Labrose (62,46)
+    reference:Sailly Labourse (64,47)
+    person:Major Ccl Fitzwilliams (commander) (33,69)
+    reference:Sailly Labourse (13,77)
+    person:Captain A Shanks (55,78)
+    reference:Relief in place 1st Bn Machine Gun Corps (61,8)
+    date:4 Aug 1918 (19,87)
+Page 107 (type orders) http://wd3.herokuapp.com/pages/AWD0000yu6  ----------
+  31 Aug 1918 0
+    reference:No.38(cont) (19,13)
+Page 108 (type diary) http://wd3.herokuapp.com/pages/AWD0000ypp  ----------
+  26 Sep 1918 24
+    unit:C Coy (81,25)
+    unit:A Coy 46 Btn (79,28)
+    place:Maissemy (6,29)
+    unit:6 Btn M G C (34,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (20,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,32)
+  27 Sep 1918 33
+    unit:A Coy (49,36)
+    place:Maissemy (6,37)
+    unit:4 Division (60,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,38)
+  28 Sep 1918 39
+    place:Maissemy (6,42)
+    unit:C Coy (85,43)
+    unit:46 btn mgc (42,43)
+    unit:6 Division (64,43)
+    unit:46 Division (43,44)
+    activity:attack (27,45)
+  29 Sep 1918 46
+    place:Caulaincourt (49,46)
+    unit:B Coy (29,46)
+    unit:46 Division (62,48)
+    unit:6 Division (75,48)
+    unit:1 Division (24,49)
+    unit:1 Brigade (86,49)
+    unit:46 (61,49)
+    place:Maissemy (8,50)
+    unit:3 Brigade (26,52)
+    unit:46 Division (58,54)
+    unit:A Coy (52,56)
+    place:Thorigny (30,57)
+    unit:1 Brigade (67,57)
+    gridRef:M_12_C_0_0 (22,57)
+    gridRef:M_12_D_0_0 (27,57)
+    unit:3 Brigade (79,59)
+    unit:C Coy (43,60)
+    unit:D Coy (56,60)
+    place:Thorigny (68,62)
+    activity:achieved (27,63)
+    place:Caulaincourt (29,66)
+    unit:B Coy (24,66)
+  30 Sep 1918 67
+    gridRef:M_15_C_3_3 (58,68)
+    unit:Bn hq (30,69)
+    unit:Rear bn hq (70,69)
+    place:Maissemy (22,71)
+    place:Talana Hill (66,71)
+    place:Maissemy (8,71)
+    unit:1 Division (52,71)
+    unit:A Coy (46,73)
+    person:Second Lieutenant R W H Baker (casualty_wounded) (58,75)
+    unit:1 Btn Loyal North Lancs Rgt (25,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (83,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 31 (71,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (58,77)
+Page 109 (type orders) http://wd3.herokuapp.com/pages/AWD0000yob  ----------
+  30 Sep 1918 0
+    reference:Order No 37 (51,25)
+    reference:No.37 Map Bethune combined sheet (44,26)
+    reference:Bethune combined sheet 1/40,000 (34,29)
+    person:Major T G Anson (commander) (28,81)
+Page 110 (type orders) http://wd3.herokuapp.com/pages/AWD0000ytk  ----------
+  30 Sep 1918 0
+    reference:No.37(cont) (21,10)
+Page 111 (type orders) http://wd3.herokuapp.com/pages/AWD0000ynr  ----------
+  30 Sep 1918 0
+    reference:Order No 39 (58,14)
+    orders:move (30,17)
+    person:Major T G Anson (commander) (52,68)
+    person:Major F G Gurney (commander) (52,70)
+    person:Captain A Shanks (author) (52,77)
+    date:13 Aug 1918 (42,83)
+Page 112 (type orders) http://wd3.herokuapp.com/pages/AWD0000yny  ----------
+  30 Sep 1918 0
+    reference:No.38(cont) (29,9)
+Page 113 (type orders) http://wd3.herokuapp.com/pages/AWD0000ynj  ----------
+  30 Sep 1918 0
+    reference:Order No 40 (52,14)
+    reference:Bethune continued sheet (49,16)
+    reference:Bethune combined sheet 1/40,000 (38,17)
+    reference: Sheet 44.B 1/40,000 (45,19)
+    reference: (38,21)
+    person:Second Lieutenant Spary (commander) (55,65)
+    orders:move (42,7)
+    reference:K.20.c.2.2. (cross-roads) (40,73)
+    person:Captain Shanks (author) (56,84)
+    date:18 Aug 1918 (44,89)
+Page 114 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqg  ----------
+  30 Sep 1918 0
+    reference:No.40(cont) (37,12)
+Page 115 (type orders) http://wd3.herokuapp.com/pages/AWD0000yoo  ----------
+  30 Sep 1918 0
+    reference:No.41 (46,10)
+    reference:Order No 41 (50,10)
+    reference:Bethune combined sheet 1/40,000 (40,12)
+    reference:Sheet 44.B 1/40,000 (41,16)
+    date:21 Aug 1918 (48,63)
+    person:Major B H Jones (commander) (46,68)
+    person:Captain A Shanks (author) (50,76)
+    date:20 Aug 1918 (43,81)
+Page 116 (type orders) http://wd3.herokuapp.com/pages/AWD0000yui  ----------
+  30 Sep 1918 0
+    person:Lieutenant Rayner (other) (46,60)
+    person:Major George (commander) (39,73)
+    person:Captain A Shanks (author) (50,77)
+    date:21 Aug 1918 (41,82)
+Page 117 (type orders) http://wd3.herokuapp.com/pages/AWD0000yow  ----------
+  30 Sep 1918 0
+    reference:No.43 (42,5)
+    orders:move (37,5)
+    reference:Order No 43 (51,7)
+    person:Captain A Shanks (author) (50,71)
+    date:31 Aug 1918 (45,73)
+    orders:move (34,8)
+Page 118 (type diary) http://wd3.herokuapp.com/pages/AWD0000yt2  ----------
+  Hashtags: #outoforder 
+  30 Sep 1918 0
+    place:Arras (36,26)
+    activity:movement (28,26)
+    time:0600PM (82,26)
+    place:Arras (7,28)
+    unit:4 Canadian Division (61,28)
+    unit:A Coy (55,31)
+    unit:1 Infantry Brigade (58,32)
+    unit:B Coy (63,32)
+    unit:2 Infantry Brigade (66,32)
+    unit:C Coy (71,32)
+    unit:3 Inf Brigade (82,32)
+    place:Wancourt (46,35)
+    unit:Bn hq (60,35)
+    place:Wancourt (73,36)
+    unit:4 Canadian Division (28,39)
+    place:Wancourt (7,41)
+    gridRef:O_20_C_5_9 (70,42)
+    unit:Bn hq (63,42)
+    gridRef:O_20_B_0_0 (49,45)
+    gridRef:O_20_D_0_0 (54,45)
+    unit:D Coy (45,45)
+    unit:A Coy (60,45)
+    unit:B Coy (31,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (79,48)
+    gridRef:O_28_A_0_0 (36,48)
+    gridRef:O_30_C_0_0 (49,48)
+    unit:C Coy (44,48)
+    unit:4 British Division (37,51)
+    gridRef:N_12_A_0_6 (64,54)
+    gridRef:N_12_A_0_6 (6,54)
+    unit:Bn hq (59,54)
+    unit:A Coy (74,54)
+    gridRef:P_13_D_17_3 (78,58)
+    gridRef:P_3_D_5_2 (24,60)
+    gridRef:P_6_A_3_3 (42,60)
+    unit:C Coy (66,60)
+    domestic:accomodation (28,62)
+    place:Vis-En-Artois (43,62)
+    unit:D Coy (57,62)
+    place:Eterpigny (82,63)
+    gridRef:P_7_A_0_0 (27,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (71,66)
+    place:Etaing (23,67)
+    activity:line (36,68)
+    unit:4h Division (44,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (73,70)
+    activity:line (22,71)
+    gridRef:N_12_A_0_6 (6,72)
+    place:Blangy (51,76)
+    unit:C Coy (23,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (84,79)
+    unit:A Coy (21,81)
+    unit:A Coy 56 Bn (32,81)
+    unit:B Coy (21,83)
+    unit:2 Brigade (78,83)
+    unit:D Coy 56 Bn (32,84)
+    unit:D Coy (21,86)
+    place:Hermaville (48,87)
+    activity:movement (45,89)
+    unit:C Coy (21,89)
+    unit:3 Brigade (24,89)
+    place:Arras (84,90)
+    place:Tilloy (44,93)
+    place:Hermaville (50,93)
+    activity:resting (49,93)
+    unit:A Coy (21,93)
+    unit:D Coy (23,93)
+    unit:B Coy (37,93)
+    unit:C Coy (39,94)
+Page 119 (type diary) http://wd3.herokuapp.com/pages/AWD0000ysz  ----------
+  30 Sep 1918 0
+    activity:resting (22,26)
+    place:Etrun (11,28)
+    unit:D Coy (23,31)
+    place:Maroeuil (60,31)
+    place:Marcelcave (70,31)
+    activity:movement (50,32)
+    unit:2 Brigade (45,33)
+    unit:3 Brigade (49,33)
+    activity:movement (37,33)
+    unit:A Coy (23,34)
+    unit:B Coy (26,34)
+    unit:C Coy (30,34)
+    unit:1 Brigade (32,34)
+    unit:2 Brigade (35,34)
+    place:Maroeuil (58,34)
+    place:Marcelcave (44,35)
+    domestic:accomodation (63,36)
+    place:Morcourt (71,36)
+    unit:A Coy (41,37)
+    domestic:accomodation (46,37)
+    domestic:accomodation (74,37)
+    place:Marcelcave (36,37)
+    place:Morcourt (54,37)
+    place:Morcourt (7,37)
+    unit:B Coy (66,38)
+    place:Proyart (83,38)
+  12 Sep 1918 41
+    activity:movement (45,41)
+    place:Caulaincourt (53,41)
+    unit:C Coy (25,42)
+    unit:3 Brigade (76,43)
+    unit:C Coy (62,44)
+    activity:resting (38,44)
+    domestic:other (47,44)
+    place:Morcourt (7,44)
+    unit:Ix corps (66,45)
+    unit:32 Bn Machine Corps (29,46)
+    unit:32 Battalion M G C (30,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (79,46)
+  13 Sep 1918 47
+    activity:movement (47,48)
+    place:Meraucourt (79,48)
+    unit:Bn hq (71,49)
+    activity:movement (63,50)
+    place:Meraucourt (7,50)
+    unit:A Coy (21,51)
+    activity:movement (37,51)
+    place:Tertry (24,51)
+    place:Athies (33,51)
+    unit:B Coy (28,52)
+    unit:D Coy (41,52)
+    unit:A coy 22 bn mgc (73,52)
+    place:Athies (53,52)
+    gridRef:Q_29_D_0_0 (47,54)
+    gridRef:W_6_B_0_0 (53,54)
+    unit:3 Brigade (79,56)
+    activity:attack (70,56)
+  14 Sep 1918 57
+    unit:C Coy (67,57)
+    gridRef:R_36_C_0_0 (60,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (23,58)
+    domestic:accomodation (67,59)
+    unit:A Coy (40,60)
+    activity:movement (26,60)
+    activity:movement (43,60)
+    domestic:accomodation (47,60)
+    place:Caulaincourt (32,60)
+    place:Caulaincourt (56,60)
+    place:Tertry (73,60)
+    unit:B Coy (64,61)
+    unit:3 Infantry Brigade (26,62)
+    place:Caulaincourt (6,62)
+    activity:attack (51,64)
+    unit:C Coy (23,65)
+    person:Second Lieutenant Barkins (commander) (47,65)
+    person:Lieutenant Barker (44,65)
+    unit:1 Glosters Regiment. (23,69)
+    unit:3 Brigade (69,69)
+    unit:1 Glosters (25,69)
+    activity:reserve (40,69)
+    unit:D Coy (34,70)
+    gridRef:R_31_C_0_7 (25,72)
+  15 Sep 1918 74
+    unit:3 Brigade (50,75)
+    unit:C Coy (23,76)
+    unit:3 Brigade (34,76)
+    gridRef:R_10_C_0_5 (71,76)
+    place:Maissemy (84,76)
+    gridRef:R_36_A_8_2 (23,78)
+    activity:attack (30,78)
+    activity:attack (49,79)
+    place:Caulaincourt (6,79)
+    unit:D Coy (69,81)
+    gridRef:R_11_B_0_0 (23,82)
+    gridRef:R_11_C_0_0 (27,82)
+    gridRef:R_15_A_0_0 (54,84)
+    gridRef:R_21_A_0_0 (68,84)
+    gridRef:R_28__0_0 (36,86)
+    activity:attack (54,87)
+    unit:3 Brigade (22,90)
+Page 120 (type diary) http://wd3.herokuapp.com/pages/AWD0000ys6  ----------
+  16 Sep 1918 22
+    activity:attack (74,25)
+    unit:C Coy (21,25)
+    unit:3 Infantry Brigade (37,25)
+    activity:line (29,26)
+    place:Caulaincourt (6,28)
+    unit:D Coy (53,29)
+    place:Vermand (65,32)
+    place:Caulaincourt (38,33)
+    activity:movement (27,33)
+    unit:A Coy (21,33)
+    place:Caulaincourt (41,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (83,36)
+    unit:1 and 2 Bdes (67,36)
+    place:Tertry (34,37)
+    unit:B Coy (22,37)
+    unit:3 Brigade (51,37)
+    unit:C Coy (78,37)
+  17 Sep 1918 38
+    activity:movement (35,38)
+    unit:4 Australian Division (75,40)
+    place:Caulaincourt (8,41)
+    unit:6 Division (37,42)
+    unit:2 Brigade (41,45)
+    unit:1 Brigade (21,46)
+    unit:A Coy (24,46)
+    unit:B Coy (32,46)
+    activity:reconnoitered (47,49)
+  18 Sep 1918 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (78,54)
+    activity:attack (28,56)
+    unit:4 Australian Division (51,56)
+    unit:6 Division (79,56)
+    place:Caulaincourt (7,58)
+    activity:achieved (54,61)
+    unit:C Coy (80,61)
+    time:1045AM (43,61)
+    activity:withdraw (23,63)
+    gridRef:R_23_C_0_0 (49,64)
+    gridRef:R_29_A_0_0 (55,64)
+    gridRef:R_29_D_0_0 (59,64)
+  19 Sep 1918 71
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,71)
+    activity:attack (28,72)
+    place:Fourmi Trench (52,74)
+    place:Caulaincourt (7,74)
+    place:Entrepot Trench (77,75)
+    place:Fourmi Trench (36,77)
+    place:Berthaucourt (48,77)
+    place:Berthaucourt (38,79)
+    activity:attack (63,80)
+    unit:B Coy (58,80)
+    unit:C Coy (61,81)
+  20 Sep 1918 82
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,82)
+    place:Maissemy (53,85)
+    unit:A, B, C, D Coys (58,85)
+    unit:Bn hq (48,86)
+    place:Maissemy (6,87)
+    activity:attack (48,87)
+    activity:attack (73,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,91)
+Page 121 (type diary) http://wd3.herokuapp.com/pages/AWD0000ysv  ----------
+  Hashtags: #prisoners #Telephone 
+  21 Sep 1918 23
+    activity:attack (36,26)
+    activity:line (62,26)
+    place:Maissemy (8,28)
+    activity:fire (24,29)
+    unit:B and part of D Coys (48,29)
+    unit:3 Infantry Brigade (85,30)
+    place:Caulaincourt (34,32)
+    unit:C Coy (46,32)
+    unit:Coy 6 bn mgc (58,32)
+  22 Sep 1918 33
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,34)
+    unit:3 Infantry Brigade (25,34)
+  23 Sep 1918 37
+    place:Maissemy (7,37)
+    unit:6 Division (23,38)
+    unit:46 Division (44,38)
+    unit:A Coy (51,41)
+    unit:D Coy (54,41)
+    place:Maissemy (7,42)
+    unit:3 Infantry Brigade (76,45)
+    gridRef:R_30_C_5_5 (61,49)
+    unit:Bn hq (31,51)
+    activity:fire (73,52)
+    unit:3 Infantry Brigade (42,52)
+    unit:3 Brigade (41,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (83,55)
+  24 Sep 1918 58
+    activity:attack (30,60)
+    unit:46 Division (79,60)
+    place:Fresnoy-le-Petit (64,62)
+    place:Gricourt (77,62)
+    gridRef:R_30_C_5_5 (7,62)
+    unit:6 Division (35,62)
+    activity:attack (67,65)
+    unit:A and D Coy (62,65)
+    activity:attack (77,67)
+    unit:D Coy (54,70)
+    activity:enemy_activity (36,72)
+    activity:achieved (80,77)
+    activity:achieved (24,79)
+    activity:fire (59,79)
+  25 Sep 1918 82
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,82)
+    gridRef:R_30_C_5_5 (7,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,89)
+Page 122 (type orders) http://wd3.herokuapp.com/pages/AWD0000ytb  ----------
+  25 Sep 1918 0
+    orders:move (34,10)
+    reference:No.43 Map Lens 1/100,000 (41,6)
+    date:31 Aug 1918 (43,74)
+    reference:Order No 43 (58,8)
+Page 123 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqn  ----------
+  25 Sep 1918 0
+    reference:No.44 Map  Sheet 41.B. (45,10)
+    reference:Order No 44 (55,14)
+    reference:Map Sheet 41 B (41,14)
+    person:Lieutenant J Bullpitt (other) (43,57)
+    person:Captain A Shanks (author) (54,70)
+    date:6 Sep 1918 (43,72)
+Page 124 (type orders) http://wd3.herokuapp.com/pages/AWD0000yrl  ----------
+  25 Sep 1918 0
+    reference:Amendment No.1 No.44 Map  Sheet 41.B. (33,23)
+    reference:Order No 44- Ammendment No1 (63,25)
+    reference:Map Sheet 41 B 1/40,000 (32,29)
+    reference:Map Sheet 41.B. 1/40,000 (44,29)
+    person:Captain A Shanks (author) (52,69)
+    date:7 Sep 1918 (38,76)
+Page 125 (type orders) http://wd3.herokuapp.com/pages/AWD0000yo7  ----------
+  25 Sep 1918 0
+    reference:No.45 Map sheet Lens 11 1/100,000 (32,26)
+    reference:Order No 45 (55,27)
+    reference:Map Sheet Lens 11, 1/100,000 (29,30)
+    orders:move (22,36)
+    reference:N.3.d (50,42)
+    date:8 Sep 1918 (72,52)
+    reference:N.3.b.8.2 (38,56)
+    reference:N.12.a.0.6 (69,62)
+    person:Captain A Shanks (author) (58,73)
+    date:8 Sep 1918 (39,81)
+Page 126 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqj  ----------
+  25 Sep 1918 0
+    reference:Maps LENS 11, and AMIEMS 17, 1/100,000 (60,13)
+    person:Lieutenant A H Smyth (other) (42,34)
+    person:Captain A Shanks (commander) (53,56)
+    date:10 Sep 1918 (42,60)
+    reference:No.46  (43,7)
+    reference:Order No 46 (55,7)
+    orders:move (41,7)
+Page 127 (type orders) http://wd3.herokuapp.com/pages/AWD0000ytg  ----------
+  25 Sep 1918 0
+    reference:Order No 47 (56,16)
+    reference:Map AMIENS 17, 1/100,000 and Map Sheet 62.0 1/40,000 (60,19)
+    reference:Sheet 32c 1/40,000 (47,21)
+    person:Lieutenant Kauffmann (other) (46,34)
+    date:13 Sep 1918 (37,40)
+    person:Lieutenant B Kauffmann (commander) (52,43)
+    person:Captain A Shanks (author) (51,63)
+    date:12 Sep 1918 (44,66)
+Page 128 (type orders) http://wd3.herokuapp.com/pages/AWD0000ytu  ----------
+  25 Sep 1918 0
+    reference:Order No 48 (57,10)
+    reference:Map Sheet 62.C. 1/40,000 (58,10)
+    person:Captain A Shanks (author) (53,61)
+    date:12 Sep 1918 (45,66)
+    orders:move (35,7)
+Page 129 (type orders) http://wd3.herokuapp.com/pages/AWD0000ypk  ----------
+  Hashtags: #aeroplane 
+  25 Sep 1918 0
+    orders:attack (36,10)
+    reference:No.49 (47,6)
+    reference:Order No 49 (53,6)
+    reference:No.49 (39,9)
+Page 130 (type orders) http://wd3.herokuapp.com/pages/AWD0000yru  ----------
+  25 Sep 1918 0
+    reference:No.49 (cont) (41,1)
+    reference: Map sheets 62 C.S.E 62. BSW 62 BNW 1/20,000 (38,5)
+    person:Captain A Shanks (author) (51,91)
+    date:17 Sep 1918 (41,95)
+Page 131 (type orders) http://wd3.herokuapp.com/pages/AWD0000yrg  ----------
+  25 Sep 1918 0
+    reference:No.49 (cont) (11,8)
+Page 132 (type orders) http://wd3.herokuapp.com/pages/AWD0000yop  ----------
+  25 Sep 1918 0
+    reference:Addendum to No.49 (20,13)
+    reference:Order No 49 - Addendum No 1 (52,36)
+    reference:Addendum No 1 1st Batttalion Machine Gun Corps Order 49 (26,36)
+    person:Captain A Shanks (author) (51,59)
+    date:17 Sep 1918 (26,66)
+    date:17 Sep 1918 (39,67)
+Page 133 (type orders) http://wd3.herokuapp.com/pages/AWD0000ys0  ----------
+  25 Sep 1918 0
+    reference:No.50 (45,11)
+    reference:Order No 50 (51,12)
+    reference:Map Sheet 62.O.S.E  62.B.S.7, 62.B.N.U 1/20,000 (60,14)
+Page 134 (type orders) http://wd3.herokuapp.com/pages/AWD0000ypj  ----------
+  25 Sep 1918 0
+    reference:Map Sheets 62 CSE. 62BSW. 62BNw. 1/20,000 (36,4)
+    orders:attack (40,6)
+    date:23 Sep 1918 (40,68)
+    reference:No.50(cont) (36,7)
+Page 135 (type orders) http://wd3.herokuapp.com/pages/AWD0000yof  ----------
+  25 Sep 1918 0
+    reference:No.51 (38,20)
+    reference:Order No 51 (55,20)
+    reference:Map Sheets 62.C.S.E  62.B.N.W. , 62.B.S.W 1/20,000 (72,25)
+    date:26 Sep 1918 (40,84)
+Page 136 (type orders) http://wd3.herokuapp.com/pages/AWD0000yra  ----------
+  25 Sep 1918 0
+    reference:(cont) (25,19)
+Page 137 (type orders) http://wd3.herokuapp.com/pages/AWD0000ynx  ----------
+  25 Sep 1918 0
+    reference:No.52 (34,16)
+    reference:Order No 52 (54,24)
+    reference:Map Sheets 62.C.S.E  62.B.N.W.  62.B.S.W  (66,27)
+    person:Lieutenant Bullpitt (author) (61,68)
+    date:28 Sep 1918 (36,87)
+Page 138 (type orders) http://wd3.herokuapp.com/pages/AWD0000yp0  ----------
+  25 Sep 1918 0
+    reference:No.52 (cont) (26,10)
+Page 139 (type other) http://wd3.herokuapp.com/pages/AWD0000yu0  ----------
+  Hashtags: #map 
+Page 140 (type signals) http://wd3.herokuapp.com/pages/AWD0000yuj  ----------
+Page 141 (type report) http://wd3.herokuapp.com/pages/AWD0000ypz  ----------
+  Hashtags: #nominalroll 
+  25 Sep 1918 0
+    person:Lieutenant Taylor (other) (51,17)
+    person:Lieutenant Melville (other) (50,19)
+    person:Lieutenant Berra (other) (52,20)
+    person:Lieutenant Canning (other) (51,22)
+    person:Major Fitzwilliams (commander) (51,24)
+    person:Captain A Dukes (other) (50,25)
+    person:Second Lieutenant Bryan (other) (52,27)
+    person:Second Lieutenant Baker (other) (50,29)
+    reference:Appendix B (48,3)
+    person:Lieutenant Sharpe (commander) (52,30)
+    person:Second Lieutenant G E Shead (departed_leave) (50,33)
+    person:Lieutenant W H Canning (commander) (44,39)
+    person:Second Lieutenant Berra (commander) (59,39)
+    person:Lieutenant Melville (commander) (48,61)
+    person:Lieutenant Taylor (commander) (54,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (44,92)
+    person:Sergeant Culley (casualty_wounded) (47,92)
+    person:Private Bowley (casualty_wounded) (55,92)
+    person:Private McLeod (casualty_wounded) (61,92)
+    person:Private Maroney (casualty_wounded) (43,94)
+    person:Private Clark (casualty_wounded) (48,94)
+Page 142 (type diary) http://wd3.herokuapp.com/pages/AWD0000yos  ----------
+  18 Sep 1918 2
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (75,17)
+    unit:1 Camerons (51,18)
+    unit:1 Black Watch (59,18)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (66,19)
+    person:Sergeant Morrison (other) (61,21)
+    place:Maissemy (54,23)
+  19 Sep 1918 25
+  18 Sep 1918 2
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (45,3)
+  19 Sep 1918 25
+    gridRef:M_20_B_8_9 (46,34)
+    person:Sergeant Morrison (combat) (55,49)
+  18 Sep 1918 2
+    person:Private Hughes (casualty_wounded) (48,5)
+  19 Sep 1918 25
+    person:Second Lieutenant Berra (combat) (44,50)
+  20 Sep 1918 52
+    person:Lieutenant Canning (commander) (48,55)
+  18 Sep 1918 2
+  20 Sep 1918 52
+    person:Second Lieutenant Berra (45,60)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,62)
+    activity:fire (39,62)
+    person:Sergeant Whyatt (casualty_kia) (51,63)
+    person:Second Lieutenant Berra (combat) (61,63)
+  18 Sep 1918 2
+    person:Major Fitzwilliams (commander) (49,7)
+    person:Second Lieutenant Berra (combat) (59,7)
+  20 Sep 1918 52
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (60,77)
+  18 Sep 1918 2
+  20 Sep 1918 52
+    person:Lieutenant Taylor (50,82)
+    person:Second Lieutenant Berra (combat) (41,85)
+    activity:fire (57,85)
+    person:Private Norris (casualty_wounded) (51,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (40,88)
+  18 Sep 1918 2
+  20 Sep 1918 52
+Page 143 (type report) http://wd3.herokuapp.com/pages/AWD0000yty  ----------
+  Hashtags: #sos #horsecasualties #horsesevacuated #horsescasualties #gas 
+  20 Sep 1918 0
+    person:Second Lieutenant Berra (commander) (48,40)
+    date:22 Sep 1918 (36,40)
+    unit:1 L N Lancs (60,44)
+    date:21 Sep 1918 (50,45)
+    date:22 Sep 1918 (53,45)
+    unit:1 Camerons (49,46)
+    person:Lieutenant Melville (other) (46,47)
+    person:Lieutenant Canning (other) (55,49)
+    date:23 Sep 1918 (35,57)
+Page 144 (type report) http://wd3.herokuapp.com/pages/AWD0000ysn  ----------
+  Hashtags: #prisoners 
+  26 Sep 1918 15
+    activity:quiet (39,15)
+    unit:46 Battalion (54,19)
+  27 Sep 1918 20
+    place:Maissemy (48,24)
+    unit:46 Battalion (55,25)
+    unit:46 battalion mgc (67,26)
+    gridRef:M_7_B_9_8 (47,32)
+  28 Sep 1918 38
+    person:Lieutenant Melville (commander) (62,40)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 2 (50,42)
+  29 Sep 1918 47
+  20 Sep 1918 0
+  29 Sep 1918 47
+    unit:1 L N Lancs (49,54)
+    gridRef:G_33___ (62,54)
+    activity:attack (40,57)
+    place:Pontruet (51,58)
+    gridRef:M_13_B_9_3 (59,59)
+    place:Bellenglise (55,65)
+    unit:46 Division (38,66)
+    unit:L N Lancs (45,71)
+    person:Lieutenant Baker (casualty_wounded) (41,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (37,73)
+    activity:withdraw (55,76)
+    gridRef:M_14_D_3_3 (42,77)
+    unit:1 Camerons (63,79)
+  20 Sep 1918 0
+    activity:achieved (58,8)
+  30 Sep 1918 80
+    place:Pontruet (41,80)
+    gridRef:M_3___ (38,84)
+    gridRef:M_12___ (54,84)
+    gridRef:N_7___ (58,84)
+    gridRef:M_11_B_7_9 (64,86)
+    unit:1 Camerons an L N Lancs (52,89)
+    gridRef:N_4_B_3_9 (43,92)
+    gridRef:N_3_C_4_7 (44,95)
+    gridRef:M_11___ (50,96)
+Page 145 (type report) http://wd3.herokuapp.com/pages/AWD0000ynu  ----------
+  Hashtags: #weaponsdestroyed 
+  30 Sep 1918 0
+    unit:Krrc (51,11)
+    person:Lieutenant Harriss (combat) (46,12)
+    unit:Royal Sussex (53,24)
+    title:Report of action 18th to 20th September 1918 (42,3)
+    person:Sergeant V Hopkins (combat) (46,31)
+    unit:2 krrc (62,33)
+    unit:46 battalion mgc (35,50)
+    unit:2 Royal Sussex (63,57)
+    unit:2 Northants (46,60)
+    person:Lieutenant Chester (combat) (37,85)
+    person:Lieutenant Browne (combat) (44,88)
+    person:Lieutenant Browne (combat) (49,90)
+    person:Lieutenant Dines (combat) (39,91)
+Page 146 (type report) http://wd3.herokuapp.com/pages/AWD0000yue  ----------
+  Hashtags: #gas #prisoners 
+  30 Sep 1918 0
+    unit:6 battalion mgc (42,14)
+    person:Lieutenant Barker (combat) (60,14)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (54,15)
+    person:Lieutenant Hedley (42,22)
+    person:Lieutenant Barker (departed_leave) (50,22)
+    person:Lieutenant Hart (combat) (52,25)
+    unit:1 Gloucesters (64,33)
+    unit:Welsh Regiment (54,34)
+    person:Lieutenant Marks (combat) (60,45)
+    person:Second Lieutenant McLean (combat) (62,47)
+    unit:Swb (58,58)
+    unit:6 battalion mgc (44,68)
+    unit:3 Infantry Brigade (58,73)
+    unit:Swb (46,77)
+    unit:Swb (55,80)
+Page 147 (type report) http://wd3.herokuapp.com/pages/AWD0000yo1  ----------
+  Hashtags: #gas 
+  15 Sep 1918 5
+  16 Sep 1918 15
+    weather:fine (40,17)
+    activity:fire (45,19)
+  17 Sep 1918 20
+    gridRef:R_15_C_4_5 (39,24)
+    gridRef:X_4_D_10_25 (46,24)
+  18 Sep 1918 26
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (47,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (56,26)
+    gridRef:R_31_C_0_8 (45,29)
+    weather:rain (59,32)
+    person:Lieutenant Strover (combat) (44,38)
+    person:Lieutenant Browne (combat) (52,39)
+  30 Sep 1918 0
+  18 Sep 1918 26
+    person:Lieutenant Carr (combat) (62,41)
+    activity:fire (53,44)
+    person:Lieutenant Strover (combat) (44,44)
+  19 Sep 1918 45
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (48,46)
+    person:Lieutenant Strover (combat) (40,51)
+  20 Sep 1918 54
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (45,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (65,54)
+    person:Lieutenant Strover (casualty_wounded) (63,55)
+  15 Sep 1918 5
+    weather:fine (42,6)
+  20 Sep 1918 54
+    person:Lieutenant Strover (combat) (62,61)
+    person:Lieutenant Carr (combat) (41,62)
+  21 Sep 1918 65
+    activity:attack (44,69)
+  15 Sep 1918 5
+  22 Sep 1918 73
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (59,79)
+  23 Sep 1918 81
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (42,81)
+    person:Lieutenant Strover (59,83)
+    gridRef:M_26_B_55_30 (56,85)
+    person:Lieutenant Brown (combat) (53,86)
+    gridRef:M_26_C_75_70 (41,88)
+  15 Sep 1918 5
+Page 148 (type report) http://wd3.herokuapp.com/pages/AWD0000ynh  ----------
+  Hashtags: #gas 
+  24 Sep 1918 4
+    person:Lieutenant Browne (47,11)
+    person:Lieutenant Streets (combat) (41,15)
+    person:Lieutenant Browne (44,18)
+    person:Second Lieutenant Copley (combat) (53,20)
+    person:Lieutenant Carr (46,23)
+  25 Sep 1918 25
+    person:Second Lieutenant Copley (combat) (52,27)
+    person:Lieutenant Browne (combat) (42,29)
+  23 Sep 1918 0
+  25 Sep 1918 25
+    person:Lieutenant Strover (48,30)
+  26 Sep 1918 31
+    person:Lieutenant Carr (40,32)
+  27 Sep 1918 33
+    person:Lieutenant Copley (54,33)
+  28 Sep 1918 38
+    person:Lieutenant Streets (combat) (58,38)
+    person:Lieutenant Browne (43,41)
+    person:Lieutenant Strover (48,41)
+    person:Lieutenant Streets (commander) (51,41)
+    activity:attack (47,41)
+    person:Lieutenant Carr (41,43)
+  29 Sep 1918 45
+    person:Lieutenant Carr (combat) (62,45)
+    activity:attack (45,45)
+    person:Lieutenant Browne (combat) (49,48)
+    unit:3 Brigade (64,48)
+  30 Sep 1918 51
+    person:Lieutenant Carr (combat) (63,51)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (45,52)
+  24 Sep 1918 4
+    person:Lieutenant Strover (60,7)
+    activity:attack (44,7)
+Page 149 (type other) http://wd3.herokuapp.com/pages/AWD0000ys1  ----------
+  Hashtags: #map 
+Page 150 (type other) http://wd3.herokuapp.com/pages/AWD0000ysa  ----------
+  Hashtags: #map 
+Page 151 (type diary) http://wd3.herokuapp.com/pages/AWD0000ynn  ----------
+  Hashtags: #gas #hindenburgline 
+  1 Oct 1918 23
+    unit:1 Infantry Brigade (37,26)
+    unit:32 Division (67,26)
+    activity:resting (72,29)
+    activity:resting (78,29)
+    unit:The french (25,29)
+    gridRef:M_15_C_3_3 (8,29)
+    place:Bellenglise (64,31)
+    unit:3 Brigade (42,31)
+    place:Caulaincourt (24,32)
+  2 Oct 1918 33
+    place:Muguet Wood (47,33)
+    person:Lieutenant Browne (38,33)
+    gridRef:M_15_B__ (57,34)
+  3 Oct 1918 37
+    activity:resting (57,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (76,37)
+    unit:1 Brigade (40,37)
+    gridRef:M_15_C_3_3 (8,37)
+    place:Joncourt (72,41)
+    unit:1 Brigade (40,41)
+    unit:3 Brigade (55,41)
+    unit:Somme Line Army (84,41)
+    unit:3 Inf. Brigade (57,41)
+    gridRef:M_15_C_3_3 (8,42)
+    activity:fire (50,43)
+    place:Joncourt (75,44)
+    activity:fire (60,44)
+    unit:46 Division (43,44)
+    activity:resting (26,47)
+    activity:training (33,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,48)
+  4 Oct 1918 49
+    place:Maissemy (40,52)
+    place:Vermand (81,52)
+    activity:movement (31,52)
+    unit:The french (59,52)
+    place:Maissemy (8,53)
+    unit:French (60,53)
+    unit:46 Btn. M. G. C. (40,55)
+    activity:training (68,56)
+    activity:fire (25,57)
+    activity:resting (56,57)
+    activity:training (68,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (35,57)
+    person:Second Lieutenant J Hedley (casualty_wounded) (38,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,58)
+    place:Bellenglise (79,60)
+  5 Oct 1918 62
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,64)
+    domestic:accomodation (79,65)
+    place:Maissemy (8,65)
+    activity:resting (31,65)
+    activity:training (43,65)
+    domestic:hygiene (26,71)
+    domestic:uniform (51,71)
+  9 Oct 1918 74
+    place:Bellenglise (63,77)
+    activity:movement (77,77)
+    unit:1 Brigade (36,77)
+    unit:1 Brigade (48,78)
+    place:Maissemy (8,79)
+    place:La Baraque (31,80)
+    unit:2 Brigade (22,80)
+    unit:3 Brigade (61,80)
+  10 Oct 1918 83
+    place:Maissemy (7,87)
+    activity:resting (33,87)
+    activity:training (46,87)
+  11 Oct 1918 88
+    activity:training (70,89)
+    domestic:accomodation (49,90)
+    place:La Baraque (39,90)
+    activity:movement (27,90)
+    activity:resting (80,91)
+    place:La Baraque (7,92)
+    weather:cold (32,93)
+Page 152 (type diary) http://wd3.herokuapp.com/pages/AWD0000yrn  ----------
+  12 Oct 1918 23
+    activity:training (41,28)
+    activity:resting (31,28)
+    weather:fine (54,28)
+    place:La Baraque (9,28)
+  13 Oct 1918 29
+    activity:resting (32,32)
+  14 Oct 1918 33
+    activity:training (34,33)
+    weather:cold (60,33)
+    place:La Baraque (9,33)
+  15 Oct 1918 37
+    activity:training (30,37)
+    weather:fine (44,37)
+    place:La Baraque (10,37)
+    place:La Baraque (9,41)
+    place:Bohain (61,45)
+    place:Bohain (28,47)
+    unit:2 Brigade (75,49)
+  16 Oct 1918 50
+    activity:movement (40,54)
+    activity:movement (49,54)
+    place:Bohain (65,54)
+    place:Bohain (8,54)
+    domestic:accomodation (23,57)
+    place:Bohain (78,58)
+    place:Bohain (37,60)
+  17 Oct 1918 65
+    place:Bohain (7,69)
+    unit:2 Brigade (63,69)
+    unit:1 and 2 Infantry Brigade (32,69)
+    time:0300AM (24,69)
+    time:0520AM (84,69)
+    unit:6 Division (24,71)
+    unit:46 Division (28,71)
+    place:La Vallee Mulatre (29,77)
+    place:Andigny les Fermes (48,77)
+    unit:1 Brigade (75,78)
+    unit:1 Inf. Brigade (77,78)
+    activity:attack (47,81)
+    activity:attack (27,82)
+    unit:2 Brigade (28,85)
+    activity:attack (65,92)
+Page 153 (type diary) http://wd3.herokuapp.com/pages/AWD0000yqt  ----------
+  Hashtags: #prisoners #alliedrelations 
+  17 Oct 1918 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (67,24)
+    activity:movement (32,24)
+    place:Vaux Andigny (52,24)
+  18 Oct 1918 26
+    place:Ribeauville (71,29)
+    unit:Division (25,30)
+    activity:achieved (52,30)
+    place:Wassigny (77,30)
+    place:Vaux Andigny (6,31)
+    unit:3 Infantry Brigade (60,34)
+    unit:1 Brigade (29,36)
+    unit:1 Inf. Brigade (31,36)
+    activity:attack (71,37)
+    activity:attack (55,38)
+    activity:attack (46,43)
+  19 Oct 1918 48
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,48)
+    activity:attack (23,51)
+    place:Rejet-de-Beaulieu (49,52)
+    place:La Vallee Mulatre (7,52)
+    unit:3 Inf. Brigade (82,53)
+    place:La Laurette (58,53)
+    unit:1 Infantry Brigade (20,54)
+    unit:1 Brigade (44,55)
+    unit:3 Infantry Brigade (23,55)
+    unit:1 Inf. Brigade (45,56)
+    unit:2 Brigade (28,57)
+    unit:2 Infantry Brigade (29,57)
+    activity:withdraw (63,57)
+    place:La Vallee Mulatre (74,57)
+    activity:movement (31,58)
+    unit:American Brigade (60,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,60)
+    place:La Vallee Mulatre (24,63)
+  20 Oct 1918 65
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,65)
+    place:La Vallee Mulatre (8,67)
+    unit:2 Brigade (62,68)
+    activity:reserve (28,68)
+    place:La Vallee Mulatre (35,68)
+    unit:2 Inf. Brigade (63,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,69)
+    activity:line (52,70)
+    activity:movement (24,72)
+    domestic:accomodation (64,72)
+    place:Vaux Andigny (73,73)
+    place:Molain (83,73)
+    activity:attack (37,75)
+  21 Oct 1918 77
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (74,77)
+    activity:attack (48,77)
+    domestic:accomodation (28,79)
+    place:La Vallee Mulatre (7,80)
+    activity:resting (34,81)
+    unit:2 lifeguards bn mg guards (55,82)
+    activity:line (59,82)
+    activity:attack (24,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,86)
+Page 154 (type diary) http://wd3.herokuapp.com/pages/AWD0000ys9  ----------
+  Hashtags: #faint 
+  21 Oct 1918 0
+  22 Oct 1918 25
+    place:Vaux Andigny (68,26)
+    activity:line (37,26)
+    place:La Vallee Mulatre (8,27)
+    activity:attack (53,29)
+    activity:attack (66,30)
+    person:Colonel Heyland (commander) (78,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,37)
+  23 Oct 1918 38
+    unit:6 Division (56,41)
+    activity:attack (26,42)
+    time:0120AM (76,42)
+    unit:2 Life Guards (44,47)
+  24 Oct 1918 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,53)
+    activity:attack (27,56)
+    activity:fire (48,57)
+    activity:attack (72,57)
+    activity:resting (64,59)
+    domestic:accomodation (79,60)
+    place:La Vallee Mulatre (24,62)
+    place:Vaux Andigny (36,62)
+    place:Molain (50,63)
+    activity:training (27,64)
+  25 Oct 1918 67
+    place:La Vallee Mulatre (7,70)
+    unit:Horse Guards (67,71)
+    weather:overcast (80,73)
+    activity:attack (61,73)
+    weather:overcast (24,75)
+  26 Oct 1918 76
+    activity:line (41,77)
+    place:La Vallee Mulatre (6,81)
+    unit:2 L G Btn (32,81)
+    unit:2 lg (31,82)
+    activity:training (55,84)
+  27 Oct 1918 86
+    activity:attack (25,86)
+    activity:attack (61,90)
+    place:Catillon (49,92)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (70,93)
+Page 155 (type diary) http://wd3.herokuapp.com/pages/AWD0000yp2  ----------
+  Hashtags: #sos 
+  28 Oct 1918 23
+    place:La Vallee Mulatre (6,26)
+    place:Catillon (77,26)
+    activity:attack (32,28)
+    unit:2 Bn Life Guards (36,30)
+    unit:2 Gds Btn (73,31)
+    unit:2 (lg) btn m g gds (37,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,41)
+  29 Oct 1918 43
+    person:N B N Good (commander) (67,45)
+    place:La Vallee Mulatre (6,46)
+    activity:line (42,49)
+    activity:attack (22,51)
+    activity:attack (34,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,53)
+  30 Oct 1918 54
+    place:La Vallee Mulatre (6,57)
+    time:0530AM (23,57)
+    activity:attack (53,58)
+    unit:B Coy 3 Royal Horse Guards Bn M G (31,61)
+    unit:2 Inf Brigade (23,64)
+    activity:attack (30,68)
+    time:1200PM (53,69)
+    unit:3 rhg btn (80,70)
+    unit:3 R H G Btn (83,71)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (42,74)
+    person:Lieutenant S C Bryan (casualty_wounded) (32,75)
+  31 Oct 1918 76
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,76)
+    activity:quiet (26,80)
+    place:La Vallee Mulatre (7,81)
+    activity:movement (42,82)
+    place:Molain (62,84)
+    place:Vaux Andigny (74,85)
+Page 156 (type report) http://wd3.herokuapp.com/pages/AWD0000ypw  ----------
+  Hashtags: #prisoners 
+  31 Oct 1918 0
+    date:17 Oct 1918 (35,11)
+    unit:1 and 2 Brigades (53,12)
+    unit:6 and 46 Divisions (49,13)
+    unit:L.N.Lancs (58,22)
+    unit:1 Camerons (61,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (56,53)
+    date:18 Oct 1918 (35,58)
+    unit:46 btn mgc (38,61)
+    unit:1 Black Watch (55,62)
+    unit:Black Watch (53,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (44,79)
+    date:19 Oct 1918 (36,82)
+    unit:1 Black Watch (58,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (39,94)
+Page 157 (type report) http://wd3.herokuapp.com/pages/AWD0000yqb  ----------
+  Hashtags: #sos 
+  31 Oct 1918 0
+    date:25 Oct 1918 (34,15)
+    unit:1 Black Watch (61,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (49,31)
+    date:26 Oct 1918 (34,34)
+    date:27 Oct 1918 (34,38)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (58,51)
+    date:28 Oct 1918 (34,53)
+    unit:1 Northants (47,54)
+    unit:1 Northants (63,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (45,62)
+    date:29 Oct 1918 (35,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (39,73)
+    date:30 Oct 1918 (36,74)
+    unit:Northants (59,79)
+    unit:Northants (56,83)
+    date:24 Oct 1918 (34,9)
+    person:Lieutenant Taylor (56,9)
+Page 158 (type report) http://wd3.herokuapp.com/pages/AWD0000yu5  ----------
+  31 Oct 1918 0
+    person:Lieutenant Bryan (casualty_wounded) (43,10)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (44,14)
+    date:31 Oct 1918 (36,17)
+Page 159 (type report) http://wd3.herokuapp.com/pages/AWD0000yot  ----------
+  Hashtags: #enemycaptured #outoforder 
+  31 Oct 1918 0
+    reference:B Coy (45,10)
+    date:17 Oct 1918 (35,13)
+    unit:1 Northants (56,17)
+    unit:2 krrc (47,18)
+    unit:2 Royal Sussex (39,20)
+    unit:2 Brigade (50,21)
+    unit:1 Northants (51,23)
+    unit:2 krrc (49,25)
+    unit:Royal Sussex (44,38)
+    unit:1 Northants (45,41)
+    unit:2 krrc (58,43)
+    unit:Northants (48,56)
+    unit:2 Royal Sussex (39,61)
+    person:Lieutenant Chester (combat) (53,68)
+    person:Lieutenant Brown (combat) (41,70)
+    person:Sergeant Folwell (combat) (50,78)
+Page 160 (type report) http://wd3.herokuapp.com/pages/AWD0000ynf  ----------
+  31 Oct 1918 0
+    person:Lieutenant Chester (combat) (59,13)
+    reference:B Coy (58,3)
+Page 161 (type report) http://wd3.herokuapp.com/pages/AWD0000yq7  ----------
+  Hashtags: #weaponsdestroyed #outoforder #horsescasualties 
+  31 Oct 1918 0
+    reference:C Coy (44,10)
+    date:17 Oct 1918 (35,13)
+    date:18 Oct 1918 (36,48)
+    date:19 Oct 1918 (36,63)
+Page 162 (type report) http://wd3.herokuapp.com/pages/AWD0000yo5  ----------
+  Hashtags: #Americans #alliedrelations #roadscondition 
+  31 Oct 1918 0
+    date:17 Oct 1918 (35,11)
+    person:Major Gurney (combat) (45,18)
+    person:Captain Catchpole (combat) (54,19)
+    date:18 Oct 1918 (36,36)
+    date:19 Oct 1918 (36,49)
+    person:Second Lieutenant Graham (combat) (43,50)
+    person:Lieutenant Browne (combat) (52,50)
+    person:Major Snowball (combat) (45,69)
+    date:20 Oct 1918 (36,79)
+    reference:D Coy (44,8)
+    date:21 Oct 1918 (36,88)
+    date:22 Oct 1918 (36,92)
+    person:Major Anson (other) (44,92)
+Page 163 (type report) http://wd3.herokuapp.com/pages/AWD0000yuq  ----------
+  Hashtags: #Pack 
+  31 Oct 1918 0
+    date:23 Oct 1918 (34,17)
+    reference:Operations from 24th to 31st October 1918 (45,36)
+    date:24 Oct 1918 (34,39)
+    reference:D Coy (52,4)
+    date:25 Oct 1918 (34,48)
+    date:26 Oct 1918 (33,55)
+    date:30 Oct 1918 (33,61)
+    date:31 Oct 1918 (34,63)
+Page 164 (type orders) http://wd3.herokuapp.com/pages/AWD0000ytz  ----------
+  Hashtags: #attack #alliedrelations 
+  31 Oct 1918 0
+    orders:attack (35,7)
+    reference:Order No 53 (47,7)
+    reference:No.53 (45,9)
+Page 165 (type orders) http://wd3.herokuapp.com/pages/AWD0000ync  ----------
+  31 Oct 1918 0
+    date:13 Oct 1918 (45,36)
+    orders:attack (36,7)
+    reference:(cont) (38,8)
+Page 166 (type orders) http://wd3.herokuapp.com/pages/AWD0000yrp  ----------
+  31 Oct 1918 0
+    reference:Table A, Order No 53 (74,9)
+    reference:Table A accompanying Order No. 53 (11,9)
+Page 167 (type orders) http://wd3.herokuapp.com/pages/AWD0000yte  ----------
+  31 Oct 1918 0
+    reference:Table B accompanying Order No. 53 (21,12)
+    orders:attack (15,12)
+    reference:Table B, Order No 53 (15,16)
+Page 168 (type orders) http://wd3.herokuapp.com/pages/AWD0000yq4  ----------
+  31 Oct 1918 0
+    reference:Table B(cont) accompanying Order No. 53 (14,8)
+    reference:Table B, Order No 53 (26,9)
+Page 169 (type orders) http://wd3.herokuapp.com/pages/AWD0000yrh  ----------
+  31 Oct 1918 0
+    orders:move (43,10)
+    reference:No.54 (44,16)
+    reference:Order No 54 (50,16)
+    person:Captain A Shanks (author) (52,57)
+    date:15 Oct 1918 (42,60)
+Page 170 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqw  ----------
+  31 Oct 1918 0
+    orders:move (35,13)
+    reference:Order No 55 (48,20)
+    reference:No.55 (42,21)
+    person:Major N Good (55,52)
+    date:20 Oct 1918 (44,58)
+Page 171 (type orders) http://wd3.herokuapp.com/pages/AWD0000yne  ----------
+  Hashtags: #outoforder 
+  31 Oct 1918 0
+    person:Major F G Anson (combat) (50,27)
+    person:Lieutenant Walker (combat) (49,32)
+    date:22 Oct 1918 (42,82)
+Page 172 (type other) http://wd3.herokuapp.com/pages/AWD0000yrw  ----------
+  Hashtags: #sketch #Map 
+Page 173 (type orders) http://wd3.herokuapp.com/pages/AWD0000yoe  ----------
+  31 Oct 1918 0
+    orders:move (33,12)
+    reference:No.58 (38,14)
+    reference:Order No 58 (49,16)
+    reference:Wassigny 1/40,000.map (38,18)
+    reference:Map sheet Wassigny 1/40,000 (39,19)
+Page 174 (type orders) http://wd3.herokuapp.com/pages/AWD0000yod  ----------
+  Hashtags: #continuation 
+  31 Oct 1918 0
+    reference:Order No 58 (52,16)
+    reference:No.58 (cont) (35,21)
+    person:Major N Good (author) (54,51)
+Page 175 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqy  ----------
+  Hashtags: #misfiled 
+  31 Oct 1918 0
+    reference:No.58 (cont) (26,11)
+    reference:Order No 58 (56,7)
+Page 176 (type orders) http://wd3.herokuapp.com/pages/AWD0000ype  ----------
+  31 Oct 1918 0
+    person:Major T G Anson (other) (39,46)
+    orders:move (35,5)
+    person:Captain A Shanks (author) (52,65)
+    date:29 Oct 1918 (43,69)
+Page 177 (type other) http://wd3.herokuapp.com/pages/AWD0000yrv  ----------
+  Hashtags: #map #Map 
+Page 178 (type other) http://wd3.herokuapp.com/pages/AWD0000ytv  ----------
+  Hashtags: #map #Map 
+Page 179 (type other) http://wd3.herokuapp.com/pages/AWD0000yo2  ----------
+  Hashtags: #map #sketch 
+Page 180 (type diary) http://wd3.herokuapp.com/pages/AWD0000ynp  ----------
+  Hashtags: #faint 
+  1 Nov 1918 24
+    unit:3 royal horse guards bn mg guards (69,28)
+    unit:3 R H G Btn (69,28)
+    place:La Vallee Mulatre (7,29)
+    activity:line (23,30)
+    place:Vaux Andigny (30,36)
+    place:Molain (22,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (64,50)
+  2 Nov 1918 61
+    place:La Vallee Mulatre (7,63)
+    unit:3 royal horse guards bn mg guards (75,72)
+    unit:46 Bn M G C (27,76)
+    unit:46Btn (67,87)
+    activity:attack (32,88)
+    unit:46 Bn (70,88)
+    unit:3 r h g btn mgc (80,89)
+Page 181 (type diary) http://wd3.herokuapp.com/pages/AWD0000yoz  ----------
+  Hashtags: #prisoners 
+  3 Nov 1918 25
+    activity:line (35,28)
+    place:La Vallee Mulatre (7,30)
+    unit:46 btn mgc (69,33)
+    activity:line (26,39)
+    unit:2 Infantry Brigade (54,40)
+    unit:3 Infantry Brigade (45,42)
+  4 Nov 1918 45
+    unit:32 (British) Division (55,49)
+    unit:32 British Divsion (39,50)
+    activity:attack (29,50)
+    unit:32 Division (63,51)
+    place:La Vallee Mulatre (6,53)
+    time:0545AM (43,58)
+    unit:French (23,59)
+    activity:achieved (55,59)
+    weather:fog (54,69)
+    weather:fine (80,71)
+    unit:3 Infantry Brigade (55,72)
+    activity:withdraw (40,72)
+    place:Vaux Andigny (75,74)
+    place:Mazinghien (43,77)
+    unit:1 Infantry Brigade (32,78)
+    place:Ribeauville (64,78)
+    unit:2 Infantry Brigade (38,80)
+    activity:line (28,81)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 26 (54,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 10 (35,93)
+    person:Second Lieutenant W McLean (casualty_wounded) (46,93)
+Page 182 (type diary) http://wd3.herokuapp.com/pages/AWD0000yqx  ----------
+  Hashtags: #gas 
+  5 Nov 1918 25
+    unit:1 Infantry Brigade (36,28)
+    unit:2 Infantry Brigade (71,28)
+    place:Vaux Andigny (45,28)
+    activity:movement (24,28)
+    place:La Vallee Mulatre (7,29)
+    activity:movement (51,30)
+    place:Wassigny (27,32)
+    unit:46 battalion mgc (51,33)
+    unit:A coy 46 bn mgc (45,34)
+    unit:3 Infantry Brigade (39,38)
+    place:Bohain (30,38)
+    domestic:accomodation (57,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (68,48)
+  6 Nov 1918 51
+    activity:movement (29,53)
+    place:Fresnoy (39,54)
+    place:Fresnoy (8,54)
+    unit:1 Infantry Brigade (23,58)
+    unit:2 Infantry Brigade (26,58)
+    unit:3 Infantry Brigade (32,59)
+    place:Fresnoy (80,61)
+    domestic:accomodation (37,62)
+    person:Lieutenant Colonel Heyland (returned_leave) (69,64)
+    place:Brancourt (41,69)
+    activity:movement (26,70)
+  7 Nov 1918 71
+    place:Levergies (9,75)
+    place:Brancourt (74,78)
+    activity:movement (31,81)
+    place:Levergies (43,82)
+    place:Sequehart (54,83)
+    domestic:accomodation (45,90)
+Page 183 (type diary) http://wd3.herokuapp.com/pages/AWD0000yr8  ----------
+  Hashtags: #militarymedal 
+  8 Nov 1918 25
+    activity:resting (49,27)
+    place:Levergies (7,28)
+    place:Molain (44,31)
+    person:Lance Sergeant W Williams (award) (25,40)
+  9 Nov 1918 41
+    person:Private S F R Kent (award) (71,41)
+    person:Private S F R Kent (award) (55,41)
+    place:Molain (8,45)
+    weather:fine (75,46)
+    activity:movement (40,47)
+    place:Molain (45,47)
+    time:0600PM (45,58)
+    person:Lieutenant J E Nicholls (joined) (76,62)
+    person:Lieutenant J E Nicholls (joined) (25,66)
+    person:Lieutenant Roddick (joined) (54,66)
+  10 Nov 1918 70
+    activity:resting (40,73)
+    place:Molain (7,73)
+    person:Captain A Dukes (commander) (75,78)
+    person:Major C C L Fitzwilliams (departed_sick) (50,81)
+    person:Lieutenant J C Taylor (promotion) (37,85)
+    person:Captain A Dukes (54,88)
+Page 184 (type diary) http://wd3.herokuapp.com/pages/AWD0000yok  ----------
+  11 Nov 1918 25
+    weather:cold (26,27)
+    activity:training (49,27)
+    place:Molain (8,29)
+    domestic:hygiene (73,31)
+    domestic:uniform (48,36)
+  12 Nov 1918 40
+    place:Prisches (77,43)
+    place:Molain (8,43)
+    place:Prisches (51,52)
+    place:Bazuel (80,56)
+    place:Bazuel (76,60)
+    place:Ors (37,65)
+    weather:cold (34,70)
+  13 Nov 1918 73
+    place:Molain (8,76)
+    place:Ors (46,78)
+    unit:1 Bn Gloucestershire Regiment (62,83)
+    place:Ors (24,90)
+    place:Prisches (55,90)
+Page 185 (type diary) http://wd3.herokuapp.com/pages/AWD0000yor  ----------
+  Hashtags: #faint #alliedrelations 
+  14 Nov 1918 25
+    activity:movement (25,28)
+    place:Prisches (46,28)
+    place:Prisches (8,28)
+    weather:fine (42,42)
+    domestic:accomodation (44,53)
+    place:Les Fontaines (61,58)
+  15 Nov 1918 65
+    place:Les Fontaines (7,66)
+    activity:movement (29,68)
+    place:Les Fontaines (6,70)
+    place:Les Fontaines (27,73)
+    weather:fine (24,77)
+    domestic:accomodation (70,87)
+    place:Offies (64,91)
+Page 186 (type diary) http://wd3.herokuapp.com/pages/AWD0000yub  ----------
+  16 Nov 1918 24
+    place:Les Fontaines (9,28)
+    activity:resting (37,28)
+    place:Les Fontaines (6,31)
+    weather:cold (29,32)
+    weather:cold (35,32)
+  17 Nov 1918 39
+    domestic:religion (42,40)
+    time:1100AM (66,41)
+    domestic:religion (26,41)
+    place:Les Fontaines (6,42)
+    person:Colonel Charteris (other) (22,58)
+    place:Renlis (73,66)
+  18 Nov 1918 70
+    place:Renlis (6,73)
+    activity:movement (29,73)
+    place:Renlis (82,75)
+    weather:cold (33,82)
+    domestic:accomodation (31,86)
+Page 187 (type diary) http://wd3.herokuapp.com/pages/AWD0000ysy  ----------
+  Hashtags: #faint #badscan 
+  19 Nov 1918 24
+    activity:movement (22,27)
+    place:Boussou-Lez-Walcourt (51,28)
+    place:Boussou-Lez-Walcourt (7,29)
+    weather:overcast (26,32)
+  20 Nov 1918 45
+    place:Boussou-Lez-Walcourt (7,48)
+  21 Nov 1918 67
+    place:Boussou-Lez-Walcourt (8,75)
+  22 Nov 1918 77
+Page 188 (type diary) http://wd3.herokuapp.com/pages/AWD0000ypm  ----------
+  Hashtags: #faint #militarycross 
+  23 Nov 1918 25
+    activity:movement (24,28)
+    place:Yves-Gomezee (8,30)
+    weather:fine (47,33)
+    domestic:accomodation (72,36)
+  24 Nov 1918 44
+    place:Flavion (8,47)
+    activity:movement (25,48)
+    place:Flavion (46,48)
+    domestic:accomodation (58,56)
+    person:Captain C V Catchpole (returned_leave) (21,66)
+    person:Captain C V Catchpole (returned_leave) (34,68)
+  25 Nov 1918 69
+    domestic:hygiene (45,73)
+    place:Flavion (7,73)
+    activity:resting (31,74)
+    person:Major J S Snowball (award) (62,74)
+    person:Major F M Arkle (joined) (43,78)
+    person:Major J S Snowball (returned_leave) (42,82)
+    weather:cold (26,86)
+Page 189 (type diary) http://wd3.herokuapp.com/pages/AWD0000ytj  ----------
+  Hashtags: #faint 
+  26 Nov 1918 24
+    activity:training (34,27)
+    activity:training (27,28)
+    place:Flavion (7,28)
+    domestic:accomodation (33,40)
+    weather:cold (45,45)
+  27 Nov 1918 50
+    activity:training (32,53)
+    place:Flavion (7,53)
+    domestic:inspections (46,57)
+  28 Nov 1918 64
+    place:Flavion (7,68)
+    activity:training (31,69)
+  29 Nov 1918 71
+    activity:training (29,74)
+    place:Flavion (7,76)
+Page 190 (type diary) http://wd3.herokuapp.com/pages/AWD0000ypl  ----------
+  30 Nov 1918 24
+    activity:training (37,27)
+    place:Flavion (7,28)
+    activity:training (26,28)
+    weather:cold (37,33)
+    weather:cold (26,33)
+    person:Lieutenant Colonel Heyland (commander) (60,82)
+Page 191 (type orders) http://wd3.herokuapp.com/pages/AWD0000yrs  ----------
+  30 Nov 1918 0
+    reference:Appendix 1 (57,1)
+    mapRef:S1.B .SB 1/20,000 Barz 1/20000 (36,14)
+    reference:Map Sheet 51.B.S.E 1/20,00 (40,15)
+    reference:Map Sheet Barze, 1/20,000 (55,15)
+    reference:Sheet 51.B SE 1/20,000 and Barz 1/20,000 (38,15)
+    unit:33 French Division (38,25)
+    unit:32 Division (40,26)
+    unit:2 Infantry Brigade (57,28)
+    unit:3 Infantry Brigade (39,32)
+    unit:3 rhg battalion (37,40)
+    unit:46 Battalion Machine Gun Corps (39,42)
+    orders:attack (35,5)
+    unit:46 Battalion Machine Gun Corps (45,59)
+    unit:43 Battalion Machine Gun Corps (47,61)
+    unit:3 rhg battalion (54,66)
+    reference:Preliminary Instructions for the Actionof Machine Guns in the forcing of the passage of the Sambre Oise Canal (48,9)
+Page 192 (type orders) http://wd3.herokuapp.com/pages/AWD0000ysu  ----------
+  30 Nov 1918 0
+    orders:attack (35,3)
+    reference:(cont) (37,5)
+    person:Captain Shanks (author) (54,52)
+    date:1 Nov 1918 (44,56)
+Page 193 (type orders) http://wd3.herokuapp.com/pages/AWD0000ysq  ----------
+  30 Nov 1918 0
+    reference:Appendix 2 (56,2)
+    orders:attack (36,4)
+    orders:attack (53,6)
+    reference:No.60 (46,7)
+    reference:Order No 60 (48,7)
+    person:Captain A Shanks (author) (52,89)
+    reference:Map Sheet BARZEY, 1/20,000. (56,9)
+    date:2 Nov 1918 (45,90)
+Page 194 (type orders) http://wd3.herokuapp.com/pages/AWD0000yrj  ----------
+  30 Nov 1918 0
+    reference:Table to accompany Order No 60 (34,11)
+    reference:Table to accompany 1st Battalion Machine Gun Corps Order no. 60 (22,5)
+    reference:Table accompanying Order No.60 (12,8)
+    orders:attack (9,8)
+Page 195 (type report) http://wd3.herokuapp.com/pages/AWD0000ysp  ----------
+  30 Nov 1918 0
+    reference:Appendix 3 (57,1)
+    reference:Appendix 3 (43,7)
+    date:4 Nov 1918 (57,9)
+Page 196 (type report) http://wd3.herokuapp.com/pages/AWD0000ynv  ----------
+  30 Nov 1918 0
+Page 197 (type orders) http://wd3.herokuapp.com/pages/AWD0000ysm  ----------
+  30 Nov 1918 0
+    reference:No.61 (39,14)
+    orders:move (53,15)
+    reference:Order No 61 (49,17)
+    person:Captain A Shanks (author) (52,66)
+    date:5 Nov 1918 (38,71)
+Page 198 (type orders) http://wd3.herokuapp.com/pages/AWD0000yt3  ----------
+  30 Nov 1918 0
+    reference:Order No 62 (51,14)
+    reference:No.62 Map Sheet Wassigny 1/40,000 (34,20)
+    reference:Map Sheet  WASSIGNY, 1/40,000. (43,20)
+    person:Lieutenant Smyth (other) (31,57)
+    orders:move (23,7)
+    person:Captain A Shanks (author) (58,80)
+    date:6 Nov 1918 (40,87)
+Page 199 (type orders) http://wd3.herokuapp.com/pages/AWD0000yry  ----------
+  30 Nov 1918 0
+    reference:Appendix 6 (55,4)
+    person:Captain A Shanks (author) (53,56)
+    date:8 Nov 1918 (45,59)
+    orders:move (38,6)
+Page 200 (type orders) http://wd3.herokuapp.com/pages/AWD0000yoi  ----------
+  30 Nov 1918 0
+    reference:No.64 (46,13)
+    reference:Order No 64 (48,14)
+    orders:move (35,6)
+    person:Captain A Shanks (other) (52,71)
+    date:13 Nov 1918 (43,76)
+Page 201 (type orders) http://wd3.herokuapp.com/pages/AWD0000ypc  ----------
+  30 Nov 1918 0
+    orders:move (38,11)
+    reference:No.65 (46,17)
+    reference:Order No 65 (48,17)
+    reference:Appendix 8 (56,2)
+    person:Captain A Shanks (author) (51,67)
+    date:14 Nov 1918 (45,71)
+Page 202 (type orders) http://wd3.herokuapp.com/pages/AWD0000ytx  ----------
+  30 Nov 1918 0
+    reference:Appendix 9 (56,1)
+    person:Captain A Shanks (author) (51,57)
+    date:18 Nov 1918 (41,60)
+    orders:move (37,9)
+Page 203 (type orders) http://wd3.herokuapp.com/pages/AWD0000yrb  ----------
+  30 Nov 1918 0
+    orders:move (38,10)
+    reference:No.67 (47,19)
+    reference:Appendix 10 (57,2)
+    reference:Order No 67 (50,21)
+    person:Captain W F Wilson (other) (38,48)
+    person:Captain A Shanks (51,63)
+    date:19 Nov 1918 (44,66)
+Page 204 (type orders) http://wd3.herokuapp.com/pages/AWD0000yq9  ----------
+  30 Nov 1918 0
+    orders:move (36,11)
+    reference:Appendix 11 (59,2)
+    person:Captain W F Wilson (other) (38,54)
+    orders:move (37,7)
+    person:Captain A Shanks (author) (52,71)
+    date:22 Nov 1918 (43,75)
+Page 205 (type orders) http://wd3.herokuapp.com/pages/AWD0000yq6  ----------
+  30 Nov 1918 0
+    reference:No.69 (46,17)
+    reference:Order No 69 (46,17)
+    reference:Appendix 12 (57,2)
+    person:Captain Wilson (commander) (57,45)
+    reference:Places (55,57)
+    date:24 Nov 1918 (46,60)
+    person:Captain A Shanks (other) (51,66)
+    date:23 Nov 1918 (42,70)
+Page 206 (type diary) http://wd3.herokuapp.com/pages/AWD0000yr7  ----------
+  Hashtags: #tourism 
+  1 Dec 1918 25
+    place:Falaen (44,27)
+    activity:movement (29,27)
+    place:Falaen (7,29)
+    weather:cold (28,51)
+    weather:cold (34,51)
+  2 Dec 1918 57
+    activity:movement (30,58)
+    place:Mesnil Saint Blaise (49,59)
+    place:Mesnil Saint Blaise (7,59)
+    place:Hastiere (52,70)
+    weather:cold (33,74)
+  3 Dec 1918 82
+    place:Houyet (7,84)
+    place:Houyet (46,85)
+    activity:movement (31,86)
+Page 207 (type diary) http://wd3.herokuapp.com/pages/AWD0000yq3  ----------
+  Hashtags: #football 
+  4 Dec 1918 26
+    weather:rain (59,27)
+    place:Houyet (8,28)
+  5 Dec 1918 33
+    activity:training (29,36)
+    weather:fine (66,36)
+    place:Houyet (7,36)
+  6 Dec 1918 40
+    activity:training (26,42)
+    place:Houyet (7,43)
+    weather:fine (69,50)
+    unit:2 Infantry Brigade (29,51)
+  7 Dec 1918 53
+    activity:training (26,56)
+    place:Houyet (7,57)
+  8 Dec 1918 61
+    domestic:sport (51,63)
+    place:Houyet (7,64)
+  9 Dec 1918 70
+    activity:movement (26,72)
+    place:Haid (7,72)
+    place:Haid (43,75)
+    weather:rain (55,82)
+Page 208 (type diary) http://wd3.herokuapp.com/pages/AWD0000yp3  ----------
+  Hashtags: #roadscondition 
+  10 Dec 1918 24
+    activity:movement (28,27)
+    place:Fronville (45,27)
+    place:Fronville (6,29)
+    place:Fronville (28,38)
+    place:Monville (53,39)
+  11 Dec 1918 45
+    place:Soy (6,48)
+    activity:movement (29,49)
+    place:Soy (46,49)
+    place:Wy (47,53)
+    time:1130AM (32,57)
+    weather:rain (46,61)
+  12 Dec 1918 65
+    place:Soy (6,67)
+    person:Major F W Pitrie-Hay (joined) (43,68)
+    domestic:hygiene (24,69)
+    weather:rain (51,73)
+  13 Dec 1918 76
+    domestic:hygiene (24,80)
+    place:Soy (6,80)
+Page 209 (type diary) http://wd3.herokuapp.com/pages/AWD0000yr5  ----------
+  14 Dec 1918 25
+    weather:rain (74,26)
+    place:Oster-Le-Batty (45,27)
+    activity:movement (28,28)
+    place:La Fossee (5,28)
+    place:La Fossee (75,31)
+    weather:rain (40,31)
+    place:Oster-Le-Batty (7,33)
+  15 Dec 1918 39
+    activity:movement (27,42)
+    place:Regne (42,42)
+    place:Regne (7,43)
+    place:Regne (81,44)
+    weather:rain (45,46)
+    place:Fraiture (32,49)
+    place:Verleumont (56,49)
+  16 Dec 1918 53
+    activity:movement (29,56)
+    place:Bouvigny (45,56)
+    place:Bouvigny (7,56)
+    weather:rain (67,56)
+    place:Germany (62,71)
+    place:Aldringen (7,74)
+    unit:2 Brigade Group (24,74)
+    time:1015AM (46,75)
+    place:Aldringen (60,77)
+    person:Major Arkle (commander) (27,87)
+Page 210 (type diary) http://wd3.herokuapp.com/pages/AWD0000yqm  ----------
+  Hashtags: #pay 
+  18 Dec 1918 25
+    weather:rain (63,27)
+    place:Schonberg (44,27)
+    activity:movement (27,28)
+    place:Schonberg (6,31)
+    place:Schonberg (66,35)
+    domestic:accomodation (79,38)
+    place:Andler (24,39)
+  19 Dec 1918 46
+    weather:cold (74,48)
+    place:Kronenberg (45,48)
+    place:Kronenberg (7,48)
+    activity:movement (29,48)
+    place:Baasem (77,58)
+  20 Dec 1918 65
+    place:Kronenberg (7,67)
+    domestic:other (66,68)
+    domestic:hygiene (39,68)
+    activity:resting (25,68)
+    weather:cold (58,72)
+  21 Dec 1918 75
+    place:Blankenheimerdorf (7,77)
+    activity:movement (30,78)
+    place:Mulheim (72,85)
+Page 211 (type diary) http://wd3.herokuapp.com/pages/AWD0000yu8  ----------
+  Hashtags: #concert #leisure #christmas 
+  22 Dec 1918 25
+    activity:movement (30,27)
+    place:Iversheim (42,27)
+    place:Iversheim (7,29)
+    domestic:accomodation (64,33)
+  23 Dec 1918 37
+    place:Flamersheim (46,39)
+    place:Flamersheim (8,39)
+    activity:movement (28,40)
+    domestic:accomodation (29,43)
+  24 Dec 1918 47
+    place:Flerzheim (7,49)
+    activity:movement (27,50)
+    place:Flerzheim (43,50)
+    place:Luftelberg (76,52)
+    place:Flerzheim (49,53)
+    place:Luftelberg (7,55)
+    domestic:accomodation (43,57)
+  25 Dec 1918 60
+    place:Flerzheim (7,64)
+  26 Dec 1918 72
+    place:Flerzheim (8,75)
+    domestic:sport (80,78)
+Page 212 (type diary) http://wd3.herokuapp.com/pages/AWD0000ys7  ----------
+  Hashtags: #coalminers #Demobilization #Draft #draft #longservice 
+  27 Dec 1918 24
+    domestic:hygiene (23,27)
+    place:Flerzheim (7,28)
+  28 Dec 1918 33
+    activity:training (28,36)
+    place:Flerzheim (7,37)
+  29 Dec 1918 39
+    activity:training (28,42)
+    place:Flerzheim (7,43)
+  30 Dec 1918 48
+    activity:training (28,52)
+    place:Flerzheim (7,52)
+  31 Dec 1918 57
+    activity:training (30,60)
+    place:Flerzheim (7,60)
+    person:Lieutenant Colonel Wm Heyland (68,88)
+Page 213 (type orders) http://wd3.herokuapp.com/pages/AWD0000yt1  ----------
+  31 Dec 1918 0
+    reference:No.70 (40,11)
+    reference:Order No 70 (44,12)
+    mapRef:Namur (52,14)
+    date:1 Dec 1918 (60,18)
+    date:1 Dec 1918 (34,49)
+    person:Lieutenant A H Smyth (author) (54,76)
+    orders:move (29,8)
+    date:30 Nov 1918 (38,84)
+Page 214 (type orders) http://wd3.herokuapp.com/pages/AWD0000ysf  ----------
+  31 Dec 1918 0
+    orders:move (37,10)
+    date:2 Dec 1918 (60,19)
+    date:2 Dec 1918 (44,41)
+    date:2 Dec 1918 (57,43)
+    person:Captain A Shanks (author) (53,59)
+    date:1 Dec 1918 (43,62)
+Page 215 (type other) http://wd3.herokuapp.com/pages/AWD0000ysb  ----------
+Page 216 (type orders) http://wd3.herokuapp.com/pages/AWD0000yox  ----------
+  31 Dec 1918 0
+    person:Captain A Shanks (author) (55,58)
+    orders:move (33,6)
+    date:2 Dec 1918 (41,64)
+Page 217 (type orders) http://wd3.herokuapp.com/pages/AWD0000ysw  ----------
+  31 Dec 1918 0
+    orders:move (43,11)
+    date:9 Dec 1918 (56,15)
+    orders:move (37,5)
+    person:Captain A Shanks (author) (51,54)
+    date:8 Dec 1918 (45,59)
+Page 218 (type orders) http://wd3.herokuapp.com/pages/AWD0000ynl  ----------
+  31 Dec 1918 0
+    orders:move (33,11)
+    reference:Marche 1/100000 (39,13)
+    date:10 Dec 1918 (62,16)
+    reference:4 C 32 98 (44,27)
+    date:10 Dec 1918 (41,40)
+    person:Second Lieutenant Johnson (other) (52,60)
+    reference:3 D 60. 58 (33,62)
+    person:Captain A Shanks (author) (53,68)
+    date:9 Dec 1918 (41,71)
+Page 219 (type orders) http://wd3.herokuapp.com/pages/AWD0000yp4  ----------
+  Hashtags: #stained 
+  31 Dec 1918 0
+    reference:Map Sheet Marche 1/100,000 (43,10)
+    reference:Map MARCHE 1/100,000 (52,11)
+    person:Second Lieutenant Johnson (other) (54,67)
+    orders:move (32,7)
+    person:Captain A Shanks (author) (52,75)
+    date:10 Dec 1918 (43,79)
+Page 220 (type orders) http://wd3.herokuapp.com/pages/AWD0000yp1  ----------
+  31 Dec 1918 0
+    reference:Map Sheet Marche 1/100,000 (44,11)
+    date:14 Dec 1918 (39,15)
+    reference:3 G 40 49 (59,37)
+    date:14 Dec 1918 (45,44)
+    reference:3 H 75 34 (45,50)
+    person:Lieutenant Rayner (other) (53,56)
+    person:Lieutenant Rayner (commander) (43,59)
+    person:Second Lieutenant Johnson (other) (54,64)
+    orders:move (32,7)
+    person:Captain A Shanks (author) (54,75)
+    date:13 Dec 1918 (42,78)
+Page 221 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqe  ----------
+  31 Dec 1918 0
+    orders:move (38,14)
+    reference:Map Sheet Germany  1/100,000 (48,19)
+    date:17 Dec 1918 (62,21)
+    person:Lieutenant Rayner (other) (50,52)
+    person:Second Lieutenant Johnson (other) (52,57)
+    reference:Germany 1/100000 (41,58)
+    reference:7 C 55 52 (48,58)
+    person:Captain A Shanks (author) (52,66)
+    date:16 Dec 1918 (41,68)
+    orders:move (39,8)
+Page 222 (type other) http://wd3.herokuapp.com/pages/AWD0000ytw  ----------
+  31 Dec 1918 0
+Page 223 (type orders) http://wd3.herokuapp.com/pages/AWD0000yrz  ----------
+  31 Dec 1918 0
+    orders:move (38,12)
+    reference:Map sheet Germany 1/100,000 (45,14)
+    date:18 Dec 1918 (61,15)
+    person:Second Lieutenant Johnson (other) (50,51)
+    person:Lieutenant Rayner (other) (51,57)
+    person:Captain A Shanks (author) (51,66)
+    date:17 Dec 1918 (44,68)
+Page 224 (type blank)
+Page 225 (type orders) http://wd3.herokuapp.com/pages/AWD0000ysg  ----------
+  31 Dec 1918 0
+    date:19 Dec 1918 (64,14)
+    orders:move (32,4)
+    person:Lieutenant Rayner (other) (38,60)
+    person:Lieutenant Rayner (other) (58,65)
+    person:Captain A Shanks (author) (53,83)
+    date:18 Dec 1918 (45,88)
+    orders:move (33,9)
+    reference:Map sheet Germany 1/100,000 (41,9)
+Page 226 (type orders) http://wd3.herokuapp.com/pages/AWD0000yo9  ----------
+  Hashtags: #misfiled #outoforder 
+  31 Dec 1918 0
+    reference:Map sheet Marche 1/100,000 (41,11)
+    date:15 Dec 1918 (57,15)
+    reference:3 H 87 00 (51,34)
+    date:15 Dec 1918 (32,40)
+    orders:move (34,5)
+    person:Lieutenant Rayner (other) (49,51)
+    person:Second Lieutenant Johnson (other) (50,57)
+    person:Captain A Shanks (52,68)
+    date:14 Dec 1918 (40,72)
+    orders:move (32,9)
+Page 227 (type other) http://wd3.herokuapp.com/pages/AWD0000yt0  ----------
+Page 228 (type orders) http://wd3.herokuapp.com/pages/AWD0000yph  ----------
+  31 Dec 1918 0
+    orders:move (34,13)
+    orders:move (42,19)
+    reference:3 K 18 17 (60,42)
+    reference:Order No 78 Appendix 9 (56,5)
+    person:Lieutenant Rayner (other) (50,56)
+    person:Second Lieutenant Johnson (other) (51,61)
+    person:Captain A Shanks (author) (54,70)
+    date:15 Dec 1918 (41,72)
+Page 229 (type orders) http://wd3.herokuapp.com/pages/AWD0000yon  ----------
+  31 Dec 1918 0
+    person:Lieutenant Rayner (other) (61,46)
+    person:Second Lieutenant S Johnson (other) (53,57)
+    person:Captain A Shanks (author) (53,67)
+    date:20 Dec 1918 (42,69)
+Page 230 (type orders) http://wd3.herokuapp.com/pages/AWD0000ytn  ----------
+  31 Dec 1918 0
+    orders:move (38,10)
+    date:22 Dec 1918 (59,19)
+    reference:Order No 83 Appendix 14 (56,4)
+    person:Lieutenant Raynor (other) (64,53)
+    person:Second Lieutenant Johnson (other) (51,62)
+    person:Captain A Shanks (52,75)
+    date:21 Dec 1918 (42,78)
+Page 231 (type orders) http://wd3.herokuapp.com/pages/AWD0000yqu  ----------
+  31 Dec 1918 0
+    reference:No.84 (44,11)
+    reference:Order No 84 (47,11)
+    orders:move (20,6)
+    person:Second Lieutenant Johnson (other) (49,64)
+    person:Captain A Shanks (53,87)
+    date:22 Dec 1918 (34,92)
+Page 232 (type orders) http://wd3.herokuapp.com/pages/AWD0000ypf  ----------
+  31 Dec 1918 0
+    orders:move (46,16)
+    reference:Order No 85 Appendix 16 (65,2)
+    date:24 Dec 1918 (38,23)
+    person:Captain Wilson (other) (53,44)
+    person:Lieutenant J Rayner (other) (39,50)
+    orders:move (39,6)
+    person:Lieutenant G H Smith (author) (55,62)
+    date:23 Dec 1918 (42,67)
+Page 233 (type cover)
+Page 234 (type diary) http://wd3.herokuapp.com/pages/AWD0000ysl  ----------
+  1 Jan 1919 24
+    place:Flerzheim (49,27)
+    place:Luftelberg (74,27)
+    place:Flerzheim (8,27)
+    activity:training (60,31)
+    mapRef:Germany (8,34)
+  31 Jan 1919 39
+Page 235 (type other) http://wd3.herokuapp.com/pages/AWD0000yps  ----------
+  31 Jan 1919 0
+Page 236 (type ) http://wd3.herokuapp.com/pages/AWD0000yoh  ----------
+  Hashtags: #Concert 
+  31 Jan 1919 0
+    person:Major Snowball (other) (59,19)
+    person:Captain Shanks (other) (59,28)
+    person:Second Lieutenant Green (other) (37,55)
+Page 237 (type diary) http://wd3.herokuapp.com/pages/AWD0000yq2  ----------
+  Hashtags: #education #football 
+  1 Feb 1919 23
+    place:Flerzheim (41,26)
+    place:Luftelberg (51,26)
+    place:Flerzheim (10,27)
+    place:Flerzheim (6,27)
+    domestic:sport (49,28)
+    activity:training (33,32)
+    domestic:other (40,34)
+  2 Feb 1919 36
+    domestic:religion (23,39)
+    domestic:religion (32,39)
+  3 Feb 1919 40
+    activity:training (29,43)
+    domestic:sport (25,47)
+    domestic:sport (39,47)
+  4 Feb 1919 53
+    domestic:sport (27,55)
+    activity:training (23,55)
+  5 Feb 1919 58
+    domestic:sport (27,60)
+    activity:training (23,60)
+  6 Feb 1919 63
+    activity:training (22,66)
+  7 Feb 1919 67
+    domestic:sport (27,67)
+    activity:training (23,69)
+  8 Feb 1919 70
+  9 Feb 1919 72
+    domestic:religion (24,72)
+    domestic:sport (78,72)
+    activity:training (34,72)
+    domestic:religion (27,74)
+    place:Flerzheim (39,74)
+    place:Luftelberg (52,74)
+  10 Feb 1919 78
+    activity:training (22,81)
+    activity:training (26,84)
+    activity:training (65,85)
+  15 Feb 1919 88
+    domestic:sport (26,88)
+Page 238 (type diary) http://wd3.herokuapp.com/pages/AWD0000ys2  ----------
+  Hashtags: #demobilization #football 
+  16 Feb 1919 23
+    place:Flerzheim (51,26)
+    place:Luftelberg (76,26)
+    domestic:religion (22,26)
+    place:Flerzheim (7,28)
+    domestic:sport (23,30)
+  17 Feb 1919 31
+    activity:training (23,34)
+  22 Feb 1919 35
+    activity:training (50,35)
+    activity:training (21,36)
+    domestic:sport (26,38)
+  23 Feb 1919 39
+    place:Flerzheim (39,42)
+    place:Luftelberg (48,42)
+    domestic:religion (27,42)
+    domestic:religion (23,43)
+    domestic:sport (71,43)
+  24 Feb 1919 46
+    activity:training (23,50)
+  28 Feb 1919 51
+    domestic:sport (25,53)
+    domestic:sport (34,54)
+    strength:officer: 41; nco: 0; other: 807 (52,57)
+Page 239 (type other) http://wd3.herokuapp.com/pages/AWD0000yqv  ----------
+  28 Feb 1919 0
+    reference:Appendix to diary (64,2)
+Page 240 (type other) http://wd3.herokuapp.com/pages/AWD0000ypd  ----------
+  28 Feb 1919 0
+Page 241 (type ) http://wd3.herokuapp.com/pages/AWD0000yrr  ----------
+  28 Feb 1919 0
+Page 242 (type ) http://wd3.herokuapp.com/pages/AWD0000yrq  ----------
+  28 Feb 1919 0
+    reference:Appendix to diary (65,9)
+Page 243 (type diary) http://wd3.herokuapp.com/pages/AWD0000ypo  ----------
+  Hashtags: #demobilization #draft #tug #leisure 
+  1 Mar 1919 23
+    place:Flerzheim (42,25)
+    activity:training (67,26)
+    place:Flerzheim (7,27)
+    activity:training (25,27)
+    domestic:sport (50,32)
+    domestic:sport (59,35)
+    activity:training (58,48)
+    person:Lieutenant Colonel Hope (commander) (36,56)
+    person:Captain H M Heyland (other) (69,61)
+    strength:officer: 52; nco: 0; other: 931 (38,70)
+Page 244 (type other) http://wd3.herokuapp.com/pages/AWD0000yqa  ----------
+  31 Mar 1919 0
+Page 245 (type other) http://wd3.herokuapp.com/pages/AWD0000yq1  ----------
+  Hashtags: #outoforder 
+  31 Mar 1919 0
+Page 246 (type ) http://wd3.herokuapp.com/pages/AWD0000ytm  ----------
+  Hashtags: #Concert #leisure 
+  31 Mar 1919 0
+    reference:Sports (56,31)
+    person:Captain Key (author) (51,68)
+Page 247 (type other) http://wd3.herokuapp.com/pages/AWD0000yo0  ----------
+  Hashtags: #outoforder 
+  31 Mar 1919 0
+Page 248 (type diary) http://wd3.herokuapp.com/pages/AWD0000ypx  ----------
+  Hashtags: #draft 
+  31 Mar 1919 0
+    person:Lieutenant Colonel J F R Hope (42,17)
+    person:Lieutenant R Henderson (joined) (45,19)
+    person:Second Lieutenant A Astbury (joined) (43,20)
+    person:Second Lieutenant J R Delmore (joined) (46,21)
+    person:Captain J H Ashton (joined) (41,23)
+    person:Captain T Watkins (joined) (44,24)
+    person:Lieutenant Pratt (joined) (39,25)
+    person:Lieutenant E E Dowling (joined) (46,27)
+    person:Second Lieutenant E G Tidy (joined) (41,28)
+    person:Second Lieutenant A W Drennan (joined) (44,29)
+    person:Second Lieutenant E Thomas (joined) (44,31)
+    person:Second Lieutenant A G Pecket (joined) (41,31)
+    person:Second Lieutenant W E Garrett (joined) (46,33)
+    person:Second Lieutenant C Richardson (joined) (45,34)
+    person:Captain Wood (joined) (41,36)
+    person:Captain W A Trent (joined) (45,37)
+    person:Lieutenant J C Knoth (joined) (43,38)
+    person:Lieutenant D S Laughland (joined) (46,39)
+    person:Lieutenant M A Cook (joined) (44,41)
+    person:Lieutenant H E Parsons (joined) (48,42)
+    person:Lieutenant E C Moryoseph (joined) (43,43)
+    person:Lieutenant G W Petrie (joined) (46,44)
+    person:Second Lieutenant A Linley (joined) (43,46)
+    person:Lieutenant J Bullpitt (resigned) (51,69)
+    person:Major T G Anson (departed_posted) (51,82)
+    strength:officer: 61; nco: 0; other: 938 (51,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (54,90)
+    person:Lieutenant C O Davies (departed_sick) (52,94)
+Page 249 (type diary) http://wd3.herokuapp.com/pages/AWD0000yuo  ----------
+  Hashtags: #football #demobilization 
+  1 Apr 1919 23
+    place:Flerzheim (44,28)
+    place:Flerzheim (6,28)
+    place:Luftelberg (45,31)
+    place:Muttinghoven (41,34)
+    activity:training (25,37)
+    domestic:sport (53,77)
+    strength:officer: 65; nco: 0; other: 856 (29,86)
+  30 Apr 1919 88
+Page 250 (type diary) http://wd3.herokuapp.com/pages/AWD0000yrk  ----------
+  30 Apr 1919 0
+    person:Second Lieutenant W F Walpole (joined) (44,19)
+    person:Lieutenant P Kimber (joined) (42,21)
+    person:Lieutenant H Rodgers (joined) (42,22)
+    person:Second Lieutenant G Westhead (joined) (45,23)
+    person:Second Lieutenant G Ford (joined) (42,24)
+    person:Second Lieutenant J F Phillips (joined) (46,26)
+    person:Second Lieutenant F S Frith (joined) (41,27)
+    person:Second Lieutenant J P Gordon (joined) (46,28)
+    person:Second Lieutenant N B McLaine (joined) (42,30)
+    person:Major J S Snowball (resigned) (41,61)
+    person:Second Lieutenant H McLean (resigned) (43,62)
+    person:Captain A Shanks (resigned) (45,64)
+    person:Lieutenant J E Shead (resigned) (43,65)
+    person:Captain J S Taylor (resigned) (46,66)
+Page 251 (type diary) http://wd3.herokuapp.com/pages/AWD0000yri  ----------
+  Hashtags: #lecture #draft #gas #cricket 
+  1 May 1919 23
+    place:Flerzheim (7,23)
+    place:Flerzheim (37,30)
+    place:Luftelberg (39,32)
+    place:Muttinghoven (36,35)
+    activity:training (25,39)
+    time:1230PM (64,39)
+    time:0900AM (57,40)
+    time:0700AM (44,41)
+    time:0800AM (48,41)
+    unit:Cheshire Regiment (51,50)
+    person:Sandon Perkins (other) (46,72)
+    domestic:sport (51,85)
+    strength:officer: 57; nco: 0; other: 707 (63,89)
+  31 May 1919 91
+    unit:1/4 Cheshire Regiment (42,92)
+    person:Lieutenant Colonel J M Hope (commander) (75,93)
+Page 252 (type diary) http://wd3.herokuapp.com/pages/AWD0000yt7  ----------
+  Hashtags: #draft 
+  31 May 1919 0
+    person:Major R A Helps (joined) (42,17)
+    person:Lieutenant E G Palmer (joined) (41,18)
+    person:Lieutenant F W E l'Estrange Fawcett (joined) (44,19)
+    person:Lieutenant C McKerron (joined) (42,20)
+    person:Lieutenant S Bowker (joined) (42,22)
+    person:Second Lieutenant F Lamb (joined) (40,23)
+    person:Second Lieutenant E G Ball (joined) (42,24)
+    person:Second Lieutenant G Westhead (resigned) (39,47)
+    person:Lieutenant J Rayner (resigned) (57,47)
+    person:Captain H I Strover (resigned) (43,49)
+    person:Lieutenant H Rodgers (resigned) (56,49)
+    person:Lieutenant T Watkins (resigned) (39,50)
+    person:Lieutenant G W Petrie (resigned) (58,50)
+    person:Captain W A Trent (resigned) (41,51)
+    person:Lieutenant J E Nicholls (resigned) (55,52)
+    person:Lieutenant W Harriss (resigned) (39,53)
+Page 253 (type other) http://wd3.herokuapp.com/pages/AWD0000yrd  ----------
+  31 May 1919 0
+    date:24 May 1919 (7,80)
+Page 254 (type other) http://wd3.herokuapp.com/pages/AWD0000yud  ----------
+  31 May 1919 0
+    date:18 May 1919 (11,71)
+Page 255 (type diary) http://wd3.herokuapp.com/pages/AWD0000yr1  ----------
+  Hashtags: #cricket #gas #leisure 
+  1 Jun 1919 22
+    place:Flerzheim (7,26)
+    place:Flerzheim (32,29)
+    reference:Map  (52,30)
+    place:Luftelberg (33,32)
+    place:Muttinghoven (32,35)
+    activity:training (21,38)
+    unit:Cheshire Regiment (39,48)
+    person:Captain Shanks (commander) (56,71)
+  21 Jun 1919 75
+    date:7 Sep 1918 (39,77)
+    place:Buchdorf (44,84)
+    place:Bonn (63,85)
+    place:Siegburg (81,85)
+    place:Witterschlick (36,86)
+    place:Heimerzheim (78,87)
+  30 Jun 1919 94
+    unit:Cheshire Regiment (36,95)
+    unit:Cheshire Regiment (25,96)
+    unit:1 Western Infantry Brigade (36,96)
+    unit:Cheshire, 1 Western Inf Division (16,96)
+Page 256 (type diary) http://wd3.herokuapp.com/pages/AWD0000yr6  ----------
+  Hashtags: #draft 
+  30 Jun 1919 0
+    person:Major W T Boughey (joined) (41,16)
+    person:Major R Page (joined) (40,17)
+    person:Captain G M L Pirkis (joined) (43,19)
+    person:Lieutenant A H Morrison (joined) (40,20)
+    person:Lieutenant F Russell (joined) (43,21)
+    person:Lieutenant A J V Rees (joined) (41,22)
+    person:Lieutenant P Deehan (joined) (43,24)
+    person:Lieutenant R L Griffin (joined) (40,25)
+    person:Lieutenant F I B Parry (joined) (43,26)
+    person:Lieutenant R J Wheeler (joined) (39,27)
+    person:Second Lieutenant J Wilson (joined) (41,29)
+    person:Second Lieutenant F Walker (joined) (43,30)
+    person:Second Lieutenant A E Francis (joined) (39,31)
+    person:Lieutenant J S Tanner (joined) (42,32)
+    person:Lieutenant W T Thornton (joined) (42,34)
+    person:Lieutenant L L DeSouza (joined) (42,35)
+    person:Lieutenant H S Sharpe (resigned) (38,54)
+    person:Lieutenant A Cranford (resigned) (53,54)
+    person:Captain J H Ashton (resigned) (42,56)
+    person:Captain G W A Wood (resigned) (53,56)
+    person:Second Lieutenant T Green (resigned) (41,57)
+    person:Lieutenant J S Tanner (resigned) (54,57)
+    person:Major R A Helps (departed_posted) (39,58)
+    person:Lieutenant Colonel J M Hope (56,79)
+Page 257 (type diary) http://wd3.herokuapp.com/pages/AWD0000ypt  ----------
+  Hashtags: #gas 
+  1 Jul 1919 22
+    place:Flerzheim (7,26)
+    place:Flerzheim (29,29)
+    place:Luftelberg (27,32)
+    place:Ramershoven (27,36)
+    activity:training (23,42)
+Page 258 (type diary) http://wd3.herokuapp.com/pages/AWD0000yqi  ----------
+  Hashtags: #medals #cricket 
+  31 Jul 1919 0
+    place:Flerzheim (6,25)
+    domestic:sport (36,36)
+    place:Flerzheim (49,36)
+    person:Private Scott (other) (65,56)
+    person:Lieutenant A H Smythe (award) (31,57)
+    domestic:inspections (38,65)
+  17 Jul 1919 75
+    domestic:sport (25,78)
+    unit:53 Welsh Rgt (25,81)
+    unit:52 Welsh Regiment (25,82)
+Page 259 (type diary) http://wd3.herokuapp.com/pages/AWD0000yqk  ----------
+  Hashtags: #basketball #horseshow #tugowar #swimming #leisure 
+  24 Jul 1919 24
+    place:Flerzheim (7,27)
+    unit:1 (0,28)
+    person:Lieutenant Colonel J F R Hope (other) (37,31)
+    person:Major H J V Rees (other) (27,39)
+  26 Jul 1919 40
+    activity:other (23,43)
+  27 Jul 1919 46
+    domestic:sport (24,50)
+  29 Jul 1919 53
+    domestic:sport (25,56)
+    unit:65 Brigade Royal Field Artillery (37,59)
+  31 Jul 1919 60
+    place:Bonn (60,61)
+    domestic:sport (27,63)
+    unit:104 Brigade Royal Field Artillery (55,65)
+    unit:65 Brigade Royal Field Artillery (32,70)
+    strength:officer: 55; nco: 0; other: 751 (39,81)
+    person:Lieutenant Colonel Hope (77,89)
+    unit:1 Western Infantry Brigade (43,91)
+Page 260 (type diary) http://wd3.herokuapp.com/pages/AWD0000yqd  ----------
+  31 Jul 1919 0
+    person:Lieutenant G McCabe (joined) (38,15)
+    person:Lieutenant F W E l'Estrange Fawcett (departed_posted) (38,33)
+    place:Cologne (54,35)
+    person:Major N B N Good (resigned) (38,36)
+    person:Lieutenant E E Dowling (departed_posted) (37,39)
+    person:Lieutenant W T Thornton (departed_posted) (41,41)
+    person:Lieutenant R J Wheeler (departed_posted) (37,42)
+    person:Second Lieutenant W E Garrett (departed_posted) (39,44)
+    person:Second Lieutenant A Chandler (departed_posted) (40,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (53,54)

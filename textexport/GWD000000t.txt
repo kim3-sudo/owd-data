@@ -1,0 +1,1402 @@
+GWD000000t wo/95/1328/1
+2 DIVISION: Anti-Aircraft Section 
+85 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD000053d  ----------
+  Hashtags: #Aeroplanes #shellfire 
+  1 Nov 1914 19
+    mapRef:OSTEND (46,10)
+    mapRef:Ostend (28,11)
+    place:Eksternest (15,20)
+    activity:fire (72,36)
+    activity:movement (64,44)
+  5 Nov 1914 48
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD000052o  ----------
+  5 Nov 1914 0
+    mapRef:Map of Belgum (Ostend sheet) (30,11)
+  10 Nov 1914 39
+    weather:other (62,44)
+    place:Eksternest (15,44)
+  11 Nov 1914 55
+    place:Eksternest (16,53)
+    weather:other (68,55)
+  12 Nov 1914 84
+    weather:other (68,82)
+    place:Hooge Chateau (15,82)
+    reference:1/2 Mile NW of HOOGE Chateau (16,83)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD000052j  ----------
+  Hashtags: #Aeroplanes #METEREN 
+  12 Nov 1914 0
+    mapRef:Map of Belgum (Ostend sheet) (24,10)
+    mapRef:OSTEND (42,10)
+  13 Nov 1914 12
+    place:Eksternest (19,18)
+  15 Nov 1914 26
+    place:Eksternest (18,31)
+  17 Nov 1914 42
+    place:Locre (19,43)
+    place:Eksternest (43,43)
+    unit:2 Division Arty (32,47)
+    unit:The French (35,49)
+    unit:2 Division Artillery (46,52)
+  19 Nov 1914 56
+    unit:1 Army Corps (50,60)
+    place:Meteren (20,60)
+    activity:other (37,61)
+    unit:1 Army Corps (33,65)
+Page 6 (type cover)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD000051p  ----------
+  Hashtags: #disbandment #aeroplanes #METEREN 
+  19 Nov 1914 0
+    mapRef:Ostend (67,11)
+    mapRef:OSTEND (55,11)
+  1 Dec 1914 16
+    place:Meteren (18,22)
+  6 Dec 1914 27
+    unit:1 Army Corps (47,30)
+  18 Dec 1914 42
+    place:Rouge Croix (19,39)
+    reference:Rouge Croix (16,40)
+  19 Dec 1914 43
+    unit:2 Divisional Ammunition Column (39,47)
+    activity:other (41,48)
+    unit:2 dhc (44,50)
+Page 8 (type cover)
+Page 9 (type ) http://wd3.herokuapp.com/pages/AWD0000546  ----------
+  19 Dec 1914 0
+    person:Major Desmond Trouton (43,7)
+    person:Captain Dresser (other) (51,93)
+Page 10 (type report) http://wd3.herokuapp.com/pages/AWD000052z  ----------
+  19 Dec 1914 0
+    person:Gunner Scott (other) (51,20)
+    reference:41st Brigade (54,46)
+    reference:Prussian Guards (40,50)
+    reference:Battle of Ypres (46,55)
+    place:Havre (47,68)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD0000544  ----------
+  19 Dec 1914 0
+    place:Rouen (51,25)
+    activity:movement (54,25)
+    place:Landrecies (53,58)
+    time:0300PM (60,59)
+    place:Maubeuge (45,74)
+    unit: (58,74)
+    unit:2 Division. hqrs (57,75)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD0000521  ----------
+  19 Dec 1914 0
+    place:Maubeuge (58,13)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 5; wounded: 0 (57,73)
+    time:0900AM (47,85)
+    place:Leval (50,88)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD000053a  ----------
+  19 Dec 1914 0
+    person:Quiller-Couch (other) (48,10)
+    activity:movement (53,23)
+    place:Leval (39,24)
+    place:Landrecies (56,25)
+    domestic:hygiene (50,29)
+    weather:hot (52,32)
+    time:0600PM (49,40)
+    activity:movement (52,40)
+    place:Le Grand Fayt (58,40)
+    activity:fire (57,53)
+    person:Quiller (combat) (47,53)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD000053k  ----------
+  19 Dec 1914 0
+    weather:overcast (47,25)
+    activity:movement (42,33)
+    place:Landrecies (48,33)
+    place:Etreux (61,35)
+    weather:fine (55,53)
+    place:Etreux (44,53)
+    domestic:rations (45,58)
+    activity:resting (39,60)
+    unit:Heavy guns (60,63)
+    place:Landrecies (59,68)
+    unit:Guards (53,68)
+    activity:fire (41,69)
+    unit:2 Corps (61,81)
+    place:Le Cateau (40,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,9)
+Page 15 (type ) http://wd3.herokuapp.com/pages/AWD000052e  ----------
+  Hashtags: #refugees 
+  19 Dec 1914 0
+    unit:41 Brigade Ammunition. Col. (46,35)
+    activity:movement (45,43)
+    reference:La Fere (49,56)
+    place:Villers-Cotterêts (39,64)
+    reference:Villers-Cotterets (43,64)
+    reference:Refuges (53,84)
+Page 16 (type other) http://wd3.herokuapp.com/pages/AWD000052b  ----------
+  19 Dec 1914 0
+Page 17 (type other) http://wd3.herokuapp.com/pages/AWD000053n  ----------
+  19 Dec 1914 0
+Page 18 (type other) http://wd3.herokuapp.com/pages/AWD0000523  ----------
+  Hashtags: #refugees 
+  19 Dec 1914 0
+    place:Villers-Cotterêts (60,68)
+Page 19 (type ) http://wd3.herokuapp.com/pages/AWD000053g  ----------
+  Hashtags: #diet #packcontents #food #messkits #gear 
+  19 Dec 1914 0
+    person:Quiller-Couch (joined) (42,84)
+    activity:movement (44,90)
+Page 20 (type other) http://wd3.herokuapp.com/pages/AWD000053j  ----------
+  19 Dec 1914 0
+    person:Captain Dresser (author) (61,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 100000 (42,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 23000 (46,65)
+    unit:41 Brigade Ammunition. Col. (41,86)
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD0000522  ----------
+  19 Dec 1914 0
+    reference:2nd Division (49,30)
+    unit:2 Division (48,31)
+    activity:movement (58,46)
+    unit:5 Division (41,55)
+    reference:5th Division (41,56)
+    reference:2nd Division Ammo Column (42,66)
+    reference:General Service Wagons (42,74)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD000052a  ----------
+  Hashtags: #funnystory 
+  19 Dec 1914 0
+    reference:5th Division (61,17)
+    unit:5 Division (61,17)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD000053h  ----------
+  Hashtags: #ww1problems 
+  19 Dec 1914 0
+    place:Braisne (53,18)
+    place:Bourg (59,18)
+    place:Braisne (54,33)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD0000531  ----------
+  19 Dec 1914 0
+    reference:Battle Noise (53,10)
+    unit:Unknown (58,67)
+    unit:Infantry (44,80)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD000052d  ----------
+  Hashtags: #terrible 
+  19 Dec 1914 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,13)
+    unit:Unknown (49,22)
+    reference:Ammunition column (39,52)
+    reference:line of wagons (51,57)
+    reference:80 rifleman (44,60)
+    reference:Brigade Ammunition Column (54,67)
+    reference:Divisional Ammunition Column (42,74)
+    reference:Divisional Artillery and Ammunition supply (54,87)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD000052r  ----------
+  Hashtags: #jackjohnsons #impact #artillery 
+  19 Dec 1914 0
+    unit:41 Brigade (55,67)
+    reference:41st Brigade (54,67)
+Page 27 (type ) http://wd3.herokuapp.com/pages/AWD000052h  ----------
+  19 Dec 1914 0
+    person:Captain Thornton (other) (52,7)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD000053b  ----------
+  19 Dec 1914 0
+    reference:41st Brigade (44,24)
+    unit:41 Brigade (45,25)
+    activity:fire (60,63)
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD0000545  ----------
+  Hashtags: #scary 
+  19 Dec 1914 0
+    activity:fire (47,22)
+    activity:fire (51,62)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (54,78)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (45,80)
+    person:Sergeant Smith (author) (51,81)
+Page 30 (type ) http://wd3.herokuapp.com/pages/AWD0000538  ----------
+  19 Dec 1914 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,12)
+Page 31 (type cover)
+Page 32 (type cover)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD0000528  ----------
+  19 Dec 1914 0
+    activity:movement (29,26)
+    activity:movement (28,29)
+    place:Wassigny (10,30)
+    place:Givry (10,34)
+    person:Lieutenant Robertson (casualty_wounded) (32,45)
+    person:Lieutenant Durand (casualty_wounded) (44,45)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 29 (27,45)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 29 (48,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 27 (35,52)
+    unit:70 Batty (38,55)
+    activity:attack (46,58)
+    unit:22 Batty (41,58)
+    unit:50 How. Batty (51,61)
+    unit:47 How. Batty (55,61)
+    unit:22 Batty (47,66)
+    place:Bavaye (15,78)
+    reference:22th Batallion in action with 6th??? (27,78)
+    unit:22 Batty (28,79)
+    place:Amigny (13,89)
+Page 34 (type cover)
+Page 35 (type diary) http://wd3.herokuapp.com/pages/AWD0000540  ----------
+  19 Dec 1914 0
+    unit:34 Brigade (52,2)
+    place:Bourg (42,23)
+    place:Soupir (31,29)
+    time:0700PM (55,38)
+    time:0100PM (9,39)
+    activity:movement (31,41)
+    place:Braine (41,42)
+    time:0700PM (9,42)
+    unit:44 Brigade Ammunition Column (34,44)
+    place:Ville Arcy (37,48)
+    reference:Roads in good condition (45,49)
+    activity:attack (46,62)
+    unit:70 Battery (36,62)
+    unit:22 Battery (29,63)
+    place:Brenelle (31,66)
+    activity:other (57,68)
+    unit:16 Infantry Brigade (74,68)
+    place:Vailly (48,72)
+    reference:Not needed ammunition supplies for  the 16th Infantary Bde (28,85)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD0000542  ----------
+  Hashtags: #train 
+  19 Dec 1914 0
+    time:0400PM (12,23)
+    time:0600PM (57,23)
+    place:Loupeigne (71,23)
+    activity:movement (38,23)
+    time:0600PM (10,26)
+    time:0830PM (54,27)
+    activity:movement (31,27)
+    activity:movement (64,29)
+    place:Fere Entardenois (49,32)
+    time:0600AM (32,33)
+    place:Fere Entardenois (44,41)
+    activity:movement (30,41)
+    time:0600AM (10,43)
+    place:Paris (75,43)
+    activity:movement (65,43)
+    time:1100AM (54,44)
+    time:1015AM (31,45)
+    reference:Entrainment (28,47)
+    place:Calais (34,48)
+    place:Saint Omer (69,52)
+    activity:movement (30,53)
+    place:Calais (45,54)
+    time:0230PM (13,62)
+    activity:resting (62,63)
+    time:0430PM (12,65)
+    activity:movement (29,65)
+    activity:movement (31,65)
+    unit:34 Brigade (47,67)
+    activity:resting (70,70)
+    unit:34 Brigade (46,71)
+    place:Cercus (62,71)
+    activity:movement (31,72)
+    reference:Movement with the 34th Brigade and resting in a school (37,73)
+    unit:34 Brigade (51,81)
+    place:Steen Voorde (64,81)
+    activity:movement (32,81)
+    reference:Movement with the 34th Brigade and resting in farm (24,84)
+    activity:resting (35,84)
+Page 37 (type diary) http://wd3.herokuapp.com/pages/AWD000052q  ----------
+  19 Dec 1914 0
+    unit:2 Division (53,24)
+    place:Godewaersvelde (66,24)
+    time:0230AM (10,25)
+    place:Godewaersvelde (71,25)
+    activity:movement (55,29)
+    place:Steenvoorde (49,33)
+    activity:movement (31,34)
+    time:0600AM (11,35)
+    unit:2 Division (64,37)
+    unit:2 Division (44,38)
+    place:Godewaersvelde (37,38)
+    place:Reninghelst (47,41)
+    place:Boeschepe (32,42)
+    place:Ypres (38,45)
+    place:Vlamertinghe (44,45)
+    activity:movement (30,53)
+    place:Saint Jean (40,53)
+    activity:movement (50,56)
+    time:0530PM (11,58)
+    activity:other (44,62)
+    unit:41 Brigade Ammunition Col. (46,65)
+    activity:other (41,71)
+    unit:34 Brigade (33,74)
+    activity:other (36,79)
+    unit:34 Brigade (34,83)
+    place:Ypres (70,87)
+    activity:movement (31,88)
+    time:0700PM (11,88)
+Page 38 (type diary) http://wd3.herokuapp.com/pages/AWD000053i  ----------
+  19 Dec 1914 0
+    activity:other (30,22)
+    place:Potijze (33,26)
+    activity:movement (26,30)
+    place:Potijze (60,36)
+    activity:movement (27,37)
+    unit:Unnamed French Artillery Crew (50,39)
+    unit:French Heavy Battery (64,39)
+    unit:French heavy Battery (54,40)
+    activity:movement (67,42)
+    activity:reconnoitered (54,43)
+    activity:withdraw (52,46)
+    place:Ypres (44,46)
+Page 39 (type cover)
+Page 40 (type diary) http://wd3.herokuapp.com/pages/AWD0000534  ----------
+  19 Dec 1914 0
+    place:Ypres (63,23)
+    activity:movement (32,23)
+    activity:resting (55,25)
+    place:Ypres (32,27)
+    place:Menin (38,27)
+    place:Kruipendaerde (60,32)
+    place:Frezenberg (73,32)
+    place:Ypres (51,36)
+    place:Menin (59,36)
+    place:Potijze (59,40)
+    activity:movement (31,41)
+    place:Ypres (66,43)
+    activity:movement (31,44)
+    activity:resting (38,47)
+    activity:fire (47,51)
+    time:1030PM (11,51)
+    activity:fire (33,52)
+    place:Ypres (73,62)
+    activity:movement (31,62)
+    place:Vlamertinghe (31,65)
+    activity:resting (52,65)
+    unit:70 Battery (68,69)
+    person:Second Lieutenant J V Austin (departed_posted) (38,70)
+    unit:2 D.A.C. (73,72)
+    person:Second Lieutenant T C Chilton (joined) (38,73)
+    person:Second Lieutenant T C Chilton (joined) (41,73)
+    unit:2 dac (71,73)
+    person:Battery Sergeant Major Clayton (departed_posted) (37,77)
+    time:0400PM (13,80)
+    place:Reninghelst (44,83)
+    activity:movement (31,83)
+    time:0700PM (13,84)
+    place:Reninghelst (56,88)
+    activity:resting (30,88)
+Page 41 (type diary) http://wd3.herokuapp.com/pages/AWD000052x  ----------
+  19 Dec 1914 0
+    place:Rouge Croix (63,22)
+    activity:movement (30,23)
+    time:0215PM (8,23)
+    weather:cold (67,26)
+    activity:resting (36,29)
+    activity:other (36,32)
+    person:Second Lieutenant J M Hoult (departed_leave) (39,36)
+    person:Major F C L Grieve (departed_leave) (41,39)
+    person:Second Lieutenant J M Hoult (returned_leave) (36,43)
+Page 42 (type cover)
+Page 43 (type blank)
+Page 44 (type diary) http://wd3.herokuapp.com/pages/AWD0000536  ----------
+  22 Dec 1914 20
+    time:0400AM (12,24)
+    place:Bethune (37,27)
+    time:0700AM (11,34)
+    activity:movement (38,34)
+    place:Merville (71,35)
+    place:Strazeele (55,36)
+    place:Vendin (59,41)
+    place:Locon (33,42)
+    place:Bethune (44,42)
+  23 Dec 1914 57
+    unit:4 Guards Brigade (73,60)
+    activity:other (32,61)
+    activity:other (67,64)
+    unit:6 Infantry Brigade (49,65)
+    unit:6 Infantry Brigade (40,65)
+    unit:4 Guards Brigade (49,68)
+  24 Dec 1914 70
+    activity:training (31,74)
+  25 Dec 1914 75
+    reference:Christmas cards (32,82)
+Page 45 (type diary) http://wd3.herokuapp.com/pages/AWD000053v  ----------
+  26 Dec 1914 20
+    weather:cold (30,23)
+    activity:training (40,23)
+    time:0930AM (13,30)
+    activity:movement (43,30)
+    activity:movement (46,30)
+    place:Le Casan (37,34)
+    domestic:accomodation (57,34)
+    place:Le Casan (49,39)
+  27 Dec 1914 42
+    time:0100AM (13,48)
+    place:Fletre (49,54)
+    place:Strazeele (64,54)
+    place:Vieux (75,54)
+    time:0730AM (13,55)
+    activity:movement (31,55)
+    time:1245PM (69,59)
+    place:Paradis (50,59)
+    time:0700AM (12,70)
+    place:La couture (49,73)
+    time:0900AM (12,75)
+    activity:movement (32,75)
+    unit:13 Brigade A.C. (53,77)
+    unit:Saa section of 13 Brigade ac (47,78)
+    place:La couture (71,81)
+    domestic:accomodation (33,83)
+Page 46 (type diary) http://wd3.herokuapp.com/pages/AWD000053y  ----------
+  28 Dec 1914 20
+  29 Dec 1914 26
+    place:Zelobes (45,29)
+    activity:movement (32,29)
+    domestic:accomodation (59,36)
+    activity:movement (48,36)
+    place:Zelobes (36,42)
+    time:0900AM (16,48)
+    place:Zelobes (55,48)
+    activity:movement (48,50)
+    unit:18Pr Section (40,52)
+  30 Dec 1914 54
+    place:Richbourg (70,58)
+    person:Captain Dresser (other) (36,59)
+    person:Second Lieutenant T C Chilton (other) (40,68)
+Page 47 (type ) http://wd3.herokuapp.com/pages/AWD000052k  ----------
+Page 48 (type other) http://wd3.herokuapp.com/pages/AWD000052v  ----------
+  30 Dec 1914 0
+Page 49 (type cover)
+Page 50 (type diary) http://wd3.herokuapp.com/pages/AWD0000535  ----------
+  1 Jan 1915 24
+    weather:fine (29,28)
+    place:Robecq (22,28)
+    weather:rain (41,29)
+    time:0400PM (52,29)
+  2 Jan 1915 30
+    time:0500PM (54,31)
+    reference:No 4 Billet burnt down (33,31)
+  3 Jan 1915 33
+    weather:fine (30,34)
+  4 Jan 1915 37
+    weather:rain (29,37)
+    weather:rain (52,37)
+    time:0200PM (64,38)
+  5 Jan 1915 40
+    weather:rain (34,41)
+  6 Jan 1915 45
+    weather:fine (29,45)
+    weather:rain (43,45)
+    person:Second Lieutenant Stubbs (joined) (57,45)
+    person:Second Lieutenant Mellor (joined) (65,45)
+    unit:Jeff the Wizard (44,48)
+  7 Jan 1915 49
+    person:Lieutenant Colonel W Strong (joined) (33,49)
+  8 Jan 1915 53
+    weather:rain (32,53)
+    person:Captain B L Marriner (joined) (44,54)
+  9 Jan 1915 58
+    weather:fine (30,58)
+    weather:rain (43,59)
+    person:Lieutenant Colonel Ravenhill (departed_posted) (51,59)
+  10 Jan 1915 62
+    weather:rain (33,62)
+  11 Jan 1915 67
+    weather:fine (30,67)
+    weather:rain (40,67)
+  12 Jan 1915 71
+    weather:fine (31,71)
+  13 Jan 1915 76
+    weather:rain (30,80)
+    weather:fine (40,80)
+    person:Major Cornes (departed_posted) (52,81)
+  14 Jan 1915 82
+    activity:movement (31,83)
+  15 Jan 1915 87
+    weather:fine (30,87)
+    weather:fine (30,91)
+    person:Second Lieutenant Stubbs (other) (41,91)
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD0000539  ----------
+  17 Jan 1915 27
+    place:Robecq (21,27)
+    weather:fine (29,27)
+    person:Captain Farrant (departed_posted) (49,27)
+  18 Jan 1915 31
+    place:Robecq (21,31)
+    weather:cold (38,31)
+    person:Second Lieutenant O'Brien (joined) (54,31)
+    weather:cold (29,34)
+    place:Robecq (20,35)
+  19 Jan 1915 37
+    place:Robecq (20,39)
+  20 Jan 1915 40
+    weather:fine (30,40)
+    place:Robecq (20,42)
+  21 Jan 1915 43
+    weather:rain (30,43)
+  22 Jan 1915 46
+    place:Robecq (20,46)
+    weather:rain (30,46)
+  23 Jan 1915 49
+    place:Robecq (20,49)
+    weather:cold (30,49)
+  24 Jan 1915 52
+    place:Robecq (20,52)
+  25 Jan 1915 56
+    place:Robecq (20,56)
+  26 Jan 1915 59
+    place:Robecq (20,59)
+    weather:cold (31,59)
+    place:Robecq (21,63)
+    weather:cold (32,63)
+  28 Jan 1915 67
+    place:Robecq (21,67)
+    weather:cold (31,67)
+  29 Jan 1915 71
+    place:Robecq (21,71)
+    weather:cold (31,71)
+    place:Robecq (21,75)
+    weather:cold (32,75)
+    person:Second Lieutenant Woodward (departed_posted) (66,75)
+  30 Jan 1915 76
+    place:Robecq (20,79)
+    weather:fine (33,79)
+  31 Jan 1915 80
+    weather:cold (32,83)
+    place:Robecq (20,84)
+    person:Lieutenant Colonel W Strong (author) (59,90)
+Page 52 (type cover)
+Page 53 (type diary) http://wd3.herokuapp.com/pages/AWD0000525  ----------
+  1 Feb 1915 24
+    weather:fine (29,27)
+    place:Robecq (17,28)
+    place:Robecq (16,31)
+    weather:rain (30,31)
+    unit:2 Division Artillery (43,34)
+    activity:movement (45,35)
+    place:Robecq (16,35)
+    weather:fine (30,35)
+    activity:movement (49,38)
+    place:Gonnehem (16,38)
+    weather:fine (29,38)
+    unit:Meerut Division (67,40)
+    time:0200PM (43,41)
+    place:Gonnehem (16,42)
+    activity:strength (51,44)
+    weather:fine (30,44)
+    unit:Heavy Section 7 Division (47,44)
+    weather:fine (32,45)
+  7 Feb 1915 46
+    place:Gonnehem (16,46)
+    weather:rain (41,47)
+    place:Gonnehem (16,49)
+    weather:fine (30,50)
+    person:Major Symons (departed_posted) (58,50)
+    weather:rain (39,51)
+  9 Feb 1915 53
+    place:Gonnehem (16,53)
+    weather:rain (30,53)
+    weather:fine (41,53)
+    place:Gonnehem (16,56)
+  10 Feb 1915 57
+    activity:movement (47,57)
+    weather:rain (29,57)
+    unit:5 Corps (54,57)
+    place:Gonnehem (16,60)
+    weather:fine (41,60)
+    place:Gonnehem (16,64)
+    weather:cold (29,64)
+    weather:fine (41,64)
+    place:Gonnehem (16,67)
+    weather:rain (29,67)
+    unit:5 Division (55,67)
+    person:Lieutenant Colonel Strong (departed_posted) (41,67)
+  31 Jan 1915 0
+  10 Feb 1915 57
+    place:Gonnehem (16,70)
+    weather:rain (30,70)
+    weather:rain (29,73)
+    place:Gonnehem (16,74)
+    weather:overcast (28,75)
+  16 Feb 1915 77
+    place:Gonnehem (16,78)
+    weather:fine (29,79)
+    place:Gonnehem (16,80)
+  17 Feb 1915 81
+    weather:rain (28,82)
+  18 Feb 1915 84
+    place:Gonnehem (15,84)
+    unit:66 Division (49,85)
+    person:Colonel A Eardley-Wilmot (joined) (33,85)
+  19 Feb 1915 86
+    place:Gonnehem (15,87)
+    weather:rain (28,88)
+    unit:Meerut Division (53,88)
+  20 Feb 1915 89
+    place:Gonnehem (15,90)
+    weather:overcast (28,91)
+Page 54 (type diary) http://wd3.herokuapp.com/pages/AWD0000529  ----------
+  22 Feb 1915 27
+    place:Gonnehem (15,27)
+    weather:fine (29,27)
+    place:Gonnehem (14,30)
+    time:0300PM (21,32)
+    person:Second Lieutenant Stubbs (departed_posted) (31,35)
+    place:Gonnehem (14,35)
+    place:Gonnehem (14,38)
+    place:Gonnehem (14,41)
+    weather:cold (28,41)
+    place:Gonnehem (14,44)
+    weather:cold (27,44)
+    place:Gonnehem (14,47)
+    weather:cold (27,47)
+    place:Labeuvriere (16,50)
+    activity:movement (32,50)
+    unit:Iii d.r.c (61,53)
+    person:Major Hawkes (joined) (39,54)
+    unit:Ii d.a.c (61,66)
+Page 55 (type cover)
+Page 56 (type diary) http://wd3.herokuapp.com/pages/AWD0000530  ----------
+  1 Mar 1915 28
+    weather:fine (28,32)
+    place:Labeuvriere (12,32)
+    reference:Labeuviere (17,32)
+  3 Mar 1915 35
+    weather:fine (28,35)
+  4 Mar 1915 38
+    weather:overcast (28,38)
+  5 Mar 1915 41
+    weather:overcast (28,41)
+  6 Mar 1915 44
+  7 Mar 1915 47
+    weather:overcast (27,49)
+  8 Mar 1915 50
+  9 Mar 1915 54
+    person:Captain Robertson (joined) (59,57)
+  10 Mar 1915 59
+    weather:cold (27,63)
+  11 Mar 1915 65
+  13 Mar 1915 71
+    weather:fine (28,75)
+  17 Mar 1915 84
+  18 Mar 1915 86
+  19 Mar 1915 89
+    weather:fine (28,92)
+    weather:cold (44,92)
+Page 57 (type diary) http://wd3.herokuapp.com/pages/AWD000052l  ----------
+  20 Mar 1915 24
+    weather:fine (29,27)
+  21 Mar 1915 28
+    place:Labeuvriere (15,28)
+  23 Mar 1915 34
+    weather:fine (28,34)
+    weather:fine (28,37)
+  24 Mar 1915 38
+    weather:fine (28,41)
+  25 Mar 1915 42
+  26 Mar 1915 46
+  27 Mar 1915 50
+  28 Mar 1915 54
+    weather:fine (29,57)
+  29 Mar 1915 58
+  31 Mar 1915 68
+Page 58 (type cover)
+Page 59 (type diary) http://wd3.herokuapp.com/pages/AWD000051y  ----------
+  1 Apr 1915 26
+    weather:fine (27,28)
+  2 Apr 1915 30
+    weather:fine (26,31)
+  3 Apr 1915 33
+  4 Apr 1915 36
+    weather:overcast (26,37)
+  5 Apr 1915 40
+  6 Apr 1915 42
+    weather:fine (26,43)
+  7 Apr 1915 45
+  8 Apr 1915 48
+    weather:fine (26,48)
+  9 Apr 1915 51
+  10 Apr 1915 54
+  11 Apr 1915 56
+    weather:fine (26,57)
+  12 Apr 1915 58
+    weather:fine (26,59)
+  13 Apr 1915 61
+    weather:overcast (27,62)
+  14 Apr 1915 64
+  15 Apr 1915 66
+  16 Apr 1915 68
+  17 Apr 1915 71
+  18 Apr 1915 73
+  19 Apr 1915 75
+  20 Apr 1915 78
+  21 Apr 1915 80
+  23 Apr 1915 84
+  24 Apr 1915 85
+Page 60 (type ) http://wd3.herokuapp.com/pages/AWD000052u  ----------
+  25 Apr 1915 25
+  30 Apr 1915 43
+Page 61 (type cover)
+Page 62 (type diary) http://wd3.herokuapp.com/pages/AWD000052s  ----------
+  30 Apr 1915 0
+    place:Fouquereuil (16,27)
+    unit:1 D.A.C (29,83)
+Page 63 (type diary) http://wd3.herokuapp.com/pages/AWD000052n  ----------
+  17 May 1915 22
+    weather:rain (26,26)
+    place:Fouquereuil (17,26)
+  18 May 1915 39
+  19 May 1915 44
+    weather:rain (27,47)
+  20 May 1915 51
+    activity:movement (60,55)
+    weather:fine (26,55)
+    person:Major Hawkes (departed_posted) (36,55)
+  21 May 1915 66
+  22 May 1915 72
+  23 May 1915 77
+Page 64 (type diary) http://wd3.herokuapp.com/pages/AWD000052f  ----------
+  Hashtags: #wardiary 
+  24 May 1915 22
+    weather:fine (27,25)
+    unit:34 B.A.C (63,25)
+    place:Cornet Malo (15,26)
+    place:Fouquereuil (31,28)
+    time:1030AM (46,28)
+    unit:47 D.A.C (60,28)
+    person:Captain French (joined) (30,30)
+    place:Ferfay (38,32)
+  25 May 1915 34
+    weather:fine (26,37)
+    unit:Divisional Supply Train (45,37)
+  26 May 1915 40
+    weather:fine (26,44)
+    activity:movement (36,45)
+    place:Ferfay (41,45)
+    time:0700PM (46,45)
+    time:0700PM (72,45)
+    place:Ferfay (33,47)
+    place:Ames (56,48)
+    time:1100PM (39,48)
+  27 May 1915 49
+    time:1140PM (27,49)
+    unit:Royal Field Artillery (52,50)
+    place:Ames (15,51)
+    unit:60 (howitzer) battallion Royal Field Artillery (42,51)
+  28 May 1915 52
+    person:Captain French (34,52)
+    unit:44 Brigade Royal Field Artillery (44,53)
+    weather:overcast (26,55)
+    person:Captain Cullum (38,55)
+    activity:movement (66,57)
+    person:Captain Crawshaye (joined) (36,58)
+  29 May 1915 59
+    place:Ames (15,62)
+    weather:fine (26,62)
+  30 May 1915 64
+    place:Ames (14,66)
+  31 May 1915 67
+    weather:fine (26,67)
+    place:Ames (15,70)
+    weather:fine (26,70)
+    place:Lillers (46,71)
+Page 65 (type cover)
+Page 66 (type diary) http://wd3.herokuapp.com/pages/AWD0000524  ----------
+  31 May 1915 0
+    person:Captain Cullum (joined) (62,25)
+    time:0530AM (32,25)
+    place:Fouquereuil (52,25)
+    weather:fine (26,25)
+    place:Fouquereuil (10,26)
+    activity:movement (47,26)
+  2 Jun 1915 28
+    weather:fine (26,31)
+  3 Jun 1915 33
+    person:Second Lieutenant Gaunt (departed_posted) (39,35)
+    person:Second Lieutenant Coffin (60,35)
+    weather:overcast (27,35)
+    unit:41 Brigade (50,36)
+  4 Jun 1915 39
+    weather:fine (27,40)
+    activity:resting (53,40)
+  5 Jun 1915 42
+    weather:fine (27,43)
+    weather:fine (27,47)
+    place:Hesdinguel (9,50)
+    weather:fine (27,50)
+    place:Hesdinguel (51,51)
+    activity:movement (63,52)
+  8 Jun 1915 53
+    weather:hot (27,55)
+  9 Jun 1915 60
+    weather:rain (29,60)
+    weather:overcast (27,62)
+  10 Jun 1915 64
+    weather:overcast (27,65)
+  11 Jun 1915 67
+    weather:overcast (26,68)
+    time:0730PM (35,69)
+  12 Jun 1915 72
+    weather:overcast (27,72)
+  13 Jun 1915 78
+    weather:overcast (27,79)
+  14 Jun 1915 82
+  15 Jun 1915 86
+    weather:fine (28,88)
+    person:Captain Crawshay (departed_posted) (33,92)
+Page 67 (type diary) http://wd3.herokuapp.com/pages/AWD000052p  ----------
+  15 Jun 1915 0
+  17 Jun 1915 29
+    weather:fine (27,27)
+    place:Hesdinguel (13,27)
+  15 Jun 1915 0
+  18 Jun 1915 32
+    weather:fine (26,30)
+  19 Jun 1915 35
+    weather:fine (26,34)
+  20 Jun 1915 38
+    unit:34 Brigade (31,37)
+    weather:fine (26,38)
+    weather:fine (26,40)
+  21 Jun 1915 41
+  22 Jun 1915 42
+  23 Jun 1915 46
+    weather:fine (26,46)
+    activity:enemy_activity (52,47)
+  15 Jun 1915 0
+  24 Jun 1915 49
+    weather:overcast (26,50)
+    weather:overcast (27,53)
+  25 Jun 1915 59
+  15 Jun 1915 0
+  25 Jun 1915 59
+  26 Jun 1915 62
+  27 Jun 1915 67
+    weather:fine (27,65)
+  28 Jun 1915 70
+    weather:overcast (27,69)
+  29 Jun 1915 74
+    weather:overcast (27,72)
+    place:Annezin (40,74)
+    weather:overcast (26,75)
+    place:Annezin (8,75)
+    activity:movement (37,75)
+    reference:7th Brigade (58,76)
+    unit:7 Brigade (45,77)
+  30 Jun 1915 79
+    weather:overcast (26,82)
+Page 68 (type cover)
+Page 69 (type diary) http://wd3.herokuapp.com/pages/AWD0000537  ----------
+  2 Jul 1915 25
+    weather:overcast (28,25)
+    place:Annezin (9,25)
+    place:Bethune (53,25)
+    weather:overcast (29,27)
+    weather:fine (38,27)
+  3 Jul 1915 28
+    weather:overcast (28,30)
+    weather:hot (40,30)
+  4 Jul 1915 31
+    unit:General Service Corps (53,31)
+  5 Jul 1915 33
+    weather:hot (31,33)
+    weather:overcast (30,35)
+  6 Jul 1915 36
+    person:Major Cox (joined) (45,39)
+    weather:fine (27,39)
+  7 Jul 1915 41
+    weather:fine (27,43)
+  9 Jul 1915 46
+    weather:other (30,46)
+  10 Jul 1915 49
+    weather:fine (27,49)
+    unit:4 Corps (63,50)
+    person:Second Lieutenant O'Brien (joined) (37,50)
+  11 Jul 1915 51
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (42,51)
+    weather:fine (27,51)
+  12 Jul 1915 54
+    weather:overcast (29,54)
+    place:Oblinghem (57,54)
+    activity:movement (38,56)
+    weather:overcast (29,56)
+  13 Jul 1915 57
+    time:0300PM (26,58)
+    place:Oblinghem (9,59)
+  14 Jul 1915 60
+    person:Major Cox (departed_leave) (32,60)
+    weather:fine (27,60)
+    reference:General Officer Commanding Royal Artillery (34,62)
+  15 Jul 1915 63
+    weather:fine (28,63)
+  16 Jul 1915 65
+    weather:fine (27,65)
+    unit:48 Division (50,68)
+    weather:fine (28,68)
+  18 Jul 1915 71
+    weather:rain (28,71)
+  19 Jul 1915 74
+    weather:fine (27,74)
+  20 Jul 1915 77
+    weather:fine (27,77)
+    weather:fine (27,80)
+  21 Jul 1915 81
+  22 Jul 1915 86
+    person:Second Lieutenant A Wright (departed_posted) (39,89)
+Page 70 (type diary) http://wd3.herokuapp.com/pages/AWD000051k  ----------
+  23 Jul 1915 23
+  24 Jul 1915 26
+    place:Oblinghem (7,26)
+    weather:fine (27,26)
+    unit:9 Artillery (48,27)
+  25 Jul 1915 28
+  26 Jul 1915 32
+    weather:overcast (27,31)
+    weather:fine (26,33)
+    person:Colonel Eardley-Wilmot (departed_leave) (32,35)
+    weather:fine (26,36)
+    unit:51 Division (67,37)
+  27 Jul 1915 38
+    weather:rain (27,40)
+    person:Captain Cushion (returned_leave) (34,41)
+  28 Jul 1915 43
+    unit:34 Brigade (51,45)
+    unit:36 Brigade (61,45)
+    weather:rain (27,46)
+    unit:41 Brigade (38,46)
+  29 Jul 1915 51
+    place:Oblinghem (61,51)
+    weather:fine (27,54)
+    domestic:rations (38,55)
+  30 Jul 1915 59
+    weather:fine (27,62)
+  31 Jul 1915 63
+    weather:fine (27,66)
+    person:Captain Cushen (author) (66,67)
+Page 71 (type cover)
+Page 72 (type diary) http://wd3.herokuapp.com/pages/AWD0000541  ----------
+  1 Aug 1915 23
+    weather:fine (29,25)
+    unit:36 Brigade (53,25)
+    unit:41 Brigade (65,25)
+  2 Aug 1915 26
+    weather:fine (27,26)
+    place:Oblinghem (9,26)
+    unit:34 Brigade (39,26)
+  3 Aug 1915 29
+    weather:fine (27,29)
+    place:Havre (52,30)
+  4 Aug 1915 31
+    person:Lieutenant Porter (departed_posted) (32,31)
+    weather:overcast (27,32)
+    weather:fine (50,32)
+  5 Aug 1915 34
+    person:Colonel Eardley-Wilmot (returned_leave) (29,34)
+  6 Aug 1915 36
+    weather:fine (26,36)
+  7 Aug 1915 39
+    weather:overcast (26,39)
+  8 Aug 1915 41
+    weather:overcast (26,41)
+  9 Aug 1915 43
+    weather:overcast (26,44)
+    weather:overcast (27,46)
+  10 Aug 1915 49
+    time:0900PM (26,50)
+  11 Aug 1915 53
+    weather:fog (27,54)
+  12 Aug 1915 56
+    weather:overcast (27,56)
+  13 Aug 1915 58
+    weather:fine (26,59)
+    person:Captain Robertson (departed_posted) (67,59)
+  14 Aug 1915 61
+    weather:overcast (27,61)
+  15 Aug 1915 64
+    weather:fine (27,64)
+  16 Aug 1915 66
+    weather:overcast (26,67)
+    weather:overcast (26,68)
+    weather:rain (52,69)
+    time:0500PM (61,69)
+  17 Aug 1915 71
+    weather:fog (26,74)
+  18 Aug 1915 76
+    weather:rain (26,77)
+  19 Aug 1915 78
+    weather:rain (27,79)
+    weather:overcast (26,81)
+  20 Aug 1915 82
+    weather:overcast (27,85)
+  21 Aug 1915 86
+    weather:overcast (27,88)
+    time:0530PM (40,88)
+    unit:2 Heavy Brigade (38,90)
+Page 73 (type diary) http://wd3.herokuapp.com/pages/AWD0000520  ----------
+  22 Aug 1915 23
+    place:Oblinghem (8,25)
+  23 Aug 1915 26
+    weather:fine (27,26)
+    weather:cold (35,26)
+  24 Aug 1915 28
+    weather:overcast (27,28)
+    person:Lieutenant Coffin (departed_posted) (37,29)
+    unit:9 Division (47,30)
+  25 Aug 1915 31
+    place:Beuvry (63,31)
+    weather:fine (27,32)
+    weather:fine (32,32)
+  27 Aug 1915 35
+    weather:fine (27,35)
+    weather:fine (27,37)
+  28 Aug 1915 38
+    weather:fine (27,40)
+  29 Aug 1915 41
+    weather:rain (42,41)
+    weather:overcast (27,43)
+  31 Aug 1915 46
+    weather:fine (27,46)
+    weather:fine (27,49)
+    person:Colonel R Eardley-Wilmot (author) (56,61)
+Page 74 (type cover)
+Page 75 (type diary) http://wd3.herokuapp.com/pages/AWD0000527  ----------
+  31 Aug 1915 0
+  1 Sep 1915 22
+    weather:rain (33,24)
+  2 Sep 1915 25
+    weather:fine (26,25)
+    place:Oblinghem (8,26)
+    weather:rain (37,27)
+    person:Captain Griffiths (joined) (51,27)
+    weather:fine (26,28)
+  3 Sep 1915 33
+    person:Second Lieutenant Wright (departed_posted) (29,34)
+    weather:rain (64,36)
+    person:Wright (departed_posted) (32,36)
+    weather:rain (26,39)
+  4 Sep 1915 41
+    weather:fine (27,45)
+  6 Sep 1915 49
+    weather:rain (35,49)
+    weather:fine (26,50)
+  7 Sep 1915 52
+    weather:fine (26,52)
+    weather:fine (26,56)
+  9 Sep 1915 59
+    weather:fine (26,60)
+  10 Sep 1915 63
+    weather:fine (26,63)
+  11 Sep 1915 66
+    weather:fine (26,66)
+    weather:fine (26,68)
+  13 Sep 1915 73
+    weather:fine (26,73)
+  14 Sep 1915 76
+    weather:fine (26,76)
+    weather:fine (26,79)
+  15 Sep 1915 80
+  16 Sep 1915 83
+    weather:overcast (26,83)
+    person:Lieutenant Young (joined) (54,86)
+  17 Sep 1915 87
+    weather:fine (27,90)
+    person:Lieutenant Dunlop (departed_posted) (41,90)
+    person:Lieutenant Young (joined) (58,90)
+Page 76 (type diary) http://wd3.herokuapp.com/pages/AWD000051v  ----------
+  17 Sep 1915 0
+  18 Sep 1915 23
+    person:Captain Le Sueur (departed_posted) (41,24)
+    unit:44 Brigade Royal Field Artillery. (63,25)
+    reference:LE SUEUR (48,25)
+    weather:fine (28,25)
+    place:Oblinghem (10,25)
+    unit:4 Section D.A.C. (42,27)
+    person:Captain Cushen (departed_posted) (49,31)
+  19 Sep 1915 32
+    mapRef:Bethune (67,32)
+    mapRef:Bethune B series (65,33)
+    weather:fine (27,33)
+    time:0630PM (41,35)
+    time:0900PM (48,35)
+  20 Sep 1915 36
+    weather:fine (27,38)
+  21 Sep 1915 39
+    weather:fine (29,39)
+  22 Sep 1915 45
+    reference:LE SUEUR (49,47)
+    weather:fine (27,47)
+  23 Sep 1915 50
+    weather:fine (28,51)
+    weather:rain (56,51)
+  24 Sep 1915 54
+    weather:overcast (28,56)
+  25 Sep 1915 57
+    weather:overcast (28,59)
+  26 Sep 1915 60
+    unit:7 Division A.C. (62,62)
+    place:Bethune (34,62)
+  27 Sep 1915 65
+    person:Lieutenant A Anderson Pelham (joined) (38,67)
+    weather:overcast (27,67)
+    weather:rain (40,68)
+  28 Sep 1915 69
+    weather:rain (67,70)
+    weather:fine (27,71)
+  29 Sep 1915 73
+    unit:75 Brigade (65,74)
+    weather:overcast (27,74)
+    unit:31 Brigade (60,75)
+  30 Sep 1915 81
+    weather:fine (27,82)
+Page 77 (type cover)
+Page 78 (type diary) http://wd3.herokuapp.com/pages/AWD000053c  ----------
+  Hashtags: #Grenades 
+  2 Oct 1915 25
+    weather:fine (28,25)
+    place:Oblinghem (7,25)
+    weather:fine (27,27)
+    place:Bethune (37,27)
+  3 Oct 1915 30
+    weather:overcast (27,33)
+    unit:46 Battalion (70,33)
+  4 Oct 1915 34
+    unit:9 Battalion (45,35)
+  5 Oct 1915 37
+    activity:fire (38,40)
+    weather:overcast (28,40)
+  7 Oct 1915 49
+    weather:fog (27,50)
+  8 Oct 1915 53
+    weather:fog (30,55)
+  9 Oct 1915 56
+    activity:fire (40,56)
+    weather:cold (27,56)
+    time:0300PM (53,56)
+  10 Oct 1915 58
+    weather:cold (27,58)
+    weather:fog (29,58)
+    time:0300PM (44,58)
+  11 Oct 1915 60
+    weather:fine (26,61)
+    time:0230AM (52,62)
+  12 Oct 1915 63
+    weather:fog (30,64)
+  14 Oct 1915 67
+    weather:overcast (27,67)
+    activity:attack (36,68)
+    weather:cold (27,69)
+    weather:fog (29,69)
+  15 Oct 1915 70
+    weather:fog (26,71)
+  16 Oct 1915 75
+    domestic:inspections (51,76)
+    weather:cold (27,77)
+    weather:fog (28,77)
+  17 Oct 1915 79
+    weather:cold (26,81)
+    weather:fog (29,81)
+  18 Oct 1915 82
+    weather:fog (29,83)
+  19 Oct 1915 84
+    weather:cold (27,84)
+    weather:fog (30,85)
+    weather:cold (27,86)
+  20 Oct 1915 89
+    weather:cold (27,90)
+Page 79 (type diary) http://wd3.herokuapp.com/pages/AWD000052i  ----------
+  21 Oct 1915 22
+    weather:fog (31,24)
+  22 Oct 1915 25
+    weather:cold (27,25)
+    place:Oblinghem (8,26)
+  23 Oct 1915 28
+    weather:cold (29,28)
+    weather:cold (30,30)
+    weather:fog (33,31)
+    weather:rain (39,31)
+    weather:cold (28,33)
+    unit:41 B.A.C. (35,34)
+    weather:rain (28,37)
+    person:Sergeant (departed_posted) (39,37)
+    person:Captain Fernie (departed_posted) (31,38)
+    weather:fine (27,41)
+    weather:rain (27,46)
+    weather:rain (29,48)
+  30 Oct 1915 50
+    weather:overcast (28,50)
+    weather:overcast (28,51)
+  31 Oct 1915 52
+    weather:overcast (26,53)
+    weather:fine (27,55)
+Page 80 (type cover)
+Page 81 (type diary) http://wd3.herokuapp.com/pages/AWD000052t  ----------
+  Hashtags: #accident 
+  1 Nov 1915 22
+    weather:rain (31,24)
+  2 Nov 1915 25
+    weather:rain (29,25)
+    place:Oblinghem (9,25)
+    weather:rain (29,28)
+    person:Major Cushen (returned_leave) (41,29)
+  4 Nov 1915 30
+  5 Nov 1915 32
+    weather:rain (28,32)
+  6 Nov 1915 34
+    weather:rain (29,35)
+  7 Nov 1915 36
+    weather:rain (27,36)
+  8 Nov 1915 38
+    weather:fine (28,38)
+  9 Nov 1915 40
+    weather:fine (28,40)
+  10 Nov 1915 43
+    weather:fine (27,43)
+    weather:fine (28,44)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 8 (37,45)
+    person:G W Workman (casualty_kia) (65,46)
+    person:Bombardier H Maudsley (casualty_kia) (47,47)
+    time:0230PM (36,48)
+    person:Gunner W French (casualty_wounded) (57,49)
+    person:Gunner J Poole (casualty_wounded) (70,49)
+    person:Sergeant P B Sergy (casualty_wounded) (28,50)
+    person:Corporal T Hill (casualty_wounded) (45,50)
+    person:Bombardier W Barnfield (casualty_wounded) (56,52)
+    person:Gunner W Palmer (casualty_wounded) (70,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 8 (40,53)
+    person:Bombardier A S Cowdrey (casualty_wounded) (29,54)
+    person:Bombardier J Hagg (casualty_wounded) (43,54)
+    unit:Meerut Division (42,62)
+    reference:Meerut Division (45,62)
+    place:Haverskerque (30,62)
+  11 Nov 1915 64
+    weather:fine (26,65)
+    domestic:other (32,66)
+  12 Nov 1915 67
+    weather:rain (27,68)
+  13 Nov 1915 69
+    person:Lieutenant M F Courage (joined) (51,69)
+    person:Colonel Eardley-Wilmot (returned_leave) (63,70)
+    weather:rain (27,70)
+    person:Captain Fernie (other) (49,71)
+  14 Nov 1915 73
+    person:Lieutenant Drake (joined) (43,74)
+    weather:fine (27,75)
+  15 Nov 1915 78
+    weather:cold (27,80)
+    unit:16 T.B. Royal Field Artillery (49,81)
+    person:Lieutenant Pelham (departed_posted) (59,81)
+    person:Lieutenant Weston (joined) (32,82)
+  16 Nov 1915 83
+    weather:cold (27,85)
+  17 Nov 1915 88
+    weather:cold (26,89)
+    unit:33 Division (54,93)
+Page 82 (type diary) http://wd3.herokuapp.com/pages/AWD000053p  ----------
+  18 Nov 1915 23
+    person:Captain Cullum (departed_posted) (37,25)
+    weather:cold (25,25)
+    place:Oblinghem (7,26)
+    person:Lieutenant Drake (other) (30,27)
+  19 Nov 1915 29
+  20 Nov 1915 31
+    weather:cold (26,31)
+    weather:cold (26,33)
+  21 Nov 1915 34
+    place:Gonnehem (60,34)
+    weather:cold (27,35)
+  22 Nov 1915 38
+    activity:strength (41,39)
+    weather:cold (26,40)
+  24 Nov 1915 41
+    weather:rain (36,41)
+    weather:cold (28,42)
+  25 Nov 1915 43
+    weather:cold (26,43)
+  26 Nov 1915 47
+    person:Second Lieutenant Kingston (departed_posted) (42,48)
+  27 Nov 1915 55
+    place:Fouquieres (37,55)
+    place:Fouquieres (9,56)
+    activity:movement (27,56)
+    person:Lieutenant Sabine (other) (56,63)
+  28 Nov 1915 65
+    weather:rain (43,67)
+    time:1000AM (52,68)
+    weather:cold (27,68)
+  29 Nov 1915 69
+    weather:cold (28,70)
+    reference: (67,71)
+  30 Nov 1915 75
+    person:Second Lieutenant H R Woodford (departed_posted) (63,75)
+    person:Second Lieutenant J C Moolman (departed_posted) (42,77)
+    weather:overcast (27,78)
+    person:Colonel A Eardley-Wilmot (author) (59,86)
+Page 83 (type cover)
+Page 84 (type diary) http://wd3.herokuapp.com/pages/AWD000052c  ----------
+  30 Nov 1915 0
+  1 Dec 1915 23
+    person:Captain Lanigan (other) (51,24)
+    place:Fouquereuil (8,25)
+    weather:rain (27,25)
+    person:Captain Osborne (other) (42,26)
+    person:Second Lieutenant Welman (joined) (57,26)
+  2 Dec 1915 29
+    weather:fine (28,31)
+    person:Major Cushen (other) (36,34)
+  3 Dec 1915 35
+    weather:rain (28,37)
+  4 Dec 1915 38
+    person:Lieutenant Weston (departed_leave) (31,38)
+    person:Driver Willday (casualty_kia) (37,40)
+  5 Dec 1915 42
+    person:other (casualty_died) (31,42)
+  6 Dec 1915 45
+    weather:rain (27,45)
+  7 Dec 1915 47
+    weather:rain (28,47)
+    person:Lieutenant Kingston (departed_posted) (32,49)
+    unit:36 Brigade R.F.G. (68,49)
+    unit:34 Brigade R.F.G. (47,51)
+    unit:41 Brigade R.F.G. (43,53)
+  8 Dec 1915 54
+  9 Dec 1915 59
+  11 Dec 1915 64
+    weather:rain (28,64)
+  12 Dec 1915 67
+    weather:fine (28,67)
+    weather:fine (27,69)
+  13 Dec 1915 70
+  14 Dec 1915 72
+    weather:fine (27,73)
+  15 Dec 1915 74
+    weather:fine (27,75)
+  16 Dec 1915 77
+    weather:fine (28,77)
+    person:Captain E W Griffith (departed_posted) (50,77)
+  17 Dec 1915 80
+    weather:overcast (27,80)
+  18 Dec 1915 82
+    weather:rain (28,82)
+    weather:overcast (27,85)
+Page 85 (type diary) http://wd3.herokuapp.com/pages/AWD0000532  ----------
+  19 Dec 1915 25
+    weather:fine (26,27)
+  20 Dec 1915 28
+    place:Fouquieres (8,28)
+  21 Dec 1915 30
+    weather:overcast (27,30)
+  22 Dec 1915 32
+    weather:rain (28,32)
+    person:Second Lieutenant Welman (departed_posted) (39,33)
+    person:Second Lieutenant Thomas (departed_posted) (59,33)
+  23 Dec 1915 34
+    weather:cold (26,35)
+  24 Dec 1915 36
+    weather:rain (27,36)
+  25 Dec 1915 39
+    weather:overcast (27,39)
+    person:Captain Courage (other) (38,40)
+  26 Dec 1915 41
+    weather:overcast (28,41)
+  27 Dec 1915 43
+    weather:fine (27,43)
+  28 Dec 1915 45
+    weather:overcast (27,45)
+  29 Dec 1915 48
+    weather:fine (27,48)
+    domestic:rations (43,49)
+    weather:fog (27,50)
+  30 Dec 1915 53
+    weather:fine (27,56)
+  31 Dec 1915 59
+    weather:fine (27,61)

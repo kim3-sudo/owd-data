@@ -1,0 +1,1490 @@
+GWD00000d2 wo/95/1281/6
+1 DIVISION:  3 Infantry Brigade: 2 Battalion Welsh Regiment.  
+199 pages
+
+Page 671 (type cover)
+Page 672 (type diary) http://wd3.herokuapp.com/pages/AWD0001yl5  ----------
+  1 Nov 1918 24
+    activity:fire (66,29)
+    place:Catillon (8,29)
+Page 673 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymm  ----------
+  1 Nov 1918 0
+  2 Nov 1918 24
+    place:Catillon (8,29)
+    activity:quiet (45,37)
+Page 674 (type diary) http://wd3.herokuapp.com/pages/AWD0001ykn  ----------
+  3 Nov 1918 26
+    place:Catillon (4,27)
+    activity:fire (43,29)
+    place:Catillon (6,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (75,33)
+Page 675 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymu  ----------
+  Hashtags: #alliedrelations 
+  4 Nov 1918 28
+    activity:attack (52,29)
+    unit:82 Division (84,29)
+    time:0545AM (26,29)
+    unit:82 Division (72,30)
+    place:Catillon (6,34)
+    unit:2 Infantry Brigade (72,41)
+    unit:2 Infantry Brigade (61,41)
+    place:Cambresis (26,42)
+    activity:achieved (50,45)
+    time:0715AM (37,46)
+    person:Lieutenant J A Roberts (commander) (81,50)
+    person:Second Lieutenant J A Roberts (commander) (26,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 23; sick: 0; wounded: 0 (44,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 6 (57,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 6 (68,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 6 (28,61)
+    time:0930PM (50,66)
+    unit:French (67,70)
+    domestic:accomodation (56,79)
+    place:Molain (69,79)
+    activity:withdraw (40,79)
+Page 676 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjs  ----------
+  5 Nov 1918 28
+    domestic:accomodation (55,28)
+    activity:movement (39,28)
+    place:Bohain (71,29)
+    place:Molain (7,29)
+    time:0430PM (42,33)
+Page 677 (type diary) http://wd3.herokuapp.com/pages/AWD0001yks  ----------
+  6 Nov 1918 25
+    domestic:accomodation (56,29)
+    place:Fresnoy-le-Grand (71,29)
+    activity:movement (40,29)
+    place:Bohain (7,30)
+    weather:rain (25,33)
+    person:Major W B Garnett (commander) (60,37)
+    person:Major W B Garnett (commander) (24,38)
+    person:Major J F Badham (commander) (78,41)
+    person:Major Badham (commander) (50,45)
+Page 678 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymf  ----------
+  7 Nov 1918 23
+    place:Fresnoy-le-Grand (7,25)
+    activity:other (52,25)
+    domestic:hygiene (57,26)
+Page 679 (type diary) http://wd3.herokuapp.com/pages/AWD0001yna  ----------
+  8 Nov 1918 25
+    domestic:inspections (69,26)
+    place:Fresnoy-le-Grand (7,28)
+    person:Captain C P Bayer (57,30)
+    person:Lieutenant C J Saunders (returned_posted) (75,31)
+    person:Lieutenant C J Saunders (joined) (24,36)
+Page 680 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynn  ----------
+  9 Nov 1918 24
+    activity:training (45,26)
+    place:Fresnoy-le-Grand (7,27)
+Page 681 (type diary) http://wd3.herokuapp.com/pages/AWD0001ylq  ----------
+  10 Nov 1918 24
+    place:Fresnoy-le-Grand (6,27)
+Page 682 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymo  ----------
+  Hashtags: #peace #armistice 
+  11 Nov 1918 25
+    activity:training (34,26)
+    place:Fresnoy-le-Grand (6,28)
+    time:1100AM (36,35)
+    domestic:parades (23,36)
+Page 683 (type diary) http://wd3.herokuapp.com/pages/AWD0001yo0  ----------
+  12 Nov 1918 26
+    activity:training (31,27)
+    place:Fresnoy-le-Grand (6,28)
+    time:1000PM (42,32)
+Page 684 (type diary) http://wd3.herokuapp.com/pages/AWD0001yj2  ----------
+  Hashtags: #motortransport #bus 
+  13 Nov 1918 24
+    time:0830AM (53,26)
+    activity:movement (37,26)
+    activity:movement (48,27)
+    place:Fresnoy-le-Grand (7,27)
+    place:Bazuel (81,27)
+    time:1130AM (37,35)
+    domestic:accomodation (32,45)
+    time:0310PM (51,46)
+Page 685 (type diary) http://wd3.herokuapp.com/pages/AWD0001ym9  ----------
+  14 Nov 1918 27
+    place:Bazuel (44,29)
+    activity:resting (54,29)
+    place:Bazuel (7,30)
+Page 686 (type diary) http://wd3.herokuapp.com/pages/AWD0001yku  ----------
+  15 Nov 1918 24
+    unit:1 Division (26,25)
+    place:Bazuel (6,27)
+    place:Rhine (74,27)
+    domestic:accomodation (44,31)
+    activity:movement (49,31)
+    place:Marbaix (62,32)
+    place:Mons (54,43)
+    weather:fine (30,48)
+    time:0400PM (77,54)
+Page 687 (type diary) http://wd3.herokuapp.com/pages/AWD0001yl1  ----------
+  16 Nov 1918 25
+    activity:movement (37,26)
+    activity:movement (81,26)
+    place:Marbaix (6,30)
+    place:Beugnies (29,31)
+    time:0400PM (42,35)
+    person:Lieutenant C J Saunders (other) (46,45)
+    person:Lieutenant M Evans (other) (72,45)
+    place:Cardiff (62,55)
+    place:Beugnies (41,61)
+    place:Dourlers (26,65)
+    unit:2 Royal Munster Fusiliers (56,65)
+    unit:Royal Munster Fusiliers (78,65)
+    unit:2 Royal Munster Fusiliers (48,65)
+    unit:3 Infantry Brigade (27,76)
+Page 688 (type diary) http://wd3.herokuapp.com/pages/AWD0001ylz  ----------
+  17 Nov 1918 27
+    domestic:accomodation (47,28)
+    domestic:parades (72,28)
+    activity:resting (38,30)
+    place:Beugnies (8,30)
+Page 689 (type diary) http://wd3.herokuapp.com/pages/AWD0001yit  ----------
+  18 Nov 1918 27
+    activity:movement (35,29)
+    place:Beaumont (53,29)
+    place:Beugnies (7,29)
+    time:0200PM (23,33)
+    time:1125AM (84,37)
+    place:Hestrud (66,37)
+    place:Beaumont (84,41)
+Page 690 (type diary) http://wd3.herokuapp.com/pages/AWD0001ym6  ----------
+  19 Nov 1918 26
+    activity:movement (33,28)
+    place:Fontenelle (53,29)
+    place:Beaumont (7,30)
+    time:1245PM (70,33)
+    domestic:accomodation (55,33)
+Page 691 (type diary) http://wd3.herokuapp.com/pages/AWD0001yip  ----------
+  Hashtags: #accidentalfire 
+  20 Nov 1918 27
+    activity:training (47,28)
+    place:Fontenelle (8,29)
+    domestic:accomodation (82,32)
+    activity:other (53,37)
+Page 692 (type diary) http://wd3.herokuapp.com/pages/AWD0001yj5  ----------
+  21 Nov 1918 26
+    domestic:hygiene (71,28)
+    activity:training (30,29)
+    activity:training (39,29)
+    place:Fontenelle (7,30)
+Page 693 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjq  ----------
+  22 Nov 1918 27
+    activity:training (64,28)
+    place:Fontenelle (7,30)
+Page 694 (type diary) http://wd3.herokuapp.com/pages/AWD0001yis  ----------
+  Hashtags: #allliedrelations #welcome #liberation 
+  23 Nov 1918 28
+    activity:movement (27,28)
+    place:Florennes (57,29)
+    place:Fontenelle (6,30)
+    time:0200PM (62,33)
+Page 695 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynv  ----------
+  24 Nov 1918 26
+    activity:resting (36,29)
+    domestic:parades (60,29)
+    domestic:religion (50,30)
+    place:Florennes (7,30)
+Page 696 (type diary) http://wd3.herokuapp.com/pages/AWD0001yl9  ----------
+  25 Nov 1918 26
+    weather:rain (61,29)
+    place:Florennes (7,29)
+    place:Florennes (62,33)
+Page 697 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjn  ----------
+  26 Nov 1918 27
+    place:Florennes (8,28)
+    activity:training (48,30)
+Page 698 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynf  ----------
+  27 Nov 1918 26
+    activity:training (40,28)
+    place:Florennes (6,29)
+    weather:rain (35,32)
+    weather:rain (44,33)
+    person:Lieutenant J A Lake (joined) (62,33)
+Page 699 (type diary) http://wd3.herokuapp.com/pages/AWD0001ylw  ----------
+  28 Nov 1918 25
+    activity:training (39,28)
+    domestic:parades (63,29)
+    place:Florennes (7,29)
+    activity:quiet (32,38)
+Page 700 (type diary) http://wd3.herokuapp.com/pages/AWD0001ym1  ----------
+  29 Nov 1918 27
+    activity:training (44,28)
+    place:Florennes (7,30)
+Page 701 (type diary) http://wd3.herokuapp.com/pages/AWD0001yls  ----------
+  30 Nov 1918 26
+    activity:training (43,28)
+    place:Florennes (8,29)
+    strength:officer: 23; nco: 0; other: 583 (25,44)
+Page 702 (type orders) http://wd3.herokuapp.com/pages/AWD0001ym7  ----------
+  30 Nov 1918 0
+    reference:2nd Battn The Welch Reg. Order No.98 (39,10)
+    orders:move (47,13)
+    reference:maps (39,5)
+    reference:Maps Sheet 62B (38,6)
+    reference:Order No. 98 (59,9)
+    orders:move (38,9)
+Page 703 (type orders) http://wd3.herokuapp.com/pages/AWD0001yl0  ----------
+  30 Nov 1918 0
+    reference:Order No. 100 (49,13)
+    orders:move (40,16)
+    orders:move (47,18)
+    person:Captain B M Dunn (55,46)
+    person:Captain Bm Dunn (author) (54,46)
+    date:12 Nov 1918 (35,48)
+    reference:2nd Battn The Welch Reg. Order No.100 (39,9)
+Page 704 (type orders) http://wd3.herokuapp.com/pages/AWD0001ylx  ----------
+  30 Nov 1918 0
+    orders:move (42,11)
+    reference:Order No. 100 (55,11)
+    reference:2nd Battn The Welch Reg. Order No.100(cont) (45,11)
+    reference:Gloucester Regiment (41,25)
+    person:Captain Dunn (commander) (55,56)
+    person:Captain Dunn (author) (53,56)
+    date:12 Nov 1918 (37,59)
+Page 705 (type orders) http://wd3.herokuapp.com/pages/AWD0001ykx  ----------
+  30 Nov 1918 0
+    orders:move (45,11)
+    person:Captain Dunn (commander) (55,26)
+    reference:maps (39,4)
+    reference:VALENCIENNES 1/100000 (32,5)
+    person:Lieutenant M Evans (other) (57,53)
+    reference:Order No. 101 (55,7)
+    reference:2nd Battn The Welch Reg. Order No.101 (42,8)
+    orders:move (37,8)
+    person:Captain B M Dunn (55,84)
+    reference:Order No. 101 (51,88)
+Page 706 (type orders) http://wd3.herokuapp.com/pages/AWD0001yn5  ----------
+  30 Nov 1918 0
+    person:Second Lieutenant J A Jones (other) (55,20)
+    person:Sergeant Maxwell (other) (46,21)
+    person:Captain B M Dunn (commander) (54,31)
+    reference:maps 1/1000000 Valencienne namur (50,38)
+    reference: 1/100000 VALENCIENNES NAMUR (35,42)
+    reference:Order No. 102 (57,46)
+    reference:Order No. 102 (60,5)
+    orders:move (44,50)
+    person:Captain B M Dunn (other) (53,69)
+Page 707 (type orders) http://wd3.herokuapp.com/pages/AWD0001yld  ----------
+  30 Nov 1918 0
+    orders:move (48,15)
+    person:Captain B M Dunn (other) (54,46)
+    date:17 Nov 1918 (36,48)
+    orders:move (43,8)
+    reference:Order No. 103 (48,8)
+Page 708 (type orders) http://wd3.herokuapp.com/pages/AWD0001ykf  ----------
+  30 Nov 1918 0
+    reference:Order No. 103 (38,11)
+    reference:Order No. 103 (61,11)
+    person:Second Lieutenant J A Jones (other) (48,32)
+    person:Captain B M Dunn (other) (56,51)
+    date:17 Nov 1918 (38,53)
+Page 709 (type orders) http://wd3.herokuapp.com/pages/AWD0001yl6  ----------
+  30 Nov 1918 0
+    orders:move (41,12)
+    reference:1st Gloucester Regiment, 3rd Brigade (42,22)
+    reference:Order No. 104 (60,5)
+    person:Captain B M Dunn (author) (56,51)
+    date:18 Nov 1918 (38,53)
+Page 710 (type orders) http://wd3.herokuapp.com/pages/AWD0001ynm  ----------
+  30 Nov 1918 0
+    orders:other (29,10)
+    reference:Order No. 104 (74,10)
+    reference:Administrative Instructions to accompany Order No. 104 (66,10)
+    person:Second Lieutenant J A Jones (other) (63,56)
+    reference:Secret (22,7)
+    person:Captain B M Dunn (67,81)
+    date:18 Nov 1918 (30,86)
+Page 711 (type orders) http://wd3.herokuapp.com/pages/AWD0001yj8  ----------
+  Hashtags: #bicycles 
+  30 Nov 1918 0
+    reference:Order No. 105 (86,20)
+    person:Second Lieutenant J A Jones (other) (66,49)
+    person:Captain B M Dunn (commander) (76,91)
+Page 712 (type diary) http://wd3.herokuapp.com/pages/AWD0001yns  ----------
+  Hashtags: #alliedrelations #locals #leisure #chateau #concert 
+  1 Dec 1918 24
+    time:1015AM (39,28)
+    place:Ostemree (68,29)
+    place:Florennes (8,29)
+    activity:movement (26,29)
+    time:0200PM (70,33)
+    domestic:accomodation (69,36)
+    domestic:sport (59,45)
+    place:Serville (27,54)
+Page 713 (type diary) http://wd3.herokuapp.com/pages/AWD0001ylg  ----------
+  Hashtags: #roadscondition 
+  2 Dec 1918 24
+    activity:movement (41,29)
+    place:Sommierre (57,29)
+    place:Ostemree (7,29)
+Page 714 (type diary) http://wd3.herokuapp.com/pages/AWD0001yma  ----------
+  Hashtags: #meuse #rivercrossing 
+  3 Dec 1918 24
+    place:Sommierre (9,28)
+    place:Celles (44,28)
+    activity:movement (24,29)
+    time:1115AM (64,32)
+    place:Dinant (48,33)
+    time:0145PM (43,41)
+    place:Celles (26,41)
+Page 715 (type diary) http://wd3.herokuapp.com/pages/AWD0001yml  ----------
+  4 Dec 1918 23
+    weather:rain (41,28)
+    place:Celles (8,28)
+Page 716 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjg  ----------
+  Hashtags: #football #soccer #leisure 
+  5 Dec 1918 25
+    place:Celles (4,26)
+    activity:training (47,29)
+    place:Celles (8,29)
+    domestic:sport (47,33)
+    domestic:sport (68,33)
+    domestic:sport (42,37)
+Page 717 (type diary) http://wd3.herokuapp.com/pages/AWD0001yiy  ----------
+  Hashtags: #colours 
+  6 Dec 1918 24
+    place:Celles (7,29)
+    activity:training (42,29)
+    person:Captain L H T Walker (departed_sick) (37,32)
+    person:Captain Lht Walker (38,34)
+    person:Lieutenant J M Powell (returned_training) (32,37)
+Page 718 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynk  ----------
+  7 Dec 1918 23
+    place:Celles (6,28)
+    person:Lieutenant Williams (casualty_wounded) (44,30)
+    person:Second Lieutenant K Williams (departed_sick) (32,30)
+    domestic:parades (23,32)
+Page 719 (type diary) http://wd3.herokuapp.com/pages/AWD0001ykw  ----------
+  8 Dec 1918 23
+    activity:resting (35,27)
+    place:Celles (6,27)
+Page 720 (type diary) http://wd3.herokuapp.com/pages/AWD0001ylo  ----------
+  9 Dec 1918 22
+    activity:movement (37,27)
+    place:Chevetogne (54,27)
+    place:Celles (6,27)
+Page 721 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjc  ----------
+  10 Dec 1918 23
+    place:Heure (63,27)
+    place:Chevetogne (7,27)
+    activity:movement (24,27)
+    place:Maressee (68,31)
+    domestic:accomodation (52,31)
+    place:Heure (52,35)
+Page 722 (type diary) http://wd3.herokuapp.com/pages/AWD0001yj6  ----------
+  11 Dec 1918 23
+    place:Melreux (54,27)
+    activity:movement (36,27)
+    place:Heure (7,28)
+    domestic:accomodation (57,32)
+    time:1130AM (70,32)
+    place:Maressee (7,34)
+Page 723 (type diary) http://wd3.herokuapp.com/pages/AWD0001yix  ----------
+  12 Dec 1918 23
+    place:Melreux (39,27)
+    activity:resting (47,28)
+    place:Melreux (7,28)
+    weather:rain (29,32)
+Page 724 (type diary) http://wd3.herokuapp.com/pages/AWD0001yl7  ----------
+  13 Dec 1918 23
+    weather:rain (31,27)
+    person:Second Lieutenant W Y B Price (joined) (76,27)
+    place:Melreux (7,28)
+    person:Second Lieutenant B Sockett (joined) (37,33)
+Page 725 (type diary) http://wd3.herokuapp.com/pages/AWD0001yj1  ----------
+  14 Dec 1918 23
+    activity:movement (34,26)
+    place:Erezee (49,27)
+    place:Melreux (8,28)
+    domestic:accomodation (41,32)
+    time:1220PM (61,33)
+Page 726 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjt  ----------
+  Hashtags: #badaccomodations 
+  15 Dec 1918 24
+    activity:movement (34,28)
+    place:Odeigne (49,28)
+    place:Erezee (6,28)
+    domestic:accomodation (40,33)
+    person:Lieutenant P V Stallon (other) (42,38)
+    person:Lieutenant P V Stallon (departed_posted) (52,38)
+Page 727 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynh  ----------
+  16 Dec 1918 24
+    place:Regne (51,28)
+    place:Odeigne (7,28)
+    activity:movement (36,28)
+    domestic:accomodation (46,32)
+    weather:rain (31,32)
+    place:Odeigne (26,37)
+Page 728 (type diary) http://wd3.herokuapp.com/pages/AWD0001ylf  ----------
+  17 Dec 1918 23
+    domestic:accomodation (72,26)
+    place:Rogery (49,26)
+    activity:movement (34,27)
+    place:Regne (6,27)
+    time:1200PM (22,32)
+Page 729 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjh  ----------
+  18 Dec 1918 23
+    activity:movement (36,27)
+    place:Braunlauf (55,27)
+    place:Weisten (78,27)
+    place:Rogery (8,27)
+    place:Beho (28,37)
+    time:1009AM (41,37)
+    person:Lieutenant M Evans (other) (78,38)
+    person:Second Lieutenant E Wellesley-Douglas (other) (45,42)
+    domestic:accomodation (38,53)
+    time:1200PM (56,54)
+    weather:cold (24,65)
+    weather:rain (35,65)
+Page 730 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynw  ----------
+  19 Dec 1918 23
+    place:Manderfeld (57,27)
+    activity:movement (37,27)
+    place:Braunlauf (7,29)
+    place:Berterath (26,33)
+    domestic:accomodation (68,33)
+    place:Weisten (7,37)
+Page 731 (type diary) http://wd3.herokuapp.com/pages/AWD0001yk1  ----------
+  20 Dec 1918 26
+    activity:resting (61,27)
+    place:Manderfeld (7,27)
+    activity:resting (25,34)
+    place:Berterath (7,35)
+Page 732 (type diary) http://wd3.herokuapp.com/pages/AWD0001yj3  ----------
+  21 Dec 1918 24
+    activity:movement (33,26)
+    place:Manderfeld (7,26)
+    place:Dahlem (50,27)
+    time:1245PM (60,31)
+    domestic:accomodation (45,31)
+    place:Berterath (7,32)
+Page 733 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymq  ----------
+  22 Dec 1918 23
+    place:Dahlem (8,28)
+    time:0930AM (37,28)
+    activity:movement (25,28)
+    weather:fine (73,32)
+Page 734 (type diary) http://wd3.herokuapp.com/pages/AWD0001yn4  ----------
+  23 Dec 1918 25
+    activity:movement (23,26)
+    place:Blankenheimerdorf (7,26)
+    activity:movement (60,27)
+    place:Munstereifel (38,27)
+    weather:rain (31,31)
+    weather:rain (43,31)
+    domestic:accomodation (80,31)
+    time:0300PM (31,37)
+Page 735 (type diary) http://wd3.herokuapp.com/pages/AWD0001ykl  ----------
+  Hashtags: #xmas1918 #xmas #christmas #christmas1918 
+  25 Dec 1918 24
+    place:Flamersheim (7,26)
+    domestic:parades (24,49)
+Page 736 (type diary) http://wd3.herokuapp.com/pages/AWD0001yii  ----------
+  26 Dec 1918 25
+    place:Flamersheim (7,26)
+    activity:resting (36,27)
+Page 737 (type diary) http://wd3.herokuapp.com/pages/AWD0001ykq  ----------
+  Hashtags: #christmasdinner #concert #leisure 
+  27 Dec 1918 23
+    place:Flamersheim (7,27)
+    domestic:sport (38,32)
+Page 738 (type diary) http://wd3.herokuapp.com/pages/AWD0001yk3  ----------
+  28 Dec 1918 23
+    place:Flamersheim (8,26)
+    weather:rain (77,27)
+    activity:training (41,27)
+    person:Lieutenant L C Saint A Lewis (returned_hospital) (56,32)
+    activity:other (47,38)
+Page 739 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymc  ----------
+  Hashtags: #demobilisation 
+  29 Dec 1918 23
+    place:Flamersheim (8,30)
+Page 740 (type diary) http://wd3.herokuapp.com/pages/AWD0001yl8  ----------
+  Hashtags: #demobilisation 
+  30 Dec 1918 23
+    place:Flamersheim (7,28)
+    activity:training (37,28)
+Page 741 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynq  ----------
+  31 Dec 1918 24
+    person:Lieutenant J M Powell (departed_posted) (76,27)
+    activity:training (57,28)
+    place:Flamersheim (7,30)
+    activity:training (35,31)
+    person:Second Lieutenant T Gibbons (departed_sick) (76,33)
+    person:Second Lieutenant T Gibbons (departed_sick) (25,41)
+    person:Captain B M Dunn (commander) (58,57)
+Page 742 (type orders) http://wd3.herokuapp.com/pages/AWD0001ykc  ----------
+  31 Dec 1918 0
+    reference:NAMUR. 1/100000 (43,10)
+    mapRef:Namur (35,11)
+    reference:NAMUR 1/100000.  (33,11)
+    reference:Order No. 105 (57,15)
+    orders:move (44,17)
+    person:Captain N Dunn (commander) (56,46)
+    person:Captain B M Dunn (commander) (55,48)
+    reference:e Map NAMUR.  1/00000 (40,5)
+Page 743 (type other) http://wd3.herokuapp.com/pages/AWD0001yng  ----------
+  Hashtags: #alliedrelations 
+Page 744 (type other) http://wd3.herokuapp.com/pages/AWD0001ykd  ----------
+Page 745 (type orders) http://wd3.herokuapp.com/pages/AWD0001yka  ----------
+  Hashtags: #typo 
+  31 Dec 1918 0
+    reference:Order No. 106 (66,15)
+    orders:move (53,22)
+    reference:ORDER No. 106 (42,40)
+    reference:4.J.01.87 (65,45)
+    reference:4.H.41.96 (78,57)
+    person:Captain B M Dunn (author) (62,62)
+    date:30 Nov 1918 (27,66)
+    reference:NAMOR 1/100000 (46,7)
+Page 746 (type orders) http://wd3.herokuapp.com/pages/AWD0001yk0  ----------
+  31 Dec 1918 0
+    person:Second Lieutenant J A Jones (other) (63,15)
+    person:Captain B M Dunn (commander) (64,65)
+    date:30 Nov 1918 (27,66)
+    reference:Administrative instructions to accompany ORDER No. 106 (52,7)
+    reference:Order No. 106 (69,7)
+Page 747 (type orders) http://wd3.herokuapp.com/pages/AWD0001ykg  ----------
+  31 Dec 1918 0
+    reference:Order No. 107 (63,22)
+    orders:move (49,29)
+    person:Captain B M Dunn (author) (57,72)
+    date:1 Dec 1918 (22,74)
+Page 748 (type orders) http://wd3.herokuapp.com/pages/AWD0001ylc  ----------
+  Hashtags: #bicycles 
+  31 Dec 1918 0
+    reference:Order No. 107 (78,19)
+    reference:Admin Instructions with order No 107 (31,20)
+    person:Second Lieutenant J A Jones (other) (68,29)
+    person:Captain B M Dunn (author) (64,75)
+Page 749 (type orders) http://wd3.herokuapp.com/pages/AWD0001yke  ----------
+  31 Dec 1918 0
+    reference:Order No. 108 (62,17)
+    orders:move (37,25)
+    reference:Order No. 108 (52,28)
+    reference:4.L.09.93 (77,48)
+    person:Captain B M Dunn (commander) (60,70)
+Page 750 (type orders) http://wd3.herokuapp.com/pages/AWD0001yn9  ----------
+  Hashtags: #bicycles 
+  31 Dec 1918 0
+    reference:Order No. 108 (71,12)
+    person:Second Lieutenant J A Jones (other) (58,19)
+    person:Captain B M Dunn (61,51)
+Page 751 (type orders) http://wd3.herokuapp.com/pages/AWD0001yk6  ----------
+  31 Dec 1918 0
+    orders:move (51,10)
+    reference:Reference Map MARCHE 1/100000 (37,10)
+    reference:Marche map 1/100000 (36,10)
+    orders:move (47,16)
+    person:Captain B M Dunn (commander) (55,42)
+Page 752 (type orders) http://wd3.herokuapp.com/pages/AWD0001ylv  ----------
+  Hashtags: #bicycles 
+  31 Dec 1918 0
+    person:Second Lieutenant J A Jones (other) (64,16)
+    person:Captain B M Dunn (65,50)
+    reference:Order No. 109 (69,6)
+Page 753 (type orders) http://wd3.herokuapp.com/pages/AWD0001ymv  ----------
+  31 Dec 1918 0
+    reference:Order No. 110 (66,11)
+    orders:move (50,17)
+    person:Captain B M Dunn (commander) (67,65)
+    date:9 Dec 1918 (22,68)
+Page 754 (type orders) http://wd3.herokuapp.com/pages/AWD0001yiz  ----------
+  Hashtags: #bicycles 
+  31 Dec 1918 0
+    reference:Order No. 110 (72,16)
+    reference:Admin Instructions with Order No 110 (57,16)
+    person:Second Lieutenant J A Jones (other) (53,26)
+    person:Captain B M Dunn (69,65)
+Page 755 (type orders) http://wd3.herokuapp.com/pages/AWD0001yn1  ----------
+  Hashtags: #bicycles 
+  31 Dec 1918 0
+    orders:move (54,12)
+    person:Captain B M Dunn (author) (57,40)
+    reference:Order No 111 (57,51)
+    person:Second Lieutenant J A Jones (other) (56,55)
+    reference:Reference Map MARCHE 1/100000 (39,6)
+    reference:Order No. 111 (57,8)
+    person:Captain B M Dunn (56,85)
+Page 756 (type orders) http://wd3.herokuapp.com/pages/AWD0001ylr  ----------
+  Hashtags: #bicycles 
+  31 Dec 1918 0
+    orders:move (50,10)
+    reference:Order No. 112 (56,11)
+    person:Captain B M Dunn (author) (58,39)
+    person:Second Lieutenant J A Jones (other) (54,59)
+    person:Captain B M Dunn (56,78)
+Page 757 (type orders) http://wd3.herokuapp.com/pages/AWD0001ylu  ----------
+  31 Dec 1918 0
+    person:Captain B M Dunn (author) (56,40)
+    person:Second Lieutenant J A Jones (other) (54,58)
+    person:Captain B M Dunn (56,76)
+    reference:Order No. 113 (58,9)
+Page 758 (type orders) http://wd3.herokuapp.com/pages/AWD0001yje  ----------
+  31 Dec 1918 0
+    orders:move (52,12)
+    person:Captain B M Dunn (58,41)
+    person:Second Lieutenant J A Jones (other) (54,57)
+    person:Captain B M Dunn (58,74)
+    orders:move (50,8)
+    reference:Order No. 114 (58,9)
+Page 759 (type orders) http://wd3.herokuapp.com/pages/AWD0001yo1  ----------
+  31 Dec 1918 0
+    orders:move (53,11)
+    person:Captain B M Dunn (commander) (58,40)
+    person:Second Lieutenant J A Jones (other) (54,52)
+    reference:Reference Map MARCHE 1/100000 (36,6)
+    orders:move (52,6)
+    person:Captain B M Dunn (commander) (58,70)
+Page 760 (type orders) http://wd3.herokuapp.com/pages/AWD0001yno  ----------
+  31 Dec 1918 0
+    reference:Order No. 116 (60,3)
+    reference:Germany Sheet 1 M. 1/100000 (38,3)
+    person:Captain B M Dunn (57,41)
+    date:17 Dec 1918 (36,42)
+    person:Second Lieutenant J A Jones (other) (54,51)
+    person:Captain B M Dunn (56,75)
+    date:17 Dec 1918 (36,77)
+    orders:move (51,9)
+Page 761 (type orders) http://wd3.herokuapp.com/pages/AWD0001yme  ----------
+  31 Dec 1918 0
+    reference:Order No. 118 (58,10)
+    orders:move (54,13)
+    person:Captain B M Dunn (57,37)
+    date:20 Dec 1918 (37,38)
+    reference:Germany Sheet 1. M. 1/100000 (40,5)
+    person:Second Lieutenant J A Jones (other) (57,54)
+    person:Captain B M Dunn (57,75)
+    date:20 Dec 1918 (36,76)
+Page 762 (type orders) http://wd3.herokuapp.com/pages/AWD0001yko  ----------
+  31 Dec 1918 0
+    orders:move (53,13)
+    person:Captain B M Dunn (58,43)
+    date:21 Dec 1918 (35,45)
+    person:Second Lieutenant J A Jones (other) (59,61)
+    reference:Germany 1. M. 1/100000 (32,7)
+    reference:Order No. 119 (60,8)
+    person:Captain B M Dunn (58,80)
+    date:21 Dec 1918 (35,81)
+Page 763 (type orders) http://wd3.herokuapp.com/pages/AWD0001yir  ----------
+  31 Dec 1918 0
+    reference:Order No. 120 (57,2)
+    reference:120 (58,3)
+    person:Captain B M Dunn (55,48)
+    date:22 Dec 1918 (37,49)
+    reference:Germany 1. L. 1/100000 (33,5)
+    person:Second Lieutenant J A Jones (other) (53,69)
+    reference:1st Northamptonshire Regiment (51,73)
+    person:Captain B M Dunn (55,84)
+    date:22 Dec 1918 (38,88)
+    orders:move (50,9)
+Page 764 (type diary) http://wd3.herokuapp.com/pages/AWD0001yja  ----------
+  24 Dec 1918 21
+    place:Flamersheim (65,25)
+    place:Munstereifel (9,25)
+    activity:movement (43,26)
+    place:Bonn (43,30)
+    domestic:accomodation (76,36)
+Page 765 (type orders) http://wd3.herokuapp.com/pages/AWD0001ync  ----------
+  24 Dec 1918 0
+    reference:Order No. 121 (56,2)
+    person:Captain B M Dunn (commander) (53,40)
+    date:23 Dec 1918 (36,42)
+    orders:move (55,5)
+    person:Second Lieutenant J A Jones (other) (53,53)
+    orders:move (35,6)
+    person:Captain B M Dunn (55,75)
+    date:23 Dec 1918 (38,77)
+Page 766 (type diary) http://wd3.herokuapp.com/pages/AWD0001yk7  ----------
+  Hashtags: #demobilisation 
+  1 Jan 1919 25
+    activity:training (38,27)
+    place:Flamersheim (9,28)
+    person:Captain H V E Jones (departed_leave) (69,32)
+    person:Lieutenant A B L Campion (returned_posted) (41,50)
+    person:Lieutenant G S Sutton (returned_posted) (64,50)
+    person:Lieutenant A B L Campion (returned_posted) (23,50)
+Page 767 (type diary) http://wd3.herokuapp.com/pages/AWD0001yig  ----------
+  Hashtags: #demobilisation 
+  2 Jan 1919 22
+    activity:other (44,28)
+    place:Flamersheim (8,29)
+Page 768 (type diary) http://wd3.herokuapp.com/pages/AWD0001ykb  ----------
+  Hashtags: #demobilisation 
+  3 Jan 1919 22
+    place:Flamersheim (6,26)
+    activity:training (60,27)
+    activity:other (52,33)
+Page 769 (type diary) http://wd3.herokuapp.com/pages/AWD0001yky  ----------
+  Hashtags: #demobilization 
+  4 Jan 1919 23
+    activity:training (26,27)
+    place:Flamersheim (7,27)
+    activity:training (36,28)
+    activity:quiet (54,32)
+Page 770 (type diary) http://wd3.herokuapp.com/pages/AWD0001yn3  ----------
+  Hashtags: #demobilization 
+  5 Jan 1919 22
+    domestic:religion (53,27)
+    activity:resting (31,27)
+    place:Flamersheim (7,28)
+    activity:other (49,43)
+Page 771 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjl  ----------
+  Hashtags: #demobilization 
+  6 Jan 1919 22
+    activity:training (27,27)
+    place:Flamersheim (7,30)
+    activity:other (40,33)
+Page 772 (type diary) http://wd3.herokuapp.com/pages/AWD0001yk9  ----------
+  Hashtags: #demobilization 
+  7 Jan 1919 23
+    activity:training (34,27)
+    place:Flamersheim (7,28)
+    activity:other (51,29)
+Page 773 (type diary) http://wd3.herokuapp.com/pages/AWD0001yk4  ----------
+  8 Jan 1919 22
+    place:Flamersheim (6,26)
+    activity:training (28,27)
+Page 774 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynz  ----------
+  Hashtags: #rugby #leisure #sport 
+  9 Jan 1919 22
+    activity:training (34,27)
+    place:Flamersheim (7,27)
+    domestic:sport (25,33)
+Page 775 (type diary) http://wd3.herokuapp.com/pages/AWD0001yj9  ----------
+  10 Jan 1919 22
+    activity:training (34,27)
+    activity:training (46,27)
+    place:Flamersheim (8,27)
+Page 776 (type diary) http://wd3.herokuapp.com/pages/AWD0001ym0  ----------
+  11 Jan 1919 22
+    person:Captain A R G Peck (joined) (78,27)
+    person:Captain A R G Peck (returned_leave) (63,27)
+    domestic:parades (37,28)
+    place:Flamersheim (7,28)
+Page 777 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymx  ----------
+  Hashtags: #demobilization 
+  12 Jan 1919 22
+    domestic:religion (59,27)
+    place:Flamersheim (7,27)
+    activity:resting (28,27)
+    person:Lieutenant H J Barclay (resigned) (21,31)
+    person:Lieutenant H J Barclay (resigned) (37,32)
+Page 778 (type diary) http://wd3.herokuapp.com/pages/AWD0001ykr  ----------
+  13 Jan 1919 22
+    place:Flamersheim (7,27)
+    activity:training (31,27)
+    activity:training (36,27)
+Page 779 (type diary) http://wd3.herokuapp.com/pages/AWD0001yj0  ----------
+  Hashtags: #leisure #lecture 
+  14 Jan 1919 22
+    place:Flamersheim (7,27)
+    activity:training (25,27)
+    person:Lieutenant General W Braithwaite (commander) (25,32)
+    person:Lieutenant General W Braithwaite (other) (49,32)
+    domestic:sport (58,35)
+    domestic:sport (73,35)
+    domestic:inspections (46,36)
+    person:Chaplain J Gay (other) (72,40)
+Page 780 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjr  ----------
+  15 Jan 1919 21
+    place:Flamersheim (8,27)
+    activity:other (37,27)
+    activity:training (61,27)
+    activity:training (59,34)
+Page 781 (type diary) http://wd3.herokuapp.com/pages/AWD0001ym3  ----------
+  16 Jan 1919 22
+    place:Flamersheim (7,27)
+    activity:training (44,27)
+Page 782 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynp  ----------
+  17 Jan 1919 22
+    activity:training (36,27)
+    place:Flamersheim (8,27)
+    unit:3 Infantry Brigade (70,28)
+Page 783 (type diary) http://wd3.herokuapp.com/pages/AWD0001yk2  ----------
+  Hashtags: #rugby #leisure 
+  17 Jan 1919 0
+  18 Jan 1919 22
+    activity:training (24,27)
+    activity:other (39,27)
+    place:Flamersheim (7,28)
+    domestic:sport (74,31)
+    unit:1 Gloucester Regiment (50,32)
+    unit:1 Gloucester Regiment. (42,32)
+Page 784 (type diary) http://wd3.herokuapp.com/pages/AWD0001ykp  ----------
+  19 Jan 1919 22
+    activity:resting (31,27)
+    place:Flamersheim (8,27)
+    person:Second Lieutenant E D Williams (returned_leave) (47,31)
+    person:Second Lieutenant E D Williams (joined) (62,32)
+Page 785 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjv  ----------
+  20 Jan 1919 21
+    activity:training (24,27)
+    activity:other (36,27)
+    place:Flamersheim (7,28)
+    activity:quiet (66,28)
+Page 786 (type diary) http://wd3.herokuapp.com/pages/AWD0001ym4  ----------
+  Hashtags: #demobilization 
+  21 Jan 1919 22
+    activity:training (25,27)
+    activity:other (42,27)
+    place:Flamersheim (7,27)
+Page 787 (type diary) http://wd3.herokuapp.com/pages/AWD0001yn6  ----------
+  22 Jan 1919 22
+    place:Flamersheim (8,27)
+    weather:cold (61,27)
+    activity:training (24,27)
+    activity:other (39,27)
+    activity:quiet (35,32)
+Page 788 (type diary) http://wd3.herokuapp.com/pages/AWD0001ym2  ----------
+  Hashtags: #alliedrelations #leisure #lecture 
+  23 Jan 1919 22
+    person:Lieutenant Somers (other) (63,28)
+    activity:training (35,28)
+    place:Flamersheim (6,29)
+Page 789 (type diary) http://wd3.herokuapp.com/pages/AWD0001yli  ----------
+  24 Jan 1919 22
+    activity:training (25,27)
+    place:Flamersheim (8,27)
+Page 790 (type diary) http://wd3.herokuapp.com/pages/AWD0001yms  ----------
+  25 Jan 1919 22
+    activity:training (25,27)
+    activity:other (48,27)
+    place:Flamersheim (7,28)
+    domestic:sport (57,30)
+Page 791 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjy  ----------
+  26 Jan 1919 22
+    activity:resting (31,26)
+    domestic:parades (70,27)
+    place:Flamersheim (7,27)
+    person:Lieutenant L G Bishopp (returned_leave) (60,32)
+Page 792 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymi  ----------
+  27 Jan 1919 22
+    activity:training (36,27)
+    activity:other (61,27)
+    place:Flamersheim (7,27)
+Page 793 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynl  ----------
+  Hashtags: #leisure #lecture 
+  28 Jan 1919 21
+    place:Flamersheim (7,27)
+    activity:training (56,28)
+Page 794 (type diary) http://wd3.herokuapp.com/pages/AWD0001yin  ----------
+  Hashtags: #football #leisure #soccer 
+  29 Jan 1919 21
+    person:Second Lieutenant L G Bishopp (resigned) (70,27)
+    activity:training (57,28)
+    place:Flamersheim (7,28)
+    person:Second Lieutenant E D Williams (resigned) (30,31)
+    domestic:sport (34,35)
+Page 795 (type diary) http://wd3.herokuapp.com/pages/AWD0001yn8  ----------
+  30 Jan 1919 22
+    activity:training (31,27)
+    place:Flamersheim (8,27)
+Page 796 (type diary) http://wd3.herokuapp.com/pages/AWD0001yla  ----------
+  31 Jan 1919 22
+    domestic:parades (23,26)
+    place:Flamersheim (9,27)
+    domestic:parades (36,27)
+    person:Lieutenant W C Reynolds (departed_training) (68,27)
+    activity:quiet (28,35)
+    strength:officer: 24; nco: 0; other: 494 (24,47)
+    strength:officer: 24; nco: 0; other: 494 (44,50)
+    strength:officer: 24; nco: 0; other: 494 (62,53)
+    person:Captain B M Dunn (author) (69,75)
+Page 797 (type diary) http://wd3.herokuapp.com/pages/AWD0001yln  ----------
+  Hashtags: #football #soccer #leisure 
+  1 Feb 1919 22
+    place:Flamersheim (8,28)
+    unit:I Gloucester Regiment (62,30)
+    domestic:sport (42,32)
+    unit:1 Gloucester (78,32)
+    domestic:sport (53,36)
+    person:Second Lieutenant J A Roberts (departed_leave) (53,39)
+    person:Second Lieutenant J A Roberts (departed_leave) (66,40)
+Page 798 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymk  ----------
+  2 Feb 1919 22
+    domestic:religion (39,27)
+    place:Flamersheim (7,29)
+    activity:resting (70,32)
+Page 799 (type diary) http://wd3.herokuapp.com/pages/AWD0001yik  ----------
+  3 Feb 1919 22
+    place:Flamersheim (7,28)
+    activity:training (58,28)
+Page 800 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjw  ----------
+  Hashtags: #football #leisure #soccer 
+  4 Feb 1919 22
+    domestic:sport (59,26)
+    activity:training (45,27)
+    unit:1 South Wales Borderers (73,27)
+    place:Flamersheim (8,28)
+    domestic:sport (73,32)
+Page 801 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjx  ----------
+  5 Feb 1919 22
+    activity:training (34,27)
+    place:Flamersheim (7,27)
+Page 802 (type diary) http://wd3.herokuapp.com/pages/AWD0001yio  ----------
+  6 Feb 1919 21
+    activity:training (30,27)
+    place:Flamersheim (7,27)
+    weather:cold (43,27)
+    person:Lieutenant T L Ebsworth (resigned) (45,31)
+    person:Lieutenant T L Ebsworth (resigned) (59,32)
+Page 803 (type diary) http://wd3.herokuapp.com/pages/AWD0001ylb  ----------
+  7 Feb 1919 22
+    activity:training (37,27)
+    place:Flamersheim (7,27)
+Page 804 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjp  ----------
+  8 Feb 1919 21
+    person:Lieutenant L H T Walker (returned_hospital) (59,27)
+    place:Flamersheim (8,27)
+    activity:training (40,27)
+    person:Lieutenant L H T Walker (returned_hospital) (69,28)
+Page 805 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymt  ----------
+  9 Feb 1919 22
+    domestic:religion (37,27)
+    domestic:parades (43,27)
+    place:Flamersheim (8,27)
+Page 806 (type diary) http://wd3.herokuapp.com/pages/AWD0001ym8  ----------
+  10 Feb 1919 23
+    person:Lieutenant K Williams (returned_posted) (69,28)
+    person:Lieutenant K Williams (joined) (57,28)
+    place:Flamersheim (8,29)
+Page 807 (type diary) http://wd3.herokuapp.com/pages/AWD0001yl4  ----------
+  Hashtags: #crosscountryrun #leisure #sport 
+  11 Feb 1919 22
+    place:Flamersheim (9,27)
+    activity:training (41,27)
+    domestic:sport (61,31)
+    domestic:sport (33,36)
+Page 808 (type diary) http://wd3.herokuapp.com/pages/AWD0001yn0  ----------
+  12 Feb 1919 22
+    activity:training (37,27)
+    place:Flamersheim (7,28)
+Page 809 (type diary) http://wd3.herokuapp.com/pages/AWD0001ykm  ----------
+  Hashtags: #tugofwar #sport #tug #leisure 
+  13 Feb 1919 22
+    place:Flamersheim (8,27)
+    activity:training (38,27)
+    domestic:sport (35,32)
+    person:Captain C J Saunders (returned_leave) (56,36)
+    person:Captain C J Saunders (returned_leave) (43,36)
+Page 810 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynd  ----------
+  14 Feb 1919 21
+    place:Flamersheim (8,27)
+    person:Major C P Clayton (departed_posted) (76,27)
+    domestic:parades (48,27)
+    person:Major C P Clayton (departed_posted) (28,32)
+    person:Lieutenant Powell (departed_posted) (43,35)
+Page 811 (type diary) http://wd3.herokuapp.com/pages/AWD0001yiq  ----------
+  Hashtags: #tug #leisure 
+  15 Feb 1919 30
+    place:Flamersheim (8,27)
+    domestic:inspections (58,28)
+    domestic:sport (31,35)
+    unit:1 South Wales Borderers (27,39)
+    person:Lieutenant G Davies (returned_posted) (85,39)
+    person:Lieutenant G Davies (returned_posted) (72,39)
+    unit:1 South Wales Borderers (50,40)
+    unit:3 L/T.M. B. (66,45)
+Page 812 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymz  ----------
+  16 Feb 1919 22
+    domestic:religion (56,27)
+    place:Flamersheim (8,28)
+    domestic:religion (82,30)
+    person:other Bishop Fordsham (other) (54,32)
+Page 813 (type diary) http://wd3.herokuapp.com/pages/AWD0001yj4  ----------
+  Hashtags: #soccer #football #crosscountry #racing 
+  16 Feb 1919 0
+  17 Feb 1919 21
+    activity:training (50,27)
+    place:Flamersheim (8,27)
+    domestic:sport (77,27)
+    person:Corporal Christmas (other) (69,31)
+    domestic:sport (39,31)
+    domestic:sport (64,39)
+    domestic:sport (40,39)
+    domestic:sport (52,42)
+Page 814 (type diary) http://wd3.herokuapp.com/pages/AWD0001ylm  ----------
+  Hashtags: #boxing #leisure 
+  18 Feb 1919 30
+    activity:training (53,27)
+    place:Flamersheim (8,27)
+    domestic:sport (37,36)
+Page 815 (type diary) http://wd3.herokuapp.com/pages/AWD0001yil  ----------
+  19 Feb 1919 23
+    activity:training (54,28)
+    place:Flamersheim (8,28)
+Page 816 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymh  ----------
+  20 Feb 1919 23
+    place:Flamersheim (8,27)
+    activity:training (31,27)
+    activity:training (59,27)
+    person:other Stuart (other) (27,32)
+    person:Lieutenant A B L Campion (returned_leave) (33,35)
+    person:Lieutenant A B L Campion (returned_leave) (48,36)
+    person:Second Lieutenant J A Roberts (returned_leave) (76,36)
+    person:Second Lieutenant J A Roberts (returned_leave) (86,36)
+Page 817 (type diary) http://wd3.herokuapp.com/pages/AWD0001yne  ----------
+  Hashtags: #rugby #leisure #sport 
+  21 Feb 1919 22
+    activity:training (40,27)
+    place:Flamersheim (7,28)
+    unit:1 South Wales Borderers (69,31)
+    domestic:sport (56,32)
+    unit:1 S. W.B. (72,36)
+Page 818 (type diary) http://wd3.herokuapp.com/pages/AWD0001yj7  ----------
+  22 Feb 1919 23
+    activity:training (53,27)
+    place:Flamersheim (8,28)
+Page 819 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymn  ----------
+  Hashtags: #football #soccer #leisure 
+  23 Feb 1919 24
+    activity:resting (28,27)
+    domestic:religion (50,28)
+    domestic:parades (57,28)
+    place:Flamersheim (8,28)
+    domestic:sport (49,32)
+    unit:Battery of Heavy Artillery (88,32)
+    domestic:sport (27,37)
+Page 820 (type diary) http://wd3.herokuapp.com/pages/AWD0001yl2  ----------
+  Hashtags: #lecture 
+  24 Feb 1919 32
+    place:Flamersheim (8,28)
+    activity:training (37,28)
+    domestic:other (57,29)
+Page 821 (type diary) http://wd3.herokuapp.com/pages/AWD0001ylj  ----------
+  Hashtags: #demobilization 
+  25 Feb 1919 22
+    place:Flamersheim (7,27)
+    activity:training (32,28)
+    person:Captain A Roberts (departed_leave) (38,31)
+    person:Captain A Roberts (departed_leave) (52,32)
+    person:Lieutenant J A Jones (returned_leave) (25,36)
+Page 822 (type diary) http://wd3.herokuapp.com/pages/AWD0001yim  ----------
+  26 Feb 1919 22
+    activity:training (52,27)
+    place:Flamersheim (7,28)
+Page 823 (type diary) http://wd3.herokuapp.com/pages/AWD0001ykk  ----------
+  Hashtags: #boxing #leisure #demobilization 
+  27 Feb 1919 28
+    place:Flamersheim (8,28)
+    domestic:parades (32,28)
+    domestic:sport (71,28)
+    person:Drummer Cotton (other) (46,31)
+    place:Bonn (39,32)
+    domestic:sport (29,32)
+    person:Drummer Cotton (other) (59,32)
+    unit:1 Division (71,40)
+    place:Bonn (28,44)
+    unit:1 Division (72,44)
+Page 824 (type diary) http://wd3.herokuapp.com/pages/AWD0001yiw  ----------
+  Hashtags: #rugby #leisure 
+  28 Feb 1919 22
+    unit:1 S.W.B. (66,27)
+    unit:1 S.W.B. (77,27)
+    place:Flamersheim (6,27)
+    weather:rain (58,27)
+    unit:I South Wales Borderers (72,28)
+    strength:officer: 24; nco: 0; other: 475 (28,44)
+    strength:officer: 24; nco: 0; other: 475 (59,52)
+    person:Captain B M Dunn (author) (64,76)
+Page 825 (type orders) http://wd3.herokuapp.com/pages/AWD0001ymp  ----------
+  28 Feb 1919 0
+    reference:Map GERMANY 1/100000 (36,11)
+    reference:Map Germany 1/100.000 (35,17)
+    person:Captain A R G Peck (commander) (39,28)
+    person:Captain B M Dunn (author) (54,47)
+    date:25 Feb 1919 (36,51)
+    orders:other (44,8)
+Page 826 (type diary) http://wd3.herokuapp.com/pages/AWD0001yni  ----------
+  Hashtags: #sports #stdavidsday #leisure 
+  1 Mar 1919 31
+    place:Flamersheim (7,31)
+    domestic:sport (39,32)
+Page 827 (type diary) http://wd3.herokuapp.com/pages/AWD0001ylt  ----------
+  2 Mar 1919 23
+    place:Flamersheim (7,27)
+    domestic:religion (51,27)
+    person:Captain C J Saunders (departed_training) (32,31)
+    person:Lieutenant S A Stanford (departed_training) (66,31)
+    person:Captain C J Saunders (departed_training) (48,32)
+    person:Lieutenant S A Stanford (departed_training) (81,32)
+    place:Cologne (69,36)
+Page 828 (type diary) http://wd3.herokuapp.com/pages/AWD0001ylk  ----------
+  3 Mar 1919 23
+    place:Flamersheim (8,28)
+    activity:training (29,28)
+    activity:training (44,28)
+    unit:13 Welch (41,32)
+    unit:13 & 14 Welch 38 (Welch) Division (87,32)
+Page 829 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymb  ----------
+  4 Mar 1919 22
+    place:Flamersheim (7,27)
+    activity:training (43,27)
+Page 830 (type diary) http://wd3.herokuapp.com/pages/AWD0001yk5  ----------
+  5 Mar 1919 23
+    person:Captain A R G Peck (departed_leave) (51,27)
+    activity:training (39,28)
+    person:Captain A R G Peck (departed_leave) (68,28)
+    place:Flamersheim (8,28)
+Page 831 (type diary) http://wd3.herokuapp.com/pages/AWD0001ykz  ----------
+  Hashtags: #demobilization 
+  6 Mar 1919 25
+    place:Flamersheim (8,28)
+    activity:training (57,28)
+Page 832 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjz  ----------
+  7 Mar 1919 21
+    place:Flamersheim (8,27)
+    domestic:parades (36,27)
+    domestic:parades (43,27)
+    person:Brigadier General G Saint Aubyn (other) (38,32)
+    unit:3 inftantry Brigade (81,32)
+    domestic:inspections (37,36)
+Page 833 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymd  ----------
+  Hashtags: #demobilization 
+  8 Mar 1919 21
+    place:Flamersheim (8,27)
+    person:Major General E P Strickland (commander) (77,27)
+    domestic:inspections (46,27)
+    unit:1 Division (80,32)
+    person:Major General E P Strickland (other) (34,32)
+Page 834 (type diary) http://wd3.herokuapp.com/pages/AWD0001ym5  ----------
+  9 Mar 1919 22
+    place:Flamersheim (7,28)
+    domestic:religion (52,28)
+Page 835 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjo  ----------
+  Hashtags: #rugby #leisure 
+  10 Mar 1919 23
+    activity:training (51,27)
+    place:Flamersheim (6,27)
+    unit:1 Gloucesters (35,32)
+    unit:1 Gloucesters (43,32)
+    place:Flamersheim (8,32)
+Page 836 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymj  ----------
+  Hashtags: #demobilization 
+  11 Mar 1919 23
+    place:Flamersheim (8,28)
+    activity:training (46,28)
+Page 837 (type diary) http://wd3.herokuapp.com/pages/AWD0001ylh  ----------
+  12 Mar 1919 23
+    place:Flamersheim (8,27)
+    activity:training (57,27)
+Page 838 (type diary) http://wd3.herokuapp.com/pages/AWD0001ykt  ----------
+  13 Mar 1919 22
+    place:Flamersheim (7,27)
+    person:Lieutenant I T Williams (returned_leave) (73,28)
+    person:Second Lieutenant J S Romney (departed_training) (66,32)
+    person:Lieutenant Williams (returned_leave) (27,32)
+    place:Cologne (64,36)
+Page 839 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynt  ----------
+  14 Mar 1919 22
+    activity:training (53,28)
+    place:Flamersheim (9,32)
+    activity:quiet (34,32)
+Page 840 (type diary) http://wd3.herokuapp.com/pages/AWD0001ylp  ----------
+  15 Mar 1919 22
+    person:Second Lieutenant J Ajax (returned_leave) (62,27)
+    activity:training (31,28)
+    place:Flamersheim (7,28)
+Page 841 (type diary) http://wd3.herokuapp.com/pages/AWD0001yki  ----------
+  Hashtags: #demobilization 
+  16 Mar 1919 22
+    domestic:parades (49,27)
+    domestic:religion (39,28)
+    person:Lieutenant C J Saunders (returned_training) (82,31)
+    place:Flamersheim (8,32)
+    person:Lieutenant C J Saunders (returned_training) (66,32)
+    person:Lieutenant S A Stanford (returned_training) (30,36)
+    person:Lieutenant S A Stanford (returned_training) (39,36)
+    person:Lieutenant T W Thomas (departed_leave) (34,40)
+    person:Lieutenant T W Thomas (departed_leave) (46,40)
+Page 842 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjd  ----------
+  Hashtags: #lecture 
+  17 Mar 1919 23
+    activity:training (28,27)
+    place:Flamersheim (7,28)
+    activity:training (39,28)
+    unit:51 Bn. Welsh Regiment. (22,31)
+    unit:51 Bn Welch Regiment (53,33)
+    place:Munstereifel (27,36)
+    person:Chaplain Hunter Boyd (other) (31,40)
+Page 843 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynb  ----------
+  Hashtags: #rugby #leisure 
+  18 Mar 1919 23
+    person:Captain A Roberts (returned_leave) (72,27)
+    activity:training (33,27)
+    place:Flamersheim (9,33)
+    domestic:sport (42,36)
+    unit:52 Welsh (25,36)
+Page 844 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjf  ----------
+  19 Mar 1919 23
+    place:Flamersheim (7,27)
+    place:Flamersheim (8,31)
+    unit:16 Welch (76,32)
+    person:Captain W B Morgan (departed_posted) (64,36)
+    person:Captain W B Morgan (departed_posted) (33,36)
+    person:Lieutenant J A Lake (departed_posted) (35,39)
+    person:Lieutenant J A Lake (departed_posted) (49,39)
+    person:Lieutenant Lewis (departed_posted) (61,44)
+    person:Lieutenant L C Saint A Lewis (departed_posted) (35,44)
+    person:Lieutenant M Evans (departed_posted) (35,48)
+    person:Lieutenant M Evans (departed_posted) (52,48)
+    person:Lieutenant K Williams (departed_posted) (35,52)
+    person:Lieutenant K Williams (departed_posted) (55,52)
+    person:Second Lieutenant W A B Price (departed_posted) (36,56)
+    person:Second Lieutenant W A B Price (departed_posted) (49,56)
+    person:Second Lieutenant C J Read (departed_posted) (34,60)
+    person:Second Lieutenant C J Read (departed_posted) (54,60)
+    person:Second Lieutenant W H Knipe (departed_posted) (35,64)
+    person:Second Lieutenant W H Knipe (departed_posted) (49,64)
+    person:Second Lieutenant W J Rogers (departed_posted) (34,68)
+    person:Second Lieutenant W J Rogers (departed_posted) (55,68)
+    person:Brigadier General T A Cubitt (commander) (49,72)
+    person:Brigadier General T A Cubitt (commander) (26,73)
+Page 845 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjb  ----------
+  20 Mar 1919 23
+    weather:cold (80,27)
+    weather:cold (60,27)
+    activity:training (39,28)
+    activity:training (50,28)
+    place:Flamersheim (6,28)
+    activity:quiet (26,32)
+Page 846 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynx  ----------
+  Hashtags: #football #leisure #alliedrelations 
+  20 Mar 1919 0
+  21 Mar 1919 22
+    activity:training (29,27)
+    place:Flamersheim (5,27)
+    place:Bonn (70,27)
+    place:Flamersheim (8,28)
+    domestic:sport (38,31)
+    domestic:sport (44,31)
+    unit:9 & 10 Corps (72,32)
+    person:Lieutenant W C Reynolds (returned_training) (23,36)
+    person:Lieutenant W C Reynolds (returned_training) (38,36)
+    place:Oxford (81,37)
+    person:Second Lieutenant B Sockett (returned_leave) (25,40)
+    person:Captain C E Northcutt (resigned) (79,40)
+    person:Captain C E Northcutt (resigned) (58,40)
+    place:America (21,46)
+Page 847 (type diary) http://wd3.herokuapp.com/pages/AWD0001ykh  ----------
+  22 Mar 1919 22
+    activity:training (32,27)
+    person:Second Lieutenant J A Roberts (departed_training) (60,27)
+    place:Flamersheim (8,27)
+    person:Lieutenant G Davies (departed_training) (30,31)
+    person:Lieutenant G Davies (departed_training) (43,31)
+    unit:French Army (49,39)
+Page 848 (type diary) http://wd3.herokuapp.com/pages/AWD0001ykj  ----------
+  23 Mar 1919 21
+    place:Flamersheim (8,27)
+Page 849 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymw  ----------
+  Hashtags: #demobilization 
+  24 Mar 1919 21
+    place:Flamersheim (7,27)
+    person:Captain A Roberts (departed_posted) (77,30)
+    unit:1/6 Welch Regiment (52,31)
+    person:Captain A Roberts (departed_posted) (26,35)
+    person:Lieutenant H G Docker (departed_posted) (21,39)
+    person:Second Lieutenant H G Topliss (departed_posted) (54,39)
+    person:Second Lieutenant H G Topliss (departed_posted) (67,39)
+    person:Lieutenant W C Reynolds (departed_posted) (33,42)
+    person:Lieutenant W C Reynolds (departed_posted) (20,43)
+    person:Lieutenant G Davies (departed_posted) (38,47)
+    person:Lieutenant G Davies (departed_posted) (21,47)
+    person:Lieutenant B L Pritchard (departed_posted) (21,50)
+    person:Lieutenant B L Pritchard (departed_posted) (41,51)
+    person:Lieutenant N W Thresh (departed_posted) (23,55)
+    person:Second Lieutenant J A Jones (departed_posted) (38,59)
+    person:Second Lieutenant J A Jones (departed_posted) (20,59)
+    person:Second Lieutenant I Ajax (departed_posted) (40,63)
+    person:Second Lieutenant I Ajax (departed_posted) (23,63)
+    person:Second Lieutenant J A Roberts (departed_posted) (44,67)
+    person:Second Lieutenant J A Roberts (departed_posted) (22,67)
+    person:Second Lieutenant E H Watkins (departed_posted) (20,71)
+    person:Second Lieutenant Watkins (departed_posted) (34,72)
+    person:Second Lieutenant A L Stirrat (departed_posted) (20,75)
+    person:Second Lieutenant A L Stirrat (departed_posted) (34,75)
+    person:Second Lieutenant B Sockett (departed_posted) (19,79)
+    person:Second Lieutenant B Sockett (departed_posted) (34,79)
+    person:Second Lieutenant L G Menhinick (departed_posted) (20,83)
+    person:Second Lieutenant L G Menhinick (departed_posted) (42,84)
+    person:Second Lieutenant J S Romney (departed_posted) (23,88)
+Page 850 (type diary) http://wd3.herokuapp.com/pages/AWD0001yji  ----------
+  Hashtags: #boxing #leisure 
+  25 Mar 1919 22
+    unit:51 Battalion The Welch Regiment (65,27)
+    activity:movement (68,27)
+    place:Flamersheim (8,28)
+    place:Flamersheim (34,32)
+    person:Drummer Cotton (other) (60,32)
+    person:Drummer Cotton (other) (46,32)
+    domestic:sport (30,36)
+    unit:Army of the Rhine (53,36)
+Page 851 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymr  ----------
+  26 Mar 1919 22
+    activity:quiet (44,27)
+    place:Flamersheim (7,28)
+Page 852 (type diary) http://wd3.herokuapp.com/pages/AWD0001yju  ----------
+  Hashtags: #rugby #demobilization #leisure 
+  27 Mar 1919 22
+    place:Flamersheim (8,28)
+    activity:other (51,28)
+    domestic:sport (42,36)
+    domestic:sport (60,36)
+    unit:51 Welsh (43,36)
+Page 853 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynu  ----------
+  Hashtags: #demobilization 
+  28 Mar 1919 24
+    place:Flamersheim (7,31)
+    unit:63 (R.N.) Division (88,32)
+    unit:2 Royal Irish Regiment (76,36)
+    unit:2 Royal Irish Regiment (88,36)
+    activity:other (73,51)
+Page 854 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjk  ----------
+  29 Mar 1919 22
+    strength:officer: 4; nco: 0; other: 46 (70,27)
+    place:Flamersheim (8,28)
+    place:Flamersheim (42,32)
+    place:Cologne (71,32)
+    activity:movement (31,32)
+    time:0500AM (62,32)
+    place:Cologne (64,36)
+    time:0730AM (79,36)
+    activity:movement (29,40)
+    time:0900AM (47,41)
+    place:Charleroi (80,48)
+    time:1200AM (66,48)
+Page 855 (type diary) http://wd3.herokuapp.com/pages/AWD0001yij  ----------
+  30 Mar 1919 23
+    activity:movement (58,27)
+    time:0340AM (28,28)
+    place:Manage (41,28)
+    place:Fermeries (7,29)
+    time:0900AM (38,42)
+    place:Mons (64,42)
+    activity:movement (36,46)
+    place:Fermeries (83,47)
+    activity:movement (36,48)
+    unit:2 Royal Irish Regiment (41,52)
+    unit:2 Royal Irish Regiment. (32,52)
+Page 856 (type diary) http://wd3.herokuapp.com/pages/AWD0001yk8  ----------
+  31 Mar 1919 24
+    unit:2 Royal Irish Regiment (81,27)
+    place:Frameries (8,28)
+    unit:2 Royal Irish Regiment (39,32)
+    person:Lieutenant Colonel W B Garnett (departed_leave) (52,37)
+    person:Lieutenant Colonel W B Garnett (departed_leave) (24,37)
+    person:Captain B M Dunn (author) (37,71)
+    person:Captain B M Dunn (author) (52,73)
+Page 857 (type diary) http://wd3.herokuapp.com/pages/AWD0001yly  ----------
+  1 Apr 1919 25
+    place:Frameries (8,32)
+Page 858 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymy  ----------
+  2 Apr 1919 25
+    activity:other (42,29)
+    place:Frameries (6,30)
+Page 859 (type diary) http://wd3.herokuapp.com/pages/AWD0001yl3  ----------
+  3 Apr 1919 25
+    person:Regimental Quarter Master Sergeant Collins (departed_leave) (60,27)
+    activity:quiet (30,28)
+    place:Frameries (7,29)
+Page 860 (type diary) http://wd3.herokuapp.com/pages/AWD0001yll  ----------
+  4 Apr 1919 26
+    activity:other (27,28)
+    place:Frameries (7,29)
+Page 861 (type diary) http://wd3.herokuapp.com/pages/AWD0001yle  ----------
+  5 Apr 1919 25
+    place:Frameries (8,32)
+Page 862 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynr  ----------
+  6 Apr 1919 26
+    place:Frameries (8,30)
+Page 863 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjm  ----------
+  7 Apr 1919 27
+    place:Frameries (8,29)
+Page 864 (type diary) http://wd3.herokuapp.com/pages/AWD0001ykv  ----------
+  8 Apr 1919 25
+    activity:quiet (35,28)
+    place:Frameries (7,28)
+Page 865 (type diary) http://wd3.herokuapp.com/pages/AWD0001ynj  ----------
+  9 Apr 1919 22
+    activity:other (29,27)
+    place:Frameries (8,29)
+Page 866 (type diary) http://wd3.herokuapp.com/pages/AWD0001yny  ----------
+  10 Apr 1919 24
+    place:Frameries (7,27)
+    activity:quiet (31,28)
+  11 Apr 1919 32
+    activity:quiet (66,36)
+    place:Frameries (7,37)
+  12 Apr 1919 40
+    activity:quiet (31,45)
+    place:Frameries (7,45)
+  13 Apr 1919 49
+    place:Frameries (7,53)
+    domestic:religion (36,53)
+    domestic:parades (49,53)
+  14 Apr 1919 57
+    activity:quiet (31,61)
+    place:Frameries (7,62)
+  15 Apr 1919 65
+    activity:quiet (47,69)
+    place:Frameries (7,70)
+    weather:rain (27,70)
+  16 Apr 1919 73
+    place:Frameries (7,77)
+    person:Lieutenant Colonel W B Garnett (returned_leave) (27,77)
+    person:Lieutenant Colonel W B Garnett (returned_leave) (44,77)
+  17 Apr 1919 82
+    activity:quiet (26,85)
+    place:Frameries (7,87)
+Page 867 (type diary) http://wd3.herokuapp.com/pages/AWD0001yn7  ----------
+  18 Apr 1919 23
+    place:Frameries (7,26)
+    activity:quiet (38,28)
+    place:Frameries (8,31)
+  19 Apr 1919 32
+    place:Frameries (7,37)
+  20 Apr 1919 40
+    activity:quiet (28,44)
+    place:Frameries (7,46)
+  21 Apr 1919 48
+    person:Lieutenant C S Hampton (other) (29,53)
+    person:Regimental Quarter Master Sergeant Collins (other) (66,53)
+    place:Frameries (7,54)
+    place:Fauroeulx (81,60)
+    place:Rouveroy (53,61)
+    place:Rouveroy (68,61)
+    place:Peissant (27,66)
+    person:Lieutenant Colonel W B Garnett (commander) (21,77)
+  22 Apr 1919 85
+    place:Frameries (8,90)
+    activity:quiet (31,90)
+Page 868 (type diary) http://wd3.herokuapp.com/pages/AWD0001ymg  ----------
+  23 Apr 1919 25
+    place:Frameries (7,28)
+    person:Lieutenant L H T Walker (departed_leave) (30,30)
+  24 Apr 1919 37
+    place:Frameries (6,43)
+  25 Apr 1919 46
+    place:Frameries (7,51)
+  26 Apr 1919 54
+    person:Regimental Quarter Master Sergeant R Q M S Collins (other) (74,57)
+    person:Lieutenant C S Hampton (other) (29,58)
+    place:Frameries (6,59)
+    place:Maubeuge (45,63)
+  27 Apr 1919 75
+    place:Frameries (6,80)
+  28 Apr 1919 82
+    place:Frameries (7,88)
+Page 869 (type diary) http://wd3.herokuapp.com/pages/AWD0001yjj  ----------
+  29 Apr 1919 24
+    place:Frameries (7,25)
+    place:Frameries (7,28)
+    activity:quiet (35,28)
+  30 Apr 1919 32
+    activity:quiet (30,37)
+    place:Frameries (6,38)
+    person:Captain B M Dunn (author) (46,57)

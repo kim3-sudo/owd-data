@@ -1,0 +1,72 @@
+GWD000003a wo/95/1154/2
+3 CAVALRY DIVISION: `K' Battery Royal Horse Artillery 
+4 pages
+
+Page 455 (type cover)
+Page 456 (type cover)
+Page 457 (type diary) http://wd3.herokuapp.com/pages/AWD0000j9j  ----------
+  1 Jan 1917 22
+    place:Ecurie (58,25)
+    activity:attack (28,26)
+  2 Jan 1917 27
+    unit:58 Canadian Battalion (50,30)
+    activity:attack (28,30)
+    place:Neuville Saint Vaast (29,33)
+  3 Jan 1917 36
+    time:0500PM (28,36)
+    time:0700PM (34,36)
+    time:0100AM (42,37)
+    time:0300AM (49,37)
+    place:Petit Vimy (45,41)
+  4 Jan 1917 44
+    reference:German Deserter (50,44)
+    activity:attack (28,47)
+    unit:58 Canadian Battalion (55,48)
+  5 Jan 1917 52
+    activity:attack (25,55)
+    unit:9 Canadian Infantry Brigade (54,56)
+    unit:9 Canadian Infantry (60,56)
+    place:Thelus (26,59)
+    place:Thelus (84,60)
+    time:0345PM (27,63)
+    activity:withdraw (43,63)
+  6 Jan 1917 66
+    place:Mardevil (53,67)
+    place:Camblain l'Abbe (47,70)
+    activity:movement (28,71)
+    place:Boyeffles (78,72)
+    unit:2 Canadian Division (51,74)
+  7 Jan 1917 79
+    place:Grenay (35,79)
+    unit:2 Canadian Division (75,82)
+  12 Jan 1917 87
+    activity:attack (25,87)
+    activity:other (26,92)
+Page 458 (type diary) http://wd3.herokuapp.com/pages/AWD0000j76  ----------
+  17 Jan 1917 23
+    place:Calonne (77,26)
+    unit:2 Canadian Division (56,26)
+    activity:attack (24,27)
+    activity:raid (35,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 100; sick: 0; wounded: 0 (31,32)
+  18 Jan 1917 35
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,35)
+  23 Jan 1917 43
+    unit:2 Canadian Artillery (25,47)
+  28 Jan 1917 54
+    place:Noulette (42,60)
+    place:Notre Dame de Lorette (60,60)
+  29 Jan 1917 61
+    person:Lieutenant P H Clarke (combat) (25,61)
+  30 Jan 1917 64
+    activity:attack (28,66)
+    place:Barlin (62,71)
+    domestic:accomodation (52,71)
+    unit:G Battery Royal Horse Artillery (26,71)
+    activity:movement (39,72)
+    place:Lorette (77,74)
+    time:0800PM (80,77)
+  31 Jan 1917 78
+    place:Bruay (49,81)
+    activity:movement (24,82)
+    weather:cold (65,85)

@@ -1,0 +1,421 @@
+GWD000008r wo/95/1146/2
+3 CAVALRY DIVISION: 7 Light Armoured Battery 
+19 pages
+
+Page 308 (type cover)
+Page 309 (type cover)
+Page 310 (type diary) http://wd3.herokuapp.com/pages/AWD0001b1o  ----------
+  Hashtags: #German 
+  1 Jul 1916 28
+    place:Albert (58,29)
+    person:Lieutenant D Too (other) (23,30)
+    place:Corbie (8,30)
+  4 Jul 1916 38
+    activity:movement (19,41)
+    unit:3 Cavalry Division (57,42)
+    place:Corbie (24,42)
+    place:Hallencourt (34,42)
+  8 Jul 1916 44
+    time:0100PM (17,46)
+    place:Hallencourt (9,46)
+    place:Daours (37,46)
+    activity:movement (24,46)
+    place:Daours (47,49)
+    time:1000AM (18,50)
+    place:Daours (8,50)
+    activity:training (62,50)
+  12 Jul 1916 51
+    place:Daours (49,52)
+    time:1000AM (17,54)
+    person:Captain Henshall (other) (37,57)
+    person:Second Lieutenant E A Samson (other) (58,57)
+    place:Maricourt (38,61)
+    place:Montauban (46,61)
+    place:Fricourt (64,61)
+    place:Contalmaison (79,61)
+  15 Jul 1916 63
+    person:Captain Henshall (other) (26,65)
+    person:Lieutenant D Too (other) (35,65)
+    person:Second Lieutenant E H Samson (other) (47,65)
+    unit:13 company (38,74)
+    unit:Xiii corps (41,74)
+  17 Jul 1916 75
+    place:Bronfay Farm (35,77)
+    time:1150AM (17,78)
+    unit:3 infantry Division (75,78)
+    activity:movement (23,78)
+    place:Bray-Maricourt (52,81)
+  25 Jul 1916 89
+Page 311 (type diary) http://wd3.herokuapp.com/pages/AWD0001b12  ----------
+  25 Jul 1916 27
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,29)
+    place:Bronfay Farm (6,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,30)
+  26 Jul 1916 31
+    place:Daours (74,33)
+    time:0400PM (45,33)
+    place:Bronfay Farm (60,34)
+    activity:movement (57,34)
+    time:0230PM (17,34)
+    unit:3 Cavalry Division (29,37)
+    unit:3 Cavalry Division (39,38)
+  31 Jul 1916 40
+    place:Daours (23,42)
+    person:Captain (commander) (75,44)
+Page 312 (type diary) http://wd3.herokuapp.com/pages/AWD0001b14  ----------
+  31 Jul 1916 0
+  1 Aug 1916 27
+    place:Daours (8,29)
+    activity:movement (24,30)
+    place:Gapennes (34,30)
+    place:Pas de Calais (43,30)
+  4 Aug 1916 32
+    place:Pas de Calais (62,32)
+    place:Gapennes (8,33)
+    activity:movement (24,34)
+    place:Coupelle Neuve (35,34)
+    place:Coupelle Neuve (41,38)
+  6 Aug 1916 56
+    activity:resupplying (49,61)
+  10 Aug 1916 62
+    place:Coupelle Neuve (7,66)
+    person:Captain L S Henshall (other) (25,66)
+    person:Second Lieutenant E A Samson (departed_training) (45,66)
+  14 Aug 1916 70
+    unit:3 Cavalry Division (79,72)
+  21 Aug 1916 74
+    person:Captain L S Henshall (departed_training) (24,74)
+    unit:3 Cavalry Division (76,76)
+    person:Captain L S Henshall (other) (25,78)
+  28 Aug 1916 79
+    unit:3 Cavalry Division (79,80)
+    person:Captain L S Henshall (departed_training) (23,82)
+    person:Captain L S Henshall (author) (64,88)
+Page 313 (type diary) http://wd3.herokuapp.com/pages/AWD0001b1e  ----------
+  28 Aug 1916 0
+  1 Sep 1916 26
+  11 Sep 1916 30
+    place:Coupelle Neuve (7,30)
+    time:0115PM (17,33)
+  12 Sep 1916 34
+    activity:movement (22,34)
+    activity:movement (23,37)
+    time:0900AM (17,37)
+    place:Belloy-Sur-Somme (33,38)
+    place:Neuilly le Dieu (8,38)
+  14 Sep 1916 42
+    place:Belloy-Sur-Somme (8,42)
+    activity:movement (23,45)
+    time:0100PM (17,45)
+  15 Sep 1916 46
+    place:Vecquemont (33,46)
+    place:Vecquemont (7,49)
+    activity:movement (23,49)
+  17 Sep 1916 50
+    place:La Neuville (35,50)
+    time:1030AM (17,50)
+    place:La Neuville (6,53)
+    activity:movement (23,53)
+    time:0645AM (17,53)
+  22 Sep 1916 54
+    place:Vecquemont (33,54)
+    place:Crouy (32,57)
+    place:Vecquemont (7,57)
+    activity:movement (23,57)
+    time:0430PM (17,57)
+  23 Sep 1916 58
+    place:Crouy (8,61)
+    activity:movement (22,61)
+    time:0930AM (17,61)
+  24 Sep 1916 62
+    place:Regnauville (33,65)
+    place:Villers l'Hopital (7,65)
+    time:0745AM (17,65)
+  25 Sep 1916 66
+    activity:movement (23,66)
+    place:Regnauville (8,69)
+    activity:movement (22,69)
+    time:0200PM (17,69)
+  28 Aug 1916 0
+  25 Sep 1916 66
+  30 Sep 1916 73
+    place:Wailly-Beaucamp (7,75)
+  28 Aug 1916 0
+Page 314 (type diary) http://wd3.herokuapp.com/pages/AWD0001b1c  ----------
+  1 Oct 1916 26
+    place:Wailly-Beaucamp (8,30)
+  19 Oct 1916 34
+    activity:movement (25,38)
+    time:0900AM (17,38)
+  31 Oct 1916 42
+    person:Lieutenant Edward Samson (author) (78,79)
+Page 315 (type diary) http://wd3.herokuapp.com/pages/AWD0001b15  ----------
+  Hashtags: #winter 
+  31 Oct 1916 0
+  1 Nov 1916 28
+    place:Merlimont Plage (7,31)
+    domestic:accomodation (26,31)
+    activity:other (23,31)
+  30 Nov 1916 33
+  31 Oct 1916 0
+Page 316 (type diary) http://wd3.herokuapp.com/pages/AWD0001b1v  ----------
+  1 Dec 1916 25
+    domestic:accomodation (32,30)
+    place:Merlimont-Plage (7,30)
+  31 Dec 1916 33
+    person:Edward Samson (69,77)
+Page 317 (type diary) http://wd3.herokuapp.com/pages/AWD0001b20  ----------
+  Hashtags: #Italian 
+  1 Jan 1917 26
+    domestic:accomodation (25,30)
+    place:Merlimont-Plage (9,31)
+  30 Jan 1917 34
+    unit:3 Cavalry Division (46,40)
+    domestic:inspections (23,42)
+    time:0230PM (18,42)
+    unit:Itaian Cavalry (70,42)
+    person:General (commander) (46,42)
+    person:Captain Samson (71,72)
+Page 318 (type diary) http://wd3.herokuapp.com/pages/AWD0001b1b  ----------
+  Hashtags: #American 
+  1 Feb 1917 27
+    domestic:accomodation (26,31)
+    place:Merlimont Plage (6,31)
+  28 Feb 1917 32
+    place:Merlimont Plage (9,43)
+    time:1100AM (18,45)
+    domestic:inspections (25,46)
+  16 Feb 1917 50
+    place:Merlimont Plage (8,52)
+    time:0300PM (18,53)
+    domestic:inspections (24,54)
+    person:Colonel McMullen (other) (45,54)
+  28 Feb 1917 32
+Page 319 (type diary) http://wd3.herokuapp.com/pages/AWD0001b1h  ----------
+  1 Mar 1917 27
+    domestic:accomodation (26,31)
+  31 Mar 1917 33
+Page 320 (type diary) http://wd3.herokuapp.com/pages/AWD0001b1a  ----------
+  Hashtags: #uralite 
+  1 Apr 1917 28
+    place:Merlimont Plage (7,31)
+    domestic:accomodation (26,32)
+  5 Apr 1917 40
+    time:0100AM (18,38)
+    place:Saint Omer (29,38)
+    place:Hesdin (47,38)
+    activity:movement (22,39)
+    place:Etaples (37,39)
+    unit:3 A.S.C Repair Shop (55,41)
+    unit:3 A.S.C. (41,42)
+    place:Saint Omer (6,42)
+  6 Apr 1917 43
+    activity:movement (25,43)
+    time:1030AM (18,43)
+    place:Saint Omer (7,46)
+    activity:other (24,47)
+  8 Apr 1917 64
+    time:0750AM (18,54)
+    place:Fruges (43,54)
+    place:Saint Pol (53,54)
+    place:Saint Omer (7,54)
+    activity:movement (23,55)
+    time:0300PM (18,58)
+    activity:movement (23,62)
+    time:0345PM (18,62)
+    time:0600PM (17,66)
+    place:Haute Avesnes (6,66)
+  9 Apr 1917 72
+    activity:movement (22,70)
+    activity:movement (28,70)
+    time:0515PM (18,70)
+    place:Arras (52,70)
+    place:Haute Avesnes (8,71)
+    activity:movement (39,72)
+    place:Arras (34,72)
+    time:0830PM (18,74)
+    place:Arras (7,74)
+  10 Apr 1917 80
+    activity:movement (22,78)
+    time:0100AM (18,78)
+    place:Arras (26,78)
+    place:Arras (7,78)
+    activity:movement (23,82)
+    time:1200AM (18,82)
+    place:Arras (7,82)
+    activity:movement (28,85)
+    place:Tilloy (34,85)
+  11 Apr 1917 86
+    time:0700AM (18,89)
+    place:Tilloy (7,89)
+    activity:movement (25,90)
+Page 321 (type diary) http://wd3.herokuapp.com/pages/AWD0001b21  ----------
+  20 Apr 1917 88
+  11 Apr 1917 39
+    activity:movement (23,30)
+    time:0130PM (18,30)
+    place:Tilloy (48,30)
+    place:Arras (6,30)
+    activity:movement (23,34)
+    time:0530PM (17,34)
+    place:Tilloy (36,34)
+    place:Tilloy (5,34)
+    activity:movement (31,35)
+    time:0630PM (17,38)
+    place:Arras (6,38)
+    activity:movement (23,39)
+    place:Arras (53,39)
+  12 Apr 1917 44
+    activity:movement (23,42)
+    time:0800PM (17,42)
+    place:Arras (7,43)
+    time:1030AM (17,45)
+    activity:movement (22,46)
+    place:Fosseux (33,46)
+    place:Arras (5,46)
+  13 Apr 1917 50
+    activity:movement (23,50)
+    time:0100PM (18,50)
+    place:Fosseux (7,50)
+    place:Fosseux (24,54)
+    place:Fosseux (7,54)
+  16 Apr 1917 60
+    time:0130PM (18,61)
+    activity:movement (22,62)
+    place:Wavans (32,62)
+    place:Fosseux (7,62)
+    activity:movement (23,66)
+    time:0430PM (17,66)
+    place:Wavans (6,66)
+    activity:movement (22,70)
+    time:0700PM (17,70)
+    place:Wavans (7,70)
+    place:Beauvoir Riviere (33,71)
+    activity:movement (23,74)
+    time:0730PM (17,74)
+    place:Beauvoir Riviere (5,74)
+  17 Apr 1917 76
+    place:Beauvoir Riviere (26,78)
+    place:Beauvoir Riviere (7,78)
+  20 Apr 1917 88
+    activity:movement (23,86)
+    time:0215PM (18,86)
+    place:Beauvoir Riviere (6,86)
+    place:Estrees les Crecy (5,89)
+    activity:movement (24,90)
+    time:0415PM (18,90)
+Page 322 (type diary) http://wd3.herokuapp.com/pages/AWD0001b1g  ----------
+  20 Apr 1917 0
+    mapRef:Map No. 51B (56,12)
+  10 Apr 1917 15
+    date:10 Apr 1917 (34,17)
+    place:Arras (42,29)
+    time:0200PM (54,33)
+    place:Cambrai (52,37)
+    place:Tilloy (45,39)
+    place:Tilloy (52,56)
+  20 Apr 1917 0
+  10 Apr 1917 15
+    unit:6 Brigade (65,60)
+    unit:6 Brigade (42,61)
+    activity:reconnoitered (47,66)
+    place:Vis-En-Artois (55,70)
+    place:Tilloy (58,73)
+    place:La Bergere (41,84)
+Page 323 (type ) http://wd3.herokuapp.com/pages/AWD0001b1m  ----------
+  10 Apr 1917 0
+    activity:attack (41,11)
+    place:Guemappe (40,14)
+    weather:cold (61,22)
+    unit:112 infantry Brigade headquarters (46,38)
+    place:La Bergere (62,39)
+    date:10 Apr 1917 (35,5)
+  11 Apr 1917 59
+    date:11 Apr 1917 (34,62)
+    time:0400AM (64,64)
+    place:Arras (58,77)
+  10 Apr 1917 0
+    activity:movement (51,8)
+    place:La Bergere (63,8)
+  11 Apr 1917 59
+    time:0130PM (52,92)
+Page 324 (type blank)
+Page 325 (type diary) http://wd3.herokuapp.com/pages/AWD0001b22  ----------
+  Hashtags: #P #N 
+  1 May 1917 24
+  12 May 1917 29
+    place:Estrees-les-Crecy (7,29)
+    domestic:accomodation (29,29)
+    activity:resting (24,30)
+  13 May 1917 35
+    activity:movement (22,34)
+    place:Estrees les Crecy (28,34)
+    time:0230PM (17,34)
+    activity:movement (22,38)
+    place:Wavans (27,38)
+    place:Wavans (7,38)
+  14 May 1917 44
+    time:0415PM (17,39)
+    activity:movement (22,42)
+    place:Wavans (16,42)
+    time:0200PM (17,43)
+    activity:movement (23,46)
+    place:La Vicogne (29,46)
+    place:La Vicogne (7,46)
+    time:0410PM (17,46)
+  15 May 1917 48
+    place:La Vicogne (5,49)
+    activity:movement (22,50)
+    place:La Vicogne (27,50)
+    time:0230PM (17,50)
+    activity:movement (23,54)
+    place:Querrieu (29,54)
+    place:Querrieu (6,54)
+    time:0410PM (17,54)
+  17 May 1917 60
+    place:Querrieu (7,57)
+    activity:movement (22,58)
+    place:Querrieu (27,58)
+    time:0300PM (17,59)
+    place:Lamotte En Santerre (30,62)
+    place:Lamotte En Santerre (6,62)
+    place:Lamotte-En-Santerre (7,62)
+  18 May 1917 63
+    time:0400PM (17,63)
+    activity:movement (23,66)
+    time:1030AM (17,66)
+    place:Saint Omer (39,67)
+  19 May 1917 72
+    activity:movement (22,70)
+    place:Lamotte En Santerre (32,70)
+    time:1030AM (17,70)
+    activity:movement (23,74)
+    place:Flamicourt (29,74)
+    place:Flamicourt (7,74)
+    time:0200PM (17,74)
+  22 May 1917 75
+    unit:N Battery Anti Aircraft (66,77)
+    activity:movement (24,78)
+    place:Dreslincourt (47,78)
+    time:1030AM (17,78)
+    unit:B Battery anti-aircraft sub-section machne guns (26,79)
+  23 May 1917 80
+  24 May 1917 82
+    activity:movement (27,82)
+    place:Tincourt-Boucly (48,82)
+    time:0730AM (17,82)
+    activity:movement (22,83)
+    place:Flamicourt (6,85)
+  31 May 1917 88
+    person:Captain Edward Samson (79,91)
+Page 326 (type diary) http://wd3.herokuapp.com/pages/AWD0001b1f  ----------
+  1 Jun 1917 51
+    place:Flamicourt (7,30)
+  30 Jun 1917 32
+    domestic:accomodation (21,32)
+    domestic:accomodation (60,33)
+    activity:other (30,34)
+    place:Dreslincourt (6,42)
+    unit:Sub-section machine guns (28,42)
+    place:Hamel (6,54)
+  29 Jun 1917 56

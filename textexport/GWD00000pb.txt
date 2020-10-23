@@ -1,0 +1,728 @@
+GWD00000pb wo/95/1334/2
+2 DIVISION: 242 Machine Gun Company 
+66 pages
+
+Page 1 (type cover)
+Page 2 (type ) http://wd3.herokuapp.com/pages/AWD0003kz9  ----------
+  1 Jul 1917 0
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD0003kyx  ----------
+  13 Jul 1917 20
+    place:Grantham (7,24)
+  14 Jul 1917 32
+    activity:movement (55,36)
+    time:1220AM (72,36)
+    domestic:parades (31,37)
+    activity:other (74,49)
+    time:1030AM (66,50)
+    place:Southampton (46,51)
+    time:0700PM (78,57)
+    time:0100PM (63,58)
+    time:0400PM (41,59)
+  15 Jul 1917 64
+    place:Cowes (30,64)
+    activity:movement (29,68)
+    place:Havre (8,68)
+    time:0800AM (38,68)
+    time:1030AM (46,68)
+    unit: (41,75)
+  16 Jul 1917 78
+    domestic:inspections (39,81)
+    time:0530PM (24,88)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0003kze  ----------
+  17 Jul 1917 19
+    place:Havre (7,23)
+    place:Point No 1 (79,23)
+    activity:movement (22,23)
+    activity:movement (48,23)
+    time:1000AM (57,23)
+    place:Bouchy (49,30)
+    time:0230PM (38,30)
+  18 Jul 1917 33
+    unit:243 Machine Gun Company (36,33)
+    place:Bethune (8,36)
+    time:0630AM (33,37)
+    activity:movement (46,38)
+    place:Beuvry (57,39)
+    domestic:accomodation (46,43)
+  19 Jul 1917 48
+    place:Beuvry (7,51)
+    domestic:accomodation (73,51)
+  20 Jul 1917 52
+    domestic:inspections (30,55)
+    time:0230PM (43,55)
+    domestic:hygiene (28,59)
+    domestic:parades (31,62)
+  22 Jul 1917 66
+    weather:hot (46,66)
+    activity:training (32,67)
+    time:1100AM (53,69)
+    domestic:parades (28,70)
+  23 Jul 1917 73
+    domestic:other (30,77)
+  24 Jul 1917 79
+    activity:line (35,83)
+    activity:reconnoitered (73,85)
+    unit:99, 5 + 6 M. G. Companies (27,85)
+    unit:99, 5, and 6 mg co (49,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,92)
+    time:0430PM (23,92)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD0003kza  ----------
+  25 Jul 1917 19
+    place:Beuvry (8,24)
+  26 Jul 1917 31
+  27 Jul 1917 37
+    activity:quiet (32,37)
+  28 Jul 1917 44
+    unit:D sect (43,46)
+    person:Lieutenant Lewis (other) (68,47)
+    unit:Unknown (81,48)
+  29 Jul 1917 50
+    time:1000PM (25,51)
+    place:Essars (66,53)
+    activity:reconnoitered (30,57)
+  30 Jul 1917 61
+  31 Jul 1917 69
+    place:Essars (41,73)
+Page 6 (type orders) http://wd3.herokuapp.com/pages/AWD0003kzo  ----------
+  31 Jul 1917 0
+    place:Grantham (63,13)
+    activity:movement (51,13)
+    orders:move (49,14)
+    date:13 Jul 1917 (66,17)
+    time:1135PM (57,25)
+    domestic:parades (50,26)
+    date:14 Jul 1917 (45,32)
+    time:1220AM (38,33)
+    orders:move (32,4)
+    reference:Operation Orders No 1 (52,5)
+    date:11 Jul 1917 (63,5)
+    time:1030PM (47,50)
+    time:0150AM (51,53)
+    time:0225AM (58,62)
+    time:0900PM (48,77)
+    person:Captain H P Borlase (commander) (41,8)
+Page 7 (type orders) http://wd3.herokuapp.com/pages/AWD0003l0e  ----------
+  31 Jul 1917 0
+    reference:Operation Orders No 1 - page 2 (38,7)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD0003kzj  ----------
+  31 Jul 1917 0
+    unit:242 Machine Gun co (54,12)
+    person:Captain H P Borlase (commander) (39,20)
+    person:Captain G L E Wallace (other) (42,23)
+    person:Lieutenant Johnson (other) (39,26)
+    person:Lieutenant J D Culken (other) (40,29)
+    person:Lieutenant D A Lewis (other) (42,32)
+    person:Lieutenant E M Grose (other) (39,35)
+    person:Lieutenant E L Bird (other) (42,39)
+    person:Second Lieutenant L W Hitchcock (other) (41,44)
+    person:Second Lieutenant E G Megsite (other) (39,47)
+Page 9 (type orders) http://wd3.herokuapp.com/pages/AWD0003kz0  ----------
+  31 Jul 1917 0
+    reference:Operation Orders No 2 (38,5)
+    date:16 Jul 1917 (64,5)
+    person:Captain H P Borlase (commander) (41,8)
+Page 10 (type orders) http://wd3.herokuapp.com/pages/AWD0003kzl  ----------
+  31 Jul 1917 0
+    reference:CERTIFICATES (56,11)
+    reference: (72,16)
+    person:Lieutenant Johnson (other) (56,18)
+Page 11 (type orders) http://wd3.herokuapp.com/pages/AWD0003l0c  ----------
+  31 Jul 1917 0
+    unit:242 mg co sections a,b,c (32,10)
+    unit:Sec 99,5.6.7.9 (56,17)
+    reference:Operation Orders No 3 (39,5)
+    date:23 Jul 1917 (63,5)
+    person:Captain Borlase (commander) (36,8)
+Page 12 (type orders) http://wd3.herokuapp.com/pages/AWD0003kzq  ----------
+  31 Jul 1917 0
+    mapRef:Bethune (61,31)
+    reference:Map 1/40,000 Bethune (45,31)
+    reference:Operation Orders No 3 - page 2 (39,5)
+    reference:BEUVRY (59,5)
+Page 13 (type orders) http://wd3.herokuapp.com/pages/AWD0003kz2  ----------
+  31 Jul 1917 0
+    date:28 Jul 1917 (63,11)
+    reference:BEUVRY CAMP (58,37)
+    reference:Appendix 5 (34,4)
+    reference:Copy no. 5 (64,5)
+    reference:Operation Orders No 4 (a) (35,5)
+    reference:CAMBRIN CHURCH (61,54)
+    person:Captain Borlase (commander) (43,8)
+Page 14 (type orders) http://wd3.herokuapp.com/pages/AWD0003kys  ----------
+  31 Jul 1917 0
+    reference:Operation Orders No 4 (a) - page 2 (54,4)
+    reference:BEUVRY (48,9)
+Page 15 (type cover)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD0003kzb  ----------
+  1 Aug 1917 19
+    time:0415PM (18,21)
+    domestic:parades (31,22)
+  5 Aug 1917 23
+    place:Beuvry (7,23)
+    unit:B Section (44,23)
+    unit:A Section (24,24)
+    time:0830PM (18,25)
+    domestic:parades (30,26)
+    place:Givenchy (57,26)
+  8 Aug 1917 27
+    unit:C Section (45,27)
+    unit:B Section (24,28)
+    person:Captain G L E Wallace (joined) (31,31)
+  9 Aug 1917 34
+    person:Second Lieutenant L W Hitchcock (joined) (28,34)
+    time:0430PM (18,37)
+  12 Aug 1917 38
+    domestic:parades (29,38)
+    place:Cambrin (55,38)
+    person:Company Sergeant Major A M Gorringe (discipline) (27,41)
+    person:Company Quarter Master Sergeant T Sullivan (discipline) (40,42)
+    time:0100PM (17,44)
+  13 Aug 1917 47
+    place:Locon (79,47)
+    time:0200PM (17,47)
+    person:A M Gorringe (discipline) (27,47)
+    person:Company Quarter Master Sergeant T Sullivan (discipline) (44,47)
+    time:0900AM (18,49)
+    person:Company Sergeant Major A M Gorringe (discipline) (34,50)
+    person:Company Quarter Master Sergeant T Sullivan (discipline) (51,50)
+    time:1000AM (17,52)
+    time:0800PM (18,54)
+  14 Aug 1917 55
+    time:0500PM (17,57)
+  17 Aug 1917 58
+    time:0800PM (19,60)
+  18 Aug 1917 61
+    domestic:parades (29,61)
+    place:Givenchy (52,62)
+    time:1000AM (18,64)
+  19 Aug 1917 65
+    place:Quesnoy (77,65)
+    person:Company Sergeant Major T Gorringe (discipline) (36,65)
+    time:0430PM (18,67)
+    unit:No 5 mgc (22,69)
+  21 Aug 1917 75
+    place:Cambrin (53,78)
+    time:0430PM (18,78)
+    time:0900PM (18,80)
+    person:Company Sergeant Major Gorringe (discipline) (45,81)
+  22 Aug 1917 83
+    time:0230PM (18,85)
+    person:A M Gorringe (discipline) (36,87)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD0003l0b  ----------
+  23 Aug 1917 21
+    time:0600PM (19,23)
+    person:Second Lieutenant J A Robotham (joined) (27,23)
+    person:J A Robotham (29,23)
+    place:Beuvry (8,23)
+  24 Aug 1917 25
+    time:0200PM (19,27)
+    time:0730PM (19,29)
+  25 Aug 1917 30
+    domestic:parades (30,31)
+    time:0730PM (19,32)
+    place:Beuvry (8,33)
+    unit:99 Brigade (30,35)
+    unit:139 Brigade (43,35)
+    unit: (30,35)
+    unit:193 B (42,35)
+    place:Beuvry (38,37)
+  29 Aug 1917 40
+    time:0500PM (18,42)
+    person:Second Lieutenant L C Burckhardt (joined) (26,42)
+    place:Beuvry (6,46)
+    time:0730PM (18,47)
+    domestic:parades (33,47)
+  31 Aug 1917 50
+    time:0900AM (19,52)
+    place:Beuvry (7,54)
+Page 18 (type cover)
+Page 19 (type orders) http://wd3.herokuapp.com/pages/AWD0003kyr  ----------
+  31 Aug 1917 0
+    date:30 Jul 1917 (61,10)
+    time:0415PM (66,29)
+    reference:Operation Orders No 4 (b) (38,3)
+    time:0330PM (53,32)
+    time:0530PM (67,44)
+Page 20 (type orders) http://wd3.herokuapp.com/pages/AWD0003kzs  ----------
+  31 Aug 1917 0
+    reference:Operation Orders No 4 (b) - page 2 (53,4)
+Page 21 (type orders) http://wd3.herokuapp.com/pages/AWD0003kyj  ----------
+  31 Aug 1917 0
+    date:4 Aug 1917 (59,11)
+    activity:movement (38,29)
+    reference:Operation Orders No 4 (c) (39,5)
+    person:Captain H P Borlase (commander) (44,8)
+Page 22 (type ) http://wd3.herokuapp.com/pages/AWD0003kyq  ----------
+  31 Aug 1917 0
+    time:0400PM (45,24)
+    reference:Operation Orders No 4 (c) - page 2 (44,4)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD0003kyf  ----------
+  31 Aug 1917 0
+    reference:Operation Orders No 4 (d) (48,13)
+    unit:193 B (37,24)
+    place:Beuvry (59,34)
+    time:0430PM (50,39)
+    time:0330PM (50,42)
+    time:0530PM (59,57)
+Page 24 (type orders) http://wd3.herokuapp.com/pages/AWD0003l01  ----------
+  31 Aug 1917 0
+    reference:Operation Orders No 4 (d) - page 2 (53,4)
+Page 25 (type orders) http://wd3.herokuapp.com/pages/AWD0003kzm  ----------
+  31 Aug 1917 0
+    date:12 Aug 1917 (62,14)
+    reference:Beauvry Camp (60,33)
+    reference:Operation Orders No 4 (e) (46,4)
+    reference:Trench Storso (61,75)
+Page 26 (type orders) http://wd3.herokuapp.com/pages/AWD0003kyw  ----------
+  31 Aug 1917 0
+    reference:Operation Orders No 4 (e) - page 2 (47,7)
+Page 27 (type ) http://wd3.herokuapp.com/pages/AWD0003kzw  ----------
+  31 Aug 1917 0
+    date:16 Aug 1917 (61,11)
+    reference:Operation Orders No 4 (f) (52,6)
+Page 28 (type orders) http://wd3.herokuapp.com/pages/AWD0003l09  ----------
+  31 Aug 1917 0
+    reference:Operation Orders No 4 (f) - page 2 (40,5)
+Page 29 (type orders) http://wd3.herokuapp.com/pages/AWD0003l08  ----------
+  31 Aug 1917 0
+    date:20 Aug 1917 (60,12)
+    reference:Operation Orders No 4 (g) (36,7)
+    person:Captain Borlase (commander) (44,8)
+Page 30 (type orders) http://wd3.herokuapp.com/pages/AWD0003l04  ----------
+  31 Aug 1917 0
+    person:Second Lieutenant L W Hitchcock (other) (56,63)
+    reference:Operation Orders No 4 (g) - page 2 (42,8)
+Page 31 (type orders) http://wd3.herokuapp.com/pages/AWD0003kz7  ----------
+  31 Aug 1917 0
+    date:24 Aug 1917 (64,12)
+    reference:Operation Orders No 4 (h) (46,5)
+    reference:No. 4. (52,5)
+    person:Captain H P Borlase (commander) (39,9)
+Page 32 (type orders) http://wd3.herokuapp.com/pages/AWD0003kym  ----------
+  31 Aug 1917 0
+    reference:Operation Orders No 4 (h) - page 2 (48,12)
+Page 33 (type orders) http://wd3.herokuapp.com/pages/AWD0003l03  ----------
+  31 Aug 1917 0
+    date:28 Aug 1917 (63,13)
+    reference:Operation Orders No 4 (k) (46,3)
+    reference:No. 4. K (55,5)
+    person:Captain H P Borlase (commander) (38,9)
+Page 34 (type orders) http://wd3.herokuapp.com/pages/AWD0003l05  ----------
+  31 Aug 1917 0
+    reference:Operation Orders No 4 (k) - page 2 (44,4)
+    person:Second Lieutenant L W Hitchcock (author) (57,66)
+Page 35 (type cover)
+Page 36 (type report) http://wd3.herokuapp.com/pages/AWD0003kzt  ----------
+  31 Aug 1917 0
+    person:Lieutenant Bird (other) (35,18)
+    person:Second Lieutenant Meggitt (other) (35,20)
+    person:Sergeant P Bowden (other) (35,22)
+    person:Corporal Roper (other) (34,26)
+    person:Corporal H Tuck (other) (43,28)
+    person:Lance Corporal W Hepworth (other) (40,29)
+    person:Lance Corporal Hall (other) (34,31)
+    person:Private F Andrews (other) (38,33)
+    person:Private Boldison (other) (52,34)
+    person:Private L Barber (other) (40,37)
+    person:Private Catchpole (other) (33,38)
+    person:Private E N Cox (other) (50,40)
+    person:Private Layton (other) (40,42)
+    person:Private E Lord (other) (50,44)
+    person:Private T Lightbody (other) (50,46)
+    person:Private Mayne (other) (37,48)
+    person:Private Martin (other) (38,50)
+    person:Private C Mourant (other) (50,51)
+    person:Private S Roughton (other) (49,57)
+    person:Private J R Smith (other) (51,59)
+    person:Private C Pritchard (other) (51,61)
+    person:Private T H Moore (other) (49,63)
+    person:Private T White (other) (45,65)
+    person:Private F Addy (other) (49,67)
+    person:Driver Castle (other) (38,69)
+    person:Driver A Cupper (other) (50,70)
+    person:Driver Atkinson (other) (51,73)
+    person:Driver E Womack (other) (39,74)
+Page 37 (type cover)
+Page 38 (type diary) http://wd3.herokuapp.com/pages/AWD0003kz3  ----------
+  1 Sep 1917 20
+    time:1000AM (17,22)
+    place:Beuvry (9,23)
+    person:Company Quarter Master Sergeant T Sullivan (discipline) (31,23)
+    time:0430PM (18,26)
+    unit:5 mgc (46,26)
+    activity:movement (40,28)
+  5 Sep 1917 29
+    person:Company Quarter Master Sergeant T Sullivan (discipline) (42,35)
+  6 Sep 1917 36
+    time:0930AM (18,36)
+    activity:movement (26,39)
+    domestic:parades (28,39)
+    time:0730PM (17,40)
+  7 Sep 1917 41
+    unit:99 I Brigade (39,43)
+  9 Sep 1917 45
+    person:Private C Boldison (casualty_wounded) (47,47)
+    time:0600PM (17,48)
+    person:Private McKenna (casualty_wounded) (75,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (23,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (78,49)
+  10 Sep 1917 51
+    time:0900AM (17,53)
+    person:Captain Borlase (departed_training) (28,54)
+  12 Sep 1917 56
+    domestic:parades (31,57)
+    time:0700PM (17,58)
+  16 Sep 1917 60
+    activity:movement (26,60)
+    time:0700PM (18,62)
+    domestic:parades (32,63)
+  20 Sep 1917 64
+    activity:movement (26,64)
+  21 Sep 1917 67
+    activity:movement (26,67)
+    time:1130PM (18,67)
+    domestic:parades (27,70)
+    time:0700PM (18,70)
+    unit:99 mgc (55,70)
+    activity:movement (25,71)
+    unit:99 mgc (43,71)
+  23 Sep 1917 72
+    domestic:parades (34,75)
+    time:0700PM (18,75)
+    activity:movement (27,76)
+  27 Sep 1917 77
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (37,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (22,77)
+    domestic:parades (28,79)
+    time:0700PM (18,79)
+    activity:movement (26,80)
+Page 39 (type cover)
+Page 40 (type orders) http://wd3.herokuapp.com/pages/AWD0003l00  ----------
+  27 Sep 1917 0
+    person:Captain Borlase (commander) (36,11)
+    person:Captain H Poynton Borlase (commander) (39,12)
+    orders:move (44,19)
+    orders:move (43,27)
+    person:Second Lieutenant Hitchcock (author) (52,65)
+    date:5 Sep 1917 (62,7)
+Page 41 (type orders) http://wd3.herokuapp.com/pages/AWD0003l0d  ----------
+  27 Sep 1917 0
+    person:Captain H Poynton Borlase (commander) (38,11)
+    date:11 Sep 1917 (63,13)
+    orders:move (36,17)
+    person:Second Lieutenant Hitchcock (author) (51,63)
+    reference:Operation Orders No 4P (44,7)
+Page 42 (type orders) http://wd3.herokuapp.com/pages/AWD0003l06  ----------
+  27 Sep 1917 0
+    date:15 Sep 1917 (61,13)
+    person:Second Lieutenant Hitchcock (author) (57,61)
+    reference:Operation Orders No 4Q (48,8)
+    person:Captain H Poynton Borlase (commander) (42,9)
+Page 43 (type orders) http://wd3.herokuapp.com/pages/AWD0003kzk  ----------
+  27 Sep 1917 0
+    date:20 Sep 1917 (61,13)
+    reference:Operation Orders No 5 (44,7)
+Page 44 (type orders) http://wd3.herokuapp.com/pages/AWD0003kyz  ----------
+  27 Sep 1917 0
+    date:20 Sep 1917 (62,13)
+    person:Second Lieutenant Hitchcock (author) (52,51)
+    reference:Operation Orders No 6 (48,9)
+Page 45 (type orders) http://wd3.herokuapp.com/pages/AWD0003kzn  ----------
+  27 Sep 1917 0
+    orders:move (44,20)
+    reference:Operation Orders No 7 (49,6)
+    person:Second Lieutenant Hitchcock (55,62)
+    date:23 Sep 1917 (59,9)
+Page 46 (type orders) http://wd3.herokuapp.com/pages/AWD0003kz6  ----------
+  27 Sep 1917 0
+    reference:Operation Orders No 7A (50,5)
+    date:27 Sep 1917 (57,5)
+    person:Lieutenant Hitchcock (author) (56,53)
+Page 47 (type cover)
+Page 48 (type diary) http://wd3.herokuapp.com/pages/AWD0003kz5  ----------
+  1 Oct 1917 21
+    person:Major Todd (other) (23,23)
+    time:0930AM (18,23)
+    place:Beuvry (8,23)
+    time:0845PM (18,28)
+  2 Oct 1917 30
+    time:0100PM (18,32)
+  3 Oct 1917 34
+    time:0400PM (18,35)
+  4 Oct 1917 38
+    time:0300PM (18,38)
+    time:0300PM (18,41)
+  5 Oct 1917 43
+    time:1000PM (18,45)
+  6 Oct 1917 46
+    time:0400PM (19,49)
+  7 Oct 1917 53
+    time:0830AM (19,56)
+    activity:movement (27,56)
+  9 Oct 1917 58
+    mapRef:36B NW (56,59)
+    time:1030AM (17,61)
+  13 Oct 1917 62
+    place:Marles Les Mines (8,63)
+    time:0730AM (19,65)
+    person:Lieutenant Ra Johnson (departed_training) (25,66)
+  16 Oct 1917 67
+  20 Oct 1917 70
+    person:Lieutenant Ra Johnson (returned_training) (26,70)
+    time:0230PM (17,72)
+  22 Oct 1917 73
+    person:Lieutenant S M Grose (other) (54,73)
+    person:Lieutenant H Bird (commander) (63,73)
+    person:Lieutenant L W Hitchcock (other) (71,74)
+    time:0730AM (18,75)
+    person:Lieutenant Johnson (departed_posted) (23,76)
+  23 Oct 1917 77
+    time:0600PM (18,77)
+  25 Oct 1917 80
+    person:Lieutenant Colonel Armstrong (other) (34,80)
+    time:0930AM (18,80)
+    activity:training (67,81)
+    time:0900AM (17,82)
+  26 Oct 1917 83
+    activity:training (28,83)
+    time:1000AM (18,85)
+    person:Lieutenant Hitchcock (other) (47,88)
+    time:0100PM (17,91)
+    person:Lieutenant Johnson (25,92)
+Page 49 (type diary) http://wd3.herokuapp.com/pages/AWD0003kzg  ----------
+  28 Oct 1917 23
+    place:Marles Les Mines (8,23)
+    time:0400PM (19,23)
+    place:Camiers (54,24)
+    person:Captain Borlase (26,24)
+  30 Oct 1917 27
+    time:0900AM (18,28)
+    unit:6 Machine Gun Company (54,31)
+  31 Oct 1917 32
+    time:0900PM (18,34)
+Page 50 (type orders) http://wd3.herokuapp.com/pages/AWD0003kyp  ----------
+  31 Oct 1917 0
+    reference:2nd Division No GS579/94 (51,13)
+    date:1 Oct 1917 (37,75)
+Page 51 (type orders) http://wd3.herokuapp.com/pages/AWD0003kzr  ----------
+  31 Oct 1917 0
+    reference:2nd Division No GS579/94/1 (58,29)
+    person:Lieutenant Colonel (commander) (65,78)
+    date:4 Oct 1917 (33,80)
+Page 52 (type orders) http://wd3.herokuapp.com/pages/AWD0003kzv  ----------
+  31 Oct 1917 0
+    reference:Order No 7B (46,12)
+    date:2 Oct 1917 (55,6)
+Page 53 (type orders) http://wd3.herokuapp.com/pages/AWD0003l07  ----------
+  31 Oct 1917 0
+    reference:Order No 8 (51,10)
+    person:Lance Corporal J A W Wildgoose (other) (53,27)
+    person:Private A Smith (other) (50,28)
+    person:Second Lieutenant L C Burckhardt (other) (47,48)
+    date:6 Oct 1917 (60,6)
+    person:Lieutenant Hitchcock (50,84)
+Page 54 (type diary) http://wd3.herokuapp.com/pages/AWD0003kyk  ----------
+  1 Nov 1917 21
+    activity:training (23,25)
+    unit:5 Infantry Brigade (40,26)
+  2 Nov 1917 31
+    activity:training (33,35)
+    place:Raimbert Fosse (50,35)
+  3 Nov 1917 36
+  4 Nov 1917 44
+    activity:training (55,48)
+    place:Raimbert Fosse (40,51)
+  6 Nov 1917 55
+    activity:movement (32,58)
+    place:Houleron (7,58)
+    place:Marles-les-Mines (72,60)
+    activity:movement (43,62)
+    place:Houleron (27,62)
+  7 Nov 1917 63
+    place:Eecke (7,65)
+    place:Houleron (49,66)
+    person:Private Hammett (awol) (31,68)
+  8 Nov 1917 72
+    place:Houtkerque (7,74)
+    activity:movement (35,75)
+    place:Houtkerque (70,75)
+    domestic:accomodation (31,78)
+  10 Nov 1917 80
+    person:Private Hammett (other) (38,82)
+  12 Nov 1917 88
+    activity:training (28,91)
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD0003l02  ----------
+  13 Nov 1917 19
+    place:Houtkerque (7,22)
+  14 Nov 1917 26
+    person:Private Hammett (awol) (36,30)
+  17 Nov 1917 32
+    person:Private Hammett (awol) (36,35)
+  18 Nov 1917 37
+  21 Nov 1917 49
+    person:Corporal Laver (36,51)
+  22 Nov 1917 63
+  24 Nov 1917 78
+    activity:movement (29,81)
+    place:Esquelbecque (48,81)
+  25 Nov 1917 86
+    place:Bapaume (8,87)
+    place:Bapaume (39,89)
+    place:Lebucquiere (8,90)
+    place:Lebucquiere (40,93)
+Page 56 (type diary) http://wd3.herokuapp.com/pages/AWD0003kz8  ----------
+  28 Nov 1917 25
+    place:Lebucquiere (8,26)
+    activity:movement (43,27)
+    activity:line (51,28)
+  29 Nov 1917 33
+    casualties:died: 1; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (43,35)
+    casualties:died: 1; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (53,35)
+  30 Nov 1917 40
+    activity:fire (32,43)
+    activity:line (26,50)
+    activity:fire (42,50)
+    time:0905AM (18,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (70,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (40,72)
+Page 57 (type diary) http://wd3.herokuapp.com/pages/AWD0003kyu  ----------
+  30 Nov 1917 0
+  1 Dec 1917 24
+    place:Moeuvres (8,26)
+    activity:enemy_activity (56,28)
+    activity:attack (66,30)
+    gridRef:E_20_D_80_60 (26,33)
+    time:0700AM (35,34)
+    time:0810AM (36,36)
+    activity:fire (55,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (41,44)
+    activity:attack (50,46)
+  2 Dec 1917 49
+    activity:quiet (60,49)
+    activity:quiet (40,54)
+    activity:fire (37,63)
+  3 Dec 1917 64
+    person:Lieutenant Lewis (commander) (27,69)
+  4 Dec 1917 73
+    activity:quiet (43,74)
+    person:Second Lieutenant Burckhardt (other) (59,82)
+    gridRef:K_4_D_15_35 (46,82)
+    person:Lieutenant Grose (other) (27,83)
+    gridRef:E_28_D_40_40 (50,84)
+  5 Dec 1917 86
+    activity:fire (45,89)
+    gridRef:E_28_D_30_80 (28,90)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,92)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,92)
+Page 58 (type diary) http://wd3.herokuapp.com/pages/AWD0003kzc  ----------
+  5 Dec 1917 0
+  6 Dec 1917 23
+    activity:line (24,27)
+    place:Moeuvres (6,28)
+    person:Second Lieutenant Robotham (other) (64,32)
+    gridRef:K_9_C_55_85 (29,34)
+    person:Sergeant King (other) (64,35)
+    activity:withdraw (58,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (57,41)
+    person:Sergeant King (casualty_wounded) (56,41)
+  9 Dec 1917 51
+    activity:movement (39,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,58)
+  15 Dec 1917 68
+    unit:5 M G Coy (37,68)
+    activity:reconnoitered (48,70)
+    place:Moeuvres (7,70)
+    unit:No. 5 mgc (52,73)
+Page 59 (type diary) http://wd3.herokuapp.com/pages/AWD0003kyt  ----------
+  27 Dec 1917 23
+    place:Velu (4,26)
+  28 Dec 1917 31
+    activity:movement (40,31)
+    domestic:accomodation (49,35)
+    place:Barastre (59,35)
+  29 Dec 1917 38
+    place:Barastre (5,38)
+    domestic:inspections (38,39)
+    person:Corporal W H Holmes (award) (51,45)
+    person:Private H Wood (award) (49,47)
+    person:Sergeant G H Athay (award) (56,48)
+    person:Corporal Strathern (award) (40,51)
+    person:Private C Prentice (award) (51,53)
+Page 60 (type cover)
+Page 61 (type diary) http://wd3.herokuapp.com/pages/AWD0003kz4  ----------
+  1 Jan 1918 20
+    place:Barastre (8,21)
+  2 Jan 1918 22
+    domestic:accomodation (54,24)
+  3 Jan 1918 32
+    place:Beaulencourt (9,32)
+    activity:movement (28,36)
+    activity:fire (32,42)
+  5 Jan 1918 49
+    person:Lieutenant D A Lewis (award) (37,49)
+    person:Lieutenant E L Bird (award) (49,50)
+    person:Second Lieutenant A T Birdseye (joined) (43,52)
+  6 Jan 1918 53
+    activity:training (46,56)
+  15 Jan 1918 65
+    unit:99 Machine Gun Company (42,66)
+  18 Jan 1918 67
+    domestic:inspections (43,67)
+  21 Jan 1918 69
+    unit:5 Machine Gun Company (58,75)
+  23 Jan 1918 76
+    place:Metz (29,76)
+    activity:movement (32,79)
+    place:Metz (62,80)
+    activity:movement (57,81)
+    place:Rocquigny (62,82)
+    place:Metz (70,82)
+  25 Jan 1918 83
+    activity:training (46,86)
+    place:Metz (7,86)
+  29 Jan 1918 87
+Page 62 (type diary) http://wd3.herokuapp.com/pages/AWD0003kz1  ----------
+  29 Jan 1918 24
+    place:Metz (8,26)
+    domestic:accomodation (33,27)
+  31 Jan 1918 30
+    unit:C section (64,30)
+    unit:B section (63,33)
+    unit:No. 6 mgc (42,33)
+    unit:99 Machine Gun Company (53,35)
+Page 63 (type orders) http://wd3.herokuapp.com/pages/AWD0003kyy  ----------
+  31 Jan 1918 0
+    reference:Order No 16 (56,7)
+    date:23 Jan 1918 (60,9)
+Page 64 (type orders) http://wd3.herokuapp.com/pages/AWD0003kzu  ----------
+  31 Jan 1918 0
+    reference:Order No 16 (57,4)
+    date:29 Jan 1918 (52,7)
+    person:Lieutenant Bird (author) (58,75)
+Page 65 (type diary) http://wd3.herokuapp.com/pages/AWD0003l0a  ----------
+  31 Jan 1918 0
+  1 Feb 1918 23
+    unit:No. 6 mgc (50,24)
+    place:Metz (9,25)
+    unit:No. 99 mgc (52,26)
+    unit:4 Machine Gun Company (73,26)
+    unit:99 Machine Gun Company (80,26)
+    place:Metz (40,31)
+  6 Feb 1918 39
+    activity:working (41,41)
+  8 Feb 1918 45
+    activity:line (41,47)
+    unit:Brigade mgc (63,58)
+  17 Feb 1918 72
+  18 Feb 1918 79
+    activity:working (46,81)
+Page 66 (type diary) http://wd3.herokuapp.com/pages/AWD0003kzf  ----------
+  20 Feb 1918 20
+    unit:No. 5 mgc (48,26)
+    unit:No. 6 mgc (49,30)
+    unit:No. 99 mgc (71,39)
+  22 Feb 1918 44
+  24 Feb 1918 54
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (39,77)
+    place:Metz (72,83)
+  26 Feb 1918 84

@@ -1,0 +1,2011 @@
+GWD000000o wo/95/1278/3
+1 DIVISION:  3 Infantry Brigade: 1 Battalion Gloucestershire Regiment.  
+85 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type cover)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD00004d5  ----------
+  1 Jan 1916 0
+  7 Jan 1916 19
+    unit:2 Royal Sussex Regiment (49,21)
+    activity:movement (47,25)
+  8 Jan 1916 31
+    place:Philosophe (56,34)
+    person:Second Lieutenant N M Williams (departed_posted) (48,37)
+    activity:fire (58,42)
+  9 Jan 1916 44
+    place:Philosophe (49,50)
+    activity:fire (46,52)
+    activity:fire (53,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (57,56)
+  12 Jan 1916 60
+    place:Philosophe (56,63)
+    activity:fire (54,64)
+  13 Jan 1916 66
+    activity:movement (50,69)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD00004dm  ----------
+  1 Jan 1916 24
+    unit:Swb (51,31)
+    unit:1 Company 2/Welch (58,31)
+    unit:2 Welch (44,33)
+    unit:French ix corps (47,36)
+    place:Posen Alley (60,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (47,37)
+    time:0930PM (58,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (50,42)
+  2 Jan 1916 43
+    activity:line (47,46)
+    activity:fire (55,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (50,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (56,48)
+  3 Jan 1916 49
+    activity:line (46,52)
+    activity:fire (55,52)
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,53)
+  4 Jan 1916 54
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 1 (52,54)
+    unit:2 Welch (53,58)
+    unit:1 Company 2/Welch (49,58)
+    place:Gun Alley (57,61)
+  5 Jan 1916 62
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 1 (56,65)
+  6 Jan 1916 66
+    activity:quiet (54,67)
+    activity:quiet (49,70)
+    person:Second Lieutenant G E Chaney (joined) (57,73)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD00004cv  ----------
+  6 Jan 1916 0
+    activity:movement (47,23)
+    place:Lillers (55,23)
+    time:1045AM (43,24)
+    activity:movement (47,26)
+    place:Raimbert (59,26)
+  14 Jan 1916 27
+    place:Raimbert (46,29)
+    person:Captain Bosanquet (53,29)
+    person:Captain O C Wetherall (other) (51,34)
+  15 Jan 1916 35
+    person:Lieutenant Ollis (returned_training) (43,35)
+    person:Second Lieutenant Hart (returned_training) (44,39)
+    person:Second Lieutenant George (returned_training) (58,41)
+    place:Ferfay (57,43)
+  16 Jan 1916 44
+    activity:movement (45,47)
+    place:Cauchy (57,47)
+    time:0300PM (52,49)
+    person:Captain Scott-Tucker (returned_leave) (57,49)
+    person:Captain Scott Scott-Tucker (joined) (45,50)
+  17 Jan 1916 51
+    activity:movement (49,55)
+    place:Raimbert (57,55)
+  18 Jan 1916 57
+    person:Captain Scott-Tucker (other) (47,57)
+    activity:training (58,61)
+  19 Jan 1916 63
+    activity:training (45,66)
+  20 Jan 1916 67
+    activity:training (45,70)
+    place:Ferfay (57,70)
+    person:General Joffre (other) (45,72)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD00004e8  ----------
+  21 Jan 1916 19
+    activity:training (46,21)
+  22 Jan 1916 22
+    activity:training (46,25)
+    person:Second Lieutenant Langton (departed_posted) (57,25)
+    person:Second Lieutenant Cook (departed_posted) (43,26)
+    place:Raimbert (59,28)
+  24 Jan 1916 32
+    activity:training (44,32)
+    activity:training (44,35)
+  25 Jan 1916 36
+    activity:training (43,38)
+  26 Jan 1916 39
+    activity:training (47,42)
+  27 Jan 1916 43
+    unit:173 coy re (46,44)
+    activity:training (45,46)
+  28 Jan 1916 47
+    activity:training (46,50)
+  30 Jan 1916 52
+    activity:training (46,53)
+  31 Jan 1916 55
+    activity:training (45,58)
+Page 8 (type cover)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD00004dr  ----------
+  1 Feb 1916 22
+    activity:training (26,24)
+  2 Feb 1916 26
+    activity:training (26,28)
+  3 Feb 1916 29
+    activity:training (22,31)
+  4 Feb 1916 33
+    domestic:inspections (75,34)
+    activity:training (24,35)
+    person:Lieutenant Colonel Pagan (other) (43,35)
+  5 Feb 1916 43
+    person:Second Lieutenant C H Steele (joined) (48,45)
+    activity:training (26,46)
+    unit:Re (20,49)
+  6 Feb 1916 50
+    person:Lance Sergeant Needs (award) (69,56)
+  7 Feb 1916 57
+    person:Company Sergeant Major Crimmins (award) (34,57)
+    person:Sergeant Reece (award) (47,57)
+    activity:movement (63,60)
+    time:0900AM (46,63)
+  8 Feb 1916 65
+    activity:training (26,67)
+  9 Feb 1916 69
+    activity:training (29,70)
+  10 Feb 1916 71
+    activity:training (23,74)
+  11 Feb 1916 75
+  12 Feb 1916 82
+    activity:training (25,84)
+  13 Feb 1916 85
+    activity:resting (29,87)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD00004e4  ----------
+  13 Feb 1916 0
+  14 Feb 1916 22
+    time:0850AM (29,24)
+    place:Lillers (51,24)
+    place:Cauchy (7,24)
+    activity:movement (42,24)
+    place:Noeux Les Mines (67,28)
+    activity:movement (82,28)
+    place:Les Brebis (38,30)
+    domestic:rations (55,31)
+    time:0530PM (54,35)
+    unit:7 Battalion London Regiment (88,37)
+    place:Loos (30,38)
+    place:Loos (68,38)
+    activity:movement (57,38)
+    unit:Royal Munster Fusiliers (49,42)
+    unit:1 Royal Munster Fusiliers (62,42)
+    time:0950PM (81,49)
+    unit:Royal Munster Fusiliers (79,52)
+    activity:repair (25,54)
+    reference:Harrisons Crater (71,55)
+    time:0700AM (83,55)
+    activity:repair (32,56)
+    person:Captain K A R Smith (joined) (27,59)
+  15 Feb 1916 60
+    person:Second Lieutenant F C Davis (joined) (45,60)
+    activity:strength (65,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (39,63)
+    activity:fire (25,63)
+    activity:fire (28,63)
+  16 Feb 1916 64
+    weather:rain (63,66)
+  17 Feb 1916 67
+    activity:quiet (78,67)
+    time:0725AM (17,69)
+    activity:enemy_activity (30,69)
+    reference:Harts Crater (82,70)
+    activity:fire (26,72)
+    time:0800AM (52,74)
+    place:North Maroc (32,79)
+    place:Loos (28,81)
+    place:Fort Glatz (81,83)
+    place:Maroc (42,86)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD00004cx  ----------
+  19 Feb 1916 23
+    activity:fire (57,27)
+    time:0420PM (17,31)
+    reference:Harts Crater (42,34)
+    reference:Harrisons Crater (60,34)
+    time:0730PM (30,36)
+    place:South Street (84,37)
+    unit:South Wales Borderers (70,40)
+    reference:Harrisons Crater (66,41)
+    activity:repair (34,42)
+    place:Regent Street (38,46)
+    activity:attack (31,49)
+    casualties:died: 0; killed: 2; missing: 5; prisoner: 0; sick: 0; wounded: 12 (82,52)
+    casualties:died: 0; killed: 2; missing: 5; prisoner: 0; sick: 0; wounded: 12 (68,52)
+    unit:South Wales Borderers (45,53)
+    casualties:died: 0; killed: 2; missing: 5; prisoner: 0; sick: 0; wounded: 12 (41,54)
+  20 Feb 1916 69
+    time:0435AM (17,57)
+    reference:Harrisons Crater (45,61)
+    reference:Harts Crater (33,64)
+    unit:1/6 Welch Regiment (72,73)
+    activity:movement (52,73)
+  14 Feb 1916 74
+    activity:fire (64,76)
+    reference:Harrisons Crater (78,77)
+    reference: (24,82)
+    place:Loos (33,85)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD00004dy  ----------
+  21 Feb 1916 20
+    activity:line (36,23)
+    activity:fire (56,24)
+  22 Feb 1916 26
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (54,27)
+    activity:fire (27,30)
+    weather:cold (71,33)
+  23 Feb 1916 42
+    activity:fire (48,46)
+    weather:cold (43,50)
+    unit:1/6 Welch (83,50)
+    time:0700PM (72,50)
+    place:Les Brebis (81,53)
+  24 Feb 1916 56
+    time:1000PM (70,56)
+  25 Feb 1916 59
+    activity:resting (34,60)
+    place:Les Brebis (6,60)
+    activity:resting (25,61)
+    time:1200PM (33,64)
+    person:Lieutenant Colonel Pagan (combat) (47,64)
+    time:0700PM (16,73)
+    activity:other (26,74)
+    person:Lieutenant Colonel Pagan (author) (26,78)
+    person:Second Lieutenant W R K Heath (other) (40,87)
+    person:Lieutenant R M Hart (other) (74,87)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD00004df  ----------
+  25 Feb 1916 21
+    activity:repair (47,27)
+    person:Second Lieutenant J K George (other) (78,27)
+    activity:fire (50,30)
+    person:Second Lieutenant W W Morgan (other) (29,30)
+    activity:fire (68,34)
+    activity:attack (40,47)
+    activity:fire (37,55)
+    activity:attack (76,56)
+    time:1100PM (16,60)
+    activity:fire (71,62)
+  26 Feb 1916 76
+    time:0100AM (17,69)
+    activity:enemy_activity (32,71)
+    activity:repair (59,74)
+    time:0515AM (62,78)
+    person:Second Lieutenant W R K Heath (casualty_kia) (36,83)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 2; wounded: 1 (24,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (42,89)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD00004ee  ----------
+  26 Feb 1916 0
+    person:Second Lieutenant W Morgan (award) (44,23)
+    person:Sergeant J Newman (award) (55,23)
+    person:Private Sibley (award) (74,23)
+    person:Second Lieutenant George Hart (award) (28,24)
+    person:Private Reynolds (award) (31,26)
+    person:Private Preston (award) (48,26)
+    reference:Appendix 1 (55,31)
+  27 Feb 1916 35
+    place:Les Brebis (6,35)
+    domestic:accomodation (29,38)
+Page 15 (type other) http://wd3.herokuapp.com/pages/AWD00004cp  ----------
+  27 Feb 1916 0
+    mapRef: (31,5)
+Page 16 (type cover)
+Page 17 (type cover)
+Page 18 (type cover)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD00004da  ----------
+  1 Mar 1916 21
+  2 Mar 1916 24
+    activity:fire (45,24)
+  3 Mar 1916 27
+    unit:1 (86,29)
+    time:0615PM (17,30)
+    activity:movement (28,30)
+    place:Les Brebis (6,30)
+    activity:movement (24,31)
+    time:0910PM (37,33)
+    gridRef:M_4_C_3_5 (84,33)
+    gridRef:M_5_C_4_7 (26,37)
+    reference:#Trenches #Bad state #Enemy shelling #Snow (30,51)
+    time:1000PM (39,54)
+  4 Mar 1916 55
+    weather:cold (23,55)
+    time:1100AM (17,58)
+    activity:fire (48,58)
+    place:Maroc Sector (6,59)
+    reference:#Trench rendered useless #Enemy fire (68,66)
+  5 Mar 1916 69
+    activity:fire (47,72)
+    reference:#Trench repaired #Destroyed again #Enemy fire (67,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (35,83)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD00004e1  ----------
+  6 Mar 1916 20
+    activity:fire (35,24)
+    place:Maroc Sector (6,24)
+    unit:173 coy re (50,27)
+    time:0400PM (17,27)
+    activity:other (28,27)
+    gridRef:M_4_C_7_4 (54,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (78,35)
+    time:0630PM (17,37)
+    unit:1/6 Welch Regiment (36,38)
+  7 Mar 1916 43
+  8 Mar 1916 46
+    activity:resting (26,46)
+    place:Les Brebis (7,46)
+    activity:resting (22,50)
+  9 Mar 1916 51
+    place:Maroc (43,53)
+    unit:1/6 Welch Regiment (60,54)
+    activity:movement (33,54)
+    activity:line (77,54)
+    gridRef:M_4_C_4_7 (72,66)
+    unit:8 Royal Irish Fusiliers (65,78)
+    time:0900PM (46,78)
+    activity:training (62,81)
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD00004ea  ----------
+  9 Mar 1916 0
+  10 Mar 1916 20
+    activity:fire (28,24)
+    reference:#Trench wrecked #Enemy fire (69,30)
+    reference:#Observation post #Destroyed (26,32)
+    time:0230PM (77,37)
+    reference:#Aerial torpedoes #Trench mortar bombs (31,41)
+    activity:attack (62,49)
+    time:0200PM (52,51)
+  11 Mar 1916 59
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (79,59)
+    activity:fire (29,64)
+    unit:8 Royal Irish Fusiliers (51,70)
+    unit:8 R I Fus (53,70)
+  12 Mar 1916 74
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (25,74)
+    activity:fire (34,79)
+    time:0715AM (83,82)
+    time:0700AM (68,83)
+    reference:#Enemy shelled #Dug out containing 25 men #Men dug themselves out after 22 hours (31,86)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD00004ct  ----------
+  12 Mar 1916 22
+    person:Sergeant W Drake (award) (50,31)
+    person:Lieutenant N Durant (casualty_kia) (81,33)
+    casualties:died: 0; killed: 6; missing: 0; prisoner: 0; sick: 0; wounded: 0 (70,36)
+    time:0900PM (74,38)
+    person:Second Lieutenant W Morgan (award) (26,41)
+    person:Sergeant W Drake (award) (40,41)
+    person:Private Edmonds (award) (66,41)
+    casualties:died: 0; killed: 6; missing: 0; prisoner: 0; sick: 0; wounded: 9 (60,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 9 (77,48)
+    person:Lieutenant N Durant (casualty_kia) (41,49)
+    casualties:died: 0; killed: 6; missing: 0; prisoner: 0; sick: 0; wounded: 9 (69,49)
+    activity:movement (73,53)
+    unit:1/6 Welch (34,53)
+    unit:1/6 Welch Regiment (34,54)
+  13 Mar 1916 58
+    place:South Maroc (7,62)
+    reference:#In cellars #support (25,63)
+    person:Second Lieutenant A Birley (joined) (26,66)
+  15 Mar 1916 71
+    activity:movement (76,77)
+    time:0830PM (17,77)
+    unit:1 Northants (40,79)
+    domestic:accomodation (33,81)
+    time:1000PM (64,84)
+  16 Mar 1916 86
+    place:Les Brebis (7,87)
+    activity:enemy_activity (59,89)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD00004dp  ----------
+  17 Mar 1916 20
+    place:Les Brebis (7,24)
+  18 Mar 1916 25
+    activity:resting (28,25)
+    time:0845AM (48,28)
+    activity:fire (62,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (65,32)
+  19 Mar 1916 33
+    activity:resting (28,35)
+  20 Mar 1916 37
+    unit:10 Gloucester Regiment (45,44)
+  21 Mar 1916 51
+    unit:1 Brigade Gloucester Reg (44,55)
+    unit:1 Brigade (36,56)
+    gridRef:M_5_A_3_1 (37,59)
+    gridRef:M_6_C_7_9 (60,59)
+    unit:1 Cameron Highlanders (54,62)
+    time:1030PM (67,80)
+    person:Major C Welch (other) (27,83)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD00004d0  ----------
+  22 Mar 1916 17
+    activity:fire (53,22)
+    place:Loos Sector (5,22)
+    activity:attack (48,29)
+    activity:enemy_activity (76,32)
+    gridRef:M_6_D__ (51,33)
+  23 Mar 1916 40
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 4 (32,40)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 4 (48,41)
+    activity:quiet (28,45)
+  24 Mar 1916 48
+    weather:cold (35,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (58,57)
+    unit:1/6 Welch Regiment (45,62)
+    unit:1 Company R Munster Fusrs (82,62)
+    unit:Royal Munster Fusiliers (79,63)
+    activity:movement (36,66)
+  25 Mar 1916 69
+    reference:#Snow blizzard (30,70)
+    weather:cold (30,70)
+  26 Mar 1916 74
+    activity:repair (65,74)
+  27 Mar 1916 78
+    person:Second Lieutenant H M Gowing (joined) (40,78)
+    person:Lieutenant G G H Reade (joined) (27,78)
+    person:Second Lieutenant J G Cockett (joined) (52,79)
+    unit:1/6 Welch (71,82)
+    time:0630PM (17,83)
+    unit:1/6 Welch Regiment (67,83)
+    activity:movement (26,83)
+    activity:line (44,83)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD00004e5  ----------
+  28 Mar 1916 21
+    place:Loos (5,24)
+    reference:#Pipsqueaking (49,26)
+    activity:enemy_activity (42,27)
+  29 Mar 1916 29
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,36)
+  30 Mar 1916 38
+    activity:enemy_activity (40,40)
+    time:0630AM (17,40)
+    time:0130PM (17,52)
+    activity:enemy_activity (48,53)
+    time:0330PM (27,53)
+    unit:1/6 Welch Regiment (43,65)
+    unit:1/6 Welch (46,65)
+    activity:movement (71,66)
+    unit:1 South Wales Borderers (52,77)
+    unit:Swb (52,78)
+    unit:1/6 Welch Regiment (31,81)
+    unit:1/6 Welch (33,81)
+  31 Mar 1916 82
+Page 26 (type cover)
+Page 27 (type cover)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD00004d3  ----------
+  2 Apr 1916 24
+    place:Loos (5,25)
+    activity:fire (49,29)
+    unit:1 South Wales Borderers (36,35)
+    unit:Swb (37,36)
+    unit:1/6 Welch Regiment (66,39)
+    activity:movement (75,43)
+    unit:2 krrc (50,43)
+    unit:2 K R R C (52,44)
+    person:Lieutenant Colonel A W Pagan (promotion) (42,52)
+  3 Apr 1916 55
+  4 Apr 1916 60
+    activity:resting (26,60)
+    activity:repair (52,65)
+  6 Apr 1916 73
+    activity:repair (39,75)
+    activity:repair (47,75)
+  8 Apr 1916 80
+    activity:movement (30,84)
+    time:0645PM (17,85)
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD00004dw  ----------
+  8 Apr 1916 20
+    place:Snow Hill (33,24)
+    place:Double Crassier (32,28)
+    place:Seventh Avenue (79,28)
+    place:Carfax Road (35,33)
+  9 Apr 1916 39
+    time:0915PM (17,39)
+    place:Maroc (6,42)
+    time:1100AM (17,43)
+    activity:fire (31,43)
+    time:0800PM (17,51)
+    activity:attack (39,52)
+    place:Southern Crassier (28,56)
+    activity:enemy_activity (38,60)
+    activity:fire (84,61)
+    time:0900PM (65,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (37,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (25,70)
+    person:Second Lieutenant H M Golding (casualty_wounded) (62,70)
+  10 Apr 1916 71
+    unit:68 Infantry Brigade (84,74)
+    activity:attack (40,75)
+    activity:enemy_activity (60,78)
+    activity:fire (62,80)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD00004ep  ----------
+  11 Apr 1916 24
+    person:Second Lieutenant C A Olds (joined) (29,24)
+    place:Maroc (8,24)
+    reference:pipsqueaks (67,28)
+    time:0200PM (16,31)
+    activity:other (28,31)
+    activity:attack (33,32)
+    reference:#Our mines #100 feet hostile wire #Blown up #Head of hostile sap destroyed #Gave us a view (59,36)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (68,48)
+    reference:#2 dead germans (61,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (31,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (51,63)
+  12 Apr 1916 66
+    time:0915PM (18,66)
+    unit:1/6 Welch Regiment (38,67)
+    activity:movement (71,67)
+  13 Apr 1916 71
+    activity:repair (58,71)
+  14 Apr 1916 75
+    activity:repair (46,75)
+    activity:repair (42,79)
+    unit:1/6 Welch Regiment (34,84)
+    time:0730PM (18,84)
+Page 31 (type diary) http://wd3.herokuapp.com/pages/AWD00004cy  ----------
+  14 Apr 1916 20
+    place:Maroc (6,22)
+    time:0845PM (16,25)
+    activity:fire (55,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (33,51)
+  15 Apr 1916 52
+    time:0930AM (28,55)
+    time:0100PM (37,55)
+    activity:fire (41,59)
+    activity:fire (66,59)
+    reference:#Great deal of damage #Our trenches, saps and dug outs (56,64)
+    reference:#Feeble retaliation #our heavy artillery (42,72)
+    activity:attack (34,72)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 6 (55,80)
+  16 Apr 1916 81
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 6 (75,81)
+    person:Second Lieutenant C A Olds (casualty_kia) (35,81)
+    activity:fire (34,84)
+    time:0800AM (17,85)
+    person:Lieutenant W J Hewitt (joined) (26,89)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD00004dh  ----------
+  17 Apr 1916 20
+    place:Maroc (7,23)
+    time:0500AM (17,24)
+    activity:enemy_activity (32,24)
+    place:Southern Crassier (27,27)
+    unit:1/6 welsh (48,31)
+    activity:quiet (70,34)
+    unit:1/6 Welch (49,37)
+    unit:1/6 Royal Welch (47,38)
+    activity:movement (70,40)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (75,44)
+    place:South Maroc (46,44)
+  18 Apr 1916 45
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (85,45)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,46)
+    place:South Maroc (5,48)
+    person:Captain W Wilkins (departed_posted) (58,49)
+    place:S Maroc (7,49)
+    person:Lieutenant W J Hewitt (other) (41,54)
+  19 Apr 1916 55
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (68,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (55,59)
+    activity:resting (31,59)
+  20 Apr 1916 60
+    unit:2/ R Sussex (49,61)
+    unit:2 Royal Sussex (36,68)
+    time:0900PM (17,68)
+    activity:movement (45,72)
+    place:Les Brebis (24,76)
+    place:Lens Road Redoubt (58,79)
+  21 Apr 1916 81
+    person:Captain G B Bosanquet (joined) (42,84)
+    place:Les Brebis (6,84)
+    activity:resting (24,85)
+  22 Apr 1916 87
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD00004cu  ----------
+  23 Apr 1916 20
+    time:0200PM (42,23)
+    activity:fire (68,23)
+    place:Les Brebis (6,24)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 3 (65,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (85,27)
+  24 Apr 1916 30
+    person:Lieutenant J C Wickens (joined) (28,30)
+    person:Lieutenant H Moore (departed_sick) (66,30)
+  25 Apr 1916 34
+  26 Apr 1916 37
+    person:Captain G B Bosanquet (other) (36,41)
+    unit:10 Gloucester Reg (64,44)
+    person:Lieutenant Colonel A W Pagan (30,45)
+    time:0745PM (17,49)
+    activity:movement (30,49)
+    place:Loos (43,49)
+    place:Scrub Lane (31,53)
+    place:Carfax Road (57,53)
+    activity:line (43,57)
+    place:South Street (51,61)
+    time:1215AM (43,65)
+  27 Apr 1916 66
+    activity:other (25,69)
+    place:Loos (7,69)
+    time:0523AM (17,70)
+    activity:enemy_activity (30,74)
+    activity:enemy_activity (38,88)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD00004ci  ----------
+  27 Apr 1916 21
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (27,17)
+    time:0800AM (62,25)
+    place:Loos (6,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (88,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (75,28)
+    activity:enemy_activity (33,32)
+    unit:48 Brigade (68,35)
+    unit:48 Brigade (68,40)
+    time:0717PM (16,40)
+    activity:other (28,41)
+  28 Apr 1916 45
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (21,45)
+    activity:fire (53,52)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (79,54)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (85,60)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (75,60)
+    activity:enemy_activity (38,61)
+    reference:#5 bombs #front line #2 sentries killed (36,62)
+    time:0500PM (17,65)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 5 (22,67)
+    unit:Xiv Division (69,70)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 5 (27,73)
+  29 Apr 1916 74
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 5 (39,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (65,74)
+    person:Second Lieutenant G E Chaney (71,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (50,75)
+    unit:16 Division (62,77)
+    time:0355AM (17,78)
+    activity:fire (27,78)
+    reference:#Gas cloud #Helmets worn (73,82)
+    time:0500AM (16,82)
+    activity:enemy_activity (31,82)
+    time:0600AM (61,86)
+    time:0500AM (52,87)
+Page 35 (type diary) http://wd3.herokuapp.com/pages/AWD00004dc  ----------
+  29 Apr 1916 21
+    place:Loos (6,23)
+    time:0230PM (17,42)
+    activity:fire (61,43)
+    reference:#Retaliation #Our heavies #Neither speedy nor lasting (59,48)
+    reference:#Front line trench #Deal damaged (50,53)
+    unit:1/6 Welch (35,55)
+    unit:1/6 Welsh Regiment (35,55)
+    activity:movement (71,55)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (66,60)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (80,60)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (35,60)
+    place:Maroc (44,60)
+  30 Apr 1916 63
+    time:1050PM (17,68)
+    activity:other (69,68)
+    reference:#Stood to #SOS #Cancelled (69,70)
+    unit:1/6 Welch (58,74)
+    time:1118PM (22,79)
+Page 36 (type cover)
+Page 37 (type diary) http://wd3.herokuapp.com/pages/AWD00004dz  ----------
+  Hashtags: #mine 
+  1 May 1916 25
+    activity:resting (28,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (36,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (49,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (58,28)
+  2 May 1916 29
+    time:0730PM (17,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (75,38)
+    unit:1/6 Welsh Regiment (41,42)
+  3 May 1916 61
+    place:Loos (6,63)
+    time:0830PM (17,69)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (77,69)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,70)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,71)
+  4 May 1916 72
+    place:Loos (6,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (40,76)
+    activity:enemy_activity (45,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (81,95)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (71,95)
+Page 38 (type diary) http://wd3.herokuapp.com/pages/AWD00004cf  ----------
+  4 May 1916 0
+  5 May 1916 23
+    activity:quiet (26,24)
+    place:Loos (7,25)
+    place:South Street (55,30)
+    place:Queen Street (25,34)
+    unit:6 Welsh (40,41)
+    activity:strength (54,41)
+    activity:movement (24,43)
+    place:Loos Crassier (55,45)
+    activity:movement (78,46)
+  6 May 1916 52
+    place:Loos (4,53)
+    person:Second Lieutenant J S Avent (departed_posted) (61,61)
+  7 May 1916 62
+    place:Loos (5,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (25,70)
+    person:Second Lieutenant A C Sly (joined) (44,70)
+  8 May 1916 71
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (35,71)
+    place:Loos (4,74)
+    activity:fire (79,76)
+    person:Captain G B Bosanquet (departed_posted) (45,80)
+    person:Captain Bosanquet (departed_posted) (33,80)
+    unit:64 Inf Brigade, 21 Division (36,84)
+    person:Captain Scott-Tucker (promotion) (35,87)
+    person:Captain J H Scott-Tucker (promotion) (19,87)
+    person:Lieutenant Colonel A W Pagan (other) (72,89)
+Page 39 (type diary) http://wd3.herokuapp.com/pages/AWD00004dg  ----------
+  8 May 1916 20
+    unit:2 Royal Sussex Regiment (34,23)
+    place:Loos (6,24)
+    time:1000PM (17,24)
+    unit:2 Royal Sussex Regiment 2 Brigade (47,24)
+    place:Les Brebis (53,27)
+    domestic:accomodation (31,27)
+    time:0130AM (65,27)
+  9 May 1916 29
+    place:Les Brebis (6,31)
+  10 May 1916 32
+  11 May 1916 37
+    domestic:parades (63,37)
+  12 May 1916 38
+    domestic:hygiene (39,38)
+  13 May 1916 43
+    unit:10 Glouc Regiment (61,46)
+    time:0800PM (17,47)
+    unit:10 Batallion Gloucestershire Regiment (73,47)
+    place:Maroc (38,51)
+  14 May 1916 65
+    place:Maroc (7,67)
+    time:0420AM (17,67)
+    activity:fire (79,71)
+    time:0910AM (17,82)
+    person:Captain D Baxter (returned_hospital) (60,86)
+    activity:strength (39,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (73,89)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (65,89)
+Page 40 (type diary) http://wd3.herokuapp.com/pages/AWD00004d7  ----------
+  15 May 1916 21
+    activity:quiet (22,23)
+    activity:fire (56,23)
+    place:Maroc (7,23)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (27,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (49,27)
+  16 May 1916 28
+    place:Crassier (73,30)
+    activity:fire (34,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 7 (91,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 7 (72,34)
+  17 May 1916 35
+    activity:quiet (28,38)
+    place:Crassier (46,38)
+    activity:fire (59,39)
+    activity:line (39,46)
+    place:Haymarket (77,46)
+    place:Haymarket (54,50)
+    unit:2 krrc (47,58)
+    place:Cordiale Avenue (72,62)
+    place:Piccadilly (81,70)
+    unit:2 Welch (26,74)
+    unit:1/6 Welch (54,74)
+  18 May 1916 82
+    activity:fire (54,84)
+    time:1000AM (66,85)
+    activity:quiet (23,85)
+    time:0430PM (24,88)
+Page 41 (type diary) http://wd3.herokuapp.com/pages/AWD00004cw  ----------
+  19 May 1916 20
+    place:Maroc (6,23)
+    activity:quiet (22,23)
+    activity:movement (73,24)
+    unit:2 Welch (46,24)
+    place:Maroc (77,27)
+    time:1050PM (38,34)
+  21 May 1916 38
+    place:Maroc (5,38)
+    activity:quiet (32,38)
+    activity:repair (60,38)
+    place:Maroc (4,42)
+    time:0400PM (72,42)
+    activity:fire (39,46)
+  22 May 1916 53
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 5 (38,53)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 5 (50,53)
+    person:Lieutenant S S H Reade (returned_hospital) (79,53)
+    place:Maroc (5,56)
+  23 May 1916 57
+    activity:repair (63,57)
+  24 May 1916 60
+    place:Maroc (6,60)
+  25 May 1916 64
+    place:Maroc (5,64)
+    activity:repair (59,65)
+    unit:1 Northants (60,69)
+    time:0930PM (77,71)
+    activity:movement (64,73)
+  26 May 1916 76
+    place:Les Brebis (7,80)
+    activity:repair (33,80)
+    time:0530AM (70,80)
+    activity:fire (60,81)
+  27 May 1916 85
+    domestic:inspections (45,88)
+    activity:resting (29,89)
+Page 42 (type diary) http://wd3.herokuapp.com/pages/AWD00004d6  ----------
+  28 May 1916 22
+    place:Les Brebis (5,23)
+    place:Les Brebis (8,25)
+    person:Captain A M Jones (joined) (36,32)
+    person:Lieutenant R A Angier (joined) (47,32)
+  29 May 1916 33
+    place:Les Brebis (5,36)
+    activity:fire (61,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (45,39)
+  30 May 1916 40
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (61,41)
+    place:Les Brebis (6,43)
+  31 May 1916 45
+    time:0530AM (17,47)
+    place:Les Brebis (6,47)
+    person:Captain S T Cross (joined) (26,56)
+    person:Second Lieutenant J Peate (joined) (38,56)
+    person:Second Lieutenant A H Smythe (joined) (51,57)
+    person:Second Lieutenant L S Hudson (joined) (67,57)
+Page 43 (type cover)
+Page 44 (type diary) http://wd3.herokuapp.com/pages/AWD00004c5  ----------
+  1 Jun 1916 20
+    place:Les Brebis (6,23)
+    activity:fire (52,24)
+    time:0100PM (57,24)
+    time:0430PM (65,24)
+  2 Jun 1916 27
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 4 (44,27)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 0 (17,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (72,27)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 4 (32,27)
+    time:0230PM (17,31)
+    unit:1 Camerons (25,34)
+    activity:line (30,36)
+    gridRef:M_19_D_3_5 (56,36)
+    gridRef:M_15_C_1_5 (20,39)
+    gridRef:M_14_D_2.5_4.5 (57,46)
+    time:0530PM (87,46)
+    activity:fire (32,49)
+    time:0800PM (17,49)
+  3 Jun 1916 52
+    person:Lieutenant R M Hart (departed_sick) (24,53)
+    place:Calonne (4,54)
+    place:Calonne Sector (6,56)
+    time:0800AM (17,57)
+    activity:fire (27,60)
+  4 Jun 1916 63
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (40,63)
+    time:0230AM (17,67)
+    activity:fire (58,68)
+  5 Jun 1916 77
+    activity:strength (63,77)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,77)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (17,77)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,77)
+    activity:fire (53,81)
+  6 Jun 1916 84
+    activity:fire (33,85)
+    time:0500PM (80,88)
+    unit:2 Welch (24,90)
+Page 45 (type diary) http://wd3.herokuapp.com/pages/AWD00004e0  ----------
+  6 Jun 1916 20
+    unit:2 Welch (61,26)
+  7 Jun 1916 28
+    time:0615PM (82,29)
+    unit:1 swb (53,29)
+    place:Calonne (6,31)
+  8 Jun 1916 32
+    domestic:hygiene (62,32)
+    activity:repair (68,34)
+  9 Jun 1916 35
+    domestic:hygiene (82,35)
+    time:0400PM (78,38)
+    activity:movement (27,38)
+    activity:repair (59,41)
+    casualties:died: 1; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,43)
+  10 Jun 1916 44
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (17,44)
+    unit:2 Welch (32,47)
+    unit:19 Royal Welch Fusiliers (25,54)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (79,56)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,56)
+  11 Jun 1916 57
+    time:0700PM (51,57)
+    time:1000PM (64,57)
+    activity:quiet (31,61)
+  12 Jun 1916 64
+    time:0700AM (27,67)
+    time:0900AM (36,67)
+    activity:fire (52,70)
+    time:0445PM (57,73)
+    activity:fire (25,74)
+  13 Jun 1916 79
+    time:0445PM (36,82)
+    time:0500PM (16,86)
+Page 46 (type diary) http://wd3.herokuapp.com/pages/AWD00004c6  ----------
+  14 Jun 1916 21
+    activity:fire (36,23)
+    place:Calonne (6,23)
+    unit:2 Welch (85,27)
+    activity:movement (69,30)
+    time:0525PM (58,30)
+    time:0400PM (28,31)
+    unit:2 Welch (22,32)
+  15 Jun 1916 33
+    place:Bully (33,33)
+    activity:repair (62,37)
+    domestic:accomodation (40,37)
+    place:Bully (6,37)
+  16 Jun 1916 39
+    place:Chapital Alley (60,39)
+  17 Jun 1916 42
+    activity:repair (37,43)
+  18 Jun 1916 45
+  19 Jun 1916 48
+    unit:2 Welch (28,51)
+    unit:19 R Welch Fusiliers (31,54)
+    unit:Royal Welch Fusiliers (29,62)
+    activity:fire (78,65)
+    time:0600PM (51,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (93,68)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 3 (76,68)
+  20 Jun 1916 69
+    unit:Royal Welch Fusiliers (80,71)
+    place:Calonne (7,72)
+    unit:19 Royal Welch Fusiliers (24,72)
+    unit:12 S W B (45,72)
+    unit:12 swb (45,72)
+  21 Jun 1916 74
+    activity:fire (36,74)
+    unit:Black Watch (62,77)
+    place:Les Brebis (75,79)
+    activity:movement (34,80)
+  22 Jun 1916 83
+    time:0600PM (26,83)
+  23 Jun 1916 86
+    domestic:inspections (45,86)
+    place:Les Brebis (7,86)
+    domestic:inspections (46,89)
+Page 47 (type diary) http://wd3.herokuapp.com/pages/AWD00004ec  ----------
+  24 Jun 1916 17
+    place:Les Brebis (5,19)
+    place:Les Brebis (7,20)
+    activity:resting (31,21)
+    domestic:parades (71,21)
+    domestic:parades (58,21)
+  25 Jun 1916 23
+  26 Jun 1916 26
+    activity:resting (29,26)
+    activity:resting (30,29)
+    activity:training (72,30)
+    domestic:parades (49,30)
+  27 Jun 1916 31
+    activity:resting (32,35)
+    activity:repair (71,36)
+    domestic:parades (48,36)
+  28 Jun 1916 38
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (83,38)
+    place:Double Crassier (67,38)
+  29 Jun 1916 41
+    activity:resting (28,41)
+    domestic:inspections (49,41)
+    domestic:inspections (50,43)
+  30 Jun 1916 44
+    activity:resting (28,44)
+    activity:resting (26,47)
+    domestic:parades (47,47)
+    person:Lieutenant M A Green (author) (65,64)
+Page 48 (type cover)
+Page 49 (type report) http://wd3.herokuapp.com/pages/AWD00004cs  ----------
+  30 Jun 1916 0
+    reference:57D S.E (55,12)
+    date:16 Jul 1916 (45,9)
+Page 50 (type report) http://wd3.herokuapp.com/pages/AWD00004dj  ----------
+  30 Jun 1916 0
+    date:16 Jul 1916 (38,4)
+    date:21 Jul 1916 (45,49)
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD00004d4  ----------
+  1 Jul 1916 22
+    activity:resting (23,24)
+    domestic:accomodation (24,25)
+    place:Les Brebis (6,25)
+  2 Jul 1916 26
+    time:1115AM (47,28)
+    domestic:religion (39,28)
+    place:Les Brebis (4,28)
+  3 Jul 1916 31
+    place:Les Brebis (5,33)
+    activity:training (44,34)
+  4 Jul 1916 35
+    unit:1 Division, 3 Infantry Brigade, 1 Bt Glos (83,36)
+    place:Les Brebis (5,36)
+    unit:1 Division, 3 Infantry Brigade, 1 Bt Glos (43,37)
+    unit:14 Argyll & Sutherland Highlanders (84,37)
+    place:Les Brebis (80,39)
+    unit:1 Division, 3 Infantry Brigade, 1 Bt Glos (24,40)
+    activity:movement (63,40)
+    time:0230PM (36,42)
+    place:Braquemont (51,42)
+  5 Jul 1916 45
+    place:Bruay (32,45)
+  6 Jul 1916 48
+    domestic:inspections (35,48)
+    place:Bruay (7,48)
+    time:0330PM (17,51)
+    place:Bruay (48,51)
+    place:Choques (58,52)
+    place:Bruay (5,52)
+    activity:movement (34,52)
+    activity:movement (82,52)
+    place:Doullens (45,55)
+  7 Jul 1916 56
+    time:1245AM (16,57)
+    place:Doullens (5,57)
+    place:Doullens (39,58)
+    place:Beauval (50,58)
+    activity:movement (29,58)
+    activity:movement (76,62)
+    place:Vignacourt (22,63)
+    place:Talmas (34,64)
+    place:Flechelles (44,64)
+  8 Jul 1916 65
+    time:1000AM (17,66)
+    place:Vignacourt (7,66)
+    activity:movement (46,67)
+    place:Rainneveille (68,68)
+    place:Flechelles (24,70)
+    place:Villers Bocage (39,70)
+    weather:hot (20,73)
+    time:0930PM (41,76)
+    place:Rainneveille (59,76)
+    place:Franvillers (45,79)
+    place:Saint Gratien (62,79)
+    place:Frechencourt (74,79)
+  30 Jun 1916 0
+  8 Jul 1916 65
+    place:Behencourt (24,82)
+  9 Jul 1916 87
+    place:Franvillers (6,91)
+Page 52 (type diary) http://wd3.herokuapp.com/pages/AWD00004dt  ----------
+  9 Jul 1916 0
+  10 Jul 1916 20
+    activity:movement (29,23)
+    place:Franvillers (6,24)
+    activity:movement (84,25)
+    unit:23 Division (32,26)
+    place:Buire (38,29)
+    place:Heilly (44,29)
+    place:Dernacourt (59,30)
+  11 Jul 1916 32
+    place:Albert (7,34)
+  12 Jul 1916 36
+    place:Albert (8,37)
+  13 Jul 1916 40
+    place:Albert (7,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (90,41)
+  14 Jul 1916 42
+    activity:fire (47,42)
+    place:Albert (6,43)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (68,43)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (78,43)
+    activity:line (29,45)
+    unit:8 Berks (69,46)
+    unit:8 Berks bt Brigade (68,46)
+  15 Jul 1916 58
+    activity:fire (23,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (90,59)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (93,59)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (74,59)
+    place:Contalmaison (7,60)
+  16 Jul 1916 68
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (90,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (94,68)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 4 (75,68)
+    activity:fire (28,69)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 16 (69,77)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 16 (28,77)
+    activity:attack (29,79)
+    reference:Map Martin Puich Area (91,79)
+    gridRef:X_12_C_3_9 (21,82)
+    unit:2 Munsters (40,85)
+    unit:1 swb (65,85)
+    gridRef:X_12_C_3_9 (26,91)
+    gridRef:X_12_A_3_1 (36,91)
+    gridRef:X_12_A_3_4 (46,91)
+Page 53 (type ) http://wd3.herokuapp.com/pages/AWD00004bz  ----------
+  16 Jul 1916 22
+  17 Jul 1916 55
+    unit:Munsters (28,70)
+    unit:2 Welch (83,87)
+    unit:2 Munsters (37,89)
+Page 54 (type diary) http://wd3.herokuapp.com/pages/AWD00004ex  ----------
+  17 Jul 1916 20
+    activity:line (27,23)
+    unit:2 Welch (24,26)
+    unit:2 Munsters (24,29)
+    place:Contalmaison (76,30)
+    time:0230AM (26,33)
+    activity:attack (24,36)
+    person:Second Lieutenant G Cryer (casualty_wounded) (24,38)
+    casualties:died: 0; killed: 2; missing: 1; prisoner: 0; sick: 0; wounded: 24 (47,38)
+  18 Jul 1916 39
+    casualties:died: 0; killed: 2; missing: 1; prisoner: 0; sick: 0; wounded: 24 (56,39)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 0 (78,39)
+    activity:repair (32,42)
+    place:Contalmaison (62,45)
+    activity:fire (39,49)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 26 (32,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 20 (55,55)
+    time:1000PM (16,58)
+    time:1000PM (71,59)
+    activity:movement (84,59)
+    place:Scotts Redoubt (33,61)
+  19 Jul 1916 68
+    place:Becourt Wood (40,71)
+    activity:movement (24,72)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 11 (60,74)
+  20 Jul 1916 75
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 11 (76,75)
+    place:Becourt Wood (53,77)
+    time:0500PM (16,78)
+    unit:19 Division (25,78)
+    unit:Wilts Regiment (45,80)
+    place:Albert (81,80)
+    activity:movement (66,81)
+  21 Jul 1916 86
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 7 (67,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (79,86)
+    place:Albert (6,90)
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD00004di  ----------
+  Hashtags: #ANZACS 
+  21 Jul 1916 0
+    casualties:died: 0; killed: 6; missing: 0; prisoner: 0; sick: 0; wounded: 46 (80,13)
+  22 Jul 1916 21
+    time:0500PM (17,23)
+    place:Albert (5,24)
+    activity:movement (25,25)
+    unit:2 Brigade (28,27)
+  23 Jul 1916 29
+    time:0330PM (72,32)
+    activity:movement (42,32)
+  24 Jul 1916 37
+    time:0530AM (16,39)
+    domestic:parades (33,39)
+    activity:movement (41,40)
+    unit:2 Royal Sussex Regiment (30,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 17 (70,49)
+    place:Contalmaison (50,50)
+  25 Jul 1916 51
+    unit:Swb (21,53)
+    unit:South Wales Borderers (31,56)
+    unit:Swb (36,63)
+    activity:fire (40,68)
+    activity:enemy_activity (25,72)
+    unit:Anzacs (22,75)
+    time:0600PM (17,81)
+    unit:2 Battalion Welch (32,81)
+    person:Second Lieutenant J K George (casualty_wounded) (61,83)
+    person:Lieutenant R M Hart (casualty_kia) (38,84)
+    casualties:died: 0; killed: 6; missing: 0; prisoner: 0; sick: 0; wounded: 30 (31,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 30 (70,87)
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 29 (57,87)
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 29 (39,87)
+    casualties:died: 0; killed: 6; missing: 0; prisoner: 0; sick: 0; wounded: 0 (17,88)
+  21 Jul 1916 0
+Page 56 (type diary) http://wd3.herokuapp.com/pages/AWD00004e7  ----------
+  26 Jul 1916 21
+    activity:movement (67,23)
+    place:Millencourt (83,23)
+    unit:12 durham li (47,23)
+    time:0530PM (17,23)
+    place:Becourt Wood (28,26)
+    place:Albert (44,26)
+    time:0915PM (71,26)
+  27 Jul 1916 29
+  28 Jul 1916 32
+    activity:resting (22,32)
+    place:Millencourt (6,32)
+  29 Jul 1916 35
+    place:Millencourt (7,35)
+    domestic:inspections (22,35)
+    domestic:inspections (34,35)
+    place:Millencourt (6,38)
+    domestic:parades (22,38)
+    domestic:parades (31,38)
+  30 Jul 1916 39
+    activity:training (61,40)
+    domestic:religion (26,41)
+    place:Millencourt (6,42)
+  31 Jul 1916 45
+    time:0930PM (28,45)
+    activity:training (27,48)
+    place:Millencourt (6,49)
+    person:Lieutenant M A Green (author) (53,59)
+Page 57 (type orders) http://wd3.herokuapp.com/pages/AWD00004c1  ----------
+  31 Jul 1916 0
+    person:Lieutenant Colonel A W Pagan (48,11)
+    reference:MARTINPUICH (47,21)
+Page 58 (type orders) http://wd3.herokuapp.com/pages/AWD00004f1  ----------
+  31 Jul 1916 0
+    person:Brigadier General H R Davies (author) (36,11)
+    date:21 Jul 1916 (59,17)
+    orders:other (45,6)
+Page 59 (type other) http://wd3.herokuapp.com/pages/AWD00004cj  ----------
+Page 60 (type report) http://wd3.herokuapp.com/pages/AWD00004du  ----------
+  31 Jul 1916 0
+Page 61 (type other) http://wd3.herokuapp.com/pages/AWD00004c3  ----------
+  Hashtags: #sketch 
+Page 62 (type cover)
+Page 63 (type diary) http://wd3.herokuapp.com/pages/AWD00004en  ----------
+  1 Aug 1916 21
+    place:Millencourt (6,23)
+    domestic:inspections (33,24)
+    person:Lieutenant General Pulteney (other) (51,24)
+    time:0500PM (17,24)
+    unit:1 swb (81,27)
+    unit:Swb (82,28)
+    unit:2 Munsters (86,30)
+    unit:2 Welch (47,31)
+    unit:2 Munsters (24,34)
+    unit:Trench Mortar Battery (59,34)
+    unit:3 Machine Gun Coy (36,34)
+    unit:3 Mac Gun Company (34,35)
+  2 Aug 1916 42
+    domestic:accomodation (24,45)
+    domestic:parades (51,45)
+    place:Millencourt (6,45)
+    time:0900AM (66,45)
+    activity:training (41,48)
+  3 Aug 1916 51
+    domestic:parades (25,51)
+    time:1000PM (16,51)
+    place:Millencourt (6,54)
+  4 Aug 1916 55
+    domestic:parades (28,55)
+    domestic:sport (58,57)
+  5 Aug 1916 58
+    domestic:parades (25,58)
+    place:Millencourt (7,58)
+  6 Aug 1916 61
+    domestic:parades (28,61)
+    place:Millencourt (6,62)
+  7 Aug 1916 64
+    domestic:religion (32,64)
+    domestic:parades (43,64)
+    time:1100AM (16,64)
+    place:Millencourt (5,66)
+    domestic:parades (25,67)
+    time:1100AM (36,67)
+    time:0400PM (67,67)
+    place:Millencourt (6,68)
+    activity:training (80,68)
+    place:Henencourt (71,70)
+  8 Aug 1916 77
+    domestic:parades (24,80)
+    place:Millencourt (7,80)
+    time:0100AM (16,80)
+    activity:training (40,89)
+Page 64 (type diary) http://wd3.herokuapp.com/pages/AWD00004dl  ----------
+  8 Aug 1916 0
+  9 Aug 1916 25
+    time:0530AM (33,26)
+  10 Aug 1916 28
+    activity:resting (22,28)
+    place:Millencourt (7,28)
+    activity:resting (26,29)
+  11 Aug 1916 31
+    place:Millencourt (5,31)
+    domestic:parades (27,32)
+  12 Aug 1916 34
+    domestic:parades (27,34)
+    place:Millencourt (5,34)
+  13 Aug 1916 37
+    domestic:sport (45,37)
+    place:Millencourt (5,37)
+    domestic:parades (25,38)
+    domestic:sport (57,38)
+  14 Aug 1916 41
+    time:1100AM (17,41)
+    domestic:religion (23,41)
+    domestic:religion (28,41)
+    place:Millencourt (5,41)
+  15 Aug 1916 44
+    activity:training (25,44)
+    place:Henencourt (44,44)
+    time:0630AM (17,47)
+    activity:movement (52,48)
+    domestic:parades (36,48)
+    place:Albert (79,48)
+  16 Aug 1916 50
+    place:Becourt Wood (23,50)
+    place:Railway Copse (41,50)
+    unit:34 Division 10 Royal Fusiliers (81,51)
+    place:Railway Copse (7,53)
+    time:1130AM (17,54)
+    activity:movement (38,54)
+  17 Aug 1916 56
+    domestic:accomodation (31,56)
+    place:Back Wood (6,59)
+  18 Aug 1916 60
+  19 Aug 1916 63
+  20 Aug 1916 66
+    activity:movement (25,67)
+    unit:2 K.R.R.C (73,70)
+    time:0130PM (16,70)
+    unit:2 krrc (74,71)
+    activity:movement (36,71)
+    activity:line (51,74)
+    place:High Wood (83,77)
+    gridRef:S_3_D_9_6 (14,80)
+    gridRef:S_3_D_1_9 (7,80)
+    place:Chester Alley (31,81)
+    place:Mill Street (65,81)
+    activity:fire (52,84)
+    activity:withdraw (74,84)
+    casualties:died: 0; killed: 12; missing: 0; prisoner: 0; sick: 0; wounded: 38 (82,90)
+    person:Second Lieutenant A Alcock (casualty_kia) (39,91)
+    person:Second Lieutenant E A Cockett (casualty_wounded) (56,91)
+Page 65 (type diary) http://wd3.herokuapp.com/pages/AWD00004e9  ----------
+  Hashtags: #shellshock 
+  21 Aug 1916 21
+    activity:fire (31,25)
+    casualties:died: 0; killed: 27; missing: 3; prisoner: 0; sick: 0; wounded: 94 (57,28)
+    place:High Wood (45,30)
+    activity:enemy_activity (25,30)
+    casualties:died: 0; killed: 0; missing: 3; prisoner: 0; sick: 0; wounded: 0 (85,32)
+  22 Aug 1916 33
+    person:Second Lieutenant E S Hutt (casualty_wounded) (35,33)
+    casualties:died: 0; killed: 12; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,33)
+    activity:fire (27,36)
+    time:0130AM (58,38)
+    time:0630AM (22,41)
+    activity:fire (41,42)
+  23 Aug 1916 45
+    person:Major H E Wetherall (casualty_wounded) (31,45)
+    person:Major H E de R Wetherall (casualty_wounded) (23,45)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 24 (82,45)
+    activity:fire (33,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 21 (65,57)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 21 (46,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 21 (56,57)
+  24 Aug 1916 58
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,58)
+    time:0300PM (74,59)
+    time:0800PM (82,59)
+    activity:fire (32,61)
+    unit:Rmf (76,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (78,74)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (86,75)
+    person:Lieutenant B H Waddy (casualty_wounded) (41,76)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 3 (69,76)
+  25 Aug 1916 77
+    activity:fire (83,79)
+    time:0500AM (46,79)
+    activity:fire (30,83)
+    time:1100PM (43,83)
+    time:1000PM (35,84)
+    time:0300AM (62,84)
+    time:0400AM (70,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 8 (69,91)
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 8 (56,91)
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,92)
+Page 66 (type diary) http://wd3.herokuapp.com/pages/AWD00004bx  ----------
+  26 Aug 1916 21
+    activity:fire (31,25)
+    activity:repair (26,33)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 4 (81,43)
+  27 Aug 1916 46
+    unit:10 Gloucesters, 1 Brigade (82,53)
+    unit:10 Gloucesters (75,54)
+    unit:10 Scottish Rifles, 15 Division (30,54)
+    unit: (20,55)
+    place:Becourt Wood (69,56)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (58,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (63,60)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 4 (39,61)
+  28 Aug 1916 63
+  29 Aug 1916 71
+  30 Aug 1916 75
+    place:Becourt Wood (6,75)
+    place:Albert (73,77)
+    activity:movement (22,78)
+    casualties:died: 0; killed: 3; missing: ; prisoner: 0; sick: 0; wounded: 8 (57,82)
+  31 Aug 1916 83
+    place:Albert (5,84)
+    person:Lieutenant M A Green (author) (64,90)
+Page 67 (type cover)
+Page 68 (type diary) http://wd3.herokuapp.com/pages/AWD00004d8  ----------
+  Hashtags: #HighWood 
+  1 Sep 1916 20
+    domestic:accomodation (22,23)
+    place:Albert (7,24)
+  2 Sep 1916 25
+    unit:1 Black Watch (45,27)
+    activity:movement (22,27)
+    place:Quadrangle Trench (65,27)
+    place:Albert (5,27)
+  3 Sep 1916 31
+    place:Albert (7,33)
+    activity:line (19,34)
+    place:Quadrangle Trench (27,34)
+  4 Sep 1916 35
+    place:Albert (6,37)
+  5 Sep 1916 38
+    reference:35 Brigade Operation Order 44 (91,40)
+    unit:1 Black Watch (34,40)
+    unit:10 Gloucesters (62,41)
+  6 Sep 1916 47
+    activity:line (20,49)
+  7 Sep 1916 51
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (29,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (43,53)
+  8 Sep 1916 54
+    activity:attack (24,56)
+    place:High Wood (34,56)
+    person:Lieutenant J A P Parnell (casualty_kia) (44,60)
+    person:Lieutenant J Peate (casualty_kia) (59,60)
+    casualties:died: 0; killed: 42; missing: 0; prisoner: 0; sick: 0; wounded: 0 (86,60)
+    casualties:died: 2; killed: 42; missing: 45; prisoner: 0; sick: 0; wounded: 136 (24,61)
+    person:Lieutenant Colonel A W Pagan (casualty_wounded) (41,62)
+    person:Captain K A R Smith (casualty_wounded) (57,63)
+    person:Captain A M Jones (casualty_wounded) (68,63)
+    person:Captain S T Cross (casualty_wounded) (77,63)
+    person:Second Lieutenant A Birley (casualty_wounded) (46,65)
+    person:Second Lieutenant Sly (casualty_wounded) (51,65)
+    person:Second Lieutenant C H Steele (casualty_wounded) (58,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 136 (81,65)
+    person:Second Lieutenant E Duff (casualty_wounded) (65,66)
+    person:Second Lieutenant A F D Brown (casualty_mia) (44,68)
+    casualties:died: 0; killed: 0; missing: 45; prisoner: 0; sick: 0; wounded: 0 (74,69)
+    casualties:died: 0; killed: 0; missing: 45; prisoner: 0; sick: 0; wounded: 0 (62,69)
+    person:Second Lieutenant J E S Wakeley (casualty_died) (54,71)
+    reference:Battalion Operation Order  (94,73)
+    time:1200PM (16,73)
+    person:Second Lieutenant E A Cockett (casualty_died) (68,73)
+    casualties:died: 2; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (79,73)
+    activity:movement (26,74)
+    time:1230PM (16,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,81)
+    time:0130PM (16,82)
+    activity:fire (36,82)
+    time:0135PM (16,87)
+Page 69 (type diary) http://wd3.herokuapp.com/pages/AWD00004bw  ----------
+  Hashtags: #HighWood #Attack 
+  8 Sep 1916 22
+    time:0208PM (16,24)
+    place:High Wood (6,24)
+    place:High Wood (41,27)
+    activity:attack (29,27)
+    time:0305PM (16,30)
+    time:0335PM (17,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,35)
+    reference: (3,35)
+    activity:movement (28,35)
+    time:0410PM (16,36)
+    time:0440PM (16,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (20,40)
+    time:0450PM (16,45)
+    time:0510PM (16,48)
+    time:0530PM (16,51)
+    time:0600PM (16,54)
+    activity:attack (28,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,61)
+    time:0601PM (16,61)
+    activity:attack (28,62)
+    unit:15 Division (24,81)
+    person:Captain Baxter (combat) (42,83)
+    time:0740PM (17,84)
+Page 70 (type diary) http://wd3.herokuapp.com/pages/AWD00004dv  ----------
+  Hashtags: #HighWood 
+  8 Sep 1916 19
+    time:0745PM (17,23)
+    place:High Wood (8,23)
+    activity:withdraw (59,26)
+    time:0950PM (17,35)
+    activity:line (34,35)
+    time:1030PM (17,38)
+    activity:fire (37,38)
+    time:1100PM (17,42)
+    activity:fire (30,42)
+  9 Sep 1916 60
+    time:1200AM (17,45)
+    activity:fire (30,45)
+    time:0300AM (16,48)
+    activity:enemy_activity (39,49)
+    activity:other (68,49)
+    reference:German Prisoners (32,52)
+    time:0500AM (16,55)
+    time:1100AM (17,59)
+    activity:movement (17,60)
+  10 Sep 1916 62
+    unit:2 R M Fusrs (42,62)
+    activity:movement (62,62)
+    unit:2 Royal Munster Fusiliers (41,63)
+  11 Sep 1916 65
+    unit:47 Division (42,70)
+    place:Henencourt Wood (69,70)
+    place:Quadrangle Trench (7,70)
+    activity:movement (56,70)
+  12 Sep 1916 72
+  13 Sep 1916 76
+    place:Henencourt Wood (8,76)
+    activity:movement (24,76)
+    place:Franvillers (44,77)
+  14 Sep 1916 79
+    person:Second Lieutenant H R Back (joined) (47,79)
+    place:Franvillers (6,80)
+    activity:resting (28,81)
+  15 Sep 1916 82
+    activity:resting (33,82)
+    activity:training (24,86)
+Page 71 (type diary) http://wd3.herokuapp.com/pages/AWD00004dq  ----------
+  15 Sep 1916 0
+  16 Sep 1916 22
+    time:0645AM (17,24)
+    activity:movement (38,24)
+    place:Franvillers (39,24)
+    place:Henencourt Wood (69,24)
+    place:Franvillers (7,24)
+    person:Lieutenant C L Priestley (joined) (60,26)
+  17 Sep 1916 28
+    place:Henencourt Wood (6,31)
+    domestic:religion (27,31)
+  18 Sep 1916 32
+    place:Black Wood (44,33)
+    activity:movement (29,34)
+  19 Sep 1916 35
+    place:Black Wood (6,37)
+    time:1215PM (17,38)
+    unit:3 Brigade (74,38)
+    activity:movement (32,38)
+  20 Sep 1916 39
+    activity:movement (28,39)
+    place:Mametz Wood (52,40)
+    place:Bazentin (5,40)
+    time:0400PM (17,41)
+    place:Cork Alley (33,43)
+  21 Sep 1916 45
+    place:Mametz Wood (7,47)
+    place:Mametz (4,47)
+    place:Cork Alley (72,48)
+    unit:47 Division (76,51)
+  22 Sep 1916 52
+    place:Cork Alley (49,54)
+    person:Second Lieutenant H A Back (casualty_kia) (40,57)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 0 (84,58)
+  23 Sep 1916 59
+    person:Company Quarter Master Sergeant W T Danahy (promotion) (41,60)
+    place:Mametz (5,60)
+  24 Sep 1916 62
+  25 Sep 1916 66
+    unit:Cameron Highlanders (33,67)
+    activity:movement (56,68)
+    place:Black Wood (70,68)
+    place:Mametz (7,68)
+    place:Mametz Wood (7,68)
+  26 Sep 1916 69
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,71)
+    place:Black Wood (7,71)
+    domestic:accomodation (24,72)
+  27 Sep 1916 73
+    activity:repair (38,75)
+    place:Lozenge Wood (56,75)
+    place:Black Wood (7,75)
+  28 Sep 1916 78
+    place:High Wood (44,78)
+    place:Black Wood (7,80)
+    time:0430PM (17,81)
+    activity:movement (27,81)
+  29 Sep 1916 82
+    place:Millencourt (47,82)
+    activity:movement (32,83)
+    place:Millencourt (7,84)
+    time:0230PM (17,85)
+    place:Henencourt Wood (35,85)
+  30 Sep 1916 88
+    person:Second Lieutenant W A King (joined) (41,88)
+    person:Second Lieutenant C A Callaway (joined) (58,88)
+    activity:training (26,88)
+    place:Henencourt Wood (7,88)
+    person:Second Lieutenant W J Bradley (joined) (50,89)
+    person:Second Lieutenant E R V Collett (joined) (67,89)
+    person:Second Lieutenant S T Felstead (joined) (76,89)
+    person:Lieutenant Green (author) (81,93)
+Page 72 (type blank)
+Page 73 (type orders) http://wd3.herokuapp.com/pages/AWD00004c8  ----------
+  30 Sep 1916 0
+    orders:attack (50,10)
+    date:7 Sep 1916 (37,39)
+    orders:attack (42,8)
+Page 74 (type orders) http://wd3.herokuapp.com/pages/AWD00004cz  ----------
+  30 Sep 1916 0
+    reference:Map 13.c (41,12)
+    orders:move (52,14)
+    person:Lieutenant Colonel (author) (49,5)
+    person:Lieutenant Colonel A W Pagan (author) (48,5)
+    person:Lieutenant M A Green (other) (51,53)
+    date:8 Sep 1916 (51,8)
+Page 75 (type cover)
+Page 76 (type diary) http://wd3.herokuapp.com/pages/AWD00004do  ----------
+  Hashtags: #football 
+  1 Oct 1916 22
+    place:Henencourt Wood (6,25)
+    domestic:religion (24,25)
+  3 Oct 1916 28
+    activity:training (25,29)
+    place:Feuquieres (84,31)
+    activity:movement (73,33)
+    place:Amiens (59,40)
+    place:Abbeville (68,40)
+    place:Feuquieres (23,44)
+  4 Oct 1916 48
+  5 Oct 1916 51
+    place:Feuquieres (7,51)
+  6 Oct 1916 54
+    activity:training (26,54)
+    activity:training (29,54)
+  7 Oct 1916 57
+    activity:training (26,58)
+  8 Oct 1916 61
+    activity:training (24,61)
+  9 Oct 1916 65
+    weather:rain (38,65)
+  10 Oct 1916 67
+    domestic:sport (52,67)
+    unit:Rmf (72,67)
+    activity:training (29,68)
+  11 Oct 1916 70
+    activity:training (27,71)
+  12 Oct 1916 74
+    domestic:sport (51,74)
+    activity:training (24,74)
+    unit:3 Mac Gun Coy (68,74)
+  13 Oct 1916 76
+    activity:training (28,77)
+  14 Oct 1916 80
+    domestic:sport (50,80)
+    activity:training (26,80)
+    unit:2 Welch (62,80)
+  15 Oct 1916 83
+    activity:training (29,83)
+  16 Oct 1916 86
+    domestic:religion (26,86)
+    domestic:sport (49,86)
+    unit:Swb (62,86)
+    place:Feuquieres (6,90)
+    activity:training (26,90)
+Page 77 (type diary) http://wd3.herokuapp.com/pages/AWD00004c4  ----------
+  Hashtags: #rugby #football 
+  16 Oct 1916 0
+    reference:MAG (91,23)
+    unit:Munsters (57,24)
+  18 Oct 1916 25
+    domestic:sport (49,25)
+    activity:training (27,26)
+    place:Feuquieres (7,26)
+    unit:3 be hq (61,28)
+    reference:MAG (91,28)
+    activity:training (25,28)
+    domestic:sport (49,28)
+    place:Feuquieres (7,29)
+    unit:35 Brigade mcgun coy (36,30)
+    reference:MAG (92,30)
+    domestic:sport (43,30)
+  19 Oct 1916 31
+    domestic:sport (49,31)
+  20 Oct 1916 34
+    reference:MAG (91,34)
+    domestic:parades (31,34)
+    activity:training (24,35)
+    place:Feuquieres (6,35)
+    reference:MAG (91,37)
+    activity:training (23,37)
+  21 Oct 1916 38
+    time:0900AM (18,38)
+    place:Feuquieres (6,38)
+  22 Oct 1916 41
+    reference:MAG (91,41)
+    activity:training (23,41)
+    place:Feuquieres (7,41)
+    place:Feuquieres (6,44)
+  23 Oct 1916 45
+    reference:MAG (91,45)
+    person:Captain H N Vinen (joined) (41,45)
+    domestic:parades (26,45)
+    domestic:parades (29,45)
+    activity:training (24,48)
+    place:Feuquieres (7,48)
+    domestic:parades (27,48)
+    domestic:inspections (69,49)
+    reference:MAG (91,50)
+  24 Oct 1916 51
+    person:Major General Strickland (other) (34,51)
+    time:0400PM (63,52)
+    reference:MAG (91,54)
+    place:Feuquieres (6,54)
+  25 Oct 1916 55
+    activity:training (23,55)
+    domestic:parades (28,55)
+  26 Oct 1916 58
+    reference:MAG (91,58)
+    activity:training (23,58)
+    place:Feuquieres (6,58)
+    domestic:parades (26,58)
+  27 Oct 1916 61
+    reference:MAG (92,61)
+    place:Feuquieres (6,61)
+    domestic:parades (29,61)
+    activity:training (23,62)
+    time:0900AM (18,64)
+    reference:MAG (93,64)
+  28 Oct 1916 65
+    place:Feuquieres (7,65)
+  29 Oct 1916 68
+    unit:S W Bo (67,68)
+    reference:MAG (91,68)
+    activity:training (23,68)
+    activity:training (26,68)
+    place:Feuquieres (7,68)
+    domestic:sport (60,68)
+    unit:Swb (67,69)
+    reference:MAG (93,71)
+    place:Feuquieres (6,71)
+  30 Oct 1916 72
+    weather:rain (40,72)
+    domestic:inspections (50,72)
+    activity:training (26,74)
+    place:Feuquieres (7,74)
+  31 Oct 1916 75
+    reference:MAG (91,75)
+    activity:movement (23,78)
+    time:0900AM (65,79)
+    reference:MAG (93,79)
+    place:Feuquieres (7,79)
+    place:Ribemont (52,85)
+    reference:MAG (92,87)
+    time:0630PM (45,88)
+    place:Bazieux (24,88)
+Page 78 (type cover)
+Page 79 (type diary) http://wd3.herokuapp.com/pages/AWD00004bv  ----------
+  1 Nov 1916 22
+    reference:MAG (92,24)
+  2 Nov 1916 26
+    activity:training (36,26)
+    place:Bazieux (7,26)
+    reference:MAG (92,29)
+  3 Nov 1916 30
+    activity:training (29,30)
+    reference:MAG (91,33)
+  4 Nov 1916 35
+    activity:training (32,35)
+    reference:MAG (91,38)
+  5 Nov 1916 39
+    reference:MAG (91,42)
+    activity:movement (34,42)
+    activity:movement (65,42)
+    reference:MAG (93,45)
+    domestic:accomodation (56,46)
+    time:0120PM (39,47)
+  6 Nov 1916 48
+    activity:movement (24,48)
+    reference:MAG (92,50)
+    place:Milencourt (7,51)
+  7 Nov 1916 52
+    activity:training (26,52)
+    reference:MAG (92,55)
+  8 Nov 1916 56
+    activity:training (25,56)
+    reference:MAG (92,59)
+    activity:training (24,59)
+  9 Nov 1916 60
+  10 Nov 1916 64
+    reference:MAG (93,64)
+    activity:training (24,64)
+    reference:MAG (93,68)
+    place:Mametz Wood (70,68)
+    unit:S.W. Bs (34,69)
+    unit:S W Bo (43,69)
+    unit: (44,69)
+    place:Boiselle (63,72)
+    time:1130AM (27,73)
+    reference:MAG (92,73)
+    place:Albert (53,73)
+    place:Contalmaison (78,73)
+    time:0400PM (86,76)
+  11 Nov 1916 77
+    place:Mametz Wood (27,77)
+    time:0530AM (77,80)
+    reference:MAG (92,80)
+    unit:Royal Engineers (61,81)
+    activity:other (31,81)
+    domestic:parades (69,81)
+    place:Mametz Wood (7,82)
+    time:0630AM (76,85)
+    place:Bazentin (46,85)
+    place:Contalmaison (33,86)
+    time:0300PM (38,90)
+    time:1200PM (28,91)
+Page 80 (type diary) http://wd3.herokuapp.com/pages/AWD00004c0  ----------
+  11 Nov 1916 0
+  12 Nov 1916 22
+    reference:MAG (92,24)
+    place:Mametz Wood (8,25)
+    person:Captain H E De R Wetherall (joined) (65,25)
+  13 Nov 1916 26
+    reference:MAG (91,30)
+    person:Second Lieutenant C A Wilson (joined) (36,30)
+    person:Second Lieutenant C Arnot (joined) (47,30)
+    person:Second Lieutenant G F H Forbes (joined) (57,30)
+    person:Second Lieutenant J Stevenson (joined) (69,30)
+    person:Second Lieutenant G N Gosling (joined) (79,30)
+    person:Second Lieutenant A N Gould (joined) (26,34)
+  14 Nov 1916 35
+    reference:MAG (92,38)
+  15 Nov 1916 39
+    person:Captain H E De R Wetherall (departed_posted) (37,39)
+  16 Nov 1916 43
+    activity:other (23,43)
+    reference:MAG (91,43)
+    activity:other (24,47)
+  17 Nov 1916 48
+    reference:MAG (91,48)
+  18 Nov 1916 52
+    activity:other (24,52)
+    reference:MAG (92,52)
+    reference:MAG (91,56)
+  19 Nov 1916 57
+    activity:other (24,57)
+    reference:MAG (93,61)
+    domestic:inspections (50,61)
+  20 Nov 1916 62
+  21 Nov 1916 66
+    activity:other (24,66)
+    reference:MAG (93,66)
+    reference:MAG (92,70)
+  22 Nov 1916 71
+    activity:movement (34,71)
+    place:High Wood Camp West (76,71)
+  23 Nov 1916 75
+    reference:MAG (93,76)
+  11 Nov 1916 0
+  24 Nov 1916 80
+    reference:MAG (94,80)
+    activity:other (24,81)
+  25 Nov 1916 84
+    activity:other (24,85)
+    reference:MAG (92,85)
+    reference:MAG (94,89)
+    activity:other (24,90)
+Page 81 (type diary) http://wd3.herokuapp.com/pages/AWD00004e6  ----------
+  26 Nov 1916 22
+    reference:MAG (92,25)
+    place:High Wood (8,25)
+  27 Nov 1916 26
+    reference:MAG (93,26)
+    reference:MAG (92,29)
+    unit:Trench Batter (68,29)
+    place:Appendix (33,34)
+    place:Turk Lane (51,34)
+    unit:1 Northants (81,35)
+    time:0430AM (39,53)
+    place:Eaucourt l'Abbaye (70,58)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 5 (50,61)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 5 (26,61)
+  28 Nov 1916 62
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 5 (37,62)
+    time:1030AM (71,66)
+    time:0315PM (80,67)
+    activity:fire (36,67)
+    reference:MAG (93,68)
+    time:1130PM (23,70)
+  29 Nov 1916 71
+    place:Pioneer Alley (45,71)
+    casualties:died: 0; killed: 0; missing: 4; prisoner: 0; sick: 0; wounded: 3 (85,72)
+    activity:fire (71,72)
+    activity:fire (72,72)
+    activity:fire (45,75)
+    reference:MAG (92,77)
+  30 Nov 1916 80
+    unit:Companies C and D (27,80)
+    unit:Companies A and B (47,81)
+    activity:fire (37,84)
+    reference:MAG (93,86)
+    place:Hexham Road (25,87)
+    person:Captain P Smith (casualty_wounded) (70,88)
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 1 (28,90)
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 1 (33,91)
+    person:Lieutenant M A Green (author) (70,93)
+Page 82 (type cover)
+Page 83 (type diary) http://wd3.herokuapp.com/pages/AWD00004d9  ----------
+  1 Dec 1916 23
+    unit:1 Camerons (42,25)
+    place:Eaucourt l'Abbaye (6,26)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 3 (76,31)
+    time:1030PM (64,31)
+  2 Dec 1916 32
+    domestic:hygiene (24,34)
+    place:High Wood (6,35)
+  3 Dec 1916 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (36,39)
+  4 Dec 1916 40
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (70,41)
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 1 (58,42)
+  5 Dec 1916 43
+    place:Bazentin le Petit (65,46)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (76,49)
+    place:Turk Lane (36,49)
+  6 Dec 1916 50
+    activity:repair (75,53)
+  7 Dec 1916 59
+  8 Dec 1916 63
+  10 Dec 1916 70
+    place:Mametz Wood (48,72)
+  11 Dec 1916 74
+    place:Mametz Wood (5,76)
+  12 Dec 1916 77
+    place:Mametz Wood (8,78)
+  13 Dec 1916 81
+  14 Dec 1916 85
+    unit:2 R.M.F. (67,87)
+    activity:line (32,87)
+Page 84 (type diary) http://wd3.herokuapp.com/pages/AWD00004dk  ----------
+  14 Dec 1916 24
+    activity:fire (41,33)
+  15 Dec 1916 37
+    place:Goose Alley (85,39)
+    activity:quiet (27,40)
+  16 Dec 1916 43
+    activity:fire (45,45)
+    weather:cold (52,50)
+  17 Dec 1916 54
+  18 Dec 1916 63
+    activity:quiet (23,66)
+    unit:Swb (48,66)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 3 (64,72)
+  19 Dec 1916 73
+    place:Bazentin le Petit (30,73)
+    domestic:hygiene (32,75)
+  20 Dec 1916 77
+  21 Dec 1916 80
+  22 Dec 1916 83
+    place:Yarra Avenue (88,84)
+    place:Turk Lane (70,85)
+    unit:2 rmf (33,85)
+    unit: (80,85)
+    place:Sunken Road (63,88)
+Page 85 (type diary) http://wd3.herokuapp.com/pages/AWD00004e3  ----------
+  23 Dec 1916 23
+    activity:repair (34,26)
+    activity:repair (42,26)
+  24 Dec 1916 31
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (53,31)
+    activity:repair (66,34)
+    place:Yarra Bank (40,37)
+  26 Dec 1916 44
+    place:High Wood Camp West (80,46)
+    activity:movement (73,47)
+    unit:SwB (54,47)
+    activity:repair (30,48)
+    unit:Swb (58,48)
+  27 Dec 1916 51
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (36,51)
+  28 Dec 1916 54
+    place:High Wood (8,54)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (65,54)
+  29 Dec 1916 57
+    time:0930AM (46,59)
+    place:Becourt (78,60)
+    domestic:parades (33,60)
+    activity:movement (65,61)
+    place:Contalmaison (32,64)
+    unit:1 Division (67,64)
+    time:0130PM (87,66)
+  30 Dec 1916 68
+    unit:50 Division (27,68)
+    unit:3 Brigade (46,68)
+    unit:149 Brigade (62,68)
+    place:Becourt (8,72)
+    place:Meaulte (47,75)
+    activity:strength (66,78)
+  31 Dec 1916 79
+    domestic:inspections (53,82)
+    person:Lieutenant M A Green (author) (74,88)

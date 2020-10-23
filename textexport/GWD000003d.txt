@@ -1,0 +1,402 @@
+GWD000003d wo/95/1156/2
+3 CAVALRY DIVISION: `G' Battery Royal Horse Artillery 
+22 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type cover)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0000jd8  ----------
+  1 Jan 1915 0
+    reference:g Battery RHA (44,12)
+  11 Mar 1915 24
+    place:Le Bois Clebert (55,28)
+    time:0800AM (38,28)
+    place:Hazebrouck (28,31)
+    place:La Motte (40,31)
+    place:Morbecque (6,31)
+    unit:3 Cavalry Division (54,31)
+    unit:20 Londons (54,32)
+    place:Neuve Chapelle (36,35)
+    place:Morbecque (44,38)
+    unit:3 Cavalry Division (47,38)
+    mapRef:5A Hazelbrouck (55,39)
+    mapRef:5A HAZEBROUCK (58,39)
+  12 Mar 1915 40
+    place:Morbecque (12,43)
+  13 Mar 1915 44
+    place:Morbecque (11,47)
+    time:0630PM (17,48)
+    unit:3 Cavalry Division (28,48)
+    activity:other (31,50)
+    place:Morbecque (27,52)
+  15 Mar 1915 53
+    time:1100AM (17,56)
+    unit:Canadian (57,56)
+    activity:movement (27,57)
+    unit:Canadian Division (59,57)
+    activity:reconnoitered (77,58)
+    place:Sailly Sur la Lys (30,60)
+    place:Hazebrouck (54,60)
+    place:Meteren (65,60)
+    place:Bailleul (28,63)
+    place:Sailly (48,63)
+    time:0800PM (56,64)
+    unit:11 Canadian Battery (38,66)
+    mapRef:France 36 (71,67)
+    time:0500PM (90,67)
+    reference:H26A France Map 36 (62,67)
+    reference:France map 36 1/40,000 (71,68)
+    mapRef:France 36 (30,70)
+    unit:11 Battery Royal Canafian Artillery (88,73)
+    gridRef:N_10_A__ (54,74)
+    place:Fromelles (38,77)
+  16 Mar 1915 78
+    weather:fog (27,82)
+    gridRef:N_10_D__ (56,82)
+    activity:line (34,83)
+    reference:France map 36 1/40,000 (66,83)
+    reference:Appendix 1 (78,83)
+    time:0500PM (27,87)
+    time:1015PM (33,89)
+    activity:movement (40,90)
+    time:0400AM (56,90)
+    activity:repair (63,91)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD0000jen  ----------
+  17 Mar 1915 23
+    place:Sailly (66,27)
+    unit:11 Battery rca (37,27)
+    activity:movement (51,28)
+    unit:11 Battery royal canadian artillery (37,28)
+    place:Doulieu (27,31)
+    place:Merris (34,31)
+    place:Strazeele (41,31)
+    place:Hazebrouck (53,31)
+    place:Sailly Sur la Lys (8,31)
+    time:0400AM (20,31)
+    place:Morbecque (32,34)
+    weather:fine (70,34)
+    time:1100AM (53,34)
+    time:1100AM (23,34)
+    activity:resting (41,35)
+  18 Mar 1915 37
+    activity:resting (28,42)
+    place:Morbecque (9,42)
+  21 Mar 1915 43
+    reference:g Battery RHA (31,44)
+  22 Mar 1915 45
+    time:0900AM (45,48)
+    activity:movement (57,49)
+    person:Major Davson (other) (28,49)
+    person:Colonel Norton (other) (54,49)
+    place:Morbecque (8,50)
+    time:1100AM (68,51)
+    place:Locre (47,52)
+    unit:3 Division ii army (93,53)
+    person:Sandilands (other) (84,53)
+    activity:movement (43,54)
+    time:1100AM (22,54)
+    unit:42 Brigade Royal Field Artillery (63,57)
+    place:Kemmel (29,58)
+    unit:42 Brigade Royal Field Artillery (58,58)
+    unit:G Battery (67,58)
+    unit:42 Brigade mfg (53,58)
+    place:Saint Jan Capelle (40,61)
+  23 Mar 1915 64
+    time:1000PM (26,64)
+    time:0730AM (56,67)
+    activity:other (31,68)
+    place:Saint Jan Capelle (10,68)
+    time:0730AM (23,68)
+    activity:line (27,70)
+    time:0730PM (57,71)
+    place:Kemmel (61,73)
+    mapRef:28 SW N15695 (62,76)
+    reference:Vroisedyd Farm (35,76)
+    mapRef:BE & FR B series 28SW (37,77)
+    mapRef:28SW (27,77)
+    reference:map Belgium and France (32,77)
+    reference:Map Belgium & France B series  (27,77)
+  24 Mar 1915 78
+    place:Wytschaete (64,81)
+    place:Wytschaete Wood (63,81)
+    activity:reconnoitered (26,82)
+    place:Kemmel (16,82)
+  25 Mar 1915 89
+    place:Kemmel (15,91)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD0000jdp  ----------
+  Hashtags: #horses 
+  26 Mar 1915 23
+    place:Maedelstet Farm (49,27)
+    place:Peckham (64,27)
+    place:Kemmel (13,28)
+    activity:line (26,28)
+    activity:fire (28,31)
+  27 Mar 1915 32
+    activity:fire (30,35)
+  28 Mar 1915 36
+    activity:fire (26,36)
+    activity:fire (26,41)
+    activity:fire (32,41)
+    time:0210PM (20,42)
+    reference:Sketch of Peckham (2) attached from trench H2 (76,48)
+    activity:attack (30,51)
+    time:0300PM (20,51)
+  29 Mar 1915 52
+    activity:fire (32,57)
+    activity:fire (67,57)
+    time:0900AM (20,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (37,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (51,60)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (49,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (33,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (76,70)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD0000jcz  ----------
+  29 Mar 1915 0
+    weather:fine (27,35)
+    time:0400PM (20,47)
+    weather:rain (42,48)
+    unit:4 (t) Battery mfg (57,54)
+    gridRef:N_19_C_7_3 (48,60)
+    place:Kemmel (52,78)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD0000jcp  ----------
+  16 Apr 1915 22
+    place:Kemmel (31,38)
+  18 Apr 1915 45
+    mapRef:28 SW N 33 C 89 (79,49)
+    place:Kemmel (60,52)
+    reference:28SW N33c (80,53)
+    place:Neuve Eglise (33,55)
+    place:Lindenhoek (58,56)
+    place:Spaenbroek (40,59)
+  20 Apr 1915 62
+    mapRef:28 (75,62)
+    place:Burcrave (48,68)
+    place:Deroc (59,69)
+  22 Apr 1915 74
+    place:Wervig (46,82)
+    place:Neuve Eglise (40,89)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD0000jdq  ----------
+  22 Apr 1915 25
+    activity:quiet (29,30)
+  28 Apr 1915 35
+    activity:other (42,37)
+  30 Apr 1915 47
+    place:Dranoutre (34,47)
+    place:Dranoutre (62,51)
+    activity:other (32,52)
+Page 10 (type cover)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD0000jb3  ----------
+  30 Apr 1915 0
+  30 Aug 1915 23
+  31 Aug 1915 27
+    place:Lepougnol (49,27)
+    activity:movement (27,27)
+    place:Lillers (38,28)
+    place:Les Brebis (59,31)
+    activity:attack (44,32)
+  1 Sep 1915 36
+    activity:attack (39,38)
+    activity:reconnoitered (36,47)
+    place:Marol (33,52)
+    activity:line (34,55)
+    activity:reconnoitered (29,72)
+    place:Maroc (69,92)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD0000jbs  ----------
+  1 Sep 1915 0
+    unit:G Battery Royal Horse Artillery (33,23)
+    place:Loos (61,28)
+    unit:London territoral unit (104,67)
+    unit:London Territorial Artillery (47,71)
+    unit:London Territorial Artillery (62,72)
+    unit:London Territoral Artillery (80,77)
+    place:Saint Pierre (70,77)
+    unit:London Territoral Artillery (104,78)
+  15 Sep 1915 81
+    activity:attack (38,82)
+    time:1100PM (61,82)
+  17 Sep 1915 83
+    place:Bourecq (47,86)
+    place:Lillers (60,86)
+  18 Sep 1915 87
+    activity:movement (34,87)
+    place:Reclinghem (48,89)
+    activity:movement (31,90)
+Page 13 (type other) http://wd3.herokuapp.com/pages/AWD0000jcr  ----------
+  Hashtags: #sketch 
+  18 Sep 1915 0
+    mapRef: (44,40)
+    reference:Sketch Map of Trenches (42,67)
+Page 14 (type other) http://wd3.herokuapp.com/pages/AWD0000jbl  ----------
+  Hashtags: #map #sketch 
+  18 Sep 1915 0
+    reference:Appendix II (25,10)
+    mapRef:- (47,11)
+    reference:Sketch Map of Pekham Farm (73,13)
+Page 15 (type other) http://wd3.herokuapp.com/pages/AWD0000jcl  ----------
+  Hashtags: #sketch 
+  18 Sep 1915 0
+    reference:2nd Half of sketch map of positions (51,61)
+    mapRef:- (41,72)
+    reference:Appendix I (56,78)
+    reference:Appendix I (31,84)
+    date:16 Mar 1915 (70,85)
+Page 16 (type other) http://wd3.herokuapp.com/pages/AWD0000jcg  ----------
+  18 Sep 1915 0
+    reference:Appendix III (60,11)
+    reference:Appendix III (44,72)
+    reference:Plan of Trenches occupied by Battalion (50,75)
+    mapRef:46 (46,78)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD0000jdd  ----------
+  25 Feb 1917 24
+    person:Lieutenant Moore (22,28)
+    unit:108 Brigade Royal Horse Artillery (52,29)
+    unit:1 Canadian Division (76,31)
+    unit:1 Canadian Division (65,33)
+    place:Montre Dame De Lorette (28,37)
+  28 Feb 1917 38
+    activity:attack (33,40)
+    place:Grenay Church (52,42)
+    activity:movement (60,62)
+    place:Calonne (76,76)
+    weather:fog (69,80)
+Page 18 (type cover)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD0000jco  ----------
+  1 Apr 1917 22
+    place:Embry (5,23)
+    activity:resting (24,25)
+  5 Apr 1917 29
+    domestic:accomodation (25,29)
+    place:Embry (6,29)
+    activity:movement (19,31)
+    place:Boubers (46,32)
+    place:Embry (4,32)
+  6 Apr 1917 33
+    domestic:accomodation (59,33)
+    activity:movement (22,36)
+  7 Apr 1917 37
+    place:Boubers (5,37)
+    unit:8 Cavalry Brigade (38,39)
+  8 Apr 1917 40
+    place:Boubres (5,40)
+    activity:movement (23,40)
+    unit:8 Cavalry Brigade (49,40)
+    place:Frevent (65,41)
+    activity:movement (25,44)
+    unit:3 Cavalry Brigade (48,44)
+    place:Gouy En Artois (69,45)
+    place:Frevent (5,45)
+    unit:3 Cavalry Division (41,45)
+  9 Apr 1917 48
+    weather:cold (48,51)
+    time:0530AM (30,51)
+    weather:rain (53,52)
+    place:Gouy En Artois (5,53)
+    time:0945AM (15,55)
+    activity:movement (27,56)
+    time:1130AM (15,59)
+    unit:8 Cavalry Brigade (42,59)
+    activity:movement (26,60)
+    time:0230PM (77,63)
+    place:Arras (30,64)
+    place:Saint Pol Road (46,64)
+    time:0330PM (15,67)
+    place:Tilloy (77,68)
+    activity:movement (25,68)
+    activity:movement (30,68)
+    activity:attack (66,70)
+    time:0600PM (15,71)
+    place:Tilloy (54,72)
+    place:Feuchy Chapel (49,75)
+  10 Apr 1917 79
+    place:Saint Pol Road (69,81)
+    time:0200AM (15,83)
+    activity:movement (24,84)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD0000jbr  ----------
+  10 Apr 1917 22
+    time:1000AM (15,28)
+    activity:movement (24,28)
+    activity:attack (64,31)
+    place:Orange Hill (45,32)
+    time:0130PM (15,32)
+    activity:movement (21,32)
+    place:Bois Du Sart (79,33)
+    place:Feuchy Chapel (66,41)
+    time:0630PM (15,41)
+    activity:withdraw (28,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (19,42)
+  11 Apr 1917 44
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (31,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (44,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (63,45)
+    time:0530AM (15,48)
+    place:Brown Line (54,52)
+    activity:movement (23,52)
+    time:0830AM (15,53)
+    activity:fire (45,59)
+    activity:withdraw (20,67)
+    place:Brown Line (38,68)
+    time:1200PM (15,68)
+    time:1200AM (15,71)
+    activity:attack (23,71)
+    place:Orange Hill (64,72)
+    activity:attack (41,72)
+    activity:attack (59,76)
+    place:Bois Du Sart (34,79)
+    place:Jig Saw Wood (21,80)
+    place:Arras (56,87)
+    time:0700PM (15,87)
+    activity:withdraw (25,88)
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD0000jc8  ----------
+  11 Apr 1917 0
+    activity:attack (69,31)
+    place:Angres (72,36)
+    activity:movement (26,36)
+    place:Montre Dame de Lorette Ridge (31,41)
+    person:Lieutenant Milne (other) (53,44)
+    person:Second Lieutenant B B Edge (combat) (74,48)
+    person:Second Lieutenant R Patrick (other) (64,49)
+    person:Lieutenant J M Hillyard (combat) (46,51)
+    person:Gunner Button (casualty_kia) (81,55)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (84,56)
+    place:Grenay (74,64)
+    place:Maroc (83,64)
+    reference:Military Cemetry (32,65)
+    place:Houdain (43,76)
+    activity:movement (23,76)
+    activity:movement (21,79)
+    place:Lisbourgh (43,80)
+    person:Second Lieutenant B B Edge (joined) (73,82)
+    place:Embray (41,83)
+    activity:movement (23,84)
+    unit:3 Gas Division (42,89)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD0000jbg  ----------
+  11 Apr 1917 24
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 0 (56,28)
+  12 Apr 1917 29
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 14 (34,29)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 14 (25,29)
+    time:0200PM (16,32)
+  13 Apr 1917 33
+    place:Gouy En Artois (45,33)
+    activity:movement (27,33)
+    activity:resting (22,36)
+  14 Apr 1917 37
+    place:Gouy En Artois (5,37)
+  15 Apr 1917 41
+    place:Mezerolles (46,45)
+    activity:movement (26,45)
+    person:Second Lieutenant B B Edge (joined) (31,48)
+  16 Apr 1917 52
+    place:Mezerolles (5,56)
+    activity:movement (32,56)
+    place:Lespinoy (41,57)
+  23 Apr 1917 60
+    person:Lieutenant Creagh (departed_posted) (26,60)
+  24 Apr 1917 64
+    place:Maresquel (44,64)
+    place:Lespinoy (5,64)
+    activity:movement (32,64)
+  30 Apr 1917 68
+    place:Maresquel (5,68)
+    unit:4 Division Royal Field Artillery (61,72)

@@ -1,0 +1,6065 @@
+GWD0000036 wo/95/1148/2
+3 CAVALRY DIVISION: 8 Cavalry Field Ambulance 
+309 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD0000in6  ----------
+  9 Dec 1914 75
+  4 Dec 1914 22
+    activity:movement (30,24)
+    activity:movement (26,24)
+    place:Southampton (41,24)
+    time:1145PM (7,25)
+    place:Driffield (16,28)
+  5 Dec 1914 32
+    time:1000AM (8,34)
+    place:Southampton (44,36)
+    place:Southampton (17,37)
+    unit:A.S.C (68,40)
+    activity:strength (57,40)
+  6 Dec 1914 46
+    person:Captain Hutchinson (other) (56,50)
+    place:Southampton (14,50)
+    domestic:inspections (41,50)
+    unit:A.S.C (61,53)
+    person:General Bethune (other) (37,53)
+    domestic:inspections (49,53)
+    place:Aldershot (32,56)
+  7 Dec 1914 57
+    unit:A.S.C (39,60)
+    place:Southampton (15,62)
+    activity:strength (37,63)
+  8 Dec 1914 65
+    place:Netley (71,68)
+    person:Driver Senior (departed_sick) (37,69)
+    place:Southampton (15,71)
+  9 Dec 1914 75
+    person:Private Birkinshaw (joined) (38,79)
+    place:Southampton (15,81)
+    person:Driver Senior (departed_sick) (50,82)
+    person:Major McSheen (other) (56,86)
+    domestic:inspections (41,86)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipy  ----------
+  10 Dec 1914 20
+    activity:other (27,23)
+  11 Dec 1914 26
+    place:Southampton (15,26)
+  12 Dec 1914 29
+  13 Dec 1914 32
+  14 Dec 1914 40
+    unit:A.S.C (M.T) (71,41)
+    person:Driver Carl August Dellschaft (discipline) (47,42)
+    person:Driver Carl August Dellschaft (discipline) (40,43)
+    unit:Scotland Yard (72,46)
+    place:Southampton (12,47)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD0000is7  ----------
+  14 Dec 1914 0
+    person:Captain Ratigan (discipline) (56,23)
+  15 Dec 1914 24
+    person:Captain Ratigan (other) (44,24)
+    time:0800AM (12,24)
+    person:Driver Carl August Dellschaft (discipline) (42,26)
+    person:Driver Carl August Dellschaft (other) (31,30)
+    place:Southampton (15,31)
+    activity:movement (28,40)
+    time:1100AM (6,40)
+    place:Southampton (16,43)
+    activity:strength (42,44)
+  16 Dec 1914 49
+    place:Havre (16,55)
+    place:San Vic (63,55)
+    activity:movement (38,55)
+  17 Dec 1914 62
+    domestic:inspections (34,66)
+    place:Havre (17,68)
+  18 Dec 1914 73
+    domestic:inspections (54,76)
+    place:Havre (16,78)
+    place:Saint Omer (66,84)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD0000isk  ----------
+  23 Dec 1914 23
+    unit:2 Field Amb. (67,25)
+    place:Hazebrouck (16,29)
+  24 Dec 1914 32
+    unit:A.S.C (M.T) (37,36)
+    domestic:medical (44,38)
+    place:Hazebrouck (17,39)
+  25 Dec 1914 44
+    place:Hazebrouck (12,47)
+    place:Hazebrouck (17,49)
+  26 Dec 1914 53
+    place:Hazebrouck (12,56)
+    place:Hazebrouck (18,59)
+  27 Dec 1914 63
+    place:Hazebrouck (19,69)
+  28 Dec 1914 73
+    place:Hazebrouck (18,78)
+    person:Colonel Westcott (other) (49,79)
+  29 Dec 1914 81
+    place:Hazebrouck (13,83)
+    place:Hazebrouck (18,88)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD0000iom  ----------
+  19 Dec 1914 26
+    person:Lieutenant Colonel W Kitson Clayton (other) (63,26)
+    person:Lieutenant J Downie (other) (33,29)
+    place:Le Havre (16,32)
+    activity:movement (31,32)
+    place:Saint Omer (35,34)
+  20 Dec 1914 37
+    person:Lieutenant Colonel Clayton (other) (30,41)
+    person:Lieutenant J Downie (other) (46,41)
+    activity:movement (26,41)
+    place:Le Havre (16,43)
+    activity:movement (34,45)
+    place:Saint Omer (51,46)
+    place:Hazebrouck (58,48)
+    place:Neuf Chattell (29,59)
+  21 Dec 1914 62
+    activity:movement (28,68)
+    place:Saint Omer (53,69)
+    place:Abbeville (67,70)
+    place:Saint Omer (36,71)
+    place:Hazebrouck (42,75)
+  22 Dec 1914 79
+    place:Hazebrouck (14,86)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD0000iky  ----------
+  30 Dec 1914 24
+    place:Hazebrouck (16,30)
+  31 Dec 1914 34
+    reference:6th Calvary Field Ambulance (71,39)
+    place:Hazebrouck (16,42)
+    unit:6 Cavalry Field Ambulance (33,44)
+Page 9 (type cover)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD0000it0  ----------
+  1 Jan 1915 21
+    place:Hazebrouck (14,28)
+  2 Jan 1915 53
+    place:Hazebrouck (13,56)
+  5 Jan 1915 61
+    place:Hazebrouck (13,68)
+  6 Jan 1915 71
+    person:Driver G Flech (joined) (35,72)
+    place:Hazebrouck (14,77)
+    unit:Iii Cavalry Division (61,81)
+  9 Jan 1915 86
+    place:Hazebrouck (11,86)
+    place:Hazebrouck (13,91)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD0000im3  ----------
+  10 Jan 1915 24
+    domestic:accomodation (29,30)
+    place:Hazebrouck (14,32)
+    place:Hazebrouck (33,34)
+  11 Jan 1915 36
+    person:Colonel O'Keefe (other) (31,41)
+    place:Hazebrouck (15,43)
+    person:Colonel O'Keefe (other) (34,44)
+  12 Jan 1915 46
+    place:Hazebrouck (14,53)
+  13 Jan 1915 55
+    unit:Iii Cavalry (36,63)
+    place:Hazebrouck (14,64)
+  14 Jan 1915 77
+    place:Hazebrouck (15,83)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD0000ism  ----------
+  15 Jan 1915 24
+  16 Jan 1915 36
+    place:Hazebrouck (14,43)
+  17 Jan 1915 45
+    domestic:accomodation (82,47)
+    place:Hazebrouck (15,52)
+  18 Jan 1915 55
+    person:Lieutenant E D Ellis (departed_leave) (42,61)
+    place:Hazebrouck (13,63)
+  19 Jan 1915 64
+    place:Hazebrouck (15,71)
+  20 Jan 1915 75
+    place:Hazebrouck (15,81)
+  21 Jan 1915 84
+    place:Hazebrouck (15,90)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD0000iku  ----------
+  22 Jan 1915 23
+    place:Hazebrook (14,31)
+  23 Jan 1915 35
+    place:Hazebrouck (10,42)
+  24 Jan 1915 45
+    activity:training (53,49)
+    place:Hazebrouck (9,53)
+    unit:A.S.C (67,56)
+    activity:strength (32,57)
+  25 Jan 1915 59
+    unit:A.S.C (51,68)
+    place:Hazebrouck (9,68)
+  26 Jan 1915 74
+    place:Hazebrouck (9,82)
+    place:Ebblinghem (66,87)
+    domestic:accomodation (44,87)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD0000inv  ----------
+  Hashtags: #Field 
+  27 Jan 1915 23
+    person:Field Marshal John French (other) (42,31)
+    place:Hazebrouck (12,31)
+    unit:A.d.m.s. iii c.d (33,43)
+  28 Jan 1915 47
+    place:Hazebrouck (59,52)
+    activity:movement (38,52)
+    place:Hazebrouck (11,55)
+    place:Ebblinghem (55,56)
+    place:Ebblinghem (12,60)
+    domestic:accomodation (28,60)
+    person:Lieutenant E D Ellis (returned_leave) (51,65)
+  29 Jan 1915 66
+    place:Ebblinghem (13,73)
+    unit:A.S.C (33,78)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD0000isa  ----------
+  30 Jan 1915 24
+    domestic:medical (45,28)
+    place:Ebblinghem (16,32)
+  31 Jan 1915 35
+    domestic:medical (43,39)
+    place:Ebblinghem (15,44)
+Page 16 (type cover)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD0000in5  ----------
+  1 Feb 1915 25
+    place:Ebblinghem (16,34)
+  2 Feb 1915 37
+    place:Ebblinghem (15,44)
+  3 Feb 1915 49
+    place:Ebblinghem (14,55)
+    place:Ypres (59,55)
+    activity:movement (41,57)
+    person:Lieutenant Colonel W Kitson Clayton (combat) (68,59)
+    person:Lieutenant Colonel W Kitson Clayton (other) (38,63)
+    person:Major Hammerton (other) (61,64)
+    unit:8 Cavalry Brigade (54,87)
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD0000iks  ----------
+  3 Feb 1915 25
+    place:Ypres (43,30)
+    place:Ypres (16,32)
+  4 Feb 1915 39
+    activity:line (42,43)
+    place:Ypres (17,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 10 (36,59)
+  5 Feb 1915 63
+    activity:line (29,70)
+    place:Ypres (16,73)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD0000ird  ----------
+  6 Feb 1915 25
+    place:Ypres (15,32)
+  7 Feb 1915 38
+    place:Ypres (16,47)
+    activity:other (54,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 11 (53,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 11 (33,54)
+    unit:1 Lifeguards (68,60)
+    person:Sergeant Major Cowie (casualty_wounded) (37,61)
+  8 Feb 1915 67
+    place:Ypres (15,75)
+    place:Hooge (63,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 9 (60,79)
+    activity:other (37,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 9 (69,82)
+    unit:Essex yeomanry (42,87)
+    place:Menin (49,93)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD0000iur  ----------
+  9 Feb 1915 25
+    reference:Medical Officer (52,26)
+    reference:Divisional Headquarters (47,30)
+    place:Ypres (16,31)
+    place:Ypres (14,35)
+  10 Feb 1915 37
+    place:Ypres (17,45)
+    place:Hooge (56,45)
+    activity:strength (41,50)
+    reference:Lord Cavan (54,55)
+    person:other Lord Cavan (other) (54,55)
+  11 Feb 1915 61
+    place:Ypres (54,65)
+    place:Ypres (16,66)
+    activity:fire (34,67)
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD0000irl  ----------
+  12 Feb 1915 25
+    domestic:medical (37,27)
+    place:Ypres (17,33)
+    unit:Mobile Veterinary Section (54,41)
+  13 Feb 1915 43
+    place:Ypres (15,50)
+    activity:movement (35,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,60)
+    place:Hooge (48,64)
+  14 Feb 1915 75
+    place:Ypres (37,76)
+    place:Ypres (22,77)
+    activity:movement (39,78)
+    place:Ebblinghem (12,79)
+    place:Ebblinghem (16,84)
+    place:Ebblinghem (43,87)
+    place:Ebblinghem (14,87)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD0000in4  ----------
+  14 Feb 1915 25
+    place:Ebblinghem (17,33)
+  15 Feb 1915 37
+    place:Ebblinghem (18,44)
+    activity:strength (37,46)
+  16 Feb 1915 58
+    person:Lieutenant J Downie (departed_leave) (36,64)
+    place:Ebblinghem (17,66)
+  17 Feb 1915 75
+    place:Ebblinghem (18,83)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD0000iq8  ----------
+  18 Feb 1915 25
+    place:Ebblinghem (19,33)
+  19 Feb 1915 35
+  20 Feb 1915 45
+    person:Private W Causton (departed_sick) (45,49)
+    place:Ebblinghem (14,51)
+  21 Feb 1915 62
+    place:Ebblinghem (15,69)
+  22 Feb 1915 76
+    place:Ebblinghem (14,85)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD0000iss  ----------
+  23 Feb 1915 23
+    place:Ebblinghem (16,30)
+    person:Lieutenant S M Audus (returned_leave) (51,30)
+    person:Sergeant Major Audus (returned_leave) (53,30)
+    person:Lieutenant J Downie (returned_leave) (33,31)
+  24 Feb 1915 37
+    place:Ebblinghem (17,42)
+    unit:A Echelon (70,45)
+    unit:B Echelon (34,49)
+    unit:O C B Echelon (27,57)
+    person:Driver Barlow (departed_leave) (60,59)
+    person:Major Hammerton (departed_leave) (38,60)
+  25 Feb 1915 65
+    place:Ebblinghem (14,71)
+    person:Corporal T Davis (departed_leave) (38,71)
+    person:Lieutenant E D Ellis (32,78)
+    person:Lieutenant E D Ellis (other) (35,79)
+    unit:Essex Yeomanry (59,82)
+    person:Lieutenant White (departed_leave) (33,86)
+    person:Corporal Lea (joined) (39,90)
+    unit:B Echelon (36,92)
+    unit:A Echelon (70,93)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD0000im1  ----------
+  26 Feb 1915 25
+    unit:Mobile veterinary section (74,29)
+    unit:Mobile Veterinary Section (58,30)
+    place:Ebblinghem (18,30)
+    place:Ebblinghem (16,34)
+  27 Feb 1915 44
+    place:Ebblinghem (18,50)
+  28 Feb 1915 58
+    place:Ebblinghem (18,68)
+    person:Major Hammerton (returned_leave) (42,69)
+Page 26 (type cover)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD0000imk  ----------
+  1 Mar 1915 23
+    person:Corporal T Davis (departed_leave) (43,29)
+    place:Ebblinghem (17,29)
+    place:Ebblinghem (13,33)
+  2 Mar 1915 37
+    person:Driver H Cousins (joined) (43,41)
+    place:Ebblinghem (15,43)
+    place:Havre (63,43)
+    person:Private E Bowles (departed_sick) (58,51)
+    person:Private E Bowles (departed_sick) (38,51)
+    reference:NO.5 C.C.S. (39,58)
+  3 Mar 1915 64
+    person:Major Hammerton (other) (39,66)
+    place:Ebblinghem (16,70)
+  28 Feb 1915 0
+    place:Ebblinghem (27,8)
+  3 Mar 1915 64
+    reference:new organization scheme (49,89)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD0000ime  ----------
+  4 Mar 1915 25
+    person:Lance Corporal C Crowther (promotion) (43,31)
+    place:Ebblinghem (15,32)
+  5 Mar 1915 42
+    person:Corporal J Fallon (departed_leave) (47,48)
+    place:Ebblinghem (16,49)
+  6 Mar 1915 61
+    place:Ebblinghem (15,69)
+    place:Ebblinghem (17,72)
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD0000inm  ----------
+  7 Mar 1915 22
+    place:Ebblinghem (16,27)
+  8 Mar 1915 28
+    place:Ebblinghem (15,34)
+  9 Mar 1915 38
+    person:Corporal I Fallon (returned_leave) (67,38)
+    person:Corporal T Davis (returned_leave) (42,39)
+    place:Ebblinghem (13,44)
+    activity:movement (45,52)
+  10 Mar 1915 60
+    place:Ebblinghem (12,67)
+    place:Blaringhem (15,72)
+    place:Ebblinghem (52,74)
+    activity:movement (35,78)
+    place:Blaringhem (50,79)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD0000ilm  ----------
+  11 Mar 1915 24
+    place:Blaringhem (45,26)
+    unit:Essex Yeomanry A Echelon (53,30)
+    place:Blaringhem (12,31)
+    place:La Mott (48,34)
+    place:Sec Bois (14,37)
+    place:Sec Bois (69,42)
+    activity:movement (66,49)
+Page 31 (type diary) http://wd3.herokuapp.com/pages/AWD0000iol  ----------
+  12 Mar 1915 22
+    place:Sec Bois (13,30)
+    person:Sergeant Vipond (departed_posted) (44,35)
+    unit:B echelon (33,43)
+    unit:A echelon (40,44)
+    unit:A echelon (55,56)
+    unit:B echelon (66,59)
+    unit:B echelon (35,64)
+    unit:28 Division (27,71)
+    unit:28 Division (36,72)
+    activity:movement (48,80)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqg  ----------
+  13 Mar 1915 22
+    place:Sec Bois (14,31)
+    activity:movement (45,32)
+    place:Blaringhem (16,35)
+    place:Blaringhem (38,44)
+    place:Hazebrouck (69,44)
+  14 Mar 1915 48
+    place:Blaringhem (52,48)
+    place:Blaringhem (13,56)
+  15 Mar 1915 62
+    place:Blaringhem (15,69)
+    unit:B echelon (47,87)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqb  ----------
+  16 Mar 1915 25
+    place:Blaringhem (14,31)
+    unit:Mobile Veterinary Section (43,39)
+    person:Private Barlow (returned_leave) (36,43)
+  17 Mar 1915 44
+    place:Blaringhem (15,51)
+    person:Private F Lockwood (returned_leave) (41,52)
+    person:Private Lockwood (returned_leave) (33,53)
+  18 Mar 1915 58
+    place:Blaringhem (13,66)
+  19 Mar 1915 78
+    place:Blaringhem (15,86)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD0000io8  ----------
+  20 Mar 1915 25
+    place:Blaringhem (14,34)
+    domestic:accomodation (37,35)
+  21 Mar 1915 47
+    place:Blaringhem (13,55)
+  22 Mar 1915 59
+    place:Blaringhem (14,68)
+  23 Mar 1915 74
+    person:Private W Causton (returned_hospital) (42,76)
+    place:Blaringhem (14,80)
+Page 35 (type diary) http://wd3.herokuapp.com/pages/AWD0000ip6  ----------
+  24 Mar 1915 24
+    place:Blaringhem (14,32)
+  25 Mar 1915 35
+    person:Captain Hobbs (joined) (35,37)
+    place:Blaringhem (14,43)
+    person:Lieutenant Greenwood (departed_leave) (34,45)
+  26 Mar 1915 50
+    place:Blaringhem (13,58)
+    domestic:medical (43,60)
+    domestic:inspections (31,66)
+    person:Major Grouse (other) (57,69)
+    person:Driver Parkinson (departed_leave) (38,75)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD0000imc  ----------
+  27 Mar 1915 24
+    domestic:inspections (50,32)
+    place:Blaringhem (14,33)
+    person:Lieutenant Davis (other) (40,33)
+  28 Mar 1915 40
+    person:A S C Stevens (joined) (43,43)
+    place:Blaringhem (13,47)
+    person:Private A Meredith (departed_sick) (38,53)
+    domestic:inspections (34,77)
+Page 37 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqh  ----------
+  29 Mar 1915 24
+    activity:other (39,32)
+    unit:B echelon (27,33)
+    place:Blaringhem (13,33)
+  30 Mar 1915 41
+    place:Blaringhem (13,49)
+  31 Mar 1915 54
+    place:Blaringhem (14,63)
+Page 38 (type cover)
+Page 39 (type diary) http://wd3.herokuapp.com/pages/AWD0000io2  ----------
+  1 Apr 1915 25
+    place:Blaringhem (13,31)
+  2 Apr 1915 37
+    person:Lieutenant Colonel W K Clayton (departed_leave) (37,41)
+    place:Blaringhem (13,44)
+    person:Captain J Hobbs (other) (36,49)
+    person:Major Hammerton (other) (47,53)
+    person:Lieutenant Colonel Clayton (departed_leave) (36,67)
+    person:Lieutenant Greenwood (returned_leave) (37,73)
+Page 40 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqp  ----------
+  3 Apr 1915 26
+    person:Sergeant Major Stevens (other) (36,28)
+    place:Blaringhem (13,33)
+  4 Apr 1915 43
+    place:Blaringhem (14,48)
+  5 Apr 1915 56
+    person:Sergeant Major S M Stevens (returned_training) (36,59)
+    place:Blaringhem (14,66)
+  6 Apr 1915 74
+    activity:movement (40,82)
+    place:Ebblinghem (59,82)
+    place:Ebblinghem (14,83)
+Page 41 (type diary) http://wd3.herokuapp.com/pages/AWD0000is8  ----------
+  7 Apr 1915 25
+    domestic:inspections (44,28)
+    domestic:inspections (28,28)
+    person:Colonel Bewlay (other) (60,32)
+    place:Ebblinghem (13,33)
+    person:Sergeant Major Stevens (31,37)
+  8 Apr 1915 41
+    place:Ebblinghem (11,43)
+    person:Staff Sergeant White (departed_leave) (31,44)
+    place:Ebblinghem (15,48)
+  9 Apr 1915 54
+    activity:other (35,59)
+    place:Ebblinghem (12,62)
+    place:La Pierre (32,63)
+  10 Apr 1915 69
+    place:Ebblinghem (12,79)
+Page 42 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipt  ----------
+  11 Apr 1915 26
+    place:Ebblinghem (15,34)
+  12 Apr 1915 37
+    activity:movement (46,41)
+    place:La Moulin Fontaine (11,44)
+    place:La Moulin Fontaine (13,50)
+  13 Apr 1915 56
+    place:La Moulin Fontaine (15,63)
+  14 Apr 1915 68
+    activity:movement (36,73)
+    place:Blaringhem (45,76)
+    place:Blaringhem (14,77)
+    person:Lieutenant Greenwood (departed_posted) (33,84)
+Page 43 (type diary) http://wd3.herokuapp.com/pages/AWD0000il3  ----------
+  15 Apr 1915 24
+    place:Blaringhem (12,32)
+    activity:strength (43,36)
+  16 Apr 1915 40
+    place:Blaringhem (14,49)
+  17 Apr 1915 52
+    place:Blaringhem (13,61)
+  18 Apr 1915 66
+    place:Blaringhem (12,74)
+Page 44 (type diary) http://wd3.herokuapp.com/pages/AWD0000ima  ----------
+  18 Apr 1915 23
+    place:Blaringhem (12,31)
+  19 Apr 1915 34
+    place:Blaringhem (13,41)
+  20 Apr 1915 45
+    place:Blaringhem (12,53)
+    place:Steenbecque (31,56)
+  21 Apr 1915 61
+    activity:strength (43,69)
+    place:Blaringhem (12,70)
+    unit:B echelon (55,71)
+    unit:A echelon (25,76)
+    unit:B echelon (54,77)
+    unit:Essex yeomanry (36,81)
+    unit:Essex Yeomanry (42,82)
+Page 45 (type diary) http://wd3.herokuapp.com/pages/AWD0000inu  ----------
+  22 Apr 1915 24
+    activity:training (39,29)
+    place:Blaringhem (14,32)
+  23 Apr 1915 37
+    activity:movement (47,45)
+    place:L'Abeele (12,47)
+    place:Sercus (34,49)
+    place:Hazebrouck (31,62)
+    reference:Map Hazebrouck V A (39,63)
+  24 Apr 1915 65
+    activity:movement (43,71)
+    place:Vlamertinghe (14,73)
+    place:Vlamertinghe (44,75)
+    activity:movement (43,76)
+    place:Hazebrouck (43,88)
+    reference:Map Hazebrouck V A (38,89)
+Page 46 (type diary) http://wd3.herokuapp.com/pages/AWD0000ioi  ----------
+  25 Apr 1915 25
+    place:Poperinghe (68,28)
+    activity:movement (39,29)
+    place:Oudezeele (15,34)
+    place:Poperinghe (55,36)
+    place:Poperinghe (33,39)
+    place:Crombeke (49,39)
+    place:Hazebrouck (33,43)
+    reference:Map Hazebrouck V A (39,43)
+    place:Oudezeele (37,52)
+  26 Apr 1915 54
+    place:Oudezeele (47,60)
+    activity:movement (33,60)
+    place:Poperinghe (19,61)
+    place:Poperinghe (15,65)
+    activity:movement (48,68)
+    place:Poperinghe (36,77)
+    place:Poperinghe (57,77)
+Page 47 (type diary) http://wd3.herokuapp.com/pages/AWD0000iq3  ----------
+  27 Apr 1915 24
+    place:Poperinghe (19,31)
+    activity:movement (46,35)
+    place:Vlamertinghe (36,47)
+  28 Apr 1915 50
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (61,59)
+    place:Steenvoorde (12,61)
+    place:Vlamertinghe (53,63)
+    reference:Map Hazebrouck V A (16,66)
+    place:Hazebrouck (45,66)
+    place:Hazebrouck (11,70)
+    activity:movement (46,72)
+Page 48 (type diary) http://wd3.herokuapp.com/pages/AWD0000iob  ----------
+  29 Apr 1915 24
+    activity:movement (37,26)
+    place:Watou (52,27)
+    place:L'abeele (66,29)
+    place:Steenvoorde (10,36)
+    reference:Map Hazebrouck V A (18,43)
+  30 Apr 1915 49
+    place:Watou (60,53)
+    place:Steenvoorde (11,61)
+Page 49 (type cover)
+Page 50 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipp  ----------
+  1 May 1915 24
+    activity:movement (36,28)
+    place:Steenvoorde (10,28)
+    place:L'Abeele (67,32)
+    place:Steenvoode (17,34)
+    time:0700AM (31,36)
+    time:0500PM (68,36)
+  2 May 1915 40
+    place:Steenvoorde (11,44)
+    time:0830AM (61,50)
+    place:Steenvoode (17,52)
+    person:Driver F Green (departed_sick) (30,57)
+    person:Driver Green (38,57)
+  3 May 1915 62
+    time:0600PM (71,68)
+    place:Hazebrouck (48,73)
+    reference:Point 35, Map Hazebrouck V A (58,73)
+    activity:movement (50,77)
+    place:Ypres (65,88)
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipr  ----------
+  4 May 1915 24
+    time:0800AM (47,29)
+    activity:movement (39,29)
+    place:Watou (52,32)
+    reference:Point 35, Map Hazebrouck V A (16,35)
+    activity:movement (41,35)
+    place:Hazebrouck (20,36)
+    place:Herzeele (55,36)
+    place:Houtkerque (36,37)
+    time:1130AM (56,41)
+    place:Houtkerque (15,41)
+  5 May 1915 44
+    place:Houtkerque (15,50)
+    activity:repair (34,53)
+  6 May 1915 60
+    place:Houtkerque (12,64)
+    place:Houtkerque (16,69)
+    time:0500AM (34,73)
+Page 52 (type diary) http://wd3.herokuapp.com/pages/AWD0000in9  ----------
+  7 May 1915 24
+    activity:movement (39,31)
+    place:Houtkerque (14,32)
+    time:0330PM (34,32)
+    place:Blaringhem (15,36)
+  8 May 1915 43
+    place:Blaringhem (11,51)
+  9 May 1915 54
+    place:Ypres (32,63)
+    activity:movement (27,63)
+    place:Ypres (35,65)
+    place:Hazebrouck (13,66)
+    reference:Point 35, Map Hazebrouck V A (22,66)
+    unit:A echelon (37,69)
+    place:Forge (38,72)
+    reference:Map Hazebrouck V A (60,74)
+    unit:Cavalry field (37,76)
+Page 53 (type diary) http://wd3.herokuapp.com/pages/AWD0000irj  ----------
+  10 May 1915 26
+    activity:movement (31,28)
+    place:Hazebrouck (64,28)
+    reference:Point 35, Map Hazebrouck V A (67,28)
+    place:Hazebrouck (9,31)
+    reference:pt 35 (16,34)
+  11 May 1915 38
+    activity:other (30,44)
+  12 May 1915 51
+    person:Lieutenant Downie (other) (27,55)
+    domestic:medical (43,58)
+    place:Ypres (64,60)
+  13 May 1915 67
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 63 (22,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 63 (29,72)
+  14 May 1915 80
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 76 (27,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 76 (30,87)
+Page 54 (type diary) http://wd3.herokuapp.com/pages/AWD0000irs  ----------
+  15 May 1915 26
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 20 (26,28)
+    reference:Point 35, Map Hazebrouck V A (13,32)
+    reference:pt 35 (12,34)
+  16 May 1915 36
+  17 May 1915 48
+    person:Private Rutter (37,52)
+    person:Private Rutter (casualty_wounded) (25,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (40,58)
+  18 May 1915 62
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (37,67)
+    person:Driver Ward (departed_sick) (43,68)
+    time:1100PM (61,79)
+    activity:repair (39,80)
+  19 May 1915 81
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD0000inr  ----------
+  20 May 1915 24
+    reference:Point 35, Map Hazebrouck V A (13,31)
+    person:Lieutenant Colonel Clayton (other) (43,34)
+    reference:pt 35 (10,34)
+    activity:other (49,37)
+  21 May 1915 43
+    place:Blaringhem (12,49)
+    activity:movement (43,52)
+    place:Blaringhem (49,53)
+    activity:movement (36,58)
+    time:0900PM (47,68)
+  22 May 1915 72
+    place:Blaringhem (14,80)
+Page 56 (type diary) http://wd3.herokuapp.com/pages/AWD0000imi  ----------
+  23 May 1915 27
+    place:Blaringhem (16,35)
+  24 May 1915 40
+    activity:strength (46,46)
+    place:Blaringhem (17,47)
+  25 May 1915 56
+    place:Blaringhem (18,61)
+  26 May 1915 66
+    place:Blaringhem (15,73)
+    person:Lieutenant Downie (departed_leave) (34,73)
+    person:Lieutenant Deane (departed_sick) (33,77)
+  27 May 1915 81
+    place:Blaringhem (17,86)
+    person:Lieutenant W E Hallinan (joined) (35,89)
+Page 57 (type diary) http://wd3.herokuapp.com/pages/AWD0000io7  ----------
+  28 May 1915 26
+    activity:strength (45,35)
+    place:Blaringhem (12,36)
+  29 May 1915 45
+    activity:movement (35,52)
+    place:Vlamertinghe (16,54)
+    place:Blaringhem (33,63)
+  30 May 1915 69
+    place:Vlamertinghe (17,77)
+  31 May 1915 83
+    place:Ecole de Bienfaisance (45,83)
+    place:Vlamertinghe (16,90)
+    domestic:medical (41,93)
+Page 58 (type cover)
+Page 59 (type diary) http://wd3.herokuapp.com/pages/AWD0000it2  ----------
+  1 Jun 1915 24
+    place:Vlamertinghe (13,32)
+    activity:other (43,32)
+    domestic:medical (40,35)
+  2 Jun 1915 39
+    person:Lieutenant Ellis (other) (34,46)
+    place:Vlamertinghe (15,46)
+    unit:10 Royal Hussars (42,51)
+  3 Jun 1915 57
+    person:Major Hammerton (casualty_wounded) (31,60)
+    place:Vlamertinghe (11,60)
+    person:Major Hammerton (casualty_wounded) (54,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (28,65)
+    person:Private Bushell Bushell (casualty_wounded) (43,65)
+    person:Private Bushell (casualty_wounded) (52,65)
+    place:Vlamertinghe (17,65)
+    person:Private J McGinley (casualty_wounded) (29,68)
+    person:Private J McGinley (casualty_wounded) (40,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (39,75)
+  4 Jun 1915 79
+    place:Vlamertinghe (16,85)
+    person:Private E W Droughan (joined) (36,87)
+    person:Private A Mitchell (joined) (34,90)
+    person:Private A Mitchell (joined) (39,91)
+Page 60 (type diary) http://wd3.herokuapp.com/pages/AWD0000ip0  ----------
+  5 Jun 1915 25
+    place:Vlamertinghe (12,32)
+  6 Jun 1915 34
+    place:Vlamertinghe (11,40)
+  7 Jun 1915 44
+    activity:movement (41,50)
+    place:Vlamertinghe (13,51)
+    place:Blaringhem (11,58)
+    place:Vlamertinghe (63,61)
+    activity:movement (48,63)
+    time:0430AM (35,66)
+    place:Blaringhem (65,67)
+    person:Lieutenant Ellis (departed_leave) (47,71)
+    time:1230PM (35,71)
+    person:Lieutenant Hallinan (departed_posted) (47,79)
+Page 61 (type diary) http://wd3.herokuapp.com/pages/AWD0000ilh  ----------
+  8 Jun 1915 24
+    place:Blaringhem (14,32)
+  9 Jun 1915 38
+    place:Blaringhem (16,46)
+  10 Jun 1915 59
+    place:Blaringhem (15,66)
+    person:Lieutenant Downie (departed_posted) (59,68)
+    person:Lieutenant Hallinan (departed_posted) (62,77)
+Page 62 (type diary) http://wd3.herokuapp.com/pages/AWD0000ire  ----------
+  11 Jun 1915 25
+    place:Blaringhem (15,33)
+  12 Jun 1915 36
+    domestic:inspections (56,39)
+    place:Blaringhem (16,44)
+    person:Lieutenant Colonel F W Hardy (other) (45,44)
+    person:Lieutenant Colonel J W Hardy (other) (30,44)
+    unit:3 Cavalry Division (35,49)
+    person:Lieutenant Ellis (returned_leave) (37,52)
+    person:Lieutenant Downie (joined) (61,56)
+    person:Lieutenant Hallinan (joined) (39,61)
+    domestic:hygiene (46,65)
+    unit:Essex Yeomanry (25,65)
+    domestic:hygiene (54,67)
+    unit:Essex Yeomanry (56,68)
+    person:Lieutenant Hallinan (other) (63,73)
+Page 63 (type diary) http://wd3.herokuapp.com/pages/AWD0000ips  ----------
+  13 Jun 1915 26
+    domestic:religion (32,29)
+    place:Blaringhem (10,32)
+    place:Blaringhem (13,34)
+    person:Lieutenant Downie (award) (60,34)
+  14 Jun 1915 43
+    place:Blaringhem (13,50)
+    activity:strength (43,67)
+  15 Jun 1915 77
+    place:Blaringhem (12,84)
+    domestic:inspections (49,85)
+Page 64 (type diary) http://wd3.herokuapp.com/pages/AWD0000imq  ----------
+  16 Jun 1915 24
+    domestic:inspections (49,27)
+    place:Blaringhem (11,31)
+    person:Lieutenant Colonel Clayton (other) (33,35)
+    person:C W Audus (casualty_wounded) (54,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (36,41)
+  17 Jun 1915 42
+    place:Blaringhem (14,49)
+    activity:other (34,49)
+  18 Jun 1915 59
+    domestic:inspections (31,66)
+    person:Field Marshal John French (other) (60,68)
+    place:Blaringhem (14,69)
+    person:Field Marshal John French (other) (37,72)
+    time:1200PM (56,72)
+    place:Sercus (42,76)
+    domestic:medical (53,81)
+    domestic:medical (62,82)
+Page 65 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqa  ----------
+  19 Jun 1915 24
+    person:Quarter Master Sergeant Armstrong (promotion) (46,29)
+    person:Audus (promotion) (29,32)
+    place:Blaringhem (12,33)
+    person:Staff Sergeant White (promotion) (47,33)
+    person:Sergeant Turner (promotion) (29,36)
+    person:Tattesall (promotion) (56,36)
+  20 Jun 1915 39
+    place:Blaringhem (12,46)
+  21 Jun 1915 51
+    person:Lieutenant L A Moran (joined) (32,56)
+    place:Blaringhem (11,59)
+  22 Jun 1915 63
+    place:Le Havre (69,66)
+    person:Lieutenant Lance (joined) (30,68)
+    place:Blaringhem (12,71)
+  23 Jun 1915 78
+    unit:X. R. H. (64,79)
+    unit:10 Royal Hussars (23,81)
+    activity:training (53,83)
+    place:Blaringhem (12,87)
+Page 66 (type diary) http://wd3.herokuapp.com/pages/AWD0000inp  ----------
+  24 Jun 1915 23
+    domestic:hygiene (34,32)
+    place:Blaringhem (10,34)
+  25 Jun 1915 41
+    place:Blaringhem (11,47)
+  26 Jun 1915 51
+    place:Blaringhem (10,59)
+  27 Jun 1915 63
+    place:Blaringhem (14,70)
+  28 Jun 1915 75
+    person:Lieutenant Hallinan (departed_posted) (32,78)
+    place:Blaringhem (11,83)
+Page 67 (type diary) http://wd3.herokuapp.com/pages/AWD0000imy  ----------
+  29 Jun 1915 26
+    place:Blaringhem (11,34)
+  30 Jun 1915 39
+    person:Lieutenant J Downie (returned_leave) (31,41)
+    person:Lieutenant Ellis (departed_leave) (29,46)
+    person:Lieutenant E D Ellis (departed_leave) (33,46)
+    place:Blaringhem (12,47)
+Page 68 (type cover)
+Page 69 (type diary) http://wd3.herokuapp.com/pages/AWD0000ir0  ----------
+  1 Jul 1915 24
+    place:Blaringhem (12,32)
+  2 Jul 1915 34
+    place:Blaringhem (12,42)
+  3 Jul 1915 44
+    person:Lieutenant Colonel Hardy (other) (27,49)
+    person:Lieutenant Colonel Hardy (other) (63,50)
+    activity:training (32,50)
+    reference:8th Calvary Brigade (69,52)
+    place:Blaringhem (14,52)
+    person:Lieutenant Colonel Hardy (other) (29,54)
+    unit:8 Cavalry Brigade (30,58)
+  4 Jul 1915 60
+    place:Blaringhem (14,67)
+  5 Jul 1915 72
+    place:Blaringhem (6,79)
+    place:Blaringhem (15,83)
+Page 70 (type diary) http://wd3.herokuapp.com/pages/AWD0000is2  ----------
+  6 Jul 1915 25
+    place:Blaringhem (10,34)
+  7 Jul 1915 35
+    person:Private Atkinson (departed_leave) (27,39)
+    place:Blaringhem (11,43)
+  8 Jul 1915 47
+    person:Lieutenant E D Ellis (returned_leave) (28,51)
+    place:Blaringhem (10,54)
+  9 Jul 1915 59
+    place:Blaringhem (10,67)
+    place:Blaringhem (15,69)
+  10 Jul 1915 71
+    place:Blaringhem (9,76)
+    place:Blaringhem (13,80)
+  11 Jul 1915 84
+    place:Blaringhem (11,91)
+Page 71 (type diary) http://wd3.herokuapp.com/pages/AWD0000in2  ----------
+  12 Jul 1915 25
+    place:Blaringhem (10,30)
+    place:Blaringhem (13,33)
+  13 Jul 1915 36
+    place:Blaringhem (12,43)
+  14 Jul 1915 46
+    place:Blaringhem (11,48)
+    person:Major Hill (other) (29,50)
+    place:Blaringhem (12,53)
+    domestic:inspections (31,55)
+  15 Jul 1915 62
+    place:Blaringhem (11,64)
+    place:Blaringhem (12,70)
+  16 Jul 1915 73
+    place:Blaringhem (9,80)
+    place:Blaringhem (12,85)
+Page 72 (type diary) http://wd3.herokuapp.com/pages/AWD0000il9  ----------
+  17 Jul 1915 24
+    place:Blaringhem (11,26)
+    place:Blaringhem (13,31)
+  18 Jul 1915 33
+    place:Blaringhem (13,39)
+    person:Lieutenant Lance (departed_posted) (30,44)
+  19 Jul 1915 53
+    domestic:inspections (35,58)
+    place:Blaringhem (13,60)
+    person:Major Hills (other) (54,63)
+  20 Jul 1915 64
+    place:Blaringhem (8,68)
+    place:Blaringhem (16,72)
+  21 Jul 1915 77
+    place:Blaringhem (10,81)
+    place:Blaringhem (17,83)
+Page 73 (type diary) http://wd3.herokuapp.com/pages/AWD0000itf  ----------
+  22 Jul 1915 26
+    place:Blaringhem (10,27)
+    person:Captain Hobbs (returned_leave) (30,28)
+    place:Blaringhem (9,33)
+  23 Jul 1915 39
+    person:Lieutenant Moran (joined) (56,45)
+    place:Blaringhem (12,46)
+  24 Jul 1915 54
+    place:Blaringhem (10,61)
+  25 Jul 1915 67
+    place:Blaringhem (9,71)
+    place:Blaringhem (12,75)
+Page 74 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipz  ----------
+  Hashtags: #Surgeon 
+  26 Jul 1915 25
+    place:Blaringhem (12,28)
+    place:Blaringhem (12,33)
+  27 Jul 1915 38
+    place:Blaringhem (12,42)
+    place:Blaringhem (12,46)
+  28 Jul 1915 51
+    place:Blaringhem (11,54)
+    place:Blaringhem (16,59)
+    person:General O'Keefe (other) (30,62)
+    person:General O'Keefe (other) (54,63)
+    domestic:inspections (31,63)
+    domestic:inspections (32,67)
+  29 Jul 1915 71
+    place:Blaringhem (13,78)
+Page 75 (type diary) http://wd3.herokuapp.com/pages/AWD0000io9  ----------
+  30 Jul 1915 24
+    place:Blaringhem (13,29)
+    place:Blaringhem (11,33)
+  31 Jul 1915 36
+    place:Blaringhem (11,40)
+    person:Major Hammerton (other) (37,40)
+    place:Blaringhem (13,45)
+    person:Captain Hobbs (casualty_wounded) (61,45)
+Page 76 (type cover)
+Page 77 (type diary) http://wd3.herokuapp.com/pages/AWD0000isd  ----------
+  1 Aug 1915 24
+    place:Blaringhem (12,27)
+    person:Captain Hobbs (departed_sick) (31,28)
+    place:Hazebrouck (34,30)
+    place:Blaringhem (14,31)
+  2 Aug 1915 34
+    person:Lieutenant Downie (other) (32,39)
+    place:Blaringhem (13,40)
+    activity:repair (44,44)
+    place:Elverdinghe (37,46)
+    activity:repair (35,51)
+    person:Lieutenant Hallinan (joined) (41,54)
+    person:Lieutenant Hallinan (joined) (31,55)
+  3 Aug 1915 64
+    place:Blaringhem (12,68)
+    place:Blaringhem (13,71)
+  4 Aug 1915 75
+    place:Blaringhem (11,80)
+    place:Blaringhem (14,84)
+Page 78 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipx  ----------
+  5 Aug 1915 24
+    activity:repair (33,29)
+    place:Blaringhem (12,32)
+  6 Aug 1915 39
+    activity:movement (46,44)
+    place:Blaringhem (12,45)
+    place:Petigny (12,51)
+    place:Petigny (37,53)
+    domestic:accomodation (55,55)
+    domestic:hygiene (46,58)
+  7 Aug 1915 63
+    place:Petigny (12,71)
+    domestic:hygiene (36,75)
+    domestic:accomodation (51,75)
+Page 79 (type diary) http://wd3.herokuapp.com/pages/AWD0000ina  ----------
+  8 Aug 1915 26
+    place:Petigny (13,32)
+    person:Lieutenant Colonel Clayton (other) (34,33)
+    domestic:inspections (57,33)
+    unit:Essex Yeomanry (47,35)
+  9 Aug 1915 36
+    place:Petigny (14,43)
+    person:J E Creer (joined) (34,44)
+    person:other J E Creer (joined) (56,44)
+    person:Lieutenant Colonel Clayton (other) (31,53)
+    unit:R H G (51,58)
+    unit:Rhg (56,58)
+  10 Aug 1915 60
+    person:Lieutenant Colonel Clayton (other) (34,64)
+    domestic:inspections (58,66)
+    place:Petigny (14,68)
+    domestic:inspections (38,68)
+    unit:10 Royal Hussars (58,69)
+    place:Bomy (13,74)
+    domestic:accomodation (44,76)
+    place:Bomy (35,82)
+Page 80 (type diary) http://wd3.herokuapp.com/pages/AWD0000im7  ----------
+  11 Aug 1915 25
+    domestic:hygiene (45,29)
+    place:Bomy (12,32)
+  12 Aug 1915 35
+    place:Bomy (12,38)
+    place:Bomy (12,44)
+  13 Aug 1915 47
+    place:Bomy (11,50)
+    person:Lieutenant Ellis (other) (31,52)
+    place:Bomy (13,56)
+    place:Armentieres (34,62)
+    activity:repair (52,62)
+    person:Lieutenant Moran (other) (42,67)
+    unit:10 Royal Hussars (50,71)
+    person:Captain O'Kelly (other) (50,76)
+Page 81 (type diary) http://wd3.herokuapp.com/pages/AWD0000imx  ----------
+  Hashtags: #Motor 
+  14 Aug 1915 24
+    person:Lieutenant Colonel Clayton (departed_leave) (35,28)
+    place:Bomy (15,32)
+    person:Corporal Varley (departed_posted) (38,34)
+  15 Aug 1915 40
+    place:Bomy (13,48)
+  16 Aug 1915 52
+    person:Sergeant Tattersall (departed_posted) (33,56)
+    place:Bomy (12,60)
+  17 Aug 1915 64
+    place:Bomy (12,72)
+Page 82 (type diary) http://wd3.herokuapp.com/pages/AWD0000im6  ----------
+  17 Aug 1915 0
+  18 Aug 1915 24
+    place:Bomy (15,33)
+  19 Aug 1915 36
+    place:Bomy (14,45)
+  20 Aug 1915 47
+    place:Bomy (13,57)
+  21 Aug 1915 60
+    person:Lieutenant Moran (departed_leave) (34,63)
+    person:Lieutenant Moran (other) (31,64)
+    place:Bomy (13,69)
+    place:Armentieres (32,72)
+    activity:repair (57,73)
+    person:Lieutenant Hallinan (departed_posted) (52,77)
+Page 83 (type diary) http://wd3.herokuapp.com/pages/AWD0000ili  ----------
+  22 Aug 1915 24
+    place:Bomy (15,32)
+  23 Aug 1915 36
+    person:Lieutenant Colonel Clayton (returned_leave) (33,42)
+    place:Bomy (17,45)
+  24 Aug 1915 49
+    person:Lieutenant Ellis (departed_posted) (33,55)
+    place:Bomy (17,58)
+  25 Aug 1915 60
+    place:Bomy (17,69)
+  21 Aug 1915 0
+  26 Aug 1915 73
+    place:Bomy (16,82)
+Page 84 (type diary) http://wd3.herokuapp.com/pages/AWD0000im5  ----------
+  27 Aug 1915 25
+    place:Bomy (15,34)
+  28 Aug 1915 37
+    place:Bomy (15,47)
+  29 Aug 1915 51
+    place:Bomy (15,61)
+  30 Aug 1915 66
+    place:Bomy (15,74)
+  31 Aug 1915 77
+    place:Bomy (14,84)
+Page 85 (type cover)
+Page 86 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipw  ----------
+  31 Aug 1915 0
+  1 Sep 1915 22
+    activity:other (31,26)
+    place:Bomy (6,29)
+  2 Sep 1915 31
+    place:Bomy (7,36)
+  3 Sep 1915 40
+    place:Bomy (6,45)
+  4 Sep 1915 48
+    activity:repair (30,53)
+    place:Bomy (7,53)
+    place:Armentieres (80,53)
+  5 Sep 1915 56
+    activity:other (34,60)
+    place:Bomy (7,60)
+  6 Sep 1915 63
+    place:Bomy (7,68)
+  7 Sep 1915 71
+    place:Bomy (7,76)
+Page 87 (type diary) http://wd3.herokuapp.com/pages/AWD0000ir7  ----------
+  7 Sep 1915 0
+  8 Sep 1915 25
+    place:Bomy (7,29)
+  9 Sep 1915 39
+    place:Bomy (8,40)
+  10 Sep 1915 50
+    place:Bomy (8,53)
+  11 Sep 1915 62
+    person:Major F C Timmins (41,63)
+    person:Major F C Timmins (joined) (35,64)
+    place:Bomy (8,64)
+  12 Sep 1915 68
+    place:Bomy (7,72)
+  13 Sep 1915 76
+    place:Bomy (8,79)
+Page 88 (type diary) http://wd3.herokuapp.com/pages/AWD0000int  ----------
+  13 Sep 1915 0
+  14 Sep 1915 25
+    unit:Brigade (26,28)
+    place:Bomy (6,29)
+  15 Sep 1915 34
+    person:Captain A L Yates (joined) (27,35)
+    place:Bomy (7,37)
+    person:Captain Yates (joined) (26,38)
+  16 Sep 1915 42
+    place:Bomy (7,44)
+  17 Sep 1915 50
+    place:Bomy (7,53)
+    activity:other (36,53)
+  18 Sep 1915 61
+    place:Bomy (7,64)
+  19 Sep 1915 69
+    place:Bomy (7,73)
+  20 Sep 1915 76
+    person:Captain Al Yates (departed_posted) (27,78)
+    place:Bomy (7,79)
+    person:Captain A L Yates (departed_posted) (35,80)
+    person:Major Timmins (departed_posted) (28,83)
+    unit: (40,87)
+Page 89 (type diary) http://wd3.herokuapp.com/pages/AWD0000im0  ----------
+  Hashtags: #duplicate 
+  20 Sep 1915 75
+  14 Sep 1915 25
+    place:Bomy (6,29)
+  15 Sep 1915 33
+    person:Captain A L Yates (joined) (25,36)
+  16 Sep 1915 41
+  17 Sep 1915 49
+    activity:other (39,53)
+  18 Sep 1915 60
+  19 Sep 1915 68
+  20 Sep 1915 75
+    unit:15 Division (73,78)
+    person:Major Timmins (departed_posted) (28,83)
+Page 90 (type diary) http://wd3.herokuapp.com/pages/AWD0000imo  ----------
+  20 Sep 1915 25
+    time:0130PM (72,28)
+    time:0630PM (17,29)
+    place:Bomy (6,29)
+    activity:movement (32,30)
+    activity:movement (75,32)
+    place:Fontaine-Lez-Hermans (59,33)
+  21 Sep 1915 34
+    time:1130AM (17,37)
+    place:Bomy (7,37)
+    activity:movement (29,38)
+    mapRef:Hazebruuck (42,40)
+  22 Sep 1915 49
+    place:Labeuvriere (7,53)
+    person:Major Hammerton (joined) (61,79)
+  23 Sep 1915 85
+    place:Labeuvriere (7,87)
+Page 91 (type diary) http://wd3.herokuapp.com/pages/AWD0000ioh  ----------
+  24 Sep 1915 26
+    activity:other (43,29)
+    place:Labeuvriere (6,29)
+  25 Sep 1915 34
+    time:0530AM (17,37)
+    place:Labeuvriere (6,37)
+    place:Bois des Dames (46,41)
+    activity:movement (29,42)
+    activity:resting (50,56)
+    place:Noeux les Mines (38,56)
+  26 Sep 1915 65
+    place:Noyelles-Lez-Vermelles (6,66)
+    activity:movement (36,72)
+  27 Sep 1915 76
+    unit:Royal Horse Guards (47,79)
+    time:1230AM (17,79)
+    place:Noyelles Lez Vermelles (7,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 8 (33,80)
+    time:0300AM (16,87)
+Page 92 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipu  ----------
+  27 Sep 1915 25
+    place:Philosophe (7,29)
+    domestic:medical (27,29)
+    person:Captain E D Ellis (joined) (59,32)
+    person:Captain E Ellis (joined) (60,33)
+    time:0530PM (17,37)
+    mapRef:Bethune Map Combined sheet (51,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 34 (31,45)
+    person:Private H Hepworth (casualty_kia) (80,48)
+    time:0830PM (17,49)
+    person:Captain J Downie (casualty_wounded) (28,49)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (18,52)
+  28 Sep 1915 55
+    person:Lieutenant Colonel W K Clayton (other) (54,53)
+    person:Private H Hepworth (casualty_kia) (24,53)
+    place:Philosophe (7,56)
+    person:Captain Ellis (departed_posted) (69,56)
+    person:Lieutenant Moran (departed_posted) (24,60)
+    person:Lieutenant Wills (joined) (75,60)
+    person:Lieutenant Douglas (joined) (84,60)
+    place:Loos (71,67)
+    time:0530PM (17,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 150 (79,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 150 (23,83)
+    unit:8 Cavalry Brigade (33,87)
+Page 93 (type diary) http://wd3.herokuapp.com/pages/AWD0000im4  ----------
+  29 Sep 1915 27
+    place:Philosophe (8,29)
+    time:0500AM (17,29)
+    activity:movement (28,29)
+    mapRef:Bethune Map Combined sheet (65,29)
+    place:Labuissiere (50,30)
+    time:0830AM (51,33)
+    time:0130PM (65,33)
+    person:Lieutenant Bannerman (departed_posted) (30,38)
+    person:Lieutenant Wills (departed_posted) (42,38)
+    person:Lieutenant Douglas (departed_posted) (52,38)
+  30 Sep 1915 39
+    place:Labeuvriere (9,41)
+    person:Captain Benson (joined) (79,41)
+    place:Labeuvriere (6,45)
+    person:Captain Benson (joined) (23,45)
+    person:Lieutenant Clarke (joined) (36,45)
+    person:Lieutenant Lumb (joined) (52,45)
+    person:Lieutenant Colonel W Clayton (author) (75,68)
+Page 94 (type cover)
+Page 95 (type diary) http://wd3.herokuapp.com/pages/AWD0000im2  ----------
+  30 Sep 1915 0
+  1 Oct 1915 26
+    unit:10 Royal Hussars (54,26)
+    person:Lieutenant Clarke (departed_posted) (34,28)
+    place:Labeuvriere (6,29)
+    reference:wolsley motor ambulance disabled (65,33)
+    person:Lieutenant Moran (joined) (27,33)
+  2 Oct 1915 34
+  3 Oct 1915 39
+    place:Lozinghem (59,40)
+    time:1000AM (16,40)
+    time:1115AM (70,40)
+    activity:movement (30,42)
+    domestic:accomodation (29,42)
+    place:Lapugnov (80,43)
+    place:Lozinghem (46,44)
+    time:1100AM (16,45)
+    place:Burbure (85,48)
+    time:0130PM (52,48)
+    place:Lozinghem (41,49)
+    time:1215PM (21,49)
+    place:Burbure (65,53)
+    time:0230PM (30,53)
+  4 Oct 1915 54
+    person:Captain Ellis (departed_posted) (54,56)
+    place:Burbure (7,57)
+  5 Oct 1915 62
+  6 Oct 1915 68
+  7 Oct 1915 72
+  8 Oct 1915 77
+  9 Oct 1915 81
+    reference:detention ward (41,82)
+  10 Oct 1915 85
+Page 96 (type diary) http://wd3.herokuapp.com/pages/AWD0000inl  ----------
+  11 Oct 1915 25
+    activity:other (28,28)
+    place:Burbure (6,29)
+  12 Oct 1915 30
+    place:Burbure (6,33)
+  13 Oct 1915 34
+    person:Driver Ganley (joined) (66,36)
+    place:Burbure (7,37)
+  14 Oct 1915 43
+    reference:forage cart (84,43)
+    place:Burbure (5,45)
+  15 Oct 1915 54
+    place:Burbure (7,56)
+  16 Oct 1915 57
+    place:Burbure (6,60)
+  17 Oct 1915 61
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 0 (58,64)
+    domestic:medical (51,64)
+    place:Burbure (7,64)
+    reference:detention ward (26,67)
+  18 Oct 1915 69
+    place:Burbure (7,72)
+    time:1000PM (17,79)
+    activity:other (31,79)
+  19 Oct 1915 85
+    time:0845AM (17,87)
+    place:Burbure (8,87)
+Page 97 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqv  ----------
+  19 Oct 1915 26
+    time:0845AM (17,29)
+    place:Burbure (6,29)
+    activity:movement (35,33)
+    person:Captain J H Grove-White (joined) (75,40)
+  20 Oct 1915 45
+    place:Reclinghem (6,49)
+  21 Oct 1915 57
+    activity:movement (32,60)
+    place:Reclinghem (6,60)
+  22 Oct 1915 68
+    person:Lieutenant Colonel W K Clayton (other) (30,71)
+    person:Lieutenant Colonel Hardy (departed_leave) (24,76)
+    person:Captain Grove-White (joined) (23,89)
+    person:Captain Moran (departed_leave) (58,89)
+Page 98 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipe  ----------
+  Hashtags: #scabies 
+  22 Oct 1915 0
+  23 Oct 1915 25
+    unit:Essex Yeo (72,27)
+    place:Beaumetz les Aire (6,28)
+    domestic:medical (67,29)
+  24 Oct 1915 37
+    place:Beaumetz les Aire (7,37)
+    person:Chaplain Gibbs (other) (43,41)
+    domestic:religion (26,41)
+    place:Beaumetz les Aire (7,43)
+  25 Oct 1915 44
+  26 Oct 1915 53
+    place:Beaumetz les Aire (6,53)
+  27 Oct 1915 60
+    place:Beaumetz les Aire (6,60)
+  28 Oct 1915 69
+    place:Beaumetz les Aire (7,71)
+  29 Oct 1915 79
+    place:Beaumetz les Aire (6,84)
+Page 99 (type diary) http://wd3.herokuapp.com/pages/AWD0000ino  ----------
+  30 Oct 1915 30
+    place:Beaumetz les Aire (6,30)
+  31 Oct 1915 41
+    person:Lieutenant Colonel W K Clayton (departed_leave) (24,44)
+    person:Lieutenant Colonel W K Clayton (departed_leave) (37,45)
+    activity:repair (41,52)
+    place:Enguingatte (75,60)
+    person:Captain A H Benson (departed_posted) (46,64)
+Page 100 (type cover)
+Page 101 (type diary) http://wd3.herokuapp.com/pages/AWD0000ir5  ----------
+  1 Nov 1915 24
+    place:Beaumetz les Aire (6,28)
+    place:Saint Leger (41,37)
+  2 Nov 1915 46
+    place:Beaumetz les Aire (5,47)
+    activity:movement (23,51)
+    person:Captain Grove-White (other) (64,53)
+    time:0200PM (17,56)
+    place:Saint Leger (5,57)
+    place:Lynde (53,60)
+  3 Nov 1915 69
+    place:Lynde (6,72)
+    unit:16 Essex Yeomanry (65,72)
+  5 Nov 1915 79
+    place:Lynde (6,79)
+    place:Lynde (7,83)
+    place:Wallon Cappell (56,87)
+Page 102 (type diary) http://wd3.herokuapp.com/pages/AWD0000ith  ----------
+  5 Nov 1915 24
+    domestic:medical (27,27)
+  6 Nov 1915 28
+    place:Lynde (5,28)
+  7 Nov 1915 33
+    place:Lynde (7,33)
+    person:Lieutenant Colonel W K Clayton (returned_leave) (40,36)
+    place:Lynde (7,36)
+    person:Lieutenant Colonel W R Clayton (returned_leave) (34,37)
+    person:Captain L A Moran (returned_leave) (29,40)
+  8 Nov 1915 44
+    time:1100PM (42,48)
+    place:Lynde (6,48)
+    unit:Iii Cavalry divisional digging party (60,52)
+  9 Nov 1915 56
+    time:1030AM (80,60)
+    place:Lynde (7,60)
+    activity:movement (33,61)
+    time:0430PM (37,64)
+    place:Ouderdom (30,64)
+    time:0600PM (17,68)
+    place:Ouderdom (6,68)
+    time:0200AM (65,78)
+  10 Nov 1915 79
+    place:Lynde (6,83)
+    place:Vlamertinge (37,87)
+Page 103 (type diary) http://wd3.herokuapp.com/pages/AWD0000isg  ----------
+  10 Nov 1915 25
+    place:Lynde (6,28)
+    place:Beaumetz (54,32)
+  11 Nov 1915 40
+    person:Major G H L Hammerton (departed_leave) (32,44)
+    place:Beaumetz les Aire (7,44)
+    place:Beaumetz (7,45)
+  12 Nov 1915 49
+    place:Beaumetz les Aire (8,54)
+  13 Nov 1915 58
+    place:Beaumetz les Aire (7,63)
+  14 Nov 1915 66
+    place:Beaumetz les Aire (8,70)
+  15 Nov 1915 75
+    place:Beaumetz les Aire (8,79)
+  16 Nov 1915 85
+    place:Beaumetz les Aire (8,89)
+    person:Lieutenant Colonel W K Clayton (other) (42,91)
+Page 104 (type diary) http://wd3.herokuapp.com/pages/AWD0000isi  ----------
+  16 Nov 1915 25
+    place:Beaumetz (6,27)
+    place:Beaumetz les Aire (7,30)
+    person:Lieutenant Colonel Prynne (departed_leave) (35,30)
+    person:Lieutenant Colonel Prynne (departed_leave) (27,31)
+  17 Nov 1915 33
+    time:0845AM (63,36)
+    activity:movement (43,37)
+    time:1030AM (49,40)
+    time:0100PM (76,40)
+    place:Rimboval (68,40)
+  18 Nov 1915 48
+    place:Rimboval (7,53)
+  19 Nov 1915 57
+    person:Captain L A Wedderburn (joined) (77,61)
+    place:Rimboval (7,63)
+    person:Major G H L Hammerton (returned_leave) (28,63)
+  20 Nov 1915 69
+    place:Rimboval (7,73)
+  21 Nov 1915 75
+    place:Rimboval (8,80)
+  22 Nov 1915 81
+    place:Rimboval (8,84)
+  23 Nov 1915 86
+    place:Rimboval (7,88)
+    domestic:inspections (49,88)
+Page 105 (type diary) http://wd3.herokuapp.com/pages/AWD0000ip5  ----------
+  24 Nov 1915 25
+    place:Rimboval (6,30)
+  25 Nov 1915 31
+    person:Captain L A Moran (departed_posted) (77,34)
+    domestic:inspections (26,36)
+    place:Rimboval (8,36)
+    unit:R. Hussars (53,39)
+    person:Captain J Clarke (departed_leave) (79,39)
+  26 Nov 1915 44
+    person:Captain J H Grove-White (departed_leave) (26,48)
+    place:Rimboval (7,48)
+  27 Nov 1915 50
+    place:Rimboval (7,54)
+  28 Nov 1915 56
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 0 (74,58)
+    domestic:medical (82,59)
+    place:Rimboval (7,60)
+  29 Nov 1915 62
+    place:Rimboval (7,66)
+  30 Nov 1915 68
+    place:Rimboval (7,72)
+Page 106 (type cover)
+Page 107 (type diary) http://wd3.herokuapp.com/pages/AWD0000irw  ----------
+  30 Nov 1915 0
+  1 Dec 1915 24
+    place:Rimboval (7,27)
+  3 Dec 1915 32
+    place:Rimboval (7,32)
+    place:Rimboval (7,35)
+  4 Dec 1915 36
+    place:Rimboval (8,39)
+  5 Dec 1915 40
+    place:Rimboval (8,42)
+  6 Dec 1915 43
+    person:Captain J H Benson (casualty_wounded) (79,46)
+    person:Lieutenant J Lumb (departed_posted) (24,47)
+    place:Rimboval (8,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (28,51)
+  7 Dec 1915 55
+    person:Captain L M Wedderburn (other) (24,59)
+    place:Rimboval (7,59)
+    activity:repair (50,60)
+  8 Dec 1915 64
+    place:Rimboval (7,67)
+  9 Dec 1915 69
+    place:Rimboval (8,72)
+    domestic:inspections (37,73)
+    person:Major G A L Hammerton (departed_posted) (56,76)
+    person:Major G H L Hammerton (departed_posted) (66,77)
+  10 Dec 1915 86
+    place:Rimboval (9,89)
+    person:Lieutenant J Lumb (other) (22,90)
+    person:Lieutenant J Lumb (other) (28,90)
+Page 108 (type diary) http://wd3.herokuapp.com/pages/AWD0000ilt  ----------
+  Hashtags: #Court 
+  11 Dec 1915 24
+    place:Rimboval (6,28)
+  12 Dec 1915 32
+    place:Rimboval (6,35)
+  13 Dec 1915 36
+    place:Rimboval (7,40)
+    person:Captain J Grove-White (returned_leave) (26,40)
+    person:Captain J H Benson (81,42)
+    person:Lieutenant J Lumb (departed_leave) (32,44)
+    person:Captain J H Benson (joined) (24,47)
+  14 Dec 1915 52
+    person:Lieutenant J Lumb (other) (82,55)
+    place:Rimboval (6,56)
+    person:Captain J H Grove-White (other) (27,56)
+  15 Dec 1915 62
+    place:Rimboval (7,65)
+  16 Dec 1915 67
+    place:Rimboval (7,70)
+  17 Dec 1915 71
+    place:Rimboval (7,75)
+    domestic:discipline (26,75)
+    person:Corporal T Davies (discipline) (54,80)
+    person:Corporal A Sellors (discipline) (23,80)
+Page 109 (type diary) http://wd3.herokuapp.com/pages/AWD0000irk  ----------
+  Hashtags: #Court 
+  17 Dec 1915 25
+    person:Corporal Davies (discipline) (68,26)
+    place:Rimboval (7,28)
+    person:Sergeant E Drummond (other) (51,42)
+    person:Felix Millauriaux (other) (76,45)
+  18 Dec 1915 55
+    place:Rimboval (8,59)
+  19 Dec 1915 60
+  20 Dec 1915 64
+    place:Rimboval (8,64)
+    domestic:parades (38,67)
+    domestic:inspections (77,67)
+    place:Rimboval (7,68)
+    person:Corporal Davies (discipline) (38,79)
+    person:Corporal T Davies (discipline) (56,80)
+Page 110 (type diary) http://wd3.herokuapp.com/pages/AWD0000ilc  ----------
+  21 Dec 1915 24
+    domestic:inspections (22,27)
+    place:Rimboval (6,28)
+    domestic:inspections (35,28)
+  22 Dec 1915 32
+    person:H Cook (promotion) (42,35)
+    place:Rimboval (7,36)
+    person:Sergeant H Cook (other) (30,36)
+    person:Lance Corporal J Holbrook (promotion) (30,40)
+    person:Lance Corporal J Holbrook (promotion) (51,40)
+  23 Dec 1915 45
+    place:Rimboval (7,48)
+  24 Dec 1915 50
+    place:Rimboval (6,54)
+  25 Dec 1915 56
+    place:Rimboval (6,60)
+  26 Dec 1915 62
+    place:Rimboval (7,66)
+  27 Dec 1915 67
+    place:Rimboval (7,71)
+  28 Dec 1915 82
+    place:Rimboval (7,85)
+    domestic:parades (23,85)
+    domestic:inspections (32,85)
+  29 Dec 1915 90
+    place:Rimboval (7,94)
+Page 111 (type diary) http://wd3.herokuapp.com/pages/AWD0000ioq  ----------
+  30 Dec 1915 24
+    place:Rimboval (7,27)
+    activity:other (33,29)
+  31 Dec 1915 45
+    place:Rimboval (7,49)
+    activity:movement (59,53)
+    place:Maresquel (74,56)
+    person:Major G H L Hammerton (other) (54,60)
+    person:Major G H L Hammerton (other) (44,61)
+    time:0830PM (17,65)
+Page 112 (type cover)
+Page 113 (type diary) http://wd3.herokuapp.com/pages/AWD0000ilz  ----------
+  31 Dec 1915 0
+  1 Jan 1916 24
+    place:Rimboval (6,28)
+    activity:movement (33,29)
+    place:Maresquel (67,29)
+    unit:Iii Cavalry Division field ambulance (26,31)
+  2 Jan 1916 44
+    unit:Royal Horse Guards (42,47)
+    place:Rimboval (7,47)
+  3 Jan 1916 60
+    place:Rimboval (7,63)
+  4 Jan 1916 67
+    place:Rimboval (7,69)
+  5 Jan 1916 72
+    place:Rimboval (7,74)
+  6 Jan 1916 79
+    place:Rimboval (6,81)
+  7 Jan 1916 84
+    place:Rimboval (6,87)
+Page 114 (type diary) http://wd3.herokuapp.com/pages/AWD0000isr  ----------
+  7 Jan 1916 0
+  8 Jan 1916 25
+    place:Rimboval (5,28)
+  9 Jan 1916 30
+    place:Rimboval (6,34)
+  10 Jan 1916 35
+    place:Rimboval (6,38)
+  11 Jan 1916 39
+    person:Captain A H Benson (departed_leave) (41,41)
+    place:Rimboval (6,43)
+  12 Jan 1916 45
+    place:Rimboval (7,48)
+  13 Jan 1916 50
+    place:Rimboval (6,54)
+  14 Jan 1916 55
+    place:Rimboval (6,59)
+  15 Jan 1916 61
+    place:Rimboval (6,64)
+  16 Jan 1916 67
+    place:Rimboval (7,70)
+  17 Jan 1916 72
+    place:Rimboval (6,75)
+  18 Jan 1916 81
+    person:Captain L M Wedderburn (departed_posted) (26,85)
+    place:Rimboval (6,85)
+    person:Captain S H Clarke (departed_posted) (30,89)
+Page 115 (type diary) http://wd3.herokuapp.com/pages/AWD0000iq5  ----------
+  18 Jan 1916 0
+  19 Jan 1916 25
+    place:Rimboval (5,28)
+  20 Jan 1916 31
+    place:Rimboval (6,33)
+  21 Jan 1916 35
+    place:Rimboval (8,38)
+  22 Jan 1916 40
+    place:Rimboval (4,42)
+  23 Jan 1916 45
+    place:Rimboval (7,48)
+  24 Jan 1916 50
+    place:Rimboval (7,52)
+  25 Jan 1916 55
+    place:Rimboval (5,58)
+  26 Jan 1916 61
+    unit:A.d.m.s iii Cavalry Division (40,61)
+    domestic:inspections (68,63)
+    place:Rimboval (6,63)
+  27 Jan 1916 70
+    person:Lieutenant Colonel W Kitson Clayton (departed_leave) (23,72)
+    place:Rimboval (6,72)
+    person:Lieutenant Colonel Clayton (departed_leave) (24,73)
+  28 Jan 1916 80
+    place:Rimboval (5,82)
+    unit:8 cta (40,83)
+  29 Jan 1916 87
+    place:Rimboval (7,88)
+Page 116 (type diary) http://wd3.herokuapp.com/pages/AWD0000isv  ----------
+  29 Jan 1916 0
+  30 Jan 1916 25
+    place:Rimboval (5,28)
+  31 Jan 1916 29
+    place:Rimboval (6,31)
+    unit:Royal Horse Guards (62,33)
+    activity:other (38,33)
+    unit:Royal Horse Guards (52,38)
+Page 117 (type diary) http://wd3.herokuapp.com/pages/AWD0000it7  ----------
+  31 Jan 1916 0
+    place:Rimboval (5,22)
+  1 Feb 1916 23
+  2 Feb 1916 27
+    place:Rimboval (8,27)
+    place:Rimboval (4,28)
+  3 Feb 1916 29
+  4 Feb 1916 32
+    person:Lieutenant Colonel Clayton (returned_leave) (24,32)
+    person:Lieutenant Colonel Clayton (returned_leave) (38,32)
+  5 Feb 1916 34
+  6 Feb 1916 36
+  7 Feb 1916 38
+  8 Feb 1916 40
+  9 Feb 1916 43
+    person:Captain Moran (departed_leave) (23,44)
+  10 Feb 1916 45
+  11 Feb 1916 47
+  12 Feb 1916 49
+    activity:other (31,50)
+  13 Feb 1916 55
+    unit:3 Cavalry Division (23,55)
+    unit:10 R Hussars (78,57)
+  14 Feb 1916 58
+  15 Feb 1916 60
+  17 Feb 1916 65
+  18 Feb 1916 68
+    person:Lieutenant R Slaney (joined) (29,68)
+  19 Feb 1916 69
+  20 Feb 1916 71
+  21 Feb 1916 74
+    person:Captain L Moran (returned_leave) (22,75)
+  22 Feb 1916 76
+    person:Captain L A Moran (returned_leave) (30,76)
+    person:Lieutenant Colonel W K Clayton (departed_leave) (26,77)
+    person:Lieutenant Colonel Clayton (departed_leave) (38,77)
+    person:Lieutenant D F Dobson (other) (23,80)
+  23 Feb 1916 81
+    person:Captain R Marshall (departed_leave) (27,81)
+  24 Feb 1916 83
+  25 Feb 1916 85
+  26 Feb 1916 88
+    unit:10 R Hussars (49,89)
+    domestic:hygiene (54,89)
+    domestic:hygiene (28,90)
+  27 Feb 1916 91
+    unit:10 R Hussars (40,91)
+    domestic:hygiene (55,91)
+Page 118 (type diary) http://wd3.herokuapp.com/pages/AWD0000isl  ----------
+  Hashtags: #measles 
+  28 Feb 1916 23
+    person:Lieutenant Colonel W K Clayton (45,26)
+    person:Lieutenant Colonel W K Clayton (returned_leave) (25,27)
+    place:Rimboval (5,27)
+  29 Feb 1916 31
+    place:Rimboval (5,34)
+    domestic:medical (55,51)
+    domestic:medical (67,56)
+    unit:Essex Yeomanry (29,57)
+    person:Lieutenant Colonel Clayton (author) (74,78)
+Page 119 (type cover)
+Page 120 (type cover)
+Page 121 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqq  ----------
+  29 Feb 1916 0
+  1 Mar 1916 23
+    place:Rimboval (7,28)
+    unit:1 Eastern Division (58,30)
+  3 Mar 1916 36
+    activity:other (41,36)
+    time:0900PM (17,46)
+  5 Mar 1916 51
+    domestic:hygiene (51,53)
+    domestic:hygiene (42,54)
+    unit:10 Royal Hussars (25,54)
+  6 Mar 1916 57
+    unit:10 Royal Hussars (34,60)
+    domestic:hygiene (49,61)
+  7 Mar 1916 64
+  8 Mar 1916 68
+    weather:cold (42,68)
+    weather:cold (61,71)
+  9 Mar 1916 77
+    weather:cold (48,80)
+    weather:cold (56,80)
+    unit:Brigade Machine Gun Squadron (66,85)
+  10 Mar 1916 87
+Page 122 (type diary) http://wd3.herokuapp.com/pages/AWD0000io5  ----------
+  Hashtags: #Distinguished 
+  11 Mar 1916 23
+    place:Rimboval (6,24)
+  12 Mar 1916 27
+    place:Rimboval (4,28)
+    unit:Royal Horse Guards (50,29)
+    person:Captain J Hobbs (joined) (85,29)
+    weather:fine (50,31)
+  13 Mar 1916 32
+    person:Captain A H Benson (departed_posted) (77,34)
+  14 Mar 1916 39
+    weather:fine (27,39)
+    weather:rain (42,39)
+    person:Captain A H Benson (departed_posted) (34,44)
+    domestic:inspections (66,45)
+    weather:fine (43,50)
+    weather:fine (33,50)
+  15 Mar 1916 51
+    domestic:inspections (29,55)
+    domestic:inspections (26,55)
+    person:Captain J Hobbs (other) (45,60)
+    activity:training (27,61)
+    weather:fine (77,62)
+    unit:10 Royal Hussars (39,63)
+  16 Mar 1916 64
+    domestic:inspections (50,67)
+    activity:strength (33,70)
+    domestic:parades (33,70)
+    person:Corporal H Carley (award) (66,77)
+    weather:fine (27,86)
+Page 123 (type diary) http://wd3.herokuapp.com/pages/AWD0000ish  ----------
+  16 Mar 1916 0
+  17 Mar 1916 25
+    domestic:parades (29,28)
+    place:Rimboval (9,29)
+    unit:Essex Yeomanry (39,33)
+    activity:training (55,33)
+    weather:fine (63,36)
+  18 Mar 1916 38
+    activity:training (32,43)
+    person:Captain I Downie (joined) (70,46)
+    person:Captain Downie (joined) (54,46)
+    weather:fine (62,50)
+  19 Mar 1916 51
+    weather:fine (51,51)
+    domestic:parades (37,57)
+    domestic:inspections (30,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (55,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (29,76)
+    domestic:medical (36,77)
+    domestic:hygiene (59,81)
+    weather:fine (61,84)
+Page 124 (type diary) http://wd3.herokuapp.com/pages/AWD0000iph  ----------
+  19 Mar 1916 0
+  20 Mar 1916 24
+    activity:training (47,29)
+    place:Rimboval (9,31)
+    domestic:hygiene (35,32)
+  21 Mar 1916 39
+    weather:overcast (36,39)
+    unit:10 Royal Hussars (53,58)
+    domestic:hygiene (65,58)
+    domestic:hygiene (49,58)
+    weather:rain (48,62)
+  22 Mar 1916 63
+    person:Lieutenant Dobson (departed_leave) (30,66)
+    unit:10 Royal Hussars (52,74)
+    domestic:hygiene (65,75)
+  23 Mar 1916 78
+    weather:cold (30,78)
+    weather:cold (35,78)
+    person:Captain Lumblook (other) (32,82)
+    person:Captain J Lumb (other) (29,82)
+    person:Major R M Cowie (other) (49,86)
+    domestic:inspections (40,90)
+    weather:rain (47,92)
+    weather:cold (54,92)
+Page 125 (type diary) http://wd3.herokuapp.com/pages/AWD0000iox  ----------
+  Hashtags: #measles 
+  23 Mar 1916 0
+  24 Mar 1916 23
+    place:Rimboval (10,28)
+    domestic:medical (40,30)
+    reference:Case of measles in the village (42,31)
+    weather:cold (53,36)
+    weather:cold (63,37)
+  25 Mar 1916 42
+    place:Rimboval (13,45)
+    weather:rain (55,48)
+  26 Mar 1916 54
+    place:Rimboval (14,57)
+    unit:Ramc (43,58)
+    activity:strength (43,60)
+    weather:rain (36,63)
+  27 Mar 1916 66
+    place:Rimboval (15,70)
+    activity:training (60,74)
+    weather:fine (39,77)
+  28 Mar 1916 78
+    place:Rimboval (15,82)
+    reference:Ambulance A1109 (60,82)
+    domestic:hygiene (54,85)
+    unit:10 Royal Hussars (41,85)
+    reference:10 R Hussars (45,85)
+    weather:rain (64,88)
+    unit:10 r Hussars (53,88)
+Page 126 (type diary) http://wd3.herokuapp.com/pages/AWD0000isp  ----------
+  28 Mar 1916 0
+  29 Mar 1916 23
+    place:Rimboval (7,28)
+    weather:fine (60,32)
+    domestic:hygiene (44,32)
+    unit:10 Royal Hussars (24,32)
+  30 Mar 1916 36
+    place:Rimboval (6,40)
+    domestic:inspections (37,41)
+    weather:fine (56,44)
+  31 Mar 1916 47
+    weather:fine (79,52)
+    place:Rimboval (6,52)
+Page 127 (type cover)
+Page 128 (type cover)
+Page 129 (type diary) http://wd3.herokuapp.com/pages/AWD0000ilx  ----------
+  31 Mar 1916 0
+  1 Apr 1916 24
+    unit:20 mobile vet section (76,27)
+    unit:26 mobile vet section (59,28)
+    person:Captain J Lumb (joined) (81,28)
+    place:Rimboval (7,29)
+    unit:R.H.G. (42,31)
+    weather:fine (66,32)
+  2 Apr 1916 36
+    person:Captain J Lumb (departed_posted) (70,39)
+    place:Rimboval (7,40)
+    person:Captain J Hobbs (departed_leave) (31,41)
+  3 Apr 1916 46
+    place:Rimboval (7,51)
+    domestic:hygiene (32,52)
+    domestic:hygiene (76,52)
+    unit:10 Royal Hussars (63,52)
+    unit:Machine Gun Squadron 10 R. Hussars (42,52)
+    unit:Machine gun squad 10 Hussars (20,52)
+    place:Rimboval (7,56)
+    weather:hot (55,56)
+  4 Apr 1916 58
+    unit:Royal Hussars (48,62)
+    domestic:hygiene (25,63)
+    place:Rimboval (7,63)
+    weather:fine (68,63)
+  5 Apr 1916 67
+    unit:Royal Hussars (49,69)
+    domestic:hygiene (26,71)
+    weather:fine (75,71)
+    place:Rimboval (7,72)
+  6 Apr 1916 74
+    reference:A1109 WOLSEY CAR SENT TO ??? 3RD CAV DIV (38,77)
+    place:Rimboval (7,80)
+    unit:13 Cavalry Division. (77,80)
+    domestic:inspections (42,83)
+    weather:fine (75,85)
+    weather:fine (66,86)
+Page 130 (type diary) http://wd3.herokuapp.com/pages/AWD0000ily  ----------
+  6 Apr 1916 0
+  7 Apr 1916 22
+    place:Rimboval (7,27)
+    reference:Sunbeam car 1115 (77,28)
+    unit:R.A.M.C. Sunbeam Coy (62,28)
+    unit:Ramc (87,28)
+    activity:training (28,29)
+    weather:fine (53,33)
+  8 Apr 1916 36
+    place:Rimboval (7,40)
+    activity:other (27,42)
+    weather:fine (77,44)
+    weather:fine (69,45)
+  9 Apr 1916 48
+    place:Rimboval (7,53)
+    activity:training (27,53)
+    weather:fine (44,56)
+    weather:fine (51,57)
+  10 Apr 1916 59
+    reference:AMB?? TO FAWU FOR OVERHAUL (18,62)
+    reference:TWO AMB A1109 REPORTED FROM FAWU (88,63)
+    place:Rimboval (7,65)
+    weather:fine (65,71)
+    weather:fine (72,71)
+  11 Apr 1916 75
+    weather:rain (54,78)
+    place:Rimboval (7,80)
+    person:Private J Magee (other) (25,82)
+Page 131 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipj  ----------
+  11 Apr 1916 0
+  12 Apr 1916 24
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,27)
+    place:Rimboval (7,27)
+    place:Rimboval (6,31)
+    unit:10 Royal Hussars (42,32)
+    reference:185 MEN 10TH HUSSARS & 10 RAMC BATHED (22,32)
+    domestic:hygiene (54,32)
+    unit:10 R. A. M. C. (75,34)
+    weather:rain (63,35)
+    weather:rain (56,37)
+  13 Apr 1916 41
+    reference:ONE GS WAGGON TO 3RD FIELD SQAUDRON FOR REPAIRS (74,43)
+    domestic:hygiene (49,44)
+    place:Rimboval (5,44)
+    reference:175 MEN 10TH HUSSARS  BATHED (29,46)
+    weather:overcast (68,48)
+    weather:overcast (58,49)
+  14 Apr 1916 51
+    person:Captain Slaney (returned_leave) (23,55)
+    person:Captain Slaney (returned_leave) (43,56)
+    weather:overcast (79,56)
+    place:Rimboval (6,56)
+  15 Apr 1916 60
+    weather:fine (53,64)
+    place:Rimboval (7,65)
+  16 Apr 1916 67
+    domestic:inspections (49,70)
+    reference:ADMS 3RD CAV DIV INSPECTED TRANSPORT (20,71)
+    place:Rimboval (5,71)
+    person:Captain Hobbs (departed_sick) (37,78)
+    weather:fine (82,82)
+    weather:fine (75,83)
+Page 132 (type diary) http://wd3.herokuapp.com/pages/AWD0000irt  ----------
+  16 Apr 1916 0
+  17 Apr 1916 25
+    reference:ONE LIGHT AMB TO FAWU FOR REPAIRS (19,27)
+    place:Rimboval (6,28)
+    place:Rimboval (7,31)
+    weather:cold (71,32)
+    reference:AMBULANCE RETURNED FROM FAWU (49,32)
+    weather:overcast (65,33)
+  18 Apr 1916 36
+    place:Rimboval (5,40)
+    reference:ONE LIGHT AM FROM FAWU & ONE SENT FOR REPAIRS (47,40)
+    weather:cold (67,44)
+    weather:rain (61,45)
+  19 Apr 1916 49
+    domestic:hygiene (19,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (21,51)
+    reference:ONE LIGHT AM FROM FAWU & ONE SENT FOR REPAIRS (86,51)
+    place:Rimboval (5,52)
+    domestic:hygiene (53,52)
+    unit:10 R Hussars (35,52)
+    unit:10 R Hussars (54,52)
+    person:Captain C F Pickard (returned_leave) (88,56)
+    place:Rimboval (15,59)
+    weather:rain (76,59)
+    weather:rain (62,62)
+  20 Apr 1916 64
+    place:Rimboval (6,67)
+    domestic:hygiene (19,67)
+    reference:2 LIGHT AMB RETURNED FROM FAWU (86,67)
+    unit:10 R Hussars (37,67)
+    domestic:hygiene (47,68)
+    weather:rain (80,71)
+  21 Apr 1916 74
+    place:Rimboval (10,75)
+    unit:Ymbfa (55,78)
+    place:Rimboval (6,79)
+    weather:cold (86,82)
+Page 133 (type diary) http://wd3.herokuapp.com/pages/AWD0000isu  ----------
+  21 Apr 1916 0
+  22 Apr 1916 23
+    person:Lieutenant H Pringle (joined) (41,27)
+    person:Lieutenant H Pringle (joined) (51,28)
+    place:Rimboval (5,30)
+    weather:cold (82,32)
+  23 Apr 1916 36
+    weather:fine (83,40)
+    domestic:inspections (33,41)
+    weather:fine (75,42)
+  24 Apr 1916 43
+    activity:strength (42,48)
+  25 Apr 1916 52
+    weather:fine (86,52)
+    unit:10 R Hussars (42,59)
+    person:Captain Lumb (other) (81,59)
+    domestic:hygiene (44,59)
+    domestic:hygiene (58,60)
+    weather:hot (62,64)
+  26 Apr 1916 66
+    domestic:hygiene (47,70)
+    unit:10 R Hussars (36,71)
+    activity:strength (33,77)
+    weather:hot (77,79)
+    weather:hot (67,81)
+Page 134 (type diary) http://wd3.herokuapp.com/pages/AWD0000iow  ----------
+  26 Apr 1916 0
+  27 Apr 1916 23
+    place:Rimboval (4,26)
+    person:Captain Moran (departed_leave) (74,28)
+    person:Captain Moran (21,28)
+    place:Rimboval (6,29)
+    weather:hot (55,31)
+    weather:hot (47,32)
+  28 Apr 1916 35
+    place:Rimboval (6,40)
+  29 Apr 1916 43
+    weather:hot (64,44)
+    place:Rimboval (4,49)
+    weather:hot (73,51)
+    activity:quiet (27,54)
+  30 Apr 1916 57
+    domestic:inspections (20,59)
+    weather:hot (85,60)
+    domestic:inspections (30,60)
+    person:Lieutenant Colonel (author) (67,77)
+Page 135 (type cover)
+Page 136 (type cover)
+Page 137 (type diary) http://wd3.herokuapp.com/pages/AWD0000irr  ----------
+  30 Apr 1916 0
+    reference:8TH CAV FD UNIT VOL 19 MAY 1916 (84,16)
+  1 May 1916 22
+    place:Rimboval (5,26)
+    place:Rimboval (5,30)
+    weather:hot (44,31)
+    weather:hot (56,32)
+  2 May 1916 36
+    unit:Ramc (81,39)
+    unit:10 R Hussars (68,40)
+    weather:other (59,44)
+    domestic:hygiene (33,44)
+  3 May 1916 48
+    weather:hot (81,50)
+    unit:Ramc (55,51)
+    unit:10 R Hussars (42,52)
+  4 May 1916 53
+    place:Rimboval (17,56)
+    weather:hot (57,57)
+    activity:quiet (27,58)
+  5 May 1916 60
+    place:Rimboval (6,60)
+    unit:Ramc (56,67)
+    weather:hot (52,70)
+    person:Captain Moran (returned_leave) (21,74)
+  6 May 1916 75
+    person:Captain Moran (returned_leave) (57,78)
+    person:Captain Lumb (departed_leave) (27,81)
+Page 138 (type diary) http://wd3.herokuapp.com/pages/AWD0000ioj  ----------
+  6 May 1916 0
+  7 May 1916 23
+    place:Rimboval (5,28)
+    person:Captain Moran (departed_posted) (29,32)
+    unit:8 Machine Gun Squad (75,35)
+  8 May 1916 41
+    weather:rain (55,45)
+  9 May 1916 48
+    place:Rimboval (12,51)
+    unit:Ramc (75,51)
+    unit:10 R Hussars (41,52)
+    domestic:hygiene (53,53)
+    weather:rain (73,57)
+  10 May 1916 58
+    unit:Ramc (59,62)
+    unit:X R Hussars (35,63)
+    weather:fine (67,64)
+  11 May 1916 66
+    weather:fine (59,71)
+  12 May 1916 75
+    weather:fine (61,79)
+  13 May 1916 82
+    person:Captain Lumb (returned_leave) (55,86)
+    weather:overcast (79,87)
+Page 139 (type diary) http://wd3.herokuapp.com/pages/AWD0000io3  ----------
+  13 May 1916 0
+  14 May 1916 25
+    person:Captain Slaney (joined) (34,27)
+    person:Lieutenant Pringle (other) (52,28)
+    place:Rimboval (6,28)
+    person:Captain Moran (other) (42,32)
+    person:Captain Moran (departed_posted) (31,41)
+    weather:overcast (37,44)
+  15 May 1916 45
+    person:Lieutenant Colonel W J Clayton (author) (20,50)
+    unit:8 Cavalry Brigade (24,56)
+    activity:movement (29,56)
+    weather:fine (60,66)
+  16 May 1916 68
+    activity:other (32,73)
+    weather:fine (26,80)
+  17 May 1916 81
+    activity:other (26,87)
+    weather:fine (45,88)
+Page 140 (type diary) http://wd3.herokuapp.com/pages/AWD0000ioe  ----------
+  18 May 1916 20
+    person:Lieutenant Colonel Clayton (other) (23,26)
+    person:Captain Slaney (other) (42,27)
+    place:Yvrench (67,31)
+    time:0500PM (36,35)
+    weather:fine (54,35)
+  19 May 1916 38
+    weather:fine (52,44)
+  20 May 1916 51
+    time:0630AM (42,54)
+    person:Lieutenant Colonel Clayton (departed_training) (26,55)
+    time:0330PM (49,59)
+    weather:fine (29,64)
+  21 May 1916 65
+    activity:movement (31,71)
+    time:0530AM (22,74)
+    weather:fine (28,79)
+  22 May 1916 81
+    place:Rimboval (7,87)
+    weather:fine (54,87)
+Page 141 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipb  ----------
+  22 May 1916 0
+  23 May 1916 22
+    domestic:hygiene (40,26)
+    domestic:hygiene (21,27)
+    domestic:hygiene (30,27)
+    unit:10 Royal Hussars (29,27)
+    place:Rimboval (6,28)
+    weather:fine (31,32)
+  24 May 1916 35
+    person:Lieutenant Pringle (departed_leave) (45,40)
+    place:Rimboval (6,41)
+    weather:fine (28,48)
+  25 May 1916 51
+    place:Rimboval (6,55)
+    weather:fine (47,56)
+    activity:other (25,57)
+  26 May 1916 59
+    place:Rimboval (6,63)
+    weather:fine (45,64)
+  27 May 1916 67
+    weather:fine (50,70)
+    place:Rimboval (6,71)
+    weather:fine (46,73)
+  28 May 1916 74
+    place:Rimboval (6,79)
+    person:Captain J Downie (departed_leave) (50,79)
+    weather:fine (31,87)
+    weather:fine (36,87)
+Page 142 (type diary) http://wd3.herokuapp.com/pages/AWD0000ioo  ----------
+  28 May 1916 0
+  29 May 1916 22
+    place:Rimboval (5,29)
+    domestic:inspections (25,32)
+    activity:other (28,34)
+    domestic:medical (37,37)
+    weather:fine (29,48)
+  30 May 1916 51
+    place:Rimboval (5,56)
+    unit:Royal Horse Guards (18,58)
+    domestic:hygiene (82,58)
+    unit:Royal Horse Guards (27,59)
+    weather:fine (26,63)
+  31 May 1916 70
+    time:0830AM (70,74)
+    place:Rimboval (5,75)
+    activity:movement (41,75)
+    unit:Adms (30,77)
+    place:Merlimont (74,78)
+    place:Beaurainville (38,79)
+    time:0430PM (25,82)
+    domestic:accomodation (42,83)
+    weather:fine (27,86)
+Page 143 (type cover)
+Page 144 (type diary) http://wd3.herokuapp.com/pages/AWD0000imj  ----------
+  1 Jun 1916 24
+    unit:3 Canadian Division (18,26)
+    place:Merlimont (6,28)
+    unit:10 Royal Hussars (18,32)
+    unit:10 rh (32,35)
+    person:Lieutenant Pringle (returned_leave) (42,43)
+    place:Fruges (24,44)
+    weather:fine (26,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (67,51)
+  2 Jun 1916 53
+    place:Merlimont (7,55)
+    domestic:hygiene (21,55)
+    weather:fine (30,60)
+  3 Jun 1916 64
+    place:Merlimont (7,67)
+    domestic:hygiene (21,67)
+    weather:fine (72,67)
+  4 Jun 1916 71
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (21,74)
+    place:Merlimont (7,74)
+    weather:fine (74,74)
+  5 Jun 1916 80
+    domestic:medical (34,82)
+    domestic:hygiene (81,82)
+    place:Merlimont (7,83)
+Page 145 (type diary) http://wd3.herokuapp.com/pages/AWD0000irp  ----------
+  6 Jun 1916 23
+    weather:fine (75,29)
+    place:Merlimont (5,29)
+  7 Jun 1916 33
+    place:Bomy (69,36)
+    place:Merlimont (6,37)
+    weather:fine (66,40)
+  8 Jun 1916 41
+    place:Merlimont (6,45)
+    weather:fine (79,47)
+    person:Captain Downie (returned_leave) (42,48)
+  9 Jun 1916 51
+    unit:Royal Horse Guards (68,55)
+    person:Captain J Lumb (other) (25,55)
+    place:Merlimont (6,55)
+    person:Major Surgeon Cowie (departed_leave) (31,61)
+    weather:rain (54,62)
+  10 Jun 1916 64
+    activity:movement (33,67)
+    place:Rimboval (74,67)
+    place:Merlimont (7,68)
+    weather:fine (67,71)
+  11 Jun 1916 75
+    weather:fine (53,79)
+    place:Rimboval (6,79)
+Page 146 (type diary) http://wd3.herokuapp.com/pages/AWD0000imf  ----------
+  11 Jun 1916 0
+  12 Jun 1916 26
+    domestic:inspections (25,28)
+    place:Rimboval (6,29)
+    unit:1 Royal Dragoons (77,32)
+    person:Captain L A Moran (departed_posted) (45,33)
+    person:Lieutenant Colonel W K Clayton (departed_leave) (26,37)
+    weather:rain (64,40)
+  13 Jun 1916 45
+    place:Rimboval (7,48)
+    weather:rain (50,49)
+  14 Jun 1916 53
+    place:Rimboval (7,55)
+    weather:cold (79,60)
+  15 Jun 1916 65
+    place:Rimboval (7,68)
+    weather:fine (75,71)
+  16 Jun 1916 73
+    place:Rimboval (7,75)
+    weather:fine (46,87)
+Page 147 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipn  ----------
+  16 Jun 1916 0
+  17 Jun 1916 26
+    person:Captain L A Moran (joined) (28,27)
+    place:Rimboval (7,28)
+    person:Captain Moran (23,29)
+    unit:1 Royal Dragoons (88,29)
+    weather:fine (67,33)
+  18 Jun 1916 37
+    place:Rimboval (7,40)
+    domestic:inspections (34,40)
+    weather:fine (65,45)
+  19 Jun 1916 48
+    place:Rimboval (7,51)
+    domestic:hygiene (20,52)
+    domestic:hygiene (29,52)
+    domestic:hygiene (53,52)
+    unit:10 Royal Hussars (38,52)
+    weather:fine (73,56)
+  20 Jun 1916 57
+    domestic:other (21,59)
+    place:Rimboval (7,60)
+    activity:training (25,60)
+    weather:fine (59,64)
+  21 Jun 1916 69
+    domestic:other (21,69)
+    place:Rimboval (6,71)
+    weather:fine (80,71)
+    activity:training (25,71)
+  22 Jun 1916 76
+    place:Rimboval (7,79)
+    domestic:other (23,79)
+    activity:training (28,79)
+    weather:fine (67,80)
+Page 148 (type diary) http://wd3.herokuapp.com/pages/AWD0000iq7  ----------
+  23 Jun 1916 29
+    domestic:inspections (61,30)
+    place:Rimboval (6,31)
+    domestic:parades (45,31)
+    weather:rain (61,35)
+  24 Jun 1916 42
+    activity:movement (40,43)
+    place:Rimboval (6,43)
+    time:0630PM (67,43)
+    weather:fine (70,47)
+    weather:fine (76,48)
+  25 Jun 1916 52
+    place:Regniere Ecluse (37,54)
+    time:0300AM (53,54)
+    activity:movement (26,55)
+    place:Regniere Ecluse (6,55)
+    time:0800PM (63,58)
+    person:Captain Lumb (joined) (75,58)
+    weather:fine (63,63)
+  26 Jun 1916 68
+    activity:movement (35,70)
+    place:Saint Ouen (6,70)
+    time:0300AM (48,70)
+    time:0800PM (42,74)
+    weather:rain (63,75)
+  27 Jun 1916 80
+    activity:movement (23,81)
+    weather:rain (63,81)
+    place:Bonnay (7,82)
+    time:0315AM (43,82)
+Page 149 (type diary) http://wd3.herokuapp.com/pages/AWD0000ile  ----------
+  28 Jun 1916 28
+    activity:other (24,31)
+    weather:rain (47,31)
+    place:Bonnay (8,31)
+  29 Jun 1916 37
+    weather:rain (49,39)
+    activity:other (23,40)
+    place:Bonnay (8,40)
+  30 Jun 1916 45
+    place:Bonnay (7,46)
+    domestic:inspections (44,47)
+    weather:fine (75,50)
+Page 150 (type cover)
+Page 151 (type diary) http://wd3.herokuapp.com/pages/AWD0000ir4  ----------
+  1 Jul 1916 25
+    place:Bonnay (6,31)
+    weather:hot (44,31)
+    activity:other (23,31)
+  2 Jul 1916 36
+    place:Bonnay (7,39)
+    person:Captain Moran (departed_posted) (53,39)
+    activity:other (23,39)
+    weather:hot (72,43)
+  3 Jul 1916 44
+    place:Bonnay (7,47)
+    person:Captain Moran (joined) (57,47)
+    place:Abbeville (76,50)
+    activity:movement (36,54)
+    weather:fine (55,55)
+  4 Jul 1916 60
+    place:Bonnay (5,61)
+    weather:fine (76,61)
+    place:Bailleul (52,62)
+    place:Bonnay (9,62)
+    time:0500AM (33,62)
+    time:0500PM (62,62)
+    activity:movement (29,62)
+  5 Jul 1916 68
+    weather:fine (56,70)
+    place:Bailleul (7,71)
+  6 Jul 1916 75
+    place:Bailleul (7,77)
+    weather:fine (57,78)
+  7 Jul 1916 82
+    time:0600AM (65,85)
+    place:Bailleul (7,86)
+    weather:rain (73,86)
+Page 152 (type diary) http://wd3.herokuapp.com/pages/AWD0000ioz  ----------
+  8 Jul 1916 26
+    weather:rain (49,30)
+    place:Bailleul (6,31)
+    activity:other (26,32)
+  9 Jul 1916 37
+    place:Corbie (69,39)
+    place:Bailleul (6,39)
+    time:1230AM (48,39)
+    time:0700PM (81,39)
+    place:Corbie (34,40)
+    weather:fine (63,43)
+    place:Bonnay (8,43)
+    place:Bonnay (5,43)
+    place:Bonnay (38,44)
+    time:0830PM (47,44)
+  10 Jul 1916 49
+    weather:fine (54,51)
+    place:Bonnay (7,51)
+    activity:other (27,51)
+  11 Jul 1916 56
+    place:Bonnay (7,58)
+    activity:other (25,58)
+    weather:fine (53,59)
+  12 Jul 1916 64
+    weather:fine (53,67)
+    place:Bonnay (7,67)
+    activity:other (26,68)
+  13 Jul 1916 72
+    place:Bonnay (7,74)
+    time:0400AM (72,74)
+    weather:fine (58,82)
+Page 153 (type diary) http://wd3.herokuapp.com/pages/AWD0000inw  ----------
+  14 Jul 1916 29
+    time:0400AM (75,31)
+    place:Bonnay (7,31)
+    weather:fine (75,36)
+  15 Jul 1916 41
+    place:Bonnay (7,43)
+    weather:fine (54,44)
+  16 Jul 1916 48
+    place:Bonnay (6,51)
+    weather:fine (64,51)
+  17 Jul 1916 57
+    place:Bonnay (7,58)
+    weather:rain (60,58)
+  18 Jul 1916 64
+    place:Bonnay (7,66)
+    weather:rain (60,67)
+  19 Jul 1916 72
+    place:Bonnay (6,74)
+    weather:fine (55,74)
+  20 Jul 1916 80
+    place:Bonnay (8,82)
+    weather:fine (56,82)
+  21 Jul 1916 87
+    place:Bonnay (8,89)
+    activity:strength (33,90)
+    weather:fine (78,90)
+Page 154 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipa  ----------
+  21 Jul 1916 0
+  22 Jul 1916 28
+    person:Captain Lumb (departed_posted) (24,29)
+    person:Captain Moran (departed_posted) (41,30)
+    place:Bonnay (7,30)
+    weather:fine (72,38)
+  23 Jul 1916 40
+    place:Bonnay (7,43)
+    weather:fine (71,44)
+  24 Jul 1916 48
+    place:Bonnay (6,50)
+    weather:fine (73,50)
+  25 Jul 1916 56
+    person:Captain Downie (other) (25,58)
+    person:Lieutenant Pringle (other) (43,58)
+    place:Bonnay (5,58)
+    weather:hot (74,66)
+  26 Jul 1916 71
+    place:Bonnay (6,73)
+    weather:hot (69,74)
+  27 Jul 1916 82
+    place:Bonnay (7,84)
+    weather:hot (79,85)
+Page 155 (type diary) http://wd3.herokuapp.com/pages/AWD0000ini  ----------
+  28 Jul 1916 28
+    place:Bonnay (6,31)
+    weather:hot (51,31)
+  29 Jul 1916 37
+    place:Bonnay (7,39)
+    weather:hot (54,39)
+  30 Jul 1916 45
+    place:Bonnay (7,47)
+    weather:hot (73,49)
+  31 Jul 1916 52
+    place:Bonnay (7,54)
+    weather:hot (72,59)
+Page 156 (type cover)
+Page 157 (type diary) http://wd3.herokuapp.com/pages/AWD0000inj  ----------
+  1 Aug 1916 25
+    activity:movement (34,27)
+    place:Bonnay (7,28)
+    place:Bonnay (8,31)
+    weather:hot (75,32)
+  2 Aug 1916 33
+    activity:movement (31,38)
+    weather:hot (74,39)
+  3 Aug 1916 42
+    place:Neuilly (8,46)
+    weather:hot (59,47)
+  4 Aug 1916 49
+    weather:hot (56,51)
+    place:Douriez (35,51)
+    activity:movement (22,52)
+    place:Douriez (7,53)
+  5 Aug 1916 54
+    weather:hot (59,57)
+    place:Blingel (31,57)
+    place:Blingel (7,57)
+    activity:movement (21,57)
+  6 Aug 1916 58
+    weather:hot (56,61)
+  7 Aug 1916 63
+    place:Blingel (7,63)
+    place:Blingel (7,67)
+  8 Aug 1916 69
+    place:Blingel (7,72)
+  9 Aug 1916 75
+    place:Blingel (5,76)
+    weather:hot (60,78)
+    place:Blingel (7,79)
+  10 Aug 1916 81
+    weather:rain (59,84)
+    place:Blingel (7,85)
+  11 Aug 1916 87
+    weather:fine (59,91)
+    place:Blingel (8,91)
+Page 158 (type diary) http://wd3.herokuapp.com/pages/AWD0000im9  ----------
+  11 Aug 1916 0
+  12 Aug 1916 24
+    place:Blingel (7,29)
+    activity:strength (28,29)
+    weather:hot (58,31)
+  13 Aug 1916 32
+    place:Puchevillers (42,32)
+    place:Blingel (8,36)
+    weather:hot (57,36)
+    weather:hot (41,37)
+  14 Aug 1916 38
+    place:Blingel (8,41)
+    weather:hot (57,41)
+    domestic:medical (32,42)
+  15 Aug 1916 44
+    place:Blingel (8,47)
+    domestic:inspections (24,47)
+    domestic:inspections (33,48)
+    weather:rain (58,49)
+  16 Aug 1916 50
+    place:Blingel (8,53)
+    weather:overcast (57,53)
+  17 Aug 1916 55
+    place:Blingel (8,59)
+    weather:rain (57,59)
+  18 Aug 1916 61
+    place:Blingel (9,65)
+    domestic:inspections (25,65)
+    weather:fine (57,65)
+    unit:G Battery Royal Horse Artillery (48,65)
+    unit:10 Royal Hussars (34,66)
+  19 Aug 1916 69
+    weather:fine (58,70)
+    place:Blingel (6,72)
+    domestic:inspections (25,73)
+    unit:Essex Yeo (40,74)
+    unit:Essex Yeomanry (32,74)
+  20 Aug 1916 76
+    weather:fine (59,77)
+    place:Blingel (7,79)
+    domestic:hygiene (34,81)
+    place:Puchevillers (51,83)
+  21 Aug 1916 86
+    weather:fine (60,86)
+    place:Blingel (7,89)
+    weather:fine (61,89)
+    domestic:inspections (24,90)
+    unit:M.G.S. (49,92)
+    unit:Royal Horse Guards (18,92)
+    weather:fine (64,96)
+Page 159 (type diary) http://wd3.herokuapp.com/pages/AWD0000in3  ----------
+  21 Aug 1916 0
+  22 Aug 1916 24
+    domestic:hygiene (35,28)
+    place:Blingel (7,29)
+    weather:fine (67,31)
+  23 Aug 1916 33
+    place:Blingel (9,37)
+    activity:other (31,38)
+    weather:overcast (56,38)
+  24 Aug 1916 41
+    place:Blingel (9,46)
+    weather:fine (55,48)
+  25 Aug 1916 50
+    place:Blingel (9,54)
+    weather:fine (54,55)
+  26 Aug 1916 58
+    domestic:hygiene (44,61)
+    place:Blingel (9,61)
+    weather:overcast (67,61)
+  27 Aug 1916 65
+    place:Blingel (10,68)
+    activity:strength (38,70)
+  28 Aug 1916 71
+    weather:overcast (66,71)
+    domestic:hygiene (43,76)
+    place:Blingel (10,76)
+    weather:overcast (66,76)
+  29 Aug 1916 79
+    place:Blingel (9,83)
+    person:Captain H Pringle (returned_leave) (40,84)
+    person:Captain J Lumb (departed_leave) (31,89)
+    weather:rain (71,91)
+Page 160 (type diary) http://wd3.herokuapp.com/pages/AWD0000inh  ----------
+  30 Aug 1916 24
+    place:Blingel (8,28)
+    weather:rain (55,28)
+  31 Aug 1916 31
+    place:Blingel (9,33)
+    person:Captain R Slaney (other) (27,34)
+    weather:fine (79,41)
+    domestic:medical (40,42)
+Page 161 (type cover)
+Page 162 (type cover)
+Page 163 (type diary) http://wd3.herokuapp.com/pages/AWD0000imm  ----------
+  31 Aug 1916 0
+  1 Sep 1916 23
+    unit:47 ccs (76,28)
+    place:Blingel (8,28)
+    weather:fine (50,30)
+  2 Sep 1916 34
+    place:Blingel (8,38)
+    domestic:medical (52,39)
+  3 Sep 1916 45
+    person:Captain J Downie (departed_posted) (30,49)
+    place:Blingel (8,49)
+    weather:other (78,51)
+  4 Sep 1916 56
+    unit:No 6 Convalescent Depot (77,61)
+    place:Blingel (8,61)
+    place:Etaples (38,65)
+    person:Captain L A Moran (departed_leave) (79,70)
+    domestic:medical (53,70)
+    person:Captain L A Moran (other) (70,72)
+    weather:rain (59,83)
+Page 164 (type diary) http://wd3.herokuapp.com/pages/AWD0000ikv  ----------
+  4 Sep 1916 0
+  5 Sep 1916 24
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (70,29)
+    domestic:medical (27,29)
+    place:Blingel (8,30)
+    weather:rain (70,35)
+  6 Sep 1916 37
+    domestic:inspections (40,42)
+    place:Blingel (8,43)
+    domestic:inspections (30,43)
+    domestic:medical (65,47)
+    weather:rain (66,56)
+  7 Sep 1916 59
+    person:Captain J Downie (other) (72,63)
+    domestic:inspections (50,63)
+    place:Blingel (8,64)
+    domestic:inspections (38,65)
+    person:Captain R Slaney (other) (62,68)
+    unit:Rhg (35,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (75,76)
+    domestic:medical (59,82)
+    weather:fine (63,86)
+Page 165 (type diary) http://wd3.herokuapp.com/pages/AWD0000ivf  ----------
+  8 Sep 1916 24
+    unit:No 20 Field Ambulance (65,27)
+    reference:ADMS letter no 935 (34,28)
+    activity:movement (26,30)
+    place:Blingel (6,30)
+    reference:Brigade letter no 88-1 (29,32)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,36)
+    domestic:inspections (31,39)
+    reference: (30,40)
+    weather:fine (65,41)
+    domestic:medical (25,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (26,43)
+  9 Sep 1916 45
+    place:Blingel (7,50)
+    unit:No 20 Field Ambulance (43,50)
+    unit:No 20 Field Ambulance (84,50)
+    reference:B M no 88 - 4 (25,55)
+    unit:24 gh (84,55)
+  10 Sep 1916 57
+    place:Grigny (73,58)
+    activity:movement (37,61)
+    place:Blingel (28,61)
+    place:Blingel (8,62)
+    mapRef:Lens (61,64)
+    place:Hesdin (46,65)
+    place:Blingel (5,67)
+    unit:M G S (37,67)
+    mapRef:Abbeville (47,70)
+    place:Douriez (29,71)
+    weather:fine (71,77)
+    unit:No 20 fa (58,78)
+    unit:24 gh (64,78)
+    reference:ADMS letter no 941 (40,79)
+  11 Sep 1916 81
+    place:Douriez (7,85)
+    activity:movement (32,87)
+    mapRef:Abbeville (83,88)
+    unit:M G S (39,91)
+Page 166 (type diary) http://wd3.herokuapp.com/pages/AWD0000inc  ----------
+  11 Sep 1916 0
+    weather:fine (39,27)
+  12 Sep 1916 32
+    reference:B M 94 (30,32)
+    mapRef:Abbeville (84,33)
+    place:Saint Riquier (7,36)
+    activity:movement (31,37)
+    mapRef:Lens (64,38)
+    place:Flexicourt (54,39)
+    place:Saint Sauveur (77,39)
+    place:Ailly (46,40)
+    time:0230PM (39,44)
+    mapRef:Amiens (26,45)
+    reference:ADMS Z 1866 (50,47)
+    reference:AMS 120 (71,48)
+    reference:B M 95 (29,49)
+    reference:p 4-20, and 21-2 (56,51)
+    reference:DMS Res Army 218 9.9.16 (34,52)
+    reference:ADMS  Z 1860 (72,54)
+    reference:DGMS 467/3 (59,56)
+    reference:CD no 4930 (34,57)
+    weather:fine (37,61)
+  13 Sep 1916 62
+    place:Saint Sauveur (7,68)
+    domestic:accomodation (26,68)
+    activity:resting (29,69)
+    reference:Brigade BM96 (53,71)
+    reference:SC F/137 3c 20/32 (77,71)
+    reference:ADMS 95-39954 (65,72)
+    weather:fine (56,80)
+Page 167 (type diary) http://wd3.herokuapp.com/pages/AWD0000iml  ----------
+  14 Sep 1916 25
+    unit:G Battery (75,29)
+    activity:movement (24,30)
+    place:Saint Sauveur (6,32)
+    place:Amiens (45,34)
+    place:Rivery (58,34)
+    place:Camon (68,34)
+    mapRef:Amiens (38,38)
+    place:Bussy (28,39)
+    mapRef:Amiens (49,39)
+    reference:ADMS T 1867 & 949 (38,46)
+    reference:ASC 1604 & 1605 (78,46)
+    reference:DRO 13/9/16 (59,47)
+    reference:ADMS letter No 394 (36,50)
+    reference:Brigade BM 100 (67,54)
+    weather:fine (77,58)
+  15 Sep 1916 62
+    activity:movement (31,66)
+    place:Dours (62,70)
+    place:Bussy (8,70)
+    unit:G Battery (25,70)
+    mapRef:Amiens (59,73)
+    place:La Neuville (36,74)
+    reference:Brigade BM 106 (36,90)
+Page 168 (type diary) http://wd3.herokuapp.com/pages/AWD0000il2  ----------
+  Hashtags: #tetanus 
+  15 Sep 1916 0
+    weather:fine (58,29)
+  16 Sep 1916 32
+    reference:Brigade BM 106/1 (43,38)
+    place:La Neuville (7,40)
+    reference:Brigade No 11 Cav Corp I G 233/2 (71,42)
+    person:Lieutenant G F Nelson (joined) (40,46)
+    reference:Brigade BM 107 (32,46)
+    unit:Ramc(tc) (61,46)
+    weather:fine (73,50)
+    reference:Brigade  BM 108 (65,51)
+    unit:No 7 C F A (41,51)
+  17 Sep 1916 53
+    reference:Brigade  BM 109/1 (43,57)
+    place:La Neuville (7,59)
+    activity:movement (27,60)
+    unit:G Battery (68,62)
+    reference:ADMS Z1886 (71,70)
+    weather:fine (37,78)
+Page 169 (type diary) http://wd3.herokuapp.com/pages/AWD0000imb  ----------
+  17 Sep 1916 0
+  18 Sep 1916 29
+    activity:other (31,29)
+    place:Vecquemont (8,30)
+    weather:rain (48,30)
+    place:Vecquemont (8,34)
+  19 Sep 1916 40
+    place:Vecquemont (8,42)
+    weather:rain (54,42)
+    weather:rain (45,42)
+  20 Sep 1916 51
+    activity:training (29,54)
+    place:Vecquemont (8,54)
+    weather:cold (57,54)
+  21 Sep 1916 63
+    activity:training (29,66)
+    place:Vecquemont (7,66)
+    weather:fine (61,69)
+    weather:fine (67,69)
+Page 170 (type diary) http://wd3.herokuapp.com/pages/AWD0000isc  ----------
+  22 Sep 1916 24
+    activity:movement (25,30)
+    place:Vecquemont (6,30)
+    place:La Motte (23,33)
+    place:Cahon (32,34)
+    place:Amiens (39,34)
+    place:Ailly (47,34)
+    place:Picquigny (56,34)
+    place:L'Etoile (50,38)
+    weather:fine (85,38)
+    mapRef:Amiens and Lens (54,41)
+    weather:fine (83,41)
+  23 Sep 1916 44
+    reference:DRO 21/9/16 (32,44)
+    place:L'Etoile (6,48)
+    place:Brucamps (71,49)
+    time:0900AM (31,50)
+    activity:movement (26,50)
+    place:L'Etoile (6,51)
+    place:Auxi Le Chateau (50,53)
+    place:Domqueur (25,54)
+    place:Rougefay (26,58)
+    weather:fine (84,59)
+  24 Sep 1916 61
+    reference:ADMS 993 & 994 (42,62)
+    place:Rougefay (6,66)
+    place:Marconelle (65,67)
+    activity:movement (29,68)
+    time:0830AM (27,69)
+    place:Galametz (53,69)
+    place:Rougefay (6,70)
+    place:Bois Jean (59,73)
+    place:Maresquel (24,74)
+    weather:fine (55,78)
+    weather:fine (75,81)
+    reference:ADMS 984 (39,82)
+Page 171 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipo  ----------
+  25 Sep 1916 24
+    place:Bois Jean (6,28)
+    place:Bois Jean (7,33)
+    reference:? (29,34)
+    reference:HO 1/9/16 (82,35)
+    reference:GRO 25/9/16 (50,36)
+    reference:RAMC RO 25/9/16 (62,36)
+    reference:BM 120 (37,37)
+    weather:fine (78,39)
+  26 Sep 1916 41
+    place:Bois Jean (9,47)
+    weather:fine (77,51)
+    reference:? (27,52)
+    reference:DRO 25/9/16 (46,54)
+  27 Sep 1916 57
+    place:Bois Jean (9,62)
+    reference:SC 2080, 2081, 2088 (58,65)
+    reference:? (30,65)
+    weather:fine (76,65)
+  28 Sep 1916 69
+    place:Bois Jean (8,74)
+    reference:? (32,76)
+    activity:training (26,76)
+    reference:SC F/182 (56,77)
+    reference:Z 1810/1 (69,77)
+    reference:SC F/180 (43,78)
+    weather:fine (75,82)
+Page 172 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqz  ----------
+  29 Sep 1916 24
+    place:Bois Jean (6,28)
+    reference:SC/ F 186 (65,31)
+    place:Bois Jean (7,32)
+    time:1200PM (22,33)
+    reference:SC 2081/1 (50,34)
+    reference:BM 130 (78,34)
+    reference:Z 1797/1 (30,35)
+    reference:BRO 29/9/16 (39,36)
+    reference:DRO 28/9/16 (60,37)
+    weather:fine (79,38)
+    reference:Z 1891 (26,39)
+    reference:BRO 29/9/16 (50,39)
+  30 Sep 1916 41
+    activity:movement (25,45)
+    time:1200PM (78,45)
+    place:Bois Jean (6,46)
+    time:1000AM (39,46)
+    place:Brimeux (30,49)
+    reference:ADMS Z 1910/2 (46,51)
+    reference:Bde SC 2100 (60,52)
+    reference:M 100 (82,52)
+    reference:Z1910/2 (51,54)
+    reference:M1050 (75,54)
+    reference:GRO 28/9/16 (27,55)
+    weather:fine (56,57)
+    unit:Dms 4 Cavalry (63,58)
+    person:Lieutenant W K Clayton (joined) (22,61)
+    person:Captain John Downie (author) (71,73)
+Page 173 (type cover)
+Page 174 (type cover)
+Page 175 (type diary) http://wd3.herokuapp.com/pages/AWD0000itb  ----------
+  1 Oct 1916 23
+    place:Beurain (4,26)
+    place:Beurain (4,31)
+    person:Captain J Downie (other) (25,34)
+    reference:ADMS 1004/1 (35,38)
+    reference:Z1913 (50,39)
+    reference:SC 2109 (21,40)
+    reference:CCRO 35/9/16 (62,41)
+    reference:SC 2109 (29,43)
+    reference:SC /F186/1 "Bde R" (48,43)
+    reference:CCRO 30/9/16 (77,43)
+    weather:fine (71,46)
+  2 Oct 1916 55
+    place:Brimeux (54,53)
+    time:0215PM (66,54)
+    place:Beurain (6,54)
+    activity:movement (26,55)
+    mapRef:Abbeville (57,59)
+    place:Aubin (61,65)
+    reference:RAMC R0 210 (84,68)
+    reference:ADMS (55,70)
+    reference:SC 2113 (26,72)
+    weather:rain (70,74)
+    unit:No 20 fa (50,84)
+Page 176 (type diary) http://wd3.herokuapp.com/pages/AWD0000is4  ----------
+  3 Oct 1916 24
+    place:Brimen (6,29)
+    person:Captain J Lumb (departed_posted) (21,33)
+    unit:R H Guards (69,34)
+    reference:Z 1920, 1020 (36,37)
+    reference:S C 2112 (45,37)
+    reference:D R O 10/2/16 (57,37)
+  4 Oct 1916 39
+    weather:rain (66,41)
+    place:Brimen 4 (6,44)
+    reference:S C 2117 (53,47)
+    reference:Bde 2115/1 (41,48)
+    reference:BM 140 (63,48)
+    reference:BRO 4/10/16 (83,48)
+    reference:D R O 3/10/16 (71,49)
+  5 Oct 1916 51
+    weather:rain (75,52)
+    unit:Essex Yeo (51,57)
+    unit:8 Machine Gun Squadron (78,57)
+    reference:BRO 5/10/16 (68,63)
+    reference:BM 136/5 (41,64)
+    reference:D R O 5/10/16 (63,64)
+  6 Oct 1916 66
+    weather:rain (76,68)
+    unit:K & g Battery Royal Horse Artillery (78,72)
+    person:Captain Slaney (other) (23,73)
+    reference:BM 136/3 (36,75)
+    reference:S C 2140 (46,75)
+  7 Oct 1916 77
+    weather:rain (67,78)
+    reference:Z 1921 (70,86)
+    reference:ADMS 1216; 2141:2141/1:1216 (46,87)
+    reference:Z 1938 (62,87)
+    reference:BM 136/4 (78,87)
+    weather:rain (73,91)
+Page 177 (type diary) http://wd3.herokuapp.com/pages/AWD0000ind  ----------
+  Hashtags: #harvesting #PHGgas #diphtheria 
+  7 Oct 1916 0
+  8 Oct 1916 23
+    place:Brimeux (8,29)
+    reference:CCRO 4/10/16 (68,29)
+    reference:8CD  5027 (55,30)
+    reference:SC 2109/1 (33,31)
+    reference:2145 (47,31)
+    reference:SC 2109/1: 2145 (42,34)
+    reference:SCD 3027 (55,34)
+    reference:CCRO 4/10/16 (68,34)
+  9 Oct 1916 36
+    weather:fine (76,36)
+    reference:SC 2148 (40,42)
+    reference:SC 2142 (51,43)
+    reference:ADMS 1017 (60,43)
+    reference:BM 147 (30,43)
+    reference:DRO 8/10/16 (75,44)
+    reference:SC 2148 (43,46)
+  10 Oct 1916 47
+    weather:fine (71,49)
+    place:Brimeux (7,52)
+    reference:SC 2113/2 (67,52)
+    reference:SC 2153 (36,53)
+    reference:SC 2157 (47,53)
+    unit:3 Cavalry (79,53)
+    reference:SC 2156 (58,55)
+    reference:SC 2153 (37,57)
+    reference:SC 2157 (46,57)
+    reference:SC 2113/2 (68,59)
+  11 Oct 1916 60
+    place:Brimeux (6,63)
+    unit:Brigade 796 (44,65)
+    unit:Dro 10/10/16 (32,66)
+    reference:DRO 10/10/16 (31,67)
+    reference:Bde 796 (45,67)
+    weather:fine (66,69)
+  12 Oct 1916 71
+    place:Brimeux (7,75)
+    reference:Z 1540/3 (49,78)
+    reference:SC 2161 (42,81)
+    reference:Z 1955 (61,81)
+    reference:Z 1540/3 (51,83)
+    weather:fine (73,85)
+Page 178 (type diary) http://wd3.herokuapp.com/pages/AWD0000iod  ----------
+  Hashtags: #diphtheria 
+  12 Oct 1916 0
+  13 Oct 1916 25
+    place:Brimeux (6,29)
+    reference:CCRO 12/10/16 (52,30)
+    reference:GRO 10/10/16 (82,30)
+    reference:BRO 15/10/16 (37,31)
+    reference:DRO 12/10/16 (69,32)
+    reference:CCRO 12/10/16 (54,34)
+    reference:ERO 10/10/16 (83,34)
+    reference:BRO 13/10/16 (40,35)
+    weather:rain (67,35)
+  14 Oct 1916 37
+    reference:ADMS 1528 (49,40)
+    place:Brimeux (7,40)
+    reference:SC 2156/1 (38,41)
+    reference:Z 1962 (62,43)
+    weather:rain (67,44)
+    reference:SC 2156/1 (37,46)
+    reference:ADMS 1028 (51,46)
+  15 Oct 1916 47
+    weather:rain (69,49)
+    reference:SC 2182 (43,51)
+    place:Brimeux (8,52)
+    weather:rain (61,53)
+    reference:SC 2182 (45,56)
+    weather:rain (63,57)
+  16 Oct 1916 59
+    place:Brimeux (7,62)
+    reference:SC 1946/3 (39,66)
+    weather:fine (65,70)
+  17 Oct 1916 71
+    reference:BM 169 (44,75)
+    place:Brimeux (8,75)
+    reference:SC 2188 (52,76)
+    reference:Z 1962 (64,77)
+    reference:DRO 16/10/16 (76,77)
+    reference:BM 169 (42,79)
+Page 179 (type diary) http://wd3.herokuapp.com/pages/AWD0000ikw  ----------
+  18 Oct 1916 24
+    person:Captain R Slaney (departed_leave) (20,26)
+    place:Ireland (78,26)
+    place:Brimeux (7,28)
+    unit:Ramc (44,29)
+    person:Captain R Slaney (departed_leave) (26,29)
+    person:other Clench (joined) (19,32)
+    person:Captain E R Pickard (other) (70,33)
+    person:Chaplain L H Clench (joined) (24,34)
+    reference:CCRO 16/10/16 (64,37)
+    reference:DRO 15/10/16 (83,37)
+    activity:other (22,37)
+    reference:Z 1962/1 (52,38)
+    reference:BM 169/3 (40,39)
+    reference:CCRO 16/10/16 (62,41)
+    reference:DRO 15/10/16 (83,41)
+    weather:fine (70,45)
+  19 Oct 1916 47
+    place:Brimeux (7,51)
+    activity:other (24,52)
+    weather:fine (69,53)
+  20 Oct 1916 56
+    place:Brimeux (7,59)
+    reference:ADMS 1044 1045 (51,60)
+    reference:Z 1908/3 (69,60)
+    activity:other (22,60)
+    reference:SC 2182/1 (82,61)
+    reference:GRO 17/10/16 (37,62)
+    reference:ADMS 1044, 1043 (61,62)
+    reference:SC 2202: 2203:2205 (22,63)
+    weather:fine (77,68)
+  21 Oct 1916 71
+    activity:other (22,74)
+    place:Brimeux (8,75)
+    reference:ADMS 1049 (71,78)
+    reference:CCRO 25/10/16 (41,81)
+    weather:rain (65,83)
+Page 180 (type diary) http://wd3.herokuapp.com/pages/AWD0000irm  ----------
+  21 Oct 1916 0
+  22 Oct 1916 26
+    activity:other (22,30)
+    reference:DRO 21/10/16 (42,32)
+    reference:BRO 22/10/16 (53,32)
+    weather:fine (72,36)
+  23 Oct 1916 38
+    reference:SC 2132/1 (56,43)
+    reference:SC 2132/2 (69,43)
+    reference:BOC 2212 (45,44)
+    weather:rain (69,50)
+  24 Oct 1916 54
+    person:Captain C M Wilmott (departed_posted) (19,56)
+    person:Captain C M Wilmott (departed_posted) (22,59)
+    reference:BRO 24/10/16 (46,64)
+    reference:SC 2156/2 (61,64)
+    weather:rain (70,69)
+  25 Oct 1916 70
+    domestic:accomodation (23,73)
+    reference:DRO 24/10/16 (41,76)
+    reference:SC 2132/5 (58,76)
+    reference:Z 1972 (68,76)
+    reference:Z 1979 (82,76)
+    weather:fine (70,82)
+Page 181 (type diary) http://wd3.herokuapp.com/pages/AWD0000ilu  ----------
+  26 Oct 1916 26
+    place:Hesmond (43,29)
+    domestic:accomodation (27,30)
+    activity:movement (24,31)
+    place:Beaurainville (73,31)
+    mapRef:Abbeville (46,33)
+    mapRef:Abbeville (37,35)
+    place:Offin (26,35)
+    reference:BM 175/2 (39,37)
+    weather:fine (77,40)
+  27 Oct 1916 42
+    reference:ADMS XN 125 (62,46)
+    place:Hesmond (7,47)
+    reference:Z 1966 (45,48)
+    reference:BM 164/1 (54,48)
+    reference:BRO 27/10/16 (77,52)
+    reference:CCRO 26/11/16 (45,53)
+    weather:rain (73,58)
+  28 Oct 1916 62
+    place:Hesmond (8,66)
+    reference:GRO 26/10/16 (41,67)
+    reference:DRO 27/10/16 (54,67)
+    reference:ADMS 1069 4N126 (68,67)
+    activity:other (23,67)
+    reference:Z 1986 (38,72)
+    reference:SC 2238 (50,72)
+    reference:SC 2132/1 (64,72)
+    weather:overcast (70,77)
+Page 182 (type diary) http://wd3.herokuapp.com/pages/AWD0000iln  ----------
+  29 Oct 1916 23
+    place:Hesmond (7,28)
+    activity:other (24,30)
+    reference:SC 2225-1 (55,31)
+    reference:CCRO 28/10/16 (76,31)
+    reference:Z 1994 (33,32)
+    reference:SC2225-1 (55,35)
+    reference:CCR6 28/10/16 (78,35)
+    reference:z1999 (34,36)
+    weather:fine (24,39)
+  30 Oct 1916 43
+    reference:BM 132-24 (53,47)
+    reference:Hq 12247 (40,48)
+    activity:other (21,48)
+    place:Hesmond (7,48)
+    reference:HQ2247 (42,51)
+    reference:BM132-24 (50,51)
+  31 Oct 1916 58
+    activity:other (20,62)
+    place:Hesmond (6,63)
+    person:Captain J Lumb (other) (36,64)
+    place:Hesmond (6,66)
+    person:Captain J Lumb (joined) (47,66)
+    person:Major Cothle (departed_leave) (74,71)
+    reference:SC 2212-1 (71,74)
+    reference:DRO 2231 (82,75)
+    reference:RO 211 (46,75)
+    reference:2212-1 (73,78)
+    reference:RO211 (48,79)
+    weather:fine (23,85)
+Page 183 (type cover)
+Page 184 (type diary) http://wd3.herokuapp.com/pages/AWD0000isn  ----------
+  1 Nov 1916 24
+    place:Hesmond (7,28)
+    activity:other (24,28)
+    person:Captain H Pringle (other) (28,32)
+    person:Lieutenant G F Nelson (other) (59,36)
+    person:Lieutenant G F Nelson (other) (69,36)
+    person:Captain J Downie (departed_leave) (27,48)
+    domestic:hygiene (43,60)
+    weather:fine (27,63)
+  2 Nov 1916 71
+    place:Hesmond (7,75)
+    activity:other (23,75)
+Page 185 (type diary) http://wd3.herokuapp.com/pages/AWD0000iof  ----------
+  2 Nov 1916 0
+  3 Nov 1916 25
+    activity:other (24,28)
+    place:Hesmond (7,29)
+    weather:rain (22,42)
+  4 Nov 1916 45
+    activity:other (22,48)
+    place:Hesmond (9,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 30; wounded: 0 (27,53)
+    weather:fine (22,68)
+  5 Nov 1916 69
+    activity:other (22,75)
+    place:Hesmond (8,75)
+    weather:fine (22,83)
+    person:Captain R Slaney (author) (60,90)
+Page 186 (type diary) http://wd3.herokuapp.com/pages/AWD0000ira  ----------
+  5 Nov 1916 0
+  6 Nov 1916 24
+    activity:other (24,28)
+    place:Hesmond (7,29)
+    domestic:hygiene (43,31)
+    unit:90 or machine gun squadron (26,33)
+    unit:Cero 51 & 52 (31,37)
+    unit:Ramc (59,37)
+    weather:rain (21,44)
+  7 Nov 1916 45
+    place:Hesmond (8,48)
+    person:Lieutenant G F Nelson (other) (26,49)
+    domestic:hygiene (60,56)
+    weather:rain (73,60)
+  8 Nov 1916 64
+    place:Hesmond (8,67)
+    unit:Ccro (44,75)
+    weather:rain (77,76)
+Page 187 (type diary) http://wd3.herokuapp.com/pages/AWD0000irf  ----------
+  8 Nov 1916 0
+  9 Nov 1916 24
+    activity:other (27,27)
+    domestic:hygiene (43,27)
+    unit:20 mvs (63,27)
+    place:Hesmond (6,28)
+    domestic:hygiene (53,28)
+    weather:fine (74,32)
+    place:Hesmond (7,32)
+    person:Captain J Downie (returned_leave) (23,34)
+  10 Nov 1916 36
+    weather:fine (72,41)
+    place:Hesmond (7,41)
+  11 Nov 1916 43
+    place:Hesmond (7,48)
+    activity:other (27,49)
+    weather:rain (77,59)
+  12 Nov 1916 63
+    weather:rain (75,63)
+    activity:other (26,66)
+    place:Hesmond (8,67)
+    weather:fine (77,71)
+  13 Nov 1916 74
+    unit:Machine Gun Squad (61,78)
+    activity:other (25,79)
+    place:Hesmond (8,79)
+    domestic:hygiene (51,79)
+    weather:rain (74,86)
+Page 188 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqj  ----------
+  13 Nov 1916 0
+  14 Nov 1916 23
+    domestic:hygiene (40,27)
+    activity:other (52,27)
+    place:Hesmond (7,28)
+    weather:fine (78,33)
+  15 Nov 1916 35
+    place:Hesmond (7,40)
+    activity:other (26,40)
+  16 Nov 1916 48
+    domestic:hygiene (37,50)
+    place:Hesmond (7,52)
+    person:Lieutenant G F Nelson (departed_leave) (30,55)
+    person:Captain R Slaney (other) (29,59)
+    unit:8 M. G. S. (77,60)
+    unit:3 Cavalry Division (66,64)
+  17 Nov 1916 70
+    weather:cold (81,70)
+    place:Hesmond (7,77)
+    activity:other (23,79)
+    weather:rain (72,88)
+Page 189 (type diary) http://wd3.herokuapp.com/pages/AWD0000inf  ----------
+  17 Nov 1916 0
+  18 Nov 1916 23
+    activity:other (55,28)
+    place:Hesmond (7,29)
+    domestic:medical (30,29)
+    weather:rain (68,32)
+  19 Nov 1916 36
+    activity:other (26,41)
+    place:Hesmond (7,42)
+  20 Nov 1916 44
+    place:Hesmond (7,48)
+    place:Hesmond (7,52)
+    domestic:inspections (38,52)
+    weather:fine (76,63)
+  21 Nov 1916 67
+    place:Hesmond (8,70)
+    person:Captain J Lumb (27,72)
+    domestic:hygiene (66,75)
+    unit:8 Machine gun squad (47,76)
+    place:Hesmond (7,76)
+    weather:fine (68,81)
+    weather:fine (58,83)
+Page 190 (type diary) http://wd3.herokuapp.com/pages/AWD0000ior  ----------
+  21 Nov 1916 0
+  22 Nov 1916 26
+    person:Captain R Slaney (departed_posted) (32,27)
+    person:Captain P Slaney (departed_posted) (21,28)
+    place:Hesmond (7,29)
+    person:Captain H Pringle (departed_posted) (23,32)
+    unit:Essex Yeomanry (70,33)
+    person:Captain H Pringle (departed_posted) (35,33)
+    place:Hesmond (7,33)
+    domestic:hygiene (28,37)
+    weather:fine (74,45)
+  23 Nov 1916 50
+    domestic:sport (50,52)
+    place:Hesmond (8,53)
+    weather:fine (73,59)
+  24 Nov 1916 61
+    activity:other (29,68)
+    place:Hesmond (7,68)
+    place:Hesmond (8,72)
+    weather:fine (75,75)
+Page 191 (type diary) http://wd3.herokuapp.com/pages/AWD0000is5  ----------
+  24 Nov 1916 0
+  25 Nov 1916 27
+    place:Hesmond (7,28)
+    person:Lieutenant G F Nelson (returned_leave) (31,28)
+    person:Captain R Slaney (joined) (28,33)
+    domestic:medical (28,37)
+    weather:rain (76,40)
+  26 Nov 1916 45
+    place:Hesmond (7,49)
+    activity:other (28,49)
+    weather:cold (73,55)
+  24 Nov 1916 0
+  26 Nov 1916 45
+  27 Nov 1916 62
+    place:Hesmond (7,63)
+    person:Captain H Pringle (other) (24,63)
+    person:Captain H Pringle (39,63)
+    unit:Essex Yeo (71,65)
+    person:Lieutenant Nelson (departed_posted) (27,67)
+    person:Lieutenant G F Nelson (departed_posted) (37,68)
+    unit:Essex Yeomanry (53,68)
+    person:Captain J Lumb (departed_posted) (21,71)
+    person:Captain J Lumb (departed_posted) (36,71)
+    domestic:hygiene (27,75)
+    unit:8 Machine gun squad (62,76)
+    weather:cold (70,81)
+Page 192 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipg  ----------
+  27 Nov 1916 0
+  28 Nov 1916 25
+    person:Captain H Pringle (departed_posted) (23,29)
+    person:Captain H Pringle (other) (38,29)
+    place:Hesmond (9,29)
+    unit:8 Machine gun (60,33)
+    place:Hesmond (7,33)
+    domestic:hygiene (39,34)
+    weather:cold (72,39)
+  29 Nov 1916 40
+    place:Hesmond (8,45)
+    activity:other (30,45)
+    weather:fine (75,55)
+  30 Nov 1916 60
+    unit:20 M V S (46,64)
+    place:Hesmond (8,64)
+    domestic:hygiene (26,64)
+    weather:cold (64,67)
+    person:Captain John Downie (author) (63,78)
+Page 193 (type cover)
+Page 194 (type diary) http://wd3.herokuapp.com/pages/AWD0000it3  ----------
+  30 Nov 1916 0
+  1 Dec 1916 24
+    place:Hesmond (7,28)
+    activity:other (25,29)
+    weather:cold (75,33)
+  2 Dec 1916 35
+    place:Hesmond (7,41)
+    person:Captain C M Wilmot (other) (23,41)
+    domestic:medical (31,44)
+    weather:cold (75,52)
+  3 Dec 1916 55
+    activity:other (22,60)
+    place:Hesmond (8,60)
+    person:Captain H Pringle (other) (28,63)
+    weather:cold (23,68)
+  4 Dec 1916 70
+    place:Hesmond (5,73)
+    place:Hesmond (9,75)
+    activity:other (23,77)
+    unit:W. G Squadron (45,78)
+    domestic:hygiene (24,79)
+    unit:Essex Yeomanry (75,83)
+    person:Lieutenant G F Nelson (other) (23,83)
+    weather:fine (22,90)
+Page 195 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqy  ----------
+  4 Dec 1916 0
+  5 Dec 1916 24
+    activity:other (22,28)
+    place:Hesmond (5,28)
+    domestic:hygiene (25,36)
+    unit:8 D S squadron (41,38)
+    weather:fine (69,40)
+  6 Dec 1916 43
+    activity:other (27,47)
+    place:Hesmond (5,48)
+    person:Captain A W Forest (joined) (21,51)
+    person:Captain H Pringle (departed_training) (23,55)
+    weather:rain (24,66)
+  7 Dec 1916 67
+    place:Hesmond (8,75)
+    activity:other (27,76)
+    person:Captain C M Willmott (departed_leave) (22,78)
+    weather:fine (23,87)
+Page 196 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipm  ----------
+  7 Dec 1916 0
+    place:Hesmond (5,23)
+  8 Dec 1916 25
+    activity:other (22,28)
+    place:Hesmond (7,29)
+    weather:fine (24,37)
+  9 Dec 1916 40
+    activity:other (23,44)
+    place:Hesmond (6,45)
+    person:Captain H Pringle (other) (27,48)
+    unit:20 Field Ambulance (49,52)
+    domestic:medical (29,53)
+    reference:BM 184-28 (37,60)
+    reference:GRO 4/12/16 (49,60)
+    reference:DRO 8/12/16 (67,60)
+    weather:rain (25,64)
+  10 Dec 1916 66
+    activity:other (19,71)
+    place:Hesmond (7,71)
+    activity:training (36,74)
+    reference:SC 2405 (36,80)
+    weather:fine (24,83)
+Page 197 (type diary) http://wd3.herokuapp.com/pages/AWD0000isy  ----------
+  10 Dec 1916 0
+  11 Dec 1916 23
+    place:Hesmond (6,28)
+    activity:other (23,28)
+    unit:Essex Yeomanry (71,33)
+    unit:10 Royal Hussars (22,38)
+    place:Beaurainville (46,39)
+    unit:10 Royal Hussars (35,41)
+    reference:SC 2408, 2368-1, 2386 (41,45)
+    reference:DRO 11/12/16 (65,45)
+    weather:rain (22,48)
+  12 Dec 1916 51
+    place:Hesmond (7,56)
+    activity:other (21,56)
+    person:Captain A W Forest (departed_leave) (28,59)
+    reference:H 109 (32,68)
+    reference:H 40-12 (41,69)
+    weather:rain (23,71)
+  13 Dec 1916 75
+    place:Hesmond (7,79)
+    activity:other (22,79)
+    domestic:accomodation (34,83)
+    reference:Z 1796-2 (30,86)
+    weather:cold (31,90)
+    weather:cold (25,91)
+Page 198 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqs  ----------
+  Hashtags: #militarymedal #military 
+  14 Dec 1916 22
+    activity:other (26,28)
+    place:Hesmond (7,28)
+    weather:fine (53,32)
+    reference:DRO 13/12/16 (38,33)
+  15 Dec 1916 35
+    activity:other (23,40)
+    place:Hesmond (7,40)
+    domestic:hygiene (57,41)
+    person:Captain J Lumb (departed_leave) (47,43)
+    weather:rain (56,48)
+    reference:CCRO 14/12/16 (37,48)
+  16 Dec 1916 50
+    activity:other (22,54)
+    place:Hesmond (7,55)
+    person:Sergeant Major Armstrong (award) (31,59)
+    person:Sergeant Major T Armstrong (award) (44,59)
+    person:Private I Hollings (award) (20,62)
+    person:Private I Hollings (award) (39,63)
+    person:Private J W Nutting (award) (36,66)
+    person:Private J W Nutting (award) (21,66)
+    weather:fine (55,71)
+    reference:GRO 14/12/16 (35,72)
+  17 Dec 1916 73
+    activity:other (23,79)
+    place:Hesmond (8,79)
+    weather:fine (60,82)
+    reference:SC 2153/17 (44,83)
+Page 199 (type diary) http://wd3.herokuapp.com/pages/AWD0000ila  ----------
+  17 Dec 1916 0
+  18 Dec 1916 24
+    unit:8 M G Squadron (66,27)
+    domestic:hygiene (51,28)
+    unit:8 M G S (62,28)
+    activity:other (29,29)
+    place:Hesmond (7,29)
+    reference:Z 1719/2 (40,33)
+    reference:Z 1974/3 (63,33)
+    reference:H 48/4 (73,33)
+    reference:H 104 (80,33)
+    reference:Z 1886/3 (54,34)
+    reference:H 103 (85,34)
+    weather:rain (46,36)
+    reference:BM 184/30 (30,38)
+  19 Dec 1916 39
+    activity:other (26,45)
+    place:Hesmond (8,45)
+    reference:SC 2421 (50,48)
+    reference:SC 2408/1 (61,48)
+    reference:SC 2717/1 (74,48)
+    reference:Z 624/2 (40,49)
+    weather:cold (74,52)
+  20 Dec 1916 55
+    reference:SC 2408/3 (67,58)
+    activity:other (23,60)
+    place:Hesmond (7,60)
+    reference:BM 228/6 (41,63)
+    reference:SC 2424 (56,63)
+    reference:SC 2417 (67,64)
+    weather:fine (74,67)
+    unit:8 Pioneer Bat (53,69)
+  21 Dec 1916 71
+    place:Hesmond (8,75)
+    reference:Z 1132/3 (77,78)
+    reference:SC 2425 (56,79)
+    reference:SC 2408/3 (68,80)
+    reference:H 125 (37,82)
+    reference:XN 149 (46,82)
+    reference:Z 1540/6 (28,83)
+    reference:DRO 20/12/16 (59,83)
+    weather:fine (67,84)
+    weather:fine (71,86)
+Page 200 (type diary) http://wd3.herokuapp.com/pages/AWD0000ilq  ----------
+  22 Dec 1916 23
+    time:0215PM (80,28)
+    place:Merlimont Plage (52,28)
+    place:Hesmond (6,28)
+    activity:movement (26,28)
+    unit:6 C F A (55,33)
+    weather:rain (60,40)
+    reference:SC 1429 (38,41)
+    reference:SC 2481 (49,41)
+  23 Dec 1916 45
+    activity:other (28,48)
+    place:Merlimont Plage (7,50)
+    person:Captain C M Willmot (returned_leave) (32,51)
+    person:Captain A W Forrest (returned_leave) (55,52)
+    reference:H 126 (62,59)
+    reference:BM 237 (70,59)
+    reference:BM 237 (27,60)
+    reference:ADMS 1204 (38,60)
+    reference:H 42/5 (52,60)
+    reference:BRO 23/12/16 (81,60)
+  24 Dec 1916 64
+    weather:rain (63,64)
+    place:Merlimont Plage (7,68)
+    activity:other (26,68)
+    reference:H 124 (47,71)
+    reference:DRO 22/12/16 (68,72)
+    reference:GRO 21/12/16 (82,72)
+    weather:fine (77,75)
+  25 Dec 1916 76
+    place:Merlimont Plage (7,81)
+    activity:other (24,81)
+    reference:SC 791 (50,82)
+    reference:BM 244 (35,83)
+    weather:fine (62,84)
+    weather:fine (66,88)
+Page 201 (type diary) http://wd3.herokuapp.com/pages/AWD0000it1  ----------
+  25 Dec 1916 0
+  26 Dec 1916 24
+    place:Merlimont Plage (7,29)
+    person:Captain Willmot (other) (34,32)
+    reference:3rd Cavalry Division Supply Column (76,33)
+    place:Merlimont Plage (7,33)
+    reference:Received H48/5__ H12L: S.C. 1641:B.M.244/1 (25,36)
+    reference:SC 1841 (51,37)
+    reference:BM 244/1 (64,37)
+  27 Dec 1916 38
+    reference:H 48/5 (33,38)
+    reference:H 127 (42,38)
+    weather:fine (73,39)
+    activity:other (26,45)
+    place:Merlimont Plage (7,45)
+    reference:GCRO 24/12/16 (79,47)
+    reference:H  128 (39,48)
+    reference:BM 1245/1 (49,48)
+    reference:RAMC RO 216 (63,48)
+    weather:fine (68,49)
+  28 Dec 1916 52
+    weather:fine (73,52)
+    domestic:inspections (36,55)
+    domestic:inspections (49,56)
+    place:Merlimont Plage (8,57)
+    reference:DRO 26/12/16 (66,63)
+    reference:Z 1132/2/6 (38,64)
+    reference:BM 173/25 (55,64)
+    reference:CCRO 26/12/16 (81,64)
+    weather:cold (71,68)
+  29 Dec 1916 69
+    activity:other (33,76)
+    place:Merlimont Plage (7,76)
+    reference:SC 2408 (60,78)
+    reference:BM 1245/2 (50,79)
+    reference:BRO 27/12/16 (74,79)
+    weather:fine (71,83)
+    weather:fine (76,85)
+Page 202 (type diary) http://wd3.herokuapp.com/pages/AWD0000ir8  ----------
+  29 Dec 1916 0
+    place:Merlimont Plage (7,22)
+  30 Dec 1916 24
+    activity:other (27,28)
+    place:Merlimont Plage (7,30)
+    reference:DRO 29/12/16 (62,32)
+  31 Dec 1916 37
+    weather:fine (74,37)
+    place:Merlimont Plage (7,43)
+    weather:fine (75,48)
+    person:Captain John Downie (author) (68,62)
+Page 203 (type cover)
+Page 204 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipk  ----------
+  31 Dec 1916 0
+  1 Jan 1917 24
+    domestic:medical (31,29)
+    reference:Z 1690/1 (48,33)
+    reference:XN 158 (56,33)
+    reference:H 150/1 (69,33)
+    reference:SC 2454 (79,33)
+    place:Merlimont Plage (8,33)
+    reference:H 147 (39,34)
+    reference:H 149 (63,34)
+    weather:fine (71,36)
+    reference:DPO 12/12/16 (57,37)
+    reference:SC 2444/1 (42,38)
+    reference:SC 2455 (31,39)
+  2 Jan 1917 40
+    person:Captain J Lumb (returned_leave) (48,45)
+    reference:RAMC RO 218:Bde "C" (65,47)
+    reference:H 128/1 (39,48)
+    reference:H 116 (50,48)
+    place:Merlimont Plage (8,48)
+    weather:fine (78,49)
+  3 Jan 1917 60
+    person:Captain H Pringle (departed_leave) (49,60)
+    reference:GPO 31/12/16 (57,62)
+    place:Merlimont Plage (9,62)
+    reference:H 142 (36,63)
+    weather:fine (73,63)
+    reference:SC 2445 (46,64)
+  4 Jan 1917 69
+    place:Merlimont Plage (8,74)
+    activity:other (28,76)
+    reference:XN 162 (63,77)
+    reference:ASC 1853:1214 (76,77)
+    reference:ADMS 1212 (41,78)
+    reference:H 129/1 (55,78)
+    reference:SC 2419 (33,82)
+    reference:SC 2238/2 (48,82)
+    reference:DRO 3/1/17 (57,82)
+    weather:fine (71,84)
+Page 205 (type diary) http://wd3.herokuapp.com/pages/AWD0000ilw  ----------
+  4 Jan 1917 0
+    place:Merlimont Plage (6,22)
+  5 Jan 1917 24
+    place:Merlimont Plage (7,30)
+    weather:fine (55,32)
+  6 Jan 1917 34
+    activity:quiet (27,41)
+    place:Merlimont Plage (7,42)
+    reference:H 157 (52,44)
+    reference:H137 (51,44)
+  7 Jan 1917 55
+    weather:fine (75,47)
+    activity:quiet (26,52)
+    place:Merlimont Plage (7,54)
+    weather:fine (81,56)
+    domestic:medical (57,63)
+  8 Jan 1917 64
+    activity:quiet (27,65)
+    weather:rain (63,66)
+    place:Merlimont Plage (7,66)
+  9 Jan 1917 69
+    weather:rain (74,69)
+    place:Merlimont Plage (7,77)
+    reference:CCRO 8/1/17 (72,79)
+    weather:rain (69,82)
+Page 206 (type diary) http://wd3.herokuapp.com/pages/AWD0000io4  ----------
+  9 Jan 1917 0
+    place:Merlimont Plage (7,22)
+  10 Jan 1917 26
+    place:Merlimont Plage (7,30)
+    reference:Z1596/3 (40,33)
+    weather:rain (67,33)
+  11 Jan 1917 38
+    activity:quiet (26,41)
+    place:Merlimont Plage (7,43)
+    reference:H174 (41,45)
+    reference:H176 (51,45)
+    reference:SC2490 (61,45)
+    reference:SC2491 (70,45)
+    weather:rain (61,48)
+  12 Jan 1917 49
+    reference:CCRO 917 (41,50)
+    activity:quiet (31,53)
+    place:Merlimont Plage (8,54)
+    reference:SC2493 (62,56)
+    reference:396/3 (82,56)
+    reference:ASC1892 (48,57)
+    reference:2496 (75,57)
+    reference:796/4 (42,60)
+    weather:rain (70,60)
+  13 Jan 1917 65
+    place:Merlimont Plage (8,70)
+    reference:SC2499 (41,71)
+    reference:SC2391/1 (59,71)
+    reference:RAMC PO 219 (70,72)
+    weather:fine (77,76)
+Page 207 (type diary) http://wd3.herokuapp.com/pages/AWD0000irg  ----------
+  13 Jan 1917 0
+  14 Jan 1917 28
+    place:Merlimont Plage (7,31)
+    person:Captain R Slaney (departed_leave) (48,33)
+    weather:cold (79,38)
+  15 Jan 1917 44
+    activity:other (26,47)
+    place:Merlimont Plage (7,48)
+    weather:cold (72,49)
+  16 Jan 1917 51
+    place:Merlimont Plage (7,59)
+    weather:fine (59,64)
+    weather:cold (66,64)
+  17 Jan 1917 72
+    place:Merlimont Plage (8,73)
+    weather:cold (72,83)
+Page 208 (type diary) http://wd3.herokuapp.com/pages/AWD0000iq2  ----------
+  17 Jan 1917 0
+  18 Jan 1917 25
+    place:Merlimont Plage (7,30)
+    weather:cold (70,32)
+    reference:H189 (46,32)
+    reference:2597 (62,32)
+    reference:Z1969 (37,33)
+    reference:SC2736 (56,33)
+  19 Jan 1917 38
+    place:Merlimont Plage (6,39)
+    activity:quiet (25,41)
+    place:Merlimont Plage (7,43)
+    weather:cold (78,48)
+    reference:BM173/33 (37,49)
+    reference:SC2518 (49,49)
+    reference:2379 (55,49)
+  20 Jan 1917 52
+    place:Merlimont Plage (7,57)
+    activity:quiet (27,57)
+    reference:2379 (70,60)
+    weather:cold (66,63)
+    reference:H185 (38,63)
+  21 Jan 1917 67
+    place:Merlimont Plage (7,73)
+    weather:fine (56,75)
+    reference:H121/2 (48,75)
+Page 209 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqr  ----------
+  21 Jan 1917 0
+    place:Merlimont Plage (6,23)
+  22 Jan 1917 26
+    place:Merlimont Plage (7,30)
+    reference:BM274 (55,31)
+    reference:BM273 (42,32)
+    reference:ADMS 1241 (63,32)
+    reference:H123 (75,32)
+    reference:SC2502 (84,32)
+    weather:cold (64,34)
+  23 Jan 1917 37
+    weather:cold (69,37)
+    activity:quiet (25,43)
+    place:Merlimont Plage (8,43)
+    reference:H48/6 (43,44)
+    reference:SC1796 (64,44)
+    reference:Z1974 (54,45)
+    weather:cold (64,48)
+  24 Jan 1917 49
+    activity:quiet (26,53)
+    place:Merlimont Plage (6,53)
+    reference:H157/2 (45,55)
+    reference:SC2540 (69,55)
+    reference:SC2575 (57,56)
+    weather:cold (67,60)
+  25 Jan 1917 64
+    person:Captain Slaney (returned_leave) (48,67)
+    place:Merlimont Plage (8,67)
+    activity:quiet (29,68)
+    reference:SC2532 (50,75)
+    reference:SC2544 (60,75)
+    weather:cold (69,79)
+Page 210 (type diary) http://wd3.herokuapp.com/pages/AWD0000iro  ----------
+  25 Jan 1917 0
+    place:Merlimont Plage (6,22)
+  26 Jan 1917 25
+    activity:other (25,29)
+    place:Merlimont Plage (6,30)
+    reference:CB10 (75,32)
+    reference:H192 (36,33)
+    reference:H174 (47,33)
+    reference:H/13 9/2 (55,33)
+    reference:SC2546 (67,33)
+    reference:ADMS1258 (35,36)
+    reference:2562 (53,36)
+    reference:2548 (61,36)
+    reference:SC2406 (44,37)
+    reference:2546 (67,37)
+  27 Jan 1917 41
+    weather:cold (71,41)
+    place:Merlimont Plage (7,42)
+    activity:other (29,45)
+    reference:BM1280 (44,49)
+    reference:SC2554 (70,49)
+    weather:cold (51,51)
+  28 Jan 1917 54
+    place:Merlimont Plage (7,59)
+    activity:other (27,60)
+    reference:H/194/1 (40,64)
+    weather:cold (70,68)
+    place:Merlimont Plage (6,69)
+  29 Jan 1917 70
+    activity:other (28,72)
+    place:Merlimont Plage (8,74)
+    reference:BM280/7 (60,74)
+    reference:SC2556 (50,75)
+    reference:SC1843/7 (76,75)
+    reference:SC2548/1 (70,78)
+    reference:SC796/7 (31,79)
+    reference:SC796/7/1 (45,79)
+    reference:H/40/24 (61,79)
+    weather:cold (73,85)
+Page 211 (type diary) http://wd3.herokuapp.com/pages/AWD0000ine  ----------
+  29 Jan 1917 0
+    place:Merlimont Plage (7,20)
+  30 Jan 1917 24
+    activity:other (27,28)
+    place:Merlimont Plage (7,29)
+    person:Lieutenant Nelson (departed_training) (32,31)
+    reference:BM280/11 (45,36)
+    reference:SC2556 (57,36)
+    reference:SC1695/1 (81,36)
+    reference:SC2563 (72,37)
+    reference:SC2360 (31,41)
+    weather:cold (54,41)
+  31 Jan 1917 42
+    activity:other (31,49)
+    place:Merlimont Plage (8,50)
+    reference:xn163 (51,52)
+    reference:H123 (60,52)
+    reference:Z1730/2 (79,52)
+    reference:Z/1796/4 (69,53)
+    reference:SC2548/3 (52,55)
+    reference:H204 (30,56)
+    reference:H206 (42,56)
+    weather:cold (70,60)
+    person:Captain John Downie (author) (67,72)
+Page 212 (type cover)
+Page 213 (type diary) http://wd3.herokuapp.com/pages/AWD0000iq1  ----------
+  31 Jan 1917 0
+  1 Feb 1917 22
+    place:Fruges (8,24)
+    place:Merlimont Plage (36,27)
+    time:080AM (57,28)
+    activity:movement (30,28)
+    place:Fruges (78,29)
+    place:Fruges (8,29)
+    weather:cold (72,38)
+  2 Feb 1917 39
+    place:Fruges (8,43)
+    activity:other (31,46)
+    unit:8Cav Pioneer Bat (75,47)
+    place:Fruges (7,50)
+    weather:cold (67,50)
+  3 Feb 1917 51
+    person:Lieutenant Nelson (returned_training) (50,56)
+    place:Fruges (7,57)
+    weather:cold (80,60)
+    activity:other (25,60)
+  4 Feb 1917 62
+    place:Fruges (6,66)
+    place:Fruges (7,70)
+    activity:other (26,71)
+    weather:cold (76,73)
+  5 Feb 1917 74
+    place:Fruges (9,76)
+    place:Fruges (7,80)
+    weather:cold (66,82)
+Page 214 (type diary) http://wd3.herokuapp.com/pages/AWD0000ilk  ----------
+  5 Feb 1917 0
+  6 Feb 1917 25
+    person:Lieutenant Nelson (departed_posted) (50,28)
+    place:Fruges (7,29)
+    weather:cold (81,36)
+  7 Feb 1917 38
+    person:Captain Forrest (departed_posted) (23,41)
+    place:Fruges (8,41)
+    weather:cold (63,49)
+  8 Feb 1917 53
+    weather:cold (60,53)
+    place:Fruges (7,57)
+    activity:other (29,59)
+    weather:cold (74,64)
+  9 Feb 1917 69
+    place:Fruges (8,72)
+    activity:other (28,76)
+    weather:cold (73,78)
+Page 215 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipd  ----------
+  9 Feb 1917 0
+  10 Feb 1917 25
+    place:Fruges (8,30)
+    activity:other (29,30)
+    unit:6Cav Pioneer Bat (79,30)
+    weather:cold (56,37)
+  11 Feb 1917 42
+    place:Fruges (8,46)
+    activity:other (28,46)
+    weather:cold (73,52)
+  12 Feb 1917 57
+    person:Lieutenant Nelson (joined) (53,60)
+    place:Fruges (9,61)
+    weather:cold (67,63)
+    weather:cold (73,64)
+  13 Feb 1917 68
+    place:Fruges (9,72)
+    activity:other (31,72)
+    weather:cold (61,86)
+Page 216 (type diary) http://wd3.herokuapp.com/pages/AWD0000iny  ----------
+  13 Feb 1917 0
+  14 Feb 1917 24
+    place:Fruges (7,28)
+    activity:other (28,29)
+    weather:cold (73,37)
+  15 Feb 1917 40
+    place:Fruges (8,45)
+    activity:other (29,46)
+    weather:cold (75,52)
+  16 Feb 1917 54
+    place:Fruges (7,60)
+    activity:other (28,62)
+    person:Captain Pringle (22,70)
+    person:Captain H Pringle (other) (29,75)
+    weather:cold (73,84)
+Page 217 (type diary) http://wd3.herokuapp.com/pages/AWD0000iok  ----------
+  16 Feb 1917 0
+  17 Feb 1917 24
+    activity:other (30,29)
+    place:Fruges (7,30)
+    weather:fog (55,32)
+  18 Feb 1917 37
+    place:Fruges (7,41)
+    activity:other (25,42)
+    weather:fog (70,45)
+  19 Feb 1917 50
+    place:Fruges (7,53)
+    activity:other (29,54)
+  20 Feb 1917 60
+    weather:other (78,60)
+    place:Fruges (8,64)
+    activity:other (28,64)
+    weather:other (65,73)
+  21 Feb 1917 74
+    place:Fruges (7,80)
+    activity:other (28,81)
+Page 218 (type diary) http://wd3.herokuapp.com/pages/AWD0000ist  ----------
+  21 Feb 1917 0
+  22 Feb 1917 26
+    place:Fruges (8,29)
+    activity:other (27,30)
+    weather:other (56,36)
+  23 Feb 1917 43
+    place:Fruges (8,46)
+    activity:other (27,46)
+    weather:fine (68,52)
+  24 Feb 1917 56
+    activity:other (28,60)
+    place:Fruges (8,61)
+    weather:fine (70,64)
+  25 Feb 1917 69
+    place:Fruges (9,72)
+    activity:other (29,73)
+    weather:fine (73,77)
+Page 219 (type diary) http://wd3.herokuapp.com/pages/AWD0000imv  ----------
+  Hashtags: #Riding 
+  25 Feb 1917 0
+  26 Feb 1917 23
+    place:Fruges (7,29)
+    activity:other (27,29)
+    activity:training (62,29)
+  27 Feb 1917 36
+    weather:fine (78,36)
+    place:Fruges (7,41)
+    domestic:sport (53,41)
+    activity:other (25,41)
+    weather:fine (77,45)
+  28 Feb 1917 48
+    domestic:sport (54,52)
+    place:Fruges (8,53)
+    activity:other (27,53)
+    weather:fine (61,61)
+    person:Captain John Downie (author) (68,72)
+Page 220 (type cover)
+Page 221 (type diary) http://wd3.herokuapp.com/pages/AWD0000in1  ----------
+  28 Feb 1917 0
+  1 Mar 1917 25
+    place:Fruges (6,28)
+    activity:other (29,29)
+    domestic:inspections (60,29)
+    weather:fine (73,44)
+  2 Mar 1917 45
+    place:Fruges (7,48)
+    activity:other (27,49)
+    activity:training (52,50)
+    domestic:inspections (57,54)
+    weather:fine (63,64)
+  3 Mar 1917 68
+    activity:other (31,70)
+    activity:training (62,72)
+    place:Fruges (7,72)
+    unit:8 M G S (71,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (48,77)
+    weather:fine (60,80)
+Page 222 (type diary) http://wd3.herokuapp.com/pages/AWD0000ir1  ----------
+  3 Mar 1917 0
+  4 Mar 1917 25
+    domestic:parades (67,27)
+    domestic:religion (61,28)
+    domestic:inspections (28,29)
+    place:Fruges (7,29)
+    weather:fine (71,34)
+  5 Mar 1917 39
+    place:Fruges (7,42)
+    activity:training (35,42)
+    weather:fine (67,54)
+  6 Mar 1917 57
+    place:Fruges (8,60)
+    activity:training (30,61)
+    person:Captain J Downie (departed_leave) (41,63)
+    person:Captain R Slaney (other) (61,71)
+    weather:fine (72,83)
+Page 223 (type diary) http://wd3.herokuapp.com/pages/AWD0000im8  ----------
+  6 Mar 1917 0
+  7 Mar 1917 27
+    place:Fruges (6,28)
+    weather:rain (81,36)
+  8 Mar 1917 43
+    domestic:inspections (27,44)
+    place:Fruges (6,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (36,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (50,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (72,60)
+    weather:cold (56,64)
+  9 Mar 1917 68
+    place:Fruges (6,71)
+Page 224 (type diary) http://wd3.herokuapp.com/pages/AWD0000ir2  ----------
+  9 Mar 1917 26
+    activity:other (26,28)
+    place:Fruges (6,31)
+    person:Captain R Slaney (other) (58,31)
+    activity:training (27,36)
+    weather:cold (58,45)
+  10 Mar 1917 49
+    place:Fruges (7,53)
+    activity:other (27,53)
+  11 Mar 1917 70
+    place:Fruges (7,71)
+    domestic:inspections (32,71)
+    person:Captain R Slaney (other) (31,79)
+    person:Captain R Slaney (other) (58,79)
+    person:R M Cowie (departed_training) (68,83)
+    weather:fine (72,91)
+Page 225 (type diary) http://wd3.herokuapp.com/pages/AWD0000imz  ----------
+  11 Mar 1917 0
+  12 Mar 1917 26
+    place:Fruges (6,27)
+    activity:training (40,32)
+    weather:fine (49,36)
+  13 Mar 1917 41
+    place:Fruges (7,43)
+    activity:training (26,43)
+    unit:8 Machine Gun Section (43,46)
+    weather:fine (71,56)
+  14 Mar 1917 60
+    place:Fruges (7,62)
+    activity:training (31,65)
+    person:Captain J Lumb (returned_training) (39,66)
+    person:Captain Slaney (departed_training) (26,74)
+    weather:fine (78,82)
+Page 226 (type diary) http://wd3.herokuapp.com/pages/AWD0000irz  ----------
+  14 Mar 1917 0
+  15 Mar 1917 26
+    domestic:medical (23,27)
+    activity:training (71,28)
+    domestic:inspections (32,29)
+    place:Fruges (8,29)
+    person:Captain R Forest (other) (23,32)
+    unit:8 Pioneer Battalion (44,36)
+    weather:fine (62,44)
+  16 Mar 1917 48
+    activity:other (27,52)
+    place:Fruges (7,52)
+    activity:training (46,53)
+    weather:fine (87,59)
+  17 Mar 1917 63
+    activity:other (25,67)
+    domestic:hygiene (53,67)
+    domestic:hygiene (40,67)
+    place:Fruges (7,67)
+    domestic:inspections (49,71)
+    person:Captain R Slaney (returned_training) (68,75)
+    person:Captain R Slaney (62,75)
+    domestic:medical (32,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (84,79)
+    weather:fine (65,87)
+Page 227 (type diary) http://wd3.herokuapp.com/pages/AWD0000ilp  ----------
+  Hashtags: #measles 
+  17 Mar 1917 0
+  18 Mar 1917 25
+    domestic:parades (22,28)
+    domestic:inspections (37,28)
+    place:Fruges (6,29)
+    unit:Essex Yeomanry (80,29)
+    domestic:medical (41,33)
+    place:Fruges (6,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (77,35)
+    weather:fine (57,37)
+  19 Mar 1917 39
+    place:Fruges (7,44)
+    domestic:inspections (44,44)
+    activity:other (26,45)
+    domestic:parades (38,45)
+    domestic:inspections (48,45)
+    domestic:hygiene (78,46)
+    activity:training (44,49)
+    person:Captain J Downie (returned_leave) (36,52)
+    time:1030PM (17,60)
+    weather:fine (62,68)
+Page 228 (type diary) http://wd3.herokuapp.com/pages/AWD0000iso  ----------
+  Hashtags: #dental 
+  19 Mar 1917 0
+  20 Mar 1917 21
+    activity:training (37,28)
+    place:Fruges (7,28)
+    activity:training (34,33)
+    place:Abbeville (62,40)
+    unit:7 Cavalry Field Ambulance (71,48)
+    reference:GRO 18/3/17 (37,52)
+  21 Mar 1917 55
+    weather:rain (69,55)
+    place:Fruges (6,60)
+    domestic:inspections (33,63)
+    weather:rain (62,75)
+    weather:cold (68,75)
+Page 229 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipf  ----------
+  22 Mar 1917 22
+    place:Fruges (6,24)
+    domestic:medical (33,27)
+    domestic:inspections (38,28)
+    place:Fruges (6,29)
+    activity:training (37,34)
+    person:Captain G Redpath (joined) (30,44)
+    weather:rain (58,55)
+    weather:cold (66,55)
+  23 Mar 1917 58
+    place:Fruges (6,64)
+    activity:training (33,64)
+    weather:cold (67,84)
+Page 230 (type diary) http://wd3.herokuapp.com/pages/AWD0000inq  ----------
+  23 Mar 1917 0
+  24 Mar 1917 25
+    place:Fruges (8,30)
+    weather:cold (71,42)
+  25 Mar 1917 47
+    domestic:religion (32,49)
+    domestic:parades (26,49)
+    place:Fruges (9,49)
+    domestic:inspections (60,50)
+    weather:fine (73,59)
+  26 Mar 1917 61
+    place:Fruges (9,66)
+Page 231 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqf  ----------
+  26 Mar 1917 0
+  27 Mar 1917 23
+    place:Fruges (8,28)
+    domestic:hygiene (28,29)
+  28 Mar 1917 51
+    place:Fruges (7,56)
+    activity:training (32,58)
+    weather:fine (75,66)
+  29 Mar 1917 67
+    domestic:medical (32,72)
+    domestic:inspections (40,72)
+    place:Fruges (7,72)
+    weather:fine (62,83)
+Page 232 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqe  ----------
+  29 Mar 1917 0
+  30 Mar 1917 23
+    place:Fruges (6,30)
+    activity:training (33,33)
+    weather:fine (64,41)
+    reference:BM358/1 (35,42)
+    reference:SC25-84/2 (46,42)
+    weather:fine (68,43)
+  31 Mar 1917 44
+    place:Fruges (7,49)
+    activity:training (32,50)
+    reference:BM258 (35,57)
+    reference:Z1644 (44,57)
+    reference:H323 (56,57)
+    person:Captain John Downie (author) (74,71)
+Page 233 (type cover)
+Page 234 (type cover)
+Page 235 (type report) http://wd3.herokuapp.com/pages/AWD0000ilj  ----------
+  Hashtags: #diptheria 
+  31 Mar 1917 0
+    person:Captain J Downie (other) (41,16)
+    place:Fressin (43,25)
+  7 Apr 1917 28
+  8 Apr 1917 31
+    place:Frevent (50,31)
+    activity:movement (42,31)
+    place:Gouy (45,33)
+    activity:movement (38,33)
+  10 Apr 1917 36
+    place:Arras (44,38)
+    activity:movement (39,38)
+    unit:13 Rifle Brigade (65,41)
+    unit:13 Battalion Rifle (61,41)
+  11 Apr 1917 46
+    activity:fire (55,48)
+    unit:10 R Hussars (51,53)
+    unit:Essex Yeo (60,54)
+    activity:movement (35,58)
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,62)
+    activity:movement (38,68)
+    place:Orange Hill (53,69)
+  31 Mar 1917 0
+  12 Apr 1917 70
+    person:Captain Wood (casualty_kia) (47,71)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,71)
+    unit:10 R Hussars (59,71)
+    activity:movement (38,73)
+  17 Apr 1917 75
+    place:Gouy (43,76)
+  19 Apr 1917 78
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 1; wounded: 0 (65,78)
+  31 Mar 1917 0
+  20 Apr 1917 81
+    place:Chateau Romont (50,81)
+  23 Apr 1917 83
+    person:Captain A A Watson (departed_sick) (48,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (39,84)
+    place:Lespinoy (44,86)
+    activity:movement (37,86)
+Page 236 (type report) http://wd3.herokuapp.com/pages/AWD0000il7  ----------
+  Hashtags: #diptheria 
+  23 Apr 1917 0
+    person:Captain J Downie (author) (38,16)
+    person:Captain K Wood (casualty_kia) (39,70)
+    person:Captain Watson (departed_sick) (41,83)
+Page 237 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqk  ----------
+  23 Apr 1917 0
+    place:Fruges (8,28)
+    domestic:inspections (20,28)
+    domestic:inspections (31,28)
+    domestic:parades (23,31)
+    domestic:religion (28,32)
+    reference:SC 2586/7 (64,36)
+    reference:BM 339/2 (79,36)
+    reference:H 314/4 (34,37)
+    reference:H 48/6 (42,37)
+    reference:SC 796/15 (54,37)
+    weather:overcast (68,40)
+    reference:BM 363 (27,40)
+    reference:BM 343/3 (50,40)
+    reference:BM 362 (37,42)
+    place:Fruges (8,46)
+    domestic:other (20,47)
+    activity:training (40,47)
+    reference:GRO 21/3/17 (42,51)
+    reference:Z 1394/A/2 (59,51)
+    reference:BM 364 (68,51)
+    reference:P 291 (78,51)
+    reference:SC 2686/11 (51,54)
+    reference:SC 2544 (66,55)
+    reference:SC 1531/14 (80,56)
+    reference:SC 2755 (34,58)
+    weather:overcast (67,59)
+    reference:SC 2756 (52,59)
+    place:Fruges (7,66)
+    domestic:other (20,66)
+    activity:training (35,67)
+    reference:SC 2757 (35,70)
+    reference:SC 2751/8 (51,70)
+    reference:BM 368 (64,70)
+    reference:H 351 (74,71)
+    weather:cold (61,75)
+    reference:DRO 2/4/17 (34,76)
+Page 238 (type diary) http://wd3.herokuapp.com/pages/AWD0000ip2  ----------
+  23 Apr 1917 0
+    place:Fruges (6,26)
+    place:Fruges (8,31)
+    person:Captain R Slaney (other) (26,33)
+    place:Beaurainville (36,38)
+    reference:DRO 3/4/17 (35,42)
+    reference:BM 364/1 (49,42)
+  5 Apr 1917 44
+    weather:rain (59,44)
+    activity:movement (33,49)
+    place:Fressin (74,50)
+    place:Fruges (8,50)
+    time:100AM (57,50)
+    person:Captain J Lumb (departed_sick) (30,52)
+    reference:SC 1768 (76,56)
+    reference:H 332 (35,57)
+    reference:H 334/2 (42,57)
+    reference:Bde wire 234 (56,57)
+    reference:BM 374 (65,58)
+  6 Apr 1917 59
+    weather:fine (73,60)
+    place:Fressin (8,63)
+    domestic:parades (31,64)
+    reference:SC 2768 (49,68)
+    reference:BM 374 (38,69)
+    reference:CCRO 5/4/17 (62,69)
+Page 239 (type diary) http://wd3.herokuapp.com/pages/AWD0000ion  ----------
+  6 Apr 1917 0
+  7 Apr 1917 22
+    time:0830AM (30,28)
+    place:Fressin (7,28)
+    activity:movement (22,28)
+    activity:movement (33,30)
+    place:Le Parcq (56,33)
+    place:Willeman (68,33)
+    place:Flers (78,34)
+    place:Nuncq (32,37)
+    place:Frevent (46,37)
+    mapRef:Lens (64,37)
+    mapRef:Lens (72,37)
+    reference:1-100000 (78,38)
+    place:Frevent (38,44)
+    time:040PM (52,45)
+    reference:SC 2769 (61,48)
+    reference:SC 2770 (73,48)
+    reference:Z 1394 (36,49)
+    reference:H 330 (44,49)
+    reference:BM 103 (52,49)
+    reference:SC 2751/1 (82,49)
+    reference:DRO 6/4/17 (40,52)
+    weather:fine (63,52)
+  8 Apr 1917 54
+    time:0200PM (40,59)
+    place:Frevent (6,59)
+    activity:movement (24,59)
+    place:Frevent (29,60)
+    place:Rebreuviette (57,60)
+    place:Liencourt (73,60)
+    place:Gouy En Artois (55,63)
+    place:Avesnes (23,64)
+    place:Hauteville (36,64)
+    time:0700PM (75,65)
+    weather:fine (61,68)
+    reference:BM 103/1 (30,71)
+    reference:M 350 (44,72)
+Page 240 (type diary) http://wd3.herokuapp.com/pages/AWD0000iru  ----------
+  9 Apr 1917 24
+    person:Captain Slaney (other) (36,36)
+    domestic:parades (66,40)
+    place:Arras (70,44)
+    time:1230PM (34,49)
+    time:040PM (30,53)
+    gridRef:G_30_D_10_2 (41,55)
+    place:Arras (27,56)
+    mapRef:51 B Section 2 (55,56)
+    reference:G30 d 10.2 (39,57)
+    mapRef:51B (58,58)
+    weather:rain (67,80)
+Page 241 (type diary) http://wd3.herokuapp.com/pages/AWD0000in8  ----------
+  10 Apr 1917 22
+    place:Arras (7,29)
+    time:1130AM (56,37)
+    mapRef:37B Ed 2 (79,41)
+    reference:H26 c (59,42)
+    unit:13 B Rifle Brigade (54,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 12 (23,57)
+    weather:cold (61,69)
+Page 242 (type diary) http://wd3.herokuapp.com/pages/AWD0000isb  ----------
+  11 Apr 1917 23
+    activity:fire (31,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 23 (54,34)
+    mapRef:51B (5,37)
+    unit:Rifle Brigade (36,38)
+    time:1000AM (31,41)
+    unit:10 Royal Hussars (46,41)
+    unit:Essex Yeomanry (66,41)
+    unit:4 Essex Yeomanry (51,41)
+    mapRef:51B (8,42)
+    place:Orange Hill (51,45)
+    place:Monchy (75,45)
+    place:Orange Hill (82,49)
+    person:Brigadier General C R Bulkeley Johnson (casualty_kia) (37,64)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,68)
+    gridRef:H_36_C__ (56,77)
+Page 243 (type diary) http://wd3.herokuapp.com/pages/AWD0000imn  ----------
+  11 Apr 1917 0
+    person:Lieutenant Colonel Lord Tweedmouth (other) (54,28)
+    person:Lieutenant Colonel Lord Tweedmouth (combat) (67,28)
+    place:Orange Hill (83,45)
+    place:Monchy (50,53)
+    unit:Essex Yeomanry (77,55)
+    person:Captain Stork (other) (39,56)
+    person:Captain Wood (casualty_kia) (40,59)
+    person:Captain Wood (casualty_kia) (47,60)
+    unit:10 R Hussars (78,60)
+    person:Major Cowie (other) (69,68)
+    unit:R H Guards (37,72)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,77)
+Page 244 (type diary) http://wd3.herokuapp.com/pages/AWD0000isz  ----------
+  11 Apr 1917 0
+    person:Captain G Redpath (departed_sick) (23,35)
+    person:Captain G Redpath (departed_sick) (35,35)
+    unit:No 19 ccs (60,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (83,44)
+    weather:cold (56,55)
+Page 245 (type diary) http://wd3.herokuapp.com/pages/AWD0000imp  ----------
+  12 Apr 1917 26
+    activity:movement (30,32)
+    place:Orange Hill (7,33)
+    place:Arras (73,35)
+    place:Champ de Courses (48,36)
+    time:0200PM (28,40)
+    place:Gouy En Artois (74,40)
+    activity:movement (46,41)
+  13 Apr 1917 49
+    place:Gouy En Artois (7,56)
+    activity:other (30,57)
+    reference:SC 2773 (64,62)
+    reference:SC 2772 (54,63)
+    reference:SC 2774 (79,63)
+    place:Gouy En Artois (6,63)
+    mapRef:SC2773 (67,63)
+    mapRef:SC2774 (79,63)
+    reference:GRO 7/4/17 (38,64)
+    mapRef:SC2772 (54,65)
+    reference:T 9 (28,67)
+    weather:other (59,68)
+Page 246 (type diary) http://wd3.herokuapp.com/pages/AWD0000iop  ----------
+  14 Apr 1917 27
+    place:Gouy (6,29)
+    place:Gouy En Artois (6,33)
+    activity:other (39,33)
+    unit:Essex Yeomanry (54,39)
+    reference:T 12 (36,47)
+    reference:GRO 11/4/17 (46,47)
+    reference:CCRO 11/4/17 (62,47)
+  15 Apr 1917 51
+    weather:rain (67,51)
+    place:Gouy (6,55)
+    reference:SC /R22 (51,65)
+    reference:SC 27/78 (40,66)
+    reference:XN 182 (64,66)
+    reference:XN 183 (72,67)
+    reference:BM 116 (79,67)
+  16 Apr 1917 70
+    weather:rain (63,70)
+    reference:Z 1866/3 (30,70)
+    reference:DRO 14/4/17 (47,70)
+    place:Gouy (7,74)
+    domestic:accomodation (71,76)
+    activity:movement (44,76)
+    domestic:inspections (39,77)
+    unit:No 47 ccs (72,81)
+    reference:T 16 (42,85)
+    reference:SC 2784 (64,85)
+    reference:BM 117/1 (32,86)
+    reference:BM 117/2 (53,86)
+    weather:fine (67,90)
+Page 247 (type diary) http://wd3.herokuapp.com/pages/AWD0000ir3  ----------
+  17 Apr 1917 24
+    activity:movement (26,30)
+    place:Gouy En Artois (8,32)
+    place:Barly (26,36)
+    reference:BM 127/4 (62,42)
+    reference:H 346 (36,43)
+    reference:H 347 (43,43)
+    reference:SC 2784/2 (77,43)
+    reference:H 345 (52,44)
+    weather:cold (59,46)
+  18 Apr 1917 47
+    reference:ADMS 1340 (37,47)
+    weather:cold (50,47)
+    person:Captain A A Watson (joined) (29,54)
+    place:Barly (6,54)
+    activity:other (42,58)
+    reference:SC 796 (37,61)
+    reference:SC 2786 (47,62)
+    reference:SC 2590/1 (59,62)
+    reference:SC 2773/1 (72,62)
+    reference:A F 1 (34,66)
+    reference:ADMS 410/7 (49,67)
+    reference:Z 1690/11 (63,67)
+    weather:rain (69,70)
+Page 248 (type diary) http://wd3.herokuapp.com/pages/AWD0000imr  ----------
+  Hashtags: #diptheria 
+  19 Apr 1917 27
+    time:0730AM (30,31)
+    place:Barly (7,31)
+    activity:movement (32,31)
+    place:Maintenay (39,35)
+    place:Chateau Romont (59,36)
+    reference:ADMS 1350 (48,44)
+    reference:ADMS 1352 (61,44)
+    reference:ADMS 1353 (67,44)
+    reference:ADMS 1354 (75,44)
+    reference:ADMS 1351 (53,45)
+    reference:ADMS 1347 (37,46)
+    weather:fine (58,47)
+  20 Apr 1917 50
+    place:Etaples (74,54)
+    person:Captain A A Watson (departed_sick) (29,55)
+    place:Chateaux Romont (7,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (84,60)
+    domestic:medical (28,67)
+    domestic:inspections (40,67)
+    reference:P 253 (34,70)
+    reference:X wire 786/1 (49,70)
+    reference:SC 2544 (67,71)
+    reference:FM 26 (77,71)
+    weather:fine (65,75)
+Page 249 (type diary) http://wd3.herokuapp.com/pages/AWD0000imd  ----------
+  21 Apr 1917 24
+    person:Captain G Redpath (other) (31,27)
+    place:Ch Romont (7,30)
+    reference:SC 2796/1 (51,33)
+    reference:BM 8 (62,33)
+    reference:SC 2797 (75,33)
+    reference:SC 2716/1 (38,34)
+    reference:Z 1690/7 (53,37)
+    reference:H 306/2 (42,38)
+    reference:H 353 (30,39)
+    weather:fine (59,41)
+  22 Apr 1917 43
+    activity:other (34,49)
+    place:Ch Romont (6,49)
+    reference:SC 2804 (58,51)
+    reference:SC 2802 (74,52)
+    reference:SC 796/21 (45,53)
+    reference:SC 2399/1 (34,58)
+    reference:SC 2544 (50,58)
+    reference:H 21 (59,58)
+    reference:H 360 (68,58)
+    reference:BM 10 (77,58)
+  23 Apr 1917 63
+    weather:other (54,63)
+    activity:movement (27,70)
+    place:Lespinoy (53,70)
+    time:010PM (34,70)
+    time:0230PM (79,70)
+    place:Ch Romont (7,71)
+    reference:SC 796/22 (47,73)
+    reference:Z 1540/8 (61,74)
+    reference:Z 4135 (75,74)
+    reference:gro 20/4/17 (37,79)
+Page 250 (type diary) http://wd3.herokuapp.com/pages/AWD0000ilr  ----------
+  Hashtags: #hospital 
+  24 Apr 1917 22
+    place:Lespinoy (7,29)
+    reference:SC 2812 (83,33)
+    reference:SC 2811 (74,34)
+    reference:H 1380 (45,35)
+    reference:SC 2810 (68,35)
+    reference:H 1379 (34,36)
+    reference:SC 2809 (58,36)
+    reference:SC 2817 (43,40)
+    reference:SC 2773/2 (54,40)
+    reference:SC 796/14/2 (80,40)
+  25 Apr 1917 43
+    weather:fine (64,43)
+    place:Lespinoy (7,48)
+    activity:other (28,50)
+    reference:DRO  25/5/17 (68,51)
+    reference:BI 8 (39,52)
+    reference:BRO  25/5/17 (56,52)
+  26 Apr 1917 56
+    weather:fine (67,56)
+    domestic:inspections (60,61)
+    place:Lespinoy (7,63)
+    activity:training (41,65)
+    reference:SC 797/22 (60,69)
+    reference:SC 2821 (79,69)
+    reference:SC 2822 (44,70)
+    reference:H 352/1 (36,74)
+    reference:Z 1540/9 (47,74)
+    reference:BM 12/1 (80,74)
+    reference:B 9.7 (61,75)
+    reference:H 364 (72,75)
+    reference:H 359 (39,80)
+    weather:fine (50,81)
+Page 251 (type diary) http://wd3.herokuapp.com/pages/AWD0000is9  ----------
+  27 Apr 1917 22
+    activity:training (37,28)
+    place:Lespinoy (7,28)
+    reference:H 1401 (56,36)
+    reference:M 10 (62,36)
+    reference:H 1400 (48,37)
+    reference:SC 2828 (72,37)
+    reference:H 1399 (39,38)
+    reference:DRO 26/4 /17 (61,40)
+    reference:BRO 27/4 17 (43,41)
+  28 Apr 1917 43
+    weather:fine (67,44)
+    domestic:hygiene (29,49)
+    place:Lespinoy (7,50)
+    reference:DRO 26/4 17 (27,52)
+    reference:M 388 (43,55)
+    reference:GRO 26/4/ 17 (55,55)
+    weather:fine (63,58)
+  29 Apr 1917 60
+    weather:fine (59,60)
+    place:Lespinoy (7,65)
+    domestic:parades (38,65)
+    reference:SC 2838 (50,69)
+    domestic:religion (33,69)
+    person:Private D Dooley (casualty_kia) (58,73)
+    person:Private D Dooley (casualty_kia) (62,75)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (85,83)
+    reference:H 147/3 (39,84)
+    reference:SC 2835 (62,84)
+    reference:SC 2834 (51,85)
+    reference:SC 2838 (71,85)
+    reference:SC 2837 (79,85)
+    reference:CRO  28/4/17 (42,88)
+    reference:DRO 28/4/17 (59,88)
+    weather:fine (70,91)
+Page 252 (type diary) http://wd3.herokuapp.com/pages/AWD0000ing  ----------
+  Hashtags: #funeral 
+  30 Apr 1917 22
+    place:Lespinoy (6,27)
+    person:Private D Dooley (other) (48,28)
+    activity:movement (27,36)
+    place:Abbeville (78,39)
+    reference:SC 2509/1 (57,48)
+    reference:SC 2843 (68,48)
+    reference:DRO  29/4/17 (38,49)
+    weather:fine (65,54)
+    person:Captain John Downie (author) (56,59)
+Page 253 (type cover)
+Page 254 (type cover)
+Page 255 (type report) http://wd3.herokuapp.com/pages/AWD0000ins  ----------
+  30 Apr 1917 0
+    person:Captain J Downie (author) (42,16)
+Page 256 (type report) http://wd3.herokuapp.com/pages/AWD0000iqx  ----------
+  30 Apr 1917 0
+    person:Captain J Downie (author) (47,16)
+Page 257 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqt  ----------
+  1 May 1917 24
+    place:Romont (7,29)
+    place:Romont Ch (8,29)
+    activity:training (28,31)
+    activity:training (31,32)
+    time:0200PM (17,32)
+    weather:fine (51,33)
+  2 May 1917 35
+    person:Captain G F Nelson (departed_posted) (35,40)
+    place:Romont (6,42)
+    place:Romont Ch (6,42)
+    activity:training (39,45)
+    time:1000AM (17,45)
+    activity:training (33,49)
+  3 May 1917 50
+    time:0200PM (18,50)
+    domestic:medical (32,55)
+    place:Romont (7,55)
+    domestic:inspections (39,56)
+    place:Romont Ch (7,56)
+    time:0930AM (18,56)
+    activity:training (46,60)
+    weather:fine (64,62)
+    time:0200PM (17,62)
+  4 May 1917 63
+    place:Romont (7,67)
+    place:Romont Ch (7,69)
+    time:0930AM (18,74)
+    activity:training (35,75)
+    time:0200PM (17,80)
+    weather:fine (48,83)
+Page 258 (type diary) http://wd3.herokuapp.com/pages/AWD0000it9  ----------
+  5 May 1917 25
+    domestic:hygiene (41,28)
+    place:Romont (6,29)
+    place:Romont Ch (7,30)
+    activity:training (32,35)
+    weather:fine (46,38)
+  6 May 1917 39
+    domestic:parades (29,44)
+    domestic:parades (34,44)
+    place:Romont (7,44)
+    place:Romont Ch (6,45)
+    time:100AM (17,45)
+    domestic:religion (36,48)
+    weather:fine (51,50)
+  7 May 1917 55
+    activity:training (34,55)
+    time:0930AM (17,56)
+    place:Romont (7,57)
+    place:Romont Ch (7,57)
+    activity:training (30,59)
+    domestic:inspections (38,62)
+    time:020PM (17,62)
+    weather:fine (71,65)
+  8 May 1917 68
+    activity:training (34,68)
+    place:Romont (7,69)
+    time:0930AM (17,69)
+    place:Romont Ch (7,70)
+Page 259 (type diary) http://wd3.herokuapp.com/pages/AWD0000ip7  ----------
+  9 May 1917 23
+    domestic:hygiene (31,27)
+    place:Romont (8,28)
+    activity:training (34,32)
+    time:0230PM (17,33)
+    weather:fine (51,34)
+  10 May 1917 36
+    place:Romont (8,40)
+    weather:fine (69,42)
+  11 May 1917 43
+    person:Captain Downie (other) (68,48)
+    place:Romont (7,49)
+    person:Captain Slaney (departed_leave) (44,51)
+  12 May 1917 54
+    mapRef:Lens (81,57)
+    place:Romont (9,57)
+    activity:movement (26,58)
+    place:Guigny (35,58)
+    mapRef:Abbeville-Lens (83,59)
+    place:Beaurainville (63,59)
+    place:Romont Ch (9,59)
+    activity:movement (38,61)
+  13 May 1917 63
+    person:Captain Forrest (other) (70,63)
+    activity:movement (24,67)
+    place:Vaulx (30,67)
+    place:Cherienne (68,67)
+    activity:movement (45,68)
+    place:Guigny (7,68)
+    time:1130AM (35,69)
+    time:0330PM (51,71)
+  14 May 1917 72
+    place:Genne Ivergny (27,72)
+    place:Vaulx (46,72)
+    time:1135AM (75,72)
+    place:Frohen-le-Grand (34,75)
+    time:020PM (80,75)
+    activity:movement (23,76)
+    place:Auxi-le-Chateau (44,76)
+    place:Vaulx (6,76)
+    person:Brigadier General Seymour (other) (32,80)
+    weather:rain (48,83)
+  15 May 1917 84
+    place:Hem (62,85)
+    activity:movement (70,86)
+    place:Talmas (29,87)
+    place:Talmas (58,87)
+    time:1245PM (63,87)
+    activity:movement (25,88)
+    mapRef:Lens (43,89)
+    person:Private C T Pope (departed_leave) (25,92)
+Page 260 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqo  ----------
+  16 May 1917 22
+    place:Pont Noyelles (34,25)
+    activity:movement (24,26)
+    place:Talmas (6,27)
+    place:Saint Gratien (68,28)
+    place:Querrieu (78,28)
+    time:0940AM (32,29)
+    activity:movement (41,29)
+    weather:rain (82,31)
+    place:Pont Noyelles (29,31)
+    mapRef:1/100000 Lens  1/100000 Amiens (57,31)
+    time:0130PM (39,32)
+  17 May 1917 33
+    domestic:accomodation (34,33)
+    place:Hamel (30,37)
+    time:0130PM (77,38)
+    place:Daours (41,38)
+    place:Hamelet (57,38)
+    place:Hamel (71,38)
+    place:Pont Noyelles (6,38)
+    activity:movement (23,38)
+    activity:movement (32,38)
+    place:Fouilloy (47,39)
+    time:0945AM (22,40)
+    mapRef: 1/100000 Amiens (27,42)
+    person:Captain G H Davies (joined) (34,43)
+  18 May 1917 44
+    place:Hamel (7,48)
+    unit:10 Hussars (70,49)
+    reference:Cav Div 9.186 (91,49)
+    person:Captain Forest (departed_posted) (51,50)
+    time:0200PM (40,51)
+    activity:training (31,51)
+    person:Captain Wood (departed_leave) (52,53)
+  19 May 1917 54
+    time:0925AM (65,57)
+    place:Buire (42,58)
+    place:Groigness (72,58)
+    place:Dompierre (82,58)
+    domestic:accomodation (34,58)
+    activity:movement (25,58)
+    place:Hamel (7,59)
+    place:Mericourt (49,60)
+    place:Cerisy Gailly (25,61)
+    mapRef: 1/100000 Amiens (64,61)
+    time:0600PM (77,63)
+    place:Doingt (33,63)
+    place:Courcelles (42,63)
+    place:Buire (72,63)
+    time:060PM (78,64)
+    place:Peronne (49,64)
+    place:Doingt (57,64)
+    place:Peronne (32,66)
+    domestic:accomodation (31,69)
+    person:Captain Nelson (joined) (26,74)
+  20 May 1917 77
+    place:Buire (7,81)
+    domestic:medical (43,81)
+    activity:other (28,81)
+    unit:6 Brigade (25,89)
+    domestic:parades (26,92)
+Page 261 (type diary) http://wd3.herokuapp.com/pages/AWD0000imh  ----------
+  20 May 1917 0
+  21 May 1917 23
+    place:Doingt (42,26)
+    person:Captain Davies (other) (54,27)
+    place:Buire (7,28)
+    person:Private Levy (joined) (68,30)
+  22 May 1917 36
+    place:Buire (8,39)
+    weather:rain (23,40)
+    person:Private Paskett (departed_leave) (50,41)
+    domestic:parades (31,42)
+  23 May 1917 47
+    person:Captain Redpath (other) (26,47)
+    place:Buire (7,51)
+    domestic:medical (31,51)
+  24 May 1917 55
+    place:Buire (7,58)
+    domestic:inspections (24,60)
+    person:Captain Redpath (other) (27,63)
+  25 May 1917 64
+    place:Buire (7,67)
+    domestic:medical (22,67)
+    domestic:inspections (26,67)
+    domestic:inspections (46,67)
+    time:0930AM (39,67)
+  26 May 1917 68
+    place:Buire (7,71)
+    person:Private Shaw (departed_leave) (22,71)
+  27 May 1917 72
+    domestic:inspections (53,72)
+    activity:repair (64,75)
+    place:Buire (10,76)
+    place:Buire (5,76)
+    domestic:inspections (23,77)
+  28 May 1917 78
+    place:Buire (8,81)
+    domestic:inspections (26,81)
+    unit:10 R Hussars (39,81)
+    domestic:inspections (32,83)
+  29 May 1917 84
+    person:Captain Redpath (departed_posted) (76,86)
+    place:Buire (8,87)
+    person:Captain Stork (departed_sick) (23,87)
+    person:Captain Redpath (departed_posted) (20,89)
+    unit:Essex Yeomanry (40,89)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (53,92)
+Page 262 (type diary) http://wd3.herokuapp.com/pages/AWD0000iq9  ----------
+  30 May 1917 22
+    place:Epehy (46,26)
+    place:Buire (6,26)
+  31 May 1917 28
+    person:Captain Slaney (returned_leave) (22,28)
+    place:Buire (6,32)
+    domestic:rations (26,33)
+    person:Captain G G Collet (author) (69,60)
+Page 263 (type cover)
+Page 264 (type cover)
+Page 265 (type diary) http://wd3.herokuapp.com/pages/AWD0000ilf  ----------
+  31 May 1917 0
+  1 Jun 1917 23
+    person:Major Cowie (returned_leave) (63,25)
+    activity:other (29,26)
+    place:Buire (8,27)
+  2 Jun 1917 28
+    person:Captain Wood (returned_leave) (22,28)
+    place:Buire (8,30)
+  3 Jun 1917 31
+    person:Captain Davies (other) (31,32)
+    place:Buire (10,34)
+    person:Captain Slaney (departed_posted) (23,34)
+  4 Jun 1917 35
+  5 Jun 1917 38
+    place:Buire (8,38)
+    domestic:inspections (25,39)
+  6 Jun 1917 40
+    domestic:inspections (22,41)
+    place:Buire (10,42)
+    unit:Essex Yeomanry (37,42)
+  7 Jun 1917 43
+    unit:Essex Yeomanry (23,43)
+  8 Jun 1917 46
+    person:Captain Forest (departed_leave) (21,46)
+    place:Buire (8,47)
+    person:Captain Lumb (joined) (23,48)
+  9 Jun 1917 49
+    place:Buire (9,50)
+  10 Jun 1917 52
+    person:Captain Nelson (other) (55,52)
+    activity:movement (21,53)
+    place:Epehy (29,54)
+    place:Buire (7,55)
+  11 Jun 1917 56
+    place:Epehy (57,56)
+    person:Corporal Just (other) (32,58)
+    person:Private Jones (other) (41,58)
+    place:Buire (8,59)
+    person:Captain Nelson (other) (23,59)
+  12 Jun 1917 60
+    place:Buire (30,61)
+    place:Epehy (37,61)
+    place:Epehy (7,62)
+    activity:movement (23,62)
+    place:Epehy (83,63)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (73,63)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 2 (85,64)
+    place:Epehy (43,65)
+    place:Epehy (7,66)
+  13 Jun 1917 67
+    person:Private Abbey (discipline) (56,69)
+    domestic:hygiene (26,71)
+    place:Epehy (32,71)
+    person:Captain Grant (other) (51,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (76,78)
+    place:Epehy (45,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (28,84)
+    time:1100PM (17,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (26,88)
+Page 266 (type diary) http://wd3.herokuapp.com/pages/AWD0000il1  ----------
+  14 Jun 1917 23
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (18,24)
+    unit:1 Royal Drgns (73,26)
+    unit:Royal Horse Artillery (49,26)
+    place:Epehy (6,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (31,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (56,27)
+    person:Captain Wood (other) (52,28)
+  15 Jun 1917 30
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (21,31)
+    unit:1 Royal Drgns (36,31)
+    domestic:hygiene (43,34)
+    activity:quiet (26,35)
+  16 Jun 1917 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (21,36)
+    time:0600AM (17,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,38)
+  17 Jun 1917 39
+    activity:quiet (25,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (76,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (66,40)
+  18 Jun 1917 44
+    person:Second Lieutenant Lowther (casualty_wounded) (25,47)
+    unit:10 Royal Hussars (36,47)
+  19 Jun 1917 50
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (78,51)
+    activity:quiet (25,52)
+  20 Jun 1917 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (43,55)
+  22 Jun 1917 56
+    activity:quiet (22,56)
+    activity:enemy_activity (46,59)
+    time:0900AM (71,59)
+    activity:quiet (26,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 15 (63,60)
+    time:0400AM (43,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (58,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 28 (83,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 15 (18,65)
+    place:Buire (76,68)
+    activity:movement (65,69)
+    unit:6 Cavalry Field Ambulance (44,69)
+  23 Jun 1917 72
+    activity:movement (22,74)
+  24 Jun 1917 75
+    place:Buire (8,75)
+    person:Captain Nelson (other) (21,78)
+  25 Jun 1917 79
+    person:Captain Nolorn Forrest (returned_leave) (26,79)
+  26 Jun 1917 82
+    domestic:inspections (27,85)
+Page 267 (type diary) http://wd3.herokuapp.com/pages/AWD0000iot  ----------
+  27 Jun 1917 24
+    person:Captain Stark (departed_leave) (24,26)
+    person:Captain Forrest (other) (63,26)
+  28 Jun 1917 27
+    place:Buire (7,27)
+    place:Buire (9,30)
+    activity:movement (36,30)
+  29 Jun 1917 31
+    domestic:medical (24,34)
+    place:Buire (8,34)
+    person:Captain Slaney (joined) (73,35)
+    person:Captain Davies (other) (63,36)
+  30 Jun 1917 37
+    place:Buire (9,39)
+    domestic:inspections (31,40)
+    domestic:inspections (58,40)
+    person:Captain G G Collet (author) (73,44)
+Page 268 (type cover)
+Page 269 (type diary) http://wd3.herokuapp.com/pages/AWD0000irb  ----------
+  2 Jul 1917 26
+    place:Buire (7,26)
+    activity:quiet (26,26)
+  3 Jul 1917 30
+    domestic:accomodation (73,30)
+    place:Suzanne (8,30)
+    weather:hot (57,30)
+    activity:movement (24,30)
+    place:Treux (39,31)
+    activity:movement (22,31)
+  4 Jul 1917 34
+    domestic:accomodation (67,34)
+    place:Treux (8,34)
+    activity:movement (34,34)
+    place:Freschevillers (39,37)
+    place:Freschevillers (9,37)
+  5 Jul 1917 38
+    domestic:accomodation (65,38)
+    activity:movement (23,38)
+    place:Rebreuviette (39,40)
+    activity:movement (24,40)
+    activity:movement (21,40)
+    domestic:accomodation (75,41)
+    place:Rebreuviette (8,41)
+  6 Jul 1917 42
+    place:Antigneul Chateau (8,45)
+    activity:movement (22,45)
+  7 Jul 1917 47
+    unit:Royal Horse Guards (19,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (25,49)
+    unit:Royal Horse Guard (30,49)
+    unit:R H Guards (31,49)
+  8 Jul 1917 50
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (57,50)
+    place:Antigneul Chateau (6,50)
+    person:Staff Sergeant Drummond (departed_leave) (25,51)
+  9 Jul 1917 55
+    place:Antigneul Chateau (8,55)
+    person:Captain Forrest Forest (other) (23,58)
+  10 Jul 1917 59
+    place:Antigneul Chateau (6,59)
+  11 Jul 1917 62
+    activity:quiet (24,64)
+  12 Jul 1917 65
+    domestic:sport (50,65)
+    place:Antigneul Chateau (7,66)
+    domestic:sport (25,67)
+  13 Jul 1917 68
+    domestic:parades (21,70)
+  14 Jul 1917 74
+    activity:other (29,74)
+  15 Jul 1917 77
+    person:Captain Redpath (other) (22,79)
+  16 Jul 1917 80
+    time:0330AM (81,81)
+    place:Thiennes (58,81)
+  17 Jul 1917 82
+    domestic:accomodation (42,83)
+    activity:movement (22,84)
+    domestic:accomodation (72,85)
+    place:Saint Hilaire (56,85)
+    place:Thiennes (7,85)
+    time:0530PM (42,86)
+    place:Ferfay (30,86)
+Page 270 (type diary) http://wd3.herokuapp.com/pages/AWD0000ilg  ----------
+  18 Jul 1917 23
+    place:Thiennes (7,27)
+    domestic:medical (54,28)
+    domestic:medical (68,30)
+  19 Jul 1917 31
+    unit:Essex Yeomanry (42,34)
+    unit:Essex Yeomanry (19,34)
+  20 Jul 1917 47
+    person:Captain Davies (other) (37,47)
+  21 Jul 1917 52
+    place:Thiennes (9,52)
+  22 Jul 1917 55
+    person:Captain Davies (departed_posted) (75,55)
+    activity:quiet (23,55)
+    person:Captain Marshall (joined) (24,59)
+    place:Thiennes (9,59)
+  24 Jul 1917 64
+    place:Thiennes (8,64)
+  25 Jul 1917 67
+    activity:other (24,67)
+  26 Jul 1917 70
+    place:Thiennes (8,71)
+  27 Jul 1917 72
+    domestic:medical (33,72)
+    domestic:medical (30,75)
+    place:Thiennes (8,76)
+    domestic:parades (54,77)
+  28 Jul 1917 78
+    activity:other (27,78)
+  29 Jul 1917 81
+    place:Thiennes (9,81)
+    activity:quiet (25,83)
+    place:Thiennes (9,84)
+  30 Jul 1917 85
+    domestic:inspections (38,85)
+  31 Jul 1917 89
+    activity:enemy_activity (37,89)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 11 (49,90)
+    place:Thiennes (8,90)
+    person:Captain G G Collet (author) (70,93)
+    weather:rain (35,94)
+Page 271 (type cover)
+Page 272 (type diary) http://wd3.herokuapp.com/pages/AWD0000imu  ----------
+  1 Sep 1917 24
+    domestic:sport (26,26)
+  2 Sep 1917 27
+    place:Ham-En-Artois (7,27)
+  3 Sep 1917 30
+    activity:enemy_activity (22,30)
+  4 Sep 1917 33
+    activity:enemy_activity (25,33)
+    person:Private Greenwood (other) (24,36)
+  5 Sep 1917 37
+  7 Sep 1917 42
+    domestic:inspections (46,44)
+    domestic:inspections (21,44)
+  8 Sep 1917 54
+    domestic:inspections (27,57)
+    domestic:inspections (22,57)
+    domestic:parades (53,58)
+    domestic:accomodation (36,62)
+  9 Sep 1917 66
+    activity:other (32,73)
+  10 Sep 1917 76
+    domestic:inspections (25,81)
+  11 Sep 1917 83
+    activity:training (27,86)
+    person:Private Turner (joined) (39,91)
+    person:Lance Corporal Broadhead (other) (26,91)
+Page 273 (type diary) http://wd3.herokuapp.com/pages/AWD0000iqu  ----------
+  11 Sep 1917 0
+  12 Sep 1917 25
+    activity:training (25,28)
+    place:Ham En Artois (6,29)
+  13 Sep 1917 30
+  14 Sep 1917 34
+    domestic:inspections (24,36)
+  15 Sep 1917 39
+  17 Sep 1917 45
+    activity:training (64,45)
+    place:Herville (34,46)
+    activity:other (30,47)
+  18 Sep 1917 48
+    activity:other (22,48)
+    activity:training (67,48)
+    place:Saint Venant (36,50)
+    person:Private Greenwood (other) (49,51)
+    person:Private Scholey (departed_posted) (26,52)
+  19 Sep 1917 53
+    place:Saint Venant (36,55)
+    domestic:accomodation (60,55)
+    activity:other (24,56)
+    person:Private Pearce (departed_posted) (45,57)
+    person:Private Reed (departed_posted) (30,58)
+    person:Private Burkenshaw (departed_posted) (37,58)
+    person:Private Turner (departed_posted) (22,59)
+    person:Colonel Cossins (other) (30,64)
+  20 Sep 1917 68
+    activity:training (75,69)
+  21 Sep 1917 72
+    person:Captain Marshall (27,73)
+  22 Sep 1917 76
+    person:Sergeant Crowther (other) (79,76)
+  23 Sep 1917 81
+    person:Colonel Wilmot Herringham (other) (74,82)
+    person:Major Palmer (other) (38,84)
+    place:Mangueville (42,87)
+  24 Sep 1917 88
+    activity:movement (29,88)
+  25 Sep 1917 92
+    person:Captain Slaney (departed_leave) (24,95)
+Page 274 (type diary) http://wd3.herokuapp.com/pages/AWD0000inb  ----------
+  26 Sep 1917 24
+    place:Ham En Artois (7,27)
+  28 Sep 1917 31
+    activity:training (28,34)
+  29 Sep 1917 48
+    activity:training (29,51)
+  30 Sep 1917 59
+    person:Captain G G Collet (author) (73,72)
+Page 275 (type cover)
+Page 276 (type diary) http://wd3.herokuapp.com/pages/AWD0000iug  ----------
+  Hashtags: #Diptheria 
+  30 Sep 1917 0
+    weather:rain (24,26)
+    place:Thiennes (8,27)
+    weather:rain (31,27)
+    place:Thiennes (6,30)
+    weather:rain (25,30)
+    domestic:medical (31,32)
+    place:Thiennes (49,34)
+    place:Thiennes (7,35)
+    domestic:medical (70,35)
+    weather:rain (24,37)
+    place:Thiennes (7,41)
+    domestic:rations (25,47)
+    activity:other (35,56)
+    person:Sergeant Holbrook (other) (45,60)
+    person:Captain Marshall (other) (29,62)
+    place:Thiennes (8,62)
+    person:Captain Lumb (author) (76,64)
+    place:Ouderon (24,64)
+    person:Captain G G Collett (departed_leave) (25,66)
+    person:Captain G G Collet (departed_leave) (44,68)
+    place:Thiennes (8,68)
+    domestic:medical (50,71)
+    domestic:hygiene (60,73)
+    place:Thiennes (8,75)
+    weather:rain (48,76)
+    domestic:accomodation (64,79)
+    activity:other (35,79)
+    place:Thiennes (8,80)
+    domestic:medical (50,81)
+    domestic:inspections (55,81)
+    time:1100AM (48,85)
+    place:Ham-En-Artois (36,85)
+    domestic:accomodation (30,86)
+    place:Ham En Artois (10,87)
+    activity:movement (24,87)
+    person:Captain Nelson (departed_leave) (41,88)
+    person:Captain Slaney (other) (49,90)
+Page 277 (type diary) http://wd3.herokuapp.com/pages/AWD0000iq0  ----------
+  30 Sep 1917 0
+    activity:other (39,26)
+    place:Ham En Artois (7,28)
+    activity:other (26,32)
+    domestic:accomodation (38,32)
+    activity:other (24,36)
+    domestic:medical (46,38)
+    weather:rain (41,43)
+    activity:other (25,44)
+    domestic:inspections (25,49)
+    person:Captain Marshall (other) (48,54)
+    activity:other (34,59)
+    person:Captain G G Collet (returned_leave) (46,60)
+    domestic:inspections (29,66)
+    activity:enemy_activity (42,68)
+    unit:R H Guards (68,75)
+    person:Captain Lumb (departed_posted) (24,78)
+    person:Major Corrie (departed_leave) (24,81)
+    domestic:sport (37,84)
+    domestic:inspections (45,85)
+    domestic:sport (26,87)
+    person:Captain Marshall (joined) (56,88)
+    person:Captain Nelson (returned_leave) (24,89)
+    person:Captain Slaney (other) (80,90)
+    person:Captain Nelson (other) (24,92)
+Page 278 (type diary) http://wd3.herokuapp.com/pages/AWD0000ita  ----------
+  30 Sep 1917 0
+    person:Captain Marshall (departed_leave) (26,26)
+    person:Captain Nelson (departed_sick) (59,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (91,28)
+    weather:rain (38,30)
+    weather:rain (37,33)
+    weather:rain (37,36)
+    person:Captain G G Collet (author) (71,47)
+Page 279 (type cover)
+Page 280 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipv  ----------
+  30 Sep 1917 0
+  1 Oct 1917 23
+    person:Captain Lumb (departed_posted) (23,26)
+    place:Ham En Artois (7,27)
+    person:Captain Marshall (other) (24,30)
+  2 Oct 1917 36
+    activity:other (35,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (89,38)
+  3 Oct 1917 39
+    person:Captain Forest (departed_training) (25,41)
+    person:Captain Marshall (departed_training) (34,41)
+  4 Oct 1917 42
+    domestic:inspections (38,44)
+    domestic:inspections (31,45)
+  5 Oct 1917 62
+    activity:training (39,65)
+  6 Oct 1917 76
+    person:Captain Forrest (returned_training) (46,77)
+    weather:rain (23,78)
+    person:Captain Marshall (returned_training) (30,78)
+  7 Oct 1917 79
+    weather:rain (22,82)
+    activity:other (44,85)
+    time:0730PM (45,92)
+Page 281 (type diary) http://wd3.herokuapp.com/pages/AWD0000in7  ----------
+  7 Oct 1917 0
+  8 Oct 1917 23
+    weather:other (25,26)
+    place:Ham En Artois (6,26)
+  9 Oct 1917 29
+    activity:other (39,30)
+    domestic:parades (23,31)
+    domestic:parades (29,32)
+  10 Oct 1917 33
+    domestic:accomodation (42,34)
+  11 Oct 1917 38
+    person:Captain Slaney (other) (24,39)
+    domestic:accomodation (80,40)
+    activity:movement (22,42)
+    activity:other (60,42)
+    domestic:medical (60,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (85,44)
+    person:Captain Slaney (departed_sick) (24,47)
+  12 Oct 1917 48
+    domestic:accomodation (19,50)
+    domestic:accomodation (32,51)
+  13 Oct 1917 53
+    activity:other (52,57)
+  14 Oct 1917 59
+  15 Oct 1917 63
+  16 Oct 1917 66
+  17 Oct 1917 70
+    domestic:accomodation (57,70)
+    place:Bours (66,70)
+    activity:movement (23,72)
+    place:Bours (6,73)
+    domestic:accomodation (38,74)
+    time:0600AM (30,74)
+    domestic:accomodation (43,75)
+  18 Oct 1917 77
+    place:Bours (6,80)
+  19 Oct 1917 81
+    domestic:parades (63,82)
+    domestic:uniform (45,84)
+  20 Oct 1917 85
+    place:Bours (8,87)
+Page 282 (type diary) http://wd3.herokuapp.com/pages/AWD0000isf  ----------
+  20 Oct 1917 0
+  21 Oct 1917 22
+    domestic:accomodation (63,26)
+    weather:fine (72,26)
+    activity:movement (23,27)
+    place:Houvin (31,27)
+    place:Houvin (7,27)
+    unit:10 Royal Hussars (58,29)
+    person:Captain Slaney (departed_posted) (24,30)
+  22 Oct 1917 32
+    person:Captain Mitchell (departed_leave) (22,32)
+    place:Vignacourt (7,33)
+    activity:movement (22,36)
+    place:Vignacourt (31,36)
+    place:Vignacourt (5,36)
+    domestic:medical (61,40)
+    place:Vignacourt (26,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (85,43)
+    person:Captain Lumb (other) (46,46)
+  23 Oct 1917 47
+    person:Major Cowie (departed_sick) (24,47)
+    place:Vignacourt (7,49)
+    person:Captain Lumb (other) (49,54)
+    place:Vignacourt (6,56)
+    person:Major Cowie (other) (28,56)
+    place:Le Touquet (35,58)
+    place:Le Touquet (57,60)
+  24 Oct 1917 69
+    place:Le Touquet (40,66)
+    place:Vignacourt (7,70)
+    place:Peronne (42,72)
+    domestic:accomodation (64,73)
+    domestic:accomodation (26,74)
+    place:Abbeville (66,79)
+    unit:No. 2 Stationary (54,79)
+  25 Oct 1917 81
+    place:Vignacourt (7,81)
+    domestic:medical (34,81)
+  26 Oct 1917 82
+    activity:other (31,83)
+  27 Oct 1917 84
+    place:Vignacourt (7,84)
+    place:Peronne (42,85)
+    place:Flesselles (60,85)
+    domestic:hygiene (71,85)
+    place:Vignacourt (7,91)
+Page 283 (type diary) http://wd3.herokuapp.com/pages/AWD0000iry  ----------
+  29 Oct 1917 22
+    place:Le Touquet (64,25)
+    person:Major Cowie (departed_sick) (44,26)
+    place:Vignacourt (7,26)
+  30 Oct 1917 27
+    unit:Blues (35,27)
+    domestic:sport (41,30)
+  31 Oct 1917 31
+    activity:quiet (23,31)
+    domestic:sport (44,33)
+    unit:Blues (55,34)
+    domestic:sport (47,35)
+    person:Captain G G Collet (author) (68,40)
+Page 284 (type cover)
+Page 285 (type diary) http://wd3.herokuapp.com/pages/AWD0000imt  ----------
+  Hashtags: #recalled 
+  31 Oct 1917 0
+  1 Nov 1917 23
+    person:Captain Forrest (joined) (24,26)
+    person:Major Cowie (returned_hospital) (56,26)
+    place:Vignacourt (6,26)
+  2 Nov 1917 28
+  3 Nov 1917 33
+    person:Private Fordham (departed_posted) (23,35)
+  4 Nov 1917 37
+    domestic:inspections (25,39)
+  5 Nov 1917 40
+  6 Nov 1917 43
+  7 Nov 1917 46
+    person:Captain Nelson (other) (25,48)
+  8 Nov 1917 50
+  9 Nov 1917 52
+    person:Captain Lumb (returned_leave) (25,54)
+  10 Nov 1917 56
+  11 Nov 1917 59
+  12 Nov 1917 65
+    domestic:inspections (24,68)
+  13 Nov 1917 71
+  14 Nov 1917 75
+    domestic:other (26,75)
+    domestic:other (23,76)
+  15 Nov 1917 78
+    domestic:parades (47,80)
+    activity:training (26,83)
+    unit:Blues (70,90)
+    unit:7 Brigade (79,90)
+Page 286 (type diary) http://wd3.herokuapp.com/pages/AWD0000irv  ----------
+  15 Nov 1917 0
+  16 Nov 1917 25
+    domestic:inspections (35,26)
+    domestic:inspections (25,27)
+    place:Vignacourt (7,27)
+  17 Nov 1917 29
+    reference:Orders G.460162 to march to Bray sur Somme (28,30)
+    place:Vignacourt (8,32)
+  18 Nov 1917 35
+    time:1200AM (77,37)
+    time:0200PM (62,38)
+    place:Bray (30,38)
+    activity:movement (25,38)
+    place:Vignacourt (8,40)
+  19 Nov 1917 45
+    domestic:accomodation (47,45)
+    place:Bray (72,50)
+    place:Bray (8,50)
+    place:Bray (71,54)
+    place:Bray (8,54)
+    activity:other (36,56)
+    place:Bray (76,57)
+    place:Gailly (47,61)
+  20 Nov 1917 64
+    time:0930AM (34,67)
+    time:0630AM (64,67)
+    place:Bray (8,69)
+    unit:B echelon (46,74)
+  21 Nov 1917 75
+    unit:4 Cavalry Division (34,78)
+    place:Bray (8,79)
+    activity:other (45,80)
+  22 Nov 1917 81
+    person:Captain Price (other) (27,81)
+    unit:10 Hussars (79,84)
+    activity:other (40,89)
+Page 287 (type diary) http://wd3.herokuapp.com/pages/AWD0000ise  ----------
+  Hashtags: #scabies 
+  22 Nov 1917 0
+  23 Nov 1917 25
+    domestic:accomodation (55,27)
+    domestic:accomodation (35,27)
+    place:Poulainville (44,27)
+    place:Poulainville (8,27)
+    activity:movement (26,27)
+  24 Nov 1917 31
+    place:Bray (80,35)
+    person:Captain Marshall (other) (27,43)
+  25 Nov 1917 46
+    activity:other (36,48)
+  26 Nov 1917 50
+    domestic:accomodation (52,52)
+    domestic:accomodation (43,53)
+  27 Nov 1917 55
+    unit:6 C F A (38,57)
+    domestic:accomodation (49,59)
+  28 Nov 1917 62
+    person:Captain Lumb (other) (28,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 0 (67,66)
+    unit:Leicester Yeomanry (53,67)
+    unit:3 Cavalry Division (28,73)
+  29 Nov 1917 80
+    unit:10 R Hussars (57,81)
+    person:Captain Slaney (departed_posted) (27,82)
+    domestic:sport (72,87)
+Page 288 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipc  ----------
+  Hashtags: #pyjamas 
+  30 Nov 1917 23
+    time:100AM (18,26)
+    unit:7 Cavalry Field Ambulance (48,27)
+    unit:7 C F A (49,27)
+    place:Poulainville (7,28)
+    place:Doingt (83,30)
+    unit:6 Cavalry Field Ambulance (25,35)
+    unit:6 C F A (23,36)
+    person:Captain Slaney (other) (65,38)
+    unit:10 Royal Hussars (53,39)
+    unit:Leicester Yeo (50,42)
+    domestic:accomodation (42,50)
+    reference:Orders (30,54)
+    unit:42 Stationary Hospital (43,63)
+    time:0230PM (65,74)
+    time:1230PM (82,84)
+    person:Captain G G Collet (author) (70,91)
+Page 289 (type cover)
+Page 290 (type diary) http://wd3.herokuapp.com/pages/AWD0000isx  ----------
+  Hashtags: #tetanus 
+  1 Dec 1917 21
+    person:Captain Lumb (other) (26,25)
+    person:Captain Nelson (other) (36,25)
+    time:0730AM (79,26)
+    place:Poulainville (8,26)
+    unit:7 Cavalry Field Ambulance (51,30)
+    unit:7 C F A (50,31)
+    unit:7 Cavalry Brigade (36,34)
+  2 Dec 1917 44
+    activity:movement (30,47)
+    place:Belloy (7,48)
+    domestic:accomodation (37,48)
+    place:Belloy Sur Somme (8,49)
+    activity:line (37,52)
+    unit:7 Cavalry Field Ambulance (27,53)
+    unit:6 Cavalry Field Ambulance (43,53)
+  3 Dec 1917 56
+    domestic:accomodation (26,59)
+    unit:D D R C Corps (39,61)
+    domestic:parades (33,61)
+    unit:7 Cavalry Field Ambulance (62,63)
+    place:Bernes (54,63)
+    person:Captain Lumb (other) (28,65)
+  4 Dec 1917 68
+    person:Captain Lumb (other) (28,70)
+  5 Dec 1917 71
+  6 Dec 1917 74
+    unit:6 Cavalry Field Ambulance (50,74)
+    person:Captain Stork (other) (51,76)
+  7 Dec 1917 78
+  8 Dec 1917 80
+    person:Captain Marshall (departed_posted) (27,83)
+  9 Dec 1917 84
+    activity:other (33,84)
+  10 Dec 1917 87
+    domestic:medical (35,88)
+  11 Dec 1917 89
+    place:Jeancourt (56,91)
+    unit:7 Cavalry Field Ambulance (43,92)
+Page 291 (type diary) http://wd3.herokuapp.com/pages/AWD0000isj  ----------
+  Hashtags: #parson #axle 
+  11 Dec 1917 0
+  12 Dec 1917 21
+  13 Dec 1917 25
+    place:Belloy Sur Somme (8,27)
+    unit:6 Cavalry Field Ambulance (75,27)
+    place:Ailly (31,28)
+    place:Vignacourt (41,28)
+    activity:reconnoitered (46,28)
+  15 Dec 1917 32
+    unit:2 Cavalry Division (68,34)
+  16 Dec 1917 35
+    person:Captain J Lumb (departed_posted) (28,35)
+  17 Dec 1917 37
+    person:Captain Fitzgerald (joined) (25,37)
+    weather:cold (24,40)
+    person:Chaplain Rev Millingham (joined) (36,40)
+  18 Dec 1917 41
+    domestic:rations (49,42)
+  19 Dec 1917 43
+    weather:cold (25,43)
+    domestic:rations (44,45)
+    place:Amiens (26,46)
+  20 Dec 1917 47
+    domestic:rations (33,49)
+    person:Captain Forrest (joined) (50,49)
+    weather:cold (25,50)
+  21 Dec 1917 52
+    place:Ribeaucourt (72,52)
+    person:Captain Fitzgerald (departed_posted) (26,52)
+    place:Abbeville (53,53)
+    unit:6 Cavalry Field Ambulance (45,54)
+    place:Vignacourt (71,57)
+    activity:other (34,58)
+  22 Dec 1917 63
+    unit:7 Cavalry Brigade (34,63)
+    activity:other (40,64)
+    unit:10 R Hussars (66,64)
+  23 Dec 1917 65
+    weather:cold (25,67)
+  24 Dec 1917 70
+    weather:cold (25,71)
+  25 Dec 1917 72
+    domestic:sport (36,74)
+    weather:cold (50,74)
+  26 Dec 1917 78
+    unit:2 Life Guards (71,79)
+    weather:cold (25,81)
+    unit:Leicester Yeo (46,81)
+    unit:Essex Yeomanry (34,82)
+    unit:Essex Yeo (42,84)
+    unit:Leicester (60,85)
+    unit:Essex Yeos (67,85)
+Page 292 (type diary) http://wd3.herokuapp.com/pages/AWD0000ip8  ----------
+  26 Dec 1917 0
+  27 Dec 1917 21
+    unit:6 Cavalry Field Ambulance (50,25)
+  28 Dec 1917 26
+    unit:2 Life Guards (48,28)
+  29 Dec 1917 29
+    weather:cold (26,31)
+  30 Dec 1917 32
+    unit:2 Life Guards (36,34)
+    weather:cold (26,34)
+  31 Dec 1917 35
+    unit:10 Royal Hussars (43,35)
+    person:Captain Marshall (joined) (26,38)
+    unit:2 Life Guards (36,40)
+    person:Captain G G Collett (author) (73,48)
+Page 293 (type cover)
+Page 294 (type diary) http://wd3.herokuapp.com/pages/AWD0000ip9  ----------
+  Hashtags: #scabies #Wolseley 
+  31 Dec 1917 0
+  1 Jan 1918 21
+  2 Jan 1918 25
+    place:Belloy Sur Somme (9,26)
+  3 Jan 1918 28
+    unit:6 Cavalry Field Ambulance (63,29)
+    domestic:medical (31,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 15; wounded: 0 (65,34)
+  5 Jan 1918 38
+    person:Captain Forrest (departed_leave) (26,38)
+  6 Jan 1918 40
+    weather:cold (26,40)
+  7 Jan 1918 43
+    activity:quiet (28,43)
+  8 Jan 1918 46
+    person:Captain Ironside (returned_leave) (34,46)
+    weather:cold (24,46)
+  9 Jan 1918 48
+    weather:cold (28,49)
+    weather:cold (24,51)
+    person:Chaplain Rev Edwards (departed_posted) (70,59)
+  10 Jan 1918 62
+  11 Jan 1918 73
+    time:0600PM (41,73)
+    weather:cold (24,73)
+  12 Jan 1918 76
+    unit:7 Cavalry Field Ambulance (57,78)
+  14 Jan 1918 82
+    unit:7 Cavalry Field Ambulance (63,82)
+    person:Captain Church (departed_posted) (26,82)
+  15 Jan 1918 86
+    domestic:hygiene (59,86)
+    domestic:inspections (26,88)
+Page 295 (type diary) http://wd3.herokuapp.com/pages/AWD0000img  ----------
+  Hashtags: #mange 
+  16 Jan 1918 22
+    place:Belloy (5,24)
+    domestic:inspections (41,25)
+    domestic:hygiene (48,25)
+  17 Jan 1918 26
+    place:Belloy Sur Somme (8,27)
+  18 Jan 1918 29
+    domestic:inspections (30,31)
+    domestic:medical (57,31)
+  20 Jan 1918 36
+    weather:other (27,37)
+  21 Jan 1918 38
+    person:Captain Forrest (returned_leave) (43,40)
+  22 Jan 1918 41
+  24 Jan 1918 60
+    place:Vignacourt (81,61)
+  25 Jan 1918 64
+    person:Captain Marshall (departed_leave) (27,64)
+    activity:other (58,70)
+    unit:7 Cavalry Field Ambulance (50,73)
+  26 Jan 1918 74
+    person:Captain Mitchell (joined) (29,74)
+    person:Captain Forrest (departed_posted) (27,78)
+    activity:other (49,80)
+  27 Jan 1918 82
+    unit:Leicester Yeo (71,83)
+    domestic:accomodation (45,84)
+    activity:movement (25,84)
+    place:Guillaucourt (8,86)
+    casualties:died: 2; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,88)
+Page 296 (type diary) http://wd3.herokuapp.com/pages/AWD0000is6  ----------
+  Hashtags: #red #cross 
+  27 Jan 1918 0
+  28 Jan 1918 21
+    reference:Upon arrival in Tertry, found conditions for the operation of a hospital poor.   (25,21)
+    activity:movement (26,25)
+    place:Tertry (33,25)
+    place:Meraucourt (73,25)
+    place:Tertry (9,25)
+    domestic:accomodation (67,29)
+  29 Jan 1918 36
+    unit:8 Cavalry Brigade (37,42)
+    domestic:accomodation (62,42)
+    unit:Canadian Cavalry Field Ambulance (25,44)
+    unit:Canadian C F A (24,45)
+    place:Trefcon (29,54)
+  30 Jan 1918 55
+    unit:6 C B (34,58)
+    place:Trefcon (65,58)
+    domestic:accomodation (51,58)
+    unit:6 Cavalry Field Ambulance (59,59)
+    unit:6 Cavalry Brigade (33,60)
+    unit:Canadian Cavalry Field Ambulance (84,61)
+    place:Coulaincourt (40,61)
+    domestic:accomodation (49,63)
+    place:Tincourt (44,67)
+  31 Jan 1918 68
+    unit:6 C F A (82,68)
+    unit:2 Life Guards (50,71)
+    unit:6 Cavalry Field Ambulance (83,72)
+    unit:6and 8 Brigade (37,72)
+    place:Poeully (72,72)
+    person:Captain G G Collet (author) (78,86)
+Page 297 (type cover)
+Page 298 (type diary) http://wd3.herokuapp.com/pages/AWD0000ipi  ----------
+  31 Jan 1918 0
+  1 Feb 1918 21
+    place:Tertry (8,26)
+    unit:7C F A (57,27)
+    unit:7 Brigade (63,28)
+    person:Sergeant Holhook (joined) (25,28)
+    unit:7 Brigade (52,30)
+    unit:6 Brigade (69,31)
+    person:Captain G Nelson (joined) (28,31)
+    place:Trefcon (44,32)
+    unit:6 C F A (28,32)
+    unit:7 Brigade (77,32)
+  2 Feb 1918 33
+    place:Tertry (75,37)
+    domestic:medical (32,37)
+    place:Tertry (8,40)
+  3 Feb 1918 41
+    place:Tertry (55,44)
+    place:Tertry (8,45)
+  4 Feb 1918 46
+    domestic:uniform (65,55)
+    person:Private Cabot (departed_training) (40,59)
+  5 Feb 1918 60
+    person:Captain Forrest (departed_training) (28,60)
+  6 Feb 1918 73
+    place:Tertry (42,77)
+    place:Tertry (9,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (85,79)
+  7 Feb 1918 80
+    person:Captain Nelson (departed_sick) (72,82)
+    domestic:inspections (25,84)
+    place:Tertry (10,87)
+    activity:strength (61,91)
+Page 299 (type diary) http://wd3.herokuapp.com/pages/AWD0000in0  ----------
+  Hashtags: #mustard #diarrhoea #carrier #axle #Mereaucourt #dental #stretcher #front #gas #wheeled 
+  7 Feb 1918 0
+  8 Feb 1918 21
+    place:Tertry (8,27)
+    person:McNeil (other) (62,28)
+    unit:7C F A (30,28)
+    unit:7 Cavalry Field Ambulance (32,29)
+  9 Feb 1918 43
+    place:Tertry (9,48)
+    person:Captain Marshall (returned_leave) (65,48)
+  10 Feb 1918 50
+    person:Captain Nelson (departed_training) (80,50)
+    place:Tertry (8,54)
+    activity:reconnoitered (28,54)
+  11 Feb 1918 55
+    place:Tertry (9,65)
+  12 Feb 1918 68
+    domestic:medical (28,71)
+    place:Mereaucourt (38,72)
+    place:Mereaucourt (51,73)
+    place:Tertry (9,75)
+    person:Captain Forrest (joined) (72,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (74,77)
+    person:Captain Nelson (departed_sick) (28,78)
+  13 Feb 1918 80
+    person:Captain Nelson (departed_sick) (42,80)
+    place:Tertry (9,87)
+Page 300 (type diary) http://wd3.herokuapp.com/pages/AWD0000io6  ----------
+  Hashtags: #hospital #kitchen #mange #horse #Meraucourt #scabies 
+  14 Feb 1918 23
+    place:Tertry (10,26)
+  15 Feb 1918 30
+    place:Nebaucourt (64,31)
+    domestic:medical (36,31)
+  16 Feb 1918 33
+    domestic:medical (31,34)
+  17 Feb 1918 40
+    place:Tertry (58,41)
+    place:Trefcon (64,43)
+    activity:enemy_activity (51,44)
+    activity:other (33,45)
+  18 Feb 1918 46
+  19 Feb 1918 50
+  20 Feb 1918 54
+    person:Captain Mitchell (other) (49,54)
+  21 Feb 1918 61
+    activity:other (39,61)
+    activity:other (34,65)
+  22 Feb 1918 66
+    domestic:accomodation (44,68)
+    activity:other (30,68)
+  23 Feb 1918 69
+    domestic:inspections (32,74)
+  24 Feb 1918 75
+    place:Poeuilly (77,79)
+    activity:reconnoitered (54,79)
+    place:Bernes (26,80)
+  25 Feb 1918 81
+    domestic:inspections (34,83)
+  26 Feb 1918 84
+    activity:reconnoitered (35,94)
+Page 301 (type diary) http://wd3.herokuapp.com/pages/AWD0000ip3  ----------
+  27 Feb 1918 21
+    place:Tincourt (32,24)
+    place:Tertry (8,26)
+  28 Feb 1918 28
+    person:Captain G W Mitchell (author) (69,39)
+Page 302 (type cover)
+Page 303 (type diary) http://wd3.herokuapp.com/pages/AWD0000ims  ----------
+  9 Mar 1918 84
+  1 Mar 1918 21
+    unit:8 Cavalry Brigade (26,27)
+    unit:6 Cavalry Brigade (47,27)
+    place:Tertry (9,28)
+    activity:other (31,28)
+    place:Tertry (7,30)
+    time:1200PM (67,33)
+    domestic:medical (50,33)
+    place:Meraucourt (36,36)
+    time:0600AM (54,37)
+    activity:enemy_activity (69,38)
+  2 Mar 1918 39
+    unit:3 Cavalry Division (53,44)
+    place:Tertry (7,46)
+    activity:other (28,46)
+    domestic:inspections (71,47)
+  3 Mar 1918 48
+  4 Mar 1918 53
+    person:Captain Marshall (other) (71,53)
+    place:Tertry (8,57)
+    activity:reconnoitered (80,58)
+  5 Mar 1918 59
+    person:Captain McCallum (joined) (25,65)
+    domestic:inspections (28,68)
+    domestic:inspections (57,68)
+  6 Mar 1918 70
+    domestic:accomodation (76,70)
+  7 Mar 1918 74
+    place:Tertry (10,74)
+    domestic:inspections (29,74)
+    domestic:inspections (25,78)
+  8 Mar 1918 79
+    domestic:inspections (32,80)
+    place:Tertry (10,83)
+  9 Mar 1918 84
+    unit:8 Cavalry Field Ambulance (27,84)
+    unit:7 Cavalry Brigade (60,84)
+    unit:Household Cavalry(7 Brigade) (51,84)
+    place:Tertry (8,89)
+    activity:enemy_activity (32,90)
+    casualties:died: 0; killed: 10; missing: 0; prisoner: 0; sick: 0; wounded: 43 (46,91)
+    activity:other (67,91)
+Page 304 (type diary) http://wd3.herokuapp.com/pages/AWD0000is0  ----------
+  10 Mar 1918 23
+    person:Captain Mitchell (other) (74,26)
+    place:Tertry (8,26)
+    activity:movement (35,26)
+  11 Mar 1918 49
+    place:Guignemicourt (8,52)
+    activity:movement (34,53)
+  12 Mar 1918 55
+    place:Domart (45,56)
+    place:Domart (9,57)
+    activity:movement (27,57)
+    place:Domart (7,59)
+  13 Mar 1918 66
+    place:Villers Ailly (6,70)
+    activity:movement (29,70)
+    domestic:medical (30,72)
+    place:Villers Sous Ailly (8,72)
+  14 Mar 1918 75
+  15 Mar 1918 84
+    person:Sergeant Major Cook (joined) (43,86)
+    unit:4 Squadron (51,88)
+    activity:strength (28,89)
+    unit:Leicester Yeo (33,90)
+    unit:Essex Yeo (27,91)
+    person:Captain Marshall (other) (31,93)
+Page 305 (type diary) http://wd3.herokuapp.com/pages/AWD0000isw  ----------
+  16 Mar 1918 22
+    domestic:inspections (69,25)
+    place:Villers Sous Ailly (8,29)
+    person:Captain Thompson (other) (75,36)
+    person:Captain Slaney (other) (29,37)
+    person:Captain Fitzgerald (other) (36,39)
+  17 Mar 1918 40
+    unit:2 Life Guards (47,44)
+    unit:2 Life Guard (40,44)
+  18 Mar 1918 46
+  19 Mar 1918 50
+    domestic:inspections (66,50)
+    place:Allery (41,54)
+  20 Mar 1918 55
+    unit:14 M G S (27,55)
+    domestic:parades (28,60)
+  21 Mar 1918 69
+  22 Mar 1918 77
+    place:Chaulnes (60,81)
+  23 Mar 1918 83
+    activity:movement (31,88)
+Page 306 (type diary) http://wd3.herokuapp.com/pages/AWD0000iq4  ----------
+  24 Apr 1918 23
+    time:0900AM (55,25)
+    place:Villers (8,28)
+    place:Villers Sous Ailly (8,29)
+    place:Saint Pol (64,40)
+    person:Captain O'Connor (other) (41,51)
+    unit:4 F S (28,55)
+    unit:Essex Yeo (37,55)
+  25 Apr 1918 58
+  26 Apr 1918 63
+    person:Captain Read (33,77)
+  27 Apr 1918 80
+    person:Captain O'Connor (other) (40,80)
+    person:Captain Stark (other) (33,81)
+    activity:movement (41,84)
+    unit:Household Brigade (31,84)
+    place:Vignacourt (41,85)
+    domestic:accomodation (48,91)
+Page 307 (type diary) http://wd3.herokuapp.com/pages/AWD0000iq6  ----------
+  27 Apr 1918 0
+    unit:Essex Yeo (38,25)
+    unit:Essex Yeomanry (36,25)
+    unit:1 Cavalry Division (54,25)
+    activity:movement (32,25)
+    time:0300AM (62,25)
+    place:Villers Sous Ailly (6,27)
+    unit:Essex (37,29)
+    person:Captain O'Connor (other) (69,30)
+    person:Captain Fitzgerald (departed_posted) (31,31)
+    person:Captain Fitzgerald (other) (78,33)
+    person:Captain O'Connor (other) (47,34)
+    unit:Essex Yeo (51,40)
+    unit:Essex Yeomanry (50,40)
+    place:Villers Sous Ailly (9,43)
+    unit:N S Yeo (25,44)
+    unit:Household Brigade (75,48)
+    unit:Household Brigade (78,52)
+    unit:5 Cavalry Did (77,61)
+    unit:5 Cavalry Division (71,63)
+    person:Lieutenant Colonel G G Collet (author) (75,72)
+Page 308 (type cover)
+Page 309 (type diary) http://wd3.herokuapp.com/pages/AWD0000isq  ----------
+  27 Apr 1918 0
+    place:Villers Sous Ailly (8,27)
+    place:Villers Sous Ailly (10,30)
+    unit:2 Cavalry Field Ambulance (64,30)
+    unit:3 Cavalry Division (54,36)
+    unit:2 Cavalry Field Ambulance (61,36)
+    unit:2 Cavalry Division (48,37)
+    unit:N S Y (27,37)
+    person:Captain Stork (other) (64,39)
+    person:Lieutenant Colonel G G Collet (departed_posted) (62,43)
+    unit:8 Cavalry Field Ambulance (50,43)
+    unit:Ddr Cavalry corps (70,50)
+    place:Bellencourt (26,54)
+  9 Apr 1918 63
+    place:Longpre (87,66)
+    unit:3 Cavalry Brigade (29,67)
+  10 Apr 1918 71
+    place:Longpre (72,75)
+    unit:3 Cavalry Brigade (51,75)
+  11 Apr 1918 76
+    unit:8 Cavalry Field Ambulance (27,80)
+    person:Captain E Stork (author) (69,91)

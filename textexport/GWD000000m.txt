@@ -1,0 +1,3205 @@
+GWD000000m wo/95/1155/1
+3 CAVALRY DIVISION: 1 Life Guards 
+147 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD00003w6  ----------
+  8 Oct 1914 27
+    time:0600AM (9,30)
+    place:Zeebrugge (20,30)
+    activity:movement (43,31)
+    time:0330PM (30,35)
+    place:Blankenberge (63,35)
+    activity:movement (44,36)
+    time:0600PM (8,60)
+    unit:2 Life Guards (52,60)
+    place:Blankenberge (19,60)
+  9 Oct 1914 67
+    place:Blankenberge (18,68)
+    time:0500AM (8,69)
+    activity:other (29,69)
+    place:Jabbeke (46,72)
+    reference:B.M 1 (78,81)
+    reference:Operationa Order No1 (78,82)
+    time:1235PM (7,82)
+    place:Jabbeke (19,83)
+    place:Lophem (20,88)
+    reference:Operationa Order No1 (80,89)
+    time:0530PM (8,89)
+  10 Oct 1914 90
+    reference:Operation Orders No.2 (attached) (50,91)
+    time:0500AM (8,94)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD00003y4  ----------
+  10 Oct 1914 26
+    time:0500AM (8,28)
+    place:Thourout (70,29)
+    person:Lieutenant Leyland (combat) (51,30)
+    place:Lophem (19,30)
+    reference:Patrol Report attached 1st LG2 (83,33)
+    activity:movement (41,35)
+    place:Beernem (57,37)
+    time:1200AM (9,39)
+    reference:Oostcamp (57,42)
+    place:Oostcamp (58,42)
+    activity:movement (29,43)
+    place:Ghent (53,46)
+    place:Antwerp (64,46)
+    unit:Belgian Artillery (33,48)
+    time:0230PM (8,56)
+    place:Beernem (20,56)
+    unit:Belgian Troops (35,65)
+  11 Oct 1914 68
+    place:Ruddervoorde (20,71)
+    reference:Opearation Orders No.3 (80,72)
+    reference:1st LG 2 (78,72)
+    time:0500AM (7,72)
+    activity:reconnoitered (41,76)
+    reference:Operation order no 3 attached (78,79)
+  10 Oct 1914 26
+  11 Oct 1914 68
+    person:Lieutenant W R Wyndham (other) (43,82)
+    place:Thielt (52,82)
+    person:Lieutenant Lord Somers (other) (41,86)
+    place:Ritthem (68,86)
+  10 Oct 1914 26
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD00003y8  ----------
+  11 Oct 1914 0
+    reference:Operation Orders Nos 5+6 (6,17)
+  12 Oct 1914 26
+    place:Ruddervoorde (10,30)
+    activity:movement (54,30)
+    time:0800AM (18,31)
+    reference:Operation Order No.4 (80,31)
+    place:Iseghem (28,35)
+    place:Iseghem (37,35)
+    activity:movement (50,35)
+    place:Lendelede (64,39)
+    reference:A Squadron 2,c squadron E1 (80,45)
+    time:0600PM (6,46)
+    place:Rumbeke (55,47)
+    place:Roulers (49,52)
+    place:Menin (56,52)
+    activity:reconnoitered (36,52)
+  13 Oct 1914 82
+    reference:Operation Orders Nos 5+6 (60,59)
+    time:0700AM (6,61)
+    place:Rumbeke (18,61)
+    activity:movement (70,62)
+    place:Ypres (28,65)
+    place:Menin (46,65)
+    place:Gheluwe (54,65)
+    place:Menin (28,70)
+    reference:Operation Orders Nos 5+6 (61,72)
+    activity:enemy_activity (53,80)
+    activity:enemy_activity (47,82)
+    time:0800PM (7,84)
+    place:Iseghem (59,91)
+    unit:Royal Horse Artillery (51,92)
+    unit:K Battery Royal Horse Artillery (49,92)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD00003xo  ----------
+  13 Oct 1914 41
+    activity:resting (51,30)
+    time:0900PM (26,31)
+    unit:Division hq (64,36)
+    place:Roulers (29,39)
+    place:Iseghem (50,39)
+    time:1200PM (8,43)
+    place:Iseghem (20,44)
+    time:1235AM (29,49)
+  14 Oct 1914 62
+    time:1000AM (6,64)
+    place:Ypres (18,65)
+    place:Ypres (35,66)
+    activity:enemy_activity (44,69)
+    time:1200PM (30,78)
+    place:Kemmel (35,87)
+    person:General H Gough (other) (61,90)
+    person:General Allenby (other) (68,91)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD00003y0  ----------
+  14 Oct 1914 44
+    place:Kemmel (62,30)
+    person:General P Chetwode (41,30)
+    activity:resting (41,34)
+    domestic:accomodation (36,34)
+    place:Groot Vierstraat (59,35)
+    time:0900PM (39,39)
+    time:1100PM (8,46)
+    unit:7 Division (36,53)
+    activity:enemy_activity (43,58)
+  15 Oct 1914 59
+    reference:C Squadron i (78,61)
+    person:General Bingham (other) (46,63)
+    person:Lieutenant R C Bingham (departed_posted) (69,63)
+    unit:H Q 4 Cavalry Bge (41,64)
+  16 Oct 1914 69
+    place:Ypres (65,71)
+    time:0740AM (36,72)
+    person:Lieutenant P Brocklehurst (other) (64,75)
+    person:Lieutenant G Ward (other) (52,76)
+    place:Staden (49,80)
+    activity:attack (59,84)
+    place:Staden (69,84)
+    person:Lieutenant P Brocklehurst (combat) (39,84)
+    person:Henley (casualty_kia) (62,88)
+    activity:fire (35,89)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,89)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD00003x3  ----------
+  16 Oct 1914 29
+    reference:B.M.3.  A Squadron 1+2 (78,30)
+    reference:B.M.3  (76,30)
+    time:0300PM (6,31)
+    place:Poelcappel (19,32)
+    time:0930PM (55,39)
+    activity:resting (38,40)
+    place:Passchendaele (43,40)
+  17 Oct 1914 41
+    reference:LT Lord Somerst REport (85,43)
+    reference:Operational Order No 9 (84,45)
+    place:Passchendaele (16,45)
+    activity:reconnoitered (46,46)
+    person:Lieutenant Lord Somers (other) (79,53)
+    activity:reconnoitered (39,55)
+    time:0530AM (67,58)
+    activity:attack (52,66)
+  18 Oct 1914 74
+    time:0600AM (5,76)
+    activity:movement (32,76)
+    activity:reconnoitered (34,84)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD00003wt  ----------
+  18 Oct 1914 0
+    time:0600PM (37,34)
+  19 Oct 1914 81
+    reference:B.M.2 (76,40)
+    time:0600AM (6,40)
+    activity:fire (43,49)
+    activity:withdraw (60,53)
+    place:Moorslede (70,54)
+    unit:2 Life Guards (40,56)
+    person:Lieutenant P Brocklehurst (casualty_wounded) (66,57)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 4 (68,57)
+    unit:6 Cavalry Brigade (53,60)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 4 (37,61)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 4 (25,62)
+    unit:7 Infantry Division (29,64)
+    unit:7 Division (29,65)
+    activity:withdraw (46,65)
+    reference:Casualty List (87,69)
+    unit:French Division (36,70)
+    place:Roulers (29,74)
+    unit:French 10 Corps (51,77)
+    place:Zonnebeke (65,78)
+    person:Lieutenant Colonel H H Duke Of Teck (departed_sick) (31,82)
+    place:Zonnebeke (21,82)
+    time:1200AM (7,83)
+    person:Major E H Brassey (promotion) (34,86)
+  20 Oct 1914 88
+    reference:Operation Order No 14 (78,88)
+    time:0530AM (7,90)
+    place:Zonnebeke (44,92)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD00003zs  ----------
+  20 Oct 1914 0
+    unit:7 Division (66,31)
+    activity:line (36,38)
+    time:1000AM (30,39)
+    unit:French 79 Territorial Regiment (64,40)
+    reference:French 79th Territorial Regiment (63,40)
+    time:0100PM (47,41)
+    unit:1 Corps (30,43)
+    place:Passchendaele (52,56)
+    time:1230PM (35,59)
+    place:Saint Julien (48,65)
+    activity:withdraw (39,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,74)
+    place:Zonnebeke (45,77)
+    place:Frezenberg (57,84)
+    time:1000PM (31,86)
+    unit:2 Corps, A Squadron (65,88)
+    unit:22 Brigade (45,89)
+    mapRef:BM 42 22 (42,89)
+    reference:B.M.42 (75,92)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD00003yl  ----------
+  21 Oct 1914 29
+    reference:Operation Order No 13 (77,31)
+    time:0600AM (13,32)
+    activity:movement (32,32)
+    unit:French Territorial Regiment (60,32)
+    place:Frezenberg (19,32)
+    place:Eksternest (42,45)
+    activity:movement (25,48)
+    time:0900AM (29,49)
+    place:Zonnebeke (60,49)
+    unit:7 Division (47,51)
+    unit:1 Corps (32,52)
+    place:Zonnebeke (62,56)
+    time:1100AM (34,57)
+    time:0330PM (46,60)
+    activity:resting (56,60)
+    unit:22 Brigade (29,60)
+    place:Saint Eloi (53,64)
+    place:Voormezeele (30,65)
+    unit:2 Cavalry Division (43,67)
+    place:Zonnebeke (63,75)
+  22 Oct 1914 76
+    reference:Warning Order (78,78)
+    time:0600AM (6,79)
+    activity:movement (28,80)
+    place:Hooge (36,80)
+    reference:B M 5 (75,81)
+    reference:B.M.5 (74,82)
+    activity:resting (29,83)
+  23 Oct 1914 84
+    time:0600PM (35,84)
+    place:Klein Zillebeke (44,84)
+    time:0830AM (6,87)
+    activity:movement (36,87)
+    place:Klein Zillebeke (19,87)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD00003zh  ----------
+  23 Oct 1914 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (35,23)
+    reference:Zillebeke, Ypres, Belgium, October 23rd 1914: (cont.) On arrival below position brigade staff rode forward with Commanding officer and squadron leaders to have (the) position of trenches pointed out to them by 6th Brigade. While standing on west of position, two shells burst over them and all were hit except 3 squadron leaders of regiment. Officers of brigade staff only had their clothing torn, but my Brassey had his ear gouged, and Lieutenant (the) Marquess of Tweeddale had his lips cut by a shrapnel bullet. It was then decided that it was not safe to relieve the trenches before dark, so brigade returned to  Klein Zillebeke till dark, when it again advanced and took over tranches. regiment on left of line joining 7th division at Zandvoorde. (15,23)
+    unit:6 Brigade (25,23)
+    unit:7 Division (52,23)
+    activity:fire (61,37)
+    unit:6 Brigade (28,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (54,45)
+    person:Major Brassey (casualty_wounded) (58,46)
+    reference:Zandvoorde, Belgium, October 24th 1914:  Remained in trenches for 48 hours. Trenches heavily shelled all day. Both nights heavy firing opened about 21:00, but no actual attack was made. Firing lasted about half an hour and the same was repeated at about 02:00. Reports and casualty list attached. (15,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (43,50)
+    person:Lieutenant Marquess Of Tweedale (casualty_wounded) (41,51)
+    place:Klein Zillebeke (51,62)
+    place:Zandvoorde (38,71)
+  24 Oct 1914 72
+    unit:7 Division (29,72)
+    place:Zandvoorde (18,74)
+    activity:fire (64,76)
+    activity:fire (34,77)
+    time:0900PM (55,80)
+    time:0200AM (34,87)
+    reference:Casualty list attached (44,91)
+    reference:Casuality List Attached (81,92)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD00003xg  ----------
+  25 Oct 1914 29
+    unit:6 Cavalry Brigade (27,16)
+    reference:Zandvoorde, Belgium, October 25th 1914:  Regiment relieved in trenches by 6th cavalry brigade. owing to a confusion among the men told off to provide the reliefs to the trenches, and also to the fact that 6th brigade had only 2 regiments with which to relieve 3; 'C' squadron were (therefore) not relieved and had to remain in trenches for a further 24 hours.Regiment, less 'C' squadron and machine gun section, returned to billets at Klein Zillebeke. Machine Gun section of brigade remained in reserve to support 6th Brigade. (21,16)
+    activity:other (31,29)
+    place:Zandvoorde (20,30)
+    unit:6 Cavalry Brigade (53,30)
+    time:0600PM (7,31)
+    activity:line (46,38)
+    unit:6 Cavalry Brigade (26,38)
+    reference:Klein Zillebeke, Belgium, October 25th 1914:  The usual firing started in the trenches (see previous page). A verbal message was received to say 6th brigade required support only. head quarters and 'A' squadron had, up to then, arrived in billets. Turned out dismounted but before moving off, order was cancelled. It afterwards transpired that (the) cyclist who brought verbal message from 6th brigade had misinterpreted his orders; message should have merely asked brigade to 'stand to'.  (16,38)
+    reference:BM 8, 17 and 25 attached. (29,38)
+    unit:6 Cavalry Brigade (41,39)
+    unit:C squadron (79,47)
+    reference:C Squadron i (78,47)
+    activity:resting (53,51)
+    place:Klein Zillebeke (33,56)
+    reference:BM 8 17+25 (82,58)
+    unit:6 Cavalry Brigade (36,60)
+    time:0700PM (7,64)
+    place:Klein Zillebeke (20,65)
+    activity:fire (30,65)
+    reference:A verbal BM see 8, 17 and 25 attached (82,65)
+    activity:other (46,69)
+    unit:6 Cavalry Brigade (48,69)
+    unit:6 Cavalry Brigade (65,81)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD00003yn  ----------
+  25 Oct 1914 0
+  26 Oct 1914 71
+    activity:resting (33,29)
+    time:0200PM (52,29)
+    place:Klein Zillebeke (18,30)
+    reference:Orders for attack attached (79,33)
+    activity:movement (43,34)
+    reference:Bde Orders (77,35)
+    time:0200PM (30,35)
+    reference:Royal Horse Guards (46,41)
+    unit:Royal Horse Guards (46,42)
+    time:0430PM (35,42)
+    activity:repair (52,46)
+    place:Klein Zillebeke (59,49)
+    unit:3 Cavalry Division (70,53)
+    unit:3 Cavalry (72,53)
+    time:0600PM (30,53)
+    unit:4 Corps (59,58)
+    unit:3 Cavalry Division (39,65)
+    activity:attack (66,65)
+    place:Houthem (32,69)
+    time:1000PM (6,72)
+    unit:C Squadron (30,73)
+    place:Klein Zillebeke (19,73)
+    unit:2 Life Guards (34,76)
+  27 Oct 1914 77
+  25 Oct 1914 0
+  27 Oct 1914 77
+    time:0600AM (6,80)
+    place:Klein Zillebeke (19,80)
+    activity:resting (65,82)
+    time:1000AM (30,83)
+  25 Oct 1914 0
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD00003xz  ----------
+  27 Oct 1914 29
+    reference:Kleine Zillebeke, Belgium, October 27th 1914: Regiment paraded to take over trenches from 6th brigade. At 22:00 order received for 2 troops of reserve to parade with 1 squadron (of) 2nd Life Guards to take over trenches from 22nd Rifle brigade East of Zandvoorde. Two troops of 'D' squadron detailed for this duty, but on arrival at trenches there was found to be only room for squadron of 2nd Life Guards.    (29,14)
+    activity:movement (43,30)
+    mapRef:BM 13 (76,30)
+    place:Klein Zillebeke (21,30)
+    reference:BM 13 (77,30)
+    unit:6 Brigade (55,30)
+    time:0430PM (9,31)
+    unit:6 Cavalry Brigade (55,31)
+    time:1000PM (30,35)
+    reference:Trenches near Zandvoorde, Belgium, October 28th 1914: Regiment remained all day in trenches (22,37)
+    unit:C Squadron (88,37)
+    unit:2 Life Guards (39,38)
+    unit:22 Infantry Brigade (62,38)
+    unit:Squadron No. 2 Life Guards (40,38)
+    activity:line (34,42)
+    place:Zandvoorde (29,42)
+    unit:6 Cavalry Brigade (28,42)
+    unit:Royal Horse Guards (31,42)
+    reference:Trenches near Zandvoorde, Belgium, October 29th 1914: Regiment should have been relieved by 6th brigade at dusk, but during (the) afternoon 6th brigade was called out to support infantry on left, so regiment remained in trenches. 'C' squadron and 2 troops of (squadron?) from reserve relieved 1 and a half squadrons (of) Royal Horse Guards in trenches.  (23,43)
+    reference:B.M.2  this attack did not extend to front occupied by regiment. (34,43)
+    unit:2 Life Guards (67,45)
+    unit:2 lg (65,45)
+  28 Oct 1914 47
+    activity:line (42,49)
+    place:Zandvoorde (19,49)
+    reference:Trenches near Zandvoorde, Belgium, October 30th 1914: Heavy bombardment of position opened. At 07:30 position was attacked by huge force of infantry. This attack proved successful owing to greatly superior numbers. Regiment retired in good order about 10:00; except 'C' squadron on left flank, from which only about 10 men got back. Remainder of squadron missing. Also, one machine Gun point out of action. Regiment retired behind 6th brigade, which turned out to support. 2nd Dragoons and 3rd and 4th Hussars also came to support, but did not come into (cont.)  (25,49)
+    reference:Casualty list attached. (48,49)
+    unit:6 Cavalry Brigade (39,49)
+    unit:2 Dragoons (41,49)
+    unit:3 Hussars (43,49)
+    unit:4 Hussars (45,49)
+  29 Oct 1914 52
+    reference:B M 2 (77,52)
+    unit:6 Cavalry Brigade (54,52)
+    unit:6 Brigade (54,52)
+    reference:BM2 Order attached (84,53)
+    place:Zandvoorde (17,55)
+    unit:6 Cavalry Brigade (29,58)
+    unit:6 Brigade (29,58)
+    unit:R H G (65,60)
+    unit:Royal Horse Guards (69,61)
+  30 Oct 1914 62
+    place:Zandvoorde (17,64)
+    activity:fire (34,65)
+    time:0600AM (8,65)
+    activity:enemy_activity (50,68)
+    time:0730AM (30,68)
+    activity:withdraw (37,76)
+    time:1000AM (54,76)
+    unit:C Squadron (67,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,80)
+    reference:Casualty list  (82,82)
+    reference:Casuality List attached (77,84)
+    activity:withdraw (29,85)
+    unit:6 Cavalry Brigade (49,87)
+    unit:6 Brigade (48,87)
+    activity:withdraw (33,88)
+    unit:3 Hussars (35,91)
+    unit:4 Hussars (40,91)
+    unit:2 Dragoons (29,92)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD00003y3  ----------
+  30 Oct 1914 46
+    place:Zandvoorde (46,32)
+    activity:enemy_activity (37,34)
+    unit:6 Brigade (70,36)
+    unit:6 Cavalry Brigade (70,37)
+    unit:4 Guards Batallion (62,44)
+    time:0800PM (8,48)
+    reference:B M 18 (76,48)
+    place:Verbranden Molen (20,48)
+    activity:resting (34,50)
+    reference:B M 3c? (76,51)
+  31 Oct 1914 52
+    time:0600AM (7,55)
+    activity:movement (37,56)
+    place:Hooge (56,58)
+    time:1000AM (29,59)
+    unit:Cavalry Corps (49,62)
+    place:Saint Eloi (65,62)
+    time:0100PM (29,63)
+    unit:3 Cavalry Brigade (30,68)
+    place:Saint Eloi (40,71)
+    place:Verbranden Molen (70,73)
+    unit:4 Hussars (39,74)
+    unit:11 Hussars (40,75)
+    place:Verbranden Molen (66,82)
+    unit:4 Hussars (43,86)
+    unit:3 and 4 Hussars (42,86)
+    time:0600PM (30,89)
+    person:General Byng (other) (70,89)
+    person:General Allenby (other) (62,90)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD00003wa  ----------
+  31 Oct 1914 0
+    unit:4 Hussars (42,29)
+    unit:3 and 4 Hussars (42,30)
+    person:General Allenby (other) (31,30)
+    person:General Byng (other) (70,30)
+    place:Verbranden Molen (54,34)
+  1 Nov 1914 36
+    time:0600AM (28,39)
+    unit:4 Hussars (64,41)
+    unit:2 Squadron 4 Hussars (58,41)
+    activity:movement (43,42)
+    unit:4 Hussars (57,45)
+    unit:Squadron 4 Hussars (34,48)
+Page 18 (type cover)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD00003xl  ----------
+  1 Nov 1914 46
+    activity:fire (46,28)
+    time:0630AM (7,30)
+    casualties:died: 0; killed: 0; missing: 217; prisoner: 0; sick: 0; wounded: 1 (35,33)
+    person:Major Brassey (casualty_wounded) (33,33)
+    person:Captain A F Stanley (promotion) (62,33)
+    reference:Casuality List Attached (82,38)
+    unit:French Infantry (50,41)
+    reference:Message from C in C (82,42)
+    time:1100AM (29,42)
+    place:Hooge (28,46)
+    time:0200PM (6,49)
+    place:Hooge (17,49)
+    unit:4 Guards (64,50)
+    reference:B M 10 (77,50)
+    place:Klein Zillebeke (47,50)
+    place:Hooge (52,56)
+    time:0700PM (28,57)
+  2 Nov 1914 58
+    place:Hooge (68,59)
+    time:0515AM (7,61)
+    place:Hooge (19,61)
+    activity:fire (69,63)
+    place:Geluvelt (56,64)
+    time:0200PM (29,65)
+    reference:Casuality List (81,68)
+    unit:Rhg (31,74)
+  3 Nov 1914 75
+    time:0600PM (31,77)
+    place:Zillebeke (57,77)
+    time:0600AM (8,80)
+    place:Zillebeke (20,80)
+    activity:movement (39,81)
+    place:Verbranden (68,82)
+    time:0600PM (43,84)
+    place:Verbranden Molen (68,86)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD00003zy  ----------
+  Hashtags: #French 
+  3 Nov 1914 0
+    unit:4 (Guards) Brigade (25,12)
+    reference:Verbrandenmolen, Belgium, November 4th 1915: Later turned out to support 4th Guards brigade. Just as setting up was completed, this order was cancelled, 4th brigade having sucessfuly repulsed enemy's attack. (20,12)
+    reference:Verbrandenmolen, Belgium, November 4th 1915: Brigade moved to same position of readiness as was notified previous day. It's services were not called for during the day, and at 18:00 returned to same billets.  (19,26)
+  4 Nov 1914 27
+    unit:4 Guards Batallion (50,30)
+    unit:4 guards Brigade (50,30)
+    place:Verbranden Molen (18,31)
+    time:0100AM (7,31)
+    reference:Verbrandenmolen, Belgium, November 5th 1915: The programme of November 4th was repeated again, without incident. 17:30 brigade returned to same billets. lieutenant The Honourable E.A. Fitzroy and 30 other ranks joined from base. (19,33)
+    activity:enemy_activity (48,39)
+    time:0600AM (8,41)
+    reference:Verbrandenmolen, Belgium, November 6th 1915: Brigade moved to same position as before. (18,41)
+    unit:The French (26,48)
+    unit:2 Life Guards (41,48)
+    unit:Royal Horse Guards (43,48)
+    reference:Verbrandenmolen, Belgium, November 6th 1915: 4th (Guards) brigade asked for support, some French in (repudiation?) of some of the trenches in brigade line, having retired and let enemy through a quarter of a mile East of Zwarteleen. Regiment dismounted for action half a mile south of line 'E' in Zillebeke, and advanced on road moving through forest East of Zwarteleen. 2nd Life guards were on right and Royal Horse Guards in support in woods on left. Regiment attacked with 'D' squadron on left, two troops of 'A' squadron (cont.)  (20,48)
+  5 Nov 1914 50
+    time:0600AM (7,54)
+    person:Lieutenant E A Fitzroy (other) (56,59)
+  6 Nov 1914 67
+    time:0600AM (7,63)
+    time:0315PM (7,67)
+    unit:4 Guards Batallion (29,68)
+    place:Zwarteleen (32,76)
+    place:Zwarteleen (62,84)
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD00003x1  ----------
+  Hashtags: #badscan #should #bad 
+  6 Nov 1914 0
+    reference:Verbrandenmolen, Belgium, November 6th 1915: 4th (Guards) brigade asked for support, some French in (repudiation?) of some of the trenches in brigade line, having retired and let enemy through a quarter of a mile East of Zwarteleen. Regiment dismounted for action half a mile south of line 'E' in Zillebeke, and advanced on road moving through forest East of Zwarteleen. 2nd Life guards were on right and Royal Horse Guards in support in woods on left. Regiment attacked with 'D' squadron on left, two troops of 'A' squadron on right, and 2 troops of 'A'squadron in support. machine Gun section in reserve. The wooded nature of the country not lending itself to the successful employment of Machine Guns in the advance. The advance was sucessfully carried out on left, (accomplished?) to within 150 yards of (?) of road through forest. 'E' on (the 'E' in ) "Zwarteleen' (on map). the right did not advance quite so far. Great difficulty was experienced by all units in keeping (in) touch with troops on either side. This was due to the deeply wooded nature of the country. 'D' squadron sucessfully proceeded to reach to South edge of wood by machine gun fire. At (16:00?) 3rd Infantry brigade arrived to relieve the brigade on this line. Gloucester regiment retained four sections successfully. 1st Life Guards and 2nd Life guards then proceeded forwards to reach to (?) accompanied by 2nd Life Guards. Regiment remained in (?) of (?) then advanced at 02:30. Casualty list attached. B.R. 5.    (22,17)
+    unit:3 infantry Brigade (40,18)
+    unit:Gloucester Regiment (43,18)
+    place:Zwarteleen (55,49)
+    activity:fire (32,74)
+    reference:Casualty List (81,77)
+    reference:BR 5 (76,81)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD00003xu  ----------
+  6 Nov 1914 0
+    reference:Zwarteleen, Ypres, Belgium, November 7th 1914 (cont.)  2 Corps Royal Sussex regiment , 2 Corps Royal Munster fusiliers and a few sections of Irish Guards. Casualty list attached. (23,14)
+    unit:2 Corps Royal Sussex Regiment (29,14)
+    unit:2 Corps Royal Munster fusiliers (31,14)
+    unit:Irish Guards (34,14)
+    unit:1 Corps (40,24)
+    reference:Quarter of a mile North of Verbrandenmolen, Ypres, Belgium, November 7th 1914 (location is described as "north of the second 'R' in 'Verbrandenmolen' (on the map)): Regiment rejoined brigade and bivouacked. (At) 05:30 brigade moved to (a) position of readiness to support infantry attack to recover ground lost previous day at Klein Zillebeke. Request permitted to remain in bivouac ready to move in view of late return from finishing duties. At 08:00 brigade detailed to move up. Infantry attack, heavy, proved successful. Attached messages from 1st Corps and commander in chief received. B.R. 7. Brigade moved to billets around Veriloren Hoek. Brigade remained in billets all day.  Lieutenant the Honourable C.A. Fellowes, Reserve officers Life Guards; Second lieutenant Hallswell, Reserve officers 13th Hussars; and 31 other ranks joined from the base.  (21,25)
+    unit:Royal Sussex Regiment (36,30)
+    unit:Royal Munster Fusiliers (58,30)
+    unit:Sussex Reg (40,30)
+  7 Nov 1914 34
+    reference:Casualty List Attached (80,34)
+    unit:Irish Guards (32,34)
+    reference:Casualty List (81,35)
+    place:Verbranden Molen (16,42)
+    time:0530AM (28,44)
+    activity:movement (36,44)
+    place:Klein Zillebeke (57,50)
+    time:0800AM (29,62)
+    reference:B R 7 (78,65)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD00003xe  ----------
+  7 Nov 1914 0
+    unit:3 Dragoon Guards (27,16)
+    reference:Verlorenhoek, Ypres, Belgium, November 9th 1914: Regiment found 150 men for trenches at Zwarteleen (to) relieve 3rd Dragoon Guards.  (17,16)
+    unit:1 Royal Dragoons (25,23)
+  9 Nov 1914 24
+    reference:Verlorenhoek, Ypres, Belgium, November 10th 1914: Above party returned to billets having been relieved by 1st Royal Dragoons in trenches.   (17,24)
+  11 Nov 1914 41
+    unit:1 Royal Dragoon Guards (69,28)
+    place:Zwarteleen (54,29)
+    reference:Verlorenhoek, Ypres, Belgium, November 11th 1914: Brigade turned out to support line East of Hooge, which was reported to have been pierced by enemy. Services of brigade were, however, not required; and at 14:30 returned to billets. Lieutenant Lord Somers returned to Base, sick. (16,30)
+    time:0430PM (7,30)
+    place:Verloren Hoek (19,30)
+  10 Nov 1914 34
+    unit:Royal Royal Dragoons (61,35)
+    unit:Household Cavalry (21,36)
+    unit:4 Cavalry Brigade (23,36)
+    unit:1 Royal Dragoon Guards (65,36)
+    reference:Verlorenhoek, Ypres, Belgium, November 11th 1914: Head quarters and 1st Life Guards squadron belonging to composite regiment of Household Cavalry, hitherto forming part of 4th cavalry brigade, joined regiment on absorption, Personnel attached. B.M.4. Corporate squadron in future mustered as 'B' squadron.  (16,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (60,37)
+    place:Verloren Hoek (19,37)
+    time:1030PM (7,38)
+  11 Nov 1914 41
+    unit:1 Division (22,43)
+    reference:Verlorenhoek, Ypres, Belgium, November 11th 1914: Brigade turned out and moved to position of readiness on South of Bellewarde Farm to support counter attack by 1st Divsion to rejoin line of trenches lost earlier in afternoon, from south-west corner of Polygone de Zonnebeke to 'V' in 'Veldhoek' (in map). 22:00: Brigade returned to billetswith orders to be ready to move at any moment during the night.  (16,43)
+    time:1100AM (7,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (43,49)
+    person:Lieutenant Somers (departed_sick) (36,49)
+    reference:Verlorenhoek, Ypres, Belgium, November 12th 1914: Regiment turned out dismounted and proceeded to Hooge to receive orders from General Officer Commanding 1st division. Remaineder of brigade ordered to turn out mounted at 04:00 and rendezvous at same place.  (16,50)
+    unit:1 Life Guards (32,52)
+    time:0300PM (7,54)
+    reference:B M 4 (76,56)
+    reference:Hoge, Ypres, Belgium, November 12th 1914: In accordance with verbal orders received from General officer commanding 1st division, 'D' Squadron sent forward (cont.), (15,57)
+    activity:movement (29,59)
+    reference:B Squadron (83,61)
+    place:Bellewarde Farm (62,61)
+    time:0500PM (7,64)
+    time:1000PM (28,73)
+  12 Nov 1914 75
+    time:0100AM (6,79)
+    place:Hooge (52,79)
+    time:0400AM (58,82)
+    reference:502 (92,89)
+    place:Hooge (19,90)
+    time:0400AM (7,91)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD00003wl  ----------
+  12 Nov 1914 0
+    reference:Hoge, Ypres, Belgium, November 12th 1914: In accordance with verbal orders received from General officer commanding 1st division, 'D' Squadron sent forward to line of reserve trenches East of Hooge Chateau. Remaining 2 squadrons were ordered to extend (line?) behind trenches occupied by (the) Gloucesters along West edge of square B15 to be ready to support counter attack from Sout West corner of Polygone de Zennbeke. On arrival on this line Commanding Officer reported to General officer Commanding 1st Division brigade at Verbeck Farm, who recommended that the two squadrons should be moved into dug outs at South East corner of Nonnebossen , as if they remained in their present exposed position they would probably suffer very heavily from shell fire. This move was carried out just before dawn, and 'D' squadron also moved up to same dug outs. 1st brigade then retired to Hooge. At noon, regiment was relieved by Queens Dragoons and returned to billets. Captain the Honourable  C.C. Fellowes returned to base sick. Company Quarter master W. Garton returned to base sick having been relieved by Company Quarter master C. Yeatman, 1st Life Guards. Reliefs for trenches supplied in accordance with B.M. 16. Expected attack mention in B.M. 14 had not developed and brigade had not had to turn out. Casualty list attached. (26,13)
+    unit:The Gloucestershire Regiment (38,13)
+    unit:Queens Dragoons (57,13)
+    unit:Gloulesters (38,35)
+    unit:Gloucs (64,35)
+    place:Polygone de Zonnebeke (57,41)
+    activity:movement (38,44)
+    place:Verbeek Farm (68,46)
+    place:Nonne Bosschen (38,52)
+    place:Hooge (43,68)
+  13 Nov 1914 69
+    time:1200PM (29,71)
+    place:Verloren Hoek (15,74)
+    person:Captain C C Fellowes (36,75)
+    person:Quarter Master Sergeant W Garton (33,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,85)
+    reference:BM. 16 (79,86)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD00003yw  ----------
+  13 Nov 1914 0
+    reference:Verlorenhoek, Ypres, Belgium, November 14th 1914: Reliefs of trenches carried out in accordance with B.M.19. 'B' squadron and one troop of 'A' (squadron) were changed from support trenches.  (22,19)
+  15 Nov 1914 36
+    unit:North Somerset yeomanry (43,26)
+    reference:Zwarteleen, Ypres, Belgium, November 15th 1914: In trenches all day. Position was shelled with 100pk explosive shells for 1 and a half hours in morning. No training was done. About 15:00 second Lieutenant H.B. St. George reported to Headquarters from advanced trenches and reported that men pressed to retain disputed  trenches at edge of wood at 'Z' in 'Zwarteleen' (on map). No  (?) thought to be time to after very heavy shell fire . (?) had been brought to bear on this earlier, by one of our batteries in position somewhere between edge of the square K.17 C. On setting out to return to base trenches, Second lieutenant St. George was shot. Killed  by a sniper apparently posted in a house on Zillebeke - Klein Zillebeke road.  Other casualties as per attached list, all missed boys. Report and casualty list (attached). At 19:00 regiment was relieved by 3rd Dragoon Guards and North Somerset yeomanry and returned to billets at Verlorenhoek. (16,27)
+    unit:3d Dragoon Guards (41,27)
+  14 Nov 1914 29
+    reference:BM. 19 (77,29)
+    place:Verloren Hoek (17,31)
+    time:0500PM (7,31)
+  15 Nov 1914 36
+    activity:fire (55,38)
+    place:Zwarteleen (17,39)
+    person:Second Lieutenant H B Saint George (other) (40,47)
+    time:0300PM (32,48)
+    place:Zwarteleen (47,54)
+    person:Second Lieutenant H B Saint George (casualty_kia) (56,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,82)
+    unit:Somerset (58,85)
+    unit:North Somerset Yeomanry (58,86)
+    time:0700PM (30,87)
+    unit:3 Dragoon Guards (50,87)
+    place:Verloren (36,91)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD00003yb  ----------
+  16 Nov 1914 19
+    reference:Verlorenhoek, Ypres, Belgium, November 16th 1914: The regiment remained in billets. At 17:00 350 rifles marched out as ordered in B.R. 25. (18,20)
+    reference:Verlorenhoek, Ypres, Belgium, November 17th 1914: Regiment remained in billets till 12:30. At 12:30 marched in accordance with B.M.8. to Begursburg (J.2.a). Rifles for trenches as per B.M.1 were ordered to parade mounted as soon as billets at Begersburg had been occupied. Just as brigade was following order as charges, and rifles found by 1st Life Guards marched dismounted to dug outs occcupied during night of 16th - 17th (November), to act as Corps reserve. B.R.28, B.M.8, B.M.1 (17,27)
+    activity:resting (42,29)
+    unit:350 Rifles (59,30)
+    time:0500PM (53,31)
+    place:Verloren Hoek (19,31)
+    reference:BR 25 (76,35)
+  17 Nov 1914 36
+    activity:resting (40,39)
+    time:1230PM (52,40)
+    reference:BR 28 (77,42)
+    reference:Begersburg Ypres, Belgium, November 18th 1914: Regiment remained in Corps Reserve. 'D' squadron in farm at 'C' in 'Chemin' (in map). (18,42)
+    place:Begersburg (65,45)
+    reference:BM 8 (77,46)
+    reference:BM 1 (76,49)
+    reference:Begersburg Ypres, Belgium, November 19th 1914: Brigade found rifles for trenches as per B.R. 43. Regiment marched to trenches from dug outs at 17:00. B.R. 43. (15,52)
+    reference:Zwarteleen, Ypres, Belgium, November 20th 1914: Trenches were shelled both morning and afternoon, in sufficient tonnage to necessitate the evacuation of those on right under command of Captain Hamilton-Stubber. One each of the two occasions during the day on which this section was (cont.) (21,59)
+  18 Nov 1914 63
+  19 Nov 1914 73
+    reference:BR 43 (77,75)
+    time:0500PM (61,77)
+  20 Nov 1914 80
+    place:Zwarteleen (18,81)
+    activity:fire (43,82)
+    person:Hamilton Stubber (other) (48,89)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD00003wh  ----------
+  20 Nov 1914 47
+    unit:2 battalion 142 French Infantry (36,15)
+    reference:Zwarteleen, Ypres, Belgium, November 20th 1914: Trenches were shelled both morning and afternoon, in sufficient tonnage to necessitate the evacuation of those on right under command of Captain Hamilton-Stubber. One each of the two occasions during the day on which this section was forced to leave the trenches, they took shelter in the trenches occupied by 2nd battalion 142nd French Infantry, South of Zillebeke - Klein Zillebeke road. On both occasions they re-occupied the damaged section at the conclusion of the bombardment. No movement on the part of the enemy was observed during the day. B.M.6, casualty list (attached) (21,15)
+    unit:142 French Infantry (30,31)
+    reference:Zwarteleen, Ypres, Belgium, November 20th 1914: Brigade was relieved in the trenches by a battalion of 142 French infantry. Regiment returned to billets.B.M.6, B.R.43 and 49. (17,32)
+    place:Zillebeke (56,33)
+    unit:142 French Infantry (39,34)
+    reference:BM 6 (77,46)
+    reference:Begesburg, Ypres, Belgium, November 21st 1914: Orders for march attached. Brigade marched to new billeting area to rest and refit. On arrival at Westouke after a march constantly delayed by crowded state of roads orders were received that the billeting area had been changed. Regiment formally billeted at 21:00 at La kreule and in surrounding farms.   (16,46)
+    place:Zwarteleen (19,50)
+    time:0800PM (6,50)
+    unit:142 French Infantry (59,53)
+    reference:BM 6 (75,53)
+    reference:BR 43 (78,57)
+    reference:BR 49 (81,57)
+  21 Nov 1914 58
+    reference:BR 47 (77,61)
+    reference:La Kreule, Belgium, November 22nd 1914: B.R.57 attached. (13,64)
+    reference:La Kreule, Belgium, November 25th 1914: His Royal Highness the Prince of Wales visited the regiment. Regiment remained in billets at La Kreule until the end of the month. (12,71)
+    reference:Prince of Wales visited (65,80)
+  22 Nov 1914 82
+    reference:BR 57 (79,84)
+    place:La kreule (17,86)
+    place:La kreule (49,92)
+Page 28 (type cover)
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD00003yz  ----------
+  22 Nov 1914 0
+    reference:Year unknown (13,26)
+  1 Dec 1914 28
+    person:Major A F Stanley (award) (46,39)
+    person:other J Fleming (award) (44,48)
+    person:other J Baillie (award) (43,52)
+    person:Corporal E Beach (award) (42,55)
+    person:R Lewis (award) (39,57)
+    unit:1 Life Guards (40,58)
+  2 Dec 1914 61
+    person:Captain J J Astor (31,61)
+    place:Hazebrouck (58,63)
+    domestic:inspections (36,64)
+    person:other George H M The King (other) (31,64)
+    activity:movement (35,66)
+  7 Dec 1914 68
+    reference:BM3 (89,73)
+  14 Dec 1914 74
+    reference:BM 3 (77,74)
+    place:Wytschaete (66,75)
+    activity:movement (33,75)
+    place:Scherpenberg (57,80)
+    time:0200PM (66,80)
+    place:Berthem (49,91)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD00003wi  ----------
+  14 Dec 1914 0
+    reference:Year unknown (7,23)
+  15 Dec 1914 26
+    reference:BM 5 (75,29)
+    activity:resting (32,29)
+    place:Berthem (15,30)
+  16 Dec 1914 32
+    reference:American billets (39,33)
+    place:Ebblinghem (18,35)
+Page 31 (type cover)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD00003yo  ----------
+  1 Jan 1915 26
+    place:Ebblinghem (35,33)
+    place:Ebblinghem (41,35)
+    place:Wallooncapelle (54,36)
+    activity:training (52,44)
+    person:Lieutenant C Waterhouse (other) (54,59)
+    person:Lieutenant W R Portal (joined) (36,64)
+  27 Jan 1915 70
+    person:Field Marshal (other) (46,73)
+Page 33 (type cover)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD00003xj  ----------
+  1 Feb 1915 28
+    place:Ebblinghem (20,32)
+  3 Feb 1915 36
+    unit:3 Cavalry Division (34,38)
+    time:0200PM (15,39)
+    activity:movement (64,40)
+    place:Ypres (33,42)
+    reference:Regimental Orders (86,43)
+    place:Ypres (62,47)
+    place:Menin (67,47)
+    place:Ypres (46,48)
+    place:Zonnebeke (54,48)
+    unit:Royal Horse Guards (71,48)
+    place:Zillebeke (63,53)
+    activity:movement (51,53)
+    place:Zwarteleen (74,57)
+    activity:line (31,59)
+    unit:Essex (47,60)
+    unit:Royal Horse guards (27,61)
+    unit:Leics (71,61)
+    unit:Royal Horse Guards (38,62)
+    unit:Leicestershire Yeomanry (33,66)
+    unit:2 Life Guards (74,68)
+    unit:Essex Yeomanry (38,70)
+    unit:Squadron essex yeomanry (39,71)
+    unit:Squadron 2 life guards (70,71)
+    activity:strength (66,72)
+    unit:18 French (55,81)
+    unit:18 French Division (61,82)
+Page 35 (type diary) http://wd3.herokuapp.com/pages/AWD00003z4  ----------
+  3 Feb 1915 0
+    unit:B Squadron (28,42)
+    activity:enemy_activity (48,47)
+  6 Feb 1915 52
+    unit:1 Royal Dragoons (30,59)
+  8 Feb 1915 81
+    reference:BM F8 (77,84)
+    reference:BM 86 (29,87)
+    unit:1 Royal Dragoons (70,89)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD00003za  ----------
+  8 Feb 1915 0
+    place:Ypres (45,29)
+  11 Feb 1915 31
+    place:Ypres (18,34)
+    time:0830PM (55,37)
+    place:Ypres (29,37)
+    reference:Enemy shelling town (43,41)
+    activity:fire (34,42)
+    reference:House shelled and casualties (46,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded:  (64,55)
+  12 Feb 1915 60
+    reference:BM 100 (79,63)
+    place:Ypres (17,63)
+    unit:2 Cavalry Division (55,66)
+    place:Ebblinghem (32,67)
+    unit:4 Cavalry Brigade (35,76)
+    place:Ebblinghem (51,84)
+Page 37 (type diary) http://wd3.herokuapp.com/pages/AWD00003y6  ----------
+  19 Feb 1915 27
+    place:Ebblinghem (17,33)
+    place:Ypres (56,43)
+    place:Armentieres (66,45)
+  17 Feb 1915 47
+    reference:The London Gazette (41,49)
+    person:Major A F Stanley (award) (43,56)
+    person:Captain H W Grosvenor (award) (43,59)
+    person:Captain L H Wardy (award) (42,63)
+    person:Captain E H Wyndham (award) (44,66)
+    person:Sergeant J Roantree (award) (43,69)
+    person:Corporal F Lidster (award) (41,73)
+    person:Trooper G Swain (award) (43,76)
+    person:Trooper S Whittaker (award) (43,80)
+    person:Captain E S Wyndham (award) (43,89)
+    person:Lieutenant A L E Smith (award) (42,93)
+Page 38 (type diary) http://wd3.herokuapp.com/pages/AWD00003wn  ----------
+  17 Feb 1915 0
+    person:Corporal A Fabray (award) (62,44)
+    person:Corporal A Fabray (award) (43,46)
+    person:Trooper H Hayden (award) (61,48)
+    person:Trooper H Hayden (award) (43,50)
+    person:Trooper S Clements (award) (43,53)
+    person:Private A Hibberd (award) (62,55)
+  23 Feb 1915 56
+    person:Private A Hibberd (award) (43,56)
+    place:Ebblinghem (16,59)
+    reference:Looking after the horses (40,63)
+    unit:1 Cavalry Division (59,63)
+    place:Zillebeke (51,66)
+    place:Berthen (38,70)
+    person:Major F Carden (other) (67,71)
+  24 Feb 1915 72
+    place:La Belle Hotesse (52,79)
+  25 Feb 1915 87
+Page 39 (type diary) http://wd3.herokuapp.com/pages/AWD00003zf  ----------
+  26 Feb 1915 28
+    domestic:inspections (39,30)
+    place:Ebblinghem (18,30)
+  28 Feb 1915 37
+    activity:strength (33,41)
+Page 40 (type cover)
+Page 41 (type diary) http://wd3.herokuapp.com/pages/AWD00003yv  ----------
+  9 Mar 1915 28
+    person:Major F Carden (other) (71,29)
+    place:Ebblinghem (18,31)
+    unit:1 Cavalry Division (61,34)
+  10 Mar 1915 41
+    reference:BM 3 (76,44)
+    unit:First Army (52,47)
+    reference:1st Army order (85,51)
+  11 Mar 1915 54
+    activity:movement (36,57)
+    reference:BM 9 (77,58)
+    place:La Motte (34,61)
+    place:La Motte (21,65)
+    place:Arrewage (58,66)
+    time:0400PM (7,67)
+  12 Mar 1915 68
+    reference:A2 (76,71)
+    time:0530AM (7,72)
+    place:Arrewage (20,73)
+  13 Mar 1915 76
+    reference:BM 10 (77,78)
+    time:0600AM (8,79)
+    reference:BM 11 (77,82)
+    reference:BM 12 (80,82)
+    reference:BM11 (81,83)
+    person:Lieutenant R V Sutton (joined) (48,86)
+    person:Second Lieutenant C E Trafford (joined) (64,86)
+Page 42 (type diary) http://wd3.herokuapp.com/pages/AWD00003z1  ----------
+  13 Mar 1915 29
+    reference:BM 14 (76,29)
+    activity:movement (36,29)
+    place:Arrowage (67,30)
+    time:0630PM (9,31)
+    place:Arrowage (21,31)
+    unit:12 Lancers (43,33)
+  14 Mar 1915 47
+    reference:BM 15 (76,50)
+    place:Ebblinghem (20,50)
+  15 Mar 1915 52
+    reference:BM 18 (76,55)
+    time:1030AM (63,55)
+    place:Ebblinghem (19,56)
+    activity:movement (54,57)
+  16 Mar 1915 66
+    unit:27 Division (46,66)
+    place:Saint Eloi (58,66)
+    place:Ebblinghem (18,69)
+    time:0630AM (71,71)
+    time:1030AM (32,80)
+  17 Mar 1915 85
+    place:Ebblinghem (18,86)
+Page 43 (type diary) http://wd3.herokuapp.com/pages/AWD0000403  ----------
+  18 Mar 1915 28
+  31 Mar 1915 30
+    place:Ebblinghem (19,31)
+    person:Second Lieutenant C E Trafford (joined) (59,43)
+    person:Second Lieutenant C E Trafford (joined) (45,44)
+    person:Captain R V Sutton (joined) (46,49)
+  13 Mar 1915 52
+    person:Lieutenant G Drummond (joined) (63,52)
+    person:Lieutenant G Drummond (joined) (46,53)
+    person:Second Lieutenant R G Thynne (joined) (46,57)
+    person:Second Lieutenant De Salis (joined) (51,60)
+  22 Mar 1915 67
+    person:Captain Clowes (departed_sick) (55,76)
+  15 Mar 1915 78
+    person:Captain Saint G Clowes (departed_sick) (44,78)
+    person:Lieutenant H H Aldridge (departed_sick) (46,81)
+    person:Second Lieutenant T Nottidge (departed_sick) (50,84)
+  26 Mar 1915 88
+    person:Second Lieutenant R G Thynne (departed_sick) (54,88)
+Page 44 (type cover)
+Page 45 (type diary) http://wd3.herokuapp.com/pages/AWD00003xd  ----------
+  11 Apr 1915 29
+    activity:quiet (30,29)
+    place:Ebblinghem (18,30)
+  12 Apr 1915 32
+    activity:movement (36,34)
+    place:Renescure (29,39)
+  19 Apr 1915 43
+    person:Major General C T Kavanagh (other) (35,46)
+    unit:2 Cavalry Division (35,49)
+    person:Major General Kavanagh (departed_posted) (64,54)
+    unit:7 Cavalry Brigade (47,55)
+    domestic:other (41,57)
+  23 Apr 1915 71
+    place:Le Brearde (69,72)
+    activity:movement (43,73)
+    place:Les Cinq Rues (55,73)
+    time:0115PM (30,74)
+    place:Abeele (66,76)
+    place:Godewaersvelde (40,77)
+    place:Caestre (28,78)
+    place:Langemarck (58,83)
+    place:Godewaersvelde (51,87)
+    time:0900PM (30,89)
+  24 Apr 1915 90
+    place:Godewaersvelde (19,91)
+    place:Boeschepe (46,91)
+    place:Reninghelst (54,91)
+    time:0800AM (7,92)
+Page 46 (type diary) http://wd3.herokuapp.com/pages/AWD00003zi  ----------
+  24 Apr 1915 0
+  25 Apr 1915 35
+    time:0830AM (7,38)
+    place:Inn (20,39)
+    reference:BM 3 (74,40)
+    activity:movement (36,40)
+    time:0100PM (32,43)
+    place:Hamhoek (62,43)
+    place:Poperinghe (50,44)
+  26 Apr 1915 48
+    time:0600PM (31,48)
+    place:Watou (20,51)
+    place:Winnezeele (63,51)
+    activity:movement (34,51)
+    time:0600AM (7,53)
+    activity:movement (35,57)
+    time:0700PM (30,58)
+    activity:strength (56,62)
+  27 Apr 1915 63
+    place:Vlamertinghe (44,65)
+    place:Vlamertinghe (19,68)
+    place:Vlamertinghe (58,69)
+    activity:fire (66,70)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 1 (35,74)
+    person:Corporal W Clay (casualty_kia) (59,75)
+    person:Corporal G McFeeley (casualty_kia) (68,79)
+    person:R W Westley (casualty_kia) (52,80)
+    person:Trooper R W Westley (casualty_kia) (65,81)
+    person:Trooper E McCullen (casualty_wounded) (62,84)
+    activity:movement (45,88)
+Page 47 (type diary) http://wd3.herokuapp.com/pages/AWD00003wq  ----------
+  28 Apr 1915 27
+    activity:movement (36,30)
+    place:Vlamertingue (22,31)
+    time:0200PM (8,32)
+    place:Abeele (46,34)
+  29 Apr 1915 35
+    time:0830AM (7,38)
+    reference:BM 11 (76,38)
+    place:Forge (22,38)
+  30 Apr 1915 41
+    reference:BM 12 (76,42)
+Page 48 (type cover)
+Page 49 (type diary) http://wd3.herokuapp.com/pages/AWD00003x0  ----------
+  1 May 1915 15
+    reference:Forge near Poperinge, Belgium, May 1st 1915: Response of two previous days repeated. (18,16)
+    reference:Forge near Poperinge, Belgium, May 2nd 1915: After spending the day at Forge, billeted at St. Jan. ter-Biezen. (16,23)
+    reference:Sint-Jan-ter-Biezen, Poperinge, Belgium, May 3rd 1915: Brigade marched in accordance with B.M. 19. Just as the march started, it was recalled and marched to Vlamertinghe which was reached nightfall. Here the horses were left and 13 officers and about 260 other ranks marched to a point resting between Poperinge and Ypres. (18,28)
+    place:Forge (21,30)
+    reference:Vlamertinghe, Belgium, May 4th 1915: After waiting here till 06:00, returned to the horses and marched to men mentioned in B.M. 19 above. (19,36)
+    activity:movement (31,37)
+    reference:BM 19 (76,39)
+    reference:Between Poperinge and Ypres, Belgium, May 5th 1915: Remained in billets all day, Position: half a mile West of the 'H' in 'Herzeele' (in map). working party under command of Captain E. Hely formed in accordance with B.M. 21.  (15,44)
+    reference:Between Poperinge and Ypres, Belgium, May 6th 1915: Brigadier General A.A, Kennedy took over command of the brigade. Remained in billets all day. Working party returned from Ypres in early morning. (16,51)
+    place:Ypres (63,51)
+    place:Poperinghe (55,52)
+    place:Vlamertingre (19,56)
+    reference:Between Poperinge and Ypres, Belgium, May 7th 1915: Marched back to approximately road billeting over near Ebblinghem. B.M. 22. (19,59)
+    reference:Ebblinghem near Ypres, Belgium, May 8th 1915: One hour's notice to turn out received, ditto 3 hours.  (15,66)
+    place:Herzeele (19,66)
+    person:Captain E Hely (other) (55,67)
+    reference:BM 21 (77,69)
+    person:Brigadier General A A Kennedy (other) (40,74)
+    place:Ypres (69,79)
+    reference:BM 22 (77,87)
+  8 May 1915 88
+    place:Ebblinghem (69,88)
+    place:Ebblinghem (18,90)
+Page 50 (type diary) http://wd3.herokuapp.com/pages/AWD00003xt  ----------
+  8 May 1915 0
+    reference:Ebblinghem, Nord, France, May 9th 1915: Regiment moved in accordance with B.M.26. On arrival at Vlamertinghe it occupied huts between the former and Brielen. Digging party was found in accordance with B.M.29 to dig on line of the fence running along Ypres road.   (22,14)
+    reference:Vlamertinghe, Belgium, May 10th 1915: Remained all day in huts. (17,22)
+    reference:BM 28 (78,26)
+  9 May 1915 27
+    reference:Vlamertinghe, Belgium, May 11th 1915: Following officers proceeded to take over trenches in accordance with B.M.37: Lieutenant H. Hulton-Harrop, Lieutenant G.H. Drummond, Second Lieutenant J.S. Woolley.  (16,27)
+    reference:BM26 (51,30)
+    activity:movement (31,31)
+    place:Ebblinghem (20,32)
+    place:Brielen (72,32)
+    time:1200PM (8,33)
+    place:Vlamertinghe (39,35)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (33,37)
+    reference:Vlamertinghe, Belgium, May 12th 1915: Regiment took over trenches in accordance with attached Base orders. 6 other ranks joined 'B' squadron from (divisional?) Base orders.. The line taken over was not that mentioned in B.M.37 above, but further north at Verlorenhoek. regiment relieved a battalion of East Surrey regiment. On taking over, news was received that Lieutenant H. Hulton-Harrop had been killed in the trenches during the day, just as the relief was completed. Second Liuetenant J.S.Woolley was wounded. Following officers were in trenches the night of 12-13th: Lieutenant Colonel the honourable A.R. Stanley D.S.O; Captain G.E.M. Mundy. (17,37)
+    unit:East Surrey Regiment (25,37)
+    person:Lieutenant H Hulton-Harrop (casualty_kia) (29,38)
+    reference:BM29 (59,38)
+    reference:BM 29 (77,41)
+    place:Ypres (44,42)
+  10 May 1915 44
+    reference:BM 37 (78,50)
+    place:Vlamertinghe (19,50)
+  11 May 1915 51
+    reference:BM37 (39,56)
+    person:Lieutenant H Hulton-Harrop (other) (53,57)
+    person:Lieutenant G H Drummond (other) (54,61)
+  12 May 1915 63
+    person:Second Lieutenant J S Woolley (other) (53,64)
+    reference:BM37 (61,71)
+    unit:East Surrey Regiment (68,74)
+    place:Verloren Hoek (40,75)
+    person:Lieutenant H Hulton-Harrop (casualty_kia) (60,78)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (48,82)
+    person:Second Lieutenant J S Woolley (casualty_wounded) (34,85)
+    person:Lieutenant Colonel Stanley (other) (64,90)
+    person:Lieutenant Colonel Stanley (other) (49,91)
+    person:Captain G E M Mundy (other) (56,94)
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD00003wy  ----------
+  12 May 1915 0
+    reference:Vlamertinghe, Belgium, May 13th 1915: Regiment took over trenches in accordance with attached Base orders. 6 other ranks joined 'B' squadron from (divisional?) Base orders.. The line taken over was not that mentioned in B.M.37 above, but further north at Verlorenhoek. regiment relieved a battalion of East Surrey regiment. On taking over, news was received that Lieutenant H. Hulton-Harrop had been killed in the trenches during the day, just as the relief was completed. Second Liuetenant J.S.Woolley was wounded. Following officers were in trenches the night of 12-13th: Lieutenant Colonel the honourable A.R. Stanley D.S.O; Captain G.E.M. Mundy, Captain J.J. Astor; Captain R. Hamilton-Stubber; Captain and Adjutant the Honourable E.N. Wyndham; Captain Sir R.V. Sutton; Lieutenant G.H. Drummond; Second Lieutenant M. Seton-Karr; Second Lieutenant J.S. Woolley; Second Lieutenant T.R. Robson; Second Lieutenant S.C. Bostock; Surg. Lieutenant E.D. anderson. The left of the the position occupied by the regiment rested on the Ypres- Zonnebeke road and was some 150 yards in advance of the front trenches occupied by the Queens (RWS) on the north of the road. This was a  source of weakness, as the line could be infiltrated from some houses just past north of the road, which it was not easy to deny to the enemy - and they advance(d). Ths section of the line was occupied by 'B' squadron with 'D' squadron and headquarters in support trench 50 yards in rear. When regiment (cont.)  (26,18)
+    unit:Queens (Royal West Surrey) Regiment (57,19)
+    person:Captain J J Astor (other) (49,29)
+    person:Captain R Hamilton-Stubber (other) (47,34)
+    person:Captain E H Wyndham (other) (45,38)
+    person:Captain R V Sutton (other) (46,42)
+    person:Lieutenant G H Drummond (other) (47,45)
+    person:Second Lieutenant M Seton-Karr (other) (45,48)
+    person:Second Lieutenant J S Woolley (other) (47,52)
+    person:Second Lieutenant T K Robson (other) (47,55)
+    person:Second Lieutenant S C Bostock (other) (50,58)
+    person:E D Anderson (other) (47,63)
+    place:Ypres-Zonnebeke (33,70)
+    place:Zonnebeke (36,71)
+    place:Ypres (30,72)
+    unit:Queens Bay (46,73)
+    unit:B squadron and d squadron (51,83)
+    unit:B Squadron (60,86)
+    unit:D Squadron (71,87)
+Page 52 (type diary) http://wd3.herokuapp.com/pages/AWD00003yy  ----------
+  Hashtags: #flammenwerfen 
+  12 May 1915 0
+    reference:Vlamertinghe, Belgium, May 13th 1915: Regiment took over trenches in accordance with attached Base orders. 6 other ranks joined 'B' squadron from (divisional?) Base orders.. The line taken over was not that mentioned in B.M.37 above, but further north at Verlorenhoek. regiment relieved a battalion of East Surrey regiment. On taking over, news was received that Lieutenant H. Hulton-Harrop had been killed in the trenches during the day, just as the relief was completed. Second Liuetenant J.S.Woolley was wounded. Following officers were in trenches the night of 12-13th: Lieutenant Colonel the honourable A.R. Stanley D.S.O; Captain G.E.M. Mundy, Captain J.J. Astor; Captain R. Hamilton-Stubber; Captain and Adjutant the Honourable E.N. Wyndham; Captain Sir R.V. Sutton; Lieutenant G.H. Drummond; Second Lieutenant M. Seton-Karr; Second Lieutenant J.S. Woolley; Second Lieutenant T.R. Robson; Second Lieutenant S.C. Bostock; Surg. Lieutenant E.D. anderson. The left of the the position occupied by the regiment rested on the Ypres- Zonnebeke road and was some 150 yards in advance of the front trenches occupied by the Queens (RWS) on the north of the road. This was a  source of weakness, as the line could be infiltrated from some houses just past north of the road, which it was not easy to deny to the enemy - and they advance(d). Ths section of the line was occupied by 'B' squadron with 'D' squadron and headquarters in support trench 50 yards in rear. When regiment took over these two trenches were not joined by a communicating trench. This however was dug through the night. On the right of 'B' squadron was a gap in th line of some 150 yards in which a farm was situated. South of the fam was 'A' squadron, joinin gon the right with 2nd Life guards. One Machine Gun under Second Lieutenant Bostock was posted in 'B' squadron trench, the other with 20 men of 'A' squadron under Second Lieutenant M. Seton-Karr was posted on a farm 300 yards in rear of the position, to form a 'point l'affirm'.   (26,18)
+    unit:2 Life Guards (36,18)
+    unit:A squadron (61,38)
+    unit:A Squadron (69,39)
+    reference:Vlamertinghe, Belgium, May 13th 1915: The enemy's guns began to register on the position. At 04:00 a very heavy bombardment commenced and lasted with (?) vigour until 07:00. This was unquestionably the heaviest bombardment the regiment had ever experienced during the campaign. The enemy's 'flammenwerfer' (flamethrowers) were particularly effective. At 07:00 the enemy's infantry advanced. They did not appear to be in any great strength, and made no frontal attack on the front of 'B' squadron; but made for the houses on the left (of the road) mentioned above.   (24,42)
+    person:Second Lieutenant Bostock (other) (53,46)
+    unit:B squadron (72,46)
+    activity:line (27,47)
+    unit:A squadron (62,51)
+    unit:B Squadron (31,51)
+    person:Second Lieutenant M Seton-Karr (other) (34,55)
+  13 May 1915 61
+    time:0330AM (9,62)
+    activity:fire (42,66)
+    activity:fire (47,66)
+    time:0700AM (35,70)
+    reference:this was the heaviest bombardment the regiment had every experienced during the campaign (64,71)
+    time:0700AM (30,82)
+    unit:B squadron (28,90)
+    unit:Two life guards (74,94)
+Page 53 (type diary) http://wd3.herokuapp.com/pages/AWD00003xf  ----------
+  13 May 1915 19
+    reference:Vlamertinghe, Belgium, May 13th 1915: The enemy's guns began to register on the position. At 04:00 a very heavy bombardment commenced and lasted with (?) vigour until 07:00. This was unquestionably the heaviest bombardment the regiment had ever experienced during the campaign. The enemy's 'flammenwerfer' (flamethrowers) were particularly effective. At 07:00 the enemy's infantry advanced. They did not appear to be in any great strength, and made no frontal attack on the front of 'B' squadron; but made for the houses on the left (of the road) mentioned above. About 07:10 it was noticed that the the right of the brigade line was retiring. 'A' squadron was involved in the retirement. Regiment less 'A' squadron hung on for another ten minutes; when it was forced to retire, both flanks being threatened.They rallied behind a mound 100 yards in rear of the support trench, but the enemy advanced forcibly and presented no target. From this position,  regiment moved to the left into the front trenches of the Queens  dragoons, where they remained all day. Meanwhile, 'A' squadron retired on General headquarters lines, which was occupied by the Divisional Reserve. No. 2045 Corporal of Horse G. Attenborough and four men remained in a large shell hole put in front of the ''point l'affirm' (which had been destroyed by enemy's guns) until 10th Hussars counter-attacked at 14:30; when they joined in the counter-attack. Throughout the day, headquartes, 'B' and 'D' squadrons remained in (the) Dragoon's trenches and all routes over on Souh east of position to the latter regiment for the magnificent support  and resistance they gave to the regiment through (cont.)  (26,20)
+    unit:10 Hussars (47,20)
+    time:0710AM (31,29)
+    activity:withdraw (29,33)
+    activity:withdraw (28,41)
+    activity:enemy_activity (42,49)
+    unit:Queens Bay (72,55)
+    unit:A Squadron (39,62)
+    unit:10 Hussars (52,64)
+    person:Corporal G Attenborough (other) (41,69)
+    unit:10 Hussars (60,78)
+    time:0230PM (36,80)
+    activity:attack (62,82)
+    unit:B & D Squadrons (47,85)
+Page 54 (type diary) http://wd3.herokuapp.com/pages/AWD00003w3  ----------
+  Hashtags: #Hotchkiss 
+  13 May 1915 0
+    reference:Trenches just off the Ypres-Zonnebeke road, Ypres, belgium, May 13th 1915: (cont.) out a very trying day. Throughout the day the trenches were very heavily shelled. In all the enemy's guns fired on the position for 16 consecutive hours. Position lost in morning retaken by brilliant counter-attack by 5th cavalry brigade at 14:30,but they were unable to hold it, retiring again about 16:00. At 20:30 regiment retired to Potijze in accordance with G.69. Casualty list.  (24,14)
+    unit:5 Cavalry Brigade (31,14)
+    unit:2 Cavalry Division (36,28)
+    reference:Potijze, Ypres, Belgium, May 14th 1915: Regiment moved into general headquarter's lines where it remained all day. Brigade forming Divisional Reserve. Captain J.C.G. leigh and 15 other ranks joined 'B' echelon from base. At 21:00 2nd cavalry division relieved 3rd cavalry division, and regiment retired to huts at Vlamertinghe. B.M. 41, B.M. 42. (24,29)
+    activity:fire (65,32)
+    reference:the enemy's guns fired on the position for 16 consecutive hours. (59,35)
+    reference:Vlamertinghe, Belgium, May 15th to May 17th 1915: Passed in huts without incident. 8 other ranks joined 'B' echelon from Base during these three days.B.M. 43. (21,37)
+    time:0230PM (61,40)
+    unit:8 battalion (57,41)
+    reference:G69 (71,45)
+    time:0830PM (29,45)
+    reference:Vlamertinghe, Belgium, May 18th 1915: Brigade furnished digging party of 200 men, 75 from regiment under second Lieutenant L. Payne-Gallway, to dig on general headquarters base. With reference to action on May 13th it should be noted that Hotchkiss gun in above trenches was lost, but one in front of  opposing  recovered after dark by 4 men of machine gun section. (24,48)
+    person:Captain J C G Leigh (joined) (53,48)
+    time:0230AM (9,49)
+    person:Captain J C G Leigh (joined) (32,56)
+    time:0900PM (29,60)
+    unit:2 Cavalry Division (37,60)
+    unit:3 Cavalry Division (53,60)
+    place:Vlamertinghe (42,64)
+    place:Vlamertinghe (18,69)
+    person:Lieutenant L Payne-Gallway (joined) (31,81)
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD0000404  ----------
+  13 May 1915 0
+    place:Ebblinghem (18,45)
+Page 56 (type diary) http://wd3.herokuapp.com/pages/AWD00003yh  ----------
+  28 May 1915 17
+    reference:Ebblinghem,Nord, France, May 28th 1915: Regiment moved to billets at Campagne, Ebblinghem area having been allocated to 2nd cavalry division. (19,18)
+    reference:Campagne-les-Wardrecques, pas de  calais, France, May 29th 1915: Regiment embussed and proceeded to Vlamertinghe as per A.K. 93. 'A' and 'D' squadrons took over from Royal Scotch Greys in ramparts, 'B' squadron from 12th Lancers. The Machine Gun section under Captain (the) Earl of Caledon was attached to the squadron of 3rd Dragoon guards commanded by Major P. Mason. They re-occupied trenches designed for all round defence immediately south of Menin road at Hooge.  (18,28)
+    unit:Royal scotch greys (28,28)
+    unit:3 Dragoon Guards (33,28)
+    place:Campagne (51,30)
+    place:Ebblinghem (61,30)
+    place:Ebblinghem (20,32)
+    unit:2 Canadian (49,35)
+  29 May 1915 38
+    reference:AK93 (71,41)
+    place:Campagne (18,41)
+    reference:Ypres, Belgium, May 30th to May 31st 1915: Nothing to report, except that on 31st trenches occupied by 3rd Dragoon guards were very heavily shelled, several feeble infantry attacks by the enemy were repulsed. Captain (the) Earl of Caledon was wounded; in Machin Gun Section 1 man killed and 5 wounded.  (19,42)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 6 (34,42)
+    unit:Royal Scots (55,43)
+    unit:Royal Scots (56,44)
+    unit:A & D squadrons (30,44)
+    unit:12 Lancers (44,47)
+    unit:12 Hussars (41,48)
+    unit:B Squadron (30,49)
+    reference:AK 96 (77,50)
+    person:Major P Mason (other) (59,57)
+  30 May 1915 66
+    place:Ypres (21,70)
+    activity:fire (57,71)
+    unit:30 Dragoon Guards (40,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,78)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 5 (69,81)
+    person:Captain Earl of Caledon (casualty_wounded) (30,82)
+    reference:AK 96 (58,84)
+Page 57 (type ) http://wd3.herokuapp.com/pages/AWD00003xh  ----------
+Page 58 (type diary) http://wd3.herokuapp.com/pages/AWD00003z5  ----------
+  1 Jun 1915 17
+    reference:Ypres, Belgium, June 1st 1915: A quiet day. At 20:30 a digging party of 200 men under Captain J. J. Astor went up and dug behind front lines south of Hooge. Machine Gun section rejoined, having been released by infantry. (21,18)
+    reference:Ypres, Belgium, June 2nd 1915: Again quiet. Digging party under Captain P.W. Foster went forward as per B.M.70. (23,25)
+    place:Ypres (20,26)
+    activity:repair (54,27)
+    time:0830PM (42,31)
+    place:Ypres (19,31)
+    reference:Ypres, Belgium, June 3rd 1915: No incident during  day. At 20:30, regiment moved to Zouave Wood 800 yards osuth west of Hooge in accoradance qith G.2.U.V. At 00:30 (June 4th) let Zouave wood to return to ramparts, services not having been required. wires exchanged between regiment and His Majesty on occasion of his birthday attached. (23,32)
+    place:Hooge (67,32)
+    person:Captain J J Astor (other) (30,34)
+  2 Jun 1915 40
+    unit:Honourable Artillery Company (31,42)
+    person:Captain P W Foster (other) (60,42)
+    activity:repair (45,42)
+    place:Ypres (19,42)
+    reference:Ypres, Belgium, June 4th to 5th 1915: All quiet. At 19:30 regiment marched from ramparts, on relief  by  H.A.C. (Honourable Artillery Company) and proceeded to Vlamertinghe where the night was passed. (23,43)
+    reference:BM 70 (77,44)
+    reference:Ref. BM70 (78,47)
+    activity:movement (60,50)
+    time:0830PM (47,51)
+    place:Zouave Wood (69,51)
+    reference:Vlamertinghe, Belgium, June 6th 1915: At 00:30 regiment enbussed in accordance with S.C.54 and returned to Campagne. Full casualties for week attached. (14,53)
+    reference:G 20 J (76,56)
+    time:1230AM (31,60)
+    activity:movement (39,60)
+    reference:Wires to His Majesty on his birthday (68,63)
+  4 Jun 1915 65
+    unit:Hac (37,68)
+    time:0430PM (39,68)
+    activity:movement (53,68)
+    unit:H.A.C (36,72)
+    place:Vlamertinghe (56,72)
+  6 Jun 1915 76
+    time:1230PM (32,79)
+    place:Vlamertinghe (20,79)
+    reference:SC 54 (77,81)
+    activity:movement (31,81)
+    place:Campagne (40,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded:  (35,87)
+    reference:Ref. to attached casualty list (74,89)
+Page 59 (type diary) http://wd3.herokuapp.com/pages/AWD00003xs  ----------
+  6 Jun 1915 0
+    reference:Vlamertinghe, Belgium, June 7th 1915: The following officers went up to Ypres with regiment on the above occasion: Major A.M. Pirie D.S.O; Captain the honourable E.S. Wyndham D.S.O; Capatain J.J. Astor; Captain R.H. Stubber; Captain the Honourable E.N. Wyndham; Captain the Earl of Caledon; Captain P.W. Foster; Captain Sir P. Brocklehurst; Lieutenant C. D. Leyland; Lieutenant H. Matthey; Second Lieutenant Boswell-Preston; Second Lieutenant C. Trafford; Surgical Lieutenant E.D. Anderson. Owing to Lieutenant  Colonel  Stanley being on leave in England, Major Pirie took command (21,27)
+    casualties:died: 0; killed: 13; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,28)
+    place:Ypres (54,30)
+    person:Major A M Pirie (other) (53,37)
+    person:Captain J J Astor (other) (52,47)
+    person:Captain Stubber (other) (47,51)
+    person:Captain Wyndham (other) (52,55)
+    person:Captain P Brocklehurst (other) (49,66)
+    person:Lieutenant Leyland (other) (52,70)
+    person:Lieutenant H Matthey (other) (52,74)
+    person:Second Lieutenant Boswell-Preston (other) (55,78)
+    person:Second Lieutenant Trafford (other) (52,81)
+    person:Lieutenant Anderson (other) (50,87)
+    person:Lieutenant Colonel Stanley (departed_leave) (37,91)
+Page 60 (type diary) http://wd3.herokuapp.com/pages/AWD00003wm  ----------
+  6 Jun 1915 0
+  7 Jun 1915 16
+    reference:Campagne-les-Wardrecques, pas de calais, France, June 7th to June 15th 1915: Passed without incident in billets. On  June 13th, Captain P.W. Foster unfortunately was kicked by a horse and broke his leg. On june 12th, Second Lieutenant J.C. Murray and 10 other ranks joined from the Base.   (17,16)
+    reference:Campagne-les-Wardrecques, pas de calais, France, June 16th 1915: Regiment stood to in accordance with attached Brigade order (16,24)
+    reference:Campagne-les-Wardrecques, pas de calais, France, June 17th 1915: Passed without incident except that degree of readiness was extended from 2 hours to 3 and a half hours. (16,29)
+    place:Campagne (20,30)
+    person:Captain P W Foster (casualty_wounded) (44,32)
+    reference:Campagne-les-Wardrecques, pas de calais, France, June 18th 1915: The Field Marshal Commanding in Chief inspected the Brigade and complimented them on the services they had rendered during the recent fighting at Ypres. (16,37)
+    person:Second Lieutenant J C Murray (joined) (41,40)
+    reference:Campagne-les-Wardrecques, pas de calais, France, June 19th to June 22nd 1915: Nothing to report. (15,46)
+    reference:Campagne-les-Wardrecques, pas de calais, France, June 23rd 1915: (The) following officer and other ranks of the regiment appeared in the list of those mentioned in Despatches published in the London Gazette (on) June 22nd: (cont.) (15,55)
+    domestic:inspections (61,62)
+    place:Ypres (58,69)
+    reference:Ref to London Gazette, June 22nd (36,90)
+Page 61 (type diary) http://wd3.herokuapp.com/pages/AWD00003yt  ----------
+  Hashtags: #Despatches 
+  23 Jun 1915 14
+    reference:Campagne-les-Wardrecques, pas de calais, France, June 23rd 1915: (The) following officer and other ranks of the regiment appeared in the list of those mentioned in Despatches published in the London Gazette (on) June 22nd: Surgical Lieutenant E.D. Anderson; 2570 Corporal A. Fabray; 2297 Corporal C. Stanghan; 2442 Trooper S.J. Clements; 8319 Private J. Lorimer, 2nd Dragoons.  (19,18)
+    person:Second Lieutenant Anderson (award) (61,29)
+    person:Second Lieutenant E D Anderson (award) (43,30)
+    person:Corporal A Fabray (59,33)
+    person:Corporal A Fabray (award) (42,36)
+    person:Corporal C Stanghan (60,38)
+    person:Corporal C Stanghan (award) (43,39)
+    person:Corporal S V Clements (award) (41,44)
+    person:Private J Lorimer (44,48)
+Page 62 (type diary) http://wd3.herokuapp.com/pages/AWD00003zl  ----------
+  23 Jun 1915 0
+    reference:Campagne-les-Wardrecques, pas de calais, France, June 24th to June 28th 1915: Nothing to report. (18,13)
+    reference:Campagne-les-Wardrecques, pas de calais, France, June 29th 1915: Regiment furnished a digging party of 45 other ranks which proceeded by motor bus to Neuve Eglise to dig a reserve line of trenches in that neighbourhood. Major A.M. Pirie D.S.O. accompanied them to command the three parties forwarded by the Brigade. (18,19)
+  24 Jun 1915 22
+    reference:Campagne-les-Wardrecques, pas de calais, France, June 30th 1915: Nothing to report. (17,24)
+    place:Campagne (22,29)
+    activity:repair (55,31)
+    place:Neuve Eglise (53,37)
+    person:Major A M Pirie (other) (65,40)
+Page 63 (type cover)
+Page 64 (type diary) http://wd3.herokuapp.com/pages/AWD00003zk  ----------
+  24 Jun 1915 0
+    reference:Campagne-les-Wardrecques, pas de calais, france,July 1st 1915: Nothing to report. (16,16)
+    reference:Campagne-les-Wardrecques, pas de calais, france,July 2nd 1915: Four complete turn-outs of lumbered waggons arrived for the Machine Gun section on augmentation of establishment. In addition to the eight drivers accompanying (the) above, a draft of seven other ranks joined from Base. (15,21)
+  1 Jul 1915 25
+    reference:Campagne-les-Wardrecques, pas de calais, france,July 3rd - July 5th 1915: Nothing to report, except that on (the) 4th Second Lieutenant H.A. Brown and Second Lieutenant O.S. Portal joined.  (16,27)
+    place:Campagne (19,29)
+  2 Jul 1915 32
+    reference:Campagne-les-Wardrecques, pas de calais, france,July 6th 1915: The diggingparty under Major A.M. Pirie d.S.O. was relieved by men under Lieutenant G.H. Boswell-Preston. (14,33)
+    reference:Campagne-les-Wardrecques, pas de calais, france,July 7th to July 10th 1915: Nothing to report. (15,39)
+    reference:Campagne-les-Wardrecques, pas de calais, france,July 7th to July 11th 1915: A further digging party of 45 men was furnished under Second Lieutenant G.T. Trafford for work in 8th Division area. They proceeded by motor bus to Sailly station.. (14,44)
+  5 Jul 1915 47
+    person:Second Lieutenant H A Brown (joined) (59,50)
+    person:Second Lieutenant O S Portal (joined) (68,50)
+  6 Jul 1915 51
+    reference:Campagne-les-Wardrecques, pas de calais, france,July 12th 1915: Second Lieutenant H.A. Brown relieved Lieutenant G.H. Boswell-Preston in command of the digging party at Neuve Eglise. (14,51)
+    person:Major A M Pirie (other) (55,52)
+    person:Major A M Pirie (other) (52,53)
+    activity:repair (26,53)
+    person:Lieutenant G H Boswall-Preston (other) (47,57)
+    reference:Campagne-les-Wardrecques, pas de calais, france,July 13th 1915: Lieutenant G.H. Boswell-Preston proceeded to England in accordance with Home Office instructions for employment under Munitions office. (14,58)
+  7 Jul 1915 60
+  11 Jul 1915 66
+    activity:repair (39,68)
+    person:Second Lieutenant G T Trafford (other) (30,71)
+    place:Sailly Station (40,73)
+  12 Jul 1915 77
+    person:Second Lieutenant H A Brown (other) (36,77)
+    person:Lieutenant G H Boswall-Preston (other) (54,77)
+    person:Second Lieutenant H A Brown (other) (33,79)
+    place:Neuve Eglise (48,80)
+  13 Jul 1915 84
+    person:Lieutenant G H Boswall-Preston (departed_posted) (39,86)
+Page 65 (type diary) http://wd3.herokuapp.com/pages/AWD0000400  ----------
+  15 Jul 1915 25
+    activity:movement (35,29)
+    place:Quiestede (52,29)
+    place:Quiestede (20,30)
+    place:Coubronne (70,30)
+    place:Aire (39,36)
+    place:Saint Omer (31,38)
+    place:Saint Omer (45,38)
+    unit:3 Army (69,39)
+    place:Hazebrouck (53,39)
+    person:Major L E Barry (departed_posted) (34,47)
+    unit:3 Cavalry Unit (66,52)
+  20 Jul 1915 56
+    place:Neuve Eglise (45,62)
+    person:Captain J C G Leigh (other) (51,65)
+    person:Second Lieutenant G G Barker (other) (51,70)
+    place:Elverdinghe (47,73)
+    person:Captain E Hely (other) (52,78)
+    unit:3 Cavalry Unit (46,81)
+    unit:3 Army Corps (61,87)
+Page 66 (type diary) http://wd3.herokuapp.com/pages/AWD00003xv  ----------
+  20 Jul 1915 0
+    reference:Campagne-les-Wardrecques, pas de calais, France, July 20th (cont.) out by digging parties forward by Division at Neuve Eglise. (18,13)
+  21 Jul 1915 30
+    reference:Quiestede, pas de calais, France, July 21st to July 25th 1915: Nothing to report except the return of Neuve Eglise party under Captain Leigh, except I.H.C.O. and 10 men who were left to complete work.    (16,21)
+    reference:Quiestede, pas de calais, France,  July 26th 1915: The regiment strength: 9 officers and 282 other ranks (including 2 officers and 57 other ranks already there) proceeded by motor bus to Elverdinghe. a  working party of 900 men was required there and this number was completed by the Royal Horse Guards under Major H.E. Brassey and 3rd Dragoon Guards under Lieutenant Colonel A. Burt. Lieutenant Colonel the Honourable A.E. Stanley D.S.O. was in command of the other party, and administrative commandment of all troops in Elverdinghe. Regiments bivouacked in the Chateau grounds and dug for 6 hours duty. A few shells occasionally fell in the village but no casualties occurred. All ranks took creditable interest in the work , which continued till August 5th, when 3rd cavalry Division party was relieved by 9th Cavalry brigade.  (18,27)
+    unit:Royal Horse Guards (32,27)
+    unit:3 Dragoon Guards (36,27)
+    unit:9 Cavalry Brigade (54,27)
+    reference:Quiestede, pas de calais, France,  July 31st 1915: Lieutenant J. H. Kirkwood and 9 other ranks joined from base.   (17,35)
+    place:Quiestede (20,36)
+    person:Captain Leigh (other) (32,37)
+  26 Jul 1915 39
+    activity:strength (48,44)
+    activity:movement (65,45)
+    unit:Royal Horse Guards (61,53)
+    person:Major H E Brassey (other) (35,58)
+    person:A Burt (other) (70,58)
+    unit:3 Dragoon Guards (52,60)
+    person:Lieutenant Colonel A E Stanley (other) (44,63)
+  31 Jul 1915 87
+    person:Lieutenant J H Kirkwood (joined) (34,92)
+Page 67 (type cover)
+Page 68 (type diary) http://wd3.herokuapp.com/pages/AWD00003x2  ----------
+  1 Aug 1915 26
+    activity:repair (40,28)
+    reference:August 1st - 5th, Elverdinghe: Regiment continued diggin, returnin g to Quiestede by motor bus on the afternoon of the 5th. On above day Vet Captain G. Rees-Mogg proceeded to England on appointment as A.D.V.S 32nd division. (10,29)
+    place:Quiestede (59,30)
+    place:Elverdinghe (20,31)
+    person:Captain G Rees-Mogg (departed_posted) (48,37)
+    unit:32 Division (52,42)
+  6 Aug 1915 43
+    activity:movement (35,44)
+    reference:Quiestede: 3rd Cavalry division moved to billeting over south of Therouanne. Regiment moved to Coyelque, Battalion H.Q to Fauquemberques.  (14,44)
+    place:Therouanne (66,46)
+    place:Quiestede (19,47)
+    unit:3 Cavalry Division (27,47)
+    activity:movement (39,48)
+  7 Aug 1915 50
+    place:Coyecque (45,51)
+    place:Fauquembergues (62,51)
+    reference:Coyelques August 7th - August 11th: Remained in billets. (14,53)
+  12 Aug 1915 55
+    reference:Coyelque: Regiment paraded in marching order at  09:15 and marched to a point on Remilly-Wirquin-Clety road where they met the squadron sento out by the Reserve Regiment under command of Major R. Corbet to act as Divisional Cavalry to the Guards Division. Spent half an hour with the squadron and then returned to billets. (14,57)
+    unit:Reserve Regiment (43,57)
+    time:0915AM (58,58)
+    person:Major R Corbet (other) (43,69)
+  13 Aug 1915 78
+    reference:august 13th - 14th, Coyelque: Nothing to report. (14,78)
+  15 Aug 1915 82
+    reference:Coyelque: Captain J.G. Butler and lieutenant T.K. Robson and 68 other ranks proceeded by motor bus to Armienteres to form part of digging party forward. (11,84)
+    person:Lieutenant T K Robson (other) (44,86)
+    person:Lieutenant Robinson (departed_posted) (51,86)
+    person:Captain J G Butler (other) (31,87)
+    place:Armentieres (42,91)
+Page 69 (type diary) http://wd3.herokuapp.com/pages/AWD00003xb  ----------
+  Hashtags: #MedalofStGeorge #CrossofStGeorge 
+  16 Aug 1915 29
+    reference:Coyelque: By Brigade: Remained in billets on 20th had a field day with Divisional squadron.  (15,29)
+    person:Lieutenant Colonel E H Brassey (joined) (43,37)
+    reference:Coyelque: On 21st Lieutenant Colonel E. H. Brassey M.V.C. rejoined and took over command. More other ranks also joined. (15,39)
+    reference:Coyelque: Extract from regimental orders of 27th: The undermetioned Warrant Officer and men have been awarded Russian decorations as follows: Cross of the Order of Saint George, 2nd class: No 2730 Trooper P. Harding. Medal of Saint George, 2nd class: Regimental Corporel Major S.G. Coggins. Medal of Saint George, 2nd class: No 2617 Trooper H.W. Haydon, No 6339 Corporel A. Hibberd, 1st K.d. Gdo.  (17,46)
+    reference:Regimental Orders of 27th November (1915?) (46,46)
+    reference:Russian Decoractions Awarded (45,55)
+    person:Trooper P Harding (award) (60,61)
+    person:Trooper P Harding (award) (47,62)
+    person:Corporal Coggins (award) (65,67)
+    person:S G Coggins (award) (49,69)
+    person:Trooper H W Haydon (award) (49,78)
+    person:Corporal A Hibberd (award) (53,81)
+    reference:Coyelque: Lieutenant J.S. Woolley joined from the base on August 30th. (17,84)
+    person:Lieutenant J S Woolley (joined) (35,89)
+Page 70 (type cover)
+Page 71 (type diary) http://wd3.herokuapp.com/pages/AWD00003xq  ----------
+  1 Sep 1915 20
+    person:Second Lieutenant H A Brown (other) (30,23)
+    person:Second Lieutenant J C Murray (other) (52,23)
+    place:Coyecque (15,24)
+    reference:Coyleque:2nd Lieutenant H.A. Brown, and 2nd Lieutenant J.C. Murray and 62 other ranks of A&D squadrons proceeded by motor bus to Armentieres for digging.Lieutenant T.K. Robson and 20 other ranks of B squadron rejoined from Armentieres for squadron training. (13,25)
+    activity:repair (33,32)
+    person:Lieutenant Robson (joined) (30,37)
+    reference:Coyleque:Digging forty returned from Armentieres. (11,41)
+  3 Sep 1915 42
+  7 Sep 1915 47
+    reference:Coyleque:Captain Sir P. Brocklehurst left to take over command of 7th Signal Corps (13,50)
+  10 Sep 1915 53
+    person:Lieutenant J H Kirkwood (departed_posted) (34,55)
+    reference:Coyleque:Lieutenant J.H. Kirkwood left on transfer to 4th Dragoon Guards (12,55)
+    reference:Coyleque:Nothing more of interest occurred till September 20th, except unit training this period. Major A.M. Pirie D.S.C. took over the duties of Brigade Machine gun Officer. (10,61)
+    person:Major A M Pirie (other) (63,70)
+    unit:2 Army (34,74)
+  21 Sep 1915 75
+    reference:Coyleque:Brigade marched to billets round Le Nieppe, on becoming attached to 2nd Army as Army Cavalry. Regiment billeted at Buysscheure. (12,75)
+    place:Le Nieppe (54,78)
+    activity:movement (38,80)
+    place:Buysscheure (70,83)
+    reference:Attached to 2nd Army as Army Cav Reg't (33,83)
+  22 Sep 1915 84
+    reference:Buysscheure. Nothing to report. (17,84)
+    place:Buysscheure (19,88)
+Page 72 (type diary) http://wd3.herokuapp.com/pages/AWD00003zm  ----------
+  23 Sep 1915 22
+    unit:2 Army (62,23)
+    reference:Buysscheure. Message from Commander in Chief: The brigade was inspected by General Sir Herbert Plumer, commanding 2nd Army. At a conference of Chief Officers at Brigade H.Q. afterwards, the Brigadier informed all present of the plans of the Allied Armies. Lieutenant the Honerable H.W.G. Denison and Lieutenant F. B. Bibby joined from Base. Regiment moved from billets nearer Brigade H.Q. at Le Nieppe. H.Q. to Creve Coeur Farm, a squadron to outskirks of Renescure, B (section) to Le Nevl, D (section) to half a mile Northof Ebblinghem. Allied offensive commenced with attacks at Hooge, between La Bas, See and Lens, about Souchez, and in Champagne. Information received and order of battle of the evening opposite 2nd army attached.(Information 1)  (10,27)
+    domestic:inspections (39,28)
+    place:Buysscheure (17,28)
+    reference:Message from CinC (81,38)
+    person:Lieutenant F B Bibby (joined) (55,38)
+  25 Sep 1915 39
+    reference:Message from C in C (90,39)
+    person:Lieutenant H W G Denison (joined) (37,39)
+    place:Le Nieppe (66,42)
+    activity:movement (33,43)
+    place:Creve Coeur (32,46)
+    place:Renescure (66,47)
+    place:Le Hevl (27,51)
+    reference:Allied Offensive (32,55)
+    place:Souchez (45,58)
+    reference:Information 1 (85,61)
+  26 Sep 1915 62
+    unit:1 Army (22,62)
+    reference:Creve Coeur: Nothing to report. Information from 1st army attached.  (16,62)
+  27 Sep 1915 66
+    place:Creve Coeur (17,66)
+    reference:Information 2 (84,66)
+    reference:Creve Coeur: Regiment went into closer billers, H.Q at somewhere at Woestine. (10,68)
+    reference:Information 3 (85,70)
+  28 Sep 1915 71
+    place:Woestine (69,71)
+    reference:Information 4 (86,73)
+    reference:Woestine: Nothing to report. Information 4 attached. (11,73)
+  29 Sep 1915 75
+    place:Woestine (20,75)
+    reference:September 29th - 30th 1915: Woestine: Lieutenant the Honerable J. Freeman-Mitford joined from the Base onthe 30th. (12,79)
+    reference:Information 5 Order of (battle?) (30,79)
+    reference:Information 5 (85,80)
+    person:Lieutenant J Freeman-Mitford (joined) (39,80)
+    reference:Information 5 order of the day (88,81)
+Page 73 (type cover)
+Page 74 (type diary) http://wd3.herokuapp.com/pages/AWD00003w9  ----------
+  1 Oct 1915 26
+    reference:attached communique (54,31)
+    place:Woestine (19,32)
+    person:Second Lieutenant E D Ogilvie (joined) (41,39)
+    person:Lieutenant J De Pret (joined) (50,42)
+    person:Second Lieutenant P A Elworthy (joined) (43,50)
+    person:Captain J G Butler (departed_sick) (30,55)
+    person:Second Lieutenant E R Hoare (departed_posted) (51,58)
+    person:Second Lieutenant G G Barker (departed_posted) (35,59)
+  21 Oct 1915 66
+    unit:21 Lancers (37,67)
+    place:Rumilly (69,70)
+    place:Rumilly (18,71)
+    place:Ergny (65,74)
+    person:Second Lieutenant E Fisher (joined) (50,77)
+    activity:strength (66,77)
+    person:Captain Lord Caledon (other) (33,78)
+Page 75 (type diary) http://wd3.herokuapp.com/pages/AWD0000401  ----------
+  21 Oct 1915 0
+    reference:Rumilly, pas de calais, France,  October 27th to october 31st 1915: Nothing to report. (17,21)
+    place:Rumilly (19,32)
+Page 76 (type cover)
+Page 77 (type diary) http://wd3.herokuapp.com/pages/AWD00003wo  ----------
+  Hashtags: #militarymedals 
+  1 Nov 1915 18
+    reference:Rumilly, pas de calais, France, November 1st 1915: The following special Order of the Day by His Majesty the King was issued. (16,18)
+    reference:Rumilly, pas de calais, France, November 1st 1915: A digging party of 2 officers and 80 other ranks proceeded by motor bus to Lynde. (16,23)
+    reference:Rumilly, pas de calais, France, November 4th to November 7th 1915: Nothing to report except that it was announced that the following French Decorations had been awarded to the following officers and N.C.O: Croix le Chevalier 5th Class: Captain J.J. Astor. Croix de Guerre: Lance Corporal M. McLeod. On (the) 5th, digging party returned from Linde. (16,28)
+    place:Rumilly (20,32)
+  3 Nov 1915 35
+    reference:Rumilly, pas de calais, France, November 8th 1915: A digging party of 3 officers and 131 other ranks under Captain the Earl of Caledon proceeded by motor buss to dig under 5th Corps near Zillebeke. (16,37)
+    unit:5 Corps (27,37)
+    activity:repair (28,41)
+  4 Nov 1915 43
+    place:Lynde (45,43)
+    person:Captain J J Astor (award) (46,62)
+    person:Lance Corporal M McLeod (award) (47,69)
+    place:Lynde (59,74)
+  8 Nov 1915 75
+Page 78 (type diary) http://wd3.herokuapp.com/pages/AWD00003zx  ----------
+  8 Nov 1915 0
+    reference:Rumilly, pas de calais, France, November 16th 1915: The billeting area of the brigade was altered, headquarters moving from Fauquembergues to Hucqueliers. This move did not affect the regiment, except that 'B' squadron had to evacualte Ergny, and close up on Rumilly.  (19,22)
+  16 Nov 1915 23
+    reference:Rumilly, pas de calais, France, November 17th to November 21st 1915: Nothing to report. (18,27)
+    place:Rumilly (19,32)
+    unit:5 Corps (23,34)
+    reference:Rumilly, pas de calais, France, November 22nd 1915: Digging party with 5th Corps returned to billets. (18,34)
+    reference:Rumilly, pas de calais, France, November 23rd 1915: Another party of same strength under Captain J.c.G. Leigh went up to replace the above party. (19,39)
+    reference:Rumilly, pas de calais, France, November 24th to November 26th 1915: Nothing to report. (17,44)
+    unit:46 infantry Brigade (32,50)
+    unit:1/4 Seaforth Highlanders (35,50)
+    reference:Rumilly, pas de calais, France, November 27th  1915: Captain the Honourable E.H. Wyndham, Lieutenant F.B. Bibby and Second Lieutenant R. Ellworthy proceeded to be attached to 46th Infantry brigade for a tour of duty in the trenches. They were attached to 1/4th Seaforth Highlanders in the Hohenzollern Redoubt.  (17,50)
+    reference:Rumilly, pas de calais, France, November 28th to November 30th 1915: Nothing to report. During the month the Cavalry Corps was organised so as to be able to fund a dismounted division in case of need.  (17,55)
+    unit:Seaforth Highlanders (70,73)
+Page 79 (type diary) http://wd3.herokuapp.com/pages/AWD00003z9  ----------
+Page 80 (type cover)
+Page 81 (type diary) http://wd3.herokuapp.com/pages/AWD00003z7  ----------
+  1 Dec 1915 25
+    place:Rumilly (20,31)
+  2 Dec 1915 36
+    place:Hucqueliers (61,40)
+    person:Captain J J Astor (award) (32,45)
+    person:Corporal M McLeod (award) (41,47)
+  3 Dec 1915 49
+    reference:War Establishments Dismounted Division King (83,65)
+  5 Dec 1915 68
+    person:Second Lieutenant O S Portal (departed_posted) (64,70)
+    person:Second Lieutenant G Trafford (departed_posted) (50,71)
+    person:Lieutenant H Denison (departed_posted) (36,72)
+    person:Second Lieutenant E Fisher (departed_posted) (34,76)
+    unit:44 Brigade, 15 Division (36,78)
+    person:Second Lieutenant H A Brown (departed_training) (31,83)
+    unit:46 Brigade, Bombing School (33,84)
+  7 Dec 1915 87
+Page 82 (type diary) http://wd3.herokuapp.com/pages/AWD00003xk  ----------
+  7 Dec 1915 0
+    reference:Rumilly, pas de calais, France, December 7th 1915 (cont.) The Honourable J. Mitford proceeded by motor bus to Ebllinghem. Special order by Major General Vaughan. (19,19)
+    reference:Rumilly, pas de calais, France, December 8th to December 9th 1915 Nothing to report. (18,25)
+  8 Dec 1915 26
+    reference:Special Order (78,28)
+    reference:Rumilly, pas de calais, France, December 10th 1915 A  further digging party of 2 officers and 100 other ranks went up to Ebblinghem.  (17,30)
+    reference:Special Order by Maj Gen Vaughn (80,31)
+    person:Major General Vaughan (author) (81,34)
+    place:Rumilly (22,34)
+  10 Dec 1915 35
+    reference:Rumilly, pas de calais, France, December 11th to December 14th 1915 Nothing to report. (18,35)
+    reference:Rumilly, pas de calais, France,  December 15th 1915 Lieutenant T.K. Robson, second lieutenant J.C. Murray and 1 Non commissioned officer joined a course at 1st Army Trench Mortar School at St. Venant. (16,40)
+  15 Dec 1915 47
+    reference:Rumilly, pas de calais, France,  December 16th to December 23rd 1915: Nothing to report. Special order of the day issued by Field Marshal Commanding in Chief on his retirement from the command received. (16,47)
+    person:Lieutenant Robson (departed_training) (30,50)
+    unit:1 Army Trench Mortar School (38,52)
+    reference:Rumilly, pas de calais, France,   December 24th 1915: Second Lieutenant C. Waterhouse, Second Lieutenant E.D. Ogilvie and 100 other ranks returned from Ebblinghem. (18,52)
+  16 Dec 1915 55
+    reference:Rumilly, pas de calais, France,   December 25th 1915: Nothing to report. Christmas greetings exchanged between the King and Commander in Chief published. Special Order. (17,58)
+    reference:Special Order of the Day on retirement of Field Marshal C in C (79,58)
+  24 Dec 1915 61
+    reference:Special Order (79,63)
+    person:Second Lieutenant C Waterhouse (other) (33,63)
+    reference:Rumilly, pas de calais, France,   December 26th 1915: Lieutenant F.B. Bibby, Second Lieutenant E. Fisher and 100 other ranks proceeded to join digging party at Ebblinghem. (16,64)
+    person:Second Lieutenant Ogilvie (other) (52,66)
+  25 Dec 1915 68
+    reference:Rumilly, pas de calais, France,   December 27th 1915: Warning was received that Dismounted division was to mobilise. PK.190. (17,70)
+    reference:Christmas Greetings from the King (80,74)
+  26 Dec 1915 76
+    reference:Special Order - Christmas greeting between C-in-C and Hm the king (79,76)
+    person:Lieutenant Bibby (other) (32,79)
+    person:Second Lieutenant E Fisher (other) (46,79)
+  27 Dec 1915 84
+    reference:Warning to mobilise PK 190 (75,89)
+Page 83 (type diary) http://wd3.herokuapp.com/pages/AWD00003wp  ----------
+  27 Dec 1915 0
+    reference:Rumilly, pas de calais, France,   December 28th to December 30th 1915: Dismounted division did not move. (19,20)
+    unit:3 Brigade dismounted Division (32,25)
+    reference:Rumilly, pas de calais, France,   December 31st 1915: Machine Gun sections of 3rd brigade Dismounted division (namely those of 3rd cavalry division) entrained at Desvres for Berguette. Provisional orders were received and attached. These were almost immediately cancelled by P.K. 258. Following message were received during mobilisation and are attached:- Re. movemnet: Pk217,PK222, PK230,PK237,PK238, PK246. Re. Trench Mortar Battery: PK232, PK239. Miscellaneous: PK240, PK262. (17,25)
+  31 Dec 1915 31
+    place:Rumilly (22,31)
+    place:Desvres (43,38)
+    place:Berguette (57,38)
+    reference:Provisional Orders PK258 (52,46)
+    reference:Provisional Orders PK232 (55,57)
+    reference:Provisional Orders PK240 (72,57)
+    reference:Provisional Orders PK217 (27,58)
+    reference:Provisional Orders PK222 (34,61)
+    reference:Provisional Orders PK239 (55,61)
+    reference:Provisional Orders PK242 (72,61)
+    reference:Provisional Orders PK230 (35,65)
+    reference:Provisional Orders PK237 (35,68)
+    reference:Provisional Orders PK238 (35,72)
+    reference:Provisional Orders PK246 (35,76)
+Page 84 (type diary) http://wd3.herokuapp.com/pages/AWD00003zn  ----------
+  Hashtags: #Despatches 
+  1 Jan 1916 15
+    reference:Rumilly, pas de calais, france, January 1st 1916: the following officers and Other Rank were mentioned in the Despatch form the Filed Marshal Commanding in Chief (and) published in the London Gazetter under this date: Major (temporary Lieutenant Colonel) the Honourable A.F. Stanley D.S.O; Captain R. Hamilton-Stubber; No. 4073 Private A. Bannister (6th Dragoon Guards). (17,15)
+    reference:Rumilly, pas de calais, france, January 3rd 1916: Personnel for the trenches left by train. (17,22)
+    reference:Rumilly, pas de calais, france, January 4th to January 20th 1916: Nothing to report (16,28)
+    place:Rumilly (20,31)
+    place:Rumilly (21,32)
+    reference:Rumilly, pas de calais, france, January 21st 1916: Captain E. Hely was struck off the strength of the regiment, having taken up the appointment of Town Major. (16,34)
+    reference:The London Gazette (29,36)
+    reference:Rumilly, pas de calais, france, January 24th 1916: Second lieutenant F.W. Collins joined from Base. (16,40)
+    person:Major A F Stanley (award) (44,42)
+    person:Captain R Hamilton-Stubber (award) (66,45)
+    person:Captain R Hamilton-Stubber (award) (46,46)
+    reference:Rumilly, pas de calais, france, January 25th to January 31st 1916: Nothing to report. (15,47)
+  3 Jan 1916 49
+    person:Private A Bannister (award) (44,50)
+  4 Jan 1916 53
+    activity:movement (39,53)
+  21 Jan 1916 58
+    person:Captain E Hely (departed_posted) (32,61)
+  24 Jan 1916 65
+  25 Jan 1916 69
+    person:Second Lieutenant Collins (joined) (29,69)
+Page 85 (type diary) http://wd3.herokuapp.com/pages/AWD00003xn  ----------
+  25 Jan 1916 0
+    reference:Rumilly, pas de calais, france, February 1st 1916: Lieutenant G.G.F. Chomley, Second Lieutenant D.A.A. Beard, Second Lieutenant F.N. Gilbey, Second Lieutenant C.T.I. Roark, Second lieutenant C.R.L. English joined from England. (16,21)
+  1 Feb 1916 25
+    reference:Rumilly, pas de calais, france, February 2nd to February 10th 1916: Nothing to report. (14,27)
+    person:Lieutenant G G F Chomley (joined) (34,28)
+    person:Second Lieutenant D A A Geard (joined) (52,29)
+    person:F N Gilbey (joined) (68,29)
+    place:Rumilly (18,31)
+    person:Second Lieutenant English (joined) (49,33)
+    person:Second Lieutenant C T I Roark (joined) (35,33)
+    reference:Rumilly, pas de calais, france,  February 11th 1916: Personnel of 7th Dismounted battalion returned to billets from the trenches by train, dismounted division having been relieved by 12th division. (16,33)
+    unit:12 Division (29,33)
+    reference:Rumilly, pas de calais, france,  February 12th to February 14th 1916: Nothing to report. (16,39)
+    unit:12 Division (70,45)
+    activity:movement (32,45)
+    reference:Rumilly, pas de calais, france,  February 15th 1916: Captain the Earl of Caledon left to join Divisional squadron Guards division. Lieutenant S.R.F. Spicer, Second lieutenant the Honourable M.H. Pelham, joined from the base.   (16,46)
+    reference:Rumilly, pas de calais, france,  February 16th to February 18th 1916: Nothing to report. (16,51)
+    reference:Rumilly, pas de calais, france,   February 19th 1916: Captain Lord Somers joined from Divisional squadron Guards division. (15,58)
+    reference:Rumilly, pas de calais, france,   February 20th 1916: Nothing to report. (15,63)
+    reference:Rumilly, pas de calais, france,   February 21st 1916: Following appeared in the London Gazette: 1st Life Guards - Major (temporary Lieutenant Colonel) the honourable A.F. Stanley D.S.O. to be Brevet Lieutenant colonel as of July 1st. (15,67)
+    person:Captain Lord Somers (joined) (35,69)
+    reference:Rumilly, pas de calais, france,   February 22nd to February 27th 1916: Nothing to report. (15,71)
+Page 86 (type diary) http://wd3.herokuapp.com/pages/AWD00003z6  ----------
+  1 Feb 1916 15
+    reference:Rumilly, pas de  calais, France, February 1st 1916: Lieutenant G.G.F. Chomley, Second Lieutenant D.A.A. Geard, Second Lieutenant F.N. Gilbey, Second lieutenant C.T.I. Roark, Second Lieutenant C.R.L. English joined from England. (15,15)
+    reference:Rumilly, pas de  calais, France, February 2nd to February 10th 1916: Nothing to report. (14,21)
+    reference:Rumilly, pas de  calais, France,  February 11th 1916: Personnle of 7th Dismounted battalion , dismounted division returned to billets on the disbandment of the dismounted division. (14,26)
+    unit:7 dismounted battalion, dismounted Division (20,27)
+    place:Rumilly (15,27)
+    reference:Rumilly, pas de  calais, France,  February 12th to February 14th 1916: Nothing to report. (15,33)
+    reference:Rumilly, pas de  calais, France,  February 15th 1916: Captain the Earl of Caledon left to join Divisional squadron Guards division on exchange with Captain Lord Somers. Lieutenant S.R.F. Spicer and Second Lieutenant the Honourable M.H. Pelham joined from the Base. (14,37)
+    unit:Divisional squadron, guards Division (28,37)
+    reference:Rumilly, pas de  calais, France,  February 16th to February 27th 1916: Nothing to report. (14,45)
+    reference:Rumilly, pas de  calais, France, February 28th 1916: Second Lieutenant the Honourable M.H. Pelham returned to England for duty with Reserve Regiment. (14,52)
+    reference:Rumilly, pas de  calais, France, February 29th 1916: Nothing to report. (14,59)
+Page 87 (type diary) http://wd3.herokuapp.com/pages/AWD00003yj  ----------
+  1 Feb 1916 0
+    reference:Rumilly, pas de  calais, France, February 29th 1916: Nothing to report. (15,17)
+  28 Feb 1916 27
+    person:Second Lieutenant M H Pelham (departed_posted) (33,32)
+    place:Rumilly (19,32)
+  29 Feb 1916 35
+  1 Feb 1916 0
+    unit:Reserve Regiment (27,5)
+    reference:Rumilly, pas de  calais, France, February 28th 1916: Second Lieutenant the Honourable M.H.Pelham returned to England for duty with Reserve regiment. (17,5)
+Page 88 (type diary) http://wd3.herokuapp.com/pages/AWD00003xy  ----------
+  Hashtags: #Hotchkiss 
+  29 Feb 1916 0
+    reference:Rumilly, pas de  calais, France, March 1st to March 13th 1916: Nothing to report, except that on (the) 5th Cavalry Corps was dissolved and 3rd cavalry division cam eunder orders of General headquarters (troops?) Special order by Corps Command.  (24,21)
+  1 Mar 1916 25
+    reference:Rumilly, pas de  calais, France, March 14th 1916: Machine gun section marched to billets at Hucqueliers on concentration of 7th machine Gun squadron formed out of the regimental Machine Gun section of the brigade. (23,25)
+    unit:7 Machine Gun squadron (36,25)
+    reference:Rumilly, pas de  calais, France, March 16th 1916: Special  orde of the day by the Commander in Chief attached. (23,30)
+    reference:Special Order (79,30)
+    unit:5 Cavalry Corps (55,31)
+    place:Rumilly (22,32)
+  14 Mar 1916 33
+    reference:Special order of the Day by C in C (81,33)
+    reference:Rumilly, pas de  calais, France, March 17th to March 19th 1916: Nothing to report. (23,37)
+    unit:7 Machine Gun Sqdn (40,40)
+    reference:Rumilly, pas de  calais, France, March 20th 1916: First weekly course assembled at Divisional School formed for instructing all ranks of the division on Bombing, Sniping, the Hotchkiss gun, and Pioneering. Draft of 26 other ranks arrived.  (23,41)
+  16 Mar 1916 43
+  17 Mar 1916 47
+    reference:Rumilly, pas de  calais, France, March 21st 1916: Lieutenant Colonel the Honourable A.F. Stanley D.S.O proceeded to England to report to War Office on taking up an appointment.  (22,47)
+    reference:Special order of the Day by C in C (79,47)
+    reference:Special Order (78,47)
+    reference:Special Order of the Day C in C (31,47)
+  20 Mar 1916 51
+    reference:Rumilly, pas de  calais, France, March 22nd to March 31st 1916: Nothing to report. During the month squadron training was carried out. (23,52)
+    activity:training (40,58)
+  21 Mar 1916 62
+    person:Lieutenant Colonel Stanley (37,67)
+  22 Mar 1916 70
+    activity:training (44,78)
+Page 89 (type diary) http://wd3.herokuapp.com/pages/AWD00003y7  ----------
+  1 Apr 1916 25
+    place:Rumilly (21,32)
+    activity:training (48,36)
+    domestic:inspections (56,42)
+    person:Major E S Wyndham (other) (37,51)
+    person:Captain J C G Leigh (other) (56,56)
+Page 90 (type cover)
+Page 91 (type diary) http://wd3.herokuapp.com/pages/AWD00003wg  ----------
+  4 May 1916 31
+    place:Rumilly (21,31)
+    place:Rumilly (67,34)
+  5 May 1916 39
+    unit:7 Machine Gun Sq (45,39)
+  13 May 1916 43
+    place:Fressin (44,45)
+  14 May 1916 50
+  15 May 1916 54
+    place:Fressin (19,54)
+  16 May 1916 61
+    place:Caours (31,61)
+    place:Neuf Moulin (41,61)
+    place:Caours (20,65)
+  18 May 1916 66
+    activity:training (33,67)
+  19 May 1916 73
+    activity:training (41,76)
+  20 May 1916 77
+    activity:training (34,77)
+  21 May 1916 81
+    place:Fressin (46,84)
+  22 May 1916 85
+    activity:movement (39,85)
+    activity:movement (33,87)
+    place:Rumilly (61,87)
+  23 May 1916 88
+    place:Rumilly (23,92)
+Page 92 (type cover)
+Page 93 (type diary) http://wd3.herokuapp.com/pages/AWD00003x4  ----------
+  23 May 1916 0
+  1 Jun 1916 49
+    activity:quiet (29,53)
+  4 Jun 1916 54
+    place:Rumilly (21,54)
+    reference:Birthday Honours List (65,57)
+    person:Captain R Hamilton Stubber (award) (45,66)
+    person:Corporal Hinvest (award) (50,73)
+  5 Jun 1916 74
+    activity:quiet (30,75)
+  8 Jun 1916 77
+    activity:other (32,79)
+    reference:Special Order of the Day (50,80)
+    reference:Special Order (76,80)
+  9 Jun 1916 81
+  17 Jun 1916 85
+    activity:movement (33,88)
+    place:Merlimont (42,89)
+Page 94 (type diary) http://wd3.herokuapp.com/pages/AWD00003yr  ----------
+  18 Jun 1916 25
+    place:Merlimont (21,30)
+  20 Jun 1916 31
+    activity:movement (33,33)
+    place:Rumilly (45,35)
+    person:Regimental Sergeant Major S Coggins (award) (61,42)
+  21 Jun 1916 46
+    place:Rumilly (21,50)
+  24 Jun 1916 62
+    reference:Special Order of the Day 5117 and 5117/1 (63,63)
+    reference:S117 (77,64)
+    activity:movement (31,65)
+    activity:movement (65,65)
+  25 Jun 1916 66
+    reference:Special Order of the Day 5117/3 (61,68)
+    activity:movement (38,68)
+    place:Machiel (20,69)
+  26 Jun 1916 70
+    activity:movement (60,70)
+    reference:Special Order of the Day 5117/4 (58,72)
+    activity:movement (36,74)
+    activity:movement (67,75)
+    place:Bonnay (28,75)
+    person:Lieutenant A N F Spicer (joined) (41,76)
+  28 Jun 1916 81
+    place:Bonnay (20,81)
+    domestic:rations (29,83)
+Page 95 (type diary) http://wd3.herokuapp.com/pages/AWD00003z8  ----------
+  28 Jun 1916 23
+    reference:S117/4 (83,28)
+    reference:Special Order of the Day 5117/4 (83,33)
+    reference:5 117/4 (76,34)
+    time:0730AM (33,35)
+  29 Jun 1916 42
+    activity:quiet (28,46)
+    place:Bonnay (20,47)
+Page 96 (type diary) http://wd3.herokuapp.com/pages/AWD00003zd  ----------
+  1 Jul 1916 25
+    place:Bonnay (19,31)
+    reference:Special Order of the Day 5117/4 (37,34)
+  2 Jul 1916 35
+    reference:GM8 (44,36)
+  3 Jul 1916 39
+  4 Jul 1916 43
+    reference:LN 37/2 (70,44)
+    place:Bonnay (50,45)
+    activity:movement (41,47)
+  5 Jul 1916 49
+    domestic:accomodation (29,49)
+    place:Liercourt (39,50)
+    person:Second Lieutenant C T I Roark (departed_posted) (53,53)
+    place:Liercourt (21,54)
+    place:Mericourt (70,54)
+    unit:X V Corps (40,56)
+  6 Jul 1916 57
+    reference:S 128 (60,57)
+    activity:quiet (33,61)
+  7 Jul 1916 65
+    time:0600AM (57,65)
+  8 Jul 1916 72
+    time:0830PM (31,73)
+    reference:S 129 (61,75)
+  9 Jul 1916 77
+    activity:movement (43,77)
+    place:Corbie (43,77)
+    place:Corbie (21,80)
+  10 Jul 1916 81
+    activity:quiet (38,81)
+    unit:10 Corps (54,84)
+    time:0800AM (63,85)
+    time:0430PM (72,88)
+    activity:movement (61,89)
+Page 97 (type diary) http://wd3.herokuapp.com/pages/AWD00003wd  ----------
+  10 Jul 1916 26
+    place:Senlis (33,31)
+    place:Corbie (19,32)
+    activity:other (50,34)
+    place:Senlis (65,37)
+    place:Senlis (71,39)
+    place:La Boisselle (29,39)
+  11 Jul 1916 46
+    time:0300AM (31,46)
+    activity:movement (50,48)
+    time:0730PM (51,50)
+    place:Senlis (19,51)
+    place:Albert (39,52)
+    place:Albert (29,54)
+    reference:Burying dead at Albert (24,57)
+    place:Albert (28,59)
+    place:Mash Valley (69,61)
+    activity:other (60,62)
+    gridRef:X_14_D_29_ (51,67)
+    place:La Boisselle (36,68)
+    gridRef:X_14_A_56_ (58,68)
+    activity:other (47,78)
+    person:Trooper E Weet (casualty_wounded) (59,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (48,88)
+Page 98 (type diary) http://wd3.herokuapp.com/pages/AWD00003we  ----------
+  11 Jul 1916 25
+    person:Trooper J Faulkner (casualty_wounded) (54,31)
+    place:Senlis (21,31)
+    person:Trooper W Johnson (casualty_wounded) (49,35)
+    person:Trooper J Burt (casualty_wounded) (69,36)
+    person:Trooper J Burt (casualty_wounded) (52,39)
+    person:Second Lieutenant F N Gilbey (other) (36,43)
+    place:Corbie (66,43)
+    place:Contay (37,46)
+    activity:reconnoitered (65,49)
+    reference:S 134 (58,50)
+    place:Senlis (21,58)
+    place:Corbie (53,58)
+    activity:movement (43,58)
+    place:Becordel (70,61)
+    person:Captain J G Butler (departed_posted) (47,62)
+    place:Corbie (22,62)
+    person:Major W F Ricardo (other) (41,65)
+  14 Jul 1916 69
+    reference:S 136 (32,69)
+    reference:S 133/4 (60,72)
+    reference:S 133/4 (59,80)
+    reference:S 133/5 (60,84)
+  17 Jul 1916 85
+    person:General Varin (author) (32,89)
+    unit:French Cavalry Division (54,89)
+Page 99 (type diary) http://wd3.herokuapp.com/pages/AWD00003wj  ----------
+  17 Jul 1916 0
+  18 Jul 1916 34
+    place:Corbie (20,39)
+    activity:other (51,40)
+  19 Jul 1916 42
+    activity:quiet (31,46)
+  24 Jul 1916 47
+    person:Captain J G Butler (joined) (30,54)
+  25 Jul 1916 57
+  26 Jul 1916 62
+    place:Henencourt (61,62)
+    reference:s 14 6/1 (41,62)
+  27 Jul 1916 65
+    person:Second Lieutenant D A A Geard (joined) (41,65)
+    place:Becourt (65,70)
+  28 Jul 1916 72
+    person:Second Lieutenant D A A Geard (other) (38,72)
+    activity:quiet (34,76)
+  31 Jul 1916 81
+    person:Captain P W W Foster (other) (65,81)
+    place:Becourt (50,81)
+    place:Contay (33,89)
+Page 100 (type diary) http://wd3.herokuapp.com/pages/AWD00003ym  ----------
+  31 Jul 1916 0
+  1 Aug 1916 26
+    activity:movement (41,29)
+  2 Aug 1916 31
+    place:Corbie (19,31)
+    place:Riencourt (63,31)
+  3 Aug 1916 35
+    place:Saint Riquiers (18,35)
+    activity:movement (38,35)
+    place:Saint Riquiers (57,36)
+    reference:Information 31 (83,45)
+  4 Aug 1916 46
+    activity:movement (39,47)
+    place:Argoules (58,49)
+  5 Aug 1916 50
+    activity:movement (39,53)
+    reference:Information 32 (82,53)
+  6 Aug 1916 54
+    place:Rumilly (20,54)
+    person:Lieutenant C T I Roark (other) (35,57)
+    place:Contay (38,62)
+    activity:training (43,65)
+  7 Aug 1916 72
+    reference:Information 33 (82,75)
+  8 Aug 1916 76
+    unit:21 Division (59,84)
+    reference:Information 34 (84,86)
+    place:Arras (44,88)
+    reference:Information 34 (76,89)
+Page 101 (type diary) http://wd3.herokuapp.com/pages/AWD00003yp  ----------
+  9 Aug 1916 26
+    activity:quiet (35,30)
+    reference:Information 35 (80,30)
+    reference:Information 38 (90,30)
+  13 Aug 1916 31
+    reference:Information 36 (84,31)
+    place:Rumilly (24,31)
+    reference:S158 (42,33)
+    person:Second Lieutenant D A A Geard (other) (66,33)
+    reference:S168 (80,35)
+  14 Aug 1916 38
+    person:Lieutenant F L Reeves (joined) (36,38)
+    reference:Information 40 (82,41)
+  15 Aug 1916 42
+    activity:quiet (38,42)
+    reference:Special Orders 41 (83,45)
+  16 Aug 1916 46
+    activity:quiet (40,49)
+    reference:Information 42 (81,49)
+  18 Aug 1916 50
+    reference:S158/1 (31,52)
+  19 Aug 1916 54
+  20 Aug 1916 57
+    activity:quiet (38,57)
+    person:Second Lieutenant G T Trafford (other) (37,60)
+    reference:Information 46 (89,61)
+    reference:S156/1 (62,64)
+  21 Aug 1916 65
+  23 Aug 1916 69
+    reference:Information 47 (87,69)
+    reference:Information 48 (90,69)
+  24 Aug 1916 72
+    reference:Information 49 (88,72)
+  25 Aug 1916 76
+    reference:Information 50 (88,76)
+    activity:repair (67,80)
+    reference:Information 51 (86,83)
+    unit:2 Corps (36,85)
+Page 102 (type diary) http://wd3.herokuapp.com/pages/AWD0000406  ----------
+  26 Aug 1916 23
+    reference:Information 52 (84,25)
+    reference:Rumilly, France: Nothing to report. Information No. 52 attached. (14,25)
+    reference:Information 52 (76,26)
+  27 Aug 1916 27
+    place:Rumilly (21,27)
+    activity:quiet (30,27)
+    reference:S182 (75,29)
+    reference:Information 53 (84,29)
+    reference:s 182 (36,30)
+  28 Aug 1916 31
+    reference:S. 182 (76,31)
+    reference:Rumilly, France: S.182 attached, information No. 53 (22,31)
+    place:Rumilly (21,31)
+    reference:Information 54 (82,33)
+  29 Aug 1916 35
+    reference:Rumilly, France: Nothing to report, information No. 54 (20,35)
+    activity:quiet (33,35)
+    reference:s 168/2 (38,37)
+    reference:Information 55 (87,37)
+  30 Aug 1916 39
+    reference:Rumilly, France: S. 168/2 received. Information No. 55 attached. (15,39)
+    reference:Congratulations from GOC, 4th Australian Divn. (59,40)
+    reference:Rumilly, France: S. 168/3 received, also attached congratulatory message from G.O.C. 4th Australian division.S .168/3, S. 168/4, Information No. 56 attached. (16,42)
+    reference:orders received (35,42)
+    reference:congratulatory message (50,42)
+    unit:4 Australian Divsion (53,42)
+    reference:Information 56 (89,45)
+  31 Aug 1916 46
+    casualties:died: 0; killed: 1; missing: 1; prisoner: 0; sick: 0; wounded: 2 (31,48)
+    reference:S168/2 (43,48)
+    reference:Rumilly, France: Party detailed in S.168/2 proceeded under 2nd lieutenant F.N. Gilbey in accordance with S. 168/3. In the evening 2nd Lieutenant D.A.A. Geard and the original working party under 2nd Corps returned to billets. Major the honourable E.S. Wyndham did not return. Following casualties reported from the party:- 3366 Trooper Dell, H. killed; 3692 Trooper Chester, T. wounded, shock, at duty; 3628 Trooper Garbett, J. wounded, slightly, at duty. Information No. 57 attached. (13,49)
+    person:Second Lieutenant F N Gilbey (other) (62,50)
+    reference:S168/3 (39,52)
+    person:Second Lieutenant D A A Geard (other) (57,53)
+    person:Major E S Wyndham (other) (69,58)
+    mapRef: (57,64)
+    person:Private H Pell (casualty_kia) (47,65)
+    person:Private T Chester (casualty_wounded) (46,68)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (56,69)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (36,69)
+    person:Private J Garbett (casualty_wounded) (45,72)
+    reference:Information 57 (82,72)
+Page 103 (type diary) http://wd3.herokuapp.com/pages/AWD00003zv  ----------
+  1 Sep 1916 24
+    person:Lieutenant G Trafford (casualty_wounded) (57,29)
+    place:Rumilly (19,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (40,34)
+    reference:Information 1 (81,36)
+    unit:21 Division (28,36)
+  2 Sep 1916 38
+    person:Trooper H F Cox (casualty_wounded) (37,53)
+    casualties:died: 1; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 7 (40,54)
+    person:Trooper J Kelly (casualty_wounded) (37,57)
+    person:Trooper A L Langdon (casualty_wounded) (37,60)
+    person:Trooper Toogood (casualty_wounded) (65,62)
+    person:Trooper G E Toogood (casualty_wounded) (37,64)
+    person:Trooper G Robinson (casualty_wounded) (36,68)
+    person:Trooper H Burston (casualty_wounded) (37,72)
+    person:Trooper E Green (casualty_died) (65,75)
+    person:Trooper E Green (casualty_died) (37,76)
+    person:Trooper A G Stokes (casualty_wounded) (36,79)
+    person:Trooper A Bosworth (casualty_mia) (36,87)
+Page 104 (type diary) http://wd3.herokuapp.com/pages/AWD00003y2  ----------
+  3 Sep 1916 24
+    reference:Rumilly, France: Nothing to report. S158/2, Information No. 3 attached. (13,26)
+    reference:Information 3 (89,28)
+    reference:S158/2 (74,29)
+    reference:S158/2 Information 3 (78,30)
+  4 Sep 1916 32
+    place:Rumilly (19,32)
+    reference:S158/3 (74,33)
+    reference:Rumilly, France: Nothing to report. S158/3, Information No. 4 attached. (14,33)
+    reference:Information 4 (88,34)
+    reference:S158/3 Information 4 (76,35)
+  5 Sep 1916 37
+    activity:raid (31,38)
+    unit:21 Division (66,38)
+    unit:21 Division (38,38)
+    reference:Rumilly, France: The party of snipers detailed in S.158/2 proceeded to join 21st Divsiion in accordance with S 152/3. Information No. 5 attached. (13,38)
+    reference:S152/3 (42,41)
+    reference:Information 5 (82,41)
+  6 Sep 1916 43
+    reference:S189 (74,44)
+    reference:Information 6 (87,45)
+    reference:Rumilly, France: Nothing to report. S. 189,  Information No. 6 attached. (11,45)
+  7 Sep 1916 48
+    unit:2 Corps (46,48)
+    person:Second Lieutenant F N Gilbey (other) (62,49)
+    unit:21 Division (23,51)
+    unit:2 corps (26,51)
+    reference:Rumilly, France: The digging party attached (to)2nd Corps under 2nd Lieutenant F. N. Gilbey &the party of snipers attached (to)21st division returned to billets in view of projected move. Information No. 7 attached. (11,51)
+    unit:21 Division (51,53)
+    reference:Information 7 (84,56)
+    reference:Information 7 (77,56)
+  8 Sep 1916 58
+    reference:Rumilly, France: Nothing to report. Information No. 8 attached. (16,60)
+    reference:Information 8 (77,61)
+  9 Sep 1916 62
+    domestic:sport (47,65)
+    place:Tramecourt (57,65)
+    reference:Rumilly, France:  3rd cavalry division military competetions held at Tramecourt. Conditions for various events and results attached. S 197 attached. (14,65)
+    unit:3 Cavalry military (34,66)
+    reference:S197 (77,67)
+    reference:S197 Information 9 (78,67)
+  10 Sep 1916 69
+    reference:Rumilly, France: The division marched in accordance with S197 & billeted at Maintenax. Information No. 9 attached. (10,71)
+    activity:movement (35,72)
+    reference:Information 9 (79,72)
+    place:Maintenay (69,73)
+  11 Sep 1916 74
+    activity:movement (30,74)
+    place:Maintenay (18,76)
+    place:Gapennes (68,76)
+    reference:S197/1 (77,77)
+    reference:S197/2 (82,77)
+    reference:Maintenay, France: The regiment marched in accordance with S 197/1 and billeted at Gapennes.S197/1 and S197/2 attached. (12,77)
+  12 Sep 1916 78
+    activity:movement (26,78)
+    activity:movement (31,79)
+    place:Gapennes (16,80)
+    place:Yzeux (71,80)
+    reference:Gapennes, France: The regiment marched in accordance with S 197/2 and billeted at Yzeux. (10,81)
+  13 Sep 1916 83
+    domestic:accomodation (44,83)
+    person:Second Lieutenant P A Elworthy (departed_sick) (55,84)
+    place:Yzeux (17,85)
+    reference:Yzeux, France: The regiment remained in billets. 2nd Lieutenant P.A. Emworthy struck off the strenght of the regiment having been evacuated to England after....(continues overleaf) (12,86)
+Page 105 (type diary) http://wd3.herokuapp.com/pages/AWD00003wx  ----------
+  13 Sep 1916 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (24,26)
+    reference:Yzeux, France: (continued). 2nd Lieutenant P.A. Emworthy struck off the strenght of the regiment having been evacuated to England after going sick from the regiment on 30/09/1916. S197/3, notes for C 05 attached. (12,26)
+  14 Sep 1916 31
+    reference:Yzeux, France: The regiment marched to  bivouac near Bussy-les-Dadurs in accordance with S197/3. S201, s201/1 attached. (12,32)
+    place:Yzeux (17,35)
+    activity:movement (29,35)
+    reference:S201 S201/1 (79,37)
+    reference:S197/3 (29,38)
+  15 Sep 1916 39
+    reference:Bussy-les-Dadurs, France: 07:15: The regiment marched in accordance with S201/1. The Brigade was not called upon to move during the day, and bivouaced where they were for the night. B.M.1, B.M. 2, I. 10 attached. (10,40)
+    activity:movement (31,41)
+    reference:S201/1 (54,42)
+    time:0715AM (8,43)
+    activity:resting (51,45)
+    reference:BM1 (75,47)
+    reference:BM1 BM2 I10 (79,48)
+  16 Sep 1916 49
+    reference:Bonnay, France: The regiment stood to in accordance with G.A. 4. Nothing occurred during the day. G.A. 5, N.2, I.11, N1 attached. (9,52)
+    activity:movement (29,53)
+    reference:GA4 (77,53)
+    place:Bonnay (20,54)
+    time:0900AM (8,54)
+    reference:N2 (75,56)
+    reference:N1 (81,56)
+    reference:N2 I11 N1 (78,57)
+  17 Sep 1916 58
+    time:0200AM (8,61)
+    reference:Bonnay, France: 02:00: S201/2 arrived (attached) (10,61)
+    reference:S201/2 (78,62)
+    reference:S201/2 (30,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (29,64)
+    unit:5 Division (17,64)
+    place:Querrieu (55,65)
+    activity:movement (30,65)
+    reference:Bonnay, France: 07:00:The regiment marched to bivouac South of Averrieu in accordance with S201.2. The N.C.Os mention in GA11  proceeded to join 5th Division. The following casualties were reported from the Lieutenant's party, all accounted: 3057 Trooper Nicholls; 3689 Trooper Barnett. GB12, GB13, GB14, N3, I12, GA11 attached. (11,65)
+    time:0700AM (7,66)
+    reference:GB12 (76,66)
+    reference:GB14 (85,67)
+    reference:N3 (88,68)
+    reference:I12 (91,68)
+    reference:S201/2 (28,69)
+    unit:5 Division (64,72)
+    reference:GA11 (76,73)
+    reference:GA 11 (44,73)
+    person:Trooper Nicholls (casualty_wounded) (55,83)
+    person:Trooper 3689 Barnett (casualty_wounded) (57,87)
+Page 106 (type diary) http://wd3.herokuapp.com/pages/AWD00003yf  ----------
+  17 Sep 1916 0
+    person:Keefe (casualty_wounded) (49,28)
+    reference:Bonnay, France: 07:00:Casualties (continued): 5726 Private Keefe 6th Dragoons, 3282 Trooper Barclay, 3306 Trooper Braine, 3109 Trooper Everett, 3652 Trooper Clarke(at duty), 5709 private Shippe, 6th Dragoons, 5435 Private Rowan, 6th Dragoons, 8928 Private Beer 6th Dragoons. Missing: 3374 Trooper J. Hunter. (12,29)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 8 (50,29)
+    unit:6 Dragoon Guards (64,30)
+    person:Private Keefe (casualty_wounded) (69,31)
+    person:Trooper Barclay (casualty_wounded) (54,34)
+    person:Trooper Braine (casualty_wounded) (54,39)
+    person:Trooper Braine (casualty_wounded) (64,39)
+    person:Trooper Everett (casualty_wounded) (58,42)
+    person:Trooper Clark (casualty_wounded) (51,46)
+    person:Trooper Clark (casualty_wounded) (65,46)
+    unit:6 Dragoon Guards (64,49)
+    person:Private Shipp (casualty_wounded) (54,50)
+    person:Private Shipp (casualty_wounded) (70,50)
+    unit:6 Dragoon Guards (65,53)
+    person:Private Rowan (casualty_wounded) (50,53)
+    person:Private Rowan (casualty_wounded) (66,53)
+    person:Private Beer (casualty_wounded) (52,57)
+    person:Private Beer (casualty_wounded) (68,57)
+    unit:6 Dragoon Guards (65,58)
+    person:Trooper J Hunter (casualty_mia) (54,65)
+    person:Trooper J Hunter (casualty_mia) (66,65)
+  18 Sep 1916 72
+    unit:Dismounted party from the Base (24,73)
+    unit:7 machine gun squadron (39,73)
+    reference:Querrieu, France: 2nd Lieutenant M.H. Pelham and 27 other ranks joined from the dismounted party. These formed part of a draft of 2 officers and 51 others ranks which joined the dismounted party from the base on 16th. The other officer being 2nd Lieutenant J.H. Peat. 2nd Lieutenant M.H. Pelham proceeded to join 7th Machine Gun squadron. O.A.D 151 attached. (12,75)
+    activity:strength (56,77)
+    person:Second Lieutenant M H Pelham (joined) (33,77)
+    person:Second Lieutenant J H Peat (other) (38,88)
+    person:Second Lieutenant Pelham (departed_posted) (35,91)
+Page 107 (type diary) http://wd3.herokuapp.com/pages/AWD00003ye  ----------
+  19 Sep 1916 26
+    reference:I13 (75,27)
+    reference:South of Querrieu, France: 19th - 21st September 1916: Nothing to report. I 13, I 14, S.201/3 attached. (12,27)
+    reference:I14 (78,29)
+  22 Sep 1916 31
+    place:Querrieu (21,31)
+    reference:I13 (76,31)
+    place:Hangest (71,33)
+    reference:South of Querrieu, France: The regiment moved in accordance with S201/3 and billeted at Hangest. S. 201.3 attached. (12,33)
+    activity:movement (31,33)
+    place:Querrieu (16,34)
+  23 Sep 1916 35
+    reference:S201/4 (78,35)
+    activity:movement (43,35)
+  24 Sep 1916 38
+    place:Hangest (21,38)
+    place:Bonnieres (72,38)
+    reference:Hangest, France: The regiment moved in accordance with S201/4 and billeted at Bonnieres. S. 201.4 attached. (10,38)
+    activity:movement (39,38)
+    reference:S201/5 (78,39)
+    place:Cavron (72,42)
+    reference:Bonnieres, France: The regiment moved in accordance with S201/5 and billeted at Cavron-Contes. I15 attached. (10,42)
+    activity:movement (40,42)
+    place:Bonnieres (20,43)
+  25 Sep 1916 45
+    place:Contes (31,46)
+    reference:I15 (77,46)
+    reference:Cavron, France: The dismounted party under 2nd Lieutenant F.N. Gilder rejoined the regiment. G.B. 33, G.B. 34, I 16, G.B. 35 attached (11,48)
+    person:Second Lieutenant F N Gilbey (joined) (55,50)
+    place:Cavron (20,50)
+    reference:I16 (86,52)
+  26 Sep 1916 53
+    reference:GB33 (75,53)
+    reference:GB35 (91,53)
+    reference:GB34 (78,54)
+    reference:Wambercourt, France: Regimental H.Q. moved to Wambercourt. I 17,  G.B. 34 attached (15,55)
+    activity:movement (38,55)
+  27 Sep 1916 57
+    place:Wambercourt (21,57)
+    reference:I17 (76,57)
+    activity:movement (48,57)
+    place:Wambercourt (50,58)
+    reference:GB39 (81,58)
+    person:Second Lieutenant G D North (joined) (35,61)
+    place:Wambercourt (12,61)
+    reference:Wambercourt, France: 2nd lieutenant G.D. North joined from Base. I 18 attached. (15,61)
+  28 Sep 1916 62
+    reference:I18 (76,62)
+    place:Wambercourt (15,64)
+    reference:I21 (82,65)
+    reference:Wambercourt, France: September 28th - 30th: Nothing to report. I 19, I 20, I 21 attached. (10,65)
+    reference:I19 (75,66)
+    reference:I20 (79,66)
+    activity:quiet (34,66)
+Page 108 (type diary) http://wd3.herokuapp.com/pages/AWD00003wk  ----------
+  28 Sep 1916 0
+    reference:s 205/1 (42,11)
+  1 Oct 1916 31
+    place:Wambercourt (14,33)
+    activity:quiet (32,35)
+  2 Oct 1916 36
+    place:Wambercourt (19,36)
+    person:Second Lieutenant J Peat (other) (60,39)
+    person:Captain H P Matthey (departed_posted) (34,39)
+    unit:Ii corps (61,41)
+    person:Second Lieutenant G D North (departed_posted) (30,43)
+    reference:S205/1 (76,46)
+    reference:S205/1 (35,46)
+  3 Oct 1916 47
+    place:Wambercourt (15,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (42,58)
+    person:Second Lieutenant J Peat (casualty_wounded) (47,58)
+    person:Second Lieutenant J Peat (casualty_wounded) (58,58)
+    reference:s 205/1 (58,60)
+    reference:s 205/1 (70,60)
+    person:Second Lieutenant G D North (casualty_wounded) (47,62)
+    person:Second Lieutenant G D North (casualty_wounded) (57,62)
+  4 Oct 1916 66
+    person:Lance Corporal E Bowl (casualty_wounded) (42,65)
+    person:Lance Corporal E Bowl (casualty_wounded) (52,65)
+    place:Wambercourt (15,68)
+    activity:quiet (33,69)
+    domestic:inspections (48,72)
+    person:Second Lieutenant R A Walter (joined) (79,75)
+    person:Second Lieutenant R Barr-Smith (joined) (89,75)
+  20 Oct 1916 77
+    activity:movement (36,80)
+    place:Wambercourt (14,80)
+    person:Second Lieutenant F W Gentle (joined) (81,80)
+    place:Fressin (59,84)
+    place:Cavron (50,88)
+    place:Wambercourt (61,88)
+Page 109 (type diary) http://wd3.herokuapp.com/pages/AWD00003zc  ----------
+  20 Oct 1916 0
+    place:Contes (50,31)
+    activity:movement (46,31)
+    place:Sains-les-Fressin (61,32)
+    activity:movement (59,33)
+  21 Oct 1916 35
+    place:Cavron (57,35)
+    place:Fressin (20,39)
+    activity:other (48,39)
+    activity:resting (32,39)
+    person:Second Lieutenant J Peat (returned_hospital) (65,42)
+    person:Second Lieutenant G D North (returned_hospital) (32,46)
+Page 110 (type diary) http://wd3.herokuapp.com/pages/AWD00003wu  ----------
+  21 Oct 1916 0
+  1 Nov 1916 24
+    activity:quiet (24,27)
+    place:Fressin (6,27)
+  2 Nov 1916 28
+    reference:s 288 (89,28)
+  3 Nov 1916 31
+    unit:Xiii corps (63,35)
+    person:Second Lieutenant F N Gilbey (other) (37,35)
+  4 Nov 1916 36
+  9 Nov 1916 39
+    activity:quiet (27,39)
+    reference:Routine Order (87,42)
+    person:Brigadier General A A Kennedy (other) (37,43)
+    person:Brigadier General B P Portal (other) (35,47)
+  10 Nov 1916 48
+    activity:quiet (26,50)
+  11 Nov 1916 51
+    unit:Ii corps (63,53)
+    person:Second Lieutenant F W Gentle (other) (35,55)
+    reference:C859 (90,63)
+    reference:c 859 (89,63)
+  12 Nov 1916 67
+    reference:S228/2 (89,69)
+  13 Nov 1916 70
+    unit:Pioneer Battalion (30,70)
+    activity:quiet (25,73)
+  18 Nov 1916 75
+    unit:7 Pioneer Battalion (35,78)
+    activity:movement (32,79)
+    unit:5 Army (36,79)
+  19 Nov 1916 81
+    unit:5 Army (24,81)
+    activity:quiet (30,85)
+Page 111 (type diary) http://wd3.herokuapp.com/pages/AWD00003zq  ----------
+  20 Nov 1916 22
+    activity:quiet (27,26)
+    place:Fressin (7,27)
+    reference:Nothing to report (21,27)
+  21 Nov 1916 28
+    place:Fressin (7,31)
+    unit:7 Pioneer Battalion (28,31)
+  22 Nov 1916 32
+    place:Hesdin (55,32)
+    place:Fressin (7,35)
+    reference:Nothing to report (20,35)
+    activity:quiet (34,35)
+  27 Nov 1916 36
+    person:Second Lieutenant T Rawson-Shaw (joined) (38,39)
+  28 Nov 1916 40
+    person:Second Lieutenant T Rawson-Shaw (joined) (28,40)
+    place:Fressin (7,41)
+    unit:9 Corps (61,42)
+    person:Captain Lord Somers (departed_posted) (28,43)
+    unit:9 Corps Divisional (60,43)
+  29 Nov 1916 47
+    place:Fressin (7,50)
+  30 Nov 1916 51
+    person:Lieutenant Colonel E H Brassey (departed_leave) (31,51)
+    activity:quiet (31,54)
+    place:Fressin (6,55)
+    reference:Nothing to report (27,55)
+Page 112 (type diary) http://wd3.herokuapp.com/pages/AWD00003xi  ----------
+  1 Dec 1916 23
+  10 Dec 1916 27
+    reference:Nothing to report (26,27)
+  11 Dec 1916 28
+    place:Fressin (8,28)
+    place:Fressin (6,28)
+    activity:quiet (25,28)
+  12 Dec 1916 32
+    person:Second Lieutenant M Morisse (joined) (27,32)
+    activity:quiet (27,35)
+  13 Dec 1916 36
+    reference:Nothing to report (24,36)
+  14 Dec 1916 37
+    unit:7 Cavalry Pioneer Battalion (62,40)
+    reference:Headquarters,officers and 130 OR from ea coy (29,40)
+  15 Dec 1916 44
+  26 Dec 1916 46
+    person:Second Lieutenant H A Brown (departed_posted) (41,47)
+    reference:Nothing to report (24,47)
+    activity:quiet (26,47)
+  28 Dec 1916 51
+    person:Captain Lord Somers (other) (32,51)
+    person:Captain Lord Somers (other) (27,51)
+  31 Dec 1916 53
+    reference:Nothing to report (29,54)
+    activity:quiet (28,55)
+Page 113 (type diary) http://wd3.herokuapp.com/pages/AWD00003wz  ----------
+  1 Jan 1917 23
+    place:Fressin (7,27)
+  2 Jan 1917 28
+    reference:The London Gazette (79,28)
+    person:Lieutenant Colonel E H Brassey (award) (28,31)
+  3 Jan 1917 35
+  6 Jan 1917 40
+    person:Second Lieutenant T Rawson-Shaw (other) (39,43)
+    person:Second Lieutenant E Morrisse (other) (55,43)
+    place:Doullens (85,43)
+    person:Captain J C G Leigh (other) (29,44)
+    person:Second Lieutenant Walter (other) (72,47)
+    person:Captain Jj Astor (other) (65,47)
+  7 Jan 1917 50
+    person:Second Lieutenant Gd North (other) (22,50)
+    person:Second Lieutenant R Barr-Smith (other) (48,50)
+  11 Jan 1917 55
+    person:Lieutenant Daa Geard (other) (27,58)
+  12 Jan 1917 59
+    person:Lieutenant E Fisher (other) (42,59)
+  22 Jan 1917 63
+    reference:The London Gazette (70,64)
+    person:Corporal H Horsman (award) (62,70)
+    person:Corporal D Proctor (award) (59,71)
+    person:Corporal Nb Whitehorn (award) (59,73)
+    person:Corporal W Freeman (award) (64,77)
+    person:Trooper F E H Leslie (award) (65,78)
+    person:Trooper Feh Leslie (award) (60,82)
+    person:Corporal Hall (award) (34,85)
+    person:Corporal W Hogg (award) (79,85)
+Page 114 (type diary) http://wd3.herokuapp.com/pages/AWD00003x9  ----------
+  23 Jan 1917 27
+    unit:1 Life Guards (37,27)
+    place:Fressin (7,30)
+  26 Jan 1917 31
+    activity:quiet (28,32)
+    place:Fressin (7,35)
+    person:Captain H W P Matthey (other) (26,36)
+    person:Second Lieutenant F N Gilbey (other) (40,36)
+    person:Captain Leigh (other) (80,36)
+  27 Jan 1917 39
+    person:Lieutenant D A A Geard (other) (29,39)
+    person:Lieutenant Daa Geard (other) (34,40)
+    place:Fressin (6,42)
+  30 Jan 1917 44
+    activity:movement (35,46)
+    place:Fressin (6,46)
+  31 Jan 1917 48
+    activity:quiet (26,51)
+    place:Fressin (6,52)
+Page 115 (type diary) http://wd3.herokuapp.com/pages/AWD00003y5  ----------
+  1 Feb 1917 23
+    place:Fressin (7,27)
+    unit:Essex Yeomanry (22,31)
+    place:Saint-Josse (62,31)
+    place:Le Moulinel (79,31)
+  2 Feb 1917 35
+    place:Saint Aubin (34,35)
+    place:Saint Josse (6,37)
+  3 Feb 1917 40
+    person:Lieutenant Colonel Brassey (returned_training) (25,43)
+  4 Feb 1917 47
+    reference:Programme of Training (62,49)
+    weather:cold (78,50)
+    reference:Attached training programme (89,51)
+    activity:training (24,52)
+  18 Feb 1917 62
+    person:other McKenzie (award) (60,70)
+    person:Corporal Freeman Freeman (award) (36,73)
+  22 Feb 1917 74
+    person:Captain H Proctor (award) (25,74)
+    person:Trooper Leslie (award) (48,74)
+    person:Lieutenant Trafford (joined) (29,78)
+    person:Second Lieutenant Brassey (joined) (46,78)
+  26 Feb 1917 79
+    domestic:inspections (34,81)
+Page 116 (type diary) http://wd3.herokuapp.com/pages/AWD0000402  ----------
+  1 Mar 1917 23
+  2 Mar 1917 26
+    activity:training (27,26)
+    place:Saint Josse (6,27)
+  3 Mar 1917 28
+    unit:Leicestershire Yeomanry (65,28)
+    person:Captain Lord Somers (departed_posted) (25,29)
+  9 Mar 1917 31
+    activity:quiet (21,31)
+    unit:51 Division (53,35)
+    person:Second Lieutenant F W Gentle (departed_training) (26,35)
+    person:Second Lieutenant C H Brassey (departed_training) (37,35)
+    place:Arras (70,35)
+    person:Second Lieutenant F W Gentle (departed_sick) (39,38)
+  10 Mar 1917 39
+  13 Mar 1917 43
+    activity:quiet (25,44)
+  14 Mar 1917 46
+    activity:quiet (25,50)
+  18 Mar 1917 51
+    person:Lieutenant Lti Roark (departed_sick) (42,53)
+    person:Lieutenant H W C Denison (departed_sick) (28,54)
+    person:Lieutenant L T I Roark (departed_sick) (41,54)
+  19 Mar 1917 58
+  20 Mar 1917 62
+    activity:quiet (27,63)
+  21 Mar 1917 65
+    person:Second Lieutenant Leach (joined) (28,65)
+  22 Mar 1917 69
+    activity:quiet (24,69)
+  23 Mar 1917 73
+    person:Second Lieutenant C H Brassey (returned_training) (28,73)
+    unit:1 Cavalry Division Supply Column (74,77)
+    place:Ligny-St-Flochel (58,78)
+  25 Mar 1917 83
+    activity:quiet (25,85)
+Page 117 (type diary) http://wd3.herokuapp.com/pages/AWD00003yd  ----------
+  26 Mar 1917 24
+    place:Saint Josse (6,27)
+  27 Mar 1917 28
+    person:Lieutenant E Fisher (24,31)
+    unit:7 Cavalry Brigade (47,33)
+    domestic:inspections (37,35)
+  28 Mar 1917 36
+  31 Mar 1917 39
+    activity:quiet (25,40)
+Page 118 (type diary) http://wd3.herokuapp.com/pages/AWD00003yx  ----------
+  1 Apr 1917 26
+    place:Saint Josse (5,26)
+    person:Second Lieutenant G D North (departed_sick) (30,28)
+  2 Apr 1917 29
+    reference:s 383 (89,29)
+  3 Apr 1917 30
+    place:Saint Josse (7,30)
+    reference:S.376/4 (89,33)
+  4 Apr 1917 34
+    unit:3 Dismounted Battalion (54,35)
+  5 Apr 1917 37
+    person:Second Lieutenant C H Brassey (departed_posted) (27,37)
+    place:Loison (52,40)
+    domestic:accomodation (42,40)
+    activity:movement (33,41)
+    unit:3 Cavalry Division (23,44)
+    person:Second Lieutenant T C Hume (departed_posted) (63,47)
+    person:Second Lieutenant R Barr-Smith (departed_posted) (47,48)
+    person:Second Lieutenant Tc Home (departed_posted) (59,49)
+  6 Apr 1917 52
+    reference:s 393 (90,52)
+    place:Beaurainville (24,52)
+  7 Apr 1917 56
+    place:Loison (7,56)
+    reference:BMA2 (88,59)
+    place:Boubers-Sur-Canche (43,59)
+    reference:bma 2 (89,60)
+    activity:movement (30,60)
+  8 Apr 1917 61
+    activity:movement (47,63)
+    place:Gouy-En-Artois (60,63)
+    domestic:parades (31,64)
+    place:Boubers-Sur-Canche (7,65)
+    person:Major E S Wyndham (other) (73,67)
+    place:Boubers-Sur-Canche (25,67)
+  9 Apr 1917 88
+    reference:F.556 (87,71)
+    person:Captain H W B Matthey (other) (26,71)
+    reference:F.556 (87,72)
+    time:0530AM (76,74)
+    reference:F556 (49,74)
+    time:0730AM (16,75)
+    reference:f 556 (50,75)
+    time:1100AM (16,81)
+    reference:F561 (50,81)
+    reference:f 561 (52,83)
+    domestic:parades (31,83)
+    time:0400PM (17,86)
+    activity:movement (37,87)
+Page 119 (type diary) http://wd3.herokuapp.com/pages/AWD00003yu  ----------
+  9 Apr 1917 0
+    time:0400PM (16,32)
+    unit:Vi corps (59,37)
+    place:Dead Man's Corner (57,40)
+    unit:7 Cavalry Brigade (34,41)
+    place:Arras (21,44)
+    place:Arras (55,52)
+    reference:G984 (89,62)
+    time:1200PM (16,63)
+    time:0200PM (16,68)
+    place:Orange Hill (80,70)
+    place:Arras (30,71)
+    place:Orange Hill (46,78)
+    unit:10 Hussars (42,81)
+Page 120 (type diary) http://wd3.herokuapp.com/pages/AWD00003wv  ----------
+  9 Apr 1917 0
+    reference:HW1 (22,32)
+    reference:HW1 Situation Report (87,32)
+    reference:H. W 1 (88,33)
+    reference:HW1 (49,36)
+    time:0500AM (15,37)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (64,53)
+    place:Arras (82,63)
+    reference:Situation Report (91,63)
+    time:0400PM (14,63)
+    reference:HW2 Situation Report (88,67)
+    reference:H. W 2 (87,67)
+    time:0800PM (14,68)
+    place:Simencourt (47,70)
+    activity:movement (27,70)
+    reference:BMA14 (88,71)
+    place:Simencourt (7,75)
+    activity:movement (29,79)
+    reference:BMA16 (87,79)
+    reference:B.M.A 16 (88,79)
+    reference:BMA16 (69,80)
+    place:Dompierre-Sur-Authie (43,87)
+Page 121 (type diary) http://wd3.herokuapp.com/pages/AWD00003z2  ----------
+  20 Apr 1917 23
+    activity:quiet (26,27)
+    place:Dompierre (6,28)
+    place:Frevent (71,31)
+    unit:Cavalry Corps Reinforcement Camp (50,32)
+    activity:quiet (27,36)
+    person:Second Lieutenant Hume (other) (25,39)
+    person:Second Lieutenant L G Hume (other) (29,40)
+    place:Dieppe (59,40)
+  30 Apr 1917 44
+    activity:quiet (25,45)
+    activity:strength (27,48)
+Page 122 (type diary) http://wd3.herokuapp.com/pages/AWD00003zb  ----------
+  30 Apr 1917 0
+    place:Dompierre (5,29)
+    reference:BM 709 (61,31)
+    reference:BM 784 (50,32)
+    reference:BM 784 (90,33)
+    reference:BM 784 (43,37)
+    activity:movement (37,38)
+    reference:BM 792 (51,41)
+    reference:BM 792 (89,41)
+    reference:BM 709 (69,42)
+    person:Captain C Yeatman (award) (19,44)
+    person:other W Brown (award) (32,44)
+    reference:BM 797 (50,55)
+    reference:BM 797 (88,55)
+  18 May 1917 57
+    place:Cerisy (7,59)
+  19 May 1917 61
+    reference:BM 802 (68,63)
+    reference:BM 802 (88,63)
+  22 May 1917 68
+  23 May 1917 71
+    reference:D 262 (30,77)
+  24 May 1917 81
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (45,89)
+    person:Langley (25,89)
+Page 123 (type diary) http://wd3.herokuapp.com/pages/AWD00003xm  ----------
+  24 May 1917 25
+    place:Epehy (8,28)
+    reference:c(1)( ii) 22.5.17 (67,28)
+    time:1045PM (21,28)
+    time:0345AM (45,30)
+    activity:quiet (29,31)
+  25 May 1917 32
+    activity:repair (43,33)
+    person:Major E S Wyndham (other) (72,33)
+    place:Pigeon Ravine (56,34)
+    time:0500AM (22,34)
+    time:0845PM (22,39)
+    activity:movement (37,42)
+    place:Fallen Tree Dump (41,42)
+    place:Pigeon Ravine (54,45)
+    place:Fallen Tree Dump (42,49)
+    place:Epehy (8,49)
+  26 May 1917 50
+    time:0930PM (22,53)
+    activity:other (43,54)
+    time:0945PM (23,57)
+    activity:repair (68,58)
+    place:Pigeon Ravine (33,60)
+    unit:Leicester Yeomanry (52,61)
+    unit:Aeroplanes (61,62)
+    time:1200AM (45,62)
+    activity:enemy_activity (43,66)
+    activity:enemy_activity (52,66)
+  27 May 1917 68
+    time:0930PM (23,71)
+  28 May 1917 72
+    time:0200AM (23,80)
+    time:0200AM (48,80)
+    activity:repair (58,84)
+    time:0930PM (23,84)
+  29 May 1917 85
+    activity:quiet (29,85)
+    unit:Aeroplanes (40,86)
+    time:0930PM (23,88)
+    activity:repair (42,89)
+Page 124 (type diary) http://wd3.herokuapp.com/pages/AWD00003zt  ----------
+  30 May 1917 25
+    time:1200AM (66,25)
+    unit:2 Life Guards (56,25)
+    time:0930PM (22,27)
+    activity:fire (31,27)
+    time:0230AM (53,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,33)
+    time:0400AM (56,34)
+    place:Brown Line (40,34)
+    activity:movement (36,35)
+  31 May 1917 40
+    unit:Royal Engineers (55,41)
+    place:Fallen Tree (67,41)
+    time:0930PM (59,42)
+    place:Brown Line (8,42)
+    time:0930PM (22,43)
+    person:Trooper H Langley (casualty_wounded) (43,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (52,46)
+  1 Jul 1917 47
+    activity:repair (28,50)
+Page 125 (type diary) http://wd3.herokuapp.com/pages/AWD00003yc  ----------
+  1 Jul 1917 26
+    activity:quiet (30,28)
+  5 Jul 1917 32
+    unit:Leicestershire Yeomanry (67,32)
+    person:Lieutenant Colonel E H Brassey (other) (36,32)
+  6 Jul 1917 43
+    time:0200AM (11,45)
+    activity:fire (48,66)
+    time:0700PM (42,68)
+    person:Trooper W E Butcher (casualty_wounded) (43,73)
+    unit:R A F (38,75)
+    activity:enemy_activity (37,77)
+  7 Jul 1917 80
+    time:0500AM (12,83)
+    person:Lieutenant G T Trafford (other) (36,84)
+Page 126 (type diary) http://wd3.herokuapp.com/pages/AWD00003zz  ----------
+  7 Jul 1917 21
+    place:Ossus Wood (31,25)
+    place:Ossus Wood (28,29)
+    reference:x23d4.6 (45,30)
+    place:Ossus Wood (67,40)
+    time:1050PM (15,53)
+    time:1130PM (15,69)
+    person:Lieutenant G T Trafford (other) (34,71)
+    person:Corporal V Stammers (other) (31,79)
+    person:Corporal V Stammers (other) (34,81)
+    place:Canal Wood (69,81)
+  8 Jul 1917 82
+    time:1130AM (11,85)
+    time:1145AM (60,90)
+Page 127 (type diary) http://wd3.herokuapp.com/pages/AWD00003xa  ----------
+  8 Jul 1917 0
+    activity:enemy_activity (44,30)
+    activity:reconnoitered (49,42)
+    time:1130PM (13,42)
+  9 Jul 1917 51
+    reference:x24.a?? (49,51)
+    activity:quiet (34,55)
+  11 Jul 1917 58
+    unit:Hq 1 royal dragoons (68,58)
+    unit:Headquarters 1 Regiment Dragoons (55,60)
+    unit:3 Dragoon Guards (30,67)
+  12 Jul 1917 69
+    time:0300AM (9,73)
+  13 Jul 1917 76
+  19 Jul 1917 89
+Page 128 (type diary) http://wd3.herokuapp.com/pages/AWD00003ya  ----------
+  20 Jul 1917 29
+  21 Jul 1917 34
+  28 Jul 1917 38
+    activity:quiet (40,40)
+  30 Jul 1917 48
+    activity:quiet (42,48)
+Page 129 (type diary) http://wd3.herokuapp.com/pages/AWD00003wb  ----------
+  30 Jul 1917 0
+    place:Maricourt (21,32)
+    place:Orville (54,36)
+    unit:2 Cavalry Division (69,49)
+    place:Tincourt (36,54)
+Page 130 (type diary) http://wd3.herokuapp.com/pages/AWD00003xc  ----------
+  3 Aug 1917 27
+  4 Aug 1917 30
+    person:Lieutenant Gilbey (other) (68,33)
+  5 Aug 1917 45
+    person:Second Lieutenant T C Hume (promotion) (51,49)
+  6 Aug 1917 50
+    person:Captain H W D Matthey (other) (39,51)
+  7 Aug 1917 56
+    person:Lieutenant G T Trafford (other) (59,59)
+  8 Aug 1917 60
+  18 Aug 1917 75
+    person:Lieutenant H W G Denison (other) (39,76)
+  24 Aug 1917 85
+    person:Second Lieutenant R Barr-Smith (other) (35,85)
+  31 Aug 1917 91
+Page 131 (type diary) http://wd3.herokuapp.com/pages/AWD00003ze  ----------
+  1 Sep 1917 27
+    place:Harte Vent (21,28)
+    domestic:other (42,29)
+  2 Sep 1917 34
+    activity:movement (41,35)
+    place:Pernes (53,35)
+  3 Sep 1917 39
+    place:Pernes (21,41)
+  4 Sep 1917 43
+    person:Second Lieutenant R A Walter (other) (39,44)
+  5 Sep 1917 48
+    person:Captain J J Astor (departed_sick) (37,51)
+  6 Sep 1917 53
+  7 Sep 1917 58
+  8 Sep 1917 61
+  9 Sep 1917 67
+  10 Sep 1917 72
+  11 Sep 1917 76
+    person:Captain R Sutton (joined) (43,78)
+    person:Captain E H Wyndham (departed_posted) (40,86)
+Page 132 (type diary) http://wd3.herokuapp.com/pages/AWD00003wf  ----------
+  11 Sep 1917 0
+  12 Sep 1917 27
+    place:Pernes (21,28)
+    activity:quiet (37,29)
+  13 Sep 1917 31
+  14 Sep 1917 36
+  15 Sep 1917 42
+  16 Sep 1917 48
+    domestic:inspections (46,48)
+    activity:training (57,51)
+  17 Sep 1917 56
+    activity:quiet (41,57)
+  18 Sep 1917 63
+  19 Sep 1917 67
+    place:Pernes (65,71)
+  20 Sep 1917 73
+    reference:2 miles East (36,84)
+  21 Sep 1917 87
+    activity:quiet (37,89)
+Page 133 (type diary) http://wd3.herokuapp.com/pages/AWD00003w7  ----------
+  21 Sep 1917 0
+  22 Sep 1917 25
+    place:Camblain Chatelain (18,28)
+  23 Sep 1917 30
+  24 Sep 1917 35
+  25 Sep 1917 40
+  30 Sep 1917 46
+    person:Captain R Sutton (author) (82,46)
+  26 Sep 1917 47
+Page 134 (type diary) http://wd3.herokuapp.com/pages/AWD00003xw  ----------
+  26 Sep 1917 0
+    place:Camblain Chatelain (7,25)
+  1 Oct 1917 26
+    activity:movement (37,27)
+  2 Oct 1917 29
+    place:Rouen (53,31)
+  10 Oct 1917 34
+    place:Neuve Berquin (69,39)
+    place:Berquin (15,39)
+    activity:movement (41,39)
+  11 Oct 1917 40
+  21 Oct 1917 43
+  22 Oct 1917 47
+    place:Aumerval (8,47)
+    place:Aumerval (68,49)
+    activity:movement (41,50)
+    place:Bailleul les Pernes (39,52)
+  23 Oct 1917 53
+    place:Wamin (8,53)
+    place:Rozieres (65,57)
+    activity:movement (41,57)
+    place:Frevent (40,60)
+    place:Fieffes (9,61)
+  24 Oct 1917 62
+    place:Canaples (67,65)
+    activity:movement (40,66)
+    place:Fieffes (47,69)
+    place:Bonneville (37,72)
+    place:Montrelet (65,72)
+  25 Oct 1917 73
+    person:Lieutenant T Ratcliffe (joined) (71,78)
+    person:Lieutenant C Phipps (joined) (32,81)
+    person:Lieutenant C Palmer (joined) (43,81)
+    person:Second Lieutenant J Emmet (joined) (61,81)
+    person:Second Lieutenant G Hayter Hames (joined) (36,84)
+    reference:British Cavalry Base (44,88)
+Page 135 (type diary) http://wd3.herokuapp.com/pages/AWD00003zo  ----------
+  25 Oct 1917 0
+  26 Oct 1917 26
+    place:Fieffes (8,26)
+  27 Oct 1917 31
+    place:Fieffes (8,31)
+  28 Oct 1917 42
+    unit:Bm 1466 (68,42)
+    reference:bm1466 (69,44)
+  31 Oct 1917 46
+Page 136 (type diary) http://wd3.herokuapp.com/pages/AWD00003yg  ----------
+  31 Oct 1917 0
+  1 Nov 1917 30
+    place:Fieffes (7,33)
+  11 Nov 1917 34
+    unit:3 Cavalry Division Pioneer Batallion (65,36)
+    unit:3 Cavalry Division pioneer battalion (56,37)
+    person:Lieutenant Ratcliffe (joined) (36,37)
+  17 Nov 1917 44
+    place:Corbie (61,46)
+    activity:movement (45,47)
+    reference:Brigade Opn Order 13 (55,53)
+  18 Nov 1917 55
+    reference:no13 (60,56)
+    activity:movement (45,59)
+    place:Bray (67,59)
+    reference:no14 (72,64)
+    place:Chuignolles (61,66)
+    place:Froissy (71,67)
+  19 Nov 1917 68
+    activity:movement (37,72)
+    place:Fins (47,75)
+    unit:1 Cavalry Division (34,79)
+    unit:2 Cavalry Division (38,79)
+    unit:5 Cavalry Division (44,79)
+    unit:1 2 & 5 Cavalry Division (55,80)
+  24 Nov 1917 85
+    activity:movement (51,88)
+    place:Contay (68,90)
+Page 137 (type diary) http://wd3.herokuapp.com/pages/AWD00003zu  ----------
+  24 Nov 1917 26
+    reference:operation order no15 (51,30)
+  26 Nov 1917 31
+    place:Behencourt (34,31)
+    person:Lieutenant T Rawson Shaw (departed_sick) (35,33)
+  27 Nov 1917 34
+    activity:movement (35,37)
+    place:Behencourt (14,37)
+    place:Franvillers (71,37)
+  30 Nov 1917 40
+    person:Captain R Sutton (author) (60,59)
+Page 138 (type diary) http://wd3.herokuapp.com/pages/AWD00003y1  ----------
+  30 Nov 1917 0
+  1 Dec 1917 22
+    place:Behencourt (8,25)
+    reference:bm1700 (63,26)
+    unit:Dismountede coy (26,27)
+    person:Lieutenant D A A Geard (other) (80,28)
+    person:Major E S Wyndham (other) (29,29)
+    person:Second Lieutenant D S Leech (other) (32,31)
+    person:Lieutenant C H Palmer (other) (45,31)
+    person:Lieutenant F L Reeves (other) (56,31)
+    person:Lieutenant C Waterhouse (other) (67,31)
+    person:Lieutenant T K Robson (other) (79,31)
+  2 Dec 1917 35
+    place:Behencourt (6,37)
+  7 Dec 1917 38
+  8 Dec 1917 42
+    place:Behencourt (6,43)
+    person:Second Lieutenant G C Hayter Hames (joined) (32,43)
+    person:Lieutenant T E W Brinckman (departed_sick) (78,43)
+  12 Dec 1917 48
+    place:Behencourt (6,48)
+  13 Dec 1917 52
+    person:Lieutenant H W C Denison (other) (51,54)
+  14 Dec 1917 55
+    place:Behencourt (7,57)
+  15 Dec 1917 59
+    unit:2 Life Guards H Q (45,61)
+    unit:7 Dismounted Brigade (56,61)
+  16 Dec 1917 63
+    unit:7 Division (57,65)
+    unit:2 lifeguards hq (44,66)
+    activity:line (37,67)
+    unit:1 lifeguards hq (29,67)
+    person:Lieutenant Colonel Brassey (other) (31,69)
+    person:Lieutenant Colonel E H Brassey (other) (47,70)
+    person:Major E S Wyndham (other) (79,72)
+    person:Captain R V Sutton (other) (34,72)
+    person:Lieutenant D A A Geard (other) (73,73)
+    person:Captain Anderson (other) (27,73)
+    person:Captain E D Anderson (other) (46,75)
+    person:Lieutenant T K Robson (other) (70,76)
+  17 Dec 1917 77
+    person:Captain R H Stubber (other) (43,77)
+    person:Second Lieutenant T C Hume (other) (30,79)
+    person:Second Lieutenant T C Hume (other) (41,80)
+    place:Behencourt (7,81)
+Page 139 (type diary) http://wd3.herokuapp.com/pages/AWD00003x6  ----------
+  Hashtags: #airfight 
+  17 Dec 1917 22
+    person:Lieutenant Colonel A F Stanley (other) (26,24)
+    person:Captain Wallace (other) (39,26)
+    time:0800AM (18,26)
+    place:Yadencourt (8,26)
+    activity:line (26,32)
+  19 Dec 1917 37
+    unit:6 Dismounted Brigade (48,40)
+    unit:7 dismounted Brigade (39,42)
+    weather:other (79,50)
+    time:0400PM (37,52)
+    time:0730PM (60,52)
+    weather:fog (75,53)
+  20 Dec 1917 55
+    activity:quiet (29,55)
+    time:1100AM (17,58)
+    place:Cooker's Quarry (7,58)
+    activity:enemy_activity (34,59)
+    time:1100AM (18,60)
+    place:Coopers Quarry (6,61)
+    unit:Aeroplanes (24,63)
+    weather:cold (40,66)
+  21 Dec 1917 77
+    weather:fog (31,77)
+    activity:enemy_activity (53,78)
+    time:1000PM (17,81)
+    activity:quiet (28,81)
+    time:1000PM (18,86)
+    place:Saint Helen Trench (67,86)
+    activity:enemy_activity (53,86)
+    activity:reconnoitered (43,91)
+Page 140 (type diary) http://wd3.herokuapp.com/pages/AWD00003zp  ----------
+  2 Jan 1918 26
+    activity:quiet (26,27)
+  3 Jan 1918 28
+    place:Domleger (7,28)
+    unit:Royal Horse Guards (19,31)
+    person:Captain E H Wyndham (other) (46,39)
+    person:Lieutenant Colonel E H Brassey (other) (68,39)
+    person:Captain E H Wyndham (other) (35,39)
+    person:Lieutenant R Barr-Smith (other) (44,43)
+    person:Captain R V Sutton (other) (62,43)
+    person:Captain R V Sutton (other) (75,44)
+    person:Captain E D Anderson (other) (67,47)
+    person:Lieutenant C B H Phipps (other) (44,48)
+    person:Captain R H Stubber (other) (67,51)
+    person:Second Lieutenant D S Leech (other) (68,55)
+    person:Second Lieutenant T C Hume (other) (70,59)
+    person:Captain Lord Somers (departed_posted) (47,66)
+    person:Captain Lord Somers (departed_posted) (55,67)
+    person:Lieutenant T K Robson (departed_posted) (60,70)
+    person:Lieutenant T K Robson (departed_posted) (46,70)
+    person:Lieutenant G T Trafford (departed_posted) (54,74)
+  4 Jan 1918 78
+    person:Lieutenant C Waterhouse (departed_posted) (54,78)
+  7 Jan 1918 79
+    activity:quiet (25,82)
+  8 Jan 1918 83
+    person:Sensier (award) (37,85)
+    person:S C M Sensier (award) (37,86)
+    reference:Supp L 6 (75,87)
+Page 141 (type diary) http://wd3.herokuapp.com/pages/AWD00003xx  ----------
+  8 Jan 1918 0
+  9 Jan 1918 22
+    place:Domleger (7,25)
+    activity:quiet (29,25)
+  10 Jan 1918 26
+  11 Jan 1918 30
+    person:Lieutenant R James (casualty_wounded) (73,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (82,30)
+    activity:quiet (28,33)
+  13 Jan 1918 35
+  14 Jan 1918 38
+    person:Lieutenant J Peat (other) (65,41)
+  15 Jan 1918 42
+    activity:quiet (27,45)
+  21 Jan 1918 46
+  22 Jan 1918 49
+  29 Jan 1918 52
+    activity:quiet (26,52)
+  30 Jan 1918 54
+    place:Belloy Sur Somme (44,57)
+    activity:movement (26,57)
+  31 Jan 1918 58
+    place:Belloy Sur Somme (6,59)
+    place:Belloy (7,61)
+    person:Lieutenant C T I Roark (joined) (63,64)
+    person:Lieutenant W L Chrystal (joined) (61,69)
+    person:Lieutenant F B Gillett (joined) (61,72)
+    place:Trefcon (72,76)
+    place:Harbonniers (44,76)
+    activity:movement (33,76)
+    person:Captain R Sutton (author) (77,88)
+Page 142 (type diary) http://wd3.herokuapp.com/pages/AWD00003wr  ----------
+  31 Jan 1918 0
+  1 Feb 1918 23
+    place:Trefcon (38,24)
+    activity:movement (23,25)
+  2 Feb 1918 28
+  4 Feb 1918 31
+  5 Feb 1918 33
+    person:Major G F F Chomley (award) (64,38)
+    person:W Brown (award) (64,42)
+    person:G Boylin (award) (64,46)
+  6 Feb 1918 51
+  7 Feb 1918 52
+    unit:3 Corps Pioneer Unit (64,54)
+    person:Lieutenant Reeves (departed_posted) (85,55)
+    unit:8 Bn Royaql Highland (90,55)
+  8 Feb 1918 56
+  12 Feb 1918 59
+  13 Feb 1918 62
+  14 Feb 1918 67
+    person:Lieutenant C T I Roark (other) (34,69)
+  15 Feb 1918 71
+  22 Feb 1918 75
+  23 Feb 1918 78
+    person:Trooper Keller (casualty_wounded) (32,81)
+  24 Feb 1918 82
+    person:Trooper Clarke (casualty_wounded) (50,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (19,82)
+    person:Lance Corporal Grimsdell (casualty_wounded) (35,85)
+  25 Feb 1918 86
+Page 143 (type diary) http://wd3.herokuapp.com/pages/AWD00003ws  ----------
+  1 Mar 1918 25
+  2 Mar 1918 29
+    place:Trefcon (8,29)
+    activity:quiet (30,32)
+  7 Mar 1918 37
+    person:Lieutenant W L Everard (joined) (29,37)
+  10 Mar 1918 41
+    activity:quiet (29,41)
+    place:Harbonnieres (41,43)
+    activity:movement (26,44)
+    place:Guillaucourt (57,44)
+  11 Mar 1918 45
+    activity:movement (28,48)
+    place:Clairy (39,48)
+    place:Harbonnieres (7,48)
+  12 Mar 1918 49
+  13 Mar 1918 52
+    activity:movement (28,52)
+    place:Ailly (38,52)
+    place:Clairy (7,53)
+    activity:quiet (30,55)
+  27 Mar 1918 56
+    place:Ailly (7,56)
+    place:Gorges (37,59)
+    person:Captain L W Heelis (departed_posted) (53,59)
+  28 Mar 1918 60
+    activity:movement (28,60)
+    place:Bonnieres (40,63)
+  29 Mar 1918 64
+    activity:movement (28,64)
+    place:Gorges (8,64)
+    activity:movement (30,67)
+    place:Bonnieres (8,67)
+  30 Mar 1918 68
+    place:Buneville (43,68)
+    activity:quiet (26,71)
+  31 Mar 1918 73
+Page 144 (type diary) http://wd3.herokuapp.com/pages/AWD00003x8  ----------
+  22 Dec 1918 22
+    reference:BM 4922 (68,25)
+    activity:movement (26,26)
+    place:Behencourt (7,26)
+    place:Domart (35,26)
+    place:Domart (43,27)
+    place:Domleger (44,27)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (68,31)
+    place:Beaumetz (49,31)
+    place:Prouville (59,31)
+    person:Trooper McArthur (casualty_died) (75,31)
+    place:Longvillers (47,33)
+  23 Dec 1918 34
+    person:Trooper McKillop (casualty_wounded) (76,34)
+    place:Agenville (52,35)
+    place:Domleger (7,38)
+    person:Lieutenant C H Brassey (joined) (39,40)
+    person:Lieutenant C H Brassey (joined) (52,42)
+    person:Second Lieutenant J A G Emmet (joined) (46,44)
+  24 Dec 1918 46
+    person:Second Lieutenant M Morisse (joined) (45,46)
+  26 Dec 1918 49
+  27 Dec 1918 52
+    person:Lieutenant F L Reeves (other) (47,55)
+    person:Lieutenant C Waterhouse (other) (30,56)
+  29 Dec 1918 62
+    person:Lieutenant C H Palmer (other) (27,62)
+  30 Dec 1918 66
+  31 Dec 1918 70
+    person:Lieutenant E Fisher (joined) (28,74)
+    person:Captain R Sutton (author) (73,78)
+    person:Lieutenant S R F Spicer (other) (29,79)
+Page 145 (type diary) http://wd3.herokuapp.com/pages/AWD00003y9  ----------
+  22 Dec 1918 22
+    activity:quiet (26,26)
+    activity:fire (73,26)
+    reference:A1. Sub-Sector (7,28)
+    time:0800PM (38,30)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (46,31)
+    time:0400PM (31,32)
+    place:Dragoon Post (22,33)
+    person:Trooper McArthur (casualty_died) (33,34)
+    person:Trooper McKillop (casualty_wounded) (43,37)
+    activity:fire (33,43)
+    time:1246PM (17,44)
+    activity:fire (62,45)
+  23 Dec 1918 48
+    time:0230PM (17,56)
+    place:Tumulus (40,57)
+    activity:fire (30,57)
+  24 Dec 1918 58
+    weather:overcast (28,62)
+    activity:quiet (43,62)
+  25 Dec 1918 63
+    activity:fire (34,68)
+    time:1100AM (18,70)
+    place:Pontruet (24,70)
+    activity:fire (41,73)
+    place:Somerville Wood (32,77)
+    place:Angle Bank (49,78)
+    person:Lieutenant F L Reeves (other) (30,86)
+    person:Lieutenant Tozer (other) (54,87)
+    person:Lieutenant C Waterhouse (other) (30,89)
+    person:Lieutenant Lord Carlton (other) (69,89)
+    person:Lieutenant Lord Carlton (other) (72,89)
+    person:Lieutenant Fenwick-Palmer (other) (70,92)
+Page 146 (type diary) http://wd3.herokuapp.com/pages/AWD00003yq  ----------
+  25 Dec 1918 22
+    person:Second Lieutenant M Morisse (joined) (24,33)
+    person:Lieutenant M Buckmaster (other) (45,34)
+    person:Second Lieutenant J G Emmet (other) (33,36)
+  26 Dec 1918 39
+    person:Lieutenant C H Brassey (joined) (26,39)
+    time:1130AM (17,44)
+  27 Dec 1918 59
+    time:0800AM (17,75)
+    activity:enemy_activity (33,77)
+    time:1000AM (16,78)
+    place:Pontruet (59,79)
+    time:0230PM (16,82)
+Page 147 (type diary) http://wd3.herokuapp.com/pages/AWD00003zw  ----------
+  27 Dec 1918 0
+  28 Dec 1918 24
+    place:Somerville Wood (66,26)
+    time:0300AM (17,27)
+    activity:quiet (38,30)
+    place:Angle Bank (26,30)
+    person:Lieutenant Colonel E H Brassey (other) (83,35)
+    time:1000AM (17,38)
+    person:Brigadier General Seymour (departed_sick) (32,38)
+    person:Lieutenant Colonel (author) (28,39)
+    person:Second Lieutenant M Morisse (other) (79,45)
+    person:Captain R H Stuffer (other) (30,46)
+    person:Second Lieutenant M Morisse (other) (24,50)
+  31 Dec 1918 54
+    unit:8 Dismtd Brigade (61,54)
+    unit:8 Dismounted Brigade (74,56)
+    activity:quiet (27,58)
+    unit:Essex Yeo (30,61)
+    unit:Essex Yeo (68,61)
+    unit:Leics Yeo (30,64)
+    unit:Liec Yeo (69,65)
+    unit:X Hussars (30,67)
+    unit:Royal Horse Guards (51,67)
+    unit:X Hussars (68,68)
+    place:Vadencourt (60,77)
+    unit:Royal Horse Guards (21,80)
+    person:Captain R Sutton (author) (77,85)

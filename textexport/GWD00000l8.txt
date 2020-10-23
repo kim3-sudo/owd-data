@@ -1,0 +1,931 @@
+GWD00000l8 wo/95/1264/6
+1 DIVISION:  1 Infantry Brigade: 1 Battalion Cameron Highlanders.  
+120 pages
+
+Page 729 (type diary) http://wd3.herokuapp.com/pages/AWD00032iy  ----------
+  1 Aug 1918 0
+    activity:movement (35,28)
+    place:Arras (44,28)
+    time:0400AM (52,28)
+    activity:reconnoitered (38,32)
+    activity:movement (77,32)
+    time:0930PM (61,32)
+  2 Sep 1918 39
+    place:Guemappe (24,39)
+    weather:cold (62,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (71,41)
+    place:Drocourt-Queant Line (49,44)
+    time:0500AM (62,44)
+    unit:Canadians (28,44)
+    place:Dury (80,45)
+    place:Etaing (48,47)
+    unit:British Division (23,47)
+    unit:British Division (62,47)
+    unit:Canadian Corps (85,48)
+    place:Etaing (47,49)
+  1 Aug 1918 0
+  2 Sep 1918 39
+    activity:movement (38,52)
+    time:0930AM (78,53)
+    place:Guemappe (69,54)
+    place:Dury (44,56)
+    activity:fire (72,57)
+    place:Vis (21,57)
+    activity:movement (37,61)
+    place:Dury (21,61)
+    unit:12 Brigade Canadians (26,64)
+    activity:withdraw (83,65)
+    unit:12 Brigade Canadians (35,72)
+  3 Sep 1918 77
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 22 (72,77)
+    activity:support (25,81)
+    unit:12 Brigade Canadians (44,81)
+    place:Dury (62,82)
+    time:0530PM (69,82)
+    activity:movement (78,83)
+    place:Sensee River (60,85)
+    unit:4 British Division (38,85)
+    unit:Black Watch (35,89)
+    place:Drocourt-Queant Line (77,90)
+Page 730 (type diary) http://wd3.herokuapp.com/pages/AWD00032i4  ----------
+  3 Sep 1918 22
+    activity:movement (23,27)
+  4 Sep 1918 31
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 15 (34,32)
+    place:Sensee River (67,35)
+    unit:Black Watch (45,35)
+    unit:2 Brigade (79,35)
+    activity:support (33,36)
+    reference:The Black Watch (45,36)
+    unit:4 Canadian Division. (53,40)
+    casualties:died: 0; killed: 0; missing: 4; prisoner: 0; sick: 0; wounded: 2 (44,48)
+    unit:Black Watch (30,51)
+  6 Sep 1918 56
+    activity:support (25,56)
+    unit:B boy (74,58)
+    activity:support (24,61)
+    activity:fire (38,61)
+    place:Dury (52,61)
+    casualties:died: 0; killed: 1; missing: 2; prisoner: 0; sick: 0; wounded: 0 (60,61)
+    place:Recourt (45,65)
+    weather:rain (70,65)
+  8 Sep 1918 73
+    activity:support (23,73)
+    unit:2 London (38,77)
+    activity:support (23,78)
+    time:0930PM (63,78)
+    unit:2 London Regiment. (39,78)
+    activity:movement (23,82)
+    place:Guemappe (75,82)
+    time:0300AM (84,82)
+  9 Sep 1918 86
+    time:0430AM (43,86)
+    place:Etrun (35,87)
+    weather:rain (52,90)
+Page 731 (type diary) http://wd3.herokuapp.com/pages/AWD00032is  ----------
+  9 Sep 1918 21
+    person:Lieutenant N W Mowbroy (other) (81,26)
+    person:Captain J Robertson (other) (69,27)
+    person:Captain A R Mackenzie (commander) (57,30)
+    person:Captain A S Wakely (other) (35,31)
+    person:Lieutenant Ferguson (other) (81,31)
+  10 Sep 1918 61
+  11 Sep 1918 65
+    place:Moreuil (42,65)
+  12 Sep 1918 69
+    activity:movement (61,69)
+    place:Morcourt (78,69)
+    place:Morcourt (47,73)
+  13 Sep 1918 74
+  14 Sep 1918 77
+    place:Morcourt (44,77)
+    place:Lake Wood (67,81)
+  15 Sep 1918 82
+    activity:movement (41,83)
+    activity:movement (35,84)
+    place:Marteville (59,85)
+  16 Sep 1918 86
+    unit:South Wales Borderers (50,90)
+Page 732 (type diary) http://wd3.herokuapp.com/pages/AWD00032iv  ----------
+  16 Sep 1918 0
+    activity:movement (47,28)
+  18 Sep 1918 31
+    place:Maissemy (34,31)
+    time:0450AM (24,36)
+    activity:attack (35,42)
+    place:Villemay Trench (37,45)
+    activity:achieved (58,57)
+    time:0950AM (77,65)
+    place:Berthaucourt (64,76)
+    time:0815AM (24,91)
+Page 734 (type diary) http://wd3.herokuapp.com/pages/AWD00032j9  ----------
+  19 Sep 1918 24
+    place:Berthaucourt (60,31)
+    activity:enemy_activity (23,32)
+    activity:withdraw (76,35)
+  20 Sep 1918 52
+  21 Sep 1918 64
+    place:Berthaucourt (25,64)
+    unit:Loyal N Lanes (49,67)
+  22 Sep 1918 69
+    unit:Loyal North Lancashire Battalion (51,70)
+  23 Sep 1918 74
+    place:Vermand (48,76)
+  24 Sep 1918 78
+    activity:movement (29,78)
+  25 Sep 1918 82
+    unit:2 Brigade (51,82)
+    activity:support (29,82)
+    place:Vermand (48,85)
+  26 Sep 1918 86
+    activity:movement (29,86)
+    activity:movement (29,90)
+Page 735 (type diary) http://wd3.herokuapp.com/pages/AWD00032kj  ----------
+  27 Sep 1918 22
+    unit:North and Deby (63,26)
+  28 Sep 1918 28
+    activity:quiet (24,31)
+  29 Sep 1918 33
+    place:Tumulos (76,35)
+  30 Sep 1918 36
+    activity:movement (41,36)
+    activity:movement (30,40)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 6 (23,43)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 6 (60,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 6 (71,45)
+    casualties:died: 13; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (79,49)
+    casualties:died: 0; killed: 0; missing: 3; prisoner: 0; sick: 0; wounded: 0 (24,54)
+Page 736 (type diary) http://wd3.herokuapp.com/pages/AWD00032kx  ----------
+  3 Oct 1918 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 25; wounded: 0 (40,75)
+Page 737 (type orders) http://wd3.herokuapp.com/pages/AWD00032im  ----------
+  3 Oct 1918 0
+    orders:move (38,24)
+Page 738 (type other) http://wd3.herokuapp.com/pages/AWD00032ix  ----------
+  3 Oct 1918 0
+Page 739 (type ) http://wd3.herokuapp.com/pages/AWD00032jp  ----------
+  3 Oct 1918 0
+    reference:5410/203/7 (65,13)
+    reference:6194 (60,23)
+    date:9 Sep 1918 (59,24)
+    reference:1st. Brit. Division No. 5410/203/7. (50,29)
+    person:Lieutenant Colonel Clay (commander) (52,60)
+    date:8 Sep 1918 (38,65)
+    reference:6803 (50,8)
+Page 741 (type orders) http://wd3.herokuapp.com/pages/AWD00032kn  ----------
+  3 Oct 1918 0
+    reference:6813 (29,22)
+    reference:G. 159/1 (82,26)
+    reference:1st brigade No.g.159/1. (52,29)
+    reference:159 (77,34)
+    reference:159 Table 'A' (64,47)
+Page 742 (type orders) http://wd3.herokuapp.com/pages/AWD00032id  ----------
+  3 Oct 1918 0
+    reference:1st Brigade No. G. 5/53. (71,19)
+    reference:1st brigade No.g.5/53 (54,23)
+    reference:G 5/53 (86,24)
+    date:8 Nov 1918 (37,25)
+    reference:IX corps G.s. Circular #5-notes on anti-gas defence (71,52)
+Page 743 (type other) http://wd3.herokuapp.com/pages/AWD00032j3  ----------
+  3 Oct 1918 0
+    reference:IX corps G.s. Circular #5-notes on anti-gas defence during moving warfare (61,11)
+    reference:notes on ant-gas defence (34,17)
+Page 744 (type other) http://wd3.herokuapp.com/pages/AWD00032jq  ----------
+  3 Oct 1918 0
+    reference:notes on ant-gas defence (33,13)
+    date:12 Sep 1918 (37,65)
+    reference:IX corps G.s. Circular #5-notes on anti-gas defence during moving warfare (47,69)
+Page 745 (type orders) http://wd3.herokuapp.com/pages/AWD00032ji  ----------
+  3 Oct 1918 0
+    reference:aminens sheet  1/100.000 (39,17)
+    date:12 Sep 1918 (38,73)
+Page 746 (type orders) http://wd3.herokuapp.com/pages/AWD00032jo  ----------
+  3 Oct 1918 0
+    unit:1 st kompany .g.g (39,26)
+    reference:1st Brigade No. B.M. 94. (49,6)
+    date:13 Sep 1918 (38,90)
+Page 747 (type signals) http://wd3.herokuapp.com/pages/AWD00032kk  ----------
+  3 Oct 1918 0
+    date:8 Nov 1918 (52,15)
+    date:15 Sep 1918 (45,31)
+Page 748 (type ) http://wd3.herokuapp.com/pages/AWD00032jt  ----------
+  3 Oct 1918 0
+    reference:attached bn (34,41)
+Page 749 (type report) http://wd3.herokuapp.com/pages/AWD00032k7  ----------
+  3 Oct 1918 0
+    date:24 Sep 1918 (46,12)
+    person:Major General E P Strickland (commander) (48,18)
+    person:Brigadier General G C Kelly (commander) (47,22)
+    person:Brigadier General W A I Kay (commander) (51,38)
+    person:Brigadier General H F E Lewin (commander) (53,59)
+Page 750 (type ) http://wd3.herokuapp.com/pages/AWD00032kp  ----------
+  3 Oct 1918 0
+    reference:attached bn (54,61)
+Page 751 (type orders) http://wd3.herokuapp.com/pages/AWD00032jh  ----------
+  3 Oct 1918 0
+Page 753 (type ) http://wd3.herokuapp.com/pages/AWD00032kf  ----------
+  3 Oct 1918 0
+Page 754 (type report) http://wd3.herokuapp.com/pages/AWD00032ik  ----------
+  3 Oct 1918 0
+    casualties:died: 0; killed: 83; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,39)
+    casualties:died: 0; killed: 12; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 35 (39,41)
+    casualties:died: 0; killed: 430; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,41)
+    casualties:died: 0; killed: 0; missing: 64; prisoner: 0; sick: 0; wounded: 0 (44,42)
+Page 755 (type report) http://wd3.herokuapp.com/pages/AWD00032jg  ----------
+  3 Oct 1918 0
+    date:18 Sep 1918 (42,10)
+    date:19 Sep 1918 (53,11)
+    person:Major General E P Strickland (commander) (50,18)
+Page 756 (type report) http://wd3.herokuapp.com/pages/AWD00032kr  ----------
+  3 Oct 1918 0
+Page 757 (type report) http://wd3.herokuapp.com/pages/AWD00032j1  ----------
+  3 Oct 1918 0
+    title:Brief plan of the operations (44,10)
+    date:13 Aug 1918 (42,16)
+Page 758 (type report) http://wd3.herokuapp.com/pages/AWD00032j5  ----------
+  3 Oct 1918 0
+    title:Account of the Action (41,28)
+Page 759 (type report) http://wd3.herokuapp.com/pages/AWD00032ii  ----------
+  3 Oct 1918 0
+Page 760 (type orders) http://wd3.herokuapp.com/pages/AWD00032kv  ----------
+  3 Oct 1918 0
+    person:Major L G Miles (commander) (42,27)
+    reference:1st British Infantry Brigade Administrative Instructions No. 24.  (61,6)
+    orders:move (38,8)
+    reference:24 (63,8)
+    date:7 Sep 1918 (38,90)
+Page 761 (type ) http://wd3.herokuapp.com/pages/AWD00032ki  ----------
+  3 Oct 1918 0
+Page 762 (type orders) http://wd3.herokuapp.com/pages/AWD00032k4  ----------
+  3 Oct 1918 0
+    reference:1st Brigade No. G4/245.  (71,13)
+    reference:code (32,52)
+Page 763 (type orders) http://wd3.herokuapp.com/pages/AWD00032jc  ----------
+  3 Oct 1918 0
+    date:8 Nov 1918 (49,13)
+    orders:attack (49,19)
+    reference:1st Brigade No. G.1/367.  (59,5)
+    date:21 Sep 1918 (38,91)
+Page 764 (type orders) http://wd3.herokuapp.com/pages/AWD00032jr  ----------
+  3 Oct 1918 0
+    reference:1st Brigade Order No. 163, para. 4 (49,36)
+    reference:1st brigade order.163 (33,39)
+    date:26 Sep 1918 (34,70)
+Page 765 (type orders) http://wd3.herokuapp.com/pages/AWD00032jy  ----------
+  3 Oct 1918 0
+    reference:1st brigade  no .g. 774 (51,11)
+    reference:1st Brigade No. G. 774.  (62,8)
+    date:26 Sep 1918 (34,84)
+Page 766 (type orders) http://wd3.herokuapp.com/pages/AWD00032jn  ----------
+  3 Oct 1918 0
+    reference:1st brigade  no .g. 775 (52,18)
+    date:26 Sep 1918 (29,78)
+    date:26 Sep 1918 (24,81)
+Page 767 (type signals) http://wd3.herokuapp.com/pages/AWD00032l1  ----------
+  3 Oct 1918 0
+    date:26 Sep 1918 (47,34)
+    time:0350PM (40,86)
+    person:Captain J Robertson (commander) (55,87)
+Page 768 (type orders) http://wd3.herokuapp.com/pages/AWD00032kg  ----------
+  3 Oct 1918 0
+    orders:attack (46,24)
+    reference:gas (38,32)
+    date:26 Sep 1918 (41,63)
+Page 769 (type other) http://wd3.herokuapp.com/pages/AWD00032l7  ----------
+  3 Oct 1918 0
+Page 770 (type signals) http://wd3.herokuapp.com/pages/AWD00032i2  ----------
+  3 Oct 1918 0
+    unit:1 L.N. Lancashires (51,16)
+    unit:1 Blackwatch (34,18)
+    unit:1 black watch (35,22)
+    unit:1 T.M. Battery (52,24)
+    date:28 Sep 1918 (44,28)
+    reference:casualties (42,44)
+Page 771 (type orders) http://wd3.herokuapp.com/pages/AWD00032ir  ----------
+  3 Oct 1918 0
+    date:30 Sep 1918 (37,88)
+Page 772 (type other) http://wd3.herokuapp.com/pages/AWD00032ic  ----------
+Page 773 (type other) http://wd3.herokuapp.com/pages/AWD00032kq  ----------
+  3 Oct 1918 0
+    date:18 Sep 1918 (27,21)
+Page 774 (type other) http://wd3.herokuapp.com/pages/AWD00032jx  ----------
+  3 Oct 1918 0
+    mapRef: (32,21)
+    unit: (34,3)
+Page 775 (type cover)
+Page 776 (type diary) http://wd3.herokuapp.com/pages/AWD00032kb  ----------
+  1 Oct 1918 26
+    place:Le Tronquay (39,27)
+    unit:16 hli (55,27)
+    unit:1 dorsets (71,27)
+    activity:movement (30,27)
+    unit:Loyal north lancs (43,32)
+    unit:Black watch (61,32)
+    unit:L n lancs (44,32)
+  2 Oct 1918 36
+    unit:French troops (31,37)
+    unit:Loyal north lancs (26,42)
+  3 Oct 1918 51
+    unit:Loyal north lancs (65,53)
+    unit:French troops (49,58)
+    unit:Loyal north lancs (78,59)
+    activity:fire (25,68)
+    activity:movement (74,68)
+    unit:Black watch (56,69)
+    unit:Black watch (65,69)
+  4 Oct 1918 78
+    place:Vermand (55,78)
+    domestic:accomodation (47,79)
+    activity:movement (36,79)
+  5 Oct 1918 82
+    place:Vermand (47,83)
+  8 Oct 1918 84
+    activity:training (56,84)
+  9 Oct 1918 89
+    place:Bellinglise (48,90)
+    activity:movement (36,90)
+Page 777 (type diary) http://wd3.herokuapp.com/pages/AWD00032jd  ----------
+  10 Oct 1918 22
+    domestic:accomodation (36,25)
+    place:Bellinglise (45,26)
+  15 Oct 1918 27
+    place:Bellinglise (44,30)
+    place:Bohain (58,31)
+  17 Oct 1918 32
+    activity:movement (33,32)
+    activity:movement (41,34)
+    time:0215AM (48,35)
+    place:Bohain (41,35)
+    place:Becquigny (79,35)
+    domestic:accomodation (33,35)
+    activity:movement (52,37)
+    time:0500AM (36,39)
+    time:0520AM (57,39)
+    weather:cold (78,39)
+    weather:fog (31,42)
+    activity:fire (56,43)
+    unit:46 Division (73,47)
+    activity:attack (85,47)
+    unit:6 Division (82,60)
+    activity:fire (51,67)
+    activity:attack (30,71)
+    weather:fog (81,71)
+    place:Bellevue (62,72)
+    activity:attack (34,80)
+    place:Bellevue (42,83)
+    unit:1 Bn, Loyal North Lancashire Regiment (82,86)
+    activity:attack (44,90)
+Page 778 (type diary) http://wd3.herokuapp.com/pages/AWD00032iu  ----------
+  17 Oct 1918 24
+    activity:fire (49,27)
+    unit:1 Bn, The Buffs (51,31)
+    unit:1 buffs (52,31)
+    place:La Vallee Mulatre (43,36)
+    activity:fire (42,44)
+    activity:achieved (45,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 42; sick: 0; wounded: 0 (70,67)
+    place:La Vallee Mulatre (36,76)
+    unit:2 Brigade (50,80)
+  18 Oct 1918 85
+    time:1130AM (27,90)
+    activity:attack (60,91)
+Page 779 (type diary) http://wd3.herokuapp.com/pages/AWD00032jv  ----------
+  18 Oct 1918 23
+    unit:42 Highlanders (85,31)
+    place:Foret D'Andigny (64,32)
+    place:Wassigny (80,36)
+    activity:achieved (49,39)
+Page 780 (type diary) http://wd3.herokuapp.com/pages/AWD00032ia  ----------
+  18 Oct 1918 24
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 150; sick: 0; wounded: 0 (26,31)
+  19 Oct 1918 34
+    activity:movement (46,38)
+    place:La Valee Mulatre (68,38)
+    domestic:accomodation (55,38)
+  22 Oct 1918 44
+    place:La Valee Mulatre (50,44)
+    domestic:accomodation (36,44)
+  23 Oct 1918 46
+    activity:movement (40,50)
+    activity:support (57,50)
+    place:Mazinghien (77,50)
+    domestic:accomodation (66,50)
+  26 Oct 1918 56
+    activity:support (39,56)
+  27 Oct 1918 60
+    domestic:accomodation (56,60)
+    activity:movement (46,61)
+    place:La Valee Mulatre (70,61)
+  28 Oct 1918 62
+    domestic:accomodation (40,66)
+    activity:training (68,67)
+    place:La Valee Mulatre (52,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 206 (84,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,72)
+    person:Second Lieutenant G Bryson (award) (75,76)
+    person:Second Lieutenant Ferguson (award) (25,82)
+    person:Private W Burnett (award) (79,82)
+    person:Company Sergeant Major W Smith (award) (33,87)
+  31 Oct 1918 88
+    person:Private J Scobie (award) (50,88)
+    person:Lance Corporal W Smith (award) (76,88)
+Page 781 (type diary) http://wd3.herokuapp.com/pages/AWD00032kh  ----------
+  28 Oct 1918 25
+    person:Lance Corporal S Graham (award) (78,28)
+    person:Corporal J Maden (award) (50,33)
+    person:Corporal K McKenzie (award) (69,33)
+    person:Private J McIntosh (award) (83,34)
+    person:Sergeant D Stewart (award) (52,38)
+    person:Private W Burrows (award) (83,38)
+    person:Sergeant R Anderson (award) (33,39)
+    person:Private W Hendry (award) (68,39)
+    person:Sergeant C McGregor (award) (34,43)
+    person:Private N McDonald (award) (53,44)
+Page 782 (type diary) http://wd3.herokuapp.com/pages/AWD00032l2  ----------
+  28 Oct 1918 0
+    unit:Royal Fussiliers (43,45)
+    unit:Royal Fussiliers (60,48)
+    unit:Royal Fussiliers (21,61)
+    unit:Dragoon Guards (55,69)
+    unit:Royal Fussiliers (80,74)
+Page 783 (type orders) http://wd3.herokuapp.com/pages/AWD00032i6  ----------
+  28 Oct 1918 0
+    unit:1 Bn Queens own Cameron highlanders (61,27)
+    unit:1 Trench Mortar Battery (56,29)
+    unit:A coy 1 Bn Machine Gun Corps (60,32)
+    unit:1 section 409 Field coy R. E. (57,35)
+    unit:1 Bn South Wales Borderers (59,40)
+    unit:1 Bn Gloucestershire Regiment (62,40)
+    unit:2 Bn Welsh Regiment (65,40)
+    unit:3 Trench Mortar Battery (56,44)
+    unit:C coy 1 Bn Machine Gun Corps (60,48)
+    unit:1 section 23 Field coy R. E. (57,51)
+    unit:25 Brigade Royal Field Artillery. (41,55)
+    unit:39 Brigade Royal Field Artillery. (40,57)
+    unit:5 Army Brigade R. H. A. (54,61)
+    unit:298 Army Brigade R. F. A. (54,64)
+    unit:2 Infantry Brigade (50,66)
+    unit:1 Bn Machine Gun Corps less A and C coy (64,68)
+    unit:26 Field coy R. E. (52,70)
+    unit:23 Field coy R. E. Less 1 Section (61,70)
+    unit:1 section 409 Field coy R. E. Less 1 section (61,73)
+    unit:1/6 Bn Welsh Regiment Pioneers (56,77)
+Page 784 (type orders) http://wd3.herokuapp.com/pages/AWD00032j2  ----------
+  28 Oct 1918 0
+    unit:2 Infantry Brigade (64,24)
+    unit:1 Bn. Black Watch (57,25)
+    unit:1 Bn. Loyal North Lancashire (62,27)
+    unit:1 Bn. Queens Own Cameron Highlanders (65,29)
+    unit:1 Bn. South Wales Borderers (59,41)
+    unit:1 Bn. Gloucestershire rest. (62,41)
+    unit:2 Infantry Brigade (49,66)
+    unit:1 Bn. Machine gun corps (58,67)
+Page 785 (type report) http://wd3.herokuapp.com/pages/AWD00032kl  ----------
+  28 Oct 1918 0
+    unit:1 Division (36,24)
+    unit:R. E. (44,41)
+    unit:Pioneers (43,46)
+    unit:3 infantry Brigade (35,48)
+    unit:1 infantry Brigade (37,51)
+    unit:2 infantry Brigade (36,55)
+Page 786 (type orders) http://wd3.herokuapp.com/pages/AWD00032if  ----------
+  28 Oct 1918 0
+    orders:attack (46,7)
+    reference:Only references Sept 29 to Oct 3 operation (37,8)
+Page 787 (type orders) http://wd3.herokuapp.com/pages/AWD00032ip  ----------
+  28 Oct 1918 0
+    reference:Only references Sept 29 to Oct 3 operation (36,12)
+    orders:attack (50,3)
+Page 789 (type report) http://wd3.herokuapp.com/pages/AWD00032io  ----------
+  28 Oct 1918 0
+    reference:Only references Sept 29 to Oct 3 operation (42,3)
+    orders:attack (50,5)
+Page 790 (type report) http://wd3.herokuapp.com/pages/AWD00032l0  ----------
+  28 Oct 1918 0
+Page 791 (type report) http://wd3.herokuapp.com/pages/AWD00032l4  ----------
+  28 Oct 1918 0
+    casualties:died: 0; killed: 41; missing: 44; prisoner: 941; sick: 0; wounded: 247 (33,41)
+    reference:Only references Sept 29 to Oct 3 operation (45,5)
+Page 792 (type orders) http://wd3.herokuapp.com/pages/AWD00032k5  ----------
+  28 Oct 1918 0
+    reference:1st Div. RAMC Order No. 151 (39,11)
+    reference:1st division ramc order No 1?1 (23,15)
+    date:4 Oct 1918 (60,15)
+    reference:1st division R. A. M. C. Order no. 151 (18,5)
+    date:4 Oct 1918 (40,87)
+Page 793 (type signals) http://wd3.herokuapp.com/pages/AWD00032i9  ----------
+  28 Oct 1918 0
+    date:8 Nov 1918 (55,13)
+    unit:1 bn Cameron highlanders (62,15)
+Page 794 (type orders) http://wd3.herokuapp.com/pages/AWD00032ke  ----------
+  28 Oct 1918 0
+    reference:1st Div. RAMC Order No. 152 (42,11)
+    reference:R.A.M.C. Order No 152 (34,12)
+    date:9 Oct 1918 (59,17)
+    person:Major W L Webster (other) (56,69)
+    date:9 Oct 1918 (45,76)
+Page 796 (type other) http://wd3.herokuapp.com/pages/AWD00032j4  ----------
+  28 Oct 1918 0
+    unit:Black Watch (18,31)
+    unit:Cameron Highlanders (18,36)
+    unit:No1 Field Ambulance (18,42)
+    unit:B.N. Lancs (18,48)
+    unit:No.2 Coy. Train (20,55)
+    reference:1st division R. A. M. C. Order no. 151 (14,6)
+    unit:23 Field Coy Royal Engineers (20,61)
+    unit:A Coy 1 Btn M.G.C. (18,67)
+    unit:B.N. Lancs (54,74)
+Page 797 (type orders) http://wd3.herokuapp.com/pages/AWD00032ib  ----------
+  28 Oct 1918 0
+    reference:1st Brigade No. 5748 (79,11)
+    reference:1st Brigade N0 5748 (15,12)
+    reference:1st division  Order no. 8493 (62,20)
+    reference:1st brigadeOrder no. 5748 (79,21)
+    reference:casualties (52,50)
+    date:12 Oct 1918 (21,85)
+    date:12 Oct 1918 (9,86)
+Page 798 (type orders) http://wd3.herokuapp.com/pages/AWD00032j0  ----------
+  28 Oct 1918 0
+    reference:1st division  Order no. 8685 (51,13)
+    date:14 Nov 1918 (58,17)
+    orders:move (35,33)
+    reference:1st Brigade No. G. 1/377 (59,5)
+    reference:1st Brigade N0  G. 1/377 (48,6)
+    date:14 Oct 1918 (39,68)
+Page 799 (type orders) http://wd3.herokuapp.com/pages/AWD00032j7  ----------
+  28 Oct 1918 0
+    date:8 Nov 1918 (59,9)
+Page 800 (type orders) http://wd3.herokuapp.com/pages/AWD00032in  ----------
+  28 Oct 1918 0
+    reference:1st brigade Order no. 6353 (42,3)
+    date:15 Oct 1918 (36,68)
+    reference:1st The Black Watch (48,75)
+    reference:1st L North Lancs (44,76)
+    reference:1st Cameron Hrs (35,77)
+    reference:1st TM Battery (41,78)
+    orders:other (38,8)
+    reference:"A" Coy. M.G.Bn (44,80)
+    reference:23rd Field Coy (35,81)
+    reference:No 1 Field Ambulance (44,82)
+    reference:No 2 Coy Train. (42,83)
+    reference:Brigade T.O. (39,85)
+Page 802 (type orders) http://wd3.herokuapp.com/pages/AWD00032kt  ----------
+  28 Oct 1918 0
+    reference:1st Cameron Hrs (47,13)
+    reference:Order no. 8550 (55,14)
+    reference:No 2 Coy A.S.C. (46,17)
+    reference:Supply Officer 1st Bde (48,19)
+    date:22 Oct 1918 (41,68)
+Page 803 (type orders) http://wd3.herokuapp.com/pages/AWD00032k1  ----------
+  28 Oct 1918 0
+    reference:1st infantry brigade Order no. 168 (59,11)
+    reference:No 166 (Copy No 3) (59,11)
+    reference:Order no. 8554 (59,5)
+    date:8 Nov 1918 (50,6)
+    person:Captain (60,69)
+    date:23 Oct 1918 (38,71)
+    reference:1st Infantry Brigade Order No. 166 (48,9)
+Page 804 (type orders) http://wd3.herokuapp.com/pages/AWD00032jm  ----------
+  28 Oct 1918 0
+    reference:1st Division RAMC Order No. 157 (39,19)
+    reference:No 171 (Copy No 12) (50,21)
+    reference:1st division R.A M. C. Order no. 157 (54,22)
+    date:23 Oct 1918 (65,23)
+    person:Major W L Webster (69,64)
+    date:23 Oct 1918 (55,75)
+Page 805 (type orders) http://wd3.herokuapp.com/pages/AWD00032ks  ----------
+  28 Oct 1918 0
+    reference:Stamped Order no. 8560 (52,17)
+    orders:attack (34,22)
+    date:23 Oct 1918 (40,83)
+Page 806 (type orders) http://wd3.herokuapp.com/pages/AWD00032je  ----------
+  28 Oct 1918 0
+    reference:Stamped Order no. 8562 (48,16)
+    date:24 Oct 1918 (39,72)
+Page 807 (type blank)
+Page 808 (type orders) http://wd3.herokuapp.com/pages/AWD00032ju  ----------
+  28 Oct 1918 0
+    orders:other (38,14)
+    reference:1st Infantry Brigade No. 167 (51,14)
+    reference:1st brigade Order no. 167 (62,15)
+    reference:No. 167. (60,15)
+    orders:move (36,18)
+    date:24 Oct 1918 (43,55)
+Page 809 (type signals) http://wd3.herokuapp.com/pages/AWD00032i3  ----------
+  28 Oct 1918 0
+    date:24 Oct 1918 (47,34)
+    time:0738PM (40,87)
+Page 810 (type orders) http://wd3.herokuapp.com/pages/AWD00032jz  ----------
+  28 Oct 1918 0
+    date:8 Nov 1918 (56,12)
+    reference:Stamped Order no. 8571 (60,12)
+    orders:move (46,25)
+    reference:1st Brigade No. G. 1/384 (57,5)
+    reference:1st brigade Order no. G. 1/384 (66,6)
+    date:24 Oct 1918 (41,88)
+Page 811 (type orders) http://wd3.herokuapp.com/pages/AWD00032ij  ----------
+  28 Oct 1918 0
+    reference:1st Infantry Brigade No. 168 (55,18)
+    reference:No. 168. (63,19)
+    reference:1st infantry brigade no. 168 (65,20)
+    date:26 Oct 1918 (39,71)
+    reference:Stamped Order no. 8579 (61,8)
+    date:8 Nov 1918 (51,8)
+Page 812 (type ) http://wd3.herokuapp.com/pages/AWD00032hx  ----------
+  28 Oct 1918 0
+    reference:1st infantry brigade no. 168 (17,4)
+Page 813 (type orders) http://wd3.herokuapp.com/pages/AWD00032i0  ----------
+  28 Oct 1918 0
+    reference:1st Brigade No. 5748 (70,19)
+    reference:1st infantry brigade no. 5748 (82,20)
+    reference:1st infantry brigade no. 8583 (67,36)
+    reference:casualties (36,51)
+    date:27 Oct 1918 (27,89)
+Page 814 (type orders) http://wd3.herokuapp.com/pages/AWD00032k6  ----------
+  28 Oct 1918 0
+    reference:1st Brigade No. G. 168/1 (67,16)
+    reference:1st infantry brigade no. 8590 (53,24)
+    reference:1st brigade no. G. 168/1 (77,27)
+    reference:1st brigade order No 168 (29,39)
+    date:27 Oct 1918 (37,72)
+Page 815 (type orders) http://wd3.herokuapp.com/pages/AWD00032il  ----------
+  28 Oct 1918 0
+    reference:1st infantry brigade no. 8595 (54,12)
+    orders:move (38,36)
+    date:28 Oct 1918 (40,62)
+Page 816 (type cover)
+Page 817 (type cover)
+Page 818 (type ) http://wd3.herokuapp.com/pages/AWD00032l5  ----------
+Page 819 (type diary) http://wd3.herokuapp.com/pages/AWD00032it  ----------
+  28 Oct 1918 0
+    unit:Black Watch (38,26)
+    place:Hautreve (83,27)
+    place:Mezieres (77,30)
+    place:La Groise (22,35)
+    place:Robelmetre (60,35)
+    unit:Black Watch (83,36)
+    unit:North Lancashires (79,40)
+    unit:Royal Sussex (42,56)
+    unit:North Lancashires (42,65)
+    place:Catillon (54,68)
+Page 820 (type diary) http://wd3.herokuapp.com/pages/AWD00032kc  ----------
+  28 Oct 1918 0
+    weather:fog (42,27)
+    activity:attack (37,31)
+    time:0545AM (18,32)
+    place:Bois de l'Abbaye (77,43)
+    person:Second Lieutenant G Bryson (60,51)
+    unit:Royal Engineers (40,56)
+    activity:movement (45,61)
+    unit:Royal Engineers (87,61)
+    person:Second Lieutenant G Bryson (commander) (22,68)
+    place:Bois de l'Abbaye (68,77)
+    time:0700AM (79,84)
+    unit:North Lancashires (44,86)
+    place:Bois de l'Abbaye (62,90)
+Page 821 (type diary) http://wd3.herokuapp.com/pages/AWD00032iw  ----------
+  28 Oct 1918 0
+    time:0830AM (84,26)
+    activity:movement (26,27)
+    weather:fog (67,31)
+    time:0900AM (27,35)
+    unit:Black Watch (19,45)
+    place:Robelmetre (16,56)
+    place:Robelmetre (41,56)
+    activity:fire (70,56)
+    unit:A Coy (73,58)
+    unit:2 Sussex (21,60)
+    activity:movement (53,64)
+    place:Grand Galop Farm (68,67)
+    place:Grand Galop Farm (17,69)
+    activity:achieved (40,69)
+    place:La Gambotte (15,72)
+    activity:fire (63,76)
+    activity:withdraw (26,80)
+    unit:2 Sussex (20,89)
+Page 822 (type diary) http://wd3.herokuapp.com/pages/AWD00032km  ----------
+  28 Oct 1918 0
+    place:Robelmetre (12,24)
+    place:Robelmetre (31,26)
+    unit:Black Watch (52,26)
+    place:Grand Galop Farm (71,28)
+    unit:2 Sussex (59,30)
+    unit:2 Sussex (67,31)
+    activity:movement (32,32)
+    place:Hautreve (85,35)
+    unit:Loyal north Lancs (72,47)
+    unit:Loyal North Lancs (17,47)
+    place:Hautreve (22,56)
+    unit:4 Leicesters (50,60)
+    unit:4 Leicesters (13,63)
+    place:Mazinghien (34,65)
+    place:Vaux Andigny (44,77)
+    activity:movement (34,77)
+    place:Fresnoy le Grand (49,80)
+    activity:movement (33,81)
+    domestic:accomodation (40,84)
+    place:Fresnoy le Grand (54,85)
+    activity:training (68,85)
+    place:Petit Fayt (11,89)
+    place:Petit Fayt (56,90)
+    activity:movement (34,90)
+Page 823 (type ) http://wd3.herokuapp.com/pages/AWD00032ky  ----------
+  28 Oct 1918 0
+Page 824 (type orders) http://wd3.herokuapp.com/pages/AWD00032k9  ----------
+  28 Oct 1918 0
+    reference:8634 (65,20)
+    date:9 Nov 1918 (68,27)
+    date:2 Nov 1918 (21,76)
+    date:2 Nov 1918 (33,77)
+Page 825 (type orders) http://wd3.herokuapp.com/pages/AWD00032iz  ----------
+  28 Oct 1918 0
+    reference:8635 (57,2)
+    orders:attack (35,3)
+    reference:Battle instruction No. 1 (39,3)
+    date:9 Nov 1918 (56,4)
+    reference:Battle Instructions No. 1 (49,4)
+    date:2 Nov 1918 (61,5)
+Page 826 (type orders) http://wd3.herokuapp.com/pages/AWD00032jl  ----------
+  28 Oct 1918 0
+    reference:Battle Instructions No. 1 (59,1)
+    reference:Battle instruction No. 1 (40,51)
+Page 827 (type orders) http://wd3.herokuapp.com/pages/AWD00032k3  ----------
+  28 Oct 1918 0
+    reference:6436 (65,11)
+    reference:1st Brigade N0  6436 (50,13)
+    reference:No. 6436. (74,13)
+    reference:8637 (66,24)
+    date:3 Nov 1918 (25,66)
+Page 828 (type orders) http://wd3.herokuapp.com/pages/AWD00032ih  ----------
+  28 Oct 1918 0
+    reference:1st Brigade No. G. 1/391/8 (63,15)
+    date:3 Nov 1918 (36,55)
+Page 830 (type orders) http://wd3.herokuapp.com/pages/AWD00032ig  ----------
+  28 Oct 1918 0
+    reference:1st Brigade no.1 (23,10)
+    reference:1st Infantry Brigade Order No. 1 (62,12)
+    date:9 Nov 1918 (57,12)
+    reference:1 (68,15)
+    orders:move (33,22)
+    reference:8639 (57,7)
+Page 831 (type orders) http://wd3.herokuapp.com/pages/AWD00032jk  ----------
+  28 Oct 1918 0
+    date:4 Nov 1918 (28,51)
+    reference:1st Infantry Brigade Order No. 1 (62,7)
+Page 832 (type orders) http://wd3.herokuapp.com/pages/AWD00032ie  ----------
+  28 Oct 1918 0
+    orders:move (17,11)
+    reference:1st Infantry Brigade Order No. 1 (44,5)
+Page 833 (type signals) http://wd3.herokuapp.com/pages/AWD00032hz  ----------
+  28 Oct 1918 0
+    date:4 Nov 1918 (46,28)
+    unit:138 Inf. Brigade (53,34)
+Page 834 (type signals) http://wd3.herokuapp.com/pages/AWD00032k0  ----------
+  28 Oct 1918 0
+    date:4 Nov 1918 (46,28)
+    unit:Black Watch (44,49)
+    unit:Camerons (59,49)
+    gridRef:R_32_C_6_0 (42,65)
+    unit:1 Infantry Brigade (61,66)
+Page 835 (type ) http://wd3.herokuapp.com/pages/AWD00032l3  ----------
+  28 Oct 1918 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (23,84)
+Page 836 (type orders) http://wd3.herokuapp.com/pages/AWD00032j8  ----------
+  28 Oct 1918 0
+    reference:1st Division RAMC Order No. 159 (48,14)
+    reference:1st Division RAMC order no.159 (36,14)
+    date:4 Nov 1918 (60,17)
+    orders:move (39,21)
+Page 837 (type orders) http://wd3.herokuapp.com/pages/AWD00032ja  ----------
+  28 Oct 1918 0
+    reference:1st Brigade No. 6436 (66,11)
+    date:5 Nov 1918 (23,61)
+    reference:1st Brigade no.6436 (57,8)
+Page 838 (type ) http://wd3.herokuapp.com/pages/AWD00032kz  ----------
+Page 839 (type orders) http://wd3.herokuapp.com/pages/AWD00032i1  ----------
+  28 Oct 1918 0
+    reference:1st Division RAMC No. 160 (58,22)
+    reference:MAP REF. SH.62B, or WASSIGNY (1/40,000) (2,27)
+    reference:Field Ambulance (2,32)
+Page 840 (type orders) http://wd3.herokuapp.com/pages/AWD00032js  ----------
+  28 Oct 1918 0
+    reference:1st Inf. Brigade Asministrative Instructions  No. 1 (58,16)
+    orders:move (29,22)
+    person:Lieutenant Honeyman (commander) (30,49)
+    date:5 Nov 1918 (28,73)
+Page 841 (type orders) http://wd3.herokuapp.com/pages/AWD00032ko  ----------
+  28 Oct 1918 0
+    reference:1st Infantry Brigade no.169 (38,13)
+    reference:1st Inf. Brigade Order No. 169 (49,15)
+    date:5 Nov 1918 (41,54)
+Page 842 (type orders) http://wd3.herokuapp.com/pages/AWD00032k8  ----------
+  28 Oct 1918 0
+    orders:move (28,12)
+    reference:1st Inf. Brigade Order No. 169 (42,13)
+Page 843 (type orders) http://wd3.herokuapp.com/pages/AWD00032jw  ----------
+  28 Oct 1918 0
+    reference:daily table of letters and colours (36,15)
+    reference:CODES (51,7)
+Page 844 (type other) http://wd3.herokuapp.com/pages/AWD00032kd  ----------
+  28 Oct 1918 0
+    reference:CODES (50,6)
+Page 845 (type ) http://wd3.herokuapp.com/pages/AWD00032jb  ----------
+  28 Oct 1918 0
+    reference:daily table of letters and colours (30,10)
+    reference:CODES (42,5)
+Page 846 (type other) http://wd3.herokuapp.com/pages/AWD00032ka  ----------
+  28 Oct 1918 0
+Page 847 (type other) http://wd3.herokuapp.com/pages/AWD00032ku  ----------
+  28 Oct 1918 0
+    reference:CODES (33,19)
+Page 848 (type other) http://wd3.herokuapp.com/pages/AWD00032k2  ----------
+  28 Oct 1918 0
+Page 849 (type orders) http://wd3.herokuapp.com/pages/AWD00032jf  ----------
+  28 Oct 1918 0
+    reference:Battle Instructions No. 1 (42,15)
+    reference:clothing (57,40)
+    orders:other (23,9)
+Page 852 (type other) http://wd3.herokuapp.com/pages/AWD00032i5  ----------
+  28 Oct 1918 0
+    mapRef:Attacks By 1st Division / Superimpose On Sheets 02 B.&C. / RMN (47,9)
+Page 853 (type diary) http://wd3.herokuapp.com/pages/AWD00032kw  ----------
+  1 Dec 1918 24
+    activity:movement (27,27)
+    place:Mont Gauthier (50,28)
+  2 Dec 1918 29
+    place:Mont Gauthier (48,33)
+  7 Dec 1918 35
+    activity:movement (33,39)
+    place:Haversin (53,39)
+  9 Dec 1918 40
+    activity:movement (33,45)
+    place:Noiseaux (52,46)
+  10 Dec 1918 47
+    activity:movement (32,52)
+    place:Bomal (50,52)
+  11 Dec 1918 54
+    place:Bomal (46,57)
+  13 Dec 1918 60
+    place:Grandmenil (53,63)
+    activity:movement (31,64)
+  14 Dec 1918 66
+    activity:movement (33,70)
+    place:Bihain (52,70)
+  15 Dec 1918 72
+    activity:movement (32,76)
+  16 Dec 1918 77
+    place:Rogery (55,77)
+    time:1020AM (76,81)
+    activity:movement (36,83)
+    place:Aldringen (31,86)
+  17 Dec 1918 87
+    activity:movement (33,91)
+    place:Setz (54,92)
+Page 854 (type diary) http://wd3.herokuapp.com/pages/AWD00032hw  ----------
+  17 Dec 1918 0
+  18 Dec 1918 22
+    place:Hallschlag (54,25)
+    activity:movement (27,25)
+  19 Dec 1918 26
+    place:Schmidtheim (54,29)
+  20 Dec 1918 30
+    activity:movement (27,30)
+    place:Schmidtheim (49,31)
+  21 Dec 1918 34
+    place:Schmidtheim (46,35)
+    place:Munstereifel (58,38)
+  22 Dec 1918 39
+    activity:movement (36,39)
+  23 Dec 1918 41
+    place:Kuchenheim (56,41)
+    activity:movement (34,41)
+  24 Dec 1918 45
+    place:Waldorf (58,45)
+    activity:movement (38,45)
+  31 Dec 1918 49
+    place:Waldorf (52,49)
+    place:Dersdorf (64,50)
+    person:Captain J Robertson (commander) (52,73)
+Page 855 (type diary) http://wd3.herokuapp.com/pages/AWD00032i7  ----------
+  1 Jan 1919 22
+    place:Waldorf (49,25)
+    place:Dersdorf (60,26)
+    domestic:accomodation (40,26)
+  31 Jan 1919 33
+    person:Captain J Robertson (award) (81,43)
+    person:Company Sergeant Major J Ford (award) (76,50)
+    person:Sergeant W Pearson (award) (80,60)
+    person:Second Lieutenant M A A Macintosh (author) (69,70)
+Page 856 (type diary) http://wd3.herokuapp.com/pages/AWD00032i8  ----------
+  1 Feb 1919 22
+    place:Waldorf (8,26)
+    domestic:sport (26,31)
+    place:Dersdorf (5,32)
+  28 Feb 1919 43
+    person:Second Lieutenant A A Wilson (author) (61,82)
+Page 857 (type diary) http://wd3.herokuapp.com/pages/AWD00032iq  ----------
+  1 Mar 1919 23
+  31 Mar 1919 34

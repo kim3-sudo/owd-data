@@ -1,0 +1,1805 @@
+GWD0000067 wo/95/1155/5
+3 CAVALRY DIVISION: 7 Dragoon Guards 
+61 pages
+
+Page 1 (type cover)
+Page 2 (type diary) http://wd3.herokuapp.com/pages/AWD0000y4b  ----------
+  Hashtags: #faint 
+  8 Mar 1918 29
+  9 Mar 1918 34
+    time:0845AM (18,36)
+  10 Mar 1918 39
+  15 Mar 1918 53
+    time:0900AM (18,57)
+  21 Mar 1918 67
+    time:0930AM (18,69)
+  23 Mar 1918 79
+    time:1100AM (18,81)
+    time:0800PM (18,90)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD0000y4h  ----------
+  23 Mar 1918 25
+  22 Mar 1918 22
+  23 Mar 1918 25
+    place:Ferrieres Wood (7,25)
+    time:0700PM (17,25)
+    time:0300AM (23,26)
+    activity:fire (24,27)
+    time:0600AM (17,29)
+    time:0145PM (17,40)
+  24 Mar 1918 41
+    activity:withdraw (25,41)
+    place:Appily (7,45)
+    place:Appily (73,45)
+    place:Amiens (91,45)
+    time:0400AM (17,45)
+  25 Mar 1918 46
+    place:Caillouel (30,46)
+    place:Carlepont (69,47)
+  26 Mar 1918 49
+    place:Berlancourt (30,49)
+    place:Carlepont (61,49)
+    place:Beauvais (91,49)
+    place:Ollencourt (8,50)
+  27 Mar 1918 53
+    place:Pontoise (71,53)
+    time:0620AM (17,53)
+    place:Les Croyes (8,54)
+    time:1100AM (17,56)
+  28 Mar 1918 57
+    place:Choisy (6,60)
+    time:0800AM (17,60)
+  29 Mar 1918 61
+    place:Choisy Au Bac (7,61)
+    place:Compiegne (30,64)
+    place:Avrechy (40,64)
+    time:0545AM (17,64)
+  30 Mar 1918 65
+    activity:movement (23,65)
+    weather:rain (73,68)
+    time:0545AM (17,69)
+    activity:movement (23,69)
+  31 Mar 1918 70
+    place:Avrechy (7,70)
+    time:0545AM (17,74)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0000y3f  ----------
+  31 Mar 1918 0
+    activity:movement (26,26)
+    weather:cold (77,26)
+    place:Longpre (7,28)
+    activity:movement (29,32)
+    unit:6 Dragoons (26,34)
+    unit:8 Hussars (32,34)
+    unit:17 lancers (39,34)
+    time:0115PM (39,36)
+    activity:movement (29,37)
+    time:0845AM (18,38)
+    place:Guinenicourt (5,38)
+    time:0130PM (25,40)
+    time:1020AM (18,41)
+    activity:movement (28,42)
+    place:Guillaucourt (6,42)
+    time:0315PM (35,44)
+    place:Trefcon (6,45)
+    time:0600AM (50,49)
+  13 Mar 1918 51
+    unit:Sussex Yeomanry (25,52)
+  15 Mar 1918 54
+    activity:movement (28,54)
+    time:0245PM (18,54)
+  16 Mar 1918 56
+    activity:training (26,58)
+    time:0900AM (18,58)
+    place:Montecourt (6,58)
+  17 Mar 1918 60
+    activity:movement (24,62)
+    time:0945AM (18,62)
+  18 Mar 1918 64
+    place:Saint Christ (6,66)
+  21 Mar 1918 67
+    time:0930AM (18,70)
+    time:0300PM (57,70)
+    time:0500PM (31,72)
+    time:0330PM (18,73)
+    time:0530PM (48,73)
+    place:Beumont (6,74)
+  22 Mar 1918 75
+    activity:movement (24,75)
+    time:0115AM (69,75)
+    time:0600AM (18,77)
+  23 Mar 1918 79
+    activity:movement (23,79)
+    time:1100AM (18,82)
+    place:Bretigny (7,82)
+    time:0130PM (18,86)
+    time:0500PM (68,87)
+    time:0800PM (18,90)
+    place:Carlepont (6,91)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD0000y3m  ----------
+  22 Mar 1918 22
+    place:Ferrieres Wood (5,24)
+    time:0700PM (17,24)
+  23 Mar 1918 26
+    time:0300AM (24,26)
+    activity:fire (30,27)
+    time:0600AM (18,28)
+    time:1130AM (68,28)
+    time:1215PM (55,31)
+    activity:fire (39,34)
+    activity:enemy_activity (70,35)
+    time:1230PM (60,35)
+    activity:withdraw (33,40)
+    time:0145PM (17,40)
+    time:0530PM (74,41)
+  24 Mar 1918 42
+    activity:movement (28,42)
+    activity:movement (23,44)
+    place:Appily (5,44)
+    unit:French Army (49,44)
+    time:0400AM (18,44)
+  25 Mar 1918 45
+    activity:movement (45,45)
+    activity:movement (65,45)
+    place:Mondescourt (52,45)
+    place:Appily (73,45)
+    time:0900AM (38,45)
+    time:0400PM (59,45)
+    place:Carlepont (69,47)
+    strength:officer: 1; nco: 0; other: 50 (23,48)
+    place:Berlancourt (30,49)
+    place:Carlepont (61,49)
+    time:0230PM (38,49)
+  26 Mar 1918 50
+    activity:movement (31,51)
+  27 Mar 1918 52
+    place:Les Croyes (6,52)
+    strength:officer: 3; nco: 0; other: 75 (25,52)
+    time:0620AM (17,53)
+    place:Pontoise (71,54)
+    time:1100AM (18,55)
+    activity:movement (56,56)
+    time:1200AM (47,56)
+  28 Mar 1918 57
+    activity:enemy_activity (27,59)
+    place:Choisy Au Bac (5,59)
+    time:0800AM (17,59)
+  29 Mar 1918 60
+    place:Cernoy (23,61)
+    activity:movement (23,63)
+    place:Compiegne (30,63)
+    time:0545AM (17,63)
+    time:0200PM (75,64)
+  30 Mar 1918 67
+    activity:movement (24,68)
+    weather:rain (71,68)
+    place:Saint Just (29,68)
+    place:Avrechy (4,69)
+    time:0545AM (18,70)
+  31 Mar 1918 72
+    time:0545AM (17,74)
+Page 6 (type cover)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD0000y50  ----------
+  Hashtags: #Led 
+  1 Apr 1918 20
+    activity:movement (31,22)
+    time:0540AM (19,23)
+    time:0730AM (54,23)
+    unit:2 Cavalry Division (70,24)
+    activity:movement (65,26)
+    place:Domart (85,26)
+    time:1230PM (56,27)
+    mapRef:AMIENS (91,27)
+    mapRef:Amiens (91,28)
+    activity:fire (28,28)
+    unit:Oxford Hussars (68,32)
+    place:Donart (9,32)
+    activity:fire (78,33)
+  2 Apr 1918 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 45 (69,37)
+    unit:14 Infantry Division (38,38)
+    time:0400AM (19,38)
+    activity:movement (53,39)
+    time:0630AM (18,40)
+  4 Apr 1918 41
+    time:0545AM (19,42)
+    time:0945AM (31,43)
+    activity:movement (43,43)
+    activity:fire (40,45)
+    place:Vaire (9,46)
+    time:1100AM (19,47)
+  5 Apr 1918 48
+    unit:Australian Infantry (61,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (87,49)
+    activity:fire (26,49)
+    unit:Australian Infantry (32,51)
+    unit:Australians (32,51)
+    time:0830AM (73,53)
+    time:1000PM (19,54)
+  6 Apr 1918 55
+    time:1015AM (43,57)
+    activity:movement (43,57)
+    time:0530AM (19,58)
+  7 Apr 1918 59
+    unit:N S Y (69,59)
+    strength:officer: 2; nco: 0; other: 33 (55,59)
+    unit:6 R R C (38,61)
+    strength:officer: 0; nco: 0; other: 38 (28,61)
+  9 Apr 1918 62
+    time:0930AM (50,63)
+    domestic:parades (36,63)
+  10 Apr 1918 64
+    activity:movement (40,65)
+    time:0630PM (82,66)
+    time:0430PM (43,67)
+    activity:movement (50,67)
+    place:Argoeuvres (7,67)
+  11 Apr 1918 68
+    time:0700AM (19,69)
+    time:0730AM (47,69)
+    time:1040AM (59,69)
+    activity:movement (29,70)
+  12 Apr 1918 71
+    time:0615PM (42,71)
+    place:Barly (7,71)
+    time:1200AM (19,73)
+    time:0130PM (51,73)
+    activity:movement (60,73)
+    time:0530PM (73,75)
+    place:Belval (81,75)
+  13 Apr 1918 77
+    time:0315AM (19,79)
+    time:0800AM (55,79)
+    time:0540AM (61,79)
+    activity:movement (67,79)
+    place:Belval (8,79)
+  14 Apr 1918 82
+    time:0515PM (58,82)
+    time:0730PM (29,83)
+  15 Apr 1918 85
+    time:0700AM (19,86)
+    place:Valhuon (7,86)
+    time:0115PM (52,87)
+    activity:movement (57,87)
+    time:1230PM (41,88)
+    unit:61 Division (65,92)
+    time:0630PM (43,92)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD0000y3v  ----------
+  16 Apr 1918 19
+    time:0215PM (36,22)
+    place:Berguette (9,23)
+    time:0500PM (18,25)
+    activity:movement (26,25)
+    place:Ferfay (49,25)
+    place:Pernes (55,25)
+  17 Apr 1918 26
+    place:Ham (42,26)
+    place:Hestrus (62,26)
+    activity:movement (24,27)
+  19 Apr 1918 30
+    place:Hestrus (8,30)
+    time:0700AM (19,33)
+    weather:cold (44,33)
+  22 Apr 1918 34
+    time:0700AM (19,37)
+  23 Apr 1918 38
+    domestic:parades (32,41)
+  24 Apr 1918 42
+    time:1000AM (19,42)
+  25 Apr 1918 46
+    time:0730PM (19,46)
+  28 Apr 1918 50
+    time:1130AM (19,50)
+    activity:movement (28,50)
+    place:Eps (40,51)
+    place:Boyaval (74,51)
+    activity:movement (33,52)
+    place:Eps (8,54)
+    time:0600AM (19,55)
+    person:Major Dyer (other) (77,55)
+    activity:reconnoitered (38,58)
+  29 Apr 1918 59
+    time:0600AM (19,62)
+  30 Apr 1918 63
+    time:0600AM (19,67)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD0000y4o  ----------
+  Hashtags: #Medal 
+  30 Apr 1918 0
+    mapRef:LENS (90,25)
+  1 May 1918 26
+    domestic:inspections (27,26)
+    mapRef:Lens (90,26)
+    place:Eps (7,29)
+    time:1000AM (18,29)
+  2 May 1918 34
+    activity:reconnoitered (35,37)
+    time:0900AM (18,37)
+  3 May 1918 39
+    time:0800PM (18,41)
+  4 May 1918 43
+    place:Hestrus (43,45)
+    place:Wavrans (50,45)
+    place:Beauvois (57,45)
+    place:Linzeux (63,45)
+    place:Blangerval (70,45)
+    activity:movement (34,45)
+    time:0915AM (18,45)
+    domestic:parades (25,46)
+  5 May 1918 47
+    weather:hot (29,47)
+    weather:rain (41,48)
+    activity:movement (26,49)
+    place:Conchy (36,50)
+    place:Rougefay (43,50)
+    place:Noeux (50,50)
+    place:Bealcourt (60,50)
+    place:Blangerval (8,50)
+    time:0700AM (18,50)
+  6 May 1918 52
+    place:Bernaville (46,53)
+    place:Herrisart (61,53)
+    place:Contay (84,53)
+    place:Heuzecourt (35,54)
+    place:Candas (54,54)
+    place:Bealcourt (7,54)
+    activity:movement (25,54)
+    time:0830AM (18,54)
+  7 May 1918 55
+    activity:movement (27,55)
+    domestic:accomodation (41,56)
+    time:0300PM (33,56)
+    place:Contay (8,58)
+    activity:reconnoitered (55,58)
+    time:0600AM (18,58)
+  8 May 1918 59
+    domestic:accomodation (23,62)
+    weather:rain (39,62)
+    activity:working (82,62)
+    strength:officer: 0; nco: 0; other: 120 (72,62)
+    time:0730PM (52,62)
+  10 May 1918 63
+    place:Henencourt (37,64)
+    time:0530AM (48,66)
+    time:0500AM (18,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (85,68)
+    activity:fire (39,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (60,69)
+  11 May 1918 72
+    activity:working (28,73)
+    strength:officer: 0; nco: 0; other: 100 (39,73)
+    time:0945AM (18,73)
+    strength:officer: 0; nco: 0; other: 150 (41,75)
+    time:0730PM (19,75)
+  16 May 1918 77
+    weather:fine (25,77)
+    weather:hot (31,77)
+    activity:working (28,77)
+    activity:working (37,80)
+    strength:officer: 0; nco: 0; other: 50 (29,80)
+  17 May 1918 81
+    time:0900AM (18,81)
+    domestic:accomodation (79,82)
+    place:Rubempre (41,82)
+    place:Villers-Bocage (50,82)
+    place:Vignacourt (63,82)
+    place:Saint Ouen (73,82)
+    activity:movement (25,83)
+    time:1015AM (19,83)
+  18 May 1918 84
+    time:0315PM (31,85)
+    place:Saint Ouen (8,86)
+    activity:reconnoitered (26,86)
+  19 May 1918 88
+    domestic:other (65,88)
+    domestic:religion (25,90)
+    time:0900AM (18,90)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD0000y4p  ----------
+  Hashtags: #alliedrelations 
+  20 May 1918 24
+    activity:training (24,28)
+    mapRef:Lens (90,28)
+    place:Saint Ouen (7,28)
+    time:0715AM (18,28)
+    time:0500PM (59,28)
+  24 May 1918 29
+    place:Saint Ouen (6,31)
+    domestic:accomodation (82,32)
+    activity:movement (24,33)
+    place:Vignacourt (32,33)
+    place:Villers-Bocage (43,33)
+    place:Frechincourt (67,33)
+    time:0700AM (18,33)
+    weather:rain (42,36)
+    weather:rain (48,36)
+    unit:Royal Canadian Dragoons (26,36)
+  25 May 1918 37
+    place:Behencourt (6,37)
+    activity:working (25,41)
+    place:Henencourt (68,41)
+    time:0800PM (18,41)
+    strength:officer: 0; nco: 0; other: 150 (42,41)
+  28 May 1918 42
+  30 May 1918 45
+    activity:working (28,45)
+    place:Henencourt (69,45)
+    time:1000AM (18,45)
+    strength:officer: 0; nco: 0; other: 150 (42,45)
+  31 May 1918 49
+    place:Belloy-Sur-Somme (70,49)
+    time:0115PM (18,49)
+    unit:6 Brigade (52,49)
+    activity:movement (24,50)
+    activity:movement (24,53)
+    place:Belloy (82,53)
+    place:Belloy-Sur-Somme (82,53)
+    place:Rainneville (36,54)
+    place:Coisy (45,54)
+    place:La Chaussee (65,54)
+    time:0945AM (17,54)
+    place:Belloy-Sur-Somme (6,57)
+    domestic:accomodation (49,58)
+    time:0110PM (38,58)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD0000y52  ----------
+  Hashtags: #Army #puo 
+  31 May 1918 0
+  1 Jun 1918 26
+    activity:movement (60,27)
+    place:Behencourt (70,29)
+    activity:training (37,29)
+  3 Jun 1918 30
+    time:0630AM (18,33)
+    place:Soues (47,33)
+    activity:training (29,33)
+  6 Jun 1918 34
+    time:0700AM (18,37)
+    activity:training (26,37)
+  8 Jun 1918 38
+    time:0330PM (18,41)
+    domestic:inspections (25,41)
+    domestic:inspections (44,42)
+  10 Jun 1918 43
+    domestic:sport (24,44)
+    time:0830AM (18,45)
+  11 Jun 1918 47
+    time:0730AM (18,49)
+  12 Jun 1918 51
+    place:Vignacourt (82,54)
+    activity:training (30,54)
+    activity:training (28,54)
+  14 Jun 1918 55
+    time:0830AM (18,56)
+    place:Bertangles (51,56)
+    place:Villers-Bocage (59,56)
+    place:Moliens Au Bois (69,56)
+    activity:movement (24,56)
+  15 Jun 1918 58
+    time:1245PM (43,58)
+    unit:6 Brigade (70,58)
+    place:Behencourt (25,58)
+    time:0100PM (18,60)
+    time:0530AM (54,60)
+    time:0900AM (64,60)
+    time:0730PM (81,60)
+    place:Behencourt (7,60)
+  17 Jun 1918 62
+    strength:officer: 0; nco: 0; other: 150 (26,62)
+    place:Lavieville (49,62)
+    activity:repair (35,62)
+    strength:officer: 0; nco: 0; other: 150 (27,64)
+    time:0730PM (18,64)
+  19 Jun 1918 65
+    activity:working (23,65)
+    activity:fire (32,65)
+    time:0400PM (18,66)
+  22 Jun 1918 67
+    place:Rainneville (32,68)
+    place:Bertangles (39,68)
+    place:Vaux (48,68)
+    place:Saint Ouen (55,68)
+    activity:movement (25,68)
+    time:1045AM (18,69)
+    unit:R.C.H.A (76,69)
+  23 Jun 1918 70
+    time:0130PM (29,70)
+  25 Jun 1918 72
+    place:Saint Ouen (7,72)
+    activity:working (32,72)
+    strength:officer: 6; nco: 0; other: 0 (68,73)
+    time:0215PM (18,74)
+    activity:training (24,75)
+  27 Jun 1918 76
+    domestic:other (24,78)
+  28 Jun 1918 79
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,82)
+  30 Jun 1918 84
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD0000y3j  ----------
+  Hashtags: #medical #alliedrelations #puo #Independence 
+  1 Jul 1918 23
+    activity:enemy_activity (57,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,25)
+    place:Saint Ouen (7,26)
+    activity:training (24,28)
+    time:0215PM (17,28)
+  4 Jul 1918 31
+    activity:training (28,31)
+    time:0930AM (17,32)
+  5 Jul 1918 35
+  6 Jul 1918 38
+    activity:training (29,38)
+    time:0930AM (17,38)
+    activity:training (29,41)
+    time:0930AM (17,42)
+  10 Jul 1918 43
+    weather:rain (22,45)
+  11 Jul 1918 46
+    activity:training (21,48)
+    domestic:inspections (28,48)
+    time:0930AM (17,48)
+  15 Jul 1918 49
+    activity:training (23,52)
+    time:0830AM (17,52)
+  16 Jul 1918 53
+    activity:training (27,54)
+  20 Jul 1918 55
+    time:0830AM (17,55)
+    domestic:inspections (42,56)
+  22 Jul 1918 59
+    activity:training (24,59)
+    time:0830AM (17,59)
+  27 Jul 1918 62
+    activity:training (28,64)
+  29 Jul 1918 66
+    activity:training (28,68)
+  31 Jul 1918 70
+    activity:training (23,72)
+    weather:hot (35,73)
+Page 13 (type cover)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD0000y4s  ----------
+  31 Jul 1918 0
+  1 Aug 1918 23
+    activity:training (27,25)
+  4 Aug 1918 26
+    place:Saint Ouen (7,26)
+  5 Aug 1918 27
+    domestic:religion (46,28)
+    mapRef:LENS & AMIENS (90,30)
+  6 Aug 1918 31
+    time:0930PM (18,31)
+    weather:rain (43,31)
+    place:Fuxecourt (30,31)
+    place:Bourdon (37,31)
+    activity:movement (23,31)
+    time:1145PM (66,32)
+    place:Bourden (7,33)
+  7 Aug 1918 34
+    weather:rain (23,34)
+    place:Hangest (78,34)
+    time:1115PM (63,35)
+    activity:movement (70,35)
+    place:Montieres (24,36)
+    time:0315AM (43,37)
+    place:Montieres (6,39)
+    time:0530PM (18,40)
+    time:0915PM (38,40)
+    place:Amiens (51,40)
+    activity:movement (47,40)
+  8 Aug 1918 41
+    time:0145AM (41,42)
+    place:Longneau (23,42)
+    place:Longneau (7,43)
+    time:0400AM (18,44)
+    activity:movement (44,44)
+    unit:1 Cavalry Division (85,45)
+    time:0530AM (43,45)
+    unit:Canadian Cavalry Brigade (65,46)
+  9 Aug 1918 47
+    unit:Fourth Army (59,47)
+    unit:1 Cavalry Division (22,47)
+    place:Amiens (76,49)
+    time:0400AM (18,50)
+    place:Caix (9,50)
+    activity:other (24,50)
+    time:0645AM (18,53)
+    time:0845AM (50,53)
+    activity:movement (24,53)
+    activity:fire (56,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (90,54)
+    activity:movement (49,54)
+    time:1000AM (30,55)
+    place:Caix (23,55)
+    place:Caix (57,56)
+    place:Cayeux (65,56)
+    activity:reserve (26,57)
+    time:0355PM (18,60)
+    time:0730PM (52,61)
+    domestic:accomodation (74,61)
+    activity:movement (66,61)
+    activity:fire (26,62)
+    activity:fire (34,63)
+  10 Aug 1918 65
+    time:0400AM (17,66)
+    time:0530AM (31,66)
+    place:Cayeux (9,66)
+    activity:movement (36,66)
+    unit:17 Lancers (72,67)
+    place:Meharicourt (24,69)
+    place:Caix (78,70)
+    time:0800AM (18,71)
+    activity:movement (35,71)
+    place:Rosieres (23,74)
+    time:0900AM (32,75)
+    unit:Canadian Infantry (58,76)
+    activity:reconnoitered (74,76)
+    unit:Australian Infantry (82,77)
+    time:1020AM (17,78)
+    place:Meharicourt (7,78)
+    activity:reconnoitered (31,78)
+    unit:Canadian Infantry (54,79)
+    time:1120AM (68,80)
+    activity:movement (77,80)
+    place:Meharicourt (28,81)
+    activity:fire (44,82)
+    activity:fire (55,82)
+    time:0300PM (18,86)
+    place:Rouvroy (55,88)
+    time:0230PM (65,89)
+    activity:movement (41,89)
+    place:Rouvroy (48,90)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD0000y4l  ----------
+  23 Aug 1918 89
+  10 Aug 1918 23
+    unit:Canadian Cavalry Brigade (70,23)
+    place:Le Quesnoy (36,24)
+    activity:movement (24,24)
+    unit:6 Cavalry Brigade (59,24)
+    place:Rouvroy (6,25)
+    time:0345PM (17,25)
+    unit:7 Brigade (25,28)
+    unit:7 Cavalry Brigade (26,28)
+    mapRef:Lens and Amiens (90,30)
+    time:0630PM (17,30)
+    place:Beaufort (54,31)
+    activity:reserve (43,31)
+  11 Aug 1918 34
+    domestic:accomodation (52,34)
+    time:0730PM (17,34)
+    time:0500AM (17,37)
+    time:0730AM (31,37)
+    time:0445PM (17,40)
+    time:1115PM (82,42)
+    place:Le Quesnil (32,43)
+    place:Beaucourt (42,43)
+    place:Hangard (50,43)
+    place:Boves (58,43)
+    place:Jumel (67,43)
+    activity:movement (22,43)
+    activity:movement (23,43)
+    time:0500PM (17,43)
+  12 Aug 1918 44
+    place:Junel (6,45)
+  13 Aug 1918 47
+    domestic:inspections (33,49)
+    time:0345PM (17,49)
+  14 Aug 1918 50
+    person:Lieutenant Colonel Paterson (25,52)
+    domestic:parades (72,53)
+    unit:6 Cavalry Brigade (47,55)
+  15 Aug 1918 56
+    time:0930AM (17,59)
+    activity:movement (27,60)
+    place:Boves (32,62)
+    place:Amiens (49,62)
+    place:Longpre (56,62)
+    place:Saint Sauveur (63,62)
+    place:Vaux (69,62)
+    place:Saint Ouen (76,62)
+    activity:movement (23,62)
+    time:0730PM (17,62)
+    time:0130AM (25,64)
+  16 Aug 1918 68
+    activity:resting (29,70)
+  18 Aug 1918 71
+    place:Abbeville (51,73)
+    strength:officer: 0; nco: 0; other: 72 (21,73)
+  19 Aug 1918 75
+    domestic:inspections (33,76)
+    person:General Harman (other) (24,77)
+  20 Aug 1918 78
+    activity:training (29,80)
+    time:0900AM (17,80)
+    time:0930PM (17,83)
+    time:0500AM (36,83)
+    unit:21 Inf Brigade (41,83)
+  21 Aug 1918 84
+    activity:achieved (27,86)
+    unit:Third Army (22,87)
+  23 Aug 1918 89
+    domestic:parades (35,90)
+    domestic:parades (25,90)
+    time:0845AM (17,90)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD0000y4u  ----------
+  24 Aug 1918 23
+    place:Abbeville (65,25)
+    place:Saint Ouen (6,25)
+    place:Stoven (7,25)
+    activity:training (30,25)
+    mapRef:LENS  (89,25)
+    time:0900AM (17,26)
+  25 Aug 1918 27
+    time:1145AM (17,29)
+    time:0400PM (17,32)
+    place:Chaussee (34,35)
+    place:Brunhaut (41,35)
+    place:Noyelles (50,35)
+    place:Voisin (66,35)
+    place:Rapechy (75,35)
+    activity:movement (22,35)
+    place:Le Boisle (58,36)
+    time:0835PM (17,36)
+    weather:rain (43,38)
+    weather:rain (38,39)
+    time:0230AM (58,39)
+  26 Aug 1918 40
+    place:Voisin (5,40)
+    activity:movement (24,42)
+    place:Rapechy (6,43)
+    time:0430PM (17,43)
+    time:0600PM (68,45)
+    time:0550PM (17,46)
+    place:Fillievres (64,48)
+    activity:movement (45,49)
+    time:0630PM (32,49)
+    time:0930PM (74,49)
+  27 Aug 1918 50
+    place:Fillievres (5,52)
+    time:1000AM (17,52)
+  29 Aug 1918 54
+    time:0100PM (17,56)
+    time:0800PM (35,56)
+  30 Aug 1918 59
+    time:0930AM (17,61)
+    time:0730PM (35,61)
+  31 Aug 1918 63
+    time:0100PM (17,66)
+    time:0730PM (59,66)
+    person:Captain R G Roberts (author) (62,83)
+    person:Captain R G Roberts (author) (68,87)
+Page 17 (type report) http://wd3.herokuapp.com/pages/AWD0000y3y  ----------
+  31 Aug 1918 0
+    date:8 Aug 1918 (58,11)
+    reference:62 D 63E (40,17)
+    date:8 Aug 1918 (34,18)
+    time:1000AM (40,18)
+    time:1110AM (40,25)
+    reference:Appendix A (61,4)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 25; sick: 0; wounded: 0 (50,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 14; sick: 0; wounded: 0 (47,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,58)
+    person:Lieutenant Dawkins (combat) (53,68)
+    person:Captain Shrubb (48,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 1; sick: 0; wounded: 0 (56,75)
+    person:Captain Shrubb (other) (47,78)
+Page 18 (type report) http://wd3.herokuapp.com/pages/AWD0000y53  ----------
+  31 Aug 1918 0
+    unit:7 Dragoon Guards (60,20)
+    unit:17Lancers (54,26)
+    unit:7 Dragoon Guards (44,27)
+    reference:62.D. & 63.E. (29,28)
+    unit:17 lancers (46,29)
+    unit:17 lancers (52,33)
+    unit:Canadian infantry (55,36)
+    unit:17 lancers (55,37)
+    unit:6 Dragoons (70,38)
+    reference:Appendix A (49,4)
+    unit:Canadian infantry (70,50)
+    unit:10 Hussars (55,55)
+    unit:Canadian infantry (64,61)
+    unit:17 lancers (58,7)
+    date:8 Aug 1918 (62,78)
+    person:Captain Turner (commander) (44,8)
+Page 19 (type report) http://wd3.herokuapp.com/pages/AWD0000y4v  ----------
+  31 Aug 1918 0
+    reference:Appendix B (44,20)
+    reference:Appendex "B" R.G.R 243 (82,22)
+    reference:Appendix B (78,23)
+    reference:Remarks (76,32)
+    reference:Wonded (46,34)
+    reference:Missing (58,34)
+    reference:Killed (33,35)
+    reference:x1 at Duty (76,39)
+    reference:9x (46,40)
+    casualties:died: 0; killed: 4; missing: 1; prisoner: 0; sick: 0; wounded: 40 (29,41)
+    reference:Officers (19,42)
+    reference:32 (47,43)
+    reference:1* (58,43)
+    reference:Belived Killed (76,43)
+    reference:O.R's (21,44)
+    reference:4 (33,44)
+    reference:22 (45,47)
+    reference:Horses (18,48)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 4 (25,54)
+    reference:Officers (21,55)
+    reference:x 2 at Duty (77,56)
+    reference:4x (47,57)
+    reference:1 (34,58)
+    reference:O.R's (21,59)
+    reference:10 (58,60)
+    reference:10 (32,61)
+    reference:Horses (18,62)
+    reference:Officers (23,68)
+    reference:O.R's (19,71)
+    reference:2 (59,73)
+    reference:7 (46,74)
+    reference:Horses (19,75)
+    reference:3 (34,75)
+Page 20 (type report) http://wd3.herokuapp.com/pages/AWD0000y4d  ----------
+  Hashtags: #Military #DCM #DSO #militarycross #militarymedal 
+  31 Aug 1918 0
+    person:Lieutenant Colonel R Sparrow (award) (44,22)
+    person:Major W F Chappell (award) (46,25)
+    person:Captain H G Shrubb (award) (46,32)
+    person:Second Lieutenant A R Conder (award) (43,38)
+    unit:6 rrc (63,39)
+    person:Sergeant Major W Pearce (award) (45,45)
+    person:Private E Field (award) (44,52)
+    person:Private R Houghton (award) (63,53)
+    person:Private R Houghton (award) (48,54)
+    person:Private M Cook (award) (45,56)
+    person:Private W J Woodrow (award) (53,57)
+    person:Private A J V Field (award) (46,59)
+    person:Private G Richardson (award) (45,61)
+    person:Private G Richardson (award) (63,61)
+    person:Private Manwaring (award) (46,62)
+    person:Sergeant A E Kirby (award) (51,65)
+    person:Sergeant H Johnson (award) (46,67)
+    person:Sergeant G Derby (award) (44,68)
+    person:Sergeant G Derby (award) (61,68)
+    reference:Appendix C (59,7)
+    person:Lance Corporal J F Boniface (award) (49,70)
+    person:Sergeant W J Pearce (award) (44,77)
+    reference:Appendix C (43,9)
+Page 21 (type other) http://wd3.herokuapp.com/pages/AWD0000y40  ----------
+  Hashtags: #Map 
+  31 Aug 1918 0
+    reference:Appendix D (21,5)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD0000y4r  ----------
+  Hashtags: #Duplicate 
+  31 Aug 1918 0
+    reference:Appendix E (63,22)
+    activity:training (25,25)
+    place:Saint Ouen (7,25)
+    mapRef:Lens & Amiens (91,26)
+    domestic:parades (47,28)
+    place:Fuxecourt (31,33)
+    activity:movement (22,34)
+    time:0930PM (17,34)
+    weather:rain (22,37)
+    place:Bourdon (7,37)
+    time:1115PM (17,38)
+    activity:movement (24,39)
+    place:Hangest (31,39)
+    time:0315AM (64,39)
+    place:Picquigny (38,40)
+    place:Montieres (47,40)
+    activity:movement (44,42)
+    place:Montieres (7,42)
+    time:0530PM (17,43)
+    time:0145AM (40,45)
+    place:Longneau (7,46)
+    time:0400AM (17,48)
+    mapRef:Lens & Amiens (91,50)
+    activity:movement (23,51)
+    unit:Canadian Cavalry Brigade (41,51)
+    time:0530AM (17,51)
+    time:0845AM (49,53)
+    activity:movement (23,56)
+    place:Ignacourt (6,56)
+    time:0930AM (17,56)
+    place:Ignacourt (38,58)
+    unit:Canadian Cavalry Brigade (52,60)
+    time:1110AM (17,61)
+    time:1145AM (17,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 25 (83,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 24; sick: 0; wounded: 0 (23,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 14; sick: 0; wounded: 0 (79,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 39; sick: 0; wounded: 0 (89,74)
+    activity:enemy_activity (76,75)
+    activity:fire (34,77)
+    place:Cayeux (6,86)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD0000y44  ----------
+  31 Aug 1918 0
+    mapRef:LENS & AMIENS (89,24)
+    unit:6 Cavalry Brigade (22,25)
+    unit:1 Royal Dragoons (66,25)
+    unit:17 Lancers (76,25)
+    place:Cayeux Wood (6,25)
+    mapRef:Lens & Amiens (92,25)
+    time:0300PM (17,26)
+    place:Cayeux (6,26)
+    time:0500PM (17,31)
+    place:Le Quesnel (57,34)
+    unit:10 Huzzars (53,39)
+    time:0800PM (17,39)
+    unit:10 Hussars (23,40)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 41 (74,41)
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 45 (90,41)
+    unit:15 Hussars (42,43)
+    time:1000PM (17,43)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 41 (84,45)
+    time:1130PM (17,46)
+    time:0400AM (17,49)
+    time:0645AM (17,52)
+    time:0845AM (50,52)
+    activity:movement (23,52)
+    time:1000AM (42,55)
+    time:0355PM (17,59)
+    time:0730PM (52,60)
+    activity:fire (35,62)
+    activity:fire (28,62)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 4 (63,63)
+    time:0400AM (17,65)
+    unit:17 Hussars (72,67)
+    place:Cayeux (6,67)
+    activity:movement (25,68)
+    time:0800AM (17,70)
+    time:1020AM (18,75)
+    activity:reconnoitered (32,75)
+    time:1120AM (17,79)
+    reference:Appendix E Part II (29,8)
+    place:Meharicourt (41,80)
+    activity:fire (68,80)
+    place:Meharicourt (6,86)
+    time:0300PM (17,87)
+    time:0230PM (65,89)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD0000y42  ----------
+  31 Aug 1918 0
+    reference:Appendix E Part III (33,11)
+    time:0345PM (17,25)
+    unit:6 Brigade (58,25)
+    unit:Canadian Cavalry Brigade (68,25)
+    unit:6 Cavalry Brigade (59,25)
+    place:Rouvroy (6,25)
+    activity:movement (23,25)
+    mapRef:Lens & Amiens (91,26)
+    time:0630PM (17,30)
+    activity:reserve (40,31)
+    time:0730PM (17,34)
+    time:0500AM (17,37)
+    time:0730AM (31,38)
+    time:0445PM (17,40)
+    activity:movement (23,42)
+    time:0500PM (17,43)
+    place:Le Quesnil (32,43)
+    place:Beaucourt (40,43)
+    place:Hangard (47,43)
+    place:Boves (54,43)
+    place:Guyencourt (60,43)
+    place:Jumel (70,43)
+    unit:6 Cavalry Brigade (38,45)
+  13 Aug 1918 46
+    place:Jumel (6,46)
+    time:0345PM (17,49)
+  14 Aug 1918 50
+    person:Colonel Paterson (commander) (24,52)
+    place:Jumel (3,52)
+    time:1200PM (17,53)
+    domestic:parades (64,53)
+  15 Aug 1918 55
+    time:0930AM (17,58)
+    place:Saint Ouen (44,59)
+    place:Boves (31,61)
+    activity:movement (22,61)
+    time:0720PM (17,62)
+    place:Amiens (44,62)
+    place:Longpre (52,62)
+    place:Saint Saveur (60,62)
+    place:Vaux (66,62)
+    place:Saint Ouen (74,63)
+    time:0130AM (24,64)
+  16 Aug 1918 66
+    place:Saint Ouen (7,69)
+  18 Aug 1918 71
+    place:Abbeville (50,72)
+  19 Aug 1918 73
+    strength:officer: 0; nco: 0; other: 72 (22,73)
+    person:General Harman (other) (23,76)
+    domestic:inspections (32,76)
+  20 Aug 1918 77
+    time:0900AM (17,79)
+    activity:training (29,79)
+  31 Aug 1918 0
+  20 Aug 1918 77
+  21 Aug 1918 83
+    time:0500AM (36,83)
+    time:0930PM (17,83)
+    activity:attack (32,86)
+  23 Aug 1918 87
+    time:0845AM (17,90)
+    domestic:parades (29,90)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD0000y43  ----------
+  23 Aug 1918 0
+    reference:Appendix E Part IV (28,11)
+  24 Aug 1918 23
+    mapRef:LENS  (89,25)
+    activity:training (27,25)
+    time:0900AM (17,25)
+  25 Aug 1918 26
+    place:Saint Ouen (6,26)
+    mapRef:Lens & Amiens (90,28)
+    time:1145AM (17,28)
+    time:0400PM (17,32)
+    place:Noyelles (46,34)
+    activity:movement (22,35)
+    time:0835PM (17,35)
+    place:Voisin (6,36)
+    weather:rain (33,37)
+  26 Aug 1918 38
+    place:Rapechy (8,38)
+    time:0230AM (49,38)
+    time:0430PM (17,41)
+    time:0600PM (68,44)
+    activity:movement (23,46)
+    time:0630PM (31,47)
+  27 Aug 1918 48
+    place:Fillievres (64,48)
+    time:0930PM (74,48)
+  23 Aug 1918 0
+  27 Aug 1918 48
+    time:1000AM (17,50)
+    place:Fillievres (6,51)
+  29 Aug 1918 52
+    time:0100PM (17,54)
+    time:0800PM (35,54)
+  30 Aug 1918 55
+    time:0930AM (17,59)
+    time:0730PM (36,59)
+  31 Aug 1918 60
+    time:0100PM (17,62)
+    time:0730PM (59,63)
+  23 Aug 1918 0
+  31 Aug 1918 60
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD0000y4m  ----------
+  2 Sep 1918 23
+    place:Fillievres (4,24)
+    time:0630PM (55,25)
+    activity:training (27,25)
+    place:Fillievres (7,25)
+    time:0930PM (67,26)
+  6 Sep 1918 27
+    activity:reserve (52,29)
+  12 Sep 1918 31
+    weather:rain (23,32)
+  14 Sep 1918 33
+    mapRef:St QUENTEN (90,34)
+    time:0930AM (17,35)
+    place:Fillievres (6,35)
+    place:Blangerval (48,36)
+    place:Fillievres (61,36)
+  16 Sep 1918 37
+    activity:movement (23,37)
+    time:1115AM (67,38)
+    time:0845AM (17,39)
+    place:Incourt (38,39)
+  17 Sep 1918 42
+    activity:movement (23,44)
+    activity:training (65,44)
+    place:Auchy-les-Hesdin (6,44)
+    time:0545AM (17,45)
+    unit:1 Cavalry Division (21,48)
+    unit:3 Cavalry Division (27,48)
+    unit:Household M.G. Brigade (62,48)
+  18 Sep 1918 51
+    time:0300PM (22,51)
+    domestic:accomodation (47,52)
+    time:0830AM (17,53)
+    place:Beauvoir-Riviere (7,53)
+    activity:movement (22,54)
+    place:Fillievres (32,55)
+  19 Sep 1918 56
+    activity:movement (65,57)
+    place:Wail (73,58)
+    place:Fillievres (6,58)
+    time:1045AM (17,59)
+  20 Sep 1918 60
+    activity:training (26,61)
+    place:Wail (6,61)
+  21 Sep 1918 63
+    activity:training (26,65)
+    activity:training (32,65)
+  25 Sep 1918 69
+    time:0845PM (17,71)
+    activity:movement (23,71)
+    place:Bunnieres (38,71)
+    place:Doullens (46,71)
+    place:Sarton (54,71)
+  26 Sep 1918 72
+    time:0910PM (17,74)
+    activity:movement (22,74)
+    place:Aveluy (61,74)
+    place:Albert (68,74)
+    place:Sarton (6,74)
+    place:Forceville (34,75)
+    place:Bouzicourt (42,75)
+  27 Sep 1918 76
+    activity:movement (23,77)
+    weather:rain (64,77)
+    place:Aveluy (6,77)
+    domestic:accomodation (57,77)
+    time:0930PM (17,78)
+    place:Albert (34,78)
+    place:Mericourt (40,78)
+    place:Hem (49,78)
+  29 Sep 1918 79
+    time:0230PM (48,81)
+    time:0415PM (54,81)
+    activity:movement (60,81)
+    place:Doingt (66,81)
+    place:Hem (6,81)
+    place:Vermand (83,81)
+    time:0150PM (17,82)
+  30 Sep 1918 83
+    time:1000AM (41,84)
+    weather:rain (73,84)
+    weather:cold (78,85)
+    place:Vermand (6,85)
+    person:Captain R G Roberts (author) (64,91)
+Page 27 (type report) http://wd3.herokuapp.com/pages/AWD0000y45  ----------
+  30 Sep 1918 0
+    date:17 Sep 1918 (56,11)
+    reference:Appendix A (54,3)
+Page 28 (type report) http://wd3.herokuapp.com/pages/AWD0000y3d  ----------
+  30 Sep 1918 0
+    reference:(F S R. Part 1, Section 112) (37,73)
+Page 29 (type report) http://wd3.herokuapp.com/pages/AWD0000y3g  ----------
+  30 Sep 1918 0
+    date:17 Sep 1918 (40,2)
+Page 30 (type report) http://wd3.herokuapp.com/pages/AWD0000y4w  ----------
+  Hashtags: #Busses 
+  30 Sep 1918 0
+Page 31 (type report) http://wd3.herokuapp.com/pages/AWD0000y4f  ----------
+  30 Sep 1918 0
+    person:Lieutenant Colonel R Sparrow (commander) (20,21)
+    person:Captain G L Hastings (other) (40,23)
+    person:Captain H G Shrubb (other) (58,23)
+    person:Lieutenant H L Shaw (56,26)
+    person:Captain C H B Gibbs (other) (74,26)
+    person:Captain R G Roberts (other) (20,28)
+    person:Lieutenant F A Frost (other) (58,30)
+    person:Lieutenant A T Lees (other) (76,30)
+    person:Lieutenant E H Penny (other) (19,32)
+    person:Lieutenant D Eadie (other) (56,33)
+    person:Lieutenant A R Conder (other) (76,34)
+    person:Lieutenant R S Gilman (other) (39,35)
+    person:Lieutenant S A Jardine (other) (20,36)
+    person:Lieutenant J R Scoon (other) (56,37)
+    person:Lieutenant A P Thomas (other) (75,38)
+    person:Lieutenant P Bradley (other) (41,39)
+    person:Captain Clarke (other) (21,42)
+    person:Lieutenant P Latchford (other) (40,43)
+    person:Lieutenant W Sunderland (other) (20,60)
+    person:Captain W R Jenkins (other) (59,61)
+    person:Captain I S Mellor (other) (74,62)
+    person:Lieutenant C N Shaw (other) (75,68)
+    reference:Appendix B (69,7)
+    person:Captain H A P Malone (other) (28,76)
+    person:Lieutenant F A Johnson (other) (27,79)
+    person:Lieutenant G M Cambridge (other) (26,83)
+    person:Lieutenant W E H Quennells (other) (25,87)
+    person:Lieutenant A Vokes (other) (26,91)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD0000y3u  ----------
+  Hashtags: #Winter 
+  1 Oct 1918 23
+    time:0700AM (61,24)
+    mapRef:St QUENTEN (88,25)
+    place:Vermand (7,25)
+    time:0230AM (17,25)
+  2 Oct 1918 26
+    time:0830AM (69,27)
+    time:0200AM (17,28)
+    place:Vermand (34,30)
+    time:0845AM (41,30)
+    time:0845AM (76,30)
+    activity:movement (32,33)
+  3 Oct 1918 37
+    time:1230PM (85,39)
+    time:0830AM (41,40)
+    activity:movement (23,43)
+    activity:enemy_activity (63,43)
+    time:0430PM (17,43)
+    activity:fire (26,46)
+    time:0630PM (72,46)
+    place:Bihecourt (34,49)
+  4 Oct 1918 50
+    domestic:inspections (29,52)
+    place:Bihecourt (6,52)
+    time:0330PM (17,52)
+  6 Oct 1918 53
+    weather:cold (24,55)
+  8 Oct 1918 57
+    place:Ponruet (37,58)
+    place:Bellenglise (50,58)
+    activity:movement (29,59)
+    domestic:parades (21,59)
+    time:0400AM (17,60)
+    activity:movement (39,61)
+    time:0645AM (27,61)
+    time:1200AM (34,62)
+    place:La Baraque (60,64)
+  9 Oct 1918 65
+    activity:movement (24,67)
+    place:Etricourt (63,67)
+    place:La Baraque (6,67)
+    mapRef:VARENCIENNES (88,68)
+    time:0320AM (17,68)
+    time:0400AM (70,68)
+    activity:movement (67,70)
+    activity:movement (64,70)
+    time:0700AM (52,70)
+    place:Serain (84,71)
+    activity:reserve (38,73)
+    place:Le Cateau (80,73)
+    time:1145AM (17,73)
+    time:0430PM (48,73)
+    activity:movement (64,76)
+    unit:8 Cavalry Brigade (50,78)
+    unit:6 Cavalry Brigade (63,82)
+    unit:Canadian Cavalry Brigade (68,85)
+    unit:Canadian Cavalry Brigade (78,90)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD0000y48  ----------
+  9 Oct 1918 24
+    place:Bertry (6,24)
+    mapRef:ST QUENTEN. VALENCIENNEL (89,25)
+    activity:movement (23,25)
+    activity:movement (24,25)
+    time:0530PM (17,25)
+    place:Marois (7,28)
+    time:0600PM (16,29)
+    unit:Canadian Cavalry Brigade (51,30)
+    mapRef:Valenciennes (90,31)
+    unit:Canadian Cavalry Brigade (25,31)
+    unit:7 Dragoons (59,34)
+    time:0630PM (17,34)
+  10 Oct 1918 37
+    place:Reumont (22,37)
+    place:Reumont (6,37)
+    time:0430AM (17,40)
+    activity:movement (21,41)
+    activity:movement (69,42)
+    time:0515AM (17,43)
+    time:0530AM (17,45)
+    place:Neuvilly (46,48)
+    activity:enemy_activity (24,48)
+    place:La Selle (63,49)
+    mapRef:57b (88,49)
+    mapRef:Sheet 57b (88,49)
+    place:Neuvilly (23,54)
+    activity:fire (31,57)
+    activity:reconnoitered (24,60)
+    place:Ramboulieux Farm (30,63)
+    activity:fire (45,63)
+    time:1000AM (17,68)
+    activity:withdraw (31,69)
+    activity:reconnoitered (59,70)
+    activity:fire (48,73)
+    place:Troisvilles (24,74)
+    activity:withdraw (67,74)
+    time:0310PM (17,77)
+    domestic:accomodation (33,78)
+    place:Bertry (42,78)
+  11 Oct 1918 79
+    place:Bertry (6,80)
+    activity:movement (22,80)
+    unit:French Cavalry (74,80)
+    time:0830AM (17,82)
+  13 Oct 1918 83
+    time:1000AM (53,83)
+    place:Outreux (35,84)
+    place:Villers (31,85)
+    place:Honnecourt (45,85)
+    activity:movement (23,85)
+    time:0900AM (17,85)
+  14 Oct 1918 86
+    place:Villers (31,88)
+    place:Guislains (36,88)
+    activity:movement (23,88)
+    place:Fins (42,89)
+    place:Bertincourt (50,89)
+    place:Honnecourt (7,89)
+    time:0840AM (17,89)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD0000y38  ----------
+  15 Oct 1918 22
+    activity:resupplying (21,24)
+    place:Bertincourt (6,25)
+  18 Oct 1918 26
+    mapRef:LENS VALENCENNEL (89,26)
+    place:Bertincourt (5,27)
+    activity:training (24,27)
+  22 Oct 1918 29
+    activity:training (22,31)
+  23 Oct 1918 32
+    time:1000AM (17,32)
+    time:1100AM (17,34)
+  26 Oct 1918 35
+    domestic:inspections (29,35)
+    place:Bertincourt (6,36)
+    time:0900AM (17,37)
+    domestic:inspections (30,37)
+  28 Oct 1918 39
+    activity:training (25,40)
+  30 Oct 1918 42
+    activity:training (24,44)
+  31 Oct 1918 45
+    mapRef:Lens VCalenciennes (53,69)
+    person:Captain R G Roberts (author) (63,83)
+Page 35 (type ) http://wd3.herokuapp.com/pages/AWD0000y3l  ----------
+  31 Oct 1918 0
+    reference:Appendix A (64,4)
+    reference:No.G.L.49 (57,4)
+    reference:Appendix A - No  G.L.49 (55,4)
+Page 36 (type ) http://wd3.herokuapp.com/pages/AWD0000y3t  ----------
+  31 Oct 1918 0
+    reference:C.2.a.9.4 (13,46)
+    reference:C.2.a.9.4 (63,46)
+    reference:Appendix A - Cont (79,8)
+    person:Major F J Scott (commander) (70,83)
+    date:9 Oct 1918 (25,86)
+    reference:Appendix A - No  G.L.49 (49,9)
+Page 37 (type orders) http://wd3.herokuapp.com/pages/AWD0000y4x  ----------
+  31 Oct 1918 0
+    reference:7th Brigade (68,26)
+    reference:Canadian Cavaly Brigade (40,30)
+    reference:Rambourlieux Farm (35,32)
+    reference:7thDragoon Guards (51,35)
+    reference:Neuvilly (47,38)
+    reference:6th Dragoon Guards (56,38)
+    reference:Le Cateau (62,39)
+    reference:Montay (69,40)
+    reference:6th Dragoon Guards (48,44)
+    reference:Croisette (53,45)
+    reference:Montay (72,45)
+    reference:RHA (45,48)
+    reference:MGS (62,48)
+    reference:Field Troop RE (36,50)
+    reference:7th Dragoon Guards (53,54)
+    reference:Croisette (55,55)
+    reference:Neuvilly (35,56)
+    reference:Amerval (68,56)
+    reference:K Troop RHA (38,58)
+    reference:Appendix B (69,6)
+    reference:3 Armoured Cars (47,60)
+    reference:7th Draggoon Guards (40,62)
+    reference:17th Lancers (65,63)
+    reference:Brigade HQ (57,64)
+    reference:22nd Bde AFA (68,66)
+    reference:7th MGS (37,67)
+    reference:Ramboourlieux (44,68)
+    person:Captain T W Fitzgerald (author) (64,80)
+    date:10 Oct 1918 (36,85)
+    reference:No.G.L.52 (60,9)
+    reference:Appendix B - No  G.L.52 (59,9)
+Page 38 (type report) http://wd3.herokuapp.com/pages/AWD0000y3n  ----------
+  31 Oct 1918 0
+    date:9 Oct 1918 (43,10)
+    person:Lieutenant C H R Bolckow (casualty_wounded) (45,18)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 12 (42,30)
+    casualties:died: 0; killed: 10; missing: 2; prisoner: 0; sick: 0; wounded: 5 (43,34)
+    date:10 Oct 1918 (31,41)
+    person:Lieutenant R S Gilman (casualty_wounded) (32,46)
+    person:Second Lieutenant A P Thomas (casualty_wounded) (48,46)
+    person:Captain R C H Gibbs (casualty_wounded) (64,47)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 24 (41,56)
+    casualties:died: 2; killed: 23; missing: 0; prisoner: 0; sick: 0; wounded: 16 (40,61)
+Page 39 (type report) http://wd3.herokuapp.com/pages/AWD0000y4q  ----------
+  31 Oct 1918 0
+    person:Lieutenant Colonel R Sparrow (commander) (29,24)
+    person:Captain Hastings (other) (42,25)
+    person:Captain Shrubb (other) (56,25)
+    person:Captain Friend (other) (69,25)
+    person:Lieutenant Frost (other) (56,30)
+    person:Captain Gibbs (other) (69,30)
+    person:Captain R G Roberts (other) (27,31)
+    person:Lieutenant Gilman (other) (42,34)
+    person:Lieutenant Eadie (other) (57,35)
+    person:Lieutenant Thomas (other) (69,35)
+    person:Second Lieutenant Jardine (other) (28,37)
+    person:Lieutenant Bradley (other) (43,39)
+    person:Lieutenant C N Shaw (other) (69,40)
+    person:Lieutenant Scoon (other) (56,41)
+    person:Captain Clarke (other) (28,42)
+    person:Lieutenant Sunderland (other) (43,45)
+    person:Lieutenant Penny (other) (28,47)
+    date:8 Oct 1918 (50,7)
+    reference:Appendix D (65,7)
+Page 40 (type report) http://wd3.herokuapp.com/pages/AWD0000y39  ----------
+  Hashtags: #Military #MilitaryCross #MilitaryMedal 
+  31 Oct 1918 0
+    reference:Appendix E (71,12)
+    person:Private Morgan (award) (25,32)
+    person:Private G F Morgan (award) (46,33)
+    person:Private H Scamp (award) (46,35)
+    person:Private Scamp (award) (24,35)
+    person:Corporal R W Paget (award) (48,38)
+    person:Corporal Paget (award) (25,38)
+    person:Lance Corporal G H Miles (award) (24,40)
+    person:Private W C Mason (award) (45,42)
+    person:Private Mason (award) (26,42)
+    person:Private G Blackman (award) (47,44)
+    person:Private G Blackman (award) (25,45)
+    person:Lance Corporal W B Wickham (53,47)
+    date:18 Oct 1918 (72,52)
+    person:Second Lieutenant P Bradley (award) (28,72)
+    person:Captain A H Clarke (award) (31,74)
+    date:24 Oct 1918 (30,82)
+Page 41 (type orders) http://wd3.herokuapp.com/pages/AWD0000y3p  ----------
+  31 Oct 1918 0
+    person:other F Foch (other) (52,51)
+    orders:move (43,6)
+    person:other F Foch (commander) (56,78)
+    date:12 Nov 1918 (37,79)
+    reference:Appendix E - cont (65,8)
+Page 42 (type other) http://wd3.herokuapp.com/pages/AWD0000y3s  ----------
+  Hashtags: #Map 
+  31 Oct 1918 0
+Page 43 (type diary) http://wd3.herokuapp.com/pages/AWD0000y3c  ----------
+  Hashtags: #Armistice 
+  4 Nov 1918 20
+    place:Bertincourt (8,24)
+    mapRef:LENS VALENCIENNES  TOURNI (88,25)
+  5 Nov 1918 26
+    time:0230PM (18,28)
+    place:Bertincourt (7,28)
+    time:1030PM (17,31)
+    activity:movement (30,31)
+  6 Nov 1918 32
+    domestic:parades (23,33)
+    weather:rain (59,33)
+    activity:movement (30,33)
+    time:0845AM (18,34)
+    place:Moevres (39,34)
+    place:Sauchy-Lestree (48,34)
+  7 Nov 1918 35
+    place:Sauchy-Lestree (7,36)
+    activity:movement (23,36)
+    time:0600AM (18,37)
+    place:Cantin (45,37)
+    place:Douai (50,37)
+    place:Planquet (58,37)
+  8 Nov 1918 38
+    time:0945AM (47,40)
+    place:La Neuville (69,40)
+    place:Planquet (8,40)
+    activity:movement (39,40)
+    time:0230AM (18,41)
+    activity:movement (28,42)
+    unit:2 Army (35,43)
+    place:Tourcoing (49,43)
+  9 Nov 1918 44
+    place:Leziennes (56,45)
+    place:La Madelain (65,45)
+    time:0230AM (18,46)
+    time:0845AM (41,46)
+    place:Attiches (49,46)
+    place:Mouveaux (74,46)
+    activity:movement (23,46)
+    place:La Neuville (8,47)
+  10 Nov 1918 49
+    unit:X Corps (64,49)
+    place:Aelbeke (26,49)
+    place:Rollinghem (36,49)
+    place:Aelbeke (8,51)
+    time:0600AM (18,52)
+    time:0845AM (69,52)
+    unit:29 Infantry Division (38,52)
+    place:Bellinghem (78,52)
+    activity:movement (61,52)
+    activity:movement (23,53)
+    time:0245PM (76,55)
+  11 Nov 1918 60
+    time:1100AM (18,62)
+  13 Nov 1918 63
+    place:Stookt (8,65)
+  14 Nov 1918 69
+  15 Nov 1918 73
+    activity:other (24,74)
+  16 Nov 1918 76
+    place:Pironche (42,78)
+    activity:movement (23,78)
+    time:0700AM (18,79)
+    place:Duwelz (51,79)
+  17 Nov 1918 81
+    place:Pironche (6,83)
+    activity:movement (26,84)
+    activity:movement (23,85)
+    time:0845AM (18,86)
+    place:Flubecq (39,87)
+    place:Nieuwenhove (63,87)
+    place:Nyken (76,88)
+    mapRef:NAMUR-LILLE (87,89)
+    mapRef:Namur (89,90)
+    unit:Iniskilling Dragoons (52,93)
+    place:Denderwindeke (24,93)
+Page 44 (type diary) http://wd3.herokuapp.com/pages/AWD0000y4z  ----------
+  18 Nov 1918 21
+    place:Denderwindeke (34,24)
+    activity:movement (25,25)
+    place:Nieuwenhove (7,25)
+    mapRef:Tournai - Brussels (89,27)
+    mapRef:TORENAI-BRUSSELS (88,27)
+    place:Neyghem (81,27)
+    unit:17 Lancers (24,27)
+    activity:movement (59,28)
+    place:Brussels (91,29)
+    place:Lieffering (30,30)
+  19 Nov 1918 31
+    mapRef: (71,33)
+    place:Neyghem (6,33)
+  21 Nov 1918 35
+    activity:movement (58,37)
+    place:Hal (74,37)
+    place:Tourneppe (79,37)
+    time:0900AM (65,37)
+    activity:movement (21,38)
+    place:Maransart (42,40)
+    place:Waterloo (80,40)
+    mapRef:Tournat-Brussels (90,43)
+  22 Nov 1918 44
+    place:Waterloo (73,44)
+    time:0845AM (16,46)
+    activity:movement (22,47)
+    place:Corbais (52,47)
+    place:Orbais (58,47)
+    place:Plancenoit (7,47)
+  23 Nov 1918 50
+    place:Les Beguines (22,50)
+  24 Nov 1918 55
+    place:Jodoigne (66,56)
+    activity:movement (49,57)
+    place:Melin (58,57)
+    place:Glatigny (6,57)
+    place:Sart Melin (81,58)
+  25 Nov 1918 61
+    place:Melin (6,64)
+  26 Nov 1918 66
+    domestic:inspections (36,68)
+    time:0900AM (16,69)
+  27 Nov 1918 70
+    unit:French Infantry (22,73)
+  28 Nov 1918 74
+    time:0900AM (16,77)
+  30 Nov 1918 78
+    domestic:parades (45,78)
+    domestic:parades (22,80)
+    domestic:parades (26,80)
+    time:0900AM (16,82)
+    person:Captain R G Roberts (author) (64,88)
+    person:Captain R G Roberts (author) (70,90)
+Page 45 (type report) http://wd3.herokuapp.com/pages/AWD0000y47  ----------
+  30 Nov 1918 0
+    date:10 Nov 1918 (35,13)
+    time:0630AM (38,16)
+    date:11 Nov 1918 (35,29)
+    title:Narrative of Operations (46,5)
+    reference: (36,7)
+    date:13 Nov 1918 (35,80)
+Page 46 (type report) http://wd3.herokuapp.com/pages/AWD0000y4g  ----------
+  30 Nov 1918 0
+    person:Brigadier General Freyberg (commander) (54,23)
+    person:Major Chappell (commander) (53,49)
+    reference:Appendix A cont (61,5)
+    person:Major General D E Cayley (commander) (57,52)
+    date:12 Nov 1918 (37,54)
+    person:Major Chappell (61,67)
+    person:Lieutenant General R B Stephens (commander) (56,70)
+    date:13 Nov 1918 (38,72)
+    date:12 Nov 1918 (53,8)
+    person:Major Chappell (commander) (44,85)
+    person:Major General J Percy (commander) (54,89)
+    date:15 Nov 1918 (39,91)
+Page 47 (type report) http://wd3.herokuapp.com/pages/AWD0000y49  ----------
+  30 Nov 1918 0
+    person:Major Chappell (51,11)
+    person:Brigadier General A F Home (commander) (57,19)
+    date:17 Nov 1918 (38,21)
+    person:Lieutenant Colonel J P Cosens (commander) (59,37)
+    date:20 Nov 1918 (38,38)
+    date:17 Nov 1918 (64,5)
+    person:Major Chappell (award) (58,51)
+    person:Brigadier General A Burt (commander) (59,55)
+    date:21 Nov 1918 (39,56)
+Page 48 (type report) http://wd3.herokuapp.com/pages/AWD0000y3e  ----------
+  Hashtags: #Military #D #DSO #militarycross #militarymedal 
+  30 Nov 1918 0
+    date:11 Nov 1918 (62,22)
+    person:Private W Holey (award) (47,29)
+    person:Private T Tomlinson (award) (45,34)
+    person:Sergeant E Rogers (award) (45,39)
+    person:Private J H Holly (award) (44,44)
+    reference:Auth X Corps M.S. 524 d/3.12.18 (34,49)
+    person:Major W F Chappell (award) (43,61)
+    person:Lieutenant T H Murray (award) (44,73)
+    person:Second Lieutenant H Newton (award) (45,78)
+    date:21 Dec 1918 (60,83)
+    reference:Auth: X Corps M.S. 560 d/21.12.18 (37,84)
+Page 49 (type report) http://wd3.herokuapp.com/pages/AWD0000y4t  ----------
+  30 Nov 1918 0
+    activity:movement (42,14)
+    place:Neuville (49,14)
+    date:9 Nov 1918 (35,14)
+    place:Lizennes (60,15)
+    place:Mouveaux (48,16)
+    place:Turcoing (53,16)
+    place:Adlbere (58,16)
+    unit:29 Division (57,19)
+    reference:Appendix "B" (57,2)
+    date:10 Nov 1918 (36,20)
+    reference:Appendix "A" (59,23)
+    place:Bellingham (59,27)
+    time:0845AM (34,27)
+    place:Avelghem (64,28)
+    place:Escanaffles (50,29)
+    activity:movement (47,30)
+    place:Haute (56,30)
+    place:Ellezelles (64,32)
+    date:11 Nov 1918 (34,32)
+    place:Flobecq (42,33)
+    place:Watrepont (54,33)
+    place:Renaix (59,33)
+    time:0745AM (33,33)
+    place:Dendre (55,36)
+    place:Watrepont (52,42)
+    activity:fire (53,46)
+    time:1050AM (34,46)
+    unit:30 Division (47,48)
+    place:Sottenieres (61,53)
+    time:1130AM (34,54)
+    time:0400PM (34,56)
+  12 Nov 1918 57
+    activity:movement (45,60)
+    place:Flobecq (51,60)
+    place:Ellezelles (57,60)
+    place:Stookt (62,60)
+    date:12 Nov 1918 (35,60)
+    time:1000AM (34,62)
+    time:0600PM (34,64)
+    date:13 Nov 1918 (34,78)
+  30 Nov 1918 0
+  12 Nov 1918 57
+Page 50 (type other) http://wd3.herokuapp.com/pages/AWD0000y3a  ----------
+  12 Nov 1918 0
+    reference:Appendix "C" (13,26)
+Page 51 (type report) http://wd3.herokuapp.com/pages/AWD0000y4c  ----------
+  12 Nov 1918 0
+    reference:memo No.G.976 (32,36)
+    date:11 Nov 1918 (57,36)
+Page 52 (type report) http://wd3.herokuapp.com/pages/AWD0000y3w  ----------
+  12 Nov 1918 0
+    date:10 Nov 1918 (60,34)
+    person:Lieutenant Colonel P Neame (commander) (63,61)
+    person:Lieutenant Colonel P Neame (73,62)
+Page 53 (type report) http://wd3.herokuapp.com/pages/AWD0000y3i  ----------
+  12 Nov 1918 0
+    date:11 Nov 1918 (74,38)
+Page 54 (type report) http://wd3.herokuapp.com/pages/AWD0000y3x  ----------
+  12 Nov 1918 0
+    person:Major Dyer (commander) (22,28)
+    person:Major Chappell (commander) (42,29)
+    person:Captain Shrubb (other) (62,29)
+    person:Captain Mellor (other) (76,29)
+    person:Captain Roberts (other) (23,31)
+    person:Lieutenant Sunderland (other) (45,31)
+    person:Captain Malone (other) (62,32)
+    person:Lieutenant Johnston (other) (77,32)
+    person:Lieutenant Penny (other) (21,34)
+    person:Lieutenant Murray (other) (42,34)
+    person:Lieutenant Frost (other) (61,34)
+    person:Second Lieutenant Scoon (other) (62,37)
+    person:Second Lieutenant Quennell (other) (78,37)
+    person:Captain Clarke (commander) (21,39)
+    person:Second Lieutenant Watson (other) (42,39)
+    person:Second Lieutenant Johnson (other) (60,39)
+    person:Second Lieutenant Newton (other) (45,42)
+    person:Second Lieutenant Bradley (other) (43,44)
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD0000y3z  ----------
+  2 Dec 1918 23
+    domestic:parades (26,25)
+    place:Melin (7,26)
+    time:0900AM (16,26)
+    mapRef:Brussells, Liege, Marche (90,27)
+  5 Dec 1918 28
+    domestic:parades (25,29)
+    time:1100AM (16,30)
+  10 Dec 1918 31
+    activity:training (23,33)
+    weather:rain (57,33)
+    time:0900AM (17,34)
+  11 Dec 1918 36
+  15 Dec 1918 40
+    activity:movement (36,41)
+    place:Hannut (52,42)
+    place:Avesnes (61,42)
+    domestic:parades (24,42)
+    time:0900AM (17,42)
+  16 Dec 1918 43
+    activity:movement (23,45)
+    place:Avesnes (6,45)
+    place:Beemont (79,45)
+    place:Pair (85,46)
+    time:0745AM (16,47)
+  18 Dec 1918 49
+    place:Steny (7,51)
+  22 Dec 1918 57
+    activity:other (27,60)
+  25 Dec 1918 61
+    domestic:religion (27,65)
+  30 Dec 1918 66
+    person:Captain R G Roberts (author) (69,90)
+Page 56 (type diary) http://wd3.herokuapp.com/pages/AWD0000y41  ----------
+  1 Jan 1919 22
+    activity:quiet (26,26)
+    place:Seny (7,26)
+  11 Jan 1919 28
+  13 Jan 1919 32
+  24 Jan 1919 41
+    activity:other (22,42)
+  25 Jan 1919 44
+    activity:other (26,46)
+  29 Jan 1919 48
+  30 Jan 1919 51
+    activity:other (27,51)
+  31 Jan 1919 55
+    strength:officer: 18; nco: 0; other: 231 (44,62)
+    person:Captain R G Roberts (author) (72,84)
+Page 57 (type ) http://wd3.herokuapp.com/pages/AWD0000y3r  ----------
+  31 Jan 1919 0
+Page 58 (type report) http://wd3.herokuapp.com/pages/AWD0000y4n  ----------
+  31 Jan 1919 0
+    reference:Appendix B 282 (70,6)
+Page 59 (type diary) http://wd3.herokuapp.com/pages/AWD0000y4k  ----------
+  1 Feb 1919 21
+    weather:cold (25,25)
+    place:Seny (7,26)
+    weather:cold (35,26)
+  5 Feb 1919 27
+    activity:other (25,29)
+  9 Feb 1919 31
+    activity:other (26,33)
+  12 Feb 1919 34
+  14 Feb 1919 38
+  18 Feb 1919 42
+  21 Feb 1919 46
+  28 Feb 1919 50
+    place:Tidworth (54,51)
+    strength:officer: 14; nco: 0; other: 197 (65,66)
+    person:Captain R G Roberts (author) (66,85)
+Page 60 (type cover)
+Page 61 (type diary) http://wd3.herokuapp.com/pages/AWD0000y3k  ----------
+  1 Mar 1919 21
+    place:Seny (7,25)
+    unit:17 Lancers (63,28)
+    unit:Iniskilling Dragoons (45,29)
+  5 Mar 1919 36
+  7 Mar 1919 40
+    person:Butcher (other) (37,40)
+    domestic:parades (25,44)
+    activity:movement (49,44)
+    unit:5 Cavalry Brigade Cadre Group (25,49)
+  8 Mar 1919 51
+    person:General Neil Haig (commander) (41,51)
+    place:Pepinster (6,53)
+  12 Mar 1919 54
+    activity:other (33,54)
+    unit:5 Lancers (29,61)
+  15 Mar 1919 64
+    time:1000AM (16,67)
+    activity:movement (32,71)
+    person:General Neil Haig (other) (50,72)
+    person:General Pitman (other) (61,73)
+    person:Colonel Cousins (other) (69,73)
+  16 Mar 1919 75
+    unit:3 Dragoon Guards (31,75)
+    unit:5 Lancers (44,75)
+    place:Antwerp (6,77)
+  17 Mar 1919 78
+    activity:movement (29,79)
+  22 Mar 1919 83
+    activity:movement (31,85)
+    person:Captain R G Roberts (author) (66,90)

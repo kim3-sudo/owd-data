@@ -1,0 +1,576 @@
+GWD00000lo wo/95/1273/5
+1 DIVISION: Trench Mortar Battery 
+27 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD00034l6  ----------
+  1 Jul 1917 0
+  10 Aug 1917 66
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD00034kz  ----------
+  10 Aug 1917 0
+    activity:training (20,28)
+    unit:1 T.M.B. (27,34)
+    casualties:died: 2; killed: 11; missing: 0; prisoner: 0; sick: 0; wounded: 2 (21,42)
+    time:1130PM (16,49)
+    time:0100AM (16,53)
+    activity:fire (22,56)
+    time:0800AM (16,56)
+    time:1130AM (16,60)
+    activity:enemy_activity (22,63)
+    casualties:died: 0; killed: 0; missing: 8; prisoner: 0; sick: 0; wounded: 0 (23,67)
+    activity:withdraw (27,71)
+    unit:197 T.M.Battery. (30,79)
+    activity:movement (22,84)
+    activity:movement (34,88)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD00034kv  ----------
+  10 Aug 1917 0
+  30 Jul 1917 28
+    activity:training (20,29)
+    activity:movement (21,34)
+Page 6 (type cover)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD00034ld  ----------
+  1 Sep 1917 21
+    place:Le Clipon Camp (8,25)
+    place:Le Clipon (5,27)
+    activity:training (24,28)
+  30 Sep 1917 29
+Page 8 (type cover)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD00034lg  ----------
+  1 Oct 1917 22
+    place:Le Clipon (6,28)
+    activity:training (24,29)
+  22 Oct 1917 33
+    place:Le Clipon (6,36)
+    activity:movement (23,36)
+  23 Oct 1917 37
+    time:0900AM (18,37)
+    place:Beggars Cappel (6,40)
+    activity:training (25,41)
+  24 Oct 1917 42
+  25 Oct 1917 45
+    time:0845AM (19,45)
+    activity:movement (24,45)
+    time:0745AM (19,49)
+    activity:movement (23,49)
+  26 Oct 1917 50
+  31 Oct 1917 54
+    place:School Camp (8,54)
+    activity:training (25,57)
+Page 10 (type cover)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD00034l3  ----------
+  1 Nov 1917 24
+    place:School Camp (6,27)
+    activity:training (22,30)
+  5 Nov 1917 31
+  6 Nov 1917 33
+    activity:movement (21,36)
+  7 Nov 1917 38
+    activity:movement (21,41)
+    activity:fire (73,42)
+  9 Nov 1917 46
+    place:Reigersberg (5,49)
+    person:Second Lieutenant Norman (departed_posted) (21,54)
+  10 Nov 1917 58
+  11 Nov 1917 61
+    domestic:rations (24,62)
+  12 Nov 1917 65
+    person:Second Lieutenant Norman (returned_posted) (23,73)
+  14 Nov 1917 77
+    domestic:rations (23,77)
+  17 Nov 1917 84
+  18 Nov 1917 88
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD00034l1  ----------
+  20 Nov 1917 22
+    place:Reigersberg (5,27)
+    domestic:rations (22,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (38,27)
+  21 Nov 1917 32
+    unit:Loyal North Lancs (52,36)
+    activity:fire (28,37)
+  22 Nov 1917 40
+    domestic:rations (21,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (36,44)
+  23 Nov 1917 45
+  25 Nov 1917 49
+    activity:movement (21,52)
+  26 Nov 1917 57
+  27 Nov 1917 62
+  28 Nov 1917 66
+    activity:movement (22,66)
+    place:Herzeele (4,70)
+    activity:training (24,70)
+  30 Nov 1917 71
+    activity:training (21,73)
+Page 13 (type cover)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD00034l9  ----------
+  5 Dec 1917 27
+    place:Herzeele (7,27)
+    activity:training (22,28)
+  6 Dec 1917 29
+    place:Herzeele (6,32)
+    activity:movement (21,32)
+  7 Dec 1917 33
+    place:Crombeke (5,36)
+    activity:movement (21,36)
+  8 Dec 1917 37
+    place:Woesten (5,41)
+    activity:training (21,41)
+  10 Dec 1917 44
+    place:Woesten (5,47)
+    activity:movement (21,47)
+  12 Dec 1917 48
+    place:Canal Bank (4,52)
+  13 Dec 1917 53
+    activity:working (21,54)
+  14 Dec 1917 56
+    place:Canal Bank (6,58)
+    activity:movement (21,59)
+    activity:working (22,66)
+  31 Dec 1917 67
+Page 15 (type cover)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD00034l4  ----------
+  1 Jan 1918 24
+    place:Charpentier (8,26)
+    place:Charpentier Cross Roads (5,29)
+  29 Jan 1918 31
+    activity:working (25,31)
+  30 Jan 1918 34
+  31 Jan 1918 37
+    activity:movement (23,39)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD00034ll  ----------
+  1 Feb 1918 29
+    activity:training (45,33)
+  2 Feb 1918 34
+  3 Feb 1918 38
+    activity:movement (25,38)
+  6 Feb 1918 40
+    activity:training (43,42)
+  7 Feb 1918 43
+    activity:movement (23,46)
+  8 Feb 1918 48
+  14 Feb 1918 55
+  19 Feb 1918 60
+  20 Feb 1918 63
+    activity:movement (23,66)
+  21 Feb 1918 67
+    domestic:inspections (32,70)
+    domestic:inspections (24,71)
+    domestic:parades (36,73)
+  22 Feb 1918 74
+  23 Feb 1918 76
+  24 Feb 1918 78
+    activity:training (46,78)
+  25 Feb 1918 85
+  28 Feb 1918 89
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD00034kx  ----------
+  1 Mar 1918 22
+    activity:training (24,27)
+  2 Mar 1918 28
+  3 Mar 1918 32
+    activity:movement (24,35)
+    activity:movement (24,36)
+  4 Mar 1918 37
+    activity:movement (23,40)
+  6 Mar 1918 41
+    unit:409 lowland res (43,44)
+  8 Mar 1918 53
+  16 Mar 1918 57
+    person:Captain Baines (commander) (58,57)
+    activity:movement (25,60)
+  21 Mar 1918 64
+  22 Mar 1918 65
+  27 Mar 1918 73
+  29 Mar 1918 77
+    unit:3 tm Battery (39,77)
+    unit:3 tmb (33,77)
+    unit:3 tm Battery (23,77)
+  30 Mar 1918 81
+    activity:movement (26,81)
+    activity:training (27,85)
+  31 Mar 1918 86
+    domestic:religion (57,88)
+    domestic:religion (70,88)
+    activity:repair (27,89)
+    person:Captain Hugh Baines (commander) (78,92)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD00034ls  ----------
+  1 Apr 1918 23
+  2 Apr 1918 27
+    activity:training (22,27)
+    place:Ypres (6,28)
+  3 Apr 1918 32
+    activity:reconnoitered (27,33)
+  4 Apr 1918 35
+  5 Apr 1918 36
+    domestic:medical (47,37)
+    place:Choques (45,39)
+    activity:movement (22,39)
+    place:Marles-les-Mines (6,40)
+    place:Boesinge (38,40)
+    activity:movement (21,40)
+  6 Apr 1918 41
+    activity:reconnoitered (63,43)
+    domestic:inspections (23,44)
+  7 Apr 1918 45
+    place:Beuvry (36,48)
+    activity:movement (22,48)
+    place:Annequin (7,49)
+  8 Apr 1918 53
+    activity:fire (23,57)
+  9 Apr 1918 61
+  17 Apr 1918 66
+  18 Apr 1918 69
+    activity:attack (65,69)
+  19 Apr 1918 73
+    activity:fire (22,74)
+  21 Apr 1918 76
+  22 Apr 1918 78
+  24 Apr 1918 85
+  30 Apr 1918 89
+    activity:attack (25,89)
+    person:Captain Baines (71,94)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD00034lb  ----------
+  1 May 1918 24
+    activity:fire (60,27)
+    place:Cambrin (7,27)
+  2 May 1918 28
+    activity:line (25,28)
+    weather:fine (37,29)
+  3 May 1918 30
+    unit:1 tmb (28,30)
+    activity:movement (54,30)
+    unit:1 tm Battery (24,31)
+    place:Noeux-les-Mines (8,31)
+  4 May 1918 32
+    place:Noeux-les-Mines (4,32)
+    domestic:inspections (44,33)
+  8 May 1918 35
+    activity:training (23,35)
+  9 May 1918 36
+  11 May 1918 39
+    activity:training (47,41)
+  12 May 1918 42
+    unit:3 tmb (66,44)
+    activity:line (33,44)
+    place:Hohenzollern (7,45)
+  23 May 1918 51
+    activity:attack (47,51)
+    activity:repair (23,52)
+    activity:attack (38,53)
+  24 May 1918 55
+    unit:2 K R R C (51,55)
+    unit:2 krrc (46,55)
+  25 May 1918 57
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 4; sick: 0; wounded: 0 (28,57)
+    activity:attack (69,57)
+  27 May 1918 59
+    activity:attack (60,59)
+    activity:line (27,62)
+  28 May 1918 63
+    unit:1 tmb (38,63)
+    unit:1 tm Battery (50,64)
+    activity:movement (62,64)
+  29 May 1918 66
+    place:Noeux-les-Mines (7,66)
+    domestic:inspections (49,67)
+    domestic:inspections (38,68)
+  30 May 1918 69
+    domestic:parades (73,71)
+    activity:training (22,72)
+  31 May 1918 73
+    person:Captain Hugh Baines (author) (71,80)
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD00034l0  ----------
+  3 Jun 1918 31
+    place:Noeux-les-Mines (7,25)
+    activity:training (21,25)
+  4 Jun 1918 33
+    activity:training (21,35)
+  5 Jun 1918 36
+    activity:reconnoitered (38,37)
+    place:Cambrin (7,38)
+  6 Jun 1918 39
+    activity:movement (26,39)
+    activity:line (35,39)
+    unit:3 tmb (63,39)
+    unit:3 tm Battery (64,39)
+  7 Jun 1918 42
+    activity:line (26,45)
+  13 Jun 1918 52
+  14 Jun 1918 56
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (51,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (61,57)
+  20 Jun 1918 65
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (76,66)
+  21 Jun 1918 68
+    activity:line (25,68)
+    place:Noeux-les-Mines (9,69)
+    activity:attack (54,71)
+    unit:1 tmb (34,71)
+    unit:1 tm Battery (48,72)
+  22 Jun 1918 73
+  23 Jun 1918 75
+    domestic:inspections (41,76)
+    activity:training (21,78)
+  30 Jun 1918 84
+    person:Captain Hugh Baines (author) (61,92)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD00034kt  ----------
+  2 Jul 1918 25
+    unit:3 Trench Mortar Battery (79,27)
+    unit:3 tmb (69,28)
+    unit:3 tm Battery (74,28)
+    place:Hohenzollern (5,28)
+    activity:line (24,28)
+  4 Jul 1918 33
+  7 Jul 1918 37
+    activity:attack (59,37)
+  9 Jul 1918 41
+    activity:attack (31,42)
+  16 Jul 1918 44
+    activity:attack (47,44)
+  17 Jul 1918 45
+    activity:attack (23,48)
+  20 Jul 1918 49
+    unit:2 Royal Sussex Regiment (43,53)
+    activity:attack (25,54)
+    person:Captain H C Baines (casualty_kia) (74,58)
+    gridRef:A_28_C_12_57 (38,58)
+    activity:fire (59,58)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,59)
+  21 Jul 1918 60
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,60)
+    unit:1 tmb (34,61)
+    activity:movement (66,62)
+    unit:1 tm Battery (52,63)
+  22 Jul 1918 64
+  23 Jul 1918 66
+    domestic:inspections (30,66)
+    domestic:inspections (53,66)
+    place:Noeux-les-Mines (5,67)
+    activity:training (24,69)
+  29 Jul 1918 74
+    unit:2 Royal Sussex Regiment (55,76)
+    activity:training (23,77)
+  31 Jul 1918 78
+    person:Lieutenant W F Barfoot (commander) (24,79)
+    unit:3 tmb (63,81)
+    place:Cambrin (5,81)
+    unit:3 tm Battery (70,82)
+    activity:line (31,83)
+    person:Lieutenant W F Barfoot (author) (60,91)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD00034ks  ----------
+  1 Aug 1918 22
+    place:Cambrin (7,25)
+    activity:line (25,25)
+  2 Aug 1918 30
+    activity:attack (23,33)
+  15 Aug 1918 37
+    activity:line (40,41)
+    activity:attack (69,41)
+  22 Aug 1918 47
+    activity:movement (66,49)
+    unit:49 tmb (33,49)
+    unit:49 tm Battery (46,50)
+    unit:49 Trench Mortar Battery (28,51)
+    activity:training (44,53)
+  23 Aug 1918 54
+    place:Dieval (5,54)
+  24 Aug 1918 57
+    domestic:inspections (25,57)
+    domestic:inspections (47,57)
+    activity:training (21,61)
+  31 Aug 1918 66
+    activity:movement (28,69)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD00034kw  ----------
+  1 Sep 1918 21
+    activity:movement (24,25)
+    place:Arras (7,25)
+    unit:4 British Division (52,26)
+  4 Sep 1918 29
+  7 Sep 1918 30
+    unit:168 Trench Mortar Battery (29,32)
+  8 Sep 1918 33
+    unit:168 tmb (37,34)
+    unit:168 tm Battery (40,35)
+  9 Sep 1918 36
+  10 Sep 1918 38
+    place:Harbucq (8,39)
+    activity:movement (31,42)
+  11 Sep 1918 43
+  13 Sep 1918 46
+    activity:movement (25,47)
+    place:Athies (8,48)
+    activity:movement (45,50)
+  16 Sep 1918 52
+    activity:movement (28,52)
+    activity:attack (23,56)
+  19 Sep 1918 58
+    activity:attack (43,60)
+  20 Sep 1918 62
+  23 Sep 1918 65
+    unit:149 Trench Mortar Battery (31,65)
+    place:Vermand (6,65)
+    unit:1 tmb (42,68)
+    activity:achieved (29,74)
+    activity:attack (44,74)
+    activity:line (29,79)
+  28 Sep 1918 80
+  29 Sep 1918 82
+    activity:movement (48,84)
+    unit:3 tmb (24,84)
+  30 Sep 1918 85
+    unit:3 Trench Mortar Battery (36,85)
+    unit:3 tm Battery (33,85)
+    place:Vermand (6,86)
+    domestic:inspections (46,87)
+    person:Captain W F Barfoot (author) (72,92)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD00034l2  ----------
+  3 Oct 1918 23
+  4 Oct 1918 25
+    place:Marteville (5,25)
+    activity:training (58,26)
+  7 Oct 1918 27
+    activity:movement (21,27)
+  8 Oct 1918 28
+    activity:training (52,28)
+    place:Caullincourt (6,28)
+    place:Caullin Court (4,28)
+  9 Oct 1918 30
+    activity:movement (19,30)
+    place:Bellinglase (5,32)
+  15 Oct 1918 33
+    activity:movement (22,33)
+    activity:training (50,33)
+  16 Oct 1918 34
+    activity:movement (22,37)
+    place:Bohain (5,37)
+  17 Oct 1918 39
+    activity:attack (52,54)
+  18 Oct 1918 55
+    place:Vaux Andigny (68,57)
+  19 Oct 1918 58
+    activity:line (21,58)
+  20 Oct 1918 61
+    activity:movement (28,61)
+    place:Arbre de Guise (56,61)
+  22 Oct 1918 62
+    place:Arbre de Guise (7,64)
+  23 Oct 1918 65
+    unit:1 Trench Mortar Battery (37,68)
+  24 Oct 1918 69
+    activity:line (21,69)
+    activity:movement (21,72)
+    place:La Valee Mulatre (4,73)
+  29 Oct 1918 76
+    activity:line (20,77)
+    unit:1 Trench Mortar Battery (33,77)
+    place:Mazinghen (4,77)
+    activity:attack (29,87)
+  31 Oct 1918 91
+    activity:movement (55,91)
+    unit:3 tmb (33,91)
+    unit:3 tm Battery (20,91)
+    unit:3 Trench Mortar Battery (38,92)
+    place:Vaux Audigny (3,92)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD00034l5  ----------
+  1 Nov 1918 22
+  2 Nov 1918 24
+    activity:repair (29,26)
+  3 Nov 1918 27
+  4 Nov 1918 29
+    place:Mazinghen (4,30)
+    activity:attack (45,31)
+    place:Fermy (62,39)
+    place:Formy (4,41)
+  5 Nov 1918 43
+    activity:movement (59,45)
+  6 Nov 1918 46
+  7 Nov 1918 48
+    activity:movement (27,48)
+    place:Fernoy le Grand (4,50)
+    activity:training (57,50)
+  11 Nov 1918 55
+  13 Nov 1918 57
+    time:1100AM (17,58)
+    place:Favril (39,59)
+  15 Nov 1918 60
+    place:Favril (4,60)
+  16 Nov 1918 62
+    place:Domiperre (4,62)
+    activity:movement (26,62)
+    place:Sars Pottiers (4,65)
+  18 Nov 1918 66
+    activity:movement (25,66)
+  19 Nov 1918 69
+    place:Marzelle (4,70)
+  20 Nov 1918 72
+    place:Walcourt (4,73)
+    activity:training (54,74)
+  23 Nov 1918 78
+    activity:movement (27,78)
+  24 Nov 1918 81
+    activity:movement (27,81)
+  25 Nov 1918 83
+    place:Anthee (7,83)
+    activity:training (31,85)
+  30 Nov 1918 92
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD00034ky  ----------
+  1 Dec 1918 21
+    place:Whiellen (5,23)
+    activity:movement (23,23)
+  2 Dec 1918 24
+    place:Soinne (72,26)
+    place:Soinne (4,26)
+    activity:movement (24,26)
+  3 Dec 1918 27
+    place:Jamblinne (74,27)
+  4 Dec 1918 29
+    place:Jamblinne (5,29)
+  8 Dec 1918 31
+  9 Dec 1918 33
+    activity:movement (22,33)
+  10 Dec 1918 35
+    place:Sin Sin (6,35)
+    activity:movement (22,36)
+    place:Hutton (5,38)
+  11 Dec 1918 39
+  12 Dec 1918 41
+    activity:movement (22,41)
+  13 Dec 1918 43
+  14 Dec 1918 45
+    activity:movement (22,47)
+  15 Dec 1918 48
+    place:Hebronvale (5,50)
+    activity:movement (22,50)
+  16 Dec 1918 51
+    place:Hebronvale (67,51)
+    activity:movement (23,53)
+  17 Dec 1918 54
+    place:Grufflinge (72,55)
+    activity:movement (21,55)
+    place:Grufflinge (4,56)
+  18 Dec 1918 57
+    place:Losheim (73,58)
+    activity:movement (22,58)
+    place:Losheim (4,59)
+  19 Dec 1918 61
+    activity:movement (21,62)
+  20 Dec 1918 63
+    place:Hammerhutt (4,63)
+    place:Hammerhutt (6,65)
+  21 Dec 1918 68
+    place:Schmidtheim (76,68)
+  22 Dec 1918 71
+    activity:movement (22,71)
+    place:Munsterfel (68,72)
+    place:Munsterfel (5,73)
+  23 Dec 1918 74
+    place:Essig (70,75)
+    place:Essig (5,76)
+    activity:movement (23,76)
+  24 Dec 1918 77
+    activity:movement (21,78)
+  25 Dec 1918 79
+    place:Duisdorf (71,79)
+    place:Duisdorf (6,79)
+    place:Duisdorf (4,82)
+  31 Dec 1918 83

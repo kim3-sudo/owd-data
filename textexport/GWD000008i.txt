@@ -1,0 +1,344 @@
+GWD000008i wo/95/1123/2
+2 CAVALRY DIVISION: 3 Brigade Royal Horse Artillery 
+20 pages
+
+Page 1 (type diary) http://wd3.herokuapp.com/pages/AWD00019i2  ----------
+  1 Mar 1915 0
+    unit:2 Cavalry Division (84,3)
+  15 Mar 1915 30
+    place:Vieux Berquin (23,40)
+    unit:3 Brigade Royal Horse Artillery d & e batteries (46,43)
+    place:Aisne (45,47)
+    person:Lieutenant Colonel Breeks (28,51)
+    person:Captain Scarlett (promotion) (71,56)
+    unit:2 Cavalry Division d Royal Horse Artillery (70,60)
+    unit:3 Cavalry Brigade e Royal Horse Artillery (63,63)
+    unit:J Royal Horse Artillery (46,67)
+    unit:4 Cavalry Brigade (69,67)
+    unit:5 Cavalry Brigade (31,68)
+    unit:2 Cavalry Division (65,72)
+    person:Major General H de la P Gough (commander) (54,75)
+    person:Major General H de la P Gough (commander) (70,75)
+Page 2 (type diary) http://wd3.herokuapp.com/pages/AWD00019ii  ----------
+  27 Mar 1915 26
+    place:Vieux Berquin (15,28)
+  12 Apr 1915 67
+    place:Vieux Berquin (81,34)
+    place:Vieux Berquin (23,37)
+    unit:D Battery (40,37)
+    domestic:accomodation (60,38)
+    place:Vieux Berquin (78,41)
+    place:Bleu (35,44)
+    unit:9 Cavalry (31,48)
+    unit:Warwickshire Battery (66,48)
+    unit:Warwickshire Battery Royal Horse Artillery (83,48)
+    place:Petit Sec Bois (31,49)
+    domestic:accomodation (29,55)
+    place:Vieux Berquin (47,56)
+    unit:Warwickshire Battery Royal Horse Artillery (31,56)
+    activity:training (74,61)
+    unit:2 Cavalry Division Signals (49,68)
+  13 Apr 1915 70
+    unit:Warwickshire R.H.A. (41,76)
+    unit:9 Cavalry (38,79)
+    unit:9 Cavalry Brigade (37,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (78,85)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD00019ko  ----------
+  26 Mar 1915 20
+    person:Captain O Stanley (commander) (34,27)
+    place:Vieux Berquin (11,27)
+    unit:2 Cavalry Division (33,32)
+    unit:Headquarter Staff (76,36)
+    domestic:accomodation (35,39)
+    place:Vieux Berquin (48,39)
+    strength:officer: 3; nco: 1; other: 27 (22,44)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD00019ig  ----------
+  26 Mar 1915 0
+  15 Mar 1915 61
+    place:Vieux Berquin (13,65)
+    place:Le Havre (78,68)
+    person:Lieutenant Colonel G Gillson (joined) (33,69)
+    person:Lieutenant Colonel G Gillson (other) (19,69)
+  19 Mar 1915 73
+    person:Lieutenant Colonel G Gillson (joined) (29,77)
+    place:Vieux Berquin (55,77)
+  23 Mar 1915 81
+    person:Captain C J Clibborn (joined) (27,85)
+    unit:D Battery Royal Horse Artillery (46,85)
+    person:Second Lieutenant Duff (joined) (45,88)
+    person:Second Lieutenant G L A Duff (joined) (43,89)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD00019hv  ----------
+  Hashtags: #divisional #23 
+  17 Apr 1915 20
+    place:Vieux Berquin (18,27)
+    domestic:sport (25,31)
+    domestic:sport (53,32)
+    person:Captain Alexander (other) (57,36)
+    person:Lieutenant Colonel G Gillson (other) (56,40)
+  21 Apr 1915 46
+    unit:1 army, vii divison (20,53)
+    unit:Vii Division (64,55)
+    unit:7 Division (39,55)
+  22 Apr 1915 57
+    unit:Vii Division (45,63)
+    unit:35 Brigade Royal Field Artillery (52,67)
+    unit:36 Brigade, Royal Fusiliers (65,67)
+    place:Lavantre (27,71)
+  23 Apr 1915 78
+    time:1000AM (29,83)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD00019ib  ----------
+  23 Apr 1915 22
+    time:1100AM (51,29)
+    place:Boeschepe (7,29)
+    place:Boeschepe (11,29)
+    activity:movement (60,32)
+    place:Boeschepe (78,33)
+    place:Boeschepe (82,33)
+    activity:enemy_activity (69,37)
+    domestic:accomodation (29,37)
+    place:Ypres (63,41)
+    activity:enemy_activity (52,44)
+    place:Ypres (45,48)
+  24 Apr 1915 51
+    time:0400AM (78,57)
+    time:0600AM (49,60)
+    place:Vlamertinghe (12,60)
+    activity:movement (23,64)
+    place:Vlamertinghe (10,64)
+    place:Vlamertinghe (37,65)
+    place:Elverdinghe (58,68)
+    place:Vlamertinghe (42,69)
+    place:Lizerne (71,77)
+    place:Lizerne (73,77)
+    place:Vlamertinghe (27,84)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD00019i1  ----------
+  Hashtags: #alliedrelations #howitzers 
+  25 Apr 1915 24
+    unit:45DIV (16,27)
+    time:0100PM (26,28)
+    unit:French command 45 Division (69,31)
+    unit:French 45 Division (79,31)
+    unit:90 Zouave Brigade (73,35)
+    unit:90 2ouav E Brigade (29,36)
+    unit:45 Division (23,36)
+    unit:90 Zouane (77,36)
+    place:Brielen (8,37)
+    person:Lieutenant Colonel Mordacq (commander) (53,39)
+    place:Elverdinghe (77,46)
+    place:Elverdinghe (38,52)
+    place:Brielen (57,52)
+    place:Boesinghe (62,58)
+    activity:fire (75,79)
+    activity:fire (48,83)
+    unit:6" howitzers (28,84)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD00019hw  ----------
+  Hashtags: #telephone 
+  26 Apr 1915 24
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,30)
+    activity:movement (26,35)
+    unit:E Battery (82,37)
+    unit:B Battery (26,38)
+    unit:D Battery (75,38)
+    place:Steenstraate (83,49)
+    activity:enemy_activity (30,53)
+    place:Lizerne (29,57)
+    place:Het Sas (78,57)
+    place:Boesinghe (26,65)
+    place:Pilkem (25,69)
+    place:Saint Julien (74,72)
+    unit:French (30,76)
+    place:Lizerne (26,80)
+    place:Steenstraate (64,80)
+    place:Het Sas (80,80)
+    activity:enemy_activity (31,84)
+    place:Boesinghe (28,88)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD00019i7  ----------
+  Hashtags: #gas #alliedrelations #prelude 
+  26 Apr 1915 20
+    place:Brielen (16,26)
+    place:Pilkem (36,27)
+    gridRef:C_22_AB_0_0 (8,30)
+    unit:Morrocan Brigade (35,35)
+    unit:Morroccan Brigade (21,35)
+    activity:support (48,35)
+    activity:attack (24,38)
+    place:Pilkem (79,43)
+    activity:enemy_activity (28,50)
+    time:0630PM (81,52)
+  27 Apr 1915 57
+    activity:attack (40,62)
+    unit:Morrocan Brigade (27,67)
+    unit:Moroccan Brigade (34,68)
+    activity:attack (33,86)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD00019i5  ----------
+  Hashtags: #gas 
+  27 Apr 1915 23
+    place:Brielen (10,33)
+    unit:French Infantry (21,48)
+    unit:French Infantry (79,49)
+    unit:French Infantry (30,52)
+    activity:enemy_activity (26,57)
+    unit:Germans (66,68)
+    activity:fire (40,75)
+  28 Apr 1915 83
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD00019i8  ----------
+  Hashtags: #aircraft #Spies #spies 
+  28 Apr 1915 23
+    place:Brielen (12,34)
+    activity:fire (36,38)
+  29 Apr 1915 41
+    activity:enemy_activity (46,51)
+    place:Pilkem (75,60)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD00019i0  ----------
+  Hashtags: #German 
+  29 Apr 1915 23
+    activity:enemy_activity (30,30)
+    activity:fire (35,33)
+    place:Brielen (12,36)
+    person:Brigadier General White Thomson (other) (65,46)
+  30 Apr 1915 53
+    activity:fire (35,64)
+    activity:attack (29,77)
+    activity:fire (36,86)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD00019hx  ----------
+  Hashtags: #withdrawal 
+  30 Apr 1915 20
+    place:Ypres (34,25)
+    place:Ypres (61,26)
+    place:Vlamertinghe (74,27)
+  1 May 1915 34
+    place:Brielen (9,34)
+    activity:withdraw (30,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (18,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (26,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (46,60)
+    activity:withdraw (22,66)
+    unit:J Battery (77,69)
+    unit:E Battery (64,73)
+    unit:D Battery (53,74)
+    activity:fire (30,79)
+    person:Major Jeef (combat) (52,83)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD00019ij  ----------
+  1 May 1915 24
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (86,32)
+    person:General Venning (casualty_wounded) (37,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (68,37)
+    activity:fire (27,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,45)
+    time:0100PM (38,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 10 (47,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 10 (38,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 10 (84,59)
+    person:Lieutenant Smith (combat) (58,64)
+    person:Colonel Mordacq (commander) (65,75)
+    place:Reminghelst (72,85)
+    place:Reminghelst (70,90)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD00019i4  ----------
+  2 May 1915 19
+    unit:2 Cavalry Division (60,23)
+    place:Esquelbecq (79,24)
+    place:Reminghelst (8,25)
+    place:Esquelbecq (72,26)
+    unit:1 army (56,36)
+    place:Le Sart (28,38)
+  3 May 1915 40
+    place:Le Sart (61,45)
+    time:0730PM (46,46)
+    activity:movement (28,46)
+    place:Reminghelst (9,47)
+    weather:rain (55,50)
+    time:0130AM (40,51)
+  4 May 1915 52
+    person:General Hussey (commander) (67,57)
+    unit:Viii Division (55,59)
+    place:le Sart (8,59)
+    place:Le Sart (8,61)
+    time:0630PM (70,66)
+    place:Laventie (80,81)
+    time:0800PM (73,86)
+    place:Laventie (9,86)
+    unit:33 Brigade Royal Field Artillery. (46,87)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD00019i6  ----------
+  6 May 1915 25
+    place:Laventie (9,31)
+    activity:quiet (38,32)
+    place:Laventie (9,36)
+  7 May 1915 39
+    activity:resupplying (42,44)
+  8 May 1915 49
+    unit:Viii Division (48,57)
+  9 May 1915 59
+    unit:Viii Division (70,65)
+    activity:attack (36,66)
+    time:0500AM (27,69)
+    unit:Indian Corps (62,69)
+    activity:attack (71,70)
+    unit:1 Division (38,72)
+    unit:2 Division (49,72)
+    unit:8 Division (70,77)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD00019ki  ----------
+  9 May 1915 0
+    place:Laventie (9,25)
+    activity:fire (34,31)
+  10 May 1915 44
+    unit:7 Division (87,50)
+  11 May 1915 62
+    activity:fire (29,67)
+  12 May 1915 75
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD00019i3  ----------
+  13 May 1915 24
+    place:Laventie (6,29)
+    activity:attack (47,30)
+  14 May 1915 45
+    activity:attack (36,49)
+  15 May 1915 53
+    activity:quiet (30,57)
+  16 May 1915 61
+    time:1130PM (55,64)
+    time:0800AM (64,64)
+    place:Festubert (51,69)
+    unit:2 Division (69,69)
+    unit:7 Division (75,70)
+    unit:Indian Division (25,73)
+  17 May 1915 76
+    activity:enemy_activity (37,81)
+  18 May 1915 85
+    weather:rain (67,89)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD00019i9  ----------
+  19 May 1915 23
+    place:Laventie (8,27)
+    activity:quiet (30,28)
+  21 May 1915 33
+    activity:quiet (30,36)
+  22 May 1915 40
+    activity:enemy_activity (30,42)
+    activity:quiet (70,44)
+  23 May 1915 48
+  24 May 1915 63
+    activity:enemy_activity (36,78)
+  25 May 1915 83
+    activity:fire (25,89)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD00019ia  ----------
+  Hashtags: #lack 
+  26 May 1915 26
+    activity:fire (70,30)
+    activity:fire (38,31)
+    place:Laventie (6,32)
+  27 May 1915 39
+    activity:fire (29,42)
+  28 May 1915 47
+    activity:quiet (30,51)
+  29 May 1915 54
+    activity:quiet (26,58)
+  31 May 1915 61
+    activity:withdraw (70,65)
+    place:Le Nieppe (53,69)
+    unit:Cavalry Division (42,70)
+    activity:movement (49,73)
+    time:1000PM (37,73)
+    place:Merville (82,73)
+    unit:5 Brigade Royal Horse Artillery (29,74)
+    place:La Gorgue (69,74)
+  1 Jun 1915 78
+    place:Hazebrouck (25,78)
+    activity:other (54,84)

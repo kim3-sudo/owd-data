@@ -1,0 +1,710 @@
+GWD000003e wo/95/1156/3
+3 CAVALRY DIVISION: Royal Horse Guards 
+62 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD0000jef  ----------
+  1 Nov 1917 21
+    person:Sergeant Major R M Cowie (returned_hospital) (23,22)
+  2 Nov 1917 24
+  4 Nov 1917 33
+    person:Lieutenant S A Gollan (promotion) (25,33)
+  6 Nov 1917 37
+    person:Lieutenant J A C Otto (author) (23,39)
+    person:Lieutenant R L Jolliffe (38,45)
+  7 Nov 1917 56
+    person:Lieutenant E R How (promotion) (22,51)
+  8 Nov 1917 58
+  11 Nov 1917 61
+    activity:resting (32,61)
+  13 Nov 1917 64
+    person:Buckmaster (37,66)
+    person:Lieutenant Buckmaster (other) (23,66)
+  14 Nov 1917 71
+    person:Second Lieutenant A W Lyon (joined) (24,73)
+  15 Nov 1917 76
+    person:Captain Keyworth (joined) (38,78)
+    person:Lieutenant O H Gilrey (joined) (57,78)
+    person:Captain S P Keyworth (joined) (22,79)
+    person:Lieutenant C H Hoare (departed_posted) (19,85)
+    person:Lieutenant C H Hoare (33,86)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0000jdy  ----------
+  16 Nov 1917 20
+    reference:LENS. 11. 1/100,000 (5,25)
+  17 Nov 1917 26
+    place:Saint Ouen (54,28)
+    activity:movement (28,29)
+    activity:movement (44,29)
+    place:Pont Noyelles (6,29)
+    reference:Amiens. 17. 1/100,000 (7,31)
+  18 Nov 1917 33
+    place:Froissy (78,35)
+    activity:movement (38,36)
+    place:Froissy (6,37)
+    person:Lieutenant G Sweeting (departed_training) (29,39)
+    person:Captain H Cheverton (departed_training) (56,39)
+    person:Lieutenant G Sweeting (departed_training) (19,40)
+    person:Lieutenant D R Trefusis (joined) (21,45)
+    unit:7 Machine Gun Squadron (28,48)
+    reference:List No. 161: Appointments, Commissions, &c. (21,52)
+    person:Lieutenant O E W Greaves (promotion) (27,55)
+  19 Nov 1917 57
+  20 Nov 1917 62
+    activity:other (30,63)
+  22 Nov 1917 66
+  23 Nov 1917 70
+    person:Lieutenant D R Trefusis (departed_posted) (23,71)
+    place:Querrieu (6,73)
+    place:Querrieu (59,74)
+    activity:movement (30,76)
+  24 Nov 1917 77
+    person:Second Lieutenant L J Milburn (other) (20,80)
+  25 Nov 1917 84
+    person:Second Lieutenant J Otto (25,87)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD0000jdx  ----------
+  25 Nov 1917 0
+    place:Querrieu (6,23)
+    person:Lieutenant S Herbert (promotion) (43,26)
+    person:Lieutenant S Herbert (promotion) (39,27)
+    person:Captain A C Turner (other) (33,31)
+    place:Querrieu (62,35)
+    activity:resting (29,36)
+    place:Pont Noyelles (77,36)
+    person:Lieutenant C H Hoare (joined) (29,43)
+    place:Froissy (68,61)
+    reference:3rd cav division (91,63)
+    place:Cambrai (64,65)
+Page 6 (type orders) http://wd3.herokuapp.com/pages/AWD0000jf0  ----------
+  25 Nov 1917 0
+    person:Field Marshal Douglas Haig (author) (63,22)
+    reference:Congratulary telegram from Allenby to Haig (34,41)
+    person:Field Marshal Douglas Haig (other) (53,48)
+    person:General E H H Allenby (other) (47,51)
+    date:3 Nov 1917 (32,56)
+    date:9 Nov 1917 (27,84)
+Page 7 (type orders) http://wd3.herokuapp.com/pages/AWD0000jdt  ----------
+  25 Nov 1917 0
+    person:Field Marshal Douglas Haig (72,21)
+    person:General E H H Allenby (other) (43,51)
+    reference:Egy (73,52)
+    date:2 Nov 1917 (30,55)
+    reference:Congratulary telegram from Haig to Allenby on  success at Beersheba, Eygpt (31,59)
+    reference:Victory at Beersheba (46,62)
+    reference:Beersheba (48,64)
+    date:4 Nov 1917 (26,85)
+Page 8 (type orders) http://wd3.herokuapp.com/pages/AWD0000jdm  ----------
+  25 Nov 1917 0
+    reference:Congratulary telegrams from Charles Hanson, Lord Mayor London to Field Marchall Douglas Haig and vice versa (37,28)
+    person:other Charles Hanson (other) (47,35)
+    date:8 Nov 1917 (37,38)
+    person:Field Marshal Douglas Haig (award) (44,55)
+    date:9 Nov 1917 (37,60)
+    date:11 Nov 1917 (32,87)
+Page 9 (type orders) http://wd3.herokuapp.com/pages/AWD0000jcx  ----------
+  25 Nov 1917 0
+    person:Field Marshal Haig (other) (51,14)
+    reference:Special Order Of The Day (54,19)
+    date:28 Oct 1917 (42,31)
+    date:29 Oct 1917 (42,42)
+    person:General Petain (other) (58,53)
+    date:23 Oct 1917 (42,57)
+    person:General Petain (other) (59,65)
+    date:24 Oct 1917 (42,70)
+    date:13 Nov 1917 (38,85)
+Page 10 (type orders) http://wd3.herokuapp.com/pages/AWD0000jep  ----------
+  25 Nov 1917 0
+    orders:other (44,13)
+    reference:Special Order Of The Day (52,13)
+    person:Field Marshal Douglas Haig (author) (54,18)
+    person:General F Maude (other) (46,40)
+    date:12 Nov 1917 (38,43)
+    reference:Tekrit (37,49)
+    reference:Tekrit (70,52)
+    person:General F Maude (other) (45,56)
+    date:13 Nov 1917 (37,60)
+    reference:Mesopotamia (40,67)
+    person:Field Marshal Douglas Haig (author) (58,78)
+    date:17 Nov 1917 (32,84)
+Page 11 (type orders) http://wd3.herokuapp.com/pages/AWD0000je1  ----------
+  25 Nov 1917 0
+    date:10 Nov 1917 (38,35)
+    date:16 Nov 1917 (35,58)
+    date:17 Nov 1917 (33,88)
+    reference:Special Order Of The Day (50,9)
+Page 12 (type orders) http://wd3.herokuapp.com/pages/AWD0000jee  ----------
+  25 Nov 1917 0
+    reference:Special Order Of The Day (51,11)
+    person:Field Marshal Douglas Haig (author) (55,14)
+    reference:Capture of Bourlon (40,27)
+    reference:Tanks (41,39)
+    reference:Aircraft (44,46)
+    reference:Calvary (36,48)
+    person:General Julian Byng (40,58)
+    reference:Italy (40,68)
+    reference:Italy (49,78)
+    person:Field Marshal Douglas Haig (author) (60,81)
+    date:24 Nov 1917 (36,86)
+Page 13 (type orders) http://wd3.herokuapp.com/pages/AWD0000jeo  ----------
+  Hashtags: #telegrams 
+  25 Nov 1917 0
+    reference:Special Order Of The Day (51,10)
+    orders:other (48,13)
+    person:Field Marshal Douglas Haig (author) (50,15)
+    reference:Telegrams from Queen Alexandra, Field Marshall Viscount French, General Sir E.H.H. Allenby, Commanding-in-Chief, Egypt, Lord Mayor, London, and the Chairman of the London Stock Exchange--congratulating the Third army on their advance through the Hindenburg Line. (47,20)
+    person:Field Marshal Douglas Haig (other) (47,24)
+    date:22 Nov 1917 (41,27)
+    person:Field Marshal Douglas Haig (author) (45,34)
+    date:23 Nov 1917 (41,36)
+    person:Field Marshal Douglas Haig (other) (45,43)
+    person:Field Marshal French (other) (59,43)
+    date:21 Nov 1917 (40,46)
+    person:Field Marshal Douglas Haig (author) (44,50)
+    date:22 Nov 1917 (40,53)
+    reference:3rd Army breaking through the 3 great defence systemms of the Hindenburg Line (36,54)
+    person:General E H H Allenby (other) (58,57)
+    date:23 Nov 1917 (40,60)
+    date:23 Nov 1917 (40,66)
+    date:21 Nov 1917 (40,73)
+    date:22 Nov 1917 (41,81)
+    date:22 Nov 1917 (41,90)
+Page 14 (type other) http://wd3.herokuapp.com/pages/AWD0000jeg  ----------
+  25 Nov 1917 0
+    person:Field Marshal Douglas Haig (other) (42,10)
+Page 15 (type other) http://wd3.herokuapp.com/pages/AWD0000je7  ----------
+  25 Nov 1917 0
+    person:Field Marshal Douglas Haig (other) (57,81)
+    date:27 Nov 1917 (41,85)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD0000jdk  ----------
+  1 Dec 1917 21
+    mapRef:Amiens 17 (5,22)
+    place:Querrieu (5,22)
+    activity:resting (38,23)
+    time:0630AM (16,23)
+    unit:7 Cavalry Dismounted Battalion (24,24)
+    mapRef:AMIENS 17 (6,26)
+    place:Pont Novelles (21,29)
+  2 Dec 1917 37
+    place:Querrieu (62,39)
+    activity:movement (30,40)
+    place:La Houssoye (41,43)
+  3 Dec 1917 44
+    place:Bonnay (24,44)
+    place:Pont Novelles (5,46)
+    domestic:accomodation (20,47)
+  5 Dec 1917 48
+    person:Lieutenant H J Buckmaster (returned_training) (30,51)
+  6 Dec 1917 53
+    person:Lieutenant G Sweeting (returned_training) (30,57)
+  7 Dec 1917 60
+    person:Second Lieutenant R E Henderson (departed_training) (75,61)
+    person:Lieutenant T R Pearson (departed_training) (47,62)
+    person:Lieutenant O H Gilbey (departed_training) (31,63)
+    person:Second Lieutenant W S Hann (promotion) (29,70)
+  8 Dec 1917 74
+    domestic:accomodation (20,78)
+  9 Dec 1917 80
+    person:Lieutenant Gilbey (returned_training) (32,82)
+    person:Lieutenant S A Gollan (departed_training) (63,84)
+    person:Lieutenant Gollan (departed_training) (49,85)
+  10 Dec 1917 88
+    domestic:accomodation (20,90)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD0000jev  ----------
+  11 Dec 1917 21
+    place:Pont Noyelles (6,23)
+    person:Lieutenant O H Gilbey (departed_training) (27,23)
+  12 Dec 1917 28
+    reference:Departed for ccourse at Corps Equitation School (36,28)
+    reference:Equitation School (19,28)
+    domestic:accomodation (19,31)
+  13 Dec 1917 32
+    person:Field Marshal D Haig (other) (65,33)
+    person:Lieutenant R B James (award) (30,34)
+    reference:Mention in dispatches of London gazette (47,37)
+  14 Dec 1917 38
+    reference:Despatches of November 7th 1917 (20,38)
+  20 Dec 1917 42
+    domestic:accomodation (21,42)
+  22 Dec 1917 45
+    place:Gorenflos (6,48)
+    activity:movement (21,48)
+    mapRef:Lens 11 (5,48)
+    mapRef:LENS 11 (3,49)
+    place:Gorenflos (61,50)
+    reference:B Squadron (38,51)
+    place:Le Plouy (61,53)
+    mapRef:LENS 11 (6,53)
+    reference:A Squadron (38,54)
+    place:Domquer (61,57)
+    reference:D Squadron (37,58)
+  23 Dec 1917 61
+    activity:strength (25,62)
+    person:Lieutenant Gollan (returned_training) (29,65)
+    person:Lieutenant Pearson (returned_training) (39,65)
+    person:Second Lieutenant Henderson (returned_training) (57,65)
+  24 Dec 1917 68
+    person:Lieutenant F B De Klee (joined) (27,71)
+    unit:3 Signal Squadron (65,71)
+  25 Dec 1917 72
+    reference:EARL OF PEMBROKE & MONTGOMERY (30,73)
+    person:Major Pembroke & Montgomery (departed_posted) (23,75)
+    reference:REGIMENT ORDERS (72,76)
+    reference:Regimental orders (74,77)
+    reference:struck off strength of regiment (26,78)
+    unit:3 Cavalry Division (63,79)
+    unit:3 Cavalry Division. (71,81)
+    person:Second Lieutenant A W Lyon (departed_posted) (29,82)
+    reference:TRAFFIC CONTROL DUTIES (19,85)
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD0000jei  ----------
+  26 Dec 1917 20
+    unit:7 dismounted Brigade (46,22)
+    place:Gorenflos (6,23)
+    activity:strength (33,23)
+    unit:7 Dismounted Brigade (59,23)
+  29 Dec 1917 30
+    domestic:accomodation (22,31)
+    activity:resting (29,31)
+  30 Dec 1917 32
+    unit:3 Cavalry Division. (72,35)
+    person:Second Lieutenant A W Lyon (joined) (30,36)
+  31 Dec 1917 37
+    person:Lieutenant Gollan (departed_training) (26,41)
+    reference:POWER BUZZER COURSE (52,43)
+    reference:SIGNAL SCHOOL (20,45)
+    reference:COPIES OF SPECIAL ORDERS (8,52)
+    reference:Special orders of the Day (36,54)
+    reference:Special Orders of the Day (12,55)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD0000je4  ----------
+  1 Jan 1918 16
+    reference:LORD TWEEDMOUTH (32,18)
+    reference:MVO (54,18)
+    reference:DS0 (58,18)
+    person:Lieutenant Colonel Lord Tweedmouth (departed_posted) (20,19)
+    reference:CMG (50,19)
+    place:Gorenflos (5,20)
+    person:Lieutenant Colonel Lord Tweedmouth (departed_posted) (39,20)
+    unit:7 dismounted Brigade (36,22)
+    mapRef:11 Lens (7,23)
+    unit:4 Dismounted Brigade (46,23)
+    mapRef:LENS 11 (4,25)
+    reference:(See War Diary of 7th Dismounted Brigade attached.) (56,26)
+    unit:1 Life Guards (25,26)
+  2 Jan 1918 27
+    reference:War Diary 7th Dis Bde (65,27)
+    reference:War Diary of 4th Dis. Bde. (49,27)
+  3 Jan 1918 28
+    domestic:accomodation (22,30)
+  4 Jan 1918 31
+    activity:resting (22,31)
+    reference:Reinforcement of 15 horses (34,33)
+    activity:strength (35,34)
+  5 Jan 1918 35
+    domestic:accomodation (22,38)
+    activity:resting (25,38)
+  6 Jan 1918 39
+    person:Lieutenant H J Fordham (joined) (30,42)
+    person:Lieutenant S A Gollan (returned_training) (23,45)
+    person:Lieutenant S A Gollan (returned_training) (31,46)
+    reference:POWER BUZER COURSE (60,48)
+  7 Jan 1918 49
+    person:Lieutenant J T Colledge (departed_training) (29,53)
+    person:Lieutenant H Tozer (departed_training) (50,53)
+    person:Second Lieutenant J A C Otto (departed_training) (68,53)
+    person:Lieutenant J T Colledge (departed_training) (23,53)
+  8 Jan 1918 57
+    activity:strength (24,60)
+  11 Jan 1918 63
+    activity:resting (26,65)
+  12 Jan 1918 66
+    person:Lieutenant R H Riddell (departed_sick) (30,69)
+    person:Lieutenant R N Riddell (departed_sick) (22,69)
+  13 Jan 1918 72
+    reference:CAPTAIN G MEYRICK TO ACTING MAJOR (28,74)
+    person:Captain G Meyrick (promotion) (23,75)
+    person:Captain G Meyrick (promotion) (30,76)
+    person:Lieutenant G M Greaves (promotion) (29,82)
+    reference:LIEU G M GREAVES TO ACTING CAPTAIN (26,82)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD0000jcv  ----------
+  14 Jan 1918 19
+    person:Lieutenant F B De Klee (departed_training) (24,22)
+    place:Gorenflos (6,24)
+  15 Jan 1918 28
+    person:Lieutenant S A Gollan (departed_sick) (29,28)
+  16 Jan 1918 31
+    domestic:accomodation (25,31)
+    activity:strength (43,35)
+    person:Second Lieutenant A W Lyon (combat) (71,38)
+  17 Jan 1918 44
+    activity:strength (28,48)
+    person:Lieutenant E J Feary (departed_posted) (23,51)
+    reference:See Appendix "A". (79,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (63,53)
+  18 Jan 1918 54
+    reference:Appendix A (80,54)
+    person:Lieutenant R B James (casualty_wounded) (48,54)
+    activity:strength (38,57)
+  19 Jan 1918 61
+    activity:resting (24,61)
+  22 Jan 1918 64
+    domestic:accomodation (24,64)
+    domestic:inspections (43,68)
+    unit:4 Cavalry Brigade (31,69)
+  23 Jan 1918 74
+    person:Captain Lord A Leveson Gower (departed_training) (29,77)
+    person:O E W Greaves (promotion) (48,83)
+    person:Lieutenant O E W Greaves (promotion) (23,84)
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD0000je8  ----------
+  24 Jan 1918 19
+    person:Major G Meyrick (departed_posted) (27,23)
+    person:Lieutenant H Fordham (departed_posted) (45,23)
+    place:Gorenflos (6,23)
+    unit:7 Dis. Brigade (25,31)
+  25 Jan 1918 35
+    person:Lieutenant O H Gilbey (returned_training) (27,35)
+    unit:3 Cavalry Division. Pioneer Regiment. (62,38)
+    person:Second Lieutenant A W Lyon (joined) (22,39)
+    unit:3 Cavalry Dw. Pioneer Regiment. (72,39)
+    activity:strength (31,40)
+  26 Jan 1918 42
+  27 Jan 1918 46
+    domestic:inspections (43,46)
+    person:Lieutenant F B De Klee (returned_training) (26,50)
+    person:H Britton (award) (40,56)
+  28 Jan 1918 59
+    reference:London Gazette 1/1/18 - R.O. 27/1/18 (26,60)
+    reference:London Gazette 1/1/8 (29,61)
+  29 Jan 1918 63
+    person:Lieutenant C H Hoare (departed_posted) (28,63)
+    person:Lieutenant T R Pearson (departed_training) (27,67)
+    unit:Tank Corps (55,73)
+    person:Captain H C S Combe (departed_posted) (25,74)
+  30 Jan 1918 76
+    place:Saint Sauveur (6,79)
+    activity:movement (35,80)
+    mapRef:Amiens 17 (7,84)
+    place:Ailly (55,85)
+    mapRef:Amiens 17 (75,85)
+    place:Argoeuves (57,88)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD0000jf6  ----------
+  31 Jan 1918 21
+    place:Proyart (50,24)
+    place:Proyart (7,25)
+    activity:movement (29,25)
+    mapRef:17 (7,29)
+    activity:strength (29,34)
+    person:Lieutenant Colonel Tweedmouth (author) (58,64)
+Page 23 (type ) http://wd3.herokuapp.com/pages/AWD0000jdf  ----------
+  31 Jan 1918 0
+    person:Field Marshal Douglas Haig (award) (43,10)
+    date:1 Jan 1918 (37,88)
+Page 24 (type ) http://wd3.herokuapp.com/pages/AWD0000jd2  ----------
+  31 Jan 1918 0
+    person:Field Marshal Douglas Haig (award) (46,15)
+    date:5 Jan 1918 (39,90)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD0000jek  ----------
+  Hashtags: #CRE 
+  1 Feb 1918 21
+    place:Trefcon (6,25)
+    domestic:accomodation (27,26)
+    place:Trefcon (40,27)
+  2 Feb 1918 28
+    person:Lieutenant G Sweeting (returned_training) (26,31)
+  3 Feb 1918 37
+    reference:Special order (24,38)
+    person:Captain Lord A Leveson Gower (returned_training) (25,48)
+    person:Captain A Leveson Gower (returned_training) (46,49)
+    person:Captain Lord A Leveson Gower (returned_training) (39,49)
+  4 Feb 1918 52
+    activity:repair (28,56)
+    person:Lieutenant J Colledge (returned_training) (26,64)
+    person:Lieutenant H Tozer (returned_training) (45,64)
+    person:Second Lieutenant Otto (returned_training) (61,64)
+    person:F Price (award) (51,78)
+    person:F Price (award) (36,78)
+  5 Feb 1918 81
+    person:Lieutenant C H Hoare (40,81)
+    unit:Royal Flying Corps (55,81)
+    person:Lieutenant C H Hoare (returned_training) (27,82)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD0000jea  ----------
+  5 Feb 1918 21
+    place:Trefcon (7,25)
+    unit:Cre Cavalry corps (45,33)
+    unit:Cre Cavalry corps t (36,33)
+    time:0730AM (54,37)
+    place:Jeancourt (41,37)
+  6 Feb 1918 40
+  7 Feb 1918 51
+    place:Caulaincourt (65,51)
+    domestic:hygiene (48,51)
+    person:Lieutenant J A Herbert (departed_training) (25,60)
+    person:Lieutenant E R How (departed_training) (40,60)
+    person:Lieutenant C H Hoare (departed_training) (53,60)
+  8 Feb 1918 63
+    unit:3 Cavalry P Regiment (29,69)
+    unit:8 Cavalry Brigade (33,73)
+    person:Lieutenant E J Feary (departed_training) (27,77)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD0000jed  ----------
+  9 Feb 1918 23
+    activity:resting (31,24)
+    place:Trefcon (6,25)
+  10 Feb 1918 26
+    person:Lieutenant O N Gilbey (departed_training) (27,29)
+    place:Trefcon (5,30)
+  11 Feb 1918 33
+  12 Feb 1918 38
+    person:Lieutenant E M Kemsley (joined) (27,40)
+    person:Lieutenant H C Pilkington (joined) (53,40)
+  16 Feb 1918 44
+    activity:resting (29,45)
+  17 Feb 1918 48
+    casualties:died: 0; killed: 10; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,62)
+  18 Feb 1918 63
+    activity:resting (27,67)
+  19 Feb 1918 68
+    person:Major G Meyrick (joined) (29,70)
+  20 Feb 1918 75
+    person:Second Lieutenant R E Henderson (departed_training) (26,77)
+  21 Feb 1918 82
+    activity:resting (29,86)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD0000jfb  ----------
+  22 Feb 1918 23
+    unit:18 ors (47,25)
+    place:Trefcon (7,26)
+    activity:strength (36,26)
+  23 Feb 1918 28
+    person:Lieutenant E N Kemsley (departed_training) (27,31)
+  24 Feb 1918 36
+    person:Lieutenant S A Gollan (departed_sick) (57,37)
+  13 Feb 1918 39
+  25 Feb 1918 43
+    person:Lieutenant W S Hann (departed_training) (27,45)
+    person:Major General J Vaughan (other) (65,52)
+    reference:special order awards (42,52)
+    person:J Hynes (award) (25,58)
+    person:J Hynes (award) (44,59)
+  26 Feb 1918 62
+    person:Second Corporal F Carr (award) (42,62)
+    person:F Carr (award) (26,62)
+  27 Feb 1918 63
+    person:Lance Corporal R Graves (award) (27,64)
+    person:Lance Corporal R Graves (award) (43,64)
+  28 Feb 1918 66
+    activity:enemy_activity (28,81)
+    person:Captain A Leveson (author) (62,89)
+Page 29 (type other) http://wd3.herokuapp.com/pages/AWD0000jcs  ----------
+  28 Feb 1918 0
+    date:23 Jan 1918 (32,36)
+    date:30 Jan 1918 (29,86)
+Page 30 (type orders) http://wd3.herokuapp.com/pages/AWD0000jde  ----------
+  28 Feb 1918 0
+    orders:other (45,23)
+    person:Major General J Vaughan (departed_posted) (44,28)
+    date:23 Feb 1918 (63,36)
+    reference:Giving Up Command by Major General J. VAUGHAN (29,42)
+    person:Captain R M Wootten (author) (55,79)
+    person:Captain R M Wootten (author) (41,79)
+Page 31 (type report) http://wd3.herokuapp.com/pages/AWD0000jdu  ----------
+  28 Feb 1918 0
+    person:E Nicholson (casualty_wounded) (40,30)
+    person:G Senior (casualty_wounded) (41,33)
+    date:28 Jan 1918 (67,35)
+    person:A Kearney (casualty_died) (40,38)
+    person:Lance Corporal A Metcalf (casualty_wounded) (40,47)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD0000jd7  ----------
+  1 Mar 1918 21
+    place:Trefcon (39,25)
+    place:Trefcon (6,25)
+    activity:resting (25,25)
+  2 Mar 1918 26
+    unit:3 Regement of Houshold Cavalry (48,27)
+    activity:strength (32,38)
+    person:Lieutenant E J Feary (departed_training) (23,43)
+  3 Mar 1918 47
+    person:Lieutenant H T Morton (joined) (24,50)
+    person:Lieutenant E R How (returned_training) (48,52)
+    person:Lieutenant J A Herbert (returned_training) (25,54)
+    person:Lieutenant C G Hoare (departed_posted) (23,59)
+  4 Mar 1918 62
+    person:Lieutenant Colonel Lord Tweedmouth (other) (27,66)
+  6 Mar 1918 77
+    activity:resting (23,77)
+    person:Lieutenant V Routledge (joined) (53,78)
+    person:Lieutenant V Chaplin (joined) (25,80)
+  7 Mar 1918 81
+    person:Lieutenant H T Morton (departed_training) (26,84)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD0000jd4  ----------
+  8 Mar 1918 20
+    person:Lieutenant T R Pearson (joined) (22,24)
+    place:Trefcon (6,25)
+    person:Lieutenant R E Henderson (returned_training) (22,30)
+  9 Mar 1918 31
+    person:Lieutenant E W Mitchell (departed_training) (21,39)
+    unit:7 Cavalry Brigade (56,47)
+    place:Longpre (62,49)
+  10 Mar 1918 52
+    place:Marcelcave (7,54)
+    activity:movement (32,54)
+    place:Marcelcave (78,55)
+    place:Trefcon (63,56)
+    place:Amiens (7,56)
+    activity:movement (48,56)
+    person:Major Chomley (other) (21,57)
+    place:Bovelles (69,59)
+  11 Mar 1918 60
+    person:Lieutenant Colonel E H Brassey (other) (36,63)
+    place:Bovelles (7,63)
+  12 Mar 1918 66
+    place:Longpre (73,66)
+    activity:movement (43,68)
+    place:Longpre (54,69)
+    place:Longpre (6,70)
+    place:Abbeville (7,74)
+    person:Lieutenant C G Hoare (returned_training) (22,76)
+  13 Mar 1918 78
+    person:Lieutenant G Sweeting (departed_training) (23,80)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD0000jf4  ----------
+  27 Mar 1918 23
+    activity:movement (25,25)
+    place:Berneuil (7,26)
+    reference:Mvo, D50 (52,27)
+    place:Berneuil (75,27)
+    activity:movement (60,28)
+    person:Lieutenant Colonel Lord Tweedmouth (author) (31,28)
+  28 Mar 1918 36
+    activity:movement (26,38)
+    place:Bonnieres (54,38)
+    place:Sibiville (70,38)
+    place:Bonnieres (7,39)
+  29 Mar 1918 40
+    place:Sericourt (54,41)
+    activity:movement (26,42)
+    place:Sericourt (7,43)
+  30 Mar 1918 44
+    reference:Orders recived to form Household Cavarly Dismounted Battalion (26,45)
+  31 Mar 1918 52
+    person:Lieutenant Colonel Lord Tweedmouth (author) (61,81)
+Page 35 (type diary) http://wd3.herokuapp.com/pages/AWD0000jey  ----------
+  15 Mar 1918 21
+    unit:Ddr Cavalry corps (30,24)
+    domestic:inspections (42,25)
+    place:Longpre (7,25)
+    place:Long (5,26)
+  17 Mar 1918 30
+    activity:resting (27,30)
+    domestic:accomodation (33,30)
+  19 Mar 1918 35
+    unit:R.H.A (66,36)
+  20 Mar 1918 39
+    person:Lieutenant W S Nann (returned_training) (20,41)
+  21 Mar 1918 43
+    activity:resting (25,46)
+  22 Mar 1918 47
+    reference:The following dates showed many of the horses being transfered to other theaters of the war (22,50)
+    place:Longpre (25,52)
+    place:Marseilles (51,52)
+  23 Mar 1918 59
+    place:Dieppe (44,59)
+    place:Marseilles (31,66)
+  24 Mar 1918 67
+    place:Dieppe (83,68)
+  25 Mar 1918 72
+    unit:Essex Yeomanary (49,73)
+    activity:resting (26,74)
+  26 Mar 1918 75
+    place:Berneuil (71,88)
+Page 36 (type report) http://wd3.herokuapp.com/pages/AWD0000jfa  ----------
+  26 Mar 1918 0
+    date:4 Mar 1918 (52,11)
+    person:Lieutenant General F Lloyd (other) (39,19)
+    reference:Appendix A (56,4)
+    reference:This order sheet details the reorganization of the cavarly units to a Machine Gun Battalion. (49,6)
+Page 37 (type other) http://wd3.herokuapp.com/pages/AWD0000jd1  ----------
+  26 Mar 1918 0
+    person:Evelyn Wood (author) (60,67)
+Page 38 (type other) http://wd3.herokuapp.com/pages/AWD0000jdj  ----------
+  26 Mar 1918 0
+Page 39 (type other) http://wd3.herokuapp.com/pages/AWD0000jer  ----------
+  26 Mar 1918 0
+    date:23 Mar 1918 (57,17)
+    person:Evelyn Wood (author) (62,74)
+Page 40 (type orders) http://wd3.herokuapp.com/pages/AWD0000jd5  ----------
+  26 Mar 1918 0
+    date:23 Mar 1918 (33,69)
+Page 41 (type orders) http://wd3.herokuapp.com/pages/AWD0000jdo  ----------
+  26 Mar 1918 0
+    orders:other (35,27)
+    person:Field Marshal Douglas Haig (other) (52,63)
+    date:23 Mar 1918 (36,68)
+Page 42 (type orders) http://wd3.herokuapp.com/pages/AWD0000jdw  ----------
+  26 Mar 1918 0
+    person:other Derby (other) (59,37)
+    date:23 Mar 1918 (31,39)
+Page 43 (type orders) http://wd3.herokuapp.com/pages/AWD0000je0  ----------
+  26 Mar 1918 0
+    reference:SPECIAL ORDER OF THE DAY (30,41)
+    orders:other (36,6)
+Page 44 (type other) http://wd3.herokuapp.com/pages/AWD0000jct  ----------
+  26 Mar 1918 0
+    person:Field Marshal Douglas Haig (author) (38,16)
+Page 45 (type other) http://wd3.herokuapp.com/pages/AWD0000jf5  ----------
+  26 Mar 1918 0
+    person:Field Marshal Douglas Haig (author) (38,14)
+    date:25 Mar 1918 (32,29)
+    date:26 Mar 1918 (33,49)
+Page 46 (type other) http://wd3.herokuapp.com/pages/AWD0000je2  ----------
+  26 Mar 1918 0
+    person:Field Marshal Douglas Haig (author) (42,5)
+Page 47 (type other) http://wd3.herokuapp.com/pages/AWD0000je6  ----------
+  26 Mar 1918 0
+    person:Field Marshal Douglas Haig (author) (40,14)
+    date:27 Mar 1918 (31,35)
+Page 48 (type other) http://wd3.herokuapp.com/pages/AWD0000jeh  ----------
+  26 Mar 1918 0
+    date:28 Mar 1918 (55,54)
+Page 49 (type other) http://wd3.herokuapp.com/pages/AWD0000jd0  ----------
+  26 Mar 1918 0
+Page 50 (type other) http://wd3.herokuapp.com/pages/AWD0000jd6  ----------
+  26 Mar 1918 0
+    person:Field Marshal Douglas Haig (author) (39,16)
+Page 51 (type other) http://wd3.herokuapp.com/pages/AWD0000jf2  ----------
+  26 Mar 1918 0
+Page 52 (type other) http://wd3.herokuapp.com/pages/AWD0000jdc  ----------
+  26 Mar 1918 0
+Page 53 (type other) http://wd3.herokuapp.com/pages/AWD0000jds  ----------
+  26 Mar 1918 0
+Page 54 (type other) http://wd3.herokuapp.com/pages/AWD0000jcn  ----------
+  26 Mar 1918 0
+    date:30 Mar 1918 (37,76)
+Page 55 (type other) http://wd3.herokuapp.com/pages/AWD0000jdr  ----------
+  26 Mar 1918 0
+Page 56 (type other) http://wd3.herokuapp.com/pages/AWD0000je3  ----------
+  26 Mar 1918 0
+Page 57 (type ) http://wd3.herokuapp.com/pages/AWD0000jd3  ----------
+  26 Mar 1918 0
+    reference:Message from the Arch Bishop of Canterbury (45,11)
+    person:Field Marshal Douglas Haig (author) (43,38)
+    date:31 Mar 1918 (31,50)
+Page 58 (type cover)
+Page 59 (type orders) http://wd3.herokuapp.com/pages/AWD0000jcu  ----------
+  26 Mar 1918 0
+    orders:routine (47,12)
+    date:9 Mar 1918 (65,24)
+    reference:Household Cavalry (49,32)
+Page 60 (type other) http://wd3.herokuapp.com/pages/AWD0000jcy  ----------
+  26 Mar 1918 0
+    date:12 Mar 1918 (58,9)
+Page 61 (type other) http://wd3.herokuapp.com/pages/AWD0000jcw  ----------
+  26 Mar 1918 0
+    person:Field Marshal D Haig (author) (49,81)
+    person:C T McM Kavanagh (author) (35,87)
+Page 62 (type orders) http://wd3.herokuapp.com/pages/AWD0000jex  ----------
+  26 Mar 1918 0
+    reference:FAREWELL ORDER 8TH CAV BRIG (46,16)
+    reference:ROYAL HORSE GUARDS (49,32)
+    reference:LIECESTERSHIRE AND ESSEX YEOMANRY REGS (44,33)
+    reference:BATTLE OF YPRES AND LOOS (58,48)
+    reference:HOEHENZOLLERN REDOUBT (42,49)
+    reference:BATTLE OF ARRAS (60,49)
+    orders:other (41,6)
+    person:Brigadier General A G Seymour (author) (47,62)
+    date:3 Mar 1918 (37,65)

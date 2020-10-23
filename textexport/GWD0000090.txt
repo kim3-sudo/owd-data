@@ -1,0 +1,4879 @@
+GWD0000090 wo/95/1253/2
+1 DIVISION: 409 Field Company Royal Engineers 
+558 pages
+
+Page 512 (type cover)
+Page 513 (type cover)
+Page 514 (type cover)
+Page 515 (type cover)
+Page 516 (type diary) http://wd3.herokuapp.com/pages/AWD0001cle  ----------
+  13 Dec 1914 23
+    time:1030PM (29,26)
+    activity:movement (70,28)
+    place:Stirling (44,29)
+    place:Southampton (56,29)
+    place:Bridge Of Allan (10,31)
+    time:0930AM (51,35)
+    place:Bridge Of Allan (59,37)
+    place:Stirling (40,44)
+    time:1015AM (46,44)
+    person:Captain Symington (commander) (52,50)
+    place:Carlisle (61,53)
+Page 517 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmh  ----------
+  14 Dec 1914 23
+    time:0600AM (55,25)
+    activity:movement (30,25)
+    place:Southampton (36,25)
+    place:Southampton (15,30)
+    activity:movement (45,31)
+    time:1000AM (46,32)
+    domestic:inspections (35,38)
+    time:1200PM (70,44)
+    time:1000PM (33,45)
+    activity:movement (49,45)
+  15 Dec 1914 59
+    weather:rain (49,63)
+    place:Southampton Docks (61,69)
+    activity:movement (41,70)
+    time:1100AM (31,71)
+    time:1200PM (38,73)
+    activity:movement (37,84)
+Page 518 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8f  ----------
+  16 Dec 1914 22
+    place:Le Havre (37,26)
+    time:0600AM (50,26)
+    time:0930AM (61,41)
+    time:0400PM (66,59)
+    place:Le Havre (54,62)
+    time:0500PM (55,67)
+    weather:rain (39,70)
+    place:Southampton (64,73)
+Page 519 (type diary) http://wd3.herokuapp.com/pages/AWD0001c96  ----------
+  17 Dec 1914 23
+    weather:rain (43,27)
+    place:Le Havre (15,31)
+    time:1030AM (30,34)
+    domestic:inspections (38,35)
+    place:Southampton (30,57)
+Page 520 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9f  ----------
+  Hashtags: #roadscondition 
+  18 Dec 1914 23
+    weather:rain (61,30)
+    place:Le Havre (15,30)
+    domestic:inspections (35,30)
+  19 Dec 1914 41
+    domestic:inspections (41,49)
+    weather:rain (44,60)
+  20 Dec 1914 62
+    time:1200AM (32,67)
+    time:1100AM (67,68)
+    time:1015AM (36,71)
+    activity:movement (37,73)
+    time:1200PM (45,78)
+    unit:25 fortress co. re (31,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (84,83)
+    activity:movement (41,86)
+    time:0400PM (69,86)
+    place:Rouen (29,89)
+Page 521 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdp  ----------
+  21 Dec 1914 22
+    place:Saint Omer (35,25)
+    place:St Omer (36,25)
+    activity:movement (28,25)
+    time:0600AM (46,26)
+    place:Racquinghem (37,32)
+    place:Racquinghem (60,34)
+    activity:movement (57,35)
+    weather:fine (42,40)
+    weather:fine (50,41)
+  22 Dec 1914 45
+    place:Racquinghem (18,47)
+    place:Racquinghem (36,49)
+    activity:resting (35,49)
+    weather:rain (65,56)
+  23 Dec 1914 60
+    domestic:inspections (30,63)
+    person:General Foulke (other) (41,64)
+    person:Colonel Liddle (other) (59,64)
+    weather:rain (66,67)
+  24 Dec 1914 70
+    place:Racquinghem (17,73)
+    weather:fine (47,75)
+    activity:resting (32,76)
+Page 522 (type diary) http://wd3.herokuapp.com/pages/AWD0001cns  ----------
+  Hashtags: #story 
+  25 Dec 1914 22
+    place:Beuvry (61,26)
+    place:Lilliers (29,28)
+    place:Racquinghem (17,28)
+    weather:cold (64,39)
+  26 Dec 1914 44
+    place:Racquinghem (34,48)
+    place:Lilliers (65,48)
+    activity:movement (50,48)
+    time:0930AM (44,48)
+    time:0400PM (49,51)
+    place:Aire (61,55)
+    place:Lilliers (39,60)
+    weather:cold (54,61)
+    weather:rain (34,64)
+    place:Racquinghem (31,67)
+    person:Second Corporal Rankin (commander) (56,67)
+    unit:2 corp (50,68)
+    unit:25 fortress co. re. (41,71)
+  27 Dec 1914 72
+    place:Lilliers (31,77)
+    time:0930AM (39,77)
+    place:Beuvry (57,78)
+    place:Bethune (71,78)
+    activity:movement (44,78)
+    time:0130PM (46,80)
+    weather:rain (55,81)
+Page 523 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8n  ----------
+  27 Dec 1914 0
+  28 Dec 1914 24
+    place:Beuvry (32,26)
+    place:Beuvry (16,29)
+    person:other Alexander (other) (33,40)
+    weather:fine (47,44)
+  29 Dec 1914 48
+    activity:construction (30,50)
+    person:Major Alexander (other) (55,54)
+    place:Beuvry (17,54)
+    place:Festubert (41,54)
+    person:Clark (other) (64,62)
+    activity:fire (41,69)
+    person:Sapper Meek (casualty_wounded) (42,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (42,76)
+Page 524 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdn  ----------
+  Hashtags: #sniper #sketch #alliedrelations 
+  30 Dec 1914 24
+    place:Festubert (66,24)
+    activity:repair (45,26)
+    place:Beuvry (17,29)
+    activity:construction (55,29)
+    person:Major Alexander (other) (33,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (53,72)
+    person:Sapper Gallacher (casualty_wounded) (30,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (42,73)
+    activity:fire (45,78)
+Page 525 (type diary) http://wd3.herokuapp.com/pages/AWD0001cky  ----------
+  Hashtags: #alliedrelations 
+  31 Dec 1914 23
+    activity:working (38,26)
+    unit:26 field co.re (55,28)
+    place:Beuvry (17,28)
+    weather:rain (70,32)
+  1 Jan 1915 36
+    place:Beuvry (18,37)
+    place:Festubert (51,39)
+    activity:repair (60,39)
+    person:other Alexander (departed_posted) (31,41)
+    person:General Rice (other) (49,41)
+    place:Beuvry (17,42)
+    person:Captain Symington (other) (49,45)
+    place:Festubert (46,48)
+    person:Second Corporal Brown (other) (63,49)
+    person:Sapper Lavery (casualty_wounded) (32,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (33,62)
+    weather:overcast (52,68)
+    person:Major Shanks (other) (34,71)
+Page 526 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfg  ----------
+  Hashtags: #alliedrelations 
+  2 Jan 1915 22
+    place:Festubert (53,26)
+    activity:repair (44,29)
+    place:Beuvry (14,29)
+    unit:26 field coy.re (45,32)
+    person:Captain Symington (other) (33,35)
+  3 Jan 1915 46
+    person:Major Marsden (commander) (47,50)
+    place:Beuvry (17,53)
+    activity:repair (41,55)
+    place:Cuinchy (42,60)
+    person:Alexander (other) (36,63)
+    place:Loisne (39,66)
+    person:Marsden (other) (50,70)
+    activity:fire (34,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,84)
+Page 527 (type diary) http://wd3.herokuapp.com/pages/AWD0001cf7  ----------
+  Hashtags: #sniper #alliedrelations #nightoperations 
+  4 Jan 1915 22
+    place:Burbure (70,26)
+    place:Beuvry (14,29)
+    place:Festubert (41,30)
+    activity:working (45,31)
+    place:Cuinchy (62,32)
+    person:Corporal Chalmers (other) (56,36)
+    person:Captain Symington (other) (68,39)
+    activity:repair (44,42)
+    activity:enemy_activity (48,48)
+  5 Jan 1915 58
+    place:Beuvry (16,61)
+    activity:repair (47,65)
+    place:Festubert (58,65)
+    place:Beuvry (17,65)
+    place:Festubert (62,66)
+    place:Cuinchy (57,68)
+    person:Captain Symington (other) (67,68)
+Page 528 (type diary) http://wd3.herokuapp.com/pages/AWD0001cc0  ----------
+  Hashtags: #alliedrelations 
+  6 Jan 1915 24
+    place:Beuvry (15,30)
+    activity:repair (53,30)
+    unit:23 Field Company Royal Engineers (45,37)
+    person:Captain Symington (other) (30,39)
+    activity:repair (47,41)
+  7 Jan 1915 57
+    place:Beuvry (16,63)
+    unit:23 Field Company Royal Engineers (54,66)
+    person:Captain Symington (other) (31,69)
+    activity:repair (48,70)
+    weather:rain (63,78)
+Page 529 (type diary) http://wd3.herokuapp.com/pages/AWD0001caa  ----------
+  Hashtags: #alliedrelations 
+  8 Jan 1915 25
+    person:Major Marsden (commander) (55,26)
+    unit:23 Coy Royal Engineers (58,29)
+    place:Beuvry (16,30)
+    place:Givanchy (30,30)
+    person:Captain Symington (commander) (42,36)
+    activity:repair (32,40)
+    person:Major Arthur (other) (32,43)
+    weather:rain (56,52)
+  9 Jan 1915 61
+    activity:repair (55,63)
+    place:Beuvry (17,66)
+    person:Major Alexander (casualty_wounded) (51,69)
+    person:Captain Symington (commander) (60,73)
+    activity:working (36,78)
+    activity:fire (60,79)
+    weather:rain (40,86)
+    weather:rain (33,87)
+Page 530 (type diary) http://wd3.herokuapp.com/pages/AWD0001cih  ----------
+  Hashtags: #alliedrelations #defencescheme 
+  10 Jan 1915 25
+    person:Captain Symington (combat) (65,29)
+    place:Beuvry (15,30)
+    unit:1 Reinforcement I.N.C.O (70,34)
+    person:Major Alexander (casualty_wounded) (32,36)
+    activity:fire (31,48)
+    activity:attack (50,49)
+    activity:fire (64,61)
+    person:Major Clark (commander) (65,64)
+    unit:K.R.R.s (46,64)
+    person:Major Clark (casualty_wounded) (60,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (60,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (39,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (49,77)
+Page 531 (type diary) http://wd3.herokuapp.com/pages/AWD0001cie  ----------
+  Hashtags: #defencescheme #alliedrelations 
+  11 Jan 1915 24
+    activity:repair (48,27)
+    unit:23 Field Coy.Royal Engineers (60,30)
+    place:Beuvry (15,30)
+    person:Captain Symington (commander) (31,32)
+    person:Major Alexander (33,35)
+  12 Jan 1915 48
+    activity:repair (50,50)
+    place:Beuvry (16,53)
+    person:Captain Symington (commander) (33,56)
+    activity:fire (54,60)
+    person:Captain Symington (commander) (57,66)
+    person:Major Alexander (casualty_wounded) (46,73)
+Page 532 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjv  ----------
+  Hashtags: #defencescheme #alliedralations 
+  13 Jan 1915 23
+    activity:resting (39,26)
+    domestic:inspections (45,29)
+    place:Beuvry (15,29)
+    person:Captain Symington (commander) (58,35)
+    activity:repair (37,38)
+    person:Major Alexander (casualty_wounded) (34,41)
+    weather:rain (61,41)
+  14 Jan 1915 45
+    place:Beuvry (16,50)
+    person:Captain Symington (commander) (67,51)
+    person:Major Alexander (casualty_wounded) (60,54)
+    weather:overcast (58,60)
+    person:Captain Herring (38,61)
+  15 Jan 1915 63
+    place:Beuvry (16,69)
+    person:Captain Symington (commander) (35,72)
+    person:Major Alexander (casualty_wounded) (36,76)
+    person:Corporal Lindsay (departed_posted) (33,79)
+    place:Bethune (61,80)
+    weather:overcast (40,83)
+Page 533 (type diary) http://wd3.herokuapp.com/pages/AWD0001ch7  ----------
+  Hashtags: #searchlights #defencescheme #alliedrelations 
+  16 Jan 1915 23
+    place:Beuvry (16,27)
+    person:Captain Symington (66,29)
+    activity:repair (45,31)
+    person:other Alexander (departed_sick) (31,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (49,39)
+    weather:fine (41,41)
+  17 Jan 1915 44
+    activity:resting (40,48)
+    domestic:inspections (29,51)
+    weather:cold (56,60)
+  18 Jan 1915 62
+    activity:repair (44,65)
+    activity:working (69,69)
+    unit:2 Division Royal Engineers (60,71)
+    weather:cold (43,75)
+Page 534 (type diary) http://wd3.herokuapp.com/pages/AWD0001clx  ----------
+  19 Jan 1915 22
+    activity:repair (43,25)
+    place:Beuvry (15,28)
+    weather:fine (65,28)
+  20 Jan 1915 32
+  21 Jan 1915 40
+  22 Jan 1915 46
+    unit:26 Field Company Royal Engineers (35,54)
+  23 Jan 1915 57
+  24 Jan 1915 66
+    activity:repair (56,69)
+    place:Marais (45,71)
+  25 Jan 1915 76
+Page 535 (type diary) http://wd3.herokuapp.com/pages/AWD0001cef  ----------
+  26 Jan 1915 22
+    unit:26 Field Company Royal Engineers (48,23)
+    place:Beuvry (13,27)
+    activity:resting (57,27)
+    unit:23 Field Company Royal Engineers (37,28)
+  27 Jan 1915 30
+  28 Jan 1915 36
+    activity:construction (48,39)
+  29 Jan 1915 42
+  30 Jan 1915 49
+    activity:resting (37,52)
+    time:0630PM (27,54)
+    unit:23 Field Company Royal Engineers (40,55)
+    unit:26 Field Company Royal Engineers (67,55)
+    place:Pont Fixe (29,58)
+  31 Jan 1915 61
+    domestic:inspections (30,64)
+    unit:26 Field Company Royal Engineers (57,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (32,71)
+Page 536 (type cover)
+Page 537 (type cover)
+Page 538 (type diary) http://wd3.herokuapp.com/pages/AWD0001cn3  ----------
+  Hashtags: #correction 
+  1 Feb 1915 25
+    domestic:accomodation (44,26)
+    activity:resting (37,27)
+    place:Beuvry (21,28)
+    activity:repair (46,30)
+    place:Cambrin (68,30)
+    place:Pont Fixe (54,32)
+    place:Beuvry (71,33)
+    person:Lieutenant Marsden (casualty_wounded) (41,35)
+    place:Beuvry (58,36)
+    weather:fine (53,38)
+  2 Feb 1915 41
+    activity:repair (49,43)
+    place:Beuvry (19,43)
+    domestic:accomodation (36,43)
+    place:Le Preol (61,44)
+    place:La Bassee (42,46)
+    place:Cambrin (40,49)
+    activity:resting (37,52)
+    place:Pont Fixe (53,52)
+    activity:construction (35,55)
+  3 Feb 1915 57
+    place:Beuvry (19,60)
+    activity:repair (41,61)
+    place:Annequin (64,61)
+    place:Le Preol (53,61)
+    activity:repair (44,64)
+    place:La Bassee (57,64)
+    activity:repair (55,67)
+    place:La Bassee (36,69)
+    place:Pont Fixe (64,70)
+    unit:26 Field Coy (32,71)
+    unit:26 Field Company R E (33,72)
+    unit:2 Division (60,76)
+  4 Feb 1915 83
+    place:Beuvry (20,80)
+    activity:resting (36,81)
+    activity:resting (50,81)
+    activity:resting (67,81)
+    place:Pont Fixe (52,83)
+    activity:repair (59,84)
+    unit:26 Field Coy (43,84)
+    place:Givenchy (39,87)
+    weather:fine (51,88)
+Page 539 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbq  ----------
+  5 Feb 1915 22
+    place:Beuvry (19,24)
+    place:Pont Fixe (51,24)
+    place:Givenchy (60,24)
+    activity:construction (42,26)
+    activity:repair (38,27)
+    place:Tourbieres (58,30)
+    activity:construction (40,30)
+    place:Burbure (47,32)
+    unit:26 Field Coy Royal Engineers (72,33)
+    place:Pont Fixe (37,34)
+    activity:repair (45,35)
+    weather:fine (69,36)
+  6 Feb 1915 37
+    place:Beuvry (19,40)
+    weather:fine (60,41)
+  7 Feb 1915 43
+    place:Beuvry (19,45)
+    place:Pont Fixe (51,46)
+    activity:construction (41,46)
+    place:Givenchy (61,47)
+    activity:repair (38,49)
+    mapRef:A 13b (50,52)
+    mapRef:A 8 c (67,52)
+    activity:construction (39,55)
+    place:Tourbieres (62,56)
+    place:Burbure (44,57)
+    activity:resting (66,59)
+    weather:rain (40,60)
+    weather:fine (57,60)
+    person:Lieutenant G S Inglis (joined) (35,63)
+    person:Lieutenant J Wilson (joined) (48,63)
+  8 Feb 1915 65
+    place:Beuvry (17,68)
+    activity:construction (42,69)
+    place:Tourbieres (62,70)
+    activity:repair (67,73)
+    place:Bethune (52,78)
+    place:Cambrin Corner (53,80)
+    activity:construction (41,80)
+    weather:fine (39,83)
+Page 540 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjj  ----------
+  9 Feb 1915 25
+    place:Beuvry (19,27)
+    place:Tourbieres (62,28)
+    place:Le Preol (70,28)
+    activity:construction (44,30)
+    activity:repair (66,30)
+    place:Aire Canal (43,32)
+    place:Cambrin (29,35)
+    person:Sapper Wotherspoon (casualty_died) (49,36)
+    weather:overcast (48,38)
+  10 Feb 1915 40
+    place:Beuvry (20,43)
+    activity:construction (40,44)
+    place:Sidbury (56,44)
+    unit:Queens Regiment (54,45)
+    place:Givenchy (30,46)
+    activity:working (59,50)
+    unit:Queens Regiment (32,52)
+    activity:repair (50,53)
+    activity:working (41,54)
+    place:Aire Canal (27,54)
+    unit:Queens Regiment (60,55)
+    activity:working (67,58)
+    place:Cambrin (52,58)
+    unit:Queens Regiment (40,60)
+    activity:construction (44,62)
+    place:Givenchy (64,64)
+    activity:working (47,65)
+    unit:Queens Regiment (34,66)
+    place:Tourbieres (51,69)
+Page 541 (type diary) http://wd3.herokuapp.com/pages/AWD0001cf4  ----------
+  Hashtags: #mining #nightoperations 
+  11 Feb 1915 25
+    activity:working (44,28)
+    place:Beuvry (19,28)
+    place:Sidbury (56,28)
+    place:Windy Corner (68,31)
+    unit:Queens Regiment (65,33)
+    place:Givenchy (39,33)
+    place:Mairie (28,40)
+    place:Givenchy (42,40)
+    activity:repair (36,44)
+    place:Aire (34,47)
+    activity:working (46,48)
+    unit:Queens Regiment (64,48)
+    activity:repair (41,51)
+    activity:construction (41,55)
+    activity:working (70,55)
+    place:Givenchy (62,55)
+    unit:Queens Regiment (41,58)
+    unit:Queens Regiment (48,62)
+    place:Shrine (59,66)
+    place:Duck's Bill (30,69)
+  12 Feb 1915 74
+    place:Beuvry (20,75)
+Page 542 (type diary) http://wd3.herokuapp.com/pages/AWD0001cc8  ----------
+  Hashtags: #nightoperations #mine #mining 
+  13 Feb 1915 26
+    place:Sidbury (56,28)
+    activity:construction (42,28)
+    place:Beuvry (21,29)
+    activity:construction (64,29)
+    unit:Queens Regiment (63,32)
+    activity:construction (39,35)
+    activity:repair (42,37)
+    place:Aire (62,38)
+    place:Mairie (62,40)
+    activity:construction (33,41)
+    unit:Berks Regiment (49,44)
+    activity:repair (68,45)
+    activity:repair (39,54)
+    place:Givenchy (36,60)
+    activity:working (67,61)
+    unit:Queens Regiment (44,63)
+    person:Captain Preedy (other) (67,67)
+  14 Feb 1915 71
+    place:Beuvry (20,73)
+    weather:rain (51,77)
+Page 543 (type diary) http://wd3.herokuapp.com/pages/AWD0001caf  ----------
+  Hashtags: #mining #mine #nightoperations 
+  15 Feb 1915 25
+    activity:working (68,27)
+    place:Beuvry (19,27)
+    place:Sidbury (54,27)
+    activity:construction (39,28)
+    activity:construction (50,31)
+    unit:Queens Regiment (39,31)
+    unit:Queens Regiment (40,34)
+    place:Windy Corner (34,37)
+    activity:repair (66,39)
+    activity:construction (42,40)
+    place:Mairie (56,40)
+    unit:Queens Regiment (61,43)
+    place:Aire (40,43)
+    activity:repair (42,46)
+    place:Mairie (28,49)
+    place:Shrine (56,49)
+    place:White House (68,49)
+    activity:working (41,52)
+    unit:K R R Regiment (55,52)
+    unit:Kings Regiment (64,52)
+    activity:repair (47,56)
+    unit:Queens Regiment (49,59)
+    person:Captain Preedy (commander) (58,61)
+  16 Feb 1915 66
+    place:Beuvry (20,68)
+    place:Sidbury (44,69)
+    activity:construction (61,70)
+    place:Givenchy (42,71)
+    unit:Queens Regiment (41,74)
+    activity:construction (67,75)
+    place:Givenchy (29,75)
+    activity:repair (39,78)
+    place:Mairie (28,78)
+    unit:Queens Regiment (33,81)
+    activity:construction (58,82)
+    unit:Kings Regiment (50,84)
+    place:Duck's Bill (29,85)
+Page 544 (type diary) http://wd3.herokuapp.com/pages/AWD0001cf8  ----------
+  Hashtags: #nightoperations #mine #mining #Mining 
+  16 Feb 1915 25
+    place:Beuvry (18,27)
+    unit:K R R (37,29)
+    unit:Queens Regiment (69,33)
+    activity:resting (29,36)
+    place:Shrine (49,40)
+  17 Feb 1915 44
+    place:Givenchy (52,45)
+    activity:construction (40,46)
+    place:Beuvry (18,47)
+    activity:construction (64,48)
+    place:Givenchy (41,49)
+    activity:construction (44,52)
+    place:Sidbury (60,55)
+    activity:repair (36,55)
+    place:Mairie (63,58)
+    unit:Queens Regiment (31,58)
+    place:Aire (64,61)
+    activity:repair (34,61)
+    unit:Queens Regiment (36,65)
+    activity:construction (57,73)
+    place:Mairie (48,74)
+    unit:Queens Regiment (61,77)
+    place:Tourbieres (50,81)
+    unit:Queens Regiment (65,81)
+Page 545 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccf  ----------
+  Hashtags: #mining #mine #nightoperations 
+  18 Feb 1915 26
+    activity:construction (39,27)
+    place:Givenchy (53,28)
+    place:Beuvry (20,29)
+    place:Givenchy (47,30)
+    place:Mairie (65,30)
+    place:Windy Corner (49,33)
+    unit:Queens Regiment (69,34)
+    place:Mairie (64,36)
+    activity:repair (59,38)
+    unit:Queens Regiment (57,42)
+    place:Tourbieres (57,47)
+    unit:Queens Regiment (30,50)
+    activity:construction (45,51)
+    unit:Queens Regiment (49,53)
+  19 Feb 1915 60
+    activity:construction (45,62)
+    place:Beuvry (18,62)
+    place:Givenchy (55,62)
+    place:Givenchy (42,65)
+    place:Mairie (58,66)
+    place:Windy Corner (44,69)
+    unit:Queens Regiment (45,71)
+    place:Mairie (28,71)
+    place:Mairie (28,74)
+    activity:repair (44,75)
+    unit:Queens Regiment (43,78)
+    unit:Queens Regiment (34,78)
+    activity:construction (42,82)
+    unit:Queens Regiment (33,84)
+    place:Mairie (34,87)
+Page 546 (type diary) http://wd3.herokuapp.com/pages/AWD0001cis  ----------
+  Hashtags: #mining #mine #nightoperations 
+  19 Feb 1915 24
+    unit:Queens Regiment (51,28)
+    activity:working (35,29)
+  20 Feb 1915 32
+    place:Beuvry (20,36)
+    activity:construction (39,37)
+    place:Observation House (44,40)
+    unit:Queens Regiment (38,43)
+    activity:movement (61,47)
+    place:Busnettes (38,49)
+    activity:resting (48,50)
+    weather:fine (58,53)
+    domestic:inspections (69,57)
+  21 Feb 1915 61
+    activity:resting (28,65)
+    place:Busnettes (20,65)
+    domestic:inspections (36,65)
+  22 Feb 1915 67
+    place:Busnettes (20,71)
+  23 Feb 1915 74
+    place:Busnettes (19,76)
+    domestic:inspections (60,78)
+  24 Feb 1915 81
+    place:Busnettes (20,84)
+Page 547 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbv  ----------
+  Hashtags: #Bauchop #mine #draft 
+  25 Feb 1915 25
+    place:Busnettes (18,28)
+    domestic:hygiene (30,31)
+  26 Feb 1915 34
+    place:Busnettes (19,38)
+    place:La Pugnoy (28,39)
+    activity:resupplying (52,40)
+    person:Second Corporal Brown (departed_posted) (46,43)
+  27 Feb 1915 53
+    place:Busnettes (16,56)
+    person:Second Corporal Bauchop (other) (64,56)
+    unit:57 Sussex (49,62)
+  28 Feb 1915 64
+    place:Busnettes (18,67)
+    activity:movement (35,67)
+Page 548 (type cover)
+Page 549 (type cover)
+Page 550 (type diary) http://wd3.herokuapp.com/pages/AWD0001cib  ----------
+  Hashtags: #nightoperations #alliemorale 
+  1 Mar 1915 23
+    place:Le Touret (19,25)
+    activity:training (49,29)
+    activity:repair (36,30)
+    activity:reconnoitered (67,32)
+  2 Mar 1915 38
+    place:Le Touret (19,42)
+    place:Chocolat Menier (36,45)
+  3 Mar 1915 47
+    place:Chocolat Menier (62,51)
+    place:Le Touret (18,52)
+  4 Mar 1915 58
+    place:Le Touret (21,61)
+    place:Locon (58,61)
+    place:Chocolat Menier (43,63)
+    activity:resting (38,67)
+  5 Mar 1915 69
+    place:Le Touret (16,73)
+    place:Chocolat Menier (61,76)
+    person:Lieutenant Inglis (departed_posted) (36,81)
+Page 551 (type diary) http://wd3.herokuapp.com/pages/AWD0001chr  ----------
+  Hashtags: #nightoperations #mine #mining 
+  6 Mar 1915 24
+    place:Le Touret (19,26)
+    activity:fire (53,32)
+    unit:23 Field Company R E (67,35)
+  7 Mar 1915 45
+    unit:Infantry (38,47)
+    place:Le Touret (19,50)
+    activity:repair (40,56)
+  8 Mar 1915 66
+    place:Le Touret (19,69)
+    activity:repair (57,77)
+    unit:R W F (51,82)
+Page 552 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjd  ----------
+  Hashtags: #mine 
+  9 Mar 1915 23
+    activity:working (39,25)
+    weather:fine (57,45)
+  10 Mar 1915 49
+    activity:repair (46,58)
+    weather:fine (35,85)
+Page 553 (type diary) http://wd3.herokuapp.com/pages/AWD0001cio  ----------
+  Hashtags: #equipment #pumps #nightoperations 
+  11 Mar 1915 24
+    place:Le Touret (17,26)
+    activity:repair (46,33)
+Page 554 (type diary) http://wd3.herokuapp.com/pages/AWD0001cb8  ----------
+  Hashtags: #pumps #mine #equipmentrepairs #horsecasualties 
+  12 Mar 1915 24
+    place:Le Touret (19,27)
+    activity:repair (40,31)
+    activity:fire (63,52)
+    activity:fire (46,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (70,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (52,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (42,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (28,71)
+    weather:fine (31,77)
+Page 555 (type diary) http://wd3.herokuapp.com/pages/AWD0001cil  ----------
+  Hashtags: #pumps #nightoperations #equipmentrepairs #mine 
+  13 Mar 1915 25
+    place:Le Touret (20,28)
+    activity:fire (46,29)
+    activity:fire (27,30)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (70,49)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (56,50)
+    weather:fine (45,57)
+  14 Mar 1915 60
+    place:Le Touret (19,64)
+    activity:repair (48,68)
+    weather:cold (47,85)
+Page 556 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8r  ----------
+  Hashtags: #pumps #nightoperations #equipmentevaluation #mine 
+  15 Mar 1915 24
+    place:Le Touret (17,27)
+    weather:cold (45,47)
+  16 Mar 1915 51
+    place:Le Touret (18,55)
+    weather:cold (38,78)
+Page 557 (type diary) http://wd3.herokuapp.com/pages/AWD0001cay  ----------
+  Hashtags: #nightoperations #mine 
+  17 Mar 1915 24
+    place:Le Touret (18,26)
+    weather:fine (32,47)
+  18 Mar 1915 50
+    place:Le Touret (18,53)
+    activity:repair (47,59)
+    weather:fine (34,84)
+Page 558 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbe  ----------
+  Hashtags: #mine #nightoperations 
+  19 Mar 1915 24
+    place:Le Touret (18,26)
+  20 Mar 1915 53
+    place:Le Touret (18,56)
+    unit:Coldstreams (57,61)
+Page 559 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmf  ----------
+  Hashtags: #mine #night #nightoperations 
+  21 Mar 1915 25
+    place:Le Touret (17,27)
+    activity:working (44,30)
+Page 560 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbw  ----------
+  Hashtags: #mine 
+  22 Mar 1915 25
+    place:Le Touret (18,27)
+    activity:working (62,28)
+    unit:Black Watch (31,32)
+    unit:Black Watch (62,45)
+    person:Sapper Douglas (casualty_kia) (54,55)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (64,55)
+    activity:fire (35,55)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,58)
+  23 Mar 1915 61
+    place:Le Touret (16,64)
+Page 561 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckr  ----------
+  Hashtags: #howitzer #mine 
+  24 Mar 1915 23
+    place:Le Touret (20,27)
+    activity:working (66,29)
+    activity:repair (31,32)
+  25 Mar 1915 54
+    place:Le Touret (19,57)
+Page 562 (type diary) http://wd3.herokuapp.com/pages/AWD0001ch9  ----------
+  Hashtags: #nightoperations #mine 
+  26 Mar 1915 23
+    place:Le Touret (18,26)
+  27 Mar 1915 51
+    place:Le Touret (18,53)
+    activity:repair (36,64)
+Page 563 (type diary) http://wd3.herokuapp.com/pages/AWD0001cer  ----------
+  Hashtags: #mine #stratum #nightoperations 
+  28 Mar 1915 24
+    place:Le Touret (18,26)
+    activity:repair (48,34)
+  29 Mar 1915 60
+    place:Le Touret (16,63)
+    activity:repair (45,66)
+Page 564 (type diary) http://wd3.herokuapp.com/pages/AWD0001cin  ----------
+  30 Mar 1915 23
+    place:Le Touret (18,26)
+    activity:construction (44,31)
+  31 Mar 1915 49
+    place:Le Touret (17,52)
+    activity:construction (46,61)
+Page 565 (type cover)
+Page 566 (type cover)
+Page 567 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmu  ----------
+  1 Apr 1915 24
+    place:Le Touret (18,26)
+    activity:construction (46,26)
+    activity:construction (43,40)
+    activity:repair (43,48)
+    activity:construction (43,55)
+  2 Apr 1915 62
+    place:Le Touret (17,64)
+    unit:London Scottish (71,65)
+    activity:construction (32,65)
+    activity:working (64,65)
+    unit:Scots Guards (31,78)
+    unit:Scots Guards (62,80)
+    activity:construction (40,81)
+Page 568 (type diary) http://wd3.herokuapp.com/pages/AWD0001ci8  ----------
+  3 Apr 1915 23
+    place:Le Touret (17,25)
+    activity:construction (40,26)
+    activity:construction (43,34)
+    activity:construction (41,38)
+    activity:construction (39,39)
+  4 Apr 1915 49
+    activity:construction (37,51)
+    place:Le Touret (18,51)
+    activity:construction (42,63)
+    activity:construction (45,68)
+    activity:construction (43,74)
+Page 569 (type diary) http://wd3.herokuapp.com/pages/AWD0001ce8  ----------
+  5 Apr 1915 23
+    activity:construction (34,26)
+    place:Le Touret (18,26)
+    activity:construction (36,31)
+    activity:repair (40,39)
+    activity:working (50,46)
+  6 Apr 1915 49
+    activity:construction (36,52)
+    place:Le Touret (18,52)
+    domestic:inspections (65,53)
+    activity:repair (39,61)
+    place:Richebourg (51,61)
+    weather:rain (33,64)
+  7 Apr 1915 67
+    place:Le Touret (17,69)
+    activity:construction (40,70)
+    activity:repair (40,78)
+    place:Richebourg (58,79)
+    activity:repair (45,81)
+    activity:construction (43,89)
+Page 570 (type diary) http://wd3.herokuapp.com/pages/AWD0001cn6  ----------
+  8 Apr 1915 23
+    place:Le Touret (19,26)
+    activity:construction (39,27)
+    activity:construction (41,34)
+  9 Apr 1915 45
+    place:Le Touret (17,47)
+    activity:construction (37,49)
+    activity:construction (42,49)
+  10 Apr 1915 71
+    place:Le Touret (19,73)
+    activity:construction (39,73)
+    activity:repair (45,77)
+    activity:working (40,80)
+    activity:construction (50,83)
+Page 571 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8d  ----------
+  11 Apr 1915 24
+    activity:construction (44,26)
+    place:Le Touret (18,26)
+    activity:construction (41,40)
+    place:Richebourg (48,50)
+    activity:construction (43,58)
+  12 Apr 1915 61
+    place:Le Touret (18,64)
+    activity:construction (39,66)
+    activity:repair (41,70)
+    activity:construction (44,77)
+    activity:working (61,80)
+Page 572 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgt  ----------
+  Hashtags: #mine 
+  13 Apr 1915 24
+    place:Le Touret (19,26)
+    activity:construction (44,27)
+    place:Richebourg (46,33)
+    unit:Hampshire Fortress Coy Royal Engineers (69,33)
+    activity:construction (48,43)
+    activity:working (40,43)
+Page 573 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbo  ----------
+  14 Apr 1915 23
+    place:Le Touret (18,26)
+    activity:construction (37,28)
+    activity:construction (43,37)
+    place:Richebourg (48,37)
+    activity:repair (36,40)
+    activity:construction (41,46)
+  15 Apr 1915 64
+    place:Le Touret (17,67)
+    activity:construction (39,69)
+    place:Richebourg (57,74)
+    activity:construction (48,76)
+    unit:23 London Rifles (52,79)
+    activity:construction (42,87)
+Page 574 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdi  ----------
+  16 Apr 1915 23
+    unit:Rmf (65,25)
+    unit:R.M.F (64,25)
+    place:Le Touret (18,26)
+    activity:working (55,26)
+    unit:400 Infantry R.M.F (47,26)
+    place:Richebourg (57,40)
+    activity:working (54,48)
+    unit:400 Infantry R.M.F (46,49)
+    activity:repair (41,64)
+    activity:construction (47,73)
+    place:Albert Road (38,88)
+    domestic:other (62,91)
+Page 575 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgm  ----------
+  17 Apr 1915 22
+    place:Le Touret (17,26)
+    activity:construction (46,27)
+    unit:Infantry R.M.F (70,31)
+    unit:R.M.F (70,31)
+    activity:working (60,31)
+    place:King George's Road (45,33)
+    place:Richebourg (53,33)
+    activity:construction (44,39)
+    place:Indian Line (58,42)
+    activity:construction (48,48)
+    unit:Infantry R.M.F (41,49)
+    place:Albert Road (33,55)
+    place:Edward Road (43,55)
+Page 576 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8w  ----------
+  18 Apr 1915 24
+    place:Le Touret (18,26)
+    activity:repair (54,35)
+    activity:construction (36,43)
+    activity:construction (44,65)
+Page 577 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdv  ----------
+  19 Apr 1915 23
+    place:Le Touret (18,26)
+    activity:repair (34,35)
+    activity:repair (36,53)
+    activity:construction (41,60)
+    activity:construction (33,67)
+Page 578 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmq  ----------
+  20 Apr 1915 23
+    place:Le Touret (19,26)
+    activity:construction (32,34)
+    activity:construction (33,48)
+    activity:construction (41,57)
+Page 579 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgx  ----------
+  21 Apr 1915 26
+    place:Le Touret (19,30)
+    activity:construction (41,30)
+    unit:South Wales Borderers (51,36)
+    activity:working (38,38)
+    unit:South Wales (55,38)
+    activity:construction (35,44)
+    activity:construction (45,68)
+    unit:Loyal north lancs (62,76)
+    activity:construction (36,81)
+    activity:construction (36,90)
+Page 580 (type diary) http://wd3.herokuapp.com/pages/AWD0001cl0  ----------
+  21 Apr 1915 26
+    place:Le Touret (19,28)
+  22 Apr 1915 31
+    place:Le Touret (19,35)
+    activity:construction (34,43)
+    activity:construction (44,46)
+    unit:65 Infantry (69,65)
+    activity:construction (41,68)
+    unit:Loyal North Lancs (61,75)
+    activity:construction (34,76)
+    unit:26 field re (49,84)
+    activity:construction (34,84)
+Page 581 (type diary) http://wd3.herokuapp.com/pages/AWD0001cex  ----------
+  23 Apr 1915 26
+    activity:construction (43,28)
+    place:Le Touret (17,29)
+    unit:1 Surrey (46,35)
+    unit:21 London Rifles (59,43)
+    activity:construction (35,44)
+    unit:Loyal North Lancs (48,44)
+    activity:construction (53,54)
+    activity:construction (35,61)
+    place:Locon (39,62)
+    activity:construction (36,67)
+    unit:26 Field Company Royal Engineers (52,73)
+Page 582 (type diary) http://wd3.herokuapp.com/pages/AWD0001cir  ----------
+  23 Apr 1915 0
+  24 Apr 1915 27
+    activity:construction (45,30)
+    place:Le Touret (18,31)
+    unit:Loyal north lancs (72,48)
+    activity:construction (34,56)
+    activity:construction (36,67)
+    activity:construction (34,77)
+    unit:26 field re (38,85)
+    activity:construction (34,88)
+Page 583 (type diary) http://wd3.herokuapp.com/pages/AWD0001chi  ----------
+  25 Apr 1915 27
+    activity:construction (48,28)
+    place:Le Touret (19,29)
+    activity:construction (42,37)
+    activity:construction (38,50)
+    activity:construction (35,60)
+    activity:construction (48,67)
+    activity:construction (36,77)
+Page 584 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjs  ----------
+  26 Apr 1915 26
+    place:Le Touret (19,28)
+    activity:construction (39,28)
+    place:Le Touret (17,30)
+    activity:construction (29,35)
+    activity:construction (35,41)
+    activity:construction (39,50)
+    activity:construction (42,55)
+    activity:construction (31,57)
+    unit:26 Field Company Royal Engineers (45,57)
+Page 585 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbj  ----------
+  27 Apr 1915 26
+    place:Le Touret (20,28)
+    activity:construction (38,30)
+    place:Le Touret (17,31)
+    activity:construction (40,33)
+    activity:construction (39,43)
+    activity:construction (44,53)
+    unit:26 Field Company Royal Engineers (43,70)
+    unit:26 field re (48,71)
+    activity:construction (30,72)
+Page 586 (type diary) http://wd3.herokuapp.com/pages/AWD0001cn1  ----------
+  28 Apr 1915 26
+    activity:working (40,28)
+    place:Le Touret (18,29)
+    activity:construction (41,42)
+    activity:construction (41,50)
+    activity:construction (40,60)
+    unit:26 field re (49,79)
+    unit:26 Field Company Royal Engineers (43,79)
+Page 587 (type diary) http://wd3.herokuapp.com/pages/AWD0001cci  ----------
+  29 Apr 1915 27
+    place:Le Touret (18,30)
+    activity:construction (38,39)
+    activity:construction (41,48)
+    activity:construction (37,53)
+    unit:26 field re (46,67)
+    unit:26 Field Company Royal Engineers (46,68)
+    activity:construction (37,69)
+Page 588 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmm  ----------
+  30 Apr 1915 26
+    place:Le Touret (19,31)
+    activity:construction (43,64)
+Page 589 (type cover)
+Page 590 (type cover)
+Page 591 (type diary) http://wd3.herokuapp.com/pages/AWD0001cep  ----------
+  1 May 1915 24
+    place:Le Touret (16,28)
+    activity:working (41,33)
+    activity:repair (39,39)
+    unit:26 field re (44,59)
+Page 592 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9h  ----------
+  2 May 1915 24
+    place:Le Touret (17,28)
+    activity:repair (38,35)
+    unit:26 field re (41,57)
+  3 May 1915 60
+    place:Le Touret (16,65)
+Page 593 (type diary) http://wd3.herokuapp.com/pages/AWD0001cc3  ----------
+  4 May 1915 25
+    place:Le Touret (17,28)
+    activity:repair (39,31)
+  5 May 1915 56
+    place:Le Touret (19,61)
+Page 594 (type diary) http://wd3.herokuapp.com/pages/AWD0001ca3  ----------
+  6 May 1915 26
+    place:Le Touret (18,28)
+  7 May 1915 63
+    place:Le Touret (17,67)
+Page 595 (type diary) http://wd3.herokuapp.com/pages/AWD0001c99  ----------
+  Hashtags: #demolition #demolishion 
+  8 May 1915 24
+    place:Le Touret (17,28)
+    domestic:inspections (42,30)
+    activity:construction (48,45)
+    unit:26 Field Coy Royal Engineers (33,47)
+  9 May 1915 49
+    activity:line (48,55)
+    place:Le Touret (17,55)
+    person:Lieutenant Inglis (commander) (32,58)
+Page 596 (type diary) http://wd3.herokuapp.com/pages/AWD0001cne  ----------
+  Hashtags: #nightoperations 
+  9 May 1915 26
+    unit:2 Sussex (43,33)
+    person:Captain Symington (41,38)
+    unit:1 Northamptons (47,46)
+    unit:2 Sussex (57,46)
+    activity:construction (47,59)
+    unit:1 Northamptons (56,75)
+    activity:working (32,76)
+    unit:9 Liverpool (59,78)
+    unit:2 Sussex (55,83)
+Page 597 (type diary) http://wd3.herokuapp.com/pages/AWD0001cg8  ----------
+  9 May 1915 26
+Page 598 (type diary) http://wd3.herokuapp.com/pages/AWD0001ci5  ----------
+  9 May 1915 24
+Page 599 (type diary) http://wd3.herokuapp.com/pages/AWD0001chy  ----------
+  9 May 1915 0
+Page 600 (type diary) http://wd3.herokuapp.com/pages/AWD0001cd1  ----------
+  Hashtags: #moveable 
+  9 May 1915 25
+Page 601 (type diary) http://wd3.herokuapp.com/pages/AWD0001chw  ----------
+  Hashtags: #story #casualty #alliedmorale 
+  9 May 1915 25
+    person:Captain Symington (61,32)
+    person:Captain Symington (casualty_wounded) (67,35)
+    unit:2 sussex (29,35)
+    person:Lieutenant Wilson (casualty_kia) (41,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,40)
+    person:Lieutenant Marsden (combat) (61,40)
+    activity:withdraw (50,43)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 12 (65,70)
+    casualties:died: 0; killed: 11; missing: 6; prisoner: 0; sick: 0; wounded: 17 (74,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 17 (32,75)
+    casualties:died: 0; killed: 0; missing: 6; prisoner: 0; sick: 0; wounded: 0 (63,76)
+Page 602 (type diary) http://wd3.herokuapp.com/pages/AWD0001cip  ----------
+  Hashtags: #story 
+  9 May 1915 24
+  10 May 1915 51
+    place:Le Touret (19,55)
+    domestic:accomodation (38,55)
+    activity:resting (43,56)
+    activity:movement (69,57)
+    activity:movement (52,58)
+    place:Le Touret (52,58)
+    place:Mont-Bernanchon (42,59)
+  11 May 1915 62
+    activity:resting (31,66)
+  12 May 1915 67
+    activity:resting (31,71)
+    activity:training (49,71)
+    place:Mont-Bernanchon (18,71)
+  13 May 1915 73
+    person:General Thesiger (other) (61,76)
+    activity:resting (31,76)
+    activity:training (50,76)
+    place:Mont-Bernanchon (18,77)
+  14 May 1915 81
+    activity:resting (31,84)
+    activity:movement (57,85)
+    place:Fouquereuil (16,85)
+    place:Mont-Bernanchon (57,86)
+    place:Fouquereuil (37,89)
+    activity:movement (31,90)
+Page 603 (type diary) http://wd3.herokuapp.com/pages/AWD0001cft  ----------
+  15 May 1915 23
+    place:Fouquereuil (66,27)
+    activity:movement (53,28)
+    domestic:accomodation (65,29)
+  16 May 1915 31
+    domestic:religion (56,38)
+    unit:Black Watch (42,41)
+    domestic:religion (43,41)
+  17 May 1915 52
+    activity:repair (42,56)
+    activity:repair (41,63)
+    activity:resting (41,69)
+Page 604 (type diary) http://wd3.herokuapp.com/pages/AWD0001cet  ----------
+  18 May 1915 24
+    activity:repair (44,27)
+    activity:repair (42,32)
+    place:Noyelles-les-Vermelles (58,35)
+    place:Mazingarbe (31,38)
+    activity:repair (42,41)
+    place:Noyelles-les-Vermelles (30,49)
+    activity:working (43,59)
+Page 605 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdz  ----------
+  19 May 1915 24
+    activity:repair (40,34)
+Page 606 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbn  ----------
+  20 May 1915 24
+  21 May 1915 53
+    unit:23 field coy.re (46,56)
+    unit:23 Field Coy R. E. (56,56)
+    activity:repair (40,61)
+    activity:repair (43,71)
+Page 607 (type diary) http://wd3.herokuapp.com/pages/AWD0001cd7  ----------
+  22 May 1915 24
+    unit:23 field coy.re (46,27)
+    activity:repair (44,32)
+  23 May 1915 49
+    unit:23 Field Coy R. E. (43,53)
+Page 608 (type diary) http://wd3.herokuapp.com/pages/AWD0001cf0  ----------
+  24 May 1915 25
+    activity:working (41,38)
+  25 May 1915 50
+    unit:23 Field Coy R. E. (42,54)
+Page 609 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjg  ----------
+  26 May 1915 24
+    activity:working (37,30)
+  27 May 1915 51
+    unit:23 Field Coy R. E. (39,54)
+    activity:working (35,70)
+Page 610 (type diary) http://wd3.herokuapp.com/pages/AWD0001cez  ----------
+  28 May 1915 25
+    activity:repair (39,38)
+  29 May 1915 44
+    unit:23 Field Coy R. E. (51,47)
+    activity:working (44,54)
+  30 May 1915 68
+    activity:working (40,82)
+Page 611 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmx  ----------
+  31 May 1915 24
+    activity:repair (44,33)
+    activity:working (40,47)
+Page 612 (type cover)
+Page 613 (type cover)
+Page 614 (type diary) http://wd3.herokuapp.com/pages/AWD0001cl5  ----------
+  1 Jun 1915 24
+    activity:working (37,27)
+    activity:repair (44,30)
+  2 Jun 1915 52
+    place:Le Preol (19,56)
+    activity:movement (34,58)
+  3 Jun 1915 64
+    place:Le Preol (20,67)
+    activity:repair (44,72)
+Page 615 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnk  ----------
+  4 Jun 1915 24
+    activity:working (52,28)
+    place:Le Preol (20,29)
+    activity:construction (47,37)
+  5 Jun 1915 57
+    place:Le Preol (19,62)
+    activity:working (43,62)
+    activity:repair (30,75)
+Page 616 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdl  ----------
+  6 Jun 1915 25
+    place:Le Preol (18,29)
+  7 Jun 1915 63
+    place:Le Preol (18,68)
+    activity:training (48,75)
+    activity:training (61,82)
+Page 617 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccc  ----------
+  7 Jun 1915 25
+    place:Cambrin (49,28)
+    place:Le Preol (57,28)
+    domestic:inspections (67,28)
+    place:Tourbieres (69,31)
+    activity:reconnoitered (43,32)
+    person:Lieutenant Clark (other) (33,34)
+    activity:repair (47,38)
+  8 Jun 1915 41
+    place:Le Preol (17,46)
+    activity:repair (46,58)
+    activity:other (38,80)
+Page 618 (type diary) http://wd3.herokuapp.com/pages/AWD0001cco  ----------
+  9 Jun 1915 24
+    place:Le Preol (18,27)
+    activity:repair (46,48)
+  10 Jun 1915 56
+    place:Le Preol (18,60)
+    place:Le Preol (59,76)
+Page 619 (type diary) http://wd3.herokuapp.com/pages/AWD0001cj5  ----------
+  11 Jun 1915 24
+    activity:resting (62,27)
+    activity:movement (37,28)
+    place:Le Preol (17,28)
+    place:Cambrin (49,28)
+    place:Le Preol (56,28)
+    activity:repair (58,31)
+    activity:repair (47,35)
+    place:Maison Rouge (44,35)
+    place:Maison Rouge (70,50)
+    weather:rain (54,56)
+  12 Jun 1915 58
+    place:Le Preol (18,64)
+    activity:repair (43,65)
+    place:Maison Rouge (35,69)
+    place:Maison Rouge (34,84)
+Page 620 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnl  ----------
+  13 Jun 1915 25
+    place:Le Preol (18,29)
+    activity:training (40,29)
+    activity:repair (56,31)
+    place:Maison Rouge (34,34)
+    activity:repair (42,40)
+  14 Jun 1915 56
+    place:Le Preol (18,60)
+    place:Cambrin (47,62)
+    place:Le Preol (59,62)
+    activity:repair (41,68)
+    place:Maison Rouge (43,70)
+    activity:repair (40,73)
+    place:Maison Rouge (44,77)
+Page 621 (type diary) http://wd3.herokuapp.com/pages/AWD0001ci0  ----------
+  15 Jun 1915 25
+    place:Le Preol (20,28)
+    activity:repair (44,30)
+    place:Maison Rouge (42,39)
+    place:Cambrin (49,42)
+    place:Le Preol (57,42)
+    place:Maison Rouge (61,46)
+    activity:repair (43,48)
+  16 Jun 1915 56
+    place:Le Preol (20,60)
+    place:Maison Rouge (51,60)
+    place:Le Preol (55,68)
+    unit:3 Brigade (59,71)
+    place:Maison Rouge (59,74)
+    place:Le Preol (54,77)
+    place:Maison Rouge (59,83)
+Page 622 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9b  ----------
+  17 Jun 1915 24
+    place:Le Preol (18,28)
+    place:Maison Rouge (56,28)
+    activity:repair (46,33)
+    place:Bellenville (54,39)
+    place:Tourbieres (65,42)
+    place:Maison Rouge (67,47)
+    unit:3 Brigade (57,61)
+  18 Jun 1915 62
+    place:Maison Rouge (50,66)
+    place:Le Preol (18,67)
+    activity:repair (42,68)
+    activity:repair (47,76)
+    place:Maison Rouge (62,80)
+    place:Le Preol (51,83)
+    place:Cambrin (48,86)
+    place:Le Preol (58,86)
+Page 623 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9y  ----------
+  19 Jun 1915 25
+    place:Cambrin (47,27)
+    place:Le Preol (57,27)
+    place:Le Preol (16,29)
+    place:Maison Rouge (61,33)
+    place:Braddel Point (30,34)
+    place:Maison Rouge (45,36)
+    activity:repair (44,37)
+    place:Maison Rouge (45,39)
+    activity:movement (31,64)
+  20 Jun 1915 66
+    place:Bois de Montagnes (17,71)
+    domestic:accomodation (29,73)
+  21 Jun 1915 75
+    domestic:inspections (48,79)
+    place:Bois de Montagnes (17,79)
+    domestic:inspections (40,86)
+Page 624 (type diary) http://wd3.herokuapp.com/pages/AWD0001ci1  ----------
+  22 Jun 1915 24
+    place:Bois de Montagnes (16,27)
+    domestic:hygiene (50,27)
+    gridRef:E_14_C_8_3 (40,27)
+    domestic:inspections (63,28)
+    activity:other (34,29)
+    person:General Haking (other) (47,31)
+    unit:23 Coy. R. E. (56,36)
+    unit:23 Field Coy R. E. (58,36)
+  23 Jun 1915 38
+    place:Bois de Montagnes (18,42)
+    domestic:hygiene (52,42)
+    gridRef:E_14_C_8_3 (41,42)
+    place:Vaudricourt (36,48)
+    person:Sapper Fox (other) (45,48)
+    person:Sapper Murtach (other) (52,48)
+  24 Jun 1915 50
+    activity:movement (47,54)
+    place:Bois du Reveillon (16,54)
+  25 Jun 1915 57
+    activity:training (37,61)
+  26 Jun 1915 71
+    activity:training (37,75)
+Page 625 (type diary) http://wd3.herokuapp.com/pages/AWD0001caw  ----------
+  27 Jun 1915 24
+    activity:movement (36,27)
+    place:Sailly-Labourse (19,28)
+    place:Annequin (54,31)
+    domestic:accomodation (33,31)
+    domestic:accomodation (64,31)
+  28 Jun 1915 33
+    place:Sailly-Labourse (17,37)
+    place:Cambrin (65,37)
+    place:Annequin (30,39)
+    place:Annequin (52,42)
+  29 Jun 1915 47
+    place:Sailly-Labourse (17,51)
+    domestic:medical (57,51)
+    domestic:inspections (40,52)
+    domestic:inspections (42,52)
+    domestic:medical (57,54)
+  30 Jun 1915 56
+    place:Sailly-Labourse (16,60)
+    activity:repair (43,74)
+Page 626 (type cover)
+Page 627 (type cover)
+Page 628 (type diary) http://wd3.herokuapp.com/pages/AWD0001cm6  ----------
+  1 Jul 1915 24
+    place:Sailly-Labourse (16,28)
+    domestic:accomodation (38,28)
+    domestic:accomodation (37,30)
+    place:Railway Keep (38,33)
+    place:Lewis Keep (36,43)
+    activity:repair (46,43)
+  2 Jul 1915 51
+    place:Sailly-Labourse (15,55)
+    unit:2 Brigade (50,58)
+    activity:repair (45,62)
+    unit:2 Brigade (62,67)
+    unit:2 Sussex (52,70)
+Page 629 (type diary) http://wd3.herokuapp.com/pages/AWD0001cm1  ----------
+  3 Jul 1915 23
+    place:Sailly-Labourse (17,27)
+    activity:repair (43,28)
+    activity:construction (44,35)
+    domestic:accomodation (43,43)
+    place:Sailly-Labourse (49,43)
+    place:Sailly-Labourse (65,46)
+  4 Jul 1915 51
+    place:Sailly-Labourse (17,55)
+    activity:repair (45,74)
+Page 630 (type diary) http://wd3.herokuapp.com/pages/AWD0001ck9  ----------
+  5 Jul 1915 24
+    place:Sailly-Labourse (16,28)
+    place:Vermelles (44,62)
+    activity:working (39,65)
+    place:Annequin (36,68)
+  6 Jul 1915 70
+    place:Sailly-Labourse (17,74)
+    unit:No. 2 Field Ambulance (63,79)
+Page 631 (type diary) http://wd3.herokuapp.com/pages/AWD0001caz  ----------
+  7 Jul 1915 25
+    place:Sailly-Labourse (16,29)
+    activity:repair (48,44)
+Page 632 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjf  ----------
+  Hashtags: #roadscondition #mine 
+  8 Jul 1915 25
+    place:Sailly-Labourse (14,28)
+    activity:construction (45,31)
+    place:Humanity Trench (42,72)
+    place:Verquin (28,85)
+    place:Vaudricourt (35,85)
+    unit:No. 2 Field Ambulance (55,88)
+    place:Sailly-Labourse (70,88)
+Page 633 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdy  ----------
+  Hashtags: #equipmentevaluations #watersupply 
+  9 Jul 1915 25
+    place:Sailly-Labourse (14,28)
+Page 634 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccq  ----------
+  9 Jul 1915 24
+    place:Sailly-Labourse (47,36)
+  10 Jul 1915 39
+    place:Sailly-Labourse (17,42)
+Page 635 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckt  ----------
+  Hashtags: #watersupply 
+  10 Jul 1915 24
+  11 Jul 1915 43
+    place:Sailly-Labourse (18,47)
+    activity:construction (44,49)
+    activity:construction (48,81)
+    activity:repair (52,83)
+Page 636 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjm  ----------
+  Hashtags: #watersupply 
+  11 Jul 1915 24
+  12 Jul 1915 45
+    place:Sailly-Labourse (17,48)
+    activity:repair (43,58)
+Page 637 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmj  ----------
+  Hashtags: #watersupply 
+  12 Jul 1915 24
+  13 Jul 1915 56
+    place:Sailly-Labourse (17,60)
+Page 638 (type diary) http://wd3.herokuapp.com/pages/AWD0001clb  ----------
+  13 Jul 1915 24
+    unit:23 Field Coy. R. E. (53,41)
+    unit:23 Field Coy.Royal Engineers (54,41)
+    unit:26 Field Coy. R. E. (41,44)
+  14 Jul 1915 45
+    unit:26 Field Coy.Royal Engineers (43,45)
+    domestic:inspections (33,49)
+    place:Sailly-Labourse (19,50)
+    place:Labeuvriere (60,51)
+    gridRef:D_10_A_3_3 (50,52)
+    place:Bethune (58,55)
+    place:Verquin (67,55)
+    unit:2 Brigade (49,55)
+  15 Jul 1915 56
+    domestic:inspections (43,60)
+    place:Sailly-Labourse (18,61)
+    place:Sailly-Labourse (45,62)
+    activity:movement (63,63)
+    place:Vermelles (36,66)
+    place:Bethune (41,68)
+    person:Lance Corporal Parker (other) (32,68)
+    unit:2 Sussex (56,68)
+  16 Jul 1915 70
+    place:Vermelles (53,73)
+    place:Sailly-Labourse (18,74)
+Page 639 (type diary) http://wd3.herokuapp.com/pages/AWD0001civ  ----------
+  17 Jul 1915 24
+    place:Sailly-Labourse (39,27)
+    place:Sailly-Labourse (16,28)
+    place:Vermelles (53,33)
+    activity:repair (54,39)
+  18 Jul 1915 56
+    place:Sailly-Labourse (39,59)
+    place:Sailly-Labourse (16,60)
+    place:Vermelles (53,65)
+    activity:repair (49,70)
+    person:Lieutenant Inglis (other) (34,82)
+Page 640 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccs  ----------
+  19 Jul 1915 25
+    place:Sailly-Labourse (39,27)
+    place:Sailly-Labourse (17,29)
+    place:Vermelles (52,33)
+    activity:repair (53,39)
+    person:Lieutenant Mills (other) (36,50)
+    person:Lieutenant Marsden (other) (45,50)
+  20 Jul 1915 53
+    place:Sailly-Labourse (40,55)
+    place:Sailly-Labourse (19,56)
+    place:Vermelles (54,61)
+    activity:construction (52,66)
+Page 641 (type diary) http://wd3.herokuapp.com/pages/AWD0001cia  ----------
+  21 Jul 1915 25
+    place:Sailly-Labourse (37,27)
+    place:Sailly-Labourse (19,28)
+    place:Vermelles (52,33)
+    activity:repair (47,39)
+    place:Vermelles (33,48)
+  22 Jul 1915 50
+    place:Sailly-Labourse (16,53)
+    place:Sailly-Labourse (37,53)
+    place:Vermelles (54,59)
+    activity:repair (48,65)
+    activity:construction (44,70)
+    place:Vermelles (36,81)
+Page 642 (type diary) http://wd3.herokuapp.com/pages/AWD0001cau  ----------
+  23 Jul 1915 25
+    place:Sailly-Labourse (18,28)
+    place:Sailly-Labourse (40,28)
+    place:Vermelles (52,34)
+    activity:construction (51,40)
+    activity:construction (47,45)
+    place:Vermelles (36,54)
+  24 Jul 1915 56
+    place:Sailly-Labourse (18,59)
+    place:Sailly-Labourse (37,60)
+    activity:construction (46,63)
+    place:Vermelles (51,69)
+    place:Vermelles (35,83)
+    weather:overcast (39,86)
+Page 643 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9c  ----------
+  Hashtags: #watersupply 
+  25 Jul 1915 25
+    place:Sailly-Labourse (19,28)
+    place:Vermelles (53,34)
+    place:Vermelles (37,48)
+    weather:fine (37,52)
+  26 Jul 1915 56
+    place:Sailly-Labourse (18,59)
+    place:Vermelles (52,63)
+    activity:construction (45,68)
+    place:Vermelles (37,76)
+    weather:fine (40,80)
+Page 644 (type diary) http://wd3.herokuapp.com/pages/AWD0001ceg  ----------
+  Hashtags: #watersupply 
+  27 Jul 1915 24
+    place:Sailly-Labourse (37,27)
+    place:Sailly-Labourse (16,28)
+    place:Vermelles (53,32)
+    activity:construction (47,38)
+    place:Mills Keep (35,41)
+    place:Vermelles (34,47)
+    weather:fine (39,50)
+  28 Jul 1915 52
+    place:Sailly-Labourse (36,56)
+    place:Sailly-Labourse (15,57)
+    place:Vermelles (50,62)
+    activity:construction (44,64)
+    place:Mills Keep (35,70)
+    place:Vermelles (35,76)
+    unit:26 Field Coy. R. E. (51,84)
+    weather:fine (41,86)
+Page 645 (type diary) http://wd3.herokuapp.com/pages/AWD0001cck  ----------
+  29 Jul 1915 25
+    place:Sailly-Labourse (40,27)
+    place:Sailly-Labourse (17,28)
+    place:Vermelles (63,31)
+    place:Vermelles (54,37)
+    activity:repair (48,42)
+    place:Vermelles (35,52)
+    weather:fine (40,55)
+  30 Jul 1915 58
+    place:Sailly-Labourse (17,61)
+    place:Sailly-Labourse (38,61)
+    place:Vermelles (56,63)
+    activity:construction (43,66)
+    place:Vermelles (52,67)
+    activity:repair (50,73)
+    place:Vermelles (37,85)
+    weather:fine (40,90)
+Page 646 (type diary) http://wd3.herokuapp.com/pages/AWD0001clc  ----------
+  31 Jul 1915 24
+    place:Sailly-Labourse (17,28)
+    place:Sailly-Labourse (39,28)
+    place:Vermelles (56,34)
+    activity:repair (53,41)
+    place:Vermelles (38,54)
+    weather:fine (40,57)
+Page 647 (type cover)
+Page 648 (type cover)
+Page 649 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccb  ----------
+  1 Aug 1915 25
+    activity:resupplying (55,27)
+    place:Vermelles (53,34)
+    activity:construction (47,34)
+    activity:repair (44,41)
+    place:Vermelles (36,57)
+    weather:fine (37,60)
+    weather:fine (45,61)
+  2 Aug 1915 63
+    place:Sailly Labourse (15,67)
+    place:Vermelles (53,72)
+    activity:construction (48,75)
+    activity:construction (43,80)
+    place:Vermelles (35,91)
+    weather:overcast (51,93)
+    weather:overcast (45,93)
+Page 650 (type diary) http://wd3.herokuapp.com/pages/AWD0001ca2  ----------
+  3 Aug 1915 25
+    place:Sailly-Labourse (18,28)
+    activity:construction (43,31)
+    place:Vermelles (51,33)
+    activity:construction (58,49)
+    place:Vermelles (44,65)
+    weather:rain (41,69)
+    weather:rain (36,69)
+Page 651 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccz  ----------
+  4 Aug 1915 25
+    place:Sailly-Labourse (16,27)
+    activity:construction (41,35)
+    weather:overcast (39,65)
+Page 652 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmz  ----------
+  5 Aug 1915 24
+    place:Sailly-Labourse (18,26)
+    activity:movement (36,29)
+    place:Sailly Labourse (41,34)
+    activity:movement (35,35)
+    place:Vermelles (41,38)
+    weather:overcast (37,72)
+Page 653 (type diary) http://wd3.herokuapp.com/pages/AWD0001cny  ----------
+  6 Aug 1915 26
+    place:Sailly-Labourse (16,27)
+    activity:resupplying (46,27)
+    place:Vermelles (51,33)
+    activity:construction (48,57)
+    weather:overcast (37,69)
+Page 654 (type diary) http://wd3.herokuapp.com/pages/AWD0001c98  ----------
+  7 Aug 1915 25
+    activity:resupplying (54,27)
+    place:Sailly-Labourse (18,28)
+    activity:construction (45,42)
+    weather:overcast (40,67)
+    activity:repair (51,72)
+Page 655 (type diary) http://wd3.herokuapp.com/pages/AWD0001cd0  ----------
+  8 Aug 1915 26
+    activity:resupplying (52,27)
+    place:Vermelles (52,33)
+    place:Vermelles (34,39)
+    activity:construction (43,41)
+    activity:construction (41,52)
+    activity:construction (51,54)
+    weather:overcast (39,71)
+Page 656 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgp  ----------
+  9 Aug 1915 25
+    place:Sailly Labourse (17,27)
+    place:Vermelles (51,34)
+    activity:construction (42,43)
+    activity:construction (38,56)
+Page 657 (type diary) http://wd3.herokuapp.com/pages/AWD0001cka  ----------
+  10 Aug 1915 22
+    place:Sailly-Labourse (7,26)
+    activity:construction (31,39)
+    activity:repair (34,52)
+    weather:hot (33,70)
+Page 658 (type diary) http://wd3.herokuapp.com/pages/AWD0001cm4  ----------
+  11 Aug 1915 23
+    place:Sailly-Labourse (7,27)
+    place:Vermelles (46,29)
+    activity:construction (35,36)
+    activity:construction (32,50)
+    weather:fine (35,66)
+Page 659 (type diary) http://wd3.herokuapp.com/pages/AWD0001ciq  ----------
+  12 Aug 1915 22
+    place:Sailly-Labourse (7,26)
+    activity:construction (35,36)
+    activity:construction (32,47)
+    activity:repair (31,51)
+Page 660 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfs  ----------
+  13 Aug 1915 23
+    place:Sailly-Labourse (7,26)
+    place:Vermelles (38,31)
+    activity:construction (37,38)
+    weather:overcast (36,76)
+Page 661 (type diary) http://wd3.herokuapp.com/pages/AWD0001ciu  ----------
+  14 Aug 1915 23
+    place:Sailly-Labourse (4,28)
+    activity:construction (35,37)
+    activity:construction (29,50)
+    activity:working (40,67)
+    weather:overcast (35,72)
+Page 662 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9m  ----------
+  15 Aug 1915 23
+    place:Sailly-Labourse (6,26)
+    activity:construction (37,38)
+    activity:construction (31,53)
+    activity:working (33,72)
+    weather:rain (31,76)
+    weather:rain (38,76)
+Page 663 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjk  ----------
+  16 Aug 1915 22
+    place:Vermelles (34,34)
+    activity:construction (38,40)
+    activity:construction (36,49)
+    activity:working (35,73)
+    weather:rain (37,77)
+Page 664 (type diary) http://wd3.herokuapp.com/pages/AWD0001cd4  ----------
+  17 Aug 1915 22
+    place:Sailly-Labourse (7,26)
+    activity:construction (34,39)
+    activity:construction (34,50)
+    activity:working (38,70)
+    weather:rain (33,74)
+Page 665 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccg  ----------
+  18 Aug 1915 23
+    place:Sailly-Labourse (7,25)
+    place:Vermelles (29,38)
+    activity:construction (38,45)
+    activity:construction (31,56)
+    activity:working (32,75)
+    weather:overcast (38,79)
+Page 666 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckj  ----------
+  19 Aug 1915 23
+    place:Sailly-Labourse (8,26)
+    place:Vermelles (29,38)
+    activity:construction (30,49)
+    activity:working (35,73)
+    weather:cold (38,77)
+Page 667 (type diary) http://wd3.herokuapp.com/pages/AWD0001chh  ----------
+  20 Aug 1915 22
+    place:Sailly-Labourse (6,26)
+    place:Vermelles (33,38)
+    unit:14 North.Hussars (53,82)
+    activity:working (29,83)
+    weather:overcast (34,86)
+Page 668 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmw  ----------
+  21 Aug 1915 23
+    place:Sailly-Labourse (6,26)
+    activity:construction (32,43)
+    activity:working (33,76)
+    activity:working (29,82)
+    unit:14 North.Hussars (49,83)
+    weather:fine (34,86)
+Page 669 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdr  ----------
+  22 Aug 1915 22
+    place:Sailly-Labourse (6,26)
+    activity:construction (35,34)
+    place:Vermelles (29,40)
+    activity:construction (38,45)
+    activity:working (31,83)
+    unit:14 North.Hussars (52,84)
+    weather:fine (38,87)
+    weather:fine (33,87)
+Page 670 (type diary) http://wd3.herokuapp.com/pages/AWD0001cd6  ----------
+  23 Aug 1915 22
+    place:Sailly-Labourse (7,27)
+    activity:construction (40,35)
+    place:Vermelles (29,37)
+    activity:construction (31,43)
+    activity:construction (33,49)
+    activity:working (32,85)
+    unit:14 North.Hussars (54,87)
+    unit:Northumberland Hussars (45,87)
+    weather:fine (35,91)
+Page 671 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccj  ----------
+  24 Aug 1915 22
+    place:Sailly-Labourse (6,26)
+    place:Vermelles (31,34)
+    activity:construction (35,39)
+    activity:working (28,78)
+    unit:Northumberland Hussars (45,81)
+    unit:14 North.Hussars (50,83)
+    weather:fine (38,85)
+Page 672 (type diary) http://wd3.herokuapp.com/pages/AWD0001cn4  ----------
+  25 Aug 1915 23
+    place:Sailly-Labourse (7,26)
+    activity:construction (31,38)
+    activity:construction (38,45)
+    activity:working (31,78)
+    unit:Northumberland Hussars (44,79)
+    unit:14 North.Hussars (51,80)
+    weather:fine (33,84)
+Page 673 (type diary) http://wd3.herokuapp.com/pages/AWD0001cc9  ----------
+  26 Aug 1915 24
+    place:Sailly-Labourse (6,27)
+    activity:construction (31,39)
+    activity:construction (41,49)
+    activity:construction (33,54)
+    activity:working (26,78)
+    unit:Northumberland Hussars (45,79)
+    unit:14 North.Hussars (48,80)
+    weather:fine (36,84)
+Page 674 (type diary) http://wd3.herokuapp.com/pages/AWD0001cd5  ----------
+  27 Aug 1915 23
+    place:Sailly-Labourse (6,26)
+    place:Vermelles (32,36)
+    activity:construction (31,43)
+    activity:working (29,79)
+    unit:Northumberland Hussars (43,82)
+    unit:14 North.Hussars (47,83)
+    weather:fine (36,86)
+    weather:fine (30,87)
+Page 675 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgr  ----------
+  28 Aug 1915 22
+    place:Sailly-Labourse (6,25)
+    activity:construction (37,41)
+    activity:working (28,76)
+    unit:Northumberland Hussars (43,78)
+    unit:14 North.Hussars (48,80)
+    weather:fine (37,83)
+Page 676 (type diary) http://wd3.herokuapp.com/pages/AWD0001cf3  ----------
+  29 Aug 1915 23
+    place:Sailly-Labourse (8,26)
+    activity:construction (39,38)
+    activity:working (29,76)
+    unit:Northumberland Hussars (43,79)
+    unit:14 North.Hussars (53,80)
+    weather:overcast (39,82)
+Page 677 (type diary) http://wd3.herokuapp.com/pages/AWD0001cax  ----------
+  30 Aug 1915 23
+    place:Sailly-Labourse (5,26)
+    activity:working (39,75)
+    unit:14 North.Hussars (67,79)
+    unit:Northumberland Hussars (59,79)
+    weather:cold (67,93)
+Page 678 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmc  ----------
+  Hashtags: #watersupply 
+  31 Aug 1915 22
+    activity:construction (63,34)
+    weather:fine (30,52)
+Page 679 (type cover)
+Page 680 (type cover)
+Page 681 (type diary) http://wd3.herokuapp.com/pages/AWD0001cc6  ----------
+  Hashtags: #watersupply 
+  1 Sep 1915 22
+    place:Sailly-Labourse (5,27)
+    activity:construction (43,33)
+    activity:construction (45,43)
+    weather:fine (40,52)
+  2 Sep 1915 56
+    place:Allouagne (8,61)
+    activity:construction (43,64)
+    weather:fine (38,78)
+Page 682 (type diary) http://wd3.herokuapp.com/pages/AWD0001ca8  ----------
+  Hashtags: #watersupply 
+  3 Sep 1915 23
+    place:Allouagne (6,25)
+    weather:rain (28,39)
+  4 Sep 1915 45
+    place:Allouagne (6,48)
+    activity:working (30,51)
+    activity:construction (35,52)
+    weather:rain (30,62)
+  5 Sep 1915 65
+    place:Allouagne (6,69)
+    unit:Iv corps (53,81)
+    weather:fine (32,89)
+Page 683 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfz  ----------
+  Hashtags: #watersupply 
+  6 Sep 1915 22
+    place:Vermelles (38,25)
+    place:Allouagne (5,26)
+    weather:fine (33,61)
+Page 684 (type diary) http://wd3.herokuapp.com/pages/AWD0001cl7  ----------
+  Hashtags: #watersupply 
+  7 Sep 1915 21
+    place:Allouagne (6,25)
+    activity:repair (34,29)
+    activity:working (51,46)
+    weather:fine (38,58)
+Page 685 (type diary) http://wd3.herokuapp.com/pages/AWD0001cit  ----------
+  Hashtags: #watersupply 
+  8 Sep 1915 23
+    place:Allouagne (7,27)
+    activity:construction (35,32)
+    unit:1 Infantry Brigade (53,44)
+    unit:2 Infantry Brigade (52,47)
+    weather:fine (37,66)
+Page 686 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckg  ----------
+  9 Sep 1915 23
+    place:Allouagne (7,27)
+    unit:1 Infantry Brigade (55,29)
+    unit:1 iF Brigade (55,31)
+    activity:working (54,37)
+    weather:fine (32,48)
+  10 Sep 1915 51
+    place:Allouagne (7,55)
+    activity:construction (34,63)
+    weather:fine (34,69)
+Page 687 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfb  ----------
+  11 Sep 1915 23
+    place:Vermelles (43,25)
+    place:Allouagne (7,27)
+    activity:construction (35,28)
+    weather:fine (31,40)
+  12 Sep 1915 44
+    place:Allouagne (6,47)
+    activity:working (50,51)
+    place:Drouvin (39,57)
+    weather:fine (34,64)
+Page 688 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfj  ----------
+  Hashtags: #watersupply 
+  13 Sep 1915 25
+    place:Vermelles (41,26)
+    place:Allouagne (9,27)
+    activity:working (54,31)
+    activity:working (48,33)
+    activity:construction (41,37)
+    unit:No 18 Casualty Clearing Hospital (55,39)
+    unit:No.18 Cas. clearing hospital (66,40)
+    place:Vermelles (33,43)
+    unit:3 Brigade (53,43)
+    weather:fine (34,51)
+  14 Sep 1915 56
+    place:Vermelles (42,56)
+    place:Allouagne (9,58)
+    activity:working (53,61)
+    activity:working (51,64)
+    place:Vermelles (41,67)
+    unit:3 Brigade (57,68)
+    weather:overcast (35,74)
+Page 689 (type diary) http://wd3.herokuapp.com/pages/AWD0001ceo  ----------
+  15 Sep 1915 23
+    activity:line (58,26)
+    place:Vermelles (43,26)
+    place:Allouagne (8,28)
+    unit:1 Brigade (35,41)
+    activity:training (57,48)
+    weather:overcast (38,52)
+    weather:fine (41,52)
+  16 Sep 1915 56
+    place:Vermelles (44,59)
+    activity:line (58,60)
+    place:Allouagne (7,60)
+    activity:working (53,63)
+    activity:working (43,67)
+    activity:training (58,78)
+    weather:overcast (36,82)
+Page 690 (type diary) http://wd3.herokuapp.com/pages/AWD0001chp  ----------
+  Hashtags: #watersupply 
+  17 Sep 1915 23
+    activity:line (57,25)
+    place:Vermelles (42,26)
+    place:Allouagne (7,26)
+    activity:working (52,29)
+    activity:working (44,32)
+    unit:3 Brigade (59,35)
+    place:Vermelles (41,36)
+    activity:other (43,39)
+    weather:overcast (35,43)
+  18 Sep 1915 46
+    place:Vermelles (40,50)
+    place:Allouagne (7,51)
+    activity:working (49,58)
+    unit:3 Brigade (60,61)
+    place:Vermelles (41,62)
+    place:Lapugnoy (67,65)
+    activity:other (43,69)
+    weather:fine (34,74)
+Page 691 (type diary) http://wd3.herokuapp.com/pages/AWD0001cda  ----------
+  Hashtags: #draft #watersupply 
+  19 Sep 1915 23
+    activity:line (53,26)
+    place:Vermelles (43,26)
+    place:Allouagne (7,27)
+    activity:working (41,33)
+    place:Lapugnoy (66,40)
+    unit:No 18 Casualty Clearing Station (51,41)
+    activity:construction (46,42)
+    activity:training (51,44)
+    weather:fine (33,51)
+  20 Sep 1915 55
+    activity:line (56,58)
+    place:Vermelles (41,58)
+    place:Allouagne (6,60)
+    activity:working (50,64)
+    unit:No 18 Casualty Clearing Station (55,73)
+    weather:fine (34,83)
+Page 692 (type diary) http://wd3.herokuapp.com/pages/AWD0001cej  ----------
+  21 Sep 1915 23
+    activity:working (37,29)
+    activity:working (50,33)
+    unit:No 18 Casualty Clearing Station (55,38)
+    activity:movement (27,45)
+    weather:fine (35,48)
+  22 Sep 1915 53
+    activity:working (45,63)
+    unit:No 18 Casualty Clearing Station (44,66)
+    weather:fine (34,73)
+Page 693 (type diary) http://wd3.herokuapp.com/pages/AWD0001ck2  ----------
+  23 Sep 1915 22
+    activity:movement (32,36)
+  24 Sep 1915 45
+    activity:movement (50,51)
+Page 694 (type diary) http://wd3.herokuapp.com/pages/AWD0001cm0  ----------
+  25 Sep 1915 23
+    activity:line (30,26)
+    place:Philosophe (8,27)
+    unit:Kings Liverpools (67,32)
+    person:Lieutenant Inglis (commander) (35,33)
+    unit:London Scottish (45,35)
+    activity:working (57,35)
+    activity:working (73,40)
+    unit:S.W.B (64,41)
+    unit:1 /Co S.W.B. (55,41)
+    person:Lieutenant Mills (35,42)
+    person:Lieutenant Clark (38,47)
+    person:Lieutenant Marsden (other) (48,47)
+    unit:9 Kings (84,61)
+    person:Colonel Green (commander) (70,61)
+    unit:9 Kings Own (20,64)
+    activity:repair (51,73)
+Page 695 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccv  ----------
+  25 Sep 1915 23
+    activity:other (38,27)
+    activity:construction (45,44)
+    activity:movement (66,54)
+    person:Lieutenant E E Calthorp (59,88)
+Page 696 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbb  ----------
+  25 Sep 1915 24
+    activity:working (68,29)
+  26 Sep 1915 36
+    unit:S.W.B. (21,51)
+    unit:Gloucesters (68,52)
+    unit:Munsters (79,52)
+    person:Major C W Bukeley (56,82)
+Page 697 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdj  ----------
+  Hashtags: #weaponsystems #miners #nightoperations 
+  26 Sep 1915 24
+    person:Lieutenant Marsden (commander) (45,26)
+    unit:Gloucesters (59,26)
+    activity:repair (49,42)
+    activity:working (32,49)
+  27 Sep 1915 58
+    activity:clearing (72,60)
+    activity:repair (42,61)
+    activity:working (46,68)
+Page 698 (type diary) http://wd3.herokuapp.com/pages/AWD0001cj4  ----------
+  28 Sep 1915 24
+    activity:repair (65,26)
+    activity:repair (40,27)
+    weather:rain (38,36)
+  29 Sep 1915 42
+    unit:3 Brigade (65,46)
+    activity:movement (50,48)
+Page 699 (type diary) http://wd3.herokuapp.com/pages/AWD0001ch6  ----------
+  29 Sep 1915 22
+Page 700 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmi  ----------
+  30 Sep 1915 23
+    activity:resting (30,26)
+    domestic:inspections (52,27)
+Page 701 (type cover)
+Page 702 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgs  ----------
+  1 Oct 1915 23
+    domestic:inspections (26,27)
+    place:Noeux-les-Mines (8,27)
+    weather:cold (36,30)
+  2 Oct 1915 33
+    domestic:inspections (37,36)
+    domestic:parades (28,37)
+    weather:cold (39,44)
+    weather:cold (42,44)
+  3 Oct 1915 48
+    domestic:inspections (49,51)
+    domestic:inspections (36,51)
+    weather:cold (39,55)
+    weather:cold (43,56)
+  4 Oct 1915 59
+    domestic:inspections (25,63)
+    weather:rain (37,67)
+  5 Oct 1915 71
+    domestic:hygiene (60,73)
+    domestic:inspections (23,74)
+    weather:rain (42,77)
+Page 703 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdf  ----------
+  6 Oct 1915 22
+    time:0945AM (43,26)
+    activity:movement (25,26)
+    activity:movement (52,26)
+    place:Mazingarbe (7,26)
+    time:1100AM (81,27)
+    weather:overcast (36,33)
+    weather:overcast (28,33)
+  7 Oct 1915 37
+    place:Mazingarbe (7,41)
+    activity:repair (41,42)
+    activity:repair (36,43)
+    unit:Cleaning (38,45)
+    activity:reconnoitered (41,55)
+    activity:reconnoitered (58,59)
+    weather:overcast (39,67)
+Page 704 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckf  ----------
+  Hashtags: #watersupply 
+  8 Oct 1915 23
+    activity:resting (32,26)
+    place:Mazingarbe (6,27)
+    activity:other (50,29)
+    activity:construction (37,30)
+    activity:construction (34,41)
+    weather:fine (39,44)
+    weather:fine (32,45)
+  9 Oct 1915 48
+    place:Mazingarbe (8,51)
+    activity:construction (32,51)
+    activity:construction (38,55)
+    activity:repair (37,59)
+    weather:overcast (38,65)
+  10 Oct 1915 69
+    activity:repair (37,72)
+    place:Mazingarbe (7,73)
+    activity:construction (38,77)
+    activity:repair (35,81)
+    weather:fine (37,87)
+Page 705 (type diary) http://wd3.herokuapp.com/pages/AWD0001clm  ----------
+  11 Oct 1915 22
+    place:Mazingarbe (5,26)
+    activity:repair (29,26)
+    activity:construction (41,29)
+    activity:construction (34,33)
+    weather:overcast (34,44)
+  12 Oct 1915 48
+    activity:repair (33,51)
+    place:Mazingarbe (5,52)
+    activity:construction (38,55)
+    activity:construction (31,58)
+    unit:25 coy.re (46,62)
+    activity:repair (35,66)
+    weather:fine (33,69)
+Page 706 (type diary) http://wd3.herokuapp.com/pages/AWD0001ck6  ----------
+  13 Oct 1915 23
+    unit:2 Brigade (67,26)
+    domestic:parades (24,47)
+Page 707 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9v  ----------
+  13 Oct 1915 22
+Page 708 (type diary) http://wd3.herokuapp.com/pages/AWD0001ca4  ----------
+  13 Oct 1915 0
+    activity:movement (31,52)
+    activity:movement (62,61)
+    activity:resting (64,65)
+    place:Lozinghem (76,77)
+Page 709 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbc  ----------
+  15 Oct 1915 22
+    activity:resting (26,26)
+    place:Lozinghem (6,26)
+    weather:fine (32,29)
+  16 Oct 1915 33
+    activity:resting (25,37)
+    place:Lozinghem (6,38)
+    weather:fine (33,40)
+  17 Oct 1915 43
+    domestic:hygiene (79,46)
+    domestic:inspections (23,47)
+    domestic:religion (43,47)
+    place:Lozinghem (6,48)
+    weather:overcast (34,51)
+  18 Oct 1915 54
+    domestic:inspections (36,58)
+    place:Lozinghem (6,60)
+    unit:2 Brigade (76,61)
+    domestic:inspections (33,61)
+    activity:training (68,63)
+    weather:fine (35,72)
+Page 710 (type diary) http://wd3.herokuapp.com/pages/AWD0001clh  ----------
+  Hashtags: #watersupply #horsescondition 
+  19 Oct 1915 23
+    place:Lozinghem (8,28)
+    domestic:inspections (34,30)
+    weather:fine (36,43)
+  20 Oct 1915 46
+    place:Lozinghem (8,52)
+    activity:training (48,58)
+    weather:fine (36,81)
+Page 711 (type diary) http://wd3.herokuapp.com/pages/AWD0001cly  ----------
+  21 Oct 1915 22
+    activity:repair (29,25)
+    place:Lozinghem (5,25)
+    activity:training (50,34)
+    activity:repair (39,38)
+    weather:fine (38,47)
+  22 Oct 1915 51
+    activity:repair (33,56)
+    place:Lozinghem (6,56)
+    activity:training (47,68)
+    weather:fine (36,86)
+Page 712 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9n  ----------
+  23 Oct 1915 23
+    place:Lozinghem (6,26)
+    domestic:inspections (27,29)
+    activity:repair (40,34)
+    weather:fine (32,46)
+  24 Oct 1915 50
+    domestic:parades (45,54)
+    place:Lozinghem (7,55)
+    domestic:inspections (26,55)
+    weather:rain (34,58)
+  25 Oct 1915 62
+    activity:construction (35,65)
+    unit:1 Division.Train (59,65)
+    place:Lozinghem (7,66)
+    activity:repair (35,70)
+    weather:rain (36,85)
+Page 713 (type diary) http://wd3.herokuapp.com/pages/AWD0001cma  ----------
+  26 Oct 1915 23
+    activity:construction (35,27)
+    place:Lozinghem (7,27)
+    activity:training (54,31)
+    activity:repair (45,36)
+    weather:rain (38,44)
+  27 Oct 1915 47
+    activity:construction (40,51)
+    place:Lozinghem (8,52)
+    activity:training (55,55)
+    activity:repair (44,62)
+    weather:rain (39,70)
+Page 714 (type diary) http://wd3.herokuapp.com/pages/AWD0001cl2  ----------
+  Hashtags: #king 
+  28 Oct 1915 23
+    place:Lozinghem (6,27)
+    activity:training (38,29)
+    activity:repair (40,34)
+    domestic:inspections (68,43)
+    weather:rain (39,46)
+  29 Oct 1915 49
+    place:Lozinghem (6,54)
+    activity:training (33,56)
+    domestic:inspections (33,60)
+    activity:repair (39,68)
+    weather:fine (38,77)
+Page 715 (type diary) http://wd3.herokuapp.com/pages/AWD0001cho  ----------
+  30 Oct 1915 23
+    activity:repair (39,26)
+    place:Lozinghem (5,27)
+    activity:training (37,32)
+    activity:repair (40,36)
+    activity:construction (29,40)
+    activity:construction (39,43)
+    weather:overcast (40,45)
+  31 Oct 1915 48
+    domestic:religion (37,59)
+    weather:rain (36,66)
+Page 716 (type cover)
+Page 717 (type cover)
+Page 718 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8u  ----------
+  1 Nov 1915 22
+    place:Lozinghem (7,27)
+    activity:repair (42,38)
+    unit:Kings own lancaster Regiment (50,48)
+    weather:rain (38,54)
+  2 Nov 1915 57
+    place:Lozinghem (5,61)
+    domestic:inspections (33,72)
+    weather:rain (67,92)
+Page 719 (type diary) http://wd3.herokuapp.com/pages/AWD0001chm  ----------
+  3 Nov 1915 23
+    place:Lozinghem (7,27)
+    activity:training (41,30)
+    activity:construction (40,36)
+    weather:rain (37,50)
+  4 Nov 1915 52
+    place:Lozinghem (7,59)
+    activity:training (41,63)
+    activity:repair (41,72)
+    weather:overcast (39,81)
+Page 720 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnp  ----------
+  5 Nov 1915 23
+    place:Lozinghem (7,28)
+    activity:training (39,30)
+    activity:repair (40,40)
+    domestic:hygiene (48,50)
+    weather:rain (40,53)
+  6 Nov 1915 57
+    place:Lozinghem (5,61)
+    activity:construction (49,65)
+    activity:repair (30,70)
+    weather:fine (40,78)
+Page 721 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfu  ----------
+  7 Nov 1915 24
+    place:Lozinghem (8,28)
+    activity:construction (51,30)
+    domestic:parades (32,33)
+    weather:fine (41,36)
+  8 Nov 1915 38
+    place:Lozinghem (8,44)
+    activity:training (48,44)
+    activity:repair (40,54)
+    weather:fine (39,62)
+Page 722 (type diary) http://wd3.herokuapp.com/pages/AWD0001cif  ----------
+  9 Nov 1915 23
+    place:Lozinghem (6,26)
+    activity:training (51,27)
+    activity:construction (47,36)
+    person:Major J M Arthur (departed_posted) (57,48)
+    person:Captain W Downs (joined) (27,49)
+    weather:cold (37,52)
+  10 Nov 1915 55
+    place:Lozinghem (6,59)
+    activity:training (51,59)
+    weather:cold (37,77)
+Page 723 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9l  ----------
+  11 Nov 1915 23
+    domestic:inspections (45,26)
+    place:Lozinghem (5,27)
+    weather:rain (40,39)
+    weather:rain (26,40)
+  12 Nov 1915 44
+    place:Lozinghem (5,48)
+    activity:movement (46,52)
+    unit:4 london field co (42,54)
+    activity:movement (39,59)
+    weather:rain (42,62)
+    weather:rain (26,62)
+  13 Nov 1915 66
+    activity:movement (54,70)
+    place:Philosophe (4,70)
+    person:Lieutenant Clark (other) (43,77)
+    activity:reconnoitered (53,79)
+    person:Lieutenant Marsden (other) (41,84)
+    weather:rain (30,90)
+    weather:rain (45,91)
+Page 724 (type diary) http://wd3.herokuapp.com/pages/AWD0001cb0  ----------
+  14 Nov 1915 24
+    place:Philosophe (8,28)
+    activity:repair (41,30)
+    weather:overcast (46,37)
+  15 Nov 1915 40
+    place:Philosophe (8,44)
+    activity:repair (40,47)
+    weather:cold (46,53)
+  16 Nov 1915 55
+    place:Philosophe (8,60)
+    activity:repair (36,69)
+    activity:construction (49,76)
+    weather:cold (45,82)
+Page 725 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9z  ----------
+  17 Nov 1915 25
+    place:Philosophe (8,27)
+    activity:construction (50,30)
+    activity:repair (49,42)
+    weather:cold (40,50)
+  18 Nov 1915 52
+    place:Philosophe (8,58)
+    activity:repair (46,59)
+    activity:construction (52,67)
+    activity:working (46,82)
+    weather:overcast (50,86)
+Page 726 (type diary) http://wd3.herokuapp.com/pages/AWD0001cju  ----------
+  19 Nov 1915 23
+    place:Philosophe (7,27)
+    activity:repair (56,30)
+    activity:repair (47,44)
+    weather:overcast (40,55)
+    weather:overcast (46,55)
+  20 Nov 1915 59
+    place:Philosophe (7,63)
+    activity:repair (50,75)
+    weather:overcast (61,92)
+    weather:cold (65,92)
+Page 727 (type diary) http://wd3.herokuapp.com/pages/AWD0001ceu  ----------
+  21 Nov 1915 23
+    activity:repair (41,26)
+    place:Philosophe (6,27)
+    weather:cold (42,59)
+  22 Nov 1915 62
+    activity:repair (41,65)
+    place:Philosophe (5,66)
+    domestic:hygiene (44,84)
+    weather:cold (40,89)
+Page 728 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccx  ----------
+  23 Nov 1915 23
+    place:Philosophe (6,27)
+    activity:repair (52,31)
+    activity:resupplying (38,42)
+    weather:overcast (41,52)
+  24 Nov 1915 55
+    place:Philosophe (6,60)
+    activity:repair (51,66)
+    activity:resupplying (40,72)
+    weather:overcast (36,83)
+    weather:overcast (46,83)
+Page 729 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbl  ----------
+  25 Nov 1915 22
+    place:Philosophe (5,26)
+    unit:26 Field Coy Royal Engineers (55,26)
+    activity:construction (71,26)
+    activity:resupplying (46,33)
+    activity:construction (35,39)
+    weather:overcast (44,42)
+    weather:overcast (34,42)
+  26 Nov 1915 46
+    activity:construction (41,50)
+    place:Philosophe (6,51)
+    weather:cold (46,74)
+    weather:cold (33,74)
+Page 730 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfm  ----------
+  27 Nov 1915 23
+    place:Philosophe (7,26)
+    activity:construction (50,27)
+    weather:cold (47,45)
+    weather:cold (40,46)
+  28 Nov 1915 49
+    activity:construction (45,54)
+    place:Philosophe (6,54)
+    activity:construction (36,60)
+    weather:cold (37,69)
+    weather:cold (43,70)
+Page 731 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgz  ----------
+  29 Nov 1915 23
+    place:Philosophe (5,26)
+    activity:construction (42,27)
+    activity:construction (51,36)
+    weather:rain (44,47)
+    weather:rain (33,47)
+  30 Nov 1915 51
+    place:Philosophe (5,54)
+    activity:construction (42,57)
+    activity:construction (48,63)
+    activity:construction (52,73)
+    person:Captain W Downs (81,89)
+    weather:rain (33,89)
+    weather:rain (49,91)
+Page 732 (type cover)
+Page 733 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccl  ----------
+  1 Dec 1915 23
+    place:Philosophe (6,26)
+    activity:working (47,42)
+    weather:overcast (40,50)
+  2 Dec 1915 54
+    weather:overcast (36,83)
+Page 734 (type diary) http://wd3.herokuapp.com/pages/AWD0001cm7  ----------
+  3 Dec 1915 22
+    place:Philosophe (7,26)
+    activity:construction (45,40)
+  4 Dec 1915 49
+    weather:rain (30,49)
+    place:Philosophe (6,53)
+    activity:working (47,55)
+    activity:construction (38,67)
+    weather:rain (34,78)
+Page 735 (type diary) http://wd3.herokuapp.com/pages/AWD0001ce5  ----------
+  5 Dec 1915 22
+    activity:construction (40,25)
+    place:Philosophe (8,26)
+    activity:construction (42,41)
+    weather:overcast (36,44)
+  6 Dec 1915 48
+    activity:construction (43,53)
+    place:Philosophe (8,53)
+    activity:working (53,60)
+    activity:construction (39,63)
+    weather:overcast (45,75)
+    weather:overcast (37,76)
+Page 736 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9x  ----------
+  7 Dec 1915 23
+    place:Philosophe (7,26)
+    activity:working (49,29)
+    activity:repair (44,35)
+  8 Dec 1915 41
+    weather:overcast (33,41)
+    activity:repair (55,71)
+    weather:overcast (38,79)
+Page 737 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjl  ----------
+  9 Dec 1915 23
+    place:Philosophe (7,28)
+  10 Dec 1915 66
+    place:Philosophe (7,70)
+Page 738 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjn  ----------
+  11 Dec 1915 23
+    place:Philosophe (6,25)
+    activity:construction (47,28)
+    activity:working (54,41)
+    activity:repair (63,47)
+    weather:rain (41,56)
+  12 Dec 1915 59
+    place:Philosophe (5,62)
+    activity:construction (44,63)
+    activity:repair (43,78)
+    weather:rain (41,88)
+Page 739 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgg  ----------
+  13 Dec 1915 23
+    place:Philosophe (7,26)
+    activity:construction (52,28)
+    activity:construction (43,58)
+    weather:cold (44,69)
+Page 740 (type diary) http://wd3.herokuapp.com/pages/AWD0001cj2  ----------
+  14 Dec 1915 23
+    place:Philosophe (6,25)
+    activity:construction (44,28)
+    weather:fine (39,77)
+Page 741 (type diary) http://wd3.herokuapp.com/pages/AWD0001ce6  ----------
+  15 Dec 1915 23
+    place:Philosophe (6,26)
+    weather:fine (39,70)
+    weather:cold (44,71)
+Page 742 (type diary) http://wd3.herokuapp.com/pages/AWD0001chc  ----------
+  16 Dec 1915 23
+    activity:construction (43,26)
+    place:Philosophe (6,26)
+    activity:construction (39,34)
+    activity:repair (39,43)
+    activity:construction (41,54)
+    weather:cold (39,70)
+  15 Dec 1915 0
+Page 743 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9r  ----------
+  17 Dec 1915 24
+    place:Philosophe (6,26)
+    activity:construction (50,40)
+    activity:repair (30,41)
+    weather:overcast (42,53)
+  18 Dec 1915 58
+    place:Philosophe (7,61)
+    activity:construction (35,67)
+    weather:overcast (45,83)
+    weather:overcast (34,84)
+Page 744 (type diary) http://wd3.herokuapp.com/pages/AWD0001cb5  ----------
+  19 Dec 1915 23
+    place:Philosophe (5,26)
+    activity:construction (42,33)
+    activity:construction (44,44)
+    activity:construction (43,76)
+    weather:fine (41,86)
+Page 745 (type diary) http://wd3.herokuapp.com/pages/AWD0001cf6  ----------
+  20 Dec 1915 23
+    place:Philosophe (6,27)
+    weather:overcast (41,86)
+    weather:overcast (42,86)
+Page 746 (type diary) http://wd3.herokuapp.com/pages/AWD0001clv  ----------
+  21 Dec 1915 24
+    place:Philosophe (8,28)
+    weather:overcast (37,68)
+Page 747 (type diary) http://wd3.herokuapp.com/pages/AWD0001car  ----------
+  22 Dec 1915 24
+    place:Philosophe (5,26)
+    activity:resupplying (46,76)
+    weather:overcast (39,85)
+Page 748 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9p  ----------
+  23 Dec 1915 23
+    place:Philosophe (6,26)
+    activity:resupplying (51,76)
+    weather:fine (40,82)
+    weather:rain (58,82)
+Page 749 (type diary) http://wd3.herokuapp.com/pages/AWD0001cba  ----------
+  24 Dec 1915 23
+    place:Philosophe (5,27)
+    activity:construction (54,47)
+    weather:rain (45,76)
+    weather:rain (32,76)
+Page 750 (type diary) http://wd3.herokuapp.com/pages/AWD0001cke  ----------
+  25 Dec 1915 23
+    place:Philosophe (7,26)
+    weather:overcast (48,76)
+Page 751 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbk  ----------
+  26 Dec 1915 24
+    place:Philosophe (6,27)
+    activity:repair (55,33)
+    weather:rain (39,78)
+Page 752 (type diary) http://wd3.herokuapp.com/pages/AWD0001clt  ----------
+  27 Dec 1915 23
+    place:Philosophe (6,25)
+    activity:repair (48,27)
+    activity:resupplying (51,68)
+    weather:rain (42,76)
+Page 753 (type diary) http://wd3.herokuapp.com/pages/AWD0001cb2  ----------
+  28 Dec 1915 24
+    place:Philosophe (5,27)
+    weather:fine (42,81)
+Page 754 (type diary) http://wd3.herokuapp.com/pages/AWD0001cg4  ----------
+  29 Dec 1915 24
+    domestic:hygiene (38,26)
+    place:Philosophe (7,27)
+    domestic:hygiene (39,36)
+    activity:working (39,57)
+    weather:fine (39,70)
+Page 755 (type diary) http://wd3.herokuapp.com/pages/AWD0001cks  ----------
+  30 Dec 1915 24
+    place:Philosophe (7,27)
+    activity:construction (38,33)
+    weather:overcast (36,65)
+    weather:overcast (43,65)
+Page 756 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8j  ----------
+  31 Dec 1915 24
+    place:Philosophe (8,27)
+    weather:overcast (41,69)
+    person:Captain W Downs (author) (63,78)
+Page 757 (type other) http://wd3.herokuapp.com/pages/AWD0001ciy  ----------
+  Hashtags: #diagram #plan #sketch 
+Page 758 (type cover)
+Page 759 (type cover)
+Page 760 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgk  ----------
+  1 Jan 1916 23
+    place:Philosophe (6,25)
+    activity:working (50,36)
+    activity:repair (51,57)
+    weather:rain (38,64)
+Page 761 (type diary) http://wd3.herokuapp.com/pages/AWD0001cl1  ----------
+  2 Jan 1916 24
+    place:Philosophe (7,26)
+    activity:repair (42,31)
+    activity:repair (38,36)
+    weather:rain (46,54)
+  3 Jan 1916 60
+    place:Philosophe (8,62)
+    activity:repair (41,71)
+    weather:fine (39,90)
+Page 762 (type diary) http://wd3.herokuapp.com/pages/AWD0001cab  ----------
+  4 Jan 1916 22
+    place:Philosophe (7,26)
+    activity:construction (44,27)
+    activity:working (38,44)
+    weather:overcast (39,51)
+  5 Jan 1916 53
+    place:Philosophe (7,58)
+    activity:working (40,66)
+    unit:23 field coy re (65,79)
+    weather:fine (40,83)
+Page 763 (type diary) http://wd3.herokuapp.com/pages/AWD0001cg6  ----------
+  6 Jan 1916 25
+    place:Philosophe (8,27)
+    activity:construction (45,30)
+    person:Lieutenant Marsden (other) (50,56)
+    weather:fine (41,59)
+  7 Jan 1916 64
+    place:Philosophe (7,67)
+    activity:working (47,68)
+    weather:overcast (41,88)
+Page 764 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdk  ----------
+  8 Jan 1916 24
+    place:Philosophe (6,26)
+    activity:construction (27,38)
+    activity:repair (27,48)
+    weather:fine (45,68)
+Page 765 (type diary) http://wd3.herokuapp.com/pages/AWD0001clj  ----------
+  9 Jan 1916 25
+    place:Philosophe (5,27)
+    activity:construction (27,54)
+    activity:working (37,78)
+    weather:fine (47,80)
+Page 766 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfl  ----------
+  10 Jan 1916 24
+    activity:repair (45,26)
+    place:Philosophe (6,27)
+    activity:repair (26,45)
+    domestic:hygiene (66,48)
+    weather:fine (36,62)
+Page 767 (type diary) http://wd3.herokuapp.com/pages/AWD0001cj7  ----------
+  11 Jan 1916 23
+    activity:repair (52,26)
+    place:Philosophe (6,27)
+    activity:repair (26,32)
+    activity:repair (47,37)
+    activity:construction (30,47)
+    weather:overcast (39,62)
+Page 768 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjp  ----------
+  Hashtags: #aeroplane 
+  12 Jan 1916 25
+    place:Philosophe (8,28)
+    weather:fine (38,48)
+  13 Jan 1916 51
+    place:Philosophe (7,56)
+    unit:74 field coy re (64,80)
+    weather:overcast (43,83)
+Page 769 (type diary) http://wd3.herokuapp.com/pages/AWD0001cl4  ----------
+  14 Jan 1916 22
+    place:Lapugnoy (6,27)
+    unit:91 field coy re (58,29)
+    unit:74 field coy re (64,36)
+    unit:91 field coy re (61,47)
+    activity:movement (59,50)
+    weather:fine (40,57)
+  15 Jan 1916 60
+    activity:construction (32,65)
+    place:Lapugnoy (6,66)
+    activity:construction (47,72)
+    weather:fine (42,78)
+Page 770 (type diary) http://wd3.herokuapp.com/pages/AWD0001cn7  ----------
+  16 Jan 1916 24
+    place:Labuissiere (42,27)
+    place:Lapugnoy (8,27)
+    unit:4 Corps (46,31)
+    unit:2 Brigade (49,37)
+    unit:2 Brigade Pioneers and Wirers (50,37)
+    activity:construction (35,40)
+    weather:fine (40,47)
+  17 Jan 1916 50
+    place:Gosnay (70,54)
+    unit:4 Corps (38,54)
+    place:Lapugnoy (8,55)
+    activity:construction (24,56)
+    activity:training (40,57)
+    unit:2 Brigade (46,58)
+    activity:construction (38,61)
+    weather:overcast (39,66)
+Page 771 (type diary) http://wd3.herokuapp.com/pages/AWD0001clw  ----------
+  18 Jan 1916 23
+    activity:construction (37,26)
+    place:Lapugnoy (7,27)
+    unit:4 Corps (36,27)
+    unit:2 Brigade (45,30)
+    unit:2 Brigade Pioneers and Wirers (47,30)
+    activity:construction (42,36)
+    weather:overcast (40,46)
+  19 Jan 1916 50
+    unit:4 Corps (35,53)
+    place:Lapugnoy (6,54)
+    unit:2 Brigade (44,57)
+    unit:2 Brigade Pioneers and Wirers (47,57)
+    activity:training (38,57)
+    activity:construction (25,61)
+    weather:rain (45,67)
+  20 Jan 1916 70
+    place:Lapugnoy (7,74)
+    unit:4 Corps (36,74)
+    unit:2 Brigade Pioneers and Wirers (49,76)
+    unit:2 Brigade (45,77)
+    activity:training (37,77)
+    activity:construction (42,80)
+    activity:construction (48,84)
+    weather:overcast (44,89)
+Page 772 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9o  ----------
+  21 Jan 1916 23
+    place:Gosnay (67,26)
+    activity:construction (38,26)
+    unit:4 Corps Laundry (32,26)
+    unit:4 Corps (37,26)
+    place:Labuissiere (48,27)
+    place:Lapugnoy (7,27)
+    unit:2 Brigade Pioneers and Wirers (51,29)
+    place:Lillers (32,30)
+    activity:training (40,30)
+    place:Bruay Fosse (49,33)
+    activity:construction (31,38)
+    place:Hesdigneul (34,39)
+    unit:2 Brigade Pioneers (37,41)
+    weather:overcast (42,42)
+  22 Jan 1916 46
+    place:Lapugnoy (7,48)
+    activity:construction (37,48)
+    place:Labuissiere (51,49)
+    unit:4 Corps Laundry (35,49)
+    unit:4 Corps (37,49)
+    place:Gosnay (70,50)
+    unit:2 Brigade Pioneers and Wirers (51,52)
+    place:Bruay Fosse (49,55)
+    activity:repair (25,57)
+    activity:construction (27,58)
+    place:Hesdigneul (36,62)
+    weather:fine (41,65)
+  23 Jan 1916 67
+    unit:4 Corps Laundry (38,70)
+    place:Labuissiere (49,71)
+    place:Gosnay (67,71)
+    place:Lapugnoy (7,71)
+    activity:construction (40,71)
+    unit:4 Corps (37,71)
+    unit:4 Division (43,74)
+    place:Lillers (32,77)
+    place:Bruay Fosse (49,80)
+    place:Hesdigneul (34,86)
+    weather:fine (40,89)
+Page 773 (type diary) http://wd3.herokuapp.com/pages/AWD0001ces  ----------
+  24 Jan 1916 23
+    unit:4 Corps Laundry (38,26)
+    activity:construction (39,26)
+    place:Lapugnoy (7,27)
+    unit:47 Division Bomb School (46,29)
+    activity:construction (38,34)
+    weather:fine (40,46)
+  25 Jan 1916 50
+    activity:construction (36,52)
+    place:Lapugnoy (6,53)
+    unit:4 Corps Laundry (39,53)
+    unit:47 Division Bomb School (41,55)
+    activity:construction (37,60)
+    weather:fine (45,77)
+Page 774 (type diary) http://wd3.herokuapp.com/pages/AWD0001cb7  ----------
+  26 Jan 1916 22
+    activity:construction (35,26)
+    place:Lapugnoy (6,27)
+    unit:2 Brigade Pioneers (50,32)
+    weather:overcast (41,42)
+  27 Jan 1916 45
+    place:Lapugnoy (6,49)
+    unit:2 Brigade Pioneers (49,58)
+    weather:overcast (40,65)
+  28 Jan 1916 67
+    place:Lapugnoy (5,72)
+    unit:2 Brigade Pioneers (47,79)
+    weather:overcast (41,86)
+Page 775 (type diary) http://wd3.herokuapp.com/pages/AWD0001cd9  ----------
+  29 Jan 1916 23
+    place:Lapugnoy (6,27)
+    activity:construction (44,31)
+    weather:fine (39,41)
+  30 Jan 1916 44
+    place:Lapugnoy (6,48)
+    weather:overcast (41,64)
+  31 Jan 1916 66
+    place:Lapugnoy (7,70)
+    activity:construction (30,76)
+    domestic:inspections (34,79)
+    weather:overcast (46,89)
+Page 776 (type cover)
+Page 777 (type cover)
+Page 778 (type diary) http://wd3.herokuapp.com/pages/AWD0001cb3  ----------
+  1 Feb 1916 22
+    place:Lapugnoy (6,27)
+    unit:2 Brigade Pioneers (53,33)
+    weather:cold (41,47)
+  2 Feb 1916 48
+    place:Lapugnoy (7,54)
+    weather:cold (40,69)
+  3 Feb 1916 72
+    activity:construction (50,75)
+    place:Lapugnoy (7,76)
+    weather:cold (41,87)
+Page 779 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgy  ----------
+  4 Feb 1916 24
+    place:Labeuvriere (77,24)
+    activity:construction (49,26)
+    place:Hesdigneul (33,26)
+    place:Lapugnoy (5,26)
+    activity:repair (40,34)
+    place:Bruay Fosse (57,35)
+    weather:overcast (39,45)
+  5 Feb 1916 49
+    domestic:inspections (74,51)
+    place:Philomel (66,51)
+    place:Lapugnoy (5,51)
+    unit:41 Lowland Co. Royal Engineers (58,55)
+    unit:4/1 Lowland E. (64,55)
+    weather:fine (39,58)
+  6 Feb 1916 62
+    place:Lapugnoy (5,64)
+    activity:construction (38,65)
+    place:Ecquedecques (28,76)
+    place:Lillers (67,79)
+    weather:overcast (42,88)
+Page 780 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgf  ----------
+  7 Feb 1916 23
+    place:Lapugnoy (5,27)
+    weather:overcast (42,46)
+  8 Feb 1916 48
+    place:Lapugnoy (6,53)
+    weather:rain (39,62)
+  9 Feb 1916 67
+    place:Lapugnoy (6,70)
+    weather:cold (42,75)
+  10 Feb 1916 80
+    place:Lapugnoy (6,83)
+Page 781 (type diary) http://wd3.herokuapp.com/pages/AWD0001cg7  ----------
+  11 Feb 1916 23
+    place:Lapugnoy (5,26)
+    activity:construction (42,26)
+    domestic:inspections (40,29)
+    weather:rain (39,32)
+  12 Feb 1916 34
+    unit:London Field Co R.E. (T) (74,38)
+    place:Lapugnoy (6,39)
+    activity:construction (43,41)
+    domestic:inspections (40,45)
+    weather:overcast (39,50)
+  13 Feb 1916 52
+    place:Lapugnoy (5,56)
+    activity:construction (34,58)
+    domestic:inspections (47,63)
+    unit:London Field Co R.E. (T) (70,64)
+    weather:rain (40,65)
+  14 Feb 1916 68
+    place:Lapugnoy (6,72)
+    domestic:inspections (46,74)
+Page 782 (type diary) http://wd3.herokuapp.com/pages/AWD0001ceh  ----------
+  15 Feb 1916 24
+    time:0930AM (51,25)
+    activity:movement (49,27)
+    place:Les Brebis (6,27)
+    unit:107 Field Coy Royal Engineers (48,32)
+    unit:107 Field Co. Royal Engineers (37,32)
+    weather:fine (39,37)
+  16 Feb 1916 40
+    place:Les Brebis (6,45)
+    weather:rain (42,54)
+    unit:London Field Co R.E. (T) (46,55)
+  17 Feb 1916 58
+    place:Les Brebis (6,60)
+    activity:construction (36,63)
+    weather:fine (41,74)
+Page 783 (type diary) http://wd3.herokuapp.com/pages/AWD0001cch  ----------
+  18 Feb 1916 24
+    place:Les Brebis (6,26)
+    activity:construction (32,37)
+    weather:overcast (51,46)
+  19 Feb 1916 50
+    place:Les Brebis (7,54)
+    activity:construction (25,60)
+    activity:construction (43,64)
+    weather:overcast (47,71)
+Page 784 (type diary) http://wd3.herokuapp.com/pages/AWD0001cl8  ----------
+  20 Feb 1916 22
+    place:Les Brebis (7,26)
+    weather:fine (45,57)
+  21 Feb 1916 60
+    place:Les Brebis (6,64)
+    weather:cold (50,91)
+Page 785 (type diary) http://wd3.herokuapp.com/pages/AWD0001can  ----------
+  22 Feb 1916 23
+    place:Les Brebis (6,25)
+    activity:construction (41,29)
+    activity:construction (22,33)
+    place:Double Crassier (50,33)
+    weather:cold (44,44)
+  23 Feb 1916 48
+    place:Les Brebis (6,53)
+    activity:construction (37,55)
+    activity:construction (23,59)
+    activity:construction (35,69)
+    weather:cold (42,74)
+Page 786 (type diary) http://wd3.herokuapp.com/pages/AWD0001cge  ----------
+  24 Feb 1916 24
+    activity:construction (33,25)
+    place:Les Brebis (6,26)
+    activity:construction (38,36)
+    activity:construction (32,45)
+    weather:cold (40,54)
+  25 Feb 1916 57
+    place:Les Brebis (7,60)
+    activity:construction (32,74)
+    weather:cold (43,87)
+Page 787 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9w  ----------
+  26 Feb 1916 22
+    place:Neuf Alley (74,25)
+    place:Les Brebis (6,27)
+    activity:construction (45,35)
+    weather:cold (53,60)
+Page 788 (type diary) http://wd3.herokuapp.com/pages/AWD0001cg1  ----------
+  27 Feb 1916 22
+    place:Les Brebis (6,27)
+    weather:overcast (44,60)
+Page 789 (type diary) http://wd3.herokuapp.com/pages/AWD0001cas  ----------
+  28 Feb 1916 23
+    place:Les Brebis (7,27)
+    activity:construction (40,36)
+    weather:overcast (46,69)
+Page 790 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnj  ----------
+  29 Feb 1916 23
+    place:Les brebis (6,26)
+    weather:fine (39,64)
+    person:Captain W Downs (commander) (63,75)
+Page 791 (type cover)
+Page 792 (type cover)
+Page 793 (type diary) http://wd3.herokuapp.com/pages/AWD0001cc2  ----------
+  1 Mar 1916 22
+    place:Les Brebis (6,25)
+    activity:construction (38,34)
+    weather:fine (45,63)
+Page 794 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfx  ----------
+  2 Mar 1916 22
+    place:Les Brebis (7,26)
+    activity:construction (42,34)
+    activity:construction (39,52)
+    place:Grenay (46,64)
+    weather:fine (40,76)
+Page 795 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfe  ----------
+  3 Mar 1916 23
+    place:Les Brebis (6,26)
+    activity:construction (43,35)
+    activity:repair (35,49)
+    activity:repair (44,54)
+    weather:overcast (42,70)
+Page 796 (type diary) http://wd3.herokuapp.com/pages/AWD0001ciw  ----------
+  4 Mar 1916 23
+    place:Les Brebis (6,26)
+    activity:working (45,67)
+    unit:Miners (24,74)
+Page 797 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckm  ----------
+  5 Mar 1916 23
+    place:Les Brebis (7,27)
+    activity:construction (37,34)
+    activity:repair (47,48)
+    unit:Miners (23,62)
+    weather:cold (42,67)
+Page 798 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnh  ----------
+  6 Mar 1916 23
+    activity:line (27,25)
+    place:Les Brebis (6,26)
+    activity:construction (42,33)
+    activity:construction (44,40)
+    activity:construction (29,43)
+    unit:Miners (21,53)
+    weather:cold (37,55)
+    weather:cold (47,55)
+  7 Mar 1916 56
+    place:Les Brebis (6,61)
+    activity:construction (38,81)
+    weather:cold (33,96)
+Page 799 (type diary) http://wd3.herokuapp.com/pages/AWD0001cg5  ----------
+  8 Mar 1916 22
+    place:Les Brebis (6,25)
+    activity:construction (30,33)
+    activity:construction (41,46)
+    activity:repair (23,51)
+    unit:Miners (22,72)
+    weather:cold (40,77)
+Page 800 (type diary) http://wd3.herokuapp.com/pages/AWD0001cix  ----------
+  9 Mar 1916 25
+    place:Les Brebis (8,26)
+    place:Les Brebis (9,29)
+    activity:construction (31,51)
+    unit:Miners (23,65)
+    weather:overcast (42,69)
+Page 801 (type diary) http://wd3.herokuapp.com/pages/AWD0001clp  ----------
+  10 Mar 1916 23
+    place:Les Brebis (8,26)
+    activity:construction (32,32)
+    activity:construction (46,33)
+    unit:Miners (21,52)
+    weather:overcast (40,54)
+  11 Mar 1916 57
+    place:Les Brebis (7,60)
+    place:Les Brebis (8,63)
+    activity:construction (30,70)
+    weather:overcast (45,89)
+Page 802 (type diary) http://wd3.herokuapp.com/pages/AWD0001cap  ----------
+  12 Mar 1916 23
+    place:Les Brebis (6,26)
+    unit:Miners (20,60)
+    weather:fine (40,64)
+Page 803 (type diary) http://wd3.herokuapp.com/pages/AWD0001chv  ----------
+  13 Mar 1916 22
+    place:Les Brebis (7,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (50,32)
+    activity:repair (38,34)
+    activity:construction (24,40)
+    unit:Miners (22,68)
+    weather:fine (41,73)
+Page 804 (type diary) http://wd3.herokuapp.com/pages/AWD0001cc7  ----------
+  14 Mar 1916 23
+    place:Les Brebis (8,28)
+    activity:repair (47,35)
+    unit:Miners (21,63)
+    weather:fine (40,68)
+Page 805 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjo  ----------
+  15 Mar 1916 22
+    place:Les Brebis (6,26)
+    activity:construction (33,35)
+    unit:Miners (22,54)
+    weather:fine (40,57)
+  16 Mar 1916 58
+    place:Les Brebis (6,64)
+    activity:repair (32,82)
+    unit:Miners (22,84)
+    unit:23 field company re (50,90)
+    weather:overcast (56,92)
+Page 806 (type diary) http://wd3.herokuapp.com/pages/AWD0001cku  ----------
+  17 Mar 1916 23
+    place:Les Brebis (7,26)
+    activity:construction (29,34)
+    activity:construction (48,36)
+    unit:Miners (21,52)
+    unit:23 field company re (55,54)
+    weather:fine (36,57)
+  18 Mar 1916 58
+    place:Les Brebis (6,65)
+    activity:repair (60,67)
+    activity:repair (24,72)
+    unit:Miners (20,90)
+    unit:23 field company re (43,92)
+    weather:overcast (60,94)
+Page 807 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8c  ----------
+  19 Mar 1916 22
+    place:Les Brebis (7,27)
+    activity:construction (52,34)
+    activity:construction (22,36)
+    activity:repair (22,45)
+    unit:Miners (21,57)
+    weather:fine (44,63)
+  20 Mar 1916 65
+    place:Les Brebis (6,68)
+    place:Les Brebis (6,72)
+    activity:repair (32,74)
+    activity:construction (43,76)
+    activity:repair (23,82)
+    unit:Miners (20,92)
+    weather:overcast (62,93)
+Page 808 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfq  ----------
+  21 Mar 1916 22
+    place:Les Brebis (9,27)
+    activity:repair (35,31)
+    weather:overcast (39,58)
+  22 Mar 1916 59
+    activity:repair (45,70)
+    weather:overcast (56,90)
+Page 809 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccm  ----------
+  23 Mar 1916 23
+    place:Les Brebis (6,27)
+    activity:repair (31,31)
+    activity:repair (25,48)
+    unit:Miners (22,60)
+    weather:overcast (39,71)
+Page 810 (type diary) http://wd3.herokuapp.com/pages/AWD0001cni  ----------
+  24 Mar 1916 22
+    place:Les Brebis (7,27)
+    unit:Infantry (30,31)
+    activity:repair (25,38)
+    activity:repair (46,54)
+    weather:cold (41,81)
+Page 811 (type diary) http://wd3.herokuapp.com/pages/AWD0001chg  ----------
+  25 Mar 1916 23
+    place:Les Brebis (7,25)
+    activity:repair (34,37)
+    unit:4/1 Lowland Field Coy R.E.(T) (66,45)
+    unit:4/1 Lowland Field Reg (65,80)
+    weather:overcast (43,83)
+Page 812 (type diary) http://wd3.herokuapp.com/pages/AWD0001cg3  ----------
+  26 Mar 1916 23
+    place:Les Brebis (8,27)
+    activity:repair (43,35)
+    activity:construction (23,39)
+    activity:construction (40,43)
+    weather:rain (47,89)
+Page 813 (type diary) http://wd3.herokuapp.com/pages/AWD0001cm5  ----------
+  27 Mar 1916 22
+    place:Les Brebis (6,25)
+    activity:repair (44,31)
+    activity:construction (41,41)
+    weather:rain (44,85)
+Page 814 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmo  ----------
+  28 Mar 1916 22
+    place:Les Brebis (6,25)
+    activity:construction (40,37)
+    weather:overcast (46,79)
+Page 815 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckp  ----------
+  29 Mar 1916 22
+    place:Les Brebis (6,26)
+    activity:repair (47,32)
+    unit:Infantry (37,35)
+    activity:construction (55,40)
+    weather:overcast (46,95)
+Page 816 (type diary) http://wd3.herokuapp.com/pages/AWD0001cje  ----------
+  30 Mar 1916 23
+    place:Les Brebis (7,26)
+    weather:fine (44,88)
+Page 817 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9t  ----------
+  31 Mar 1916 23
+    place:Les Brebis (6,26)
+    activity:construction (36,45)
+    weather:fine (43,87)
+    person:Captain W Downs (64,90)
+Page 818 (type cover)
+Page 819 (type cover)
+Page 820 (type diary) http://wd3.herokuapp.com/pages/AWD0001cf2  ----------
+  1 Apr 1916 23
+    place:Les Brebis (7,27)
+    activity:construction (35,46)
+    weather:fine (44,91)
+Page 821 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjw  ----------
+  2 Apr 1916 22
+    place:Les Brebis (8,28)
+    activity:construction (47,41)
+    weather:fine (44,77)
+Page 822 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckx  ----------
+  3 Apr 1916 28
+    place:Les Brebis (6,25)
+    weather:fine (45,82)
+Page 823 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfp  ----------
+  4 Apr 1916 22
+    place:Les Brebis (6,26)
+    activity:construction (51,43)
+    weather:overcast (51,89)
+Page 824 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdo  ----------
+  5 Apr 1916 23
+    place:Les Brebis (6,26)
+    activity:construction (24,43)
+    weather:overcast (43,87)
+Page 825 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnb  ----------
+  6 Apr 1916 21
+    place:Les Brebis (8,28)
+    activity:construction (46,37)
+    activity:construction (52,44)
+    weather:overcast (46,85)
+Page 826 (type diary) http://wd3.herokuapp.com/pages/AWD0001ci9  ----------
+  7 Apr 1916 22
+    place:Les Brebis (6,28)
+    activity:construction (51,39)
+    activity:construction (45,53)
+    weather:overcast (48,90)
+Page 827 (type diary) http://wd3.herokuapp.com/pages/AWD0001chs  ----------
+  8 Apr 1916 23
+    place:Les Brebis (7,28)
+    activity:construction (28,52)
+    weather:fine (56,94)
+Page 828 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccu  ----------
+  9 Apr 1916 22
+    place:Les Brebis (7,28)
+    activity:construction (33,46)
+    weather:fine (56,90)
+Page 829 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnn  ----------
+  10 Apr 1916 23
+    place:Les Brebis (7,28)
+    activity:repair (24,36)
+    activity:construction (52,43)
+    weather:fine (42,76)
+Page 830 (type diary) http://wd3.herokuapp.com/pages/AWD0001clf  ----------
+  11 Apr 1916 22
+    place:Les Brebis (7,26)
+    place:Les Brebis (6,29)
+    activity:fire (78,42)
+    activity:construction (44,46)
+    weather:overcast (46,85)
+Page 831 (type diary) http://wd3.herokuapp.com/pages/AWD0001cde  ----------
+  12 Apr 1916 22
+    place:Les Brebis (8,26)
+    activity:repair (44,32)
+    activity:construction (51,43)
+    weather:rain (45,77)
+    weather:rain (37,77)
+Page 832 (type diary) http://wd3.herokuapp.com/pages/AWD0001cl6  ----------
+  13 Apr 1916 21
+    place:Les Brebis (6,27)
+    activity:construction (27,41)
+    weather:rain (44,84)
+Page 833 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbt  ----------
+  14 Apr 1916 22
+    place:Les Brebis (6,27)
+Page 834 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgo  ----------
+  15 Apr 1916 22
+    place:Les Brebis (7,26)
+    activity:construction (40,43)
+    weather:overcast (43,76)
+    weather:overcast (47,77)
+Page 835 (type diary) http://wd3.herokuapp.com/pages/AWD0001cji  ----------
+  16 Apr 1916 23
+    place:Les Brebis (7,26)
+    activity:construction (44,43)
+    weather:fine (51,85)
+    weather:fine (44,85)
+Page 836 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9d  ----------
+  17 Apr 1916 24
+    place:Les Brebis (9,27)
+    activity:construction (46,43)
+    weather:overcast (47,83)
+Page 837 (type diary) http://wd3.herokuapp.com/pages/AWD0001cd2  ----------
+  18 Apr 1916 25
+    place:Les Brebis (8,28)
+    activity:construction (49,53)
+    weather:overcast (60,91)
+Page 838 (type diary) http://wd3.herokuapp.com/pages/AWD0001ci4  ----------
+  19 Apr 1916 24
+    place:Les Brebis (7,28)
+    activity:construction (45,43)
+    weather:overcast (43,89)
+Page 839 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8p  ----------
+  20 Apr 1916 24
+    place:Les Brebis (9,28)
+    activity:construction (60,60)
+    weather:overcast (47,85)
+Page 840 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdx  ----------
+  21 Apr 1916 24
+    place:Les Brebis (6,27)
+    activity:construction (25,44)
+    weather:overcast (72,92)
+Page 841 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8h  ----------
+  22 Apr 1916 25
+    place:Les Brebis (6,27)
+Page 842 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9g  ----------
+  23 Apr 1916 25
+    place:Les Brebis (8,28)
+    activity:construction (30,43)
+    activity:construction (42,47)
+    activity:construction (49,76)
+    weather:fine (50,85)
+Page 843 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9i  ----------
+  24 Apr 1916 23
+    place:Les Brebis (8,27)
+    weather:fine (45,83)
+Page 844 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccw  ----------
+  25 Apr 1916 24
+    place:Les Brebis (8,27)
+    activity:construction (30,36)
+    activity:construction (47,41)
+    weather:fine (46,80)
+Page 845 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnc  ----------
+  26 Apr 1916 25
+    place:Les Brebis (6,27)
+    activity:repair (41,33)
+    activity:construction (43,50)
+    activity:construction (29,54)
+    weather:fine (52,91)
+Page 846 (type diary) http://wd3.herokuapp.com/pages/AWD0001ce1  ----------
+  27 Apr 1916 24
+    place:Les Brebis (8,28)
+    activity:repair (56,37)
+    weather:fine (45,88)
+Page 847 (type diary) http://wd3.herokuapp.com/pages/AWD0001cav  ----------
+  28 Apr 1916 24
+    place:Les Brebis (8,28)
+    activity:construction (33,43)
+    activity:construction (26,52)
+    weather:fine (44,81)
+Page 848 (type diary) http://wd3.herokuapp.com/pages/AWD0001cf5  ----------
+  29 Apr 1916 24
+    place:Les Brebis (7,25)
+    place:Les Brebis (8,31)
+    activity:repair (41,37)
+    activity:repair (38,62)
+    weather:fine (46,83)
+Page 849 (type diary) http://wd3.herokuapp.com/pages/AWD0001cml  ----------
+  30 Apr 1916 23
+    place:Les Brebis (6,27)
+    activity:repair (43,36)
+    activity:construction (30,46)
+    weather:fine (43,76)
+    person:Captain W Downs (54,82)
+Page 850 (type cover)
+Page 851 (type cover)
+Page 852 (type diary) http://wd3.herokuapp.com/pages/AWD0001cj3  ----------
+  1 May 1916 24
+    place:Les Brebis (7,26)
+    activity:construction (41,35)
+    activity:construction (54,47)
+    unit:Krr (78,65)
+    activity:construction (43,77)
+    activity:construction (42,84)
+    activity:construction (47,87)
+    weather:fine (46,91)
+Page 853 (type diary) http://wd3.herokuapp.com/pages/AWD0001ck8  ----------
+  2 May 1916 24
+    place:Les Brebis (9,27)
+    activity:construction (32,46)
+Page 854 (type diary) http://wd3.herokuapp.com/pages/AWD0001cec  ----------
+  3 May 1916 22
+    place:Les Brebis (7,26)
+    activity:construction (38,33)
+    activity:construction (25,58)
+    weather:fine (43,86)
+Page 855 (type diary) http://wd3.herokuapp.com/pages/AWD0001cli  ----------
+  4 May 1916 22
+    place:Les Brebis (6,26)
+    activity:construction (42,42)
+    weather:fine (44,75)
+Page 856 (type diary) http://wd3.herokuapp.com/pages/AWD0001cea  ----------
+  5 May 1916 23
+    place:Les Brebis (6,27)
+    activity:construction (40,48)
+    weather:overcast (61,92)
+Page 857 (type diary) http://wd3.herokuapp.com/pages/AWD0001cc1  ----------
+  6 May 1916 22
+    place:Les Brebis (7,27)
+    activity:construction (42,48)
+    weather:overcast (48,84)
+Page 858 (type diary) http://wd3.herokuapp.com/pages/AWD0001ce7  ----------
+  7 May 1916 26
+    place:Les Brebis (7,32)
+    activity:construction (42,49)
+    weather:fine (50,85)
+Page 859 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8o  ----------
+  8 May 1916 28
+    place:Les Brebis (7,32)
+    activity:construction (29,57)
+    weather:cold (58,94)
+    weather:rain (71,96)
+Page 860 (type diary) http://wd3.herokuapp.com/pages/AWD0001cha  ----------
+  9 May 1916 26
+    place:Les Brebis (7,32)
+    unit:3 Brigade Machine Gunners (38,77)
+    place:Grenay (61,79)
+    weather:rain (50,87)
+    weather:cold (43,89)
+Page 861 (type diary) http://wd3.herokuapp.com/pages/AWD0001ce4  ----------
+  10 May 1916 26
+    place:Les Brebis (6,32)
+    activity:repair (44,45)
+    weather:rain (53,83)
+    weather:cold (48,84)
+Page 862 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckz  ----------
+  11 May 1916 27
+    place:Les Brebis (8,32)
+    activity:construction (48,83)
+    weather:fine (54,90)
+Page 863 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8z  ----------
+  12 May 1916 25
+    place:Les Brebis (8,31)
+    weather:fine (46,89)
+Page 864 (type diary) http://wd3.herokuapp.com/pages/AWD0001ca5  ----------
+  13 May 1916 26
+    place:Les Brebis (7,32)
+    activity:construction (49,49)
+    weather:overcast (48,89)
+Page 865 (type diary) http://wd3.herokuapp.com/pages/AWD0001cf1  ----------
+  14 May 1916 30
+    place:Les Brebis (8,33)
+    activity:repair (20,38)
+    activity:construction (47,45)
+    weather:fine (50,89)
+Page 866 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgb  ----------
+  15 May 1916 27
+    place:Les Brebis (8,32)
+    activity:construction (46,54)
+    weather:fine (47,81)
+Page 867 (type diary) http://wd3.herokuapp.com/pages/AWD0001ca7  ----------
+  16 May 1916 26
+    place:Les Brebis (8,32)
+    weather:cold (48,81)
+Page 868 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjr  ----------
+  17 May 1916 22
+    place:Les Brebis (7,26)
+    activity:construction (34,79)
+    weather:fine (44,91)
+Page 869 (type diary) http://wd3.herokuapp.com/pages/AWD0001c89  ----------
+  18 May 1916 23
+    place:Les Brebis (8,26)
+    weather:hot (46,86)
+Page 870 (type diary) http://wd3.herokuapp.com/pages/AWD0001cct  ----------
+  19 May 1916 23
+    place:Les Brebis (5,26)
+    place:Les Brebis (7,29)
+    activity:construction (47,44)
+    activity:repair (20,53)
+    weather:fine (58,92)
+Page 871 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgv  ----------
+  20 May 1916 25
+    place:Les Brebis (8,27)
+    activity:construction (52,39)
+    activity:construction (59,47)
+    activity:construction (29,55)
+    activity:construction (50,74)
+    weather:fine (53,87)
+    weather:fine (48,88)
+Page 872 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjb  ----------
+  21 May 1916 23
+    place:Les Brebis (6,26)
+    activity:construction (28,38)
+    weather:hot (41,90)
+Page 873 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8v  ----------
+  22 May 1916 22
+    place:Les Brebis (8,25)
+    activity:construction (42,41)
+    activity:construction (42,53)
+    weather:fine (47,63)
+Page 874 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfh  ----------
+  22 May 1916 0
+  23 May 1916 27
+    place:Les Brebis (8,32)
+    activity:construction (39,44)
+    activity:repair (30,56)
+    weather:fine (44,68)
+    weather:fine (49,69)
+Page 875 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmk  ----------
+  23 May 1916 0
+  24 May 1916 27
+    place:Les Brebis (7,32)
+    activity:construction (45,55)
+Page 876 (type diary) http://wd3.herokuapp.com/pages/AWD0001c94  ----------
+  25 May 1916 28
+    place:Les Brebis (6,33)
+    activity:construction (26,47)
+    weather:overcast (45,88)
+Page 877 (type diary) http://wd3.herokuapp.com/pages/AWD0001ce0  ----------
+  26 May 1916 27
+    place:Les Brebis (7,31)
+    activity:construction (30,55)
+    weather:overcast (48,88)
+Page 878 (type diary) http://wd3.herokuapp.com/pages/AWD0001cht  ----------
+  27 May 1916 27
+    place:Les Brebis (7,32)
+    activity:construction (28,41)
+    activity:construction (53,76)
+    weather:fine (47,92)
+Page 879 (type diary) http://wd3.herokuapp.com/pages/AWD0001cew  ----------
+  27 May 1916 0
+  28 May 1916 28
+    activity:construction (36,46)
+    weather:fine (47,77)
+Page 880 (type diary) http://wd3.herokuapp.com/pages/AWD0001ciz  ----------
+  29 May 1916 27
+    place:Les Brebis (7,32)
+    activity:construction (40,42)
+    weather:fine (48,79)
+    weather:fine (45,82)
+Page 881 (type diary) http://wd3.herokuapp.com/pages/AWD0001cek  ----------
+  30 May 1916 25
+    place:Les Brebis (8,30)
+    activity:construction (36,49)
+    weather:overcast (50,68)
+    weather:fine (68,68)
+Page 882 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckd  ----------
+  31 May 1916 28
+    place:Les Brebis (7,33)
+    activity:construction (53,53)
+    weather:fine (45,83)
+    weather:fine (50,84)
+Page 883 (type cover)
+Page 884 (type cover)
+Page 885 (type diary) http://wd3.herokuapp.com/pages/AWD0001cln  ----------
+  1 Jun 1916 26
+    activity:construction (28,56)
+    weather:fine (45,89)
+Page 886 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgl  ----------
+  2 Jun 1916 28
+    activity:construction (44,49)
+    weather:fine (51,89)
+Page 887 (type diary) http://wd3.herokuapp.com/pages/AWD0001cn5  ----------
+  3 Jun 1916 25
+    place:Les Brebis (7,31)
+    activity:repair (38,40)
+    weather:fine (46,81)
+Page 888 (type diary) http://wd3.herokuapp.com/pages/AWD0001caq  ----------
+  4 Jun 1916 26
+    place:Les Brebis (8,33)
+    activity:construction (40,54)
+    activity:repair (34,67)
+    weather:overcast (50,88)
+Page 889 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfk  ----------
+  5 Jun 1916 24
+    place:Les Brebis (7,31)
+    activity:construction (29,56)
+    weather:overcast (49,88)
+Page 890 (type diary) http://wd3.herokuapp.com/pages/AWD0001c91  ----------
+  6 Jun 1916 25
+    place:Les Brebis (7,31)
+    place:Les brebis (6,32)
+    activity:repair (39,33)
+    activity:construction (30,41)
+    activity:construction (48,50)
+    weather:rain (48,87)
+Page 891 (type diary) http://wd3.herokuapp.com/pages/AWD0001ci2  ----------
+  7 Jun 1916 27
+    place:Les brebis (8,32)
+    activity:construction (30,58)
+    weather:fine (44,88)
+Page 892 (type diary) http://wd3.herokuapp.com/pages/AWD0001cac  ----------
+  8 Jun 1916 24
+    place:Les Brebis (7,30)
+    activity:repair (40,32)
+    activity:construction (48,55)
+    weather:overcast (47,89)
+Page 893 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdb  ----------
+  9 Jun 1916 27
+    activity:construction (41,49)
+    activity:resupplying (34,90)
+Page 894 (type diary) http://wd3.herokuapp.com/pages/AWD0001chb  ----------
+  10 Jun 1916 26
+    place:Les Brebis (7,32)
+    activity:repair (25,61)
+    activity:resupplying (48,85)
+    weather:rain (51,91)
+Page 895 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccp  ----------
+  11 Jun 1916 25
+    activity:repair (34,35)
+    activity:construction (29,54)
+Page 896 (type diary) http://wd3.herokuapp.com/pages/AWD0001cig  ----------
+  12 Jun 1916 27
+    activity:construction (43,44)
+Page 897 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjx  ----------
+  13 Jun 1916 27
+    place:Les Brebis (8,31)
+    activity:construction (30,57)
+    weather:rain (47,87)
+Page 898 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdw  ----------
+  14 Jun 1916 26
+    place:Les brebis (7,31)
+    activity:construction (34,84)
+    activity:construction (33,87)
+    activity:resupplying (48,89)
+    weather:overcast (51,93)
+Page 899 (type diary) http://wd3.herokuapp.com/pages/AWD0001cb6  ----------
+  15 Jun 1916 23
+    place:Les Brebis (6,30)
+    place:Les brebis (7,33)
+    activity:repair (39,34)
+    activity:construction (30,54)
+    weather:overcast (49,88)
+    weather:overcast (51,90)
+Page 900 (type diary) http://wd3.herokuapp.com/pages/AWD0001clq  ----------
+  16 Jun 1916 23
+    place:Les Brebis (6,29)
+    place:Les brebis (8,32)
+    activity:construction (27,41)
+    activity:construction (28,89)
+    weather:overcast (53,92)
+    weather:fine (66,92)
+Page 901 (type diary) http://wd3.herokuapp.com/pages/AWD0001ca0  ----------
+  17 Jun 1916 27
+    place:Les Brebis (7,32)
+    activity:construction (26,56)
+    weather:fine (45,88)
+Page 902 (type diary) http://wd3.herokuapp.com/pages/AWD0001cb4  ----------
+  18 Jun 1916 26
+    place:Les Brebis (7,29)
+    place:Les brebis (9,32)
+    activity:construction (46,43)
+    weather:overcast (52,88)
+    weather:fine (62,88)
+Page 903 (type diary) http://wd3.herokuapp.com/pages/AWD0001ci3  ----------
+  19 Jun 1916 30
+    place:Les Brebis (7,32)
+    activity:construction (43,44)
+    weather:overcast (48,85)
+Page 904 (type diary) http://wd3.herokuapp.com/pages/AWD0001clz  ----------
+  20 Jun 1916 27
+    place:Les Brebis (7,32)
+    activity:construction (43,46)
+    weather:overcast (47,89)
+Page 905 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfi  ----------
+  21 Jun 1916 28
+    place:Les Brebis (6,32)
+    place:Les Brebis (9,33)
+    weather:fine (50,92)
+Page 906 (type diary) http://wd3.herokuapp.com/pages/AWD0001chn  ----------
+  22 Jun 1916 26
+    place:Les Brebis (6,31)
+    activity:repair (50,36)
+    activity:construction (43,47)
+    weather:fine (51,92)
+Page 907 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmg  ----------
+  23 Jun 1916 27
+    place:Les Brebis (7,31)
+    activity:repair (28,38)
+    weather:rain (67,93)
+    weather:fine (56,95)
+Page 908 (type diary) http://wd3.herokuapp.com/pages/AWD0001cc4  ----------
+  24 Jun 1916 29
+    place:Les Brebis (8,32)
+    activity:repair (30,43)
+    activity:resupplying (34,72)
+    weather:overcast (44,87)
+Page 909 (type diary) http://wd3.herokuapp.com/pages/AWD0001chz  ----------
+  25 Jun 1916 30
+    place:Les Brebis (7,32)
+    activity:repair (39,36)
+    activity:construction (45,51)
+    weather:fine (48,92)
+Page 910 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnt  ----------
+  26 Jun 1916 28
+    place:Les Brebis (6,32)
+    activity:construction (29,52)
+    weather:overcast (44,89)
+Page 911 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9j  ----------
+  27 Jun 1916 29
+    place:Les Brebis (7,32)
+    activity:construction (27,42)
+    activity:construction (48,54)
+    weather:overcast (51,82)
+Page 912 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbr  ----------
+  28 Jun 1916 30
+    place:Les Brebis (8,33)
+    activity:repair (33,37)
+    activity:repair (26,48)
+    activity:construction (41,61)
+    weather:overcast (48,88)
+Page 913 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgq  ----------
+  29 Jun 1916 31
+    place:Les Brebis (7,34)
+    activity:repair (45,39)
+    activity:repair (29,52)
+    weather:fine (47,87)
+Page 914 (type diary) http://wd3.herokuapp.com/pages/AWD0001chu  ----------
+  30 Jun 1916 30
+    place:Les Brebis (7,34)
+    activity:construction (30,56)
+Page 915 (type diary) http://wd3.herokuapp.com/pages/AWD0001cl3  ----------
+  30 Jun 1916 28
+    activity:construction (44,51)
+    weather:overcast (49,82)
+    person:Captain W Downs (66,87)
+Page 916 (type cover)
+Page 917 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdu  ----------
+  1 Jul 1916 31
+    place:Les Brebis (6,32)
+    activity:construction (36,49)
+    weather:fine (47,86)
+Page 918 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckc  ----------
+  2 Jul 1916 28
+    place:Les Brebis (7,32)
+    activity:construction (51,49)
+    weather:fine (52,93)
+Page 919 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8y  ----------
+  3 Jul 1916 25
+    place:Les Brebis (7,32)
+    activity:construction (48,56)
+    activity:resupplying (29,71)
+    unit:224 f coy re (47,82)
+    unit:224 field company re (51,82)
+    place:Lapugnoy (5,83)
+    weather:fine (52,89)
+Page 920 (type diary) http://wd3.herokuapp.com/pages/AWD0001chk  ----------
+  4 Jul 1916 26
+    place:Lapugnoy (7,30)
+    domestic:inspections (23,30)
+    activity:movement (43,37)
+  5 Jul 1916 44
+    weather:fine (45,44)
+    weather:rain (64,44)
+    domestic:parades (25,51)
+    place:Lapugnoy (7,52)
+    weather:rain (42,58)
+  6 Jul 1916 61
+    place:Lapugnoy (6,67)
+    activity:movement (47,69)
+    activity:movement (34,71)
+    weather:fine (42,74)
+  7 Jul 1916 82
+    place:Montonvillers (5,83)
+    activity:movement (24,83)
+    weather:rain (43,91)
+Page 921 (type diary) http://wd3.herokuapp.com/pages/AWD0001cf9  ----------
+  8 Jul 1916 25
+    activity:movement (32,29)
+    place:Montonvillers (5,29)
+    weather:fine (41,32)
+  9 Jul 1916 36
+    activity:movement (27,40)
+    domestic:hygiene (72,40)
+    place:Frechencourt (5,40)
+    weather:fine (43,43)
+  10 Jul 1916 48
+    domestic:inspections (37,51)
+    domestic:hygiene (44,51)
+    place:Frechencourt (6,52)
+    weather:fine (43,55)
+  11 Jul 1916 60
+    domestic:inspections (26,63)
+    place:Frechencourt (6,64)
+    unit:101 field coy re (31,68)
+    weather:overcast (40,70)
+  12 Jul 1916 76
+    activity:movement (33,79)
+    place:Albert (7,80)
+    activity:movement (27,83)
+    weather:fine (41,87)
+Page 922 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbu  ----------
+  13 Jul 1916 25
+    place:Albert (7,29)
+    activity:working (36,35)
+    weather:fine (44,47)
+  14 Jul 1916 50
+    place:Albert (8,56)
+    weather:overcast (42,61)
+  15 Jul 1916 68
+    place:Albert (7,71)
+    activity:working (31,74)
+    weather:overcast (44,85)
+Page 923 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdq  ----------
+  16 Jul 1916 25
+    place:Albert (6,29)
+    weather:overcast (44,42)
+  17 Jul 1916 45
+    place:Albert (7,51)
+    weather:overcast (40,59)
+  18 Jul 1916 63
+    place:Albert (6,67)
+    activity:working (60,69)
+    activity:construction (23,74)
+    weather:overcast (45,82)
+Page 924 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdt  ----------
+  19 Jul 1916 25
+    place:Becourt (8,30)
+    activity:working (34,36)
+    weather:fine (44,50)
+  20 Jul 1916 54
+    place:Becourt (7,59)
+    weather:fine (42,69)
+  21 Jul 1916 73
+    place:Becourt (7,78)
+    activity:repair (43,82)
+    weather:fine (54,92)
+Page 925 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccn  ----------
+  22 Jul 1916 25
+    place:Becourt (5,28)
+    activity:working (37,30)
+    activity:construction (22,36)
+    unit:Advanced Battery hq (34,36)
+    weather:fine (41,47)
+  23 Jul 1916 50
+    place:Becourt (6,55)
+  21 Jul 1916 0
+  23 Jul 1916 50
+    weather:fine (42,67)
+  24 Jul 1916 71
+    place:Becourt (6,75)
+    activity:working (45,76)
+    unit:26 field company re (46,87)
+    weather:fine (44,89)
+Page 926 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmv  ----------
+  25 Jul 1916 24
+    place:Becourt (7,28)
+    weather:fine (43,57)
+  26 Jul 1916 61
+    place:Franvillers (6,66)
+    activity:movement (50,67)
+  27 Jul 1916 77
+    place:Franvillers (6,81)
+    activity:resting (28,82)
+    weather:fine (45,86)
+Page 927 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdd  ----------
+  28 Jul 1916 24
+    place:Franvillers (6,28)
+  29 Jul 1916 35
+    place:Franvillers (6,39)
+    domestic:inspections (61,40)
+    activity:movement (25,41)
+    weather:hot (45,42)
+  30 Jul 1916 47
+    domestic:hygiene (24,51)
+    domestic:inspections (50,51)
+    activity:training (69,51)
+    activity:movement (45,58)
+    weather:fine (45,66)
+  31 Jul 1916 70
+    place:Henencourt Wood (7,75)
+    domestic:inspections (58,75)
+    activity:other (32,75)
+    weather:fine (48,79)
+    person:Captain W Downs (commander) (67,86)
+Page 928 (type cover)
+Page 929 (type cover)
+Page 930 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckn  ----------
+  1 Aug 1916 24
+    activity:construction (32,32)
+    activity:construction (40,40)
+    weather:hot (43,47)
+  2 Aug 1916 55
+    place:Henencourt Wood (7,58)
+    activity:construction (28,59)
+    domestic:inspections (52,66)
+    weather:hot (47,74)
+Page 931 (type diary) http://wd3.herokuapp.com/pages/AWD0001cd3  ----------
+  3 Aug 1916 30
+    activity:construction (29,33)
+    domestic:inspections (36,36)
+    weather:fine (48,47)
+  4 Aug 1916 54
+    place:Henencourt Wood (9,58)
+    domestic:sport (33,66)
+    weather:fine (46,74)
+Page 932 (type diary) http://wd3.herokuapp.com/pages/AWD0001cds  ----------
+  5 Aug 1916 26
+    place:Henencourt (6,30)
+    weather:fine (50,37)
+  6 Aug 1916 41
+    place:Henencourt Wood (6,44)
+    domestic:sport (64,47)
+    activity:working (26,47)
+  7 Aug 1916 58
+    place:Henencourt Wood (6,62)
+    domestic:inspections (76,66)
+  8 Aug 1916 75
+    place:Henencourt Wood (6,78)
+    domestic:hygiene (27,83)
+Page 933 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbx  ----------
+  9 Aug 1916 29
+    place:Henencourt Wood (7,30)
+    place:Henencourt Wood (41,31)
+    activity:construction (28,32)
+    weather:fine (49,40)
+  10 Aug 1916 49
+    place:Henencourt Wood (65,51)
+    place:Henencourt Wood (7,51)
+    activity:construction (32,52)
+    weather:overcast (47,58)
+  11 Aug 1916 64
+    place:Henencourt Wood (5,68)
+    place:Henencourt Wood (63,71)
+    activity:working (37,73)
+    domestic:sport (28,79)
+    weather:fine (49,86)
+Page 934 (type diary) http://wd3.herokuapp.com/pages/AWD0001cm3  ----------
+  12 Aug 1916 28
+    activity:working (33,33)
+    weather:overcast (58,39)
+  13 Aug 1916 42
+    domestic:inspections (48,47)
+    domestic:religion (72,47)
+    activity:movement (36,51)
+    unit:209 f coy re (64,52)
+    unit:209 field company re (68,52)
+    weather:overcast (53,55)
+    weather:fine (64,55)
+  14 Aug 1916 59
+    place:Henencourt Wood (7,62)
+    domestic:inspections (63,66)
+    activity:working (30,66)
+    weather:overcast (50,74)
+  15 Aug 1916 75
+    activity:movement (30,80)
+    activity:reconnoitered (54,82)
+    weather:overcast (50,89)
+Page 935 (type diary) http://wd3.herokuapp.com/pages/AWD0001cng  ----------
+  16 Aug 1916 27
+    activity:construction (32,32)
+    gridRef:X_27_C_4_4 (5,32)
+    place:Fricourt (8,35)
+    activity:repair (43,39)
+    weather:overcast (55,54)
+  17 Aug 1916 55
+    activity:construction (32,63)
+    weather:overcast (55,89)
+Page 936 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdh  ----------
+  18 Aug 1916 27
+    gridRef:X_27_C_4_4 (6,31)
+    activity:construction (49,34)
+    place:Fricourt (6,36)
+    activity:construction (24,38)
+    weather:overcast (53,51)
+  19 Aug 1916 55
+    activity:construction (21,62)
+    activity:fire (29,68)
+    weather:fine (50,81)
+Page 937 (type diary) http://wd3.herokuapp.com/pages/AWD0001cam  ----------
+  20 Aug 1916 28
+    activity:fire (68,32)
+    place:Fricourt (4,36)
+    weather:fine (55,51)
+  21 Aug 1916 56
+    gridRef:X_27_C_4_4 (5,59)
+    unit:26 field company re (41,60)
+    activity:repair (30,63)
+Page 938 (type diary) http://wd3.herokuapp.com/pages/AWD0001c95  ----------
+  22 Aug 1916 28
+    place:Fricourt (8,37)
+    weather:fine (58,47)
+  23 Aug 1916 52
+    gridRef:X_27_C_4_4 (8,56)
+    activity:repair (36,63)
+    activity:construction (25,71)
+    weather:fine (56,81)
+Page 939 (type diary) http://wd3.herokuapp.com/pages/AWD0001chx  ----------
+  24 Aug 1916 27
+    activity:repair (26,32)
+    weather:fine (50,70)
+  25 Aug 1916 71
+    activity:repair (47,82)
+    weather:overcast (53,93)
+Page 940 (type diary) http://wd3.herokuapp.com/pages/AWD0001cim  ----------
+  25 Aug 1916 28
+    activity:repair (31,33)
+    gridRef:X_27_C_4_4 (7,33)
+    activity:construction (30,39)
+    weather:overcast (57,56)
+  26 Aug 1916 61
+    weather:overcast (54,86)
+Page 941 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnv  ----------
+  27 Aug 1916 24
+    activity:repair (27,34)
+    weather:overcast (54,69)
+Page 942 (type diary) http://wd3.herokuapp.com/pages/AWD0001ck5  ----------
+  28 Aug 1916 27
+    activity:construction (32,32)
+    weather:rain (51,54)
+  29 Aug 1916 55
+    activity:repair (32,63)
+    activity:construction (29,71)
+    weather:rain (50,93)
+Page 943 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccd  ----------
+  30 Aug 1916 28
+    activity:repair (28,32)
+    gridRef:X_27_C_4_4 (7,32)
+    activity:construction (30,42)
+    weather:rain (54,61)
+  31 Aug 1916 63
+    activity:construction (31,78)
+    weather:fine (53,88)
+    weather:fine (60,89)
+    unit:23 field company re (20,91)
+    person:Captain W Downs (commander) (77,93)
+Page 944 (type cover)
+Page 945 (type cover)
+Page 946 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmb  ----------
+  1 Sep 1916 26
+    gridRef:X_27_C_4_4 (6,32)
+    activity:construction (59,36)
+    weather:fine (51,58)
+  2 Sep 1916 60
+    activity:construction (48,69)
+    activity:repair (31,79)
+    unit:23 field company re (69,86)
+    weather:fine (54,89)
+    weather:fine (60,90)
+Page 947 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnu  ----------
+  3 Sep 1916 26
+    activity:construction (45,45)
+    weather:fine (55,86)
+Page 948 (type diary) http://wd3.herokuapp.com/pages/AWD0001cj1  ----------
+  4 Sep 1916 28
+    activity:construction (24,56)
+    weather:overcast (55,88)
+Page 949 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8a  ----------
+  5 Sep 1916 27
+    gridRef:X_27_C_4_4 (7,32)
+    activity:construction (37,37)
+    weather:overcast (52,54)
+  6 Sep 1916 55
+    domestic:hygiene (33,59)
+    activity:construction (38,66)
+    activity:repair (33,79)
+    weather:fine (59,94)
+Page 950 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnq  ----------
+  7 Sep 1916 27
+    gridRef:X_27_C_4_4 (6,32)
+    activity:repair (28,37)
+    activity:construction (40,44)
+    weather:fine (53,58)
+  8 Sep 1916 59
+    activity:repair (30,70)
+    weather:fine (54,89)
+Page 951 (type diary) http://wd3.herokuapp.com/pages/AWD0001ca6  ----------
+  9 Sep 1916 28
+    gridRef:X_27_C_4_4 (10,32)
+    activity:repair (34,36)
+    activity:construction (30,42)
+    weather:fine (53,57)
+  10 Sep 1916 59
+    activity:repair (32,76)
+    weather:fine (57,89)
+Page 952 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfw  ----------
+  11 Sep 1916 27
+    activity:repair (45,39)
+    weather:fine (53,57)
+  12 Sep 1916 58
+    activity:repair (27,68)
+    weather:overcast (54,87)
+Page 953 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjc  ----------
+  13 Sep 1916 28
+    weather:overcast (51,44)
+  14 Sep 1916 47
+    unit:1/3 London Field Co Royal Engineers (50,50)
+    unit:1/3 london f coy re (56,51)
+    unit:1/3 lodno field company re (62,52)
+    activity:movement (31,53)
+    weather:fine (49,59)
+  15 Sep 1916 62
+    place:Baizieux (6,67)
+    domestic:accomodation (37,67)
+    weather:fine (53,72)
+  16 Sep 1916 74
+    domestic:inspections (81,77)
+    place:Baizieux (7,79)
+    activity:training (31,80)
+    weather:fine (51,88)
+Page 954 (type diary) http://wd3.herokuapp.com/pages/AWD0001cce  ----------
+  17 Sep 1916 27
+    place:Baizieux (6,32)
+    weather:fine (53,71)
+Page 955 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgc  ----------
+  18 Sep 1916 28
+    activity:training (32,32)
+    place:Baizieux (6,32)
+    weather:overcast (55,51)
+  19 Sep 1916 55
+    activity:training (44,61)
+    place:Baizieux (7,61)
+    unit:1/3 lodno field company re (36,67)
+    unit:1/3 London Field Co Royal Engineers (30,68)
+    weather:overcast (54,75)
+Page 956 (type diary) http://wd3.herokuapp.com/pages/AWD0001cn0  ----------
+  20 Sep 1916 29
+    activity:movement (29,32)
+    activity:movement (46,34)
+    weather:rain (53,43)
+  21 Sep 1916 53
+    gridRef:X_27_C_5_5 (7,57)
+    weather:fine (52,75)
+Page 957 (type diary) http://wd3.herokuapp.com/pages/AWD0001ced  ----------
+  22 Sep 1916 28
+    gridRef:X_27_C_5_5 (6,33)
+    activity:repair (36,39)
+    weather:fine (52,82)
+Page 958 (type diary) http://wd3.herokuapp.com/pages/AWD0001cc5  ----------
+  23 Sep 1916 28
+    gridRef:X_27_C_5_5 (7,33)
+    activity:repair (65,36)
+    activity:construction (26,38)
+    weather:fine (52,51)
+  24 Sep 1916 57
+    activity:construction (35,71)
+    activity:repair (29,79)
+    weather:fine (67,92)
+    weather:fine (57,93)
+Page 959 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbd  ----------
+  25 Sep 1916 30
+    gridRef:X_27_C_5_5 (10,34)
+    activity:repair (42,37)
+    weather:fine (52,51)
+  26 Sep 1916 54
+    activity:repair (35,63)
+    unit:2 K.R.R. (31,72)
+    unit:2 krr (35,73)
+Page 960 (type diary) http://wd3.herokuapp.com/pages/AWD0001cg2  ----------
+  27 Sep 1916 28
+    gridRef:X_27_C_5_5 (7,34)
+    weather:fine (59,58)
+  28 Sep 1916 63
+    weather:fine (75,92)
+Page 961 (type diary) http://wd3.herokuapp.com/pages/AWD0001cii  ----------
+  29 Sep 1916 28
+    gridRef:X_27_C_5_5 (6,32)
+    activity:repair (36,33)
+    activity:construction (24,46)
+    weather:fine (72,51)
+    weather:overcast (57,52)
+  30 Sep 1916 54
+    activity:repair (25,62)
+    weather:fine (60,90)
+Page 962 (type cover)
+Page 963 (type cover)
+Page 964 (type diary) http://wd3.herokuapp.com/pages/AWD0001cev  ----------
+  30 Sep 1916 0
+  1 Oct 1916 29
+    gridRef:X_27_C_5_5 (6,32)
+    activity:repair (41,41)
+    weather:fine (51,62)
+  2 Oct 1916 63
+Page 965 (type diary) http://wd3.herokuapp.com/pages/AWD0001cms  ----------
+  3 Oct 1916 26
+    activity:repair (34,37)
+    activity:construction (33,43)
+    weather:overcast (55,50)
+  4 Oct 1916 54
+    activity:working (33,62)
+    weather:overcast (51,76)
+Page 966 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckv  ----------
+  5 Oct 1916 27
+    gridRef:X_27_C_5_5 (7,33)
+    activity:working (36,34)
+  6 Oct 1916 55
+    activity:working (32,66)
+    weather:fine (51,81)
+Page 967 (type diary) http://wd3.herokuapp.com/pages/AWD0001caj  ----------
+  7 Oct 1916 29
+    gridRef:X_27_C_5_5 (7,34)
+    weather:fine (61,54)
+    weather:overcast (50,55)
+  8 Oct 1916 58
+    weather:overcast (47,86)
+Page 968 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8l  ----------
+  9 Oct 1916 29
+    gridRef:X_27_C_5_5 (9,34)
+    activity:working (43,37)
+    weather:fine (55,52)
+  10 Oct 1916 59
+    activity:working (39,63)
+    weather:fine (55,77)
+Page 969 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckb  ----------
+  11 Oct 1916 29
+    gridRef:X_27_C_5_5 (7,33)
+    weather:fine (57,60)
+  12 Oct 1916 63
+    weather:overcast (49,88)
+Page 970 (type diary) http://wd3.herokuapp.com/pages/AWD0001ch1  ----------
+  13 Oct 1916 28
+    gridRef:X_27_C_5_5 (6,32)
+    activity:construction (49,55)
+    weather:fine (55,63)
+  14 Oct 1916 67
+    weather:overcast (53,91)
+    weather:overcast (59,93)
+Page 971 (type diary) http://wd3.herokuapp.com/pages/AWD0001c90  ----------
+  15 Oct 1916 28
+    gridRef:X_27_C_5_5 (7,33)
+    activity:construction (39,37)
+  16 Oct 1916 59
+    activity:construction (48,81)
+    weather:fine (74,93)
+Page 972 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8t  ----------
+  17 Oct 1916 28
+    weather:fine (53,61)
+  18 Oct 1916 64
+    activity:construction (25,68)
+    activity:construction (47,80)
+    activity:repair (76,89)
+    weather:fog (58,92)
+Page 973 (type diary) http://wd3.herokuapp.com/pages/AWD0001ch2  ----------
+  19 Oct 1916 28
+    gridRef:X_27_C_5_5 (7,32)
+    activity:construction (26,35)
+    activity:working (39,43)
+  20 Oct 1916 58
+    activity:construction (43,66)
+    unit:Pioneer Class (28,79)
+    weather:cold (56,88)
+Page 974 (type diary) http://wd3.herokuapp.com/pages/AWD0001ch3  ----------
+  21 Oct 1916 27
+    gridRef:X_27_C_5_5 (7,32)
+    activity:working (52,43)
+  22 Oct 1916 62
+    weather:fine (56,62)
+    activity:working (46,77)
+    weather:cold (64,89)
+Page 975 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfc  ----------
+  23 Oct 1916 29
+    gridRef:X_27_C_5_5 (8,34)
+    activity:working (46,40)
+    activity:construction (27,41)
+    unit:Pioneer Class (28,48)
+    weather:fog (54,55)
+  24 Oct 1916 59
+    activity:working (50,71)
+    domestic:inspections (33,77)
+    unit:Pioneer Class (23,86)
+    domestic:inspections (40,89)
+    weather:fog (55,91)
+Page 976 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfo  ----------
+  25 Oct 1916 28
+    gridRef:X_27_C_5_5 (5,34)
+    unit:Pioneer Class (24,56)
+    weather:fog (45,62)
+  26 Oct 1916 67
+    activity:construction (38,81)
+    unit:Pioneer Class (25,87)
+    weather:overcast (56,92)
+Page 977 (type diary) http://wd3.herokuapp.com/pages/AWD0001ce9  ----------
+  27 Oct 1916 28
+    gridRef:X_27_C_5_5 (7,33)
+    activity:construction (28,36)
+    activity:working (44,43)
+    unit:Pioneer Class (29,51)
+  28 Oct 1916 58
+    unit:Pioneer Class (24,89)
+    weather:cold (75,92)
+Page 978 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmy  ----------
+  29 Oct 1916 22
+    gridRef:X_27_C_5_5 (6,26)
+    activity:construction (30,42)
+    unit:Pioneer Class (26,48)
+    weather:rain (53,54)
+  30 Oct 1916 56
+    activity:working (40,66)
+    activity:construction (30,73)
+    unit:Pioneer Class (26,85)
+    weather:rain (68,89)
+Page 979 (type diary) http://wd3.herokuapp.com/pages/AWD0001ck7  ----------
+  30 Oct 1916 0
+  31 Oct 1916 21
+    gridRef:X_27_C_5_5 (6,26)
+    unit:8 dli (61,31)
+    unit:Pioneers Class (24,70)
+    weather:overcast (55,82)
+    person:Captain W Downs (commander) (76,89)
+Page 980 (type cover)
+Page 981 (type cover)
+Page 982 (type diary) http://wd3.herokuapp.com/pages/AWD0001cca  ----------
+  1 Nov 1916 21
+    gridRef:X_27_C_5_5 (7,24)
+    activity:construction (24,25)
+    unit:6 battalion dli (68,32)
+    mapRef:57DS SE Edit 2.b (7,32)
+    unit:Pioneer Class (30,68)
+    weather:overcast (53,81)
+Page 983 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgh  ----------
+  2 Nov 1916 20
+    gridRef:X_27_C_5_5 (8,27)
+    unit:Pioneer Class (22,69)
+    weather:fine (56,81)
+Page 984 (type diary) http://wd3.herokuapp.com/pages/AWD0001cai  ----------
+  3 Nov 1916 20
+    gridRef:X_27_C_5_5 (7,25)
+    activity:construction (36,33)
+    unit:Pioneer Class (26,55)
+    domestic:hygiene (35,75)
+    weather:overcast (54,87)
+Page 985 (type diary) http://wd3.herokuapp.com/pages/AWD0001clr  ----------
+  4 Nov 1916 22
+    gridRef:X_27_C_5_5 (7,27)
+    unit:Pioneer Class (30,59)
+    weather:fine (53,77)
+Page 986 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9e  ----------
+  5 Nov 1916 22
+    activity:construction (39,37)
+    unit:Pioneer Class (27,70)
+    weather:fine (58,87)
+Page 987 (type diary) http://wd3.herokuapp.com/pages/AWD0001cj8  ----------
+  6 Nov 1916 22
+    unit:Pioneer Class (25,61)
+    weather:rain (50,84)
+Page 988 (type diary) http://wd3.herokuapp.com/pages/AWD0001cik  ----------
+  6 Nov 1916 0
+  7 Nov 1916 23
+    activity:construction (37,24)
+    gridRef:X_27_C_5_5 (7,29)
+    unit:9 Northumberland Fusiliers (55,32)
+    activity:working (51,48)
+    unit:Pioneers Class (29,56)
+    weather:rain (59,75)
+Page 989 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbm  ----------
+  8 Nov 1916 24
+    activity:construction (52,27)
+    unit:5 Border Regiment (44,52)
+    unit:Pioneers Class (27,70)
+    weather:rain (57,86)
+Page 990 (type diary) http://wd3.herokuapp.com/pages/AWD0001cm2  ----------
+  9 Nov 1916 23
+    activity:construction (41,34)
+    place:Frechencourt (78,58)
+    unit:Pioneers Class (29,67)
+    weather:fine (58,80)
+Page 991 (type diary) http://wd3.herokuapp.com/pages/AWD0001cg9  ----------
+  10 Nov 1916 23
+    unit:5 Border Regiment (49,29)
+    activity:construction (38,35)
+    activity:construction (46,44)
+    unit:Pioneers Class (23,61)
+    weather:fine (54,83)
+Page 992 (type diary) http://wd3.herokuapp.com/pages/AWD0001ck0  ----------
+  11 Nov 1916 24
+    gridRef:X_27_C_5_5 (7,28)
+    unit:D L Infantry (59,30)
+    activity:construction (42,42)
+    place:Frechencourt (75,69)
+    unit:Pioneers Class (29,74)
+    weather:fine (56,87)
+Page 993 (type diary) http://wd3.herokuapp.com/pages/AWD0001cj9  ----------
+  12 Nov 1916 25
+    unit:6 dli (51,29)
+    unit:Pioneer Class (29,76)
+    weather:fog (59,89)
+Page 994 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccy  ----------
+  13 Nov 1916 23
+    unit:5 Border Regiment (68,28)
+    activity:construction (36,39)
+    activity:construction (56,51)
+    place:Frechencourt (70,58)
+    unit:Pioneers Class (24,72)
+    weather:fog (59,86)
+Page 995 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9s  ----------
+  14 Nov 1916 24
+    unit:9 D L I (63,33)
+    unit:6 D L I (84,33)
+    person:Captain W Johnstone (joined) (28,52)
+    activity:construction (33,64)
+    unit:Pioneers Class (33,71)
+    domestic:inspections (47,78)
+    weather:fine (48,82)
+Page 996 (type diary) http://wd3.herokuapp.com/pages/AWD0001co4  ----------
+  15 Nov 1916 22
+    activity:construction (21,32)
+    unit:8 D L I (72,33)
+    activity:construction (49,40)
+    place:Frechencourt (68,55)
+    activity:construction (45,56)
+    unit:Pioneers (23,68)
+Page 997 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnm  ----------
+  16 Nov 1916 23
+    activity:construction (55,46)
+    weather:fine (58,79)
+Page 998 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbg  ----------
+  17 Nov 1916 24
+    gridRef:X_27_C_5_5 (7,26)
+    unit:South Wales Borderers 365 (72,29)
+    weather:cold (54,86)
+Page 999 (type diary) http://wd3.herokuapp.com/pages/AWD0001c92  ----------
+  18 Nov 1916 22
+    unit:2 Munster Fusiliers (35,33)
+    activity:construction (44,42)
+    place:Bazentin (55,47)
+    activity:construction (49,65)
+    place:Frechencourt (25,73)
+    weather:rain (56,76)
+    weather:rain (55,79)
+Page 1000 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgj  ----------
+  19 Nov 1916 23
+    unit:2 bn welsh Regiment (41,27)
+    weather:overcast (54,84)
+Page 1001 (type diary) http://wd3.herokuapp.com/pages/AWD0001cee  ----------
+  20 Nov 1916 24
+    unit:Ist Gloucesters (48,30)
+    activity:construction (30,31)
+    activity:construction (49,37)
+    activity:construction (66,55)
+    activity:construction (56,76)
+    weather:overcast (63,90)
+Page 1002 (type diary) http://wd3.herokuapp.com/pages/AWD0001ci7  ----------
+  21 Nov 1916 26
+    unit:1 Battalion South Wales Borders (73,29)
+    gridRef:X_27_C_5_5 (9,29)
+    activity:construction (27,39)
+    activity:working (58,46)
+    weather:cold (53,87)
+    weather:cold (57,87)
+Page 1003 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmp  ----------
+  22 Nov 1916 24
+    reference:X27B5.5 Sheet 570 SE, Edit 2, Trench Map France (8,28)
+    gridRef:X_27_C_5_5 (6,28)
+    unit:2 Royal Munster Fusiliers (80,49)
+    activity:construction (24,58)
+    weather:fine (58,90)
+Page 1004 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfy  ----------
+  23 Nov 1916 25
+    gridRef:X_27_C_5_5 (6,28)
+    reference:X27B5.5 Sheet 57d SE, Edit 2B, Trench Map France (8,29)
+    activity:working (53,53)
+    unit:2 Battalion Welsh (70,56)
+    weather:fine (58,89)
+Page 1005 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfa  ----------
+  24 Nov 1916 24
+    gridRef:X_27_C_5_5 (6,27)
+    reference:X27B5.5 Sheet 57d SE, Edit 2B, Trench Map France (8,29)
+    unit:2 Battalion. Royal Munster Fusiliers (70,33)
+    weather:overcast (58,88)
+Page 1006 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnd  ----------
+  25 Nov 1916 25
+    gridRef:X_27_C_5_5 (7,30)
+    activity:construction (31,35)
+    unit:1 Black Watch (70,49)
+    weather:rain (56,88)
+Page 1007 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbh  ----------
+  26 Nov 1916 24
+    gridRef:X_27_C_5_5 (7,28)
+    reference:X27B5.5 Sheet 57d SE, Edit 2B, Trench Map France (9,28)
+    unit:1 Black Watch (41,33)
+    weather:overcast (58,85)
+Page 1008 (type diary) http://wd3.herokuapp.com/pages/AWD0001cby  ----------
+  27 Nov 1916 27
+    mapRef:Sheet 57 Se Edition 2b (7,31)
+    activity:construction (55,31)
+    activity:construction (58,50)
+    activity:construction (52,64)
+    place:Frechencourt (64,76)
+    weather:overcast (55,86)
+Page 1009 (type diary) http://wd3.herokuapp.com/pages/AWD0001cnr  ----------
+  28 Nov 1916 24
+    gridRef:X_27_C_5_5 (8,29)
+    weather:fine (54,67)
+Page 1010 (type diary) http://wd3.herokuapp.com/pages/AWD0001cij  ----------
+  29 Nov 1916 24
+    gridRef:X_27_C_5_5 (7,30)
+    weather:overcast (53,79)
+Page 1011 (type diary) http://wd3.herokuapp.com/pages/AWD0001cl9  ----------
+  30 Nov 1916 24
+    gridRef:X_27_C_5_5 (7,27)
+    reference:X27B5.5 Sheet 57d SE, Edit 2B, Trench Map France (9,38)
+    weather:cold (56,74)
+    person:Captain W Downs (76,86)
+Page 1012 (type cover)
+Page 1013 (type cover)
+Page 1014 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbp  ----------
+  1 Dec 1916 25
+    gridRef:X_27_C_5_5 (8,27)
+    unit:26 field coy re (41,29)
+    unit:26 field Co Royal Engineers (28,29)
+    activity:construction (41,37)
+    weather:fog (55,78)
+Page 1015 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckw  ----------
+  2 Dec 1916 24
+    gridRef:X_27_C_5_5 (6,28)
+    mapRef:57 c SW Edit 2.a (44,32)
+    activity:construction (34,43)
+    mapRef:57 c SW Edit 2.a (46,44)
+    activity:construction (29,54)
+    weather:fine (53,91)
+Page 1016 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbi  ----------
+  3 Dec 1916 25
+    activity:repair (29,37)
+    place:Fricourt (76,79)
+    weather:cold (55,85)
+    weather:cold (65,86)
+Page 1017 (type diary) http://wd3.herokuapp.com/pages/AWD0001ccr  ----------
+  3 Dec 1916 0
+  4 Dec 1916 24
+    mapRef:57 c SW Edit 2.a (41,33)
+    activity:construction (45,48)
+    activity:construction (24,60)
+    weather:fine (54,90)
+Page 1018 (type diary) http://wd3.herokuapp.com/pages/AWD0001che  ----------
+  5 Dec 1916 25
+    mapRef:57 d SW Edit 2.a (41,33)
+    mapRef:57 d Se Edit 2.a (10,34)
+    activity:construction (23,37)
+    weather:cold (57,86)
+Page 1019 (type diary) http://wd3.herokuapp.com/pages/AWD0001ci6  ----------
+  5 Dec 1916 0
+  6 Dec 1916 26
+    mapRef:Sheet 57 SW Edition (71,29)
+    activity:construction (27,30)
+    mapRef:57 d SW Edit 2.a (77,30)
+    mapRef:57d SE Edition 2 B Trench Map (7,33)
+    mapRef:57 d SW Edit 2.B (7,34)
+    mapRef:Sheet 57 SW Edition 2A (41,37)
+    mapRef:57 d SW Edit 2.a (47,37)
+    activity:construction (33,44)
+    place:Fricourt (67,79)
+    weather:cold (52,86)
+    weather:cold (58,86)
+Page 1020 (type diary) http://wd3.herokuapp.com/pages/AWD0001cn8  ----------
+  7 Dec 1916 24
+    mapRef:57 d SW Edit 2.a (85,30)
+    activity:construction (29,40)
+    mapRef:57 d SW Edit 2.a (47,41)
+    weather:cold (65,92)
+Page 1021 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckq  ----------
+  8 Dec 1916 23
+    weather:overcast (59,83)
+Page 1022 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckl  ----------
+  9 Dec 1916 25
+    mapRef:57 c SW Edit 2.a (44,34)
+    mapRef:57 d SW Edit 2.b (9,36)
+    weather:fog (55,87)
+Page 1023 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdc  ----------
+  9 Dec 1916 0
+  10 Dec 1916 27
+    mapRef:57 c SW Edit 2.a (44,33)
+    mapRef:57 D SW Edit 2.B (8,33)
+    activity:construction (35,50)
+    weather:rain (75,86)
+    weather:cold (55,87)
+Page 1024 (type diary) http://wd3.herokuapp.com/pages/AWD0001cae  ----------
+  11 Dec 1916 26
+    mapRef:57 c SW Edit 2.a (44,32)
+    activity:construction (56,48)
+    weather:rain (54,87)
+Page 1025 (type diary) http://wd3.herokuapp.com/pages/AWD0001cad  ----------
+  12 Dec 1916 24
+    mapRef:57 c SW Edit 2.a (46,32)
+    mapRef:57C SW (44,33)
+    mapRef:57D SE (9,35)
+    mapRef:57 d SE Edit 2.b (9,35)
+    activity:construction (44,45)
+    weather:cold (60,80)
+    weather:fog (53,81)
+Page 1026 (type diary) http://wd3.herokuapp.com/pages/AWD0001ckh  ----------
+  13 Dec 1916 23
+    mapRef:57C SW (42,32)
+    mapRef:57D SE (7,32)
+    place:Fricourt (61,79)
+    weather:rain (64,92)
+Page 1027 (type diary) http://wd3.herokuapp.com/pages/AWD0001c9q  ----------
+  14 Dec 1916 22
+    gridRef:X_27_C_5_5 (8,27)
+    activity:repair (23,28)
+    gridRef:S_8_B_8_5 (6,31)
+    gridRef:N_19_A_4.5_0 (32,32)
+    mapRef:57C SW (41,33)
+    mapRef:57D SE (8,34)
+    gridRef:M_24_B_8_0 (32,44)
+    gridRef:M_30_A_9.5_8.5 (33,55)
+    activity:construction (42,55)
+    place:Longueval (61,63)
+    activity:working (22,83)
+    place:Bazentin (85,83)
+    domestic:hygiene (64,86)
+    weather:cold (71,91)
+    weather:fog (65,92)
+Page 1028 (type diary) http://wd3.herokuapp.com/pages/AWD0001cfn  ----------
+  15 Dec 1916 24
+    unit:26 field coy re (40,28)
+    unit:26 coy re (38,29)
+    mapRef:57D SE (9,34)
+    activity:construction (29,36)
+    gridRef:S_2_D_9_1 (51,37)
+    gridRef:S_2_D_8_1 (37,51)
+    place:Bazentin (80,52)
+    activity:working (26,55)
+    place:Fricourt (81,78)
+    weather:fine (56,86)
+Page 1029 (type diary) http://wd3.herokuapp.com/pages/AWD0001ceq  ----------
+  16 Dec 1916 23
+    activity:construction (23,27)
+    place:Fricourt (63,85)
+    place:Bazentin (85,85)
+    weather:rain (61,90)
+    weather:cold (66,90)
+Page 1030 (type diary) http://wd3.herokuapp.com/pages/AWD0001ce3  ----------
+  17 Dec 1916 24
+    activity:construction (24,27)
+    activity:working (53,42)
+    unit:K.R.R.C. (79,44)
+    activity:fire (74,70)
+    weather:cold (59,84)
+    weather:overcast (53,85)
+Page 1031 (type diary) http://wd3.herokuapp.com/pages/AWD0001cel  ----------
+  18 Dec 1916 22
+    activity:construction (23,27)
+    activity:working (42,48)
+    weather:cold (65,91)
+Page 1032 (type diary) http://wd3.herokuapp.com/pages/AWD0001c93  ----------
+  19 Dec 1916 24
+    activity:construction (23,27)
+    place:Bazentin (33,27)
+    place:Fricourt (44,77)
+    weather:cold (71,84)
+    weather:cold (62,85)
+Page 1033 (type diary) http://wd3.herokuapp.com/pages/AWD0001chd  ----------
+  20 Dec 1916 24
+    activity:construction (26,52)
+    activity:working (23,59)
+    unit:2 welsh (47,60)
+    place:Fricourt (59,67)
+    weather:cold (54,75)
+Page 1034 (type diary) http://wd3.herokuapp.com/pages/AWD0001ca9  ----------
+  21 Dec 1916 23
+    activity:construction (23,26)
+    unit:2 welsh & 1 gloster (73,47)
+    activity:working (54,48)
+    weather:overcast (59,82)
+    weather:cold (71,82)
+Page 1035 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjt  ----------
+  22 Dec 1916 24
+    activity:construction (25,26)
+    activity:working (26,54)
+    unit:2 sussex (59,55)
+    weather:rain (54,73)
+    weather:fog (63,73)
+Page 1036 (type diary) http://wd3.herokuapp.com/pages/AWD0001chf  ----------
+  23 Dec 1916 24
+    activity:construction (25,26)
+    activity:working (29,56)
+    unit:1 camerons (56,57)
+    weather:cold (68,77)
+    weather:cold (59,78)
+Page 1037 (type diary) http://wd3.herokuapp.com/pages/AWD0001cla  ----------
+  24 Dec 1916 23
+    activity:working (32,66)
+    unit:1 s w borderers (57,66)
+    weather:cold (72,81)
+    weather:overcast (59,82)
+Page 1038 (type diary) http://wd3.herokuapp.com/pages/AWD0001cbz  ----------
+  25 Dec 1916 24
+    unit:26 Field Co Royal Engineers (58,28)
+    unit:26 f coy re (62,30)
+    activity:resting (37,31)
+    gridRef:X_27_C_5_5 (7,32)
+    weather:overcast (64,35)
+    weather:cold (54,36)
+  26 Dec 1916 40
+    activity:repair (46,85)
+    weather:overcast (68,92)
+    weather:rain (62,93)
+Page 1039 (type diary) http://wd3.herokuapp.com/pages/AWD0001cat  ----------
+  26 Dec 1916 0
+    mapRef:57D SE Edition 2B Trench Map France  (21,22)
+  27 Dec 1916 25
+    activity:repair (24,36)
+    weather:fine (57,82)
+Page 1040 (type diary) http://wd3.herokuapp.com/pages/AWD0001ck1  ----------
+  28 Dec 1916 23
+    weather:overcast (59,93)
+Page 1041 (type diary) http://wd3.herokuapp.com/pages/AWD0001chl  ----------
+  29 Dec 1916 23
+    mapRef:57D SE Edition 2B Trench Map France  (23,26)
+    activity:fire (79,31)
+    activity:repair (51,76)
+    weather:rain (55,84)
+Page 1042 (type diary) http://wd3.herokuapp.com/pages/AWD0001cem  ----------
+  30 Dec 1916 25
+    mapRef:57D SE Edition 2B Trench Map France  (19,25)
+    weather:rain (80,29)
+    activity:repair (47,42)
+    place:Fricourt (64,69)
+    unit:3 Brigade (66,85)
+    weather:overcast (63,87)
+    weather:rain (57,88)
+Page 1043 (type diary) http://wd3.herokuapp.com/pages/AWD0001c8g  ----------
+  31 Dec 1916 23
+    activity:fire (81,30)
+    mapRef:57D SE Edition 2B Trench Map France  (21,36)
+    place:Fricourt (64,52)
+    weather:overcast (60,70)
+    weather:cold (54,71)
+    person:Captain C Powell (79,82)
+Page 1044 (type cover)
+Page 1045 (type cover)
+Page 1046 (type diary) http://wd3.herokuapp.com/pages/AWD0001ceb  ----------
+  1 Jan 1917 25
+    activity:construction (29,32)
+    activity:repair (36,43)
+    unit:Iwo section (24,50)
+    place:Fricourt (53,63)
+    activity:training (68,64)
+  31 Dec 1916 0
+  1 Jan 1917 25
+    weather:fine (54,75)
+Page 1047 (type diary) http://wd3.herokuapp.com/pages/AWD0001cic  ----------
+  1 Jan 1917 0
+    mapRef:57D SE Edition 2B Trench Map France  (20,23)
+  2 Jan 1917 24
+    activity:repair (44,55)
+    place:Bazentin (57,73)
+    place:Fricourt (33,76)
+    weather:overcast (59,87)
+Page 1048 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdg  ----------
+  2 Jan 1917 0
+    mapRef:57D SE Edition 2B Trench Map France  (21,23)
+  3 Jan 1917 24
+    gridRef:X_27_C_5_5 (8,31)
+    activity:construction (25,37)
+    activity:repair (37,39)
+    place:Bazentin (54,64)
+    place:Bazentin (69,68)
+    place:Fricourt (33,71)
+    activity:training (35,76)
+    weather:cold (52,84)
+  2 Jan 1917 0
+Page 1049 (type diary) http://wd3.herokuapp.com/pages/AWD0001clk  ----------
+  3 Jan 1917 0
+    mapRef:57D SE Edition 2B Trench Map France  (19,21)
+  4 Jan 1917 23
+    activity:repair (39,34)
+    activity:construction (39,55)
+    place:Bazentin (58,77)
+    place:Fricourt (43,81)
+    weather:overcast (56,89)
+Page 1050 (type diary) http://wd3.herokuapp.com/pages/AWD0001ch5  ----------
+  4 Jan 1917 0
+  5 Jan 1917 24
+    mapRef:57D SE Edition 2B Trench Map France  (22,24)
+    activity:construction (41,50)
+    place:Bazentin (67,52)
+    place:Bazentin (60,56)
+    activity:training (36,60)
+    place:Fricourt (45,60)
+    domestic:inspections (28,71)
+    weather:fine (58,75)
+Page 1051 (type diary) http://wd3.herokuapp.com/pages/AWD0001ce2  ----------
+  6 Jan 1917 23
+    activity:repair (44,34)
+    weather:rain (53,84)
+    weather:fog (58,84)
+Page 1052 (type diary) http://wd3.herokuapp.com/pages/AWD0001ck3  ----------
+  7 Jan 1917 24
+    activity:repair (41,35)
+    weather:fog (79,70)
+    weather:fine (57,71)
+Page 1053 (type diary) http://wd3.herokuapp.com/pages/AWD0001cme  ----------
+  8 Jan 1917 23
+    weather:cold (52,81)
+    weather:cold (57,81)
+Page 1054 (type diary) http://wd3.herokuapp.com/pages/AWD0001cna  ----------
+  9 Jan 1917 23
+    place:Bazentin (6,32)
+    unit:6 Welsh Camp (S8B2.8) (49,33)
+    unit:Re camp s8b85 (57,36)
+    activity:working (45,75)
+    place:Fricourt (40,81)
+    weather:fog (55,89)
+Page 1055 (type diary) http://wd3.herokuapp.com/pages/AWD0001cid  ----------
+  10 Jan 1917 23
+    place:Bazentin (49,36)
+    mapRef:Sheet 57 (3,37)
+    place:Fricourt (33,70)
+Page 1056 (type diary) http://wd3.herokuapp.com/pages/AWD0001clg  ----------
+  11 Jan 1917 23
+    weather:fog (54,86)
+Page 1057 (type diary) http://wd3.herokuapp.com/pages/AWD0001cmt  ----------
+  12 Jan 1917 23
+    activity:construction (29,55)
+    weather:cold (59,78)
+Page 1058 (type diary) http://wd3.herokuapp.com/pages/AWD0001cjz  ----------
+  13 Jan 1917 23
+    activity:construction (24,28)
+    place:Bazentin (69,43)
+    weather:cold (63,85)
+    weather:cold (59,86)
+Page 1059 (type diary) http://wd3.herokuapp.com/pages/AWD0001cko  ----------
+  14 Jan 1917 21
+    gridRef:X_27_C_5_5 (5,28)
+    activity:construction (25,28)
+    weather:overcast (53,82)
+Page 1060 (type diary) http://wd3.herokuapp.com/pages/AWD0001cdm  ----------
+  15 Jan 1917 22
+    activity:construction (24,26)
+    unit:6 North Fusiliers (62,43)
+Page 1061 (type diary) http://wd3.herokuapp.com/pages/AWD0001cb1  ----------
+  16 Jan 1917 25
+    activity:construction (25,28)
+    activity:training (40,78)
+    weather:rain (50,85)
+Page 1062 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgd  ----------
+  17 Jan 1917 24
+    activity:construction (26,28)
+    activity:working (40,40)
+    weather:cold (56,79)
+Page 1063 (type diary) http://wd3.herokuapp.com/pages/AWD0001cm8  ----------
+  18 Jan 1917 23
+    activity:construction (21,26)
+    activity:movement (29,32)
+    weather:cold (57,48)
+  19 Jan 1917 54
+    domestic:hygiene (32,68)
+    weather:cold (57,74)
+Page 1064 (type diary) http://wd3.herokuapp.com/pages/AWD0001cm9  ----------
+  20 Jan 1917 24
+    gridRef:X_27_C_5_5 (7,28)
+    activity:training (28,29)
+    place:Fricourt (8,30)
+  21 Jan 1917 54
+    activity:training (27,59)
+    gridRef:X_27_C_5_5 (6,64)
+    weather:fog (57,84)
+    weather:cold (64,84)
+Page 1065 (type diary) http://wd3.herokuapp.com/pages/AWD0001cff  ----------
+  22 Jan 1917 23
+    activity:training (29,28)
+    place:Fricourt (8,28)
+    weather:cold (57,48)
+  23 Jan 1917 53
+    activity:training (29,59)
+Page 1066 (type diary) http://wd3.herokuapp.com/pages/AWD0001cgi  ----------
+  24 Jan 1917 23
+    gridRef:X_27_C_5_5 (6,26)
+    place:Fricourt (7,29)
+    activity:movement (63,30)
+    activity:movement (23,33)
+    weather:cold (61,48)
+  25 Jan 1917 53
+    place:Warloy (7,60)
+    domestic:sport (43,76)
+    weather:fine (60,85)
+Page 1067 (type diary) http://wd3.herokuapp.com/pages/AWD0001cn9  ----------
+  26 Jan 1917 22
+    place:Warloy (6,27)
+    activity:training (44,32)
+    activity:training (60,34)
+    domestic:sport (57,43)
+    weather:fine (59,54)
+  27 Jan 1917 56
+    activity:training (50,69)
+    domestic:sport (66,78)
+    domestic:inspections (41,82)
+    weather:fine (64,89)
+Page 1068 (type diary) http://wd3.herokuapp.com/pages/AWD0001cei  ----------
+  28 Jan 1917 20
+    place:Warloy (7,23)
+    place:Warloy (5,26)
+    domestic:religion (46,39)
+    weather:cold (62,44)
+  29 Jan 1917 48
+    activity:training (66,58)
+    activity:training (57,63)
+    domestic:sport (65,69)
+    domestic:inspections (57,73)
+    domestic:sport (32,79)
+    weather:cold (56,86)
+Page 1069 (type diary) http://wd3.herokuapp.com/pages/AWD0001cen  ----------
+  30 Jan 1917 23
+    place:Warloy (7,27)
+    activity:training (48,29)
+    activity:training (52,30)
+    weather:cold (61,51)
+  31 Jan 1917 54
+    activity:training (64,60)
+    activity:training (55,62)
+    weather:fine (53,82)
+    person:Captain Charles Powell (author) (72,89)
+    person:Captain Powell (67,91)

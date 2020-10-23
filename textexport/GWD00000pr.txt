@@ -1,0 +1,2143 @@
+GWD00000pr wo/95/1258/5
+1 DIVISION:  Divisional Troops: 2 Field Ambulance.  
+147 pages
+
+Page 660 (type cover)
+Page 661 (type cover)
+Page 662 (type blank)
+Page 663 (type diary) http://wd3.herokuapp.com/pages/AWD0003mlj  ----------
+  1 Jan 1918 24
+    person:Lieutenant Colonel W W Boyce (other) (62,24)
+    mapRef:20 (5,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (27,33)
+    weather:overcast (48,35)
+    unit:141 Field Amb (30,36)
+  2 Jan 1918 42
+    gridRef:T_28_D_2_8 (5,43)
+    weather:cold (78,45)
+    weather:cold (24,51)
+  3 Jan 1918 56
+    person:Lieutenant G E Birkett (departed_posted) (75,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (28,61)
+    weather:cold (28,69)
+  4 Jan 1918 73
+  5 Jan 1918 82
+    weather:cold (66,82)
+    mapRef:25 (4,84)
+  6 Jan 1918 88
+    person:Captain C R Macleod (returned_leave) (78,91)
+    person:Lieutenant A M Sellex (returned_leave) (78,95)
+Page 664 (type diary) http://wd3.herokuapp.com/pages/AWD0003mny  ----------
+  6 Jan 1918 23
+    person:Captain Macleod (commander) (79,24)
+  7 Jan 1918 31
+    person:Captain F Jefferson (departed_leave) (78,34)
+    unit:141 Field Amb (73,40)
+    unit:141 Field Ambulance (72,40)
+    place:Paratonnerres Farm (6,47)
+    person:Captain J T Kirkland (departed_posted) (43,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (55,62)
+  8 Jan 1918 63
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (38,63)
+    mapRef:20 (5,64)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,65)
+    mapRef:20 (7,72)
+    weather:cold (45,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,79)
+  9 Jan 1918 80
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (43,80)
+    weather:fine (70,90)
+    unit:2 Welsh Regiment (25,91)
+Page 665 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmb  ----------
+  10 Jan 1918 22
+    weather:overcast (27,29)
+  11 Jan 1918 32
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,33)
+    weather:cold (26,43)
+  12 Jan 1918 46
+    unit:2 Welsh Reg. (72,52)
+    unit:Xix corp (82,58)
+  13 Jan 1918 60
+    unit:!st Division G.Q. (79,64)
+    weather:cold (61,72)
+    weather:fine (44,73)
+    weather:cold (27,75)
+  14 Jan 1918 78
+    weather:fine (37,82)
+Page 666 (type diary) http://wd3.herokuapp.com/pages/AWD0003mlo  ----------
+  15 Jan 1918 21
+    person:Captain Kirkland (departed_posted) (34,31)
+    person:Captain Kirkland (departed_posted) (38,37)
+    weather:rain (46,45)
+  16 Jan 1918 47
+  17 Jan 1918 57
+    person:Lieutenant Colonel W W Boyce (returned_leave) (34,61)
+    unit:!st Division G.Q. (45,64)
+    mapRef:20 (5,68)
+    unit:!st Division G.Q. (23,70)
+    weather:rain (43,71)
+  18 Jan 1918 72
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (46,76)
+    weather:overcast (46,82)
+  19 Jan 1918 83
+    weather:rain (46,91)
+    weather:overcast (56,92)
+Page 667 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmx  ----------
+  20 Jan 1918 20
+  21 Jan 1918 29
+    person:Captain F Jefferson (returned_leave) (42,32)
+    person:Captain A P Hart (joined) (38,36)
+    person:Captain F Jefferson (commander) (74,52)
+    person:Captain Macleod (other) (62,65)
+    person:Captain F Jefferson (commander) (79,67)
+  22 Jan 1918 69
+    mapRef:20 (5,71)
+  23 Jan 1918 75
+  24 Jan 1918 81
+Page 668 (type diary) http://wd3.herokuapp.com/pages/AWD0003moc  ----------
+  24 Jan 1918 0
+  25 Jan 1918 20
+  26 Jan 1918 26
+  27 Jan 1918 32
+    place:Crombeke (44,34)
+    activity:movement (26,35)
+    place:Crombeke (7,36)
+    unit:55 Field Ambulance (47,40)
+    gridRef:X_22_A_2_9 (4,40)
+    mapRef:19 (7,43)
+    unit:90 Field Ambulance (42,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 0 (32,46)
+  28 Jan 1918 51
+  29 Jan 1918 59
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,65)
+  30 Jan 1918 69
+    person:Clayton (joined) (76,71)
+    unit:1 Bat Royall N. Lances (59,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,79)
+  31 Jan 1918 80
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,86)
+    person:Lieutenant Colonel W W Boyce (commander) (77,87)
+Page 669 (type diary) http://wd3.herokuapp.com/pages/AWD0003mm1  ----------
+  31 Jan 1918 21
+    place:Crombeke (6,25)
+    gridRef:X_22_A_2_9 (5,27)
+    mapRef:19 (7,31)
+    person:Captain F Jefferson (commander) (37,34)
+    unit:H2 ist Division (32,38)
+Page 670 (type cover)
+Page 671 (type blank)
+Page 672 (type diary) http://wd3.herokuapp.com/pages/AWD0003mp9  ----------
+  1 Feb 1918 22
+    place:Crombeke (4,23)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (40,26)
+    place:Crombeke (7,28)
+    mapRef:19 (5,32)
+    unit:25 Brigade rea (81,33)
+    gridRef:X_22_A_2_9 (4,37)
+    unit:1 Dae (66,41)
+    unit:1 D a C (69,41)
+    person:Captain D MacIntyre (departed_posted) (23,44)
+    weather:fine (20,53)
+    weather:fine (30,53)
+  2 Feb 1918 59
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (34,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (46,62)
+    unit:25 bt Royal Field Artillery (rea) (81,73)
+    weather:fine (22,74)
+  3 Feb 1918 78
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (38,81)
+Page 673 (type diary) http://wd3.herokuapp.com/pages/AWD0003mp5  ----------
+  3 Feb 1918 24
+    unit:No1 D S C (68,27)
+    place:Crombeke (6,28)
+    unit:1 D.S.C. (68,29)
+    unit:25 Bck. Royal Field Artillery. (68,33)
+    unit:25 Bt R F A (64,33)
+    mapRef:19 (6,33)
+    gridRef:X_22_A_2_9 (5,36)
+    unit:A.P.M. 1 Division (44,38)
+    weather:fine (25,45)
+  4 Feb 1918 51
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 0 (47,52)
+    person:Lieutenant G E Birkett (departed_posted) (23,69)
+    unit:Black Watch (19,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (38,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (60,87)
+    weather:fine (30,90)
+    weather:fine (24,91)
+Page 674 (type diary) http://wd3.herokuapp.com/pages/AWD0003mn0  ----------
+  4 Feb 1918 0
+  5 Feb 1918 24
+    place:Crombeke (6,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (23,29)
+    mapRef:19 (4,32)
+    gridRef:X_22_A_2_9 (6,37)
+    unit:1 Signal (78,41)
+    unit:1 Signal ... R E (70,42)
+    weather:fine (30,49)
+    weather:fine (22,49)
+  6 Feb 1918 59
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (41,61)
+    unit:35 th Division (35,84)
+    unit:1 Division (34,87)
+    unit:1 Division hq (57,91)
+Page 675 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmp  ----------
+  6 Feb 1918 21
+    place:Crombeke (6,26)
+    weather:fine (35,30)
+    gridRef:X_22_A_2_9 (6,32)
+  7 Feb 1918 34
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (24,40)
+    mapRef:19 (9,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (45,42)
+    weather:overcast (25,54)
+    weather:overcast (34,56)
+  8 Feb 1918 58
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 29; wounded: 0 (45,66)
+    unit:2 Royal Sussex Regiment (27,92)
+    weather:overcast (50,93)
+Page 676 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmr  ----------
+  8 Feb 1918 0
+  9 Feb 1918 22
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 38; wounded: 0 (37,24)
+    place:Crombeke (5,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 38; wounded: 0 (44,28)
+    gridRef:X_22_A_2_9 (6,30)
+    mapRef:19 (6,35)
+    weather:rain (42,64)
+Page 677 (type diary) http://wd3.herokuapp.com/pages/AWD0003mo3  ----------
+  10 Feb 1918 17
+    place:Crombeke (8,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 0 (39,26)
+    place:Crombeke (5,26)
+    mapRef:19 (6,29)
+    gridRef:X_22_A_2_9 (6,33)
+    person:Captain Hart (returned_posted) (23,50)
+    unit:39 Brigade (38,55)
+  11 Feb 1918 66
+Page 678 (type diary) http://wd3.herokuapp.com/pages/AWD0003mni  ----------
+  11 Feb 1918 0
+    place:Crombeke (9,25)
+    mapRef:19 (5,27)
+    weather:fine (35,32)
+    weather:cold (61,32)
+    gridRef:X_22_A_2_9 (5,36)
+  12 Feb 1918 39
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,42)
+  13 Feb 1918 65
+    person:Captain F Jefferson (commander) (26,74)
+    unit:1 Division hq (74,77)
+Page 679 (type diary) http://wd3.herokuapp.com/pages/AWD0003mp3  ----------
+  13 Feb 1918 23
+    person:Lieutenant Colonel W W Boyce (departed_posted) (48,25)
+    person:Lieutenant W F Cornwall (joined) (31,34)
+  14 Feb 1918 46
+    person:Captain A G H Smart (returned_leave) (28,52)
+  15 Feb 1918 58
+    place:Crombeke (7,58)
+    person:Captain R A Morrell (joined) (52,63)
+  16 Feb 1918 72
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (27,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (32,77)
+  17 Feb 1918 82
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (29,84)
+    unit:XiX Corps Gas School (40,88)
+Page 680 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnm  ----------
+  18 Feb 1918 19
+    unit:1 loyal n.lancers reg (72,28)
+    unit:141 Field Ambulance (66,31)
+    unit:141 F.A. (75,32)
+    person:Captain D MacIntyre (23,36)
+    person:other J De Craene (departed_leave) (23,40)
+    place:Crombeke (8,43)
+    place:Crombeke (7,47)
+  19 Feb 1918 48
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 12; wounded: 0 (22,53)
+  20 Feb 1918 62
+  21 Feb 1918 74
+  22 Feb 1918 83
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (91,89)
+Page 681 (type diary) http://wd3.herokuapp.com/pages/AWD0003mn5  ----------
+  23 Feb 1918 20
+    place:Crombeke (8,20)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,24)
+    person:Captain A P Haunt (80,26)
+    person:Captain A P Hart (departed_leave) (76,27)
+    person:Captain Cornwall (departed_posted) (72,30)
+    unit:Ii corps (47,35)
+    unit:No 12 C.C. Stm (48,36)
+    unit:No 12 C.C. Stm (86,36)
+  24 Feb 1918 44
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,47)
+  25 Feb 1918 51
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,54)
+    unit:39 bge Royal Field Artillery (30,59)
+  26 Feb 1918 62
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,66)
+  27 Feb 1918 68
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,71)
+    person:Captain A G H Smart (departed_training) (28,75)
+    unit:Iv army (67,75)
+    person:Captain W Cornwall (returned_posted) (54,77)
+    unit:Ii corp (41,82)
+  28 Feb 1918 84
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,87)
+Page 682 (type cover)
+Page 683 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnt  ----------
+  1 Mar 1918 20
+    place:Crombeke (11,20)
+    mapRef:19 (3,23)
+    unit:141 F.A. (82,29)
+    place:Crombeke (7,34)
+  2 Mar 1918 38
+  3 Mar 1918 56
+    person:Captain A P Hart (returned_leave) (47,64)
+    person:Captain D MacIntyre (returned_leave) (26,66)
+    unit:141 F.A. (32,75)
+  4 Mar 1918 77
+    person:Captain W Commwall (commander) (62,79)
+    unit:1 Bln . M.G.C. (47,84)
+    unit:No 12 C.C.S. (77,87)
+    unit:No 12 C.C.S. (45,88)
+Page 684 (type diary) http://wd3.herokuapp.com/pages/AWD0003mop  ----------
+  5 Mar 1918 18
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,24)
+    person:Captain C R Macleod (departed_posted) (73,24)
+    mapRef:19 (5,24)
+    person:Captain D MacIntyre (departed_posted) (22,32)
+    person:Captain A C White Knox (returned_posted) (71,36)
+    place:Crombeke (5,37)
+  6 Mar 1918 51
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,58)
+  7 Mar 1918 63
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,68)
+    place:Crombeke (7,69)
+    person:Captain C R Macleod (promotion) (68,73)
+    person:Captain F Jefferson (promotion) (43,74)
+Page 685 (type diary) http://wd3.herokuapp.com/pages/AWD0003mm4  ----------
+  8 Mar 1918 18
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,24)
+    person:Lieutenant Colonel W W Boyce (returned_posted) (53,28)
+    place:Crombeke (6,32)
+    person:Major F Jefferson (author) (71,35)
+  9 Mar 1918 37
+    person:Captain A C W Knox (departed_posted) (24,60)
+    person:Captain A G H Smart (24,78)
+    person:Captain A G H Smart (departed_posted) (26,88)
+Page 686 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmi  ----------
+  9 Mar 1918 22
+    mapRef:19 (8,25)
+    mapRef:19 x. a. (8,25)
+    weather:fine (36,36)
+    weather:fine (40,40)
+  10 Mar 1918 42
+    place:Crombeke (7,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,53)
+    weather:fine (38,75)
+  11 Mar 1918 76
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,82)
+Page 687 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmk  ----------
+  11 Mar 1918 20
+    mapRef:19 (9,25)
+    mapRef:19 x. a (8,25)
+    weather:cold (67,31)
+    weather:fine (44,32)
+    weather:fine (32,33)
+  12 Mar 1918 36
+    place:Crombeke (8,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,41)
+    weather:fine (40,78)
+Page 688 (type diary) http://wd3.herokuapp.com/pages/AWD0003mlk  ----------
+  13 Mar 1918 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,25)
+    place:Crombeke (7,27)
+    person:Lieutenant Colonel W W Boyce (departed_leave) (25,33)
+  14 Mar 1918 39
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,42)
+    place:Crombeke (7,45)
+  15 Mar 1918 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,58)
+    person:Captain A P Hart (departed_posted) (36,63)
+    person:Captain A P Hart (departed_posted) (29,65)
+  16 Mar 1918 75
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,83)
+Page 689 (type diary) http://wd3.herokuapp.com/pages/AWD0003mo2  ----------
+  17 Mar 1918 22
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,25)
+    place:Crombeke (8,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,32)
+  18 Mar 1918 36
+    place:Crombeke (8,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,40)
+  19 Mar 1918 46
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,51)
+    place:Crombeke (7,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (73,54)
+    person:Lieutenant Colonel W W Boyce (returned_leave) (51,59)
+    person:Major F Jefferson (author) (56,63)
+    activity:fire (61,71)
+    weather:rain (40,73)
+  20 Mar 1918 77
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,81)
+    place:Crombeke (7,81)
+Page 690 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnr  ----------
+  20 Mar 1918 22
+    place:Crombeke (7,22)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,24)
+    person:Captain C R Macleod (departed_posted) (22,31)
+    person:Captain R A Morrell (departed_posted) (21,39)
+    person:Captain A P Hart (returned_posted) (21,48)
+    weather:fine (31,57)
+    activity:fire (49,58)
+  21 Mar 1918 65
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (58,70)
+Page 691 (type diary) http://wd3.herokuapp.com/pages/AWD0003moi  ----------
+  21 Mar 1918 20
+    place:Crombeke (6,23)
+    weather:fine (21,29)
+    place:Crombeke (6,29)
+    weather:fine (28,31)
+  22 Mar 1918 35
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (23,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,40)
+    person:Captain Smart (departed_posted) (23,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (19,71)
+    unit:1 Battalion Northampton Regiment (53,72)
+    unit:1 The Black Watch (68,78)
+    person:Captain Hart (departed_posted) (23,88)
+Page 692 (type diary) http://wd3.herokuapp.com/pages/AWD0003mlz  ----------
+  22 Mar 1918 21
+    place:Crombeke (8,23)
+    activity:support (20,24)
+    unit:Canada Farm (23,25)
+    place:Canada Farm (27,25)
+    unit:105 F.A. (74,26)
+    weather:fine (25,40)
+  23 Mar 1918 44
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,50)
+    weather:fine (24,70)
+  24 Mar 1918 72
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,78)
+Page 693 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnz  ----------
+  24 Mar 1918 20
+    place:Crombeke (6,25)
+    unit:Ii corps school (54,27)
+    person:Captain A R Dale (returned_posted) (23,43)
+    weather:fine (22,63)
+  25 Mar 1918 65
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,71)
+Page 694 (type diary) http://wd3.herokuapp.com/pages/AWD0003mla  ----------
+  25 Mar 1918 20
+    place:Crombeke (7,24)
+    person:Captain A P Hart (departed_posted) (24,26)
+    person:Captain A R Dale (returned_posted) (28,35)
+    person:Captain A R Dale (departed_posted) (30,37)
+    place:Rousbrugge (69,43)
+    weather:cold (34,50)
+  26 Mar 1918 55
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,65)
+Page 695 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnb  ----------
+  26 Mar 1918 20
+    place:Crombeke (8,23)
+    weather:cold (34,30)
+    unit:Ii c.c.d. (25,36)
+    unit:No 2 F.A. (76,38)
+  27 Mar 1918 41
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,54)
+Page 696 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmf  ----------
+  28 Mar 1918 19
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,30)
+    place:Crombeke (6,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (34,49)
+    unit:A D M S 1 Division (21,52)
+    unit:No 1 F.A. (74,60)
+    weather:cold (24,64)
+  29 Mar 1918 67
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,75)
+    weather:rain (39,87)
+Page 697 (type diary) http://wd3.herokuapp.com/pages/AWD0003moq  ----------
+  30 Mar 1918 19
+    place:Crombeke (6,23)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,29)
+    weather:rain (33,46)
+    weather:rain (23,48)
+    weather:cold (46,48)
+    weather:cold (38,48)
+  31 Mar 1918 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,64)
+    unit:No 1 F.A. (75,81)
+    person:Captain D MacIntyre (returned_posted) (46,84)
+    unit:1 Black Watch (31,86)
+    person:Lieutenant Colonel W W Boyce (author) (78,90)
+    unit:A D M S 1 Division (54,91)
+    weather:fine (33,96)
+Page 698 (type cover)
+Page 699 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnj  ----------
+  31 Mar 1918 0
+  1 Apr 1918 20
+    mapRef:19 (12,21)
+    place:Crombeke (6,23)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (80,30)
+    place:Crombeke (6,31)
+    gridRef:X_22_A_2_9 (6,42)
+    mapRef:19 (5,49)
+    weather:fine (36,64)
+  2 Apr 1918 67
+    place:Canada Farm (4,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (54,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (64,88)
+Page 700 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnv  ----------
+  2 Apr 1918 19
+    place:Canada Farm (6,23)
+    activity:movement (25,28)
+    time:1215PM (40,35)
+    weather:fine (34,40)
+  3 Apr 1918 43
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (81,55)
+    unit:A D M S 1 Division (21,71)
+    weather:fine (60,94)
+Page 701 (type diary) http://wd3.herokuapp.com/pages/AWD0003mox  ----------
+  4 Apr 1918 19
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (62,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,31)
+    place:Canada Farm (5,42)
+    weather:rain (40,71)
+  5 Apr 1918 75
+    gridRef:A_18_A_2_7 (6,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,81)
+Page 702 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnq  ----------
+  5 Apr 1918 20
+    weather:cold (31,36)
+  6 Apr 1918 42
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (62,50)
+    person:Captain A R Dale (returned_posted) (28,74)
+    gridRef:A_18_A_2_7 (5,87)
+Page 703 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnk  ----------
+  6 Apr 1918 20
+    weather:fine (26,35)
+  7 Apr 1918 41
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,46)
+    activity:movement (30,69)
+    person:Captain Hart (commander) (49,69)
+    gridRef:A_18_A_2_7 (6,78)
+    activity:movement (37,82)
+Page 704 (type diary) http://wd3.herokuapp.com/pages/AWD0003mn3  ----------
+  9 Apr 1918 19
+    place:Bethune (7,21)
+    mapRef:36B (10,22)
+    time:0530AM (73,24)
+    place:Chocques (50,25)
+    activity:movement (31,26)
+    place:Bethune (45,30)
+    time:0730AM (43,37)
+    person:Captain G M Campbell (joined) (31,57)
+    activity:fire (35,67)
+  10 Apr 1918 72
+    unit:2/1 w essex fa (68,78)
+    mapRef:36B (7,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 13 (30,88)
+    person:Captain A R Dale (27,91)
+Page 705 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnh  ----------
+  10 Apr 1918 20
+    reference:10th (13,26)
+    activity:fire (33,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (47,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (32,37)
+    place:Bethune (56,49)
+  11 Apr 1918 53
+    place:Hesdigneul (7,56)
+    activity:fire (41,60)
+    activity:movement (34,68)
+    person:Captain G M Campbell (departed_posted) (30,82)
+Page 706 (type diary) http://wd3.herokuapp.com/pages/AWD0003mo5  ----------
+  12 Apr 1918 22
+    gridRef:D_30_D_1_1 (8,26)
+    mapRef:36B (10,26)
+    mapRef:Sheet 36b (7,28)
+    activity:movement (55,30)
+    place:Labeuvriere (72,30)
+    place:Hesdigneul (8,34)
+    person:Major A R Dale (commander) (57,50)
+    activity:movement (29,51)
+    place:Allouagne (34,54)
+    unit:1/3 North Midland F.A. (50,59)
+    person:Captain D MacIntyre (departed_posted) (33,68)
+    mapRef:36B (3,80)
+Page 707 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnn  ----------
+  13 Apr 1918 22
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 49; wounded: 26 (42,26)
+    mapRef:36B (9,26)
+    place:Labeuvriere (5,26)
+    mapRef:Sheet 36b (7,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 49; wounded: 26 (28,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (36,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 61; wounded: 1 (34,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 368; wounded: 58 (33,41)
+  14 Apr 1918 42
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 70; wounded: 31 (31,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 70; wounded: 31 (42,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1080; wounded: 6 (51,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 312; wounded: 83 (52,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (31,64)
+  15 Apr 1918 68
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 80; wounded: 20 (35,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 80; wounded: 20 (40,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 5 (77,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 45; wounded: 5 (52,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 331; wounded: 93 (31,85)
+    mapRef:36B (4,85)
+    person:Captain H E Collier (joined) (25,89)
+Page 708 (type diary) http://wd3.herokuapp.com/pages/AWD0003moa  ----------
+  15 Apr 1918 20
+    mapRef:Sheet 36b (7,25)
+    reference:Labeuvriere sheet 36 D17a44 (5,26)
+  16 Apr 1918 27
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 96; wounded: 15 (32,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 96; wounded: 15 (45,34)
+    reference:To ? e.e.s. o.r. 23 sick 3 wounded (26,39)
+    reference:To duty o.r. 43 sick 4 wounded (22,42)
+    reference:Ren ?unclear  361 sick 101 wounded (29,44)
+    reference:One officer ? x ?unclear to officer ?Reit. S. ?unclear (24,51)
+  17 Apr 1918 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 64; wounded: 6 (34,57)
+    reference:Admitted officer 2 o.r. 64 sick 6 wounded (25,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 64; wounded: 6 (48,60)
+    reference:to e.e.s. officer 1 o.r. 16 sick 6 wounded (22,63)
+    reference:to duty officer - o.r. 86 sick 3 wounded (22,68)
+    gridRef:D_17_A_4_4 (8,69)
+    mapRef:36B (4,72)
+    reference:To officer R.s. officer 1 o.r. 373 98 wounded (30,73)
+  18 Apr 1918 76
+    reference:To officer R.s. officer 1 o.r. 373 98 wounded (22,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 39; wounded: 15 (37,80)
+    reference:Admitted Officer 1 o.r. 39 sick 16 wounded (27,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 39; wounded: 16 (48,83)
+    reference:To e.e.s. officer 1 o.r. 13 sick 4 wounded (24,85)
+    reference:to duty officer -  o.r. 38 sick 8  wounded (25,89)
+    reference:Ren ?unclear?  officer -  o.r. 361 sick 102 wounded (26,92)
+Page 709 (type diary) http://wd3.herokuapp.com/pages/AWD0003mon  ----------
+  18 Apr 1918 22
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 9 (39,22)
+    casualties:died: 9; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,25)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (66,25)
+    mapRef:Sheet 36b (6,27)
+    unit:No 1 Field Ambulance (50,30)
+  19 Apr 1918 31
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 65; wounded: 7 (46,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 65; wounded: 7 (37,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 2 (44,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 31; wounded: 10 (45,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 379; wounded: 97 (47,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (26,53)
+  20 Apr 1918 63
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 67; wounded: 7 (61,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 67; wounded: 7 (42,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 20; wounded: 3 (61,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 12; wounded: 4 (61,79)
+    mapRef:36B (4,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 414; wounded: 97 (60,84)
+    activity:fire (28,87)
+Page 710 (type diary) http://wd3.herokuapp.com/pages/AWD0003mna  ----------
+  21 Apr 1918 21
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 61; wounded: 12 (35,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 61; wounded: 12 (43,26)
+    mapRef:Sheet 36b (6,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 1 (41,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 8 (39,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 450; wounded: 100 (39,40)
+    person:Captain E Rogerson (joined) (28,41)
+    person:Captain E Rogerman (joined) (22,43)
+    person:Lieutenant M J O'Flynn (joined) (22,46)
+    person:Major A R Dale (departed_posted) (23,50)
+    person:Captain R R Browning (joined) (51,54)
+    person:Major F Jefferson (commander) (25,61)
+    person:Captain J A Weston (joined) (25,71)
+  22 Apr 1918 76
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 77; wounded: 12 (33,82)
+    gridRef:D_17_A_4_4 (9,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 2 (42,86)
+    mapRef:36B (4,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 34; wounded: 17 (42,89)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 479; wounded: 92 (42,92)
+Page 711 (type diary) http://wd3.herokuapp.com/pages/AWD0003mlb  ----------
+  22 Apr 1918 23
+    person:Captain H E Collier (departed_posted) (23,27)
+    mapRef:Sheet 36b (5,28)
+  23 Apr 1918 32
+    place:Labeuvriere (6,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 98; wounded: 32 (37,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 12; wounded: 2 (39,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 49; wounded: 5 (37,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (36,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 515; wounded: 117 (39,53)
+  24 Apr 1918 54
+    unit:1/2 north midland fa (40,61)
+    gridRef:D_17_A_4_4 (10,72)
+  25 Apr 1918 78
+    place:Barlin (43,79)
+    gridRef:K_33_A_8_3 (44,80)
+    mapRef:36B (5,80)
+    gridRef:K_33_A_8_3 (61,81)
+    activity:movement (32,81)
+    time:0800PM (46,83)
+    weather:rain (33,89)
+Page 712 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnu  ----------
+  25 Apr 1918 19
+    place:Barlin (6,21)
+    reference:45 o.r proceeded to No. 1 F.A. for autopsy (23,27)
+    mapRef:Sheet 36b (6,28)
+    place:Barlin (5,29)
+    reference:45 o.r proceeded to No. 1 F.A. for autopsy duty. 2 o.r. proceed to 1st division detach for ? duty (24,32)
+    person:Lieutenant M J O'Flynn (departed_posted) (26,41)
+    reference:45 o.r proceeded to No. 1 F.A. for autopsy duty. 2 o.r. proceed to 1st division detach for ? duty.  Liet. F.G. Admads arrived for duty was ? to No. 141 F.G.. Capt. M. White arrived for duty and was taken on the ? accordingly. 12 o.r. returned from the ? duty with No.1. F.G. Town intermittently shelled during the day (38cc gun)  (29,46)
+    person:Lieutenant F G Adams (joined) (25,49)
+    person:Captain M White (joined) (26,56)
+    unit:No 1 F.A. (75,67)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (50,70)
+    activity:fire (41,70)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (26,74)
+  26 Apr 1918 78
+    activity:training (26,83)
+    activity:fire (37,85)
+Page 713 (type diary) http://wd3.herokuapp.com/pages/AWD0003mml  ----------
+  27 Apr 1918 20
+    unit:2 Bat Welsh Regiment (67,25)
+    person:Captain A P Hart (departed_posted) (25,25)
+    activity:fire (30,39)
+    activity:training (35,40)
+    person:A P Hart (returned_posted) (39,46)
+    person:Captain A P Hart (returned_posted) (23,47)
+  28 Apr 1918 48
+    time:0445AM (40,53)
+  29 Apr 1918 60
+    activity:fire (26,64)
+    time:0430AM (43,66)
+    activity:training (24,68)
+  30 Apr 1918 75
+    activity:fire (27,79)
+    activity:training (32,84)
+    weather:overcast (46,88)
+    weather:cold (40,89)
+    person:Lieutenant Colonel W W Boyce (73,92)
+Page 714 (type cover)
+Page 715 (type cover)
+Page 716 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmd  ----------
+  1 May 1918 22
+    unit:No 1 F.A. (48,25)
+    mapRef:Sheet 36b (7,27)
+    place:Barlin (5,28)
+    activity:training (30,34)
+    activity:fire (36,37)
+  2 May 1918 43
+    activity:training (26,46)
+  3 May 1918 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,57)
+    activity:fire (30,70)
+  4 May 1918 72
+    activity:fire (67,76)
+  5 May 1918 78
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (36,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (25,83)
+  6 May 1918 84
+Page 717 (type diary) http://wd3.herokuapp.com/pages/AWD0003mot  ----------
+  6 May 1918 21
+    person:Captain E Rogerson (departed_posted) (24,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (34,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (32,82)
+Page 718 (type diary) http://wd3.herokuapp.com/pages/AWD0003mor  ----------
+  7 May 1918 20
+    person:Chaplain J F Clayton (joined) (29,26)
+    activity:fire (30,30)
+  8 May 1918 33
+    place:Barlin (5,34)
+    place:Ruitz (47,38)
+    gridRef:K_20_A_5_5 (59,39)
+    activity:movement (30,40)
+    activity:fire (36,41)
+  9 May 1918 43
+  10 May 1918 54
+    gridRef:K_33_A_8_3 (5,66)
+  11 May 1918 76
+    activity:quiet (25,82)
+  12 May 1918 84
+    person:Captain M White (departed_posted) (28,90)
+Page 719 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmc  ----------
+  13 May 1918 20
+    person:Captain D MacIntyre (departed_posted) (21,27)
+    person:Chaplain Clayton (departed_posted) (25,38)
+    activity:fire (29,46)
+  14 May 1918 48
+    activity:fire (31,67)
+  15 May 1918 70
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (34,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (24,74)
+  16 May 1918 77
+    activity:quiet (23,80)
+  17 May 1918 82
+    person:Captain W J Stuttaford (joined) (27,86)
+    person:Captain W J Stuttaford (32,87)
+Page 720 (type diary) http://wd3.herokuapp.com/pages/AWD0003mli  ----------
+  17 May 1918 0
+    unit:No 1 F.A. (61,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 2 (39,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 2 (32,49)
+  18 May 1918 55
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (31,59)
+  19 May 1918 62
+  20 May 1918 78
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,84)
+    person:Captain R R Browning (returned_posted) (43,87)
+Page 721 (type diary) http://wd3.herokuapp.com/pages/AWD0003mol  ----------
+  20 May 1918 20
+    person:Captain E Rogerson (returned_posted) (31,23)
+  21 May 1918 31
+    place:Barlin (6,33)
+    activity:quiet (23,35)
+  22 May 1918 37
+  23 May 1918 41
+    activity:fire (27,42)
+    person:Captain J W Stuttaford (returned_posted) (24,46)
+    person:Major A R Dale (commander) (29,56)
+    place:Labourse (68,64)
+    unit:No. 1 F A (33,70)
+    place:Cambrin (47,84)
+Page 722 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmw  ----------
+  24 May 1918 18
+    place:Ruitz (5,20)
+    mapRef:36B (9,22)
+    person:Major F Jefferson (departed_posted) (30,25)
+    place:Grenay (55,29)
+    place:Noyelle (65,29)
+    place:Ruitz (78,35)
+    unit:No 2 F.A. (44,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,43)
+  25 May 1918 60
+  26 May 1918 72
+    mapRef:36B (8,83)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,85)
+Page 723 (type diary) http://wd3.herokuapp.com/pages/AWD0003mm0  ----------
+  27 May 1918 19
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 5 (31,25)
+    place:Ruitz (6,36)
+    person:Major F Jefferson (departed_posted) (36,38)
+    person:Captain C Kelly (returned_posted) (34,50)
+    activity:enemy_activity (30,67)
+  28 May 1918 69
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 2 (30,73)
+    activity:fire (34,78)
+  29 May 1918 82
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 16 (27,87)
+    mapRef:36B (3,89)
+    mapRef:36b (5,90)
+Page 724 (type diary) http://wd3.herokuapp.com/pages/AWD0003mly  ----------
+  29 May 1918 19
+    activity:enemy_activity (25,28)
+    activity:enemy_activity (37,32)
+  30 May 1918 33
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 11 (41,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 9 (62,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (79,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (40,42)
+    activity:enemy_activity (29,48)
+    activity:fire (41,48)
+  31 May 1918 52
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 3 (27,58)
+    activity:enemy_activity (30,67)
+    mapRef:36B (5,86)
+Page 725 (type cover)
+Page 726 (type blank)
+Page 727 (type diary) http://wd3.herokuapp.com/pages/AWD0003mln  ----------
+  1 Jun 1918 19
+    place:Ruitz (7,20)
+    mapRef:44B (10,20)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 4 (30,24)
+    place:Ruitz (6,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (24,34)
+    activity:fire (36,37)
+  2 Jun 1918 42
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 8 (31,47)
+    gridRef:K_20_A_5_5 (7,48)
+    activity:quiet (29,55)
+  3 Jun 1918 57
+    mapRef:44B (6,69)
+    activity:enemy_activity (35,71)
+    mapRef:44b (7,76)
+    person:Chaplain T T Haines (joined) (26,77)
+  4 Jun 1918 82
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 8 (30,87)
+Page 728 (type diary) http://wd3.herokuapp.com/pages/AWD0003moh  ----------
+  5 Jun 1918 19
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 8 (36,22)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 8 (30,26)
+    place:Ruitz (6,34)
+  6 Jun 1918 39
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 11 (37,43)
+  7 Jun 1918 52
+    gridRef:K_20_A_5_5 (6,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 12 (33,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 12 (41,57)
+  8 Jun 1918 65
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 4 (36,70)
+    mapRef:44B (7,79)
+    mapRef:44b (6,82)
+Page 729 (type diary) http://wd3.herokuapp.com/pages/AWD0003mms  ----------
+  9 Jun 1918 19
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (24,22)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (27,26)
+  10 Jun 1918 33
+    place:Ruitz (7,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (57,37)
+  11 Jun 1918 48
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (41,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 1 (26,54)
+    gridRef:K_20_A_5_5 (5,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,57)
+  12 Jun 1918 64
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 1 (33,68)
+    mapRef:44B (5,73)
+  13 Jun 1918 76
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 5 (29,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 5 (44,82)
+Page 730 (type diary) http://wd3.herokuapp.com/pages/AWD0003mlr  ----------
+  13 Jun 1918 20
+    unit:No 141 F.A. (53,24)
+    unit:No 141 (50,25)
+    activity:working (27,27)
+    place:Ruitz (7,32)
+  14 Jun 1918 34
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 34; wounded: 0 (32,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 39; wounded: 0 (22,39)
+  15 Jun 1918 44
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 5 (37,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 5 (27,48)
+    gridRef:K_20_A_5_5 (6,55)
+    person:Chaplain J F Clayton (departed_posted) (29,56)
+    person:Captain M J Fraser (joined) (25,65)
+  16 Jun 1918 74
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 4 (28,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 4 (37,79)
+    activity:enemy_activity (33,81)
+    mapRef:44B (6,82)
+    activity:enemy_activity (44,83)
+    mapRef:44b (6,86)
+Page 731 (type diary) http://wd3.herokuapp.com/pages/AWD0003mm8  ----------
+  17 Jun 1918 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 36; wounded: 2 (34,25)
+  18 Jun 1918 51
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 52; wounded: 21 (34,55)
+  19 Jun 1918 67
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 52; wounded: 20 (30,73)
+    mapRef:44B (5,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,82)
+  20 Jun 1918 84
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 9 (41,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 9 (30,89)
+Page 732 (type diary) http://wd3.herokuapp.com/pages/AWD0003mp4  ----------
+  21 Jun 1918 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 22; wounded: 0 (44,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (58,30)
+    unit:No 2 F.A. (46,31)
+  22 Jun 1918 39
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 0 (40,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (22,44)
+  23 Jun 1918 52
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (58,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 4 (33,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 17; wounded: 0 (41,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (23,59)
+    gridRef:K_20_A_5_5 (5,60)
+    person:Captain MacIntyre (other) (47,61)
+  24 Jun 1918 64
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 24; wounded: 2 (36,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 23; wounded: 0 (44,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (55,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (22,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,76)
+Page 733 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmg  ----------
+  25 Jun 1918 21
+    place:Ruitz (5,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 17; wounded: 7 (33,27)
+    place:Ruitz (5,33)
+  26 Jun 1918 45
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 8 (40,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 8 (21,51)
+  27 Jun 1918 61
+    gridRef:K_20_A_5_5 (5,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 20; wounded: 7 (34,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 20; wounded: 7 (20,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,73)
+  28 Jun 1918 76
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 28; wounded: 1 (20,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 28; wounded: 1 (31,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 28; wounded: 1 (43,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,90)
+Page 734 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnx  ----------
+  28 Jun 1918 19
+    place:Ruitz (7,21)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (31,28)
+    place:Ruitz (6,31)
+    person:Captain M J Fraser (departed_posted) (30,39)
+  29 Jun 1918 45
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 25; wounded: 1 (28,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 25; wounded: 1 (48,51)
+    gridRef:K_20_A_5_5 (7,56)
+  30 Jun 1918 64
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 3 (36,68)
+    person:Major C Kelly (departed_leave) (36,76)
+    person:Lieutenant Colonel W W Boyce (author) (61,88)
+Page 735 (type cover)
+Page 736 (type blank)
+Page 737 (type diary) http://wd3.herokuapp.com/pages/AWD0003mp2  ----------
+  1 Jul 1918 21
+    mapRef:44B (10,23)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 15; wounded: 3 (37,25)
+    place:Ruitz (8,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 15; wounded: 3 (19,27)
+    unit:U.S.A (56,28)
+  2 Jul 1918 34
+    place:Ruitz (6,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 22; wounded: 5 (30,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 22; wounded: 5 (19,40)
+  3 Jul 1918 44
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 10 (17,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (31,58)
+    gridRef:K_20_A_5_5 (6,61)
+    person:Major C Kelly (promotion) (39,64)
+    person:Captain C Kelly (22,65)
+  4 Jul 1918 73
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (30,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (17,81)
+    mapRef:44B (6,85)
+    activity:enemy_activity (32,88)
+    mapRef:44b (7,90)
+Page 738 (type diary) http://wd3.herokuapp.com/pages/AWD0003mpb  ----------
+  5 Jul 1918 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 5 (31,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 5 (23,25)
+    domestic:inspections (38,28)
+    place:Ruitz (5,33)
+    activity:enemy_activity (29,34)
+  6 Jul 1918 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 8 (29,40)
+  7 Jul 1918 46
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 22 (32,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 22 (24,52)
+    gridRef:K_20_A_5_5 (5,54)
+  8 Jul 1918 58
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 0 (33,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 0 (23,64)
+  9 Jul 1918 68
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 1 (22,72)
+  10 Jul 1918 79
+    mapRef:44B (6,84)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 4 (22,84)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,86)
+    mapRef:44b (7,88)
+Page 739 (type diary) http://wd3.herokuapp.com/pages/AWD0003mm9  ----------
+  11 Jul 1918 21
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 5 (29,26)
+  12 Jul 1918 30
+    place:Ruitz (7,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 3 (30,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,39)
+  13 Jul 1918 44
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 2 (30,49)
+    gridRef:K_20_A_5_5 (6,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (41,53)
+  14 Jul 1918 57
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 1 (33,62)
+  15 Jul 1918 67
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 4 (33,71)
+    mapRef:44b (7,72)
+    mapRef:44B (4,72)
+    activity:enemy_activity (51,78)
+    activity:enemy_activity (36,79)
+  16 Jul 1918 83
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 1 (28,86)
+    person:Major C Kelly (returned_leave) (29,89)
+Page 740 (type diary) http://wd3.herokuapp.com/pages/AWD0003mo4  ----------
+  17 Jul 1918 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (30,21)
+    place:Ruitz (7,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (22,26)
+  18 Jul 1918 30
+    place:Ruitz (7,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 11 (30,34)
+  19 Jul 1918 39
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 2 (37,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 2 (25,43)
+  20 Jul 1918 48
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 17 (35,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 17 (24,52)
+    unit:No 141 F.A. (63,58)
+    gridRef:K_20_A_5_5 (6,58)
+    unit:141 fa (66,59)
+  21 Jul 1918 61
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 2 (36,66)
+    place:Hohenzollern (57,70)
+    unit: (43,71)
+  22 Jul 1918 75
+    unit: (30,80)
+    mapRef:44b (7,81)
+    mapRef:44B (4,82)
+    activity:working (58,85)
+    unit:No 141 F.A. (78,90)
+Page 741 (type diary) http://wd3.herokuapp.com/pages/AWD0003mls  ----------
+  22 Jul 1918 20
+    unit:No 141 F.A. (80,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 0 (21,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 71; wounded: 0 (43,25)
+    place:Ruitz (5,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 27; wounded: 10 (41,33)
+  23 Jul 1918 46
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 7 (29,54)
+    gridRef:K_20_A_5_5 (5,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 15; wounded: 10 (34,60)
+    mapRef:44B (5,68)
+  24 Jul 1918 73
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 15 (30,78)
+Page 742 (type diary) http://wd3.herokuapp.com/pages/AWD0003mph  ----------
+  24 Jul 1918 18
+  25 Jul 1918 32
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 24; wounded: 1 (45,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 24; wounded: 1 (40,45)
+    gridRef:K_20_A_5_5 (5,54)
+  26 Jul 1918 65
+    mapRef:44B (5,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (22,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 17; wounded: 0 (34,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (45,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 95; wounded: 0 (32,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (48,88)
+Page 743 (type diary) http://wd3.herokuapp.com/pages/AWD0003mod  ----------
+  27 Jul 1918 19
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 20; wounded: 2 (35,26)
+    weather:rain (35,41)
+  28 Jul 1918 49
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 2 (37,61)
+    mapRef:44B (7,73)
+Page 744 (type diary) http://wd3.herokuapp.com/pages/AWD0003mow  ----------
+  29 Jul 1918 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 35; wounded: 3 (26,27)
+    place:Ruitz (6,33)
+  30 Jul 1918 52
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 26; wounded: 4 (21,56)
+    gridRef:K_20_A_5_5 (5,58)
+    mapRef:44b (6,72)
+    mapRef:44B (8,72)
+Page 745 (type diary) http://wd3.herokuapp.com/pages/AWD0003mm5  ----------
+  31 Jul 1918 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 49; wounded: 2 (36,35)
+    weather:fine (30,63)
+    weather:hot (42,63)
+    gridRef:K_20_A_5_5 (6,63)
+    person:Lieutenant Colonel W W Boyce (author) (57,77)
+    mapRef:44b (7,80)
+    mapRef:44B (7,81)
+Page 746 (type cover)
+Page 747 (type blank)
+Page 748 (type diary) http://wd3.herokuapp.com/pages/AWD0003mle  ----------
+  1 Aug 1918 19
+    place:Ruitz (6,20)
+    mapRef:44B (9,22)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 25; wounded: 6 (24,32)
+  2 Aug 1918 45
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 16; wounded: 0 (34,49)
+    gridRef:K_20_A_5_5 (5,55)
+  3 Aug 1918 63
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 12; wounded: 4 (36,68)
+    mapRef:44B (8,80)
+Page 749 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnd  ----------
+  4 Aug 1918 19
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 24; wounded: 2 (35,28)
+    place:Ruitz (5,28)
+  5 Aug 1918 35
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 19; wounded: 0 (35,41)
+  6 Aug 1918 51
+    gridRef:K_20_A_5_5 (5,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 28; wounded: 3 (40,57)
+    mapRef:44B (8,66)
+    mapRef:44b (7,68)
+  7 Aug 1918 73
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 31; wounded: 7 (43,78)
+Page 750 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmt  ----------
+  7 Aug 1918 21
+    domestic:sport (27,25)
+    place:Ruitz (5,29)
+  8 Aug 1918 32
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 28; wounded: 2 (45,36)
+  9 Aug 1918 52
+    domestic:inspections (24,52)
+    gridRef:K_20_A_5_5 (5,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 30; wounded: 0 (40,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,65)
+    mapRef:44B (7,68)
+    mapRef:44b (7,69)
+    person:Lieutenant C G Northcutt (departed_posted) (26,69)
+    activity:enemy_activity (28,73)
+  10 Aug 1918 75
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 35; wounded: 0 (40,79)
+    activity:enemy_activity (30,90)
+    activity:fire (60,91)
+Page 751 (type diary) http://wd3.herokuapp.com/pages/AWD0003moz  ----------
+  11 Aug 1918 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 31 (38,28)
+    place:Ruitz (5,34)
+    activity:enemy_activity (32,43)
+  12 Aug 1918 44
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 30; wounded: 2 (40,50)
+    gridRef:K_20_A_5_5 (6,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,63)
+    activity:enemy_activity (31,68)
+  13 Aug 1918 69
+    mapRef:44b (7,75)
+    mapRef:44B (5,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 24; wounded: 2 (38,80)
+    activity:enemy_activity (34,89)
+Page 752 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmq  ----------
+  13 Aug 1918 19
+  14 Aug 1918 28
+    place:Ruitz (5,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 21; wounded: 35 (40,31)
+    person:Major Dale (departed_leave) (35,47)
+    gridRef:K_20_A_5_5 (5,52)
+    unit:No 141 F.A. (65,53)
+  15 Aug 1918 54
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 15; wounded: 13 (42,66)
+    mapRef:44b (8,68)
+    mapRef:44B (7,69)
+    activity:enemy_activity (31,84)
+Page 753 (type diary) http://wd3.herokuapp.com/pages/AWD0003mpe  ----------
+  16 Aug 1918 19
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 22; wounded: 1 (36,28)
+  17 Aug 1918 39
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 27; wounded: 3 (32,44)
+    gridRef:K_20_A_5_5 (5,56)
+  18 Aug 1918 63
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 23; wounded: 0 (33,68)
+    mapRef:44B (6,74)
+    mapRef:44b (6,76)
+  19 Aug 1918 81
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (38,85)
+Page 754 (type diary) http://wd3.herokuapp.com/pages/AWD0003mn7  ----------
+  19 Aug 1918 19
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 23; wounded: 3 (40,25)
+  20 Aug 1918 43
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 25; wounded: 3 (43,48)
+    gridRef:K_20_A_5_5 (4,59)
+  21 Aug 1918 66
+    mapRef:44B (7,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 8 (45,78)
+    mapRef:44b (7,79)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,88)
+Page 755 (type diary) http://wd3.herokuapp.com/pages/AWD0003mok  ----------
+  21 Aug 1918 20
+  22 Aug 1918 32
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (39,44)
+    unit:112 F.A. (66,58)
+    unit:112 fa (64,58)
+    activity:movement (37,60)
+    mapRef:44B (7,71)
+    person:Captain D MacIntyre (returned_posted) (32,74)
+    weather:hot (28,86)
+    activity:enemy_activity (28,91)
+Page 756 (type diary) http://wd3.herokuapp.com/pages/AWD0003mlw  ----------
+  23 Aug 1918 20
+    place:Dieval (7,22)
+    mapRef:44B (9,23)
+    unit:2 Infantry Brigade (47,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (38,28)
+    weather:hot (39,37)
+  24 Aug 1918 39
+    unit:2 Infantry Brigade (47,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (32,49)
+    gridRef:O_8_A_6_4 (6,53)
+    mapRef:44B (6,73)
+  25 Aug 1918 76
+    unit:2 Infantry Brigade (35,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (35,85)
+Page 757 (type diary) http://wd3.herokuapp.com/pages/AWD0003moo  ----------
+  26 Aug 1918 20
+    unit:2 Infantry Brigade (29,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (29,29)
+    person:Captain W J Stuttaford (departed_posted) (24,33)
+    person:Captain A P Hart (departed_leave) (26,42)
+  27 Aug 1918 57
+    unit:2 Infantry Brigade (30,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 17; wounded: 0 (37,63)
+    mapRef:44B (4,70)
+    activity:training (27,72)
+    weather:rain (22,75)
+  28 Aug 1918 76
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 0 (32,81)
+    activity:training (27,86)
+    person:Captain D MacIntyre (departed_leave) (24,90)
+Page 758 (type diary) http://wd3.herokuapp.com/pages/AWD0003mlu  ----------
+  28 Aug 1918 21
+    place:Dieval (6,24)
+    person:Captain C B Davies (joined) (27,33)
+    activity:training (32,39)
+  29 Aug 1918 42
+    unit:2 Infantry Brigade (37,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (36,50)
+    activity:training (29,54)
+    activity:training (31,56)
+  30 Aug 1918 57
+    unit:2 Infantry Brigade (39,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (32,64)
+    mapRef:44B (6,65)
+    person:Major A R Dale (returned_leave) (25,73)
+  31 Aug 1918 77
+    weather:rain (27,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (54,82)
+    unit:2 Infantry Brigade (28,82)
+    activity:movement (29,85)
+    place:Arras (64,87)
+    activity:movement (39,87)
+    domestic:accomodation (30,93)
+Page 759 (type cover)
+Page 760 (type blank)
+Page 761 (type diary) http://wd3.herokuapp.com/pages/AWD0003moe  ----------
+  31 Aug 1918 0
+    reference:intelligence summary (56,13)
+    mapRef:51B (8,18)
+  1 Sep 1918 19
+    activity:movement (29,23)
+    reference: (23,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (31,34)
+    person:Major Kelly (departed_posted) (49,38)
+    activity:enemy_activity (29,46)
+    unit:No 10 f.a. (39,46)
+    activity:fire (42,47)
+    weather:fine (76,48)
+  2 Sep 1918 50
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (32,55)
+    person:Captain C B Davies (49,59)
+    activity:fire (45,65)
+    activity:enemy_activity (27,66)
+  3 Sep 1918 67
+    mapRef:51B (7,75)
+  4 Sep 1918 76
+  31 Aug 1918 0
+  4 Sep 1918 76
+    place:Ecole de Jeune Filles (36,81)
+    activity:movement (27,82)
+    unit:12 fa (70,84)
+    unit:No 12 F.A. (71,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 176 (49,88)
+Page 762 (type diary) http://wd3.herokuapp.com/pages/AWD0003mp0  ----------
+  4 Sep 1918 17
+    place:Arras (4,21)
+    person:Captain F S B Fletcher (joined) (25,24)
+    weather:fine (73,25)
+    activity:fire (40,26)
+  5 Sep 1918 29
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 217; wounded: 0 (66,33)
+    mapRef:51B (9,36)
+    activity:fire (40,39)
+  6 Sep 1918 41
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 56 (75,46)
+    person:Captain E Rogerson (departed_posted) (26,53)
+    activity:fire (32,55)
+  7 Sep 1918 57
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 0 (56,64)
+    person:Captain F S B Fletcher (29,67)
+    person:Captain C B Davies (returned_posted) (28,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (73,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (54,84)
+    unit:2/3 London F A (67,87)
+Page 763 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnl  ----------
+  8 Sep 1918 19
+    place:Le Hameau (4,22)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (48,23)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (76,23)
+    mapRef:Lens 11 (8,23)
+    activity:movement (24,25)
+    time:0830AM (60,26)
+    place:Le Hameau (77,26)
+    activity:movement (31,27)
+    time:0100PM (46,29)
+    person:Major Kelly (returned_posted) (28,34)
+    place:Lens (7,36)
+    mapRef:Lens 11 (8,38)
+    weather:rain (24,40)
+  9 Sep 1918 43
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (46,47)
+    person:Lieutenant Northcutt (departed_posted) (36,49)
+    person:Lieutenant Northcutt (departed_posted) (26,51)
+  10 Sep 1918 65
+    time:0300PM (73,68)
+    activity:movement (29,69)
+    time:0400PM (34,73)
+    time:1100PM (48,77)
+    weather:rain (24,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (29,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (68,83)
+Page 764 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnc  ----------
+  11 Sep 1918 20
+    gridRef:R_20_B_2_8 (7,21)
+    place:Proyart (4,21)
+    mapRef:62D (8,22)
+    activity:movement (28,24)
+    gridRef:R_20_B_2_8 (7,26)
+    mapRef:Sheet 62D (5,27)
+    domestic:accomodation (37,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (65,30)
+    mapRef:62D (9,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (33,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,35)
+  12 Sep 1918 39
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (29,42)
+    place:Proyart (5,42)
+    person:Captain C B Davies (other) (64,52)
+    place:Brie (63,55)
+    weather:rain (24,60)
+  13 Sep 1918 61
+    place:Athies (5,65)
+    activity:movement (24,66)
+    mapRef:62C (9,66)
+    mapRef:Sheet 62C (11,67)
+    place:Proyart (31,67)
+    place:Morcourt (34,68)
+    place:Athies (68,69)
+    domestic:accomodation (29,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 19; wounded: 8 (83,73)
+    mapRef:62C (9,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (27,78)
+    person:Captain W J Stuttaford (returned_posted) (33,83)
+Page 765 (type diary) http://wd3.herokuapp.com/pages/AWD0003mne  ----------
+  13 Sep 1918 0
+    place:Tertry (5,21)
+  14 Sep 1918 22
+    gridRef:Q_31_D_6_5 (7,22)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (54,22)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (72,22)
+    mapRef:62C (9,23)
+    mapRef:Sheet 62C (10,27)
+    place:Athies (42,27)
+    gridRef:Q_31_D_6_5 (6,27)
+    place:Tertry (4,28)
+    activity:movement (31,29)
+    mapRef:62C (9,41)
+    activity:fire (40,49)
+  15 Sep 1918 53
+    person:Captain D MacIntyre (returned_leave) (24,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (43,60)
+    person:Captain W J Stuttaford (departed_posted) (52,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,76)
+  16 Sep 1918 77
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (42,82)
+    person:Captain D MacIntyre (other) (39,91)
+    person:Captain Davies (other) (53,91)
+Page 766 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnf  ----------
+  17 Sep 1918 20
+    place:Vermand (4,22)
+    gridRef:R_32_A_3_9 (7,23)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (39,23)
+    mapRef:62C (9,23)
+    place:Vermand (54,26)
+    gridRef:R_32_A_3_9 (8,28)
+    unit:No. 141 Field Ambulance (53,29)
+    unit:141 F A (33,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 61 (51,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 43 (31,41)
+    mapRef:62C (10,45)
+    activity:fire (34,46)
+    mapRef:62c (9,47)
+    activity:fire (64,50)
+  18 Sep 1918 54
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 106 (52,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 79 (30,70)
+    activity:fire (33,73)
+    place:Omignon River (75,86)
+Page 767 (type diary) http://wd3.herokuapp.com/pages/AWD0003mpa  ----------
+  18 Sep 1918 21
+    place:Vermand (4,20)
+    mapRef:Sheet 62C (10,26)
+    gridRef:R_32_A_3_9 (7,27)
+    place:Vadencourt Chateau (71,28)
+    gridRef:R_11_C_8_9 (36,29)
+    mapRef:62C (9,34)
+    mapRef:62c (9,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (86,36)
+    casualties:died: 4; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 24 (66,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 28 (30,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 13; sick: 0; wounded: 0 (43,44)
+    activity:fire (53,53)
+    person:Captain W J Stuttaford (returned_posted) (26,61)
+  19 Sep 1918 63
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 8 (28,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 8 (38,67)
+    place:Vermand (41,69)
+    gridRef:R_11_C_8_9 (45,77)
+    place:Cooker Quarry (28,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 13 (31,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 13 (39,85)
+Page 768 (type diary) http://wd3.herokuapp.com/pages/AWD0003mo6  ----------
+  20 Sep 1918 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,25)
+    unit:1/3 N Midland F A (33,35)
+    mapRef:62C (7,39)
+  21 Sep 1918 49
+    mapRef:62C (9,53)
+    mapRef:62C (9,65)
+Page 769 (type diary) http://wd3.herokuapp.com/pages/AWD0003mpc  ----------
+  22 Sep 1918 20
+    person:Major Kelly (commander) (77,23)
+    gridRef:Q_31_D_6_5 (6,27)
+    mapRef:Sheet 62C (9,27)
+    person:Lieutenant Colonel W W Boyce (59,33)
+    mapRef:62C (8,34)
+    person:Lieutenant Colonel W W Boyce (66,43)
+    mapRef:62c (6,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 30; wounded: 25 (48,50)
+  23 Sep 1918 61
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 30; wounded: 25 (58,53)
+    gridRef:Q_29_D_3_9 (5,59)
+    mapRef:62C (8,59)
+    mapRef:62c (8,61)
+    place:Tertry (61,62)
+    activity:movement (36,63)
+    time:0300PM (40,64)
+    gridRef:Q_29_D_3_9 (7,65)
+    person:Captain Stutterford (departed_posted) (57,67)
+    person:Captain D MacIntyre (departed_posted) (32,69)
+    person:Captain W J Stuttaford (departed_posted) (43,69)
+    place:Poeuilly (7,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 27; wounded: 54 (70,90)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 27; wounded: 54 (61,90)
+Page 770 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmn  ----------
+  24 Sep 1918 20
+    place:Poeuilly (4,21)
+    person:Captain H Dillard (joined) (30,24)
+    gridRef:Q_29_D_3_9 (6,25)
+    mapRef:Sheet 62C (5,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (41,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (31,29)
+    mapRef:62c (8,31)
+    mapRef:62C (10,38)
+    mapRef:62c (9,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 714 (52,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 91; sick: 14; wounded: 623 (61,45)
+  25 Sep 1918 50
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (32,60)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (56,62)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (80,63)
+    place:Poeuilly (6,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 60; wounded: 27 (82,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 60; wounded: 27 (55,71)
+  26 Sep 1918 73
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 88; wounded: 31 (54,84)
+    person:Captain G E E Nicholls (joined) (25,87)
+Page 771 (type diary) http://wd3.herokuapp.com/pages/AWD0003mm2  ----------
+  26 Sep 1918 0
+  27 Sep 1918 23
+    mapRef:Sheet 62C (9,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 79; wounded: 38 (39,30)
+    mapRef:62c (10,38)
+  28 Sep 1918 39
+    mapRef:62C (9,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 79; wounded: 123 (39,46)
+    person:Major A R Dale (22,54)
+    person:Major A R Dale (31,54)
+    person:Captain E Rogerson (departed_posted) (24,62)
+    person:Captain D MacIntyre (returned_posted) (22,69)
+    activity:enemy_activity (35,80)
+    activity:fire (54,80)
+Page 772 (type diary) http://wd3.herokuapp.com/pages/AWD0003mlq  ----------
+  29 Sep 1918 21
+    mapRef:Sheet 62C (9,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 113; wounded: 786 (49,34)
+    weather:rain (23,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 113; wounded: 0 (51,39)
+    mapRef:62c (10,42)
+    weather:rain (26,44)
+  30 Sep 1918 46
+    gridRef:Q_29_D_3_9 (6,48)
+    mapRef:62C (9,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 101 (50,60)
+    person:Major Kelly (60,65)
+    place:Poeuilly (6,76)
+Page 773 (type report) http://wd3.herokuapp.com/pages/AWD0003moy  ----------
+  30 Sep 1918 0
+    reference:Appendix I (32,10)
+    reference:appendix I (19,11)
+    date:17 Sep 1918 (81,26)
+    reference:Sheet 62C (30,28)
+    reference:Map Reference Sheet 62C (9,31)
+    reference:Grid Reference R.23.B.2.7 (83,33)
+    reference:RAP - Grid Reference R.23.B.2.7 (71,53)
+    reference:Stretcher Party - Grid Reference R.27.B.3.2 (67,58)
+    reference:Ambulance Cars - Grid Reference R.23.B.2.7 (63,61)
+    reference:RAP - Grid Reference R.21.B.8.9 (68,75)
+    reference:Relay post - Grid Reference R.26.B.80.95 (48,82)
+    reference:Squards of Bearers - Grid Reference R.32.A.3.9 (21,90)
+    reference:HQ of 2nd Field Ambulance - Grid Reference R.32.A.3.9 (20,94)
+Page 774 (type report) http://wd3.herokuapp.com/pages/AWD0003mmu  ----------
+  30 Sep 1918 0
+    reference:Car Reserve (18,25)
+    reference:Ambulance Car Reserve - Grid Reference Q.29.D.2.6 (33,25)
+    reference:Walking Wonded Collecting Post - Grid Reference Q.29.D.3.9 (47,38)
+    reference:Walking Wounded Collecting Post (22,39)
+    reference:Gassed Cases (19,49)
+    reference:Communication (17,63)
+    reference:appendix I - page 2 (8,9)
+Page 775 (type cover)
+Page 776 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmo  ----------
+  30 Sep 1918 0
+    place:Poeuilly (6,21)
+  1 Oct 1918 22
+    mapRef:62C (8,24)
+    mapRef:Sheet 62C (8,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 8 (41,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 8 (63,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 3; sick: 0; wounded: 0 (61,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 3; sick: 0; wounded: 0 (40,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (43,46)
+    mapRef:Q29.c.34 sheet 62c (4,48)
+    place:Poeuilly (8,53)
+    place:Vadencourt (4,54)
+  2 Oct 1918 55
+    activity:movement (25,57)
+    mapRef:62C (9,57)
+    mapRef:Sheet 62C (31,58)
+    place:Vadencourt (26,58)
+    mapRef:Sheet 62C (9,60)
+    mapRef:62C (8,61)
+    mapRef:62c (9,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 4; sick: 1; wounded: 8 (62,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 8 (50,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 4; sick: 0; wounded: 0 (49,82)
+    mapRef:R14 sc sheet 62c (10,85)
+    place:Vadencourt (9,90)
+Page 777 (type diary) http://wd3.herokuapp.com/pages/AWD0003mn4  ----------
+  3 Oct 1918 23
+    place:Vadencourt (5,25)
+    gridRef:R_16_B_6_8 (8,26)
+    mapRef:Sheet 62C (5,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (61,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 20; wounded: 98 (46,35)
+    place:Vadencourt (5,40)
+    person:Major Kelly (commander) (23,45)
+    mapRef:62c (10,45)
+    mapRef:62C (9,45)
+    person:Major Kelly (departed_sick) (32,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (39,52)
+    person:Captain Nicholls (departed_posted) (25,61)
+    activity:enemy_activity (27,65)
+  4 Oct 1918 69
+    person:Captain A S T Fisher (joined) (25,70)
+    weather:rain (62,76)
+  5 Oct 1918 81
+    mapRef:62C (10,83)
+    place:Caulaincourt (4,83)
+    mapRef:Sheet 62C (7,85)
+    mapRef:62C (82,86)
+    activity:movement (28,87)
+    mapRef:62c (9,91)
+    weather:fine (35,91)
+    place:Caulaincourt (5,92)
+Page 778 (type diary) http://wd3.herokuapp.com/pages/AWD0003ml9  ----------
+  6 Oct 1918 19
+    weather:overcast (27,24)
+    mapRef:62C (9,26)
+  7 Oct 1918 27
+    mapRef:Sheet 62C (6,27)
+    place:Caulaincourt (5,28)
+    weather:overcast (22,36)
+  8 Oct 1918 38
+  9 Oct 1918 66
+    activity:movement (34,70)
+    mapRef:62b (8,71)
+    mapRef:62B (37,73)
+    weather:fine (29,79)
+  10 Oct 1918 81
+    weather:fine (29,89)
+Page 779 (type diary) http://wd3.herokuapp.com/pages/AWD0003mog  ----------
+  11 Oct 1918 17
+    mapRef:62b (8,24)
+  12 Oct 1918 33
+    weather:rain (25,41)
+  13 Oct 1918 43
+    activity:movement (35,57)
+    gridRef:G_30_A_8_2 (39,57)
+    mapRef:62B (44,58)
+    mapRef:62b (52,60)
+  14 Oct 1918 61
+    weather:fine (34,71)
+  15 Oct 1918 73
+    activity:movement (31,81)
+    mapRef:62B (38,82)
+    weather:overcast (34,88)
+Page 780 (type diary) http://wd3.herokuapp.com/pages/AWD0003mo8  ----------
+  16 Oct 1918 21
+    mapRef:Sheet 62C (6,27)
+    person:Lieutenant Colonel W W Boyce (returned_leave) (22,30)
+    mapRef:62b (6,31)
+    person:Lieutenant Colonel W W Boyce (returned_leave) (24,31)
+    person:Lieutenant Colonel Boyce (29,32)
+    weather:rain (38,38)
+    weather:overcast (22,38)
+  17 Oct 1918 39
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (29,42)
+    person:Lieutenant C F Lauer (joined) (26,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (31,58)
+    person:Captain Fisher (67,61)
+    person:Major MacIntyre (departed_posted) (49,62)
+  18 Oct 1918 66
+    place:Bohain (64,66)
+    person:Captain W J E Stuttaford (departed_posted) (23,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (44,87)
+    weather:overcast (55,90)
+Page 781 (type diary) http://wd3.herokuapp.com/pages/AWD0003mof  ----------
+  19 Oct 1918 17
+    mapRef:Wassigny (8,23)
+    activity:movement (26,27)
+    weather:rain (28,41)
+  20 Oct 1918 44
+    mapRef:Wassigny (8,48)
+    activity:movement (30,55)
+    place:Molain (44,55)
+    unit:Ambulance of 30 American Division (54,56)
+    place:Molain (5,57)
+    unit:30 American Division Ambulance (63,59)
+    unit:Field Ambulance of 30 American Division (71,61)
+  21 Oct 1918 75
+Page 782 (type diary) http://wd3.herokuapp.com/pages/AWD0003mno  ----------
+  21 Oct 1918 21
+  22 Oct 1918 42
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (27,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 24 (55,49)
+    person:Captain E Forbes (29,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (45,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (25,76)
+    weather:overcast (34,81)
+Page 783 (type diary) http://wd3.herokuapp.com/pages/AWD0003mme  ----------
+  23 Oct 1918 20
+    mapRef:Wassigny (6,40)
+    weather:overcast (35,50)
+  24 Oct 1918 54
+Page 784 (type diary) http://wd3.herokuapp.com/pages/AWD0003mm6  ----------
+  25 Oct 1918 17
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 66; wounded: 15 (33,27)
+    weather:fine (27,31)
+  26 Oct 1918 35
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 54; wounded: 25 (38,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,42)
+    person:Major D MacIntyre (24,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (37,43)
+    place:Etaples (26,51)
+    weather:overcast (32,70)
+  27 Oct 1918 74
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 48; wounded: 1 (37,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 40; wounded: 0 (62,80)
+Page 785 (type diary) http://wd3.herokuapp.com/pages/AWD0003mn6  ----------
+  27 Oct 1918 22
+    place:Molain (6,26)
+    mapRef:Wassigny (6,28)
+    gridRef:W_16_A_2_1 (7,32)
+    weather:overcast (35,32)
+    weather:rain (39,34)
+    mapRef:Wassigny (5,36)
+  28 Oct 1918 38
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 63; wounded: 49 (19,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 63; wounded: 49 (50,44)
+    person:Captain Hayes (joined) (22,50)
+    weather:overcast (38,76)
+    weather:overcast (26,78)
+Page 786 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmz  ----------
+  29 Oct 1918 21
+    place:Molain (6,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 67; wounded: 62 (58,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 69; wounded: 62 (19,26)
+    mapRef:Wassigny (4,30)
+    gridRef:W_16_A_2_1 (7,31)
+    mapRef:Wassigny (8,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (21,41)
+    mapRef:Wassigny Sheet (4,45)
+    person:Captain Fuker (promotion) (19,50)
+    weather:fine (20,63)
+    weather:fine (30,64)
+  30 Oct 1918 66
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 58; wounded: 48 (18,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 58; wounded: 48 (43,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (21,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (51,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (42,89)
+    weather:fine (62,93)
+    weather:fine (51,95)
+Page 787 (type diary) http://wd3.herokuapp.com/pages/AWD0003mm3  ----------
+  31 Oct 1918 17
+    mapRef:Wassigny (5,29)
+    gridRef:W_16_A_2_1 (7,29)
+    mapRef:Wassigny (5,38)
+    weather:rain (25,56)
+    reference:Weather (27,58)
+    reference:dull (55,58)
+    reference:wet (36,59)
+    reference:and (42,59)
+    reference:very (47,59)
+    person:Lieutenant Colonel W W Boyce (59,66)
+Page 788 (type cover)
+Page 789 (type diary) http://wd3.herokuapp.com/pages/AWD0003mng  ----------
+  31 Oct 1918 0
+  1 Nov 1918 21
+    mapRef:Wassigny (8,22)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 73; wounded: 0 (48,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 10 (19,25)
+    place:Molain (5,25)
+    mapRef:Wassigny (6,28)
+    gridRef:W_16_A_2_1 (7,29)
+    mapRef:Wassigny (4,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,35)
+    weather:overcast (28,38)
+    weather:overcast (20,39)
+  2 Nov 1918 40
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 9 (19,44)
+    weather:overcast (30,52)
+  3 Nov 1918 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 83; wounded: 0 (49,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 12 (19,58)
+    person:Captain C H Comerford (joined) (38,63)
+    person:Captain W Shakespeare (joined) (23,64)
+    weather:rain (27,70)
+  4 Nov 1918 73
+    weather:rain (21,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 40; wounded: 0 (40,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 29 (31,79)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (20,87)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,88)
+    weather:fine (20,90)
+    weather:fine (28,90)
+Page 790 (type diary) http://wd3.herokuapp.com/pages/AWD0003mn9  ----------
+  5 Nov 1918 19
+    mapRef:Wassigny (6,34)
+    weather:overcast (27,37)
+  6 Nov 1918 38
+    person:Captain C H Comerford (departed_posted) (25,48)
+  7 Nov 1918 65
+    place:Fresnoy-le-Grand (5,68)
+    mapRef:Wassigny (8,70)
+    person:Major D MacIntyre (27,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (33,72)
+    mapRef:Wassigny (5,79)
+    weather:overcast (28,82)
+Page 791 (type diary) http://wd3.herokuapp.com/pages/AWD0003mob  ----------
+  8 Nov 1918 20
+    place:Fresnoy-le-Grand (6,21)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 0 (19,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 0 (31,25)
+    mapRef:Wassigny (3,28)
+    mapRef:Wassigny (8,32)
+    weather:overcast (27,34)
+    weather:overcast (21,35)
+  9 Nov 1918 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 28; wounded: 0 (19,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 30; wounded: 0 (29,41)
+    weather:overcast (20,48)
+    weather:overcast (28,48)
+  10 Nov 1918 49
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 0 (29,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 0 (19,53)
+    weather:overcast (30,74)
+  11 Nov 1918 75
+    weather:overcast (22,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 37; wounded: 0 (23,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (27,85)
+    weather:fine (21,92)
+    weather:fine (34,92)
+Page 792 (type diary) http://wd3.herokuapp.com/pages/AWD0003mlx  ----------
+  12 Nov 1918 20
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 42; wounded: 0 (20,24)
+    gridRef:I_18_C_3_3 (5,27)
+    weather:overcast (29,34)
+  13 Nov 1918 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (20,40)
+    place:Favril (31,48)
+    activity:movement (24,48)
+    person:Captain C Wood (joined) (22,55)
+    weather:fine (27,61)
+  14 Nov 1918 63
+    place:Favril (5,66)
+    mapRef:Wassigny (8,66)
+    mapRef:Wassigny (7,74)
+    person:Captain W Shakespeare (departed_posted) (22,74)
+    weather:fine (28,84)
+Page 793 (type diary) http://wd3.herokuapp.com/pages/AWD0003mn2  ----------
+  15 Nov 1918 18
+    activity:movement (37,27)
+    mapRef:Wassigny (8,28)
+  16 Nov 1918 32
+    place:Dompierre (6,35)
+    mapRef:Namur (7,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (37,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (22,39)
+    activity:movement (43,45)
+  17 Nov 1918 52
+    place:Sars Poteries (5,55)
+    mapRef:Namur (9,56)
+    mapRef:Namur (5,64)
+    weather:fine (33,65)
+  18 Nov 1918 67
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (26,74)
+    place:Donstiennes (62,78)
+    activity:movement (49,78)
+    mapRef:Namur (70,79)
+    weather:fine (31,84)
+Page 794 (type diary) http://wd3.herokuapp.com/pages/AWD0003mo1  ----------
+  19 Nov 1918 18
+    place:Donstiennes (5,21)
+    mapRef:Namur (70,29)
+    mapRef:Namur (6,33)
+    person:Captain Watson (joined) (25,33)
+    weather:cold (35,38)
+  20 Nov 1918 41
+    place:Walcourt (4,44)
+    mapRef:Namur (7,52)
+    weather:fine (27,55)
+  21 Nov 1918 57
+  22 Nov 1918 73
+    weather:fine (28,82)
+Page 795 (type diary) http://wd3.herokuapp.com/pages/AWD0003mp6  ----------
+  23 Nov 1918 19
+    mapRef:Namur (8,28)
+    activity:movement (60,28)
+    place:Walcourt (6,28)
+    mapRef:Namur (6,34)
+    weather:fine (28,36)
+  24 Nov 1918 39
+    place:Donveau (3,42)
+    activity:movement (54,45)
+    place:Falaen (58,46)
+    mapRef:Namur (4,50)
+    weather:fine (26,57)
+  25 Nov 1918 60
+    place:Falaen (4,62)
+    person:Major A R Dale (departed_posted) (20,68)
+    mapRef:Namur (5,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (33,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (23,78)
+    weather:fine (27,86)
+Page 796 (type diary) http://wd3.herokuapp.com/pages/AWD0003mmm  ----------
+  26 Nov 1918 20
+    place:Falaen (6,22)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 28; wounded: 0 (19,23)
+    weather:overcast (28,31)
+    weather:rain (36,31)
+  27 Nov 1918 34
+    mapRef:Namur (3,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 31; wounded: 0 (19,38)
+    weather:overcast (30,42)
+  28 Nov 1918 44
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 0 (19,47)
+    person:Lieutenant Colonel W W Boyce (75,51)
+    weather:overcast (31,54)
+  29 Nov 1918 57
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 22; wounded: 0 (20,59)
+    person:Lieutenant Colonel W W Boyce (departed_posted) (21,67)
+    weather:fine (30,80)
+  30 Nov 1918 81
+    weather:fine (19,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 39; wounded: 0 (19,84)
+    person:Major A Fisher (69,90)
+    weather:fine (27,92)
+    weather:fine (19,92)
+    person:Major A G T Fisher (66,92)
+Page 797 (type cover)
+Page 798 (type diary) http://wd3.herokuapp.com/pages/AWD0003mm7  ----------
+  1 Dec 1918 19
+    place:Falaen (5,21)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 30; wounded: 0 (18,23)
+    place:Weillen (39,28)
+    mapRef:Namur (54,28)
+    activity:movement (29,28)
+    mapRef:3.J.88.12 (45,29)
+    mapRef:Namur (4,33)
+  2 Dec 1918 35
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 0 (19,38)
+    place:Weillen (5,38)
+    mapRef:4.L.91.84 (48,41)
+    activity:movement (23,42)
+    place:Boisseilles (37,43)
+    person:Lieutenant Colonel W W Boyce (award) (27,46)
+    mapRef:Namur (5,48)
+    person:Captain A P Hart (award) (24,50)
+    weather:overcast (26,56)
+  3 Dec 1918 58
+    place:Boisseilles (6,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 17; wounded: 0 (18,62)
+    place:Jamblinne (37,66)
+    mapRef:Marche (42,66)
+    activity:movement (31,66)
+    mapRef:Namur (10,71)
+    weather:overcast (27,73)
+  4 Dec 1918 75
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 37; wounded: 0 (19,78)
+    place:Jamblinne (4,79)
+    weather:rain (25,83)
+    mapRef:Marghe (5,86)
+Page 799 (type diary) http://wd3.herokuapp.com/pages/AWD0003mos  ----------
+  5 Dec 1918 21
+    mapRef:Marche No. 9 (19,24)
+    weather:fine (29,30)
+  6 Dec 1918 32
+    mapRef:Sheet Marche No. 9 (5,34)
+    unit:7/1 hc field ambulance (70,40)
+  7 Dec 1918 61
+    weather:fine (26,84)
+Page 800 (type diary) http://wd3.herokuapp.com/pages/AWD0003mlv  ----------
+  8 Dec 1918 22
+    mapRef:Marghe, No. 9 (3,28)
+    mapRef:Marche 9 (6,37)
+    person:Major Fisher (author) (71,48)
+  9 Dec 1918 70
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (26,77)
+    place:Haversin (39,81)
+    mapRef:Marche, No. 9 (37,82)
+    activity:movement (29,83)
+Page 801 (type diary) http://wd3.herokuapp.com/pages/AWD0003mo7  ----------
+  10 Dec 1918 19
+    place:Haversin (6,23)
+    mapRef:Marche 9 (5,34)
+    activity:movement (28,35)
+  11 Dec 1918 42
+    place:Deulin (5,45)
+    activity:movement (29,49)
+    mapRef:Marche 9 (5,53)
+    weather:rain (28,54)
+  12 Dec 1918 56
+    place:Ny (5,58)
+    person:Captain A G T Fisher (promotion) (24,62)
+    person:T T Haines (25,66)
+    weather:rain (30,69)
+    mapRef:Marche 9 (4,71)
+  13 Dec 1918 72
+    person:Major A G T Fisher (commander) (75,75)
+    person:Lieutenant Colonel W W Boyce (departed_posted) (36,78)
+    person:Chaplain T T Haines (returned_leave) (34,82)
+    weather:rain (29,87)
+Page 802 (type diary) http://wd3.herokuapp.com/pages/AWD0003mld  ----------
+  14 Dec 1918 18
+    activity:movement (40,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 15; wounded: 0 (21,25)
+    place:Vaux Chavanne (41,30)
+    activity:movement (33,31)
+    mapRef:Marche, No. 9 (5,32)
+    mapRef:Marele 9 (5,33)
+    weather:rain (28,34)
+  15 Dec 1918 38
+    place:Vaux Chavanne (6,40)
+    place:Fraiture (52,43)
+    activity:movement (34,44)
+    mapRef:Marele 9 (6,48)
+    mapRef:Marche, No. 9 (5,48)
+    weather:rain (25,51)
+  16 Dec 1918 55
+    place:Fraiture (4,57)
+    place:Honvelez (40,61)
+    activity:movement (29,62)
+    mapRef:Marche, No. 9 (4,66)
+    time:1210PM (22,66)
+    mapRef:Marele 9 (4,67)
+    weather:rain (33,68)
+    weather:rain (25,70)
+  17 Dec 1918 72
+    place:Honvelez (5,74)
+    activity:movement (29,79)
+    place:Maldingen (38,79)
+    mapRef:Marele 9 (5,81)
+    mapRef:Marche, No. 9 (4,82)
+    weather:rain (27,89)
+Page 803 (type diary) http://wd3.herokuapp.com/pages/AWD0003mp1  ----------
+  18 Dec 1918 18
+    place:Maldingen (5,21)
+    activity:movement (40,26)
+    place:Schonberg (41,29)
+    activity:movement (31,33)
+    mapRef:Germany IM (6,35)
+    weather:rain (45,43)
+  19 Dec 1918 47
+    place:Schonberg (5,49)
+    activity:movement (33,53)
+    weather:cold (38,64)
+  20 Dec 1918 68
+    place:Scheid (5,72)
+    weather:cold (41,90)
+Page 804 (type diary) http://wd3.herokuapp.com/pages/AWD0003moj  ----------
+  21 Dec 1918 21
+    mapRef:Germany 1M (6,22)
+    place:Scheid (5,24)
+    person:Captain A P Hart (commander) (75,28)
+    person:Major A G T Fisher (departed_leave) (65,35)
+    person:Major A Fisher (author) (67,36)
+    mapRef:Germany IM (9,37)
+    mapRef:Sheet 1M, Germany (4,38)
+    place:Schmidtheim (37,42)
+    activity:movement (27,43)
+    weather:fine (27,53)
+  22 Dec 1918 54
+    place:Schmidtheim (5,56)
+    place:Schmidtheim (5,60)
+    activity:movement (29,60)
+    mapRef:Germany 1L (43,61)
+    mapRef:Sheet 1M, Germany (3,68)
+  23 Dec 1918 70
+    place:Eicherscheid (6,74)
+    place:Kirchheim (40,76)
+    activity:movement (30,77)
+    mapRef:Germany 2L (45,79)
+    mapRef:Sheet 1L, Germany (4,84)
+    weather:rain (34,86)
+Page 805 (type diary) http://wd3.herokuapp.com/pages/AWD0003mnp  ----------
+  24 Dec 1918 21
+    place:Kirchheim (5,22)
+    mapRef:Sheet 2L, Germany (39,28)
+    activity:movement (31,28)
+    place:Volmershoven (41,29)
+    mapRef:Sheet 2L, Germany (4,35)
+    person:Major A R Dale (returned_posted) (23,38)
+    weather:fine (28,42)
+    place:Volmershoven (5,44)
+    person:Major A R Dale (commander) (61,45)
+    person:Captain A Hart (author) (62,49)
+    mapRef:Germany 26 (4,53)
+  25 Dec 1918 55
+    activity:quiet (23,61)
+    weather:cold (45,62)
+  26 Dec 1918 67
+    weather:fine (31,74)
+  27 Dec 1918 77
+    weather:rain (35,84)
+Page 806 (type diary) http://wd3.herokuapp.com/pages/AWD0003mma  ----------
+  28 Dec 1918 20
+    place:Volmershoven (6,23)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (18,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (32,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (18,29)
+    mapRef:Sheet 2L, Germany (4,32)
+    activity:other (20,40)
+  29 Dec 1918 48
+    weather:rain (54,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (18,53)
+    weather:fine (26,65)
+  30 Dec 1918 66
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 0 (18,70)
+    weather:rain (35,73)
+  31 Dec 1918 75
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (19,81)
+    weather:rain (24,85)
+    person:Major A R Dale (commander) (66,90)

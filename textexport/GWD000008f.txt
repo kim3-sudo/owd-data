@@ -1,0 +1,5805 @@
+GWD000008f wo/95/1111/1
+1 CAVALRY DIVISION: 2 Machine Gun Squadron 
+257 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD000192c  ----------
+  1 Feb 1916 0
+    unit:2 Cavalry Brigade Pioneer Battalion (42,25)
+  3 Jan 1917 29
+    time:0200AM (47,30)
+    place:Tincques (6,31)
+  4 Jan 1917 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,39)
+    person:Second Lieutenant Hunter (casualty_wounded) (26,39)
+    place:Tincques (6,39)
+  5 Jan 1917 44
+    domestic:parades (37,44)
+    place:Tincques (8,46)
+  6 Jan 1917 52
+    domestic:parades (35,52)
+  7 Jan 1917 60
+    domestic:parades (35,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,64)
+  8 Jan 1917 68
+  9 Jan 1917 75
+    domestic:parades (35,75)
+  10 Jan 1917 82
+    unit:1Cavalry Division (47,83)
+    domestic:parades (35,83)
+    unit:1 Cavalry Brigade pioneer battalion (49,84)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD000194b  ----------
+  10 Jan 1917 0
+    place:Enquin (6,26)
+    unit:2 Machine Gun Squadron (29,26)
+    person:Captain C Haslam (commander) (76,29)
+    unit:Machine Gun Corps (55,29)
+    person:Lieutenant J A Aiglewood (commander) (40,39)
+    person:Second Lieutenant G Dent (commander) (41,43)
+    person:Lieutenant D F G Duff (commander) (41,49)
+    person:Lieutenant C H Miller (commander) (45,57)
+    person:Second Lieutenant F W Pink (commander) (46,62)
+    person:F E Sharp (promotion) (37,66)
+    person:A J Hargreaves (promotion) (37,73)
+    person:Farrier J Little (48,79)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD000197k  ----------
+  10 Jan 1917 0
+    place:Enquin (7,24)
+    place:Berneuilles (73,28)
+    unit:Hq 4 d.g.s (63,28)
+    person:Lieutenant Aiglewood (30,29)
+    place:Enquin (45,33)
+    person:Lieutenant Dent (30,34)
+    place:Alette (75,35)
+    unit:H.Q. 18 Hussars (65,36)
+    person:Lieutenant Miller (30,38)
+    place:Enquin (45,42)
+    person:Second Lieutenant Pink (30,42)
+    place:Sehem (44,46)
+    person:Lieutenant Duff (30,47)
+    place:Le Rocque (46,50)
+    person:Second Lieutenant Le Roy Lewis (commander) (30,51)
+    activity:training (25,58)
+    domestic:inspections (34,67)
+    unit:4 Dragoon Guards (70,67)
+    time:0900AM (24,71)
+    activity:training (24,76)
+    time:1100AM (72,86)
+    activity:training (25,88)
+    place:Beussent (77,90)
+    domestic:parades (50,90)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD000194l  ----------
+  10 Jan 1917 0
+    place:Enquin (6,26)
+    place:Beussent (78,35)
+    place:Bois Ratel (24,39)
+    place:Preures (37,39)
+    person:Lieutenant Colonel Fisher (departed_training) (28,43)
+    person:Lieutenant Colonel Robinson (departed_training) (54,44)
+    place:Wisques (42,49)
+    place:Enquin (30,60)
+    unit:1 Cavalry Brigade pioneer battalion (41,64)
+    domestic:parades (83,66)
+    place:Preures (27,71)
+    activity:repair (27,81)
+    place:Doudeauville (61,87)
+    place:Dalle (73,88)
+    place:Enquin (80,88)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD000196y  ----------
+  10 Jan 1917 0
+    place:Enquin (6,25)
+    activity:training (24,26)
+    activity:repair (64,28)
+    activity:repair (55,29)
+    domestic:inspections (30,29)
+    activity:training (28,36)
+    domestic:inspections (38,41)
+    time:1230PM (68,46)
+    activity:training (25,47)
+    place:Berneuilles (37,61)
+    place:Sequieres (69,62)
+    place:Rolet (80,62)
+    place:Enquin (58,64)
+    place:Enquin (25,66)
+    person:Lieutenant Aizlewood (commander) (51,72)
+    person:Lieutenant Miller (commander) (65,72)
+    place:Preures (42,73)
+    domestic:parades (26,74)
+    place:Dalle (50,76)
+    activity:training (42,83)
+    activity:repair (58,86)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD0001959  ----------
+  10 Jan 1917 0
+    place:Enquin (9,24)
+    reference:HH (90,26)
+    activity:training (34,37)
+    activity:training (24,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (47,56)
+    place:Montcavrel (49,60)
+    place:Beussent (37,61)
+    activity:reconnoitered (27,61)
+    activity:training (30,72)
+    domestic:religion (36,83)
+    person:Lance Corporal Hartnell (departed_training) (25,85)
+    unit:49 Hartnell (27,86)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD000192g  ----------
+  10 Jan 1917 0
+    activity:training (24,25)
+    reference:CH (90,26)
+    place:Enquin (5,26)
+    activity:training (25,37)
+    activity:training (39,47)
+    activity:training (27,57)
+    time:0230PM (41,68)
+    activity:training (27,69)
+    domestic:inspections (46,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (79,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,73)
+    activity:training (22,79)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD000195w  ----------
+  10 Jan 1917 0
+    domestic:religion (19,25)
+    place:Enquin (7,26)
+    place:Enquin (8,38)
+    activity:training (20,38)
+    place:Doudeauville (72,46)
+    place:Parenty (59,48)
+    activity:training (22,50)
+    place:Bezinghem (26,52)
+    activity:training (20,60)
+    activity:training (21,70)
+    place:Enquinhaut (70,72)
+    domestic:inspections (56,72)
+    domestic:inspections (39,83)
+    activity:training (22,84)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD0001977  ----------
+  Hashtags: #divisionalmarathon 
+  10 Jan 1917 0
+    activity:training (24,25)
+    domestic:inspections (68,25)
+    domestic:inspections (80,25)
+    place:Enquin (7,26)
+    unit:Royal Wilts Yeomanry (53,35)
+    unit:Royal Wilts Yeomanry Machine Gun Section (56,36)
+    domestic:religion (22,37)
+    place:Berneuilles (71,39)
+    person:Lieutenant Rice (commander) (22,42)
+    activity:training (25,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (47,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (18,54)
+    domestic:inspections (36,58)
+    unit:Wilts Yeomanry (50,61)
+    unit:Royal Wilts Yeomanry Machine Gun Section (52,62)
+    activity:training (22,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (47,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (20,65)
+    unit:Wilts Yeomanry (28,69)
+    unit:Royal Wiltshire Yeomanry (21,69)
+    unit:Royal Wilts Yeomanry Machine Gun Section (33,70)
+    domestic:inspections (80,82)
+    activity:training (42,83)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD0001978  ----------
+  10 Jan 1917 0
+    activity:training (23,26)
+    place:Enquin (8,27)
+    place:Hubersent (71,30)
+    place:Enquin (7,31)
+    activity:movement (23,33)
+    place:Danne (37,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (67,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (33,38)
+    unit:Royal Wiltshire Yeomanry (41,47)
+    unit:Wilts Yeomanry (50,49)
+    unit:Royal Wilts Yeomanry Machine Gun Section (59,49)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD000198q  ----------
+  10 Jan 1917 0
+    place:Enquin (7,26)
+    domestic:religion (20,27)
+    unit:Wiltshire Yeomanary Section (22,34)
+    unit:Royal Wiltshire Yeomanry (34,34)
+    place:Enquin (6,34)
+    activity:training (50,34)
+    activity:training (72,34)
+    unit:Wilts Yeomanry (31,35)
+    activity:training (28,40)
+    person:Lieutenant Pink (other) (42,45)
+    activity:training (73,47)
+    place:Beussent (82,58)
+    place:Enquin (33,59)
+    domestic:parades (21,60)
+    time:0815AM (59,64)
+    domestic:inspections (32,64)
+    activity:training (22,69)
+    unit:Royal Wiltshire Yeomanry (39,71)
+    unit:Wiltshire Yeomanary Section (38,73)
+    unit:Wilts Yeomanry (48,73)
+    domestic:inspections (58,76)
+    time:1100AM (40,77)
+    activity:training (18,84)
+    activity:resupplying (28,86)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD000195d  ----------
+  10 Jan 1917 0
+    activity:training (20,25)
+    place:Enquin (7,26)
+    activity:training (40,27)
+    place:Enquin (63,36)
+    domestic:parades (30,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (59,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (70,44)
+    activity:training (21,45)
+    activity:training (21,53)
+    domestic:religion (19,66)
+    unit:1 Army (73,72)
+    domestic:inspections (49,73)
+    place:Danne (41,79)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD000195v  ----------
+  Hashtags: #Good 
+  10 Jan 1917 0
+    place:Enquin (6,25)
+    activity:training (65,25)
+    activity:training (22,29)
+    place:Enquin (6,30)
+    activity:training (20,41)
+    activity:training (22,61)
+    domestic:parades (20,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (56,76)
+    domestic:religion (18,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (32,80)
+    activity:training (20,88)
+    unit:Machine Gun Section Duke of Lancasters Yeomanary (49,95)
+    unit:Duke of Lancasters Yeomanry (61,96)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD000192u  ----------
+  Hashtags: #Easter 
+  10 Jan 1917 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (58,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (72,26)
+    place:Enquin (8,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (80,27)
+    place:Desvres (43,29)
+    activity:resupplying (20,33)
+    domestic:religion (24,41)
+    activity:training (21,51)
+    place:Enquin (29,65)
+    place:Recques (41,65)
+    unit:4 Dragoon Guards (72,69)
+    unit:4 dgs (69,69)
+    place:Camp Raquet (49,69)
+    unit:18 Hussars (45,77)
+    place:Enquinhaut (29,77)
+    place:Beussent (58,81)
+    place:Recques (72,81)
+    place:Bois de Carroy (49,94)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD0001962  ----------
+  10 Jan 1917 0
+    place:Enquinhaut (22,25)
+    place:Enquin (7,27)
+    place:Parenty (66,28)
+    unit:9 Lancers (23,29)
+    person:Lieutenant Pink (other) (77,39)
+    activity:training (20,40)
+    unit:Duke of Lancasters Yeomanry (23,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (39,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,59)
+    activity:training (21,63)
+    activity:training (64,66)
+    domestic:inspections (21,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (51,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (21,74)
+    domestic:rations (20,88)
+    activity:training (33,92)
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD000193r  ----------
+  Hashtags: #squadroncompetition 
+  10 Jan 1917 0
+    place:Enquin (7,27)
+    activity:training (23,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (44,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,67)
+    person:Captain Haslam (commander) (69,75)
+Page 19 (type cover)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD000192b  ----------
+  Hashtags: #Germanmeasles 
+  10 Jan 1917 0
+    place:Camp Racquet Ridge (43,24)
+    place:Enquin (8,25)
+    activity:training (22,26)
+    unit:Duke of Lancasters Machine Guns (39,28)
+    activity:training (22,32)
+    place:Enquin (8,35)
+    activity:training (21,37)
+    domestic:inspections (66,41)
+    activity:training (22,42)
+    activity:training (22,46)
+    place:Enquin (7,46)
+    place:Enquin (8,49)
+    activity:training (22,54)
+    place:Enquin (8,57)
+    activity:training (22,58)
+    activity:training (22,63)
+    domestic:inspections (29,65)
+    place:Enquin (8,65)
+    activity:training (21,66)
+    domestic:religion (26,69)
+    domestic:inspections (37,69)
+    place:Enquin (7,70)
+    place:Enquin (8,73)
+    weather:rain (44,73)
+    place:Enquin (7,77)
+    activity:training (21,80)
+    place:Enquin (8,81)
+    activity:training (22,87)
+    place:Enquin (8,87)
+    place:Enquin (8,90)
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD0001952  ----------
+  Hashtags: #brigadehorseshow #leisure #mountedcompetition 
+  10 Jan 1917 0
+    activity:training (22,24)
+    place:Enquin (7,26)
+    place:Enquin (8,29)
+    activity:training (24,32)
+    place:Preures (48,36)
+    domestic:religion (25,37)
+    weather:rain (41,40)
+    activity:training (23,42)
+    place:Doudeauville (52,45)
+    activity:training (21,46)
+    person:Corporal Bull (award) (61,55)
+    activity:training (25,58)
+    activity:training (20,63)
+    activity:training (26,68)
+    domestic:sport (30,72)
+    place:La Rocque (49,76)
+    place:Enquin (78,76)
+    domestic:religion (20,76)
+    activity:training (24,80)
+    domestic:inspections (32,83)
+    activity:training (25,88)
+    place:Enquin (8,89)
+    activity:training (21,89)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD000193e  ----------
+  10 Jan 1917 0
+    activity:training (28,25)
+    place:Enquin (7,25)
+    activity:training (23,29)
+    place:Enquin (7,29)
+    weather:rain (40,34)
+    place:Enquin (7,34)
+    activity:training (22,38)
+    place:Enquin (7,38)
+    domestic:inspections (40,38)
+    place:Enquin (7,43)
+    activity:training (23,44)
+    activity:training (20,47)
+    place:Enquin (7,47)
+    place:Enquin (7,51)
+    domestic:religion (24,51)
+    activity:training (55,54)
+    place:Enquin (7,54)
+    domestic:inspections (43,54)
+    domestic:inspections (18,55)
+    place:Enquin (7,58)
+    place:Enquin (7,63)
+    place:Dalle (40,68)
+    place:Enquin (57,68)
+    place:Enquin (7,68)
+    place:Sehen (82,68)
+    place:Enquin (29,71)
+    activity:training (29,76)
+    activity:training (61,78)
+    place:Enquin (7,78)
+    activity:training (23,85)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD000194k  ----------
+  10 Jan 1917 0
+    activity:training (28,27)
+    place:Enquin (6,28)
+    place:Enquin (79,30)
+    domestic:parades (67,31)
+    activity:training (59,37)
+    activity:training (38,46)
+    activity:training (17,47)
+    domestic:parades (72,56)
+    activity:training (18,64)
+    domestic:inspections (79,65)
+    activity:training (52,66)
+    place:Preures (75,76)
+    domestic:religion (52,76)
+    weather:rain (34,82)
+    activity:training (57,86)
+    time:0300PM (43,94)
+    place:Parenty (73,95)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD000195e  ----------
+  Hashtags: #divisionalhorseshow 
+  10 Jan 1917 0
+    weather:rain (33,25)
+    place:Enquin (6,26)
+    place:Enquin (6,34)
+    activity:training (20,36)
+    place:Enquin (6,45)
+    activity:training (24,47)
+    unit:1 Cavalry Division (55,57)
+    place:Enquin (6,64)
+    place:Samer (70,65)
+    domestic:inspections (20,65)
+    place:Enquin (6,81)
+    domestic:sport (32,82)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD0001970  ----------
+  10 Jan 1917 0
+    place:Enquin (5,27)
+    place:Enquin (82,29)
+    domestic:religion (32,30)
+    domestic:religion (51,30)
+    place:Enquin (7,31)
+    place:Enquin (7,35)
+    unit:9 Lancers (84,35)
+    activity:training (21,36)
+    unit:9 Lancers (54,38)
+    place:Hucqueliers (63,44)
+    place:Enquin (78,44)
+    weather:rain (69,47)
+    weather:rain (32,56)
+    place:Enquin (7,56)
+    activity:training (53,62)
+    activity:training (69,63)
+    place:Enquin (6,66)
+    activity:training (18,66)
+    activity:training (18,71)
+    activity:training (36,75)
+    place:Enquin (6,83)
+    activity:training (20,87)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD000198y  ----------
+  Hashtags: #LordKitchener 
+  10 Jan 1917 0
+    activity:training (49,25)
+    activity:training (20,26)
+    place:Enquin (6,26)
+    place:Enquin (6,31)
+    place:Enquin (6,37)
+    place:Enquin (6,41)
+    domestic:religion (20,43)
+    place:Samer (38,45)
+    unit:1 Cavalry Division (53,48)
+    place:Enquin (6,49)
+    domestic:inspections (76,50)
+    activity:training (68,53)
+    activity:training (24,64)
+    place:Enquin (6,64)
+    place:Enquin (6,73)
+    activity:other (28,74)
+    activity:training (20,80)
+    place:Enquin (7,85)
+    activity:training (25,86)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD000193b  ----------
+  10 Jan 1917 0
+    place:Enquin (7,27)
+    activity:movement (30,28)
+    time:0730PM (56,31)
+    place:Enquin (47,31)
+    activity:movement (54,32)
+    time:0900PM (43,35)
+    place:Montcavrel (29,35)
+    place:Campagne (43,38)
+    place:Brimeux (36,39)
+    time:0500AM (65,42)
+    place:Raye-Sur-Authie (35,43)
+    activity:movement (20,49)
+    place:Raye-Sur-Authie (7,49)
+    time:1000PM (82,51)
+    place:Labroye (71,51)
+    place:Auxi-le-Chateau (36,53)
+    time:0315AM (79,54)
+    place:Mezerolles (59,54)
+    place:Le Quesnel (44,58)
+    place:Mezerolles (7,59)
+    place:Outrebois (77,60)
+    activity:movement (23,62)
+    place:Autheux (41,63)
+    place:Fienvillers (50,63)
+    place:Canaples (62,64)
+    domestic:accomodation (53,66)
+    place:Berteaucourt les Dames (8,69)
+    person:Captain R H R Brocklebank (commander) (29,70)
+    person:Captain Brocklebank (17,71)
+    time:0900PM (77,76)
+    activity:movement (49,77)
+    activity:movement (46,79)
+    place:Vignacourt (61,80)
+    place:Flesselles (73,80)
+    place:Bertangles (19,82)
+    place:Coisy (35,82)
+    place:Abboaville (42,82)
+    place:Querrieu (58,83)
+    time:0230AM (75,84)
+    weather:rain (21,90)
+    place:Querrieu (6,90)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD000195r  ----------
+  10 Jan 1917 0
+    weather:rain (23,26)
+    place:Querrieu (5,27)
+    domestic:hygiene (56,40)
+    person:Captain R H Brocklebank (commander) (51,55)
+Page 29 (type cover)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD000197p  ----------
+  10 Jan 1917 0
+    place:Frankvillers (67,27)
+    activity:movement (41,27)
+    place:Bresle (84,28)
+    time:0300AM (32,28)
+    place:Querrieu (6,29)
+    place:Bresle (34,32)
+    place:Querrieu (80,32)
+    activity:movement (49,32)
+    weather:rain (32,47)
+    place:Picquigny (68,51)
+    domestic:parades (25,51)
+    time:0545AM (28,51)
+    activity:movement (37,51)
+    place:Amiens (53,52)
+    place:Dreuil (60,52)
+    place:Soues (78,52)
+    place:Metigny (36,55)
+    domestic:accomodation (61,55)
+    place:Metigny (7,63)
+    domestic:inspections (18,63)
+    time:1230PM (30,66)
+    domestic:inspections (65,67)
+    weather:rain (85,67)
+    weather:rain (78,71)
+    domestic:parades (22,79)
+    time:0900AM (65,79)
+    domestic:religion (33,82)
+    time:0900AM (47,83)
+Page 31 (type diary) http://wd3.herokuapp.com/pages/AWD000196c  ----------
+  10 Jan 1917 0
+    place:Metigny (5,27)
+    domestic:parades (20,27)
+    time:0830AM (66,28)
+    place:Metigny (7,31)
+    time:0800AM (67,35)
+    place:Metigny (7,35)
+    domestic:parades (20,35)
+    time:0600PM (17,39)
+    time:0755PM (56,39)
+    activity:movement (67,39)
+    place:Metigny (20,43)
+    place:Le Quenoy (35,43)
+    place:Soues (45,43)
+    place:Picquigny (53,43)
+    place:Dreuil (66,43)
+    place:Amiens (73,43)
+    place:Querrieu (22,46)
+    domestic:accomodation (55,50)
+    time:0330AM (17,51)
+    place:Querrieu (30,51)
+    place:Querrieu (7,52)
+    activity:movement (77,54)
+    time:0540PM (67,55)
+    place:Querrieu (56,55)
+    place:Frankvillers (20,59)
+    place:Bresle (34,59)
+    place:Ville-Sois-Corbie (63,59)
+    domestic:accomodation (53,62)
+    place:Ancre (28,66)
+    place:Ville Sous Corbie (7,68)
+    time:0300AM (40,69)
+    time:0300AM (38,73)
+    time:0600AM (35,77)
+    domestic:religion (57,78)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD000195p  ----------
+  10 Jan 1917 0
+    place:Ville Sous Corbie (7,26)
+    domestic:inspections (36,27)
+    activity:training (53,36)
+    activity:training (39,39)
+    domestic:parades (19,47)
+    activity:training (43,48)
+    domestic:inspections (56,48)
+    activity:training (64,56)
+    activity:training (31,59)
+    activity:training (67,64)
+    activity:training (43,66)
+    time:0800AM (66,69)
+    time:1100AM (74,70)
+    domestic:religion (34,70)
+    domestic:religion (49,70)
+    domestic:inspections (19,73)
+    activity:movement (57,78)
+    time:0830AM (41,78)
+    place:Ville-Sous-Corbie (6,78)
+    place:Frankvillers (47,82)
+    place:Querrieu (59,82)
+    time:1130AM (34,86)
+    domestic:accomodation (58,86)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD000198r  ----------
+  10 Jan 1917 0
+    time:0830AM (68,26)
+    place:Querrieu (6,28)
+    activity:training (47,32)
+    place:Querrieu (7,32)
+    activity:training (53,33)
+    place:Querrieu (7,36)
+    domestic:parades (47,38)
+    time:0200PM (83,39)
+    domestic:parades (32,40)
+    activity:training (77,43)
+    time:0300PM (25,44)
+    activity:training (39,47)
+    place:Querrieu (6,47)
+    place:Allonville Road (41,51)
+    activity:training (58,54)
+    activity:training (59,59)
+    place:Querrieu (6,63)
+    domestic:medical (69,74)
+    domestic:inspections (43,74)
+    time:0200PM (38,78)
+    domestic:religion (55,81)
+    domestic:religion (35,82)
+    place:Querrieu (7,83)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD000198m  ----------
+  10 Jan 1917 0
+    activity:training (50,28)
+    place:Querrieu (6,29)
+    place:Bois Escardoneuse (33,32)
+    time:0200PM (79,39)
+    place:Saint Gratien (24,40)
+    activity:training (36,40)
+    person:Captain L B Haslam (departed_posted) (27,43)
+    person:Captain R H Brocklebank (commander) (48,53)
+Page 35 (type cover)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD000197t  ----------
+  10 Jan 1917 0
+    place:Querrieu (5,27)
+    activity:training (43,27)
+    domestic:parades (20,31)
+    activity:training (30,36)
+    activity:training (61,36)
+    activity:training (47,47)
+    time:0915AM (50,47)
+    place:Bois de Mai (71,51)
+    person:Lieutenant H V Misa (joined) (67,55)
+    place:Allonville (20,55)
+    activity:training (31,55)
+    place:Bois Escardoneuse (81,63)
+    activity:training (43,67)
+    domestic:inspections (51,74)
+    activity:training (34,77)
+    activity:training (66,79)
+    domestic:religion (31,87)
+    domestic:inspections (78,87)
+    domestic:religion (45,87)
+Page 37 (type diary) http://wd3.herokuapp.com/pages/AWD000199v  ----------
+  10 Jan 1917 0
+    place:Querrieu (7,27)
+    activity:training (30,31)
+    activity:training (55,31)
+    activity:training (63,34)
+    place:Allonville (38,35)
+    place:Coisy (59,35)
+    domestic:parades (31,38)
+    domestic:parades (47,39)
+    domestic:parades (41,42)
+    domestic:parades (69,50)
+    activity:training (19,50)
+    domestic:parades (35,58)
+    activity:movement (74,58)
+    time:0345AM (43,58)
+    place:Pont Remy (25,61)
+    place:Amiens (40,62)
+    place:Etoile (20,66)
+    activity:movement (72,69)
+    time:0315AM (29,69)
+    time:0515AM (45,69)
+    domestic:parades (41,70)
+    place:Incheville (22,73)
+    place:Gamaches (37,74)
+    domestic:inspections (66,81)
+    place:Incheville (7,81)
+    domestic:inspections (40,82)
+Page 38 (type diary) http://wd3.herokuapp.com/pages/AWD000193v  ----------
+  Hashtags: #wrestling 
+  10 Jan 1917 0
+    place:Incheville (7,27)
+    activity:training (63,27)
+    domestic:religion (30,34)
+    domestic:religion (46,34)
+    domestic:inspections (79,35)
+    time:1100AM (51,38)
+    place:Beauchamps (81,42)
+    activity:training (36,42)
+    place:Embreville (24,46)
+    domestic:sport (50,46)
+    activity:training (31,54)
+    weather:rain (49,58)
+    activity:training (27,61)
+    domestic:sport (77,62)
+    activity:training (31,73)
+    domestic:sport (77,74)
+    domestic:inspections (61,80)
+    domestic:religion (50,86)
+Page 39 (type diary) http://wd3.herokuapp.com/pages/AWD000198z  ----------
+  10 Jan 1917 0
+    place:Incheville (7,28)
+    person:Second Lieutenant Pink (other) (66,31)
+    activity:training (43,32)
+    person:Lieutenant Misa (other) (22,32)
+    activity:training (31,36)
+    domestic:sport (56,39)
+    domestic:sport (51,40)
+    domestic:inspections (32,51)
+    unit:9 Lancers (29,54)
+    time:1100AM (50,58)
+    domestic:religion (30,59)
+    domestic:inspections (39,63)
+    activity:training (51,75)
+    person:Lieutenant R R Pelly (joined) (24,85)
+Page 40 (type diary) http://wd3.herokuapp.com/pages/AWD000193f  ----------
+  Hashtags: #horsesswimming #leisure #seabathing 
+  10 Jan 1917 0
+    place:Incheville (6,28)
+    activity:training (70,31)
+    domestic:sport (69,43)
+    activity:movement (40,43)
+    place:Ault (50,44)
+    time:0430PM (65,47)
+    domestic:inspections (30,55)
+    domestic:inspections (44,55)
+    activity:training (78,55)
+    domestic:inspections (54,56)
+    activity:training (72,66)
+    activity:training (33,67)
+    activity:training (30,75)
+    activity:training (51,78)
+Page 41 (type diary) http://wd3.herokuapp.com/pages/AWD000192q  ----------
+  10 Jan 1917 0
+    time:1100AM (47,27)
+    domestic:religion (32,27)
+    place:Incheville (6,27)
+    domestic:inspections (38,30)
+    domestic:inspections (49,32)
+    activity:training (54,42)
+    weather:rain (32,42)
+    domestic:sport (60,47)
+    place:Ault (49,47)
+    weather:rain (65,51)
+    weather:rain (33,58)
+    person:Lieutenant White (joined) (33,65)
+    activity:training (70,65)
+Page 42 (type cover)
+Page 43 (type diary) http://wd3.herokuapp.com/pages/AWD000192i  ----------
+  10 Jan 1917 0
+    domestic:parades (31,27)
+    domestic:inspections (78,27)
+    place:Incheville (6,28)
+    activity:training (58,32)
+    activity:training (29,40)
+    person:Second Lieutenant Pink (other) (45,43)
+    person:Corporal Hartnell (other) (27,46)
+    domestic:inspections (57,50)
+    time:1130AM (48,51)
+    domestic:religion (31,51)
+    domestic:inspections (75,51)
+    activity:training (33,55)
+    activity:training (29,63)
+    domestic:inspections (43,67)
+    activity:training (53,68)
+    activity:movement (28,74)
+    time:1030AM (34,74)
+    place:Gamaches (48,74)
+    place:Airaines (62,74)
+    time:0500PM (25,78)
+    activity:movement (22,82)
+    time:1030AM (32,82)
+    place:Soues (46,83)
+    place:Picquigny (57,83)
+    time:0600PM (77,87)
+    place:Amiens (19,87)
+    place:Daours (27,87)
+    place:La Neuville (44,87)
+Page 44 (type diary) http://wd3.herokuapp.com/pages/AWD000193h  ----------
+  10 Jan 1917 0
+    activity:training (23,27)
+    place:La Neuville (6,29)
+    domestic:inspections (37,32)
+    domestic:inspections (71,44)
+    domestic:inspections (47,51)
+    domestic:inspections (55,51)
+    activity:training (30,51)
+    activity:training (32,59)
+    domestic:inspections (18,63)
+    domestic:inspections (28,63)
+    place:La Neuville (32,67)
+    place:Bonnay (57,67)
+    place:Morlancourt (64,67)
+    time:0600AM (45,67)
+    activity:movement (24,67)
+    time:0300PM (83,71)
+    place:Carnoy Valley (45,72)
+    place:Carnoy Valley (5,79)
+    activity:fire (56,83)
+Page 45 (type diary) http://wd3.herokuapp.com/pages/AWD000196m  ----------
+  Hashtags: #horsesstampeded #gas 
+  10 Jan 1917 0
+    place:Carnoy Valley (6,29)
+    activity:fire (25,36)
+    domestic:religion (47,43)
+    time:1000AM (65,43)
+    place:Morlancourt (65,48)
+    place:Bonnay (78,48)
+    time:0325PM (52,48)
+    activity:movement (41,48)
+    place:La Neuville (31,51)
+    domestic:accomodation (52,51)
+    weather:rain (21,55)
+    place:La Neuville (7,56)
+    weather:rain (20,63)
+    weather:rain (21,67)
+    weather:rain (20,71)
+    domestic:inspections (75,71)
+    weather:fine (22,79)
+    place:Pont Noyelles (52,83)
+    place:Amiens (67,83)
+    domestic:parades (22,83)
+    time:0645AM (30,83)
+    activity:movement (50,83)
+    place:L'Etoile (19,87)
+    place:Bouchon (31,87)
+Page 46 (type diary) http://wd3.herokuapp.com/pages/AWD0001979  ----------
+  10 Jan 1917 0
+    place:Buire-Au-Bois (66,27)
+    time:0815AM (29,27)
+    activity:movement (38,28)
+    place:Auxi-le-Chateau (52,28)
+    place:Fillievres (83,28)
+    domestic:parades (20,28)
+    activity:movement (32,34)
+    activity:movement (37,35)
+    place:Saint Georges (47,35)
+    domestic:parades (22,36)
+    time:0800AM (27,36)
+    place:Saint Georges (6,44)
+    domestic:inspections (69,47)
+    activity:training (31,55)
+    domestic:inspections (68,59)
+    place:Hesdin (51,63)
+    domestic:parades (30,66)
+    time:0830AM (54,66)
+    weather:rain (64,67)
+    activity:training (33,68)
+    domestic:inspections (29,74)
+    place:Hesdin (51,75)
+    domestic:inspections (76,78)
+    place:Hesdin (44,82)
+    time:0200PM (31,82)
+Page 47 (type cover)
+Page 48 (type diary) http://wd3.herokuapp.com/pages/AWD000192n  ----------
+  10 Jan 1917 0
+    time:1100AM (70,28)
+    place:Saint Georges (6,28)
+    domestic:religion (56,28)
+    activity:training (27,35)
+    weather:rain (56,39)
+    weather:rain (22,43)
+    unit:1 Cavalry Division (59,47)
+    domestic:inspections (80,47)
+    weather:rain (22,47)
+    time:0900AM (38,51)
+    place:Saint Georges (36,55)
+    place:Sainte Austreberthe (82,55)
+    weather:rain (74,59)
+    domestic:hygiene (81,63)
+    weather:rain (32,66)
+    place:Hesdin (23,67)
+    activity:training (27,71)
+    activity:training (46,71)
+    time:0400PM (45,82)
+    activity:training (45,87)
+Page 49 (type diary) http://wd3.herokuapp.com/pages/AWD0001956  ----------
+  10 Jan 1917 0
+    person:Second Lieutenant Pink (other) (43,25)
+    place:Saint Georges (8,26)
+    activity:training (43,27)
+    person:Corporal Hartnell (other) (29,28)
+    place:Chateau Watteville (24,33)
+    time:1100AM (54,35)
+    domestic:religion (40,36)
+    time:0930AM (29,37)
+    place:Saint Georges (59,38)
+    domestic:accomodation (23,39)
+    place:Saint Austreberthe (26,42)
+    activity:training (73,44)
+    weather:rain (59,44)
+    place:Hesdin (63,51)
+    activity:training (28,54)
+    activity:training (53,55)
+    domestic:hygiene (68,56)
+    place:Hesdin (57,57)
+    place:Willeman-Eclimeux (61,59)
+    activity:training (26,62)
+    domestic:hygiene (49,63)
+    place:Hesdin (37,64)
+    place:Hesdin (65,67)
+    activity:training (53,70)
+    activity:training (24,72)
+    domestic:hygiene (50,74)
+    place:Hesdin (37,74)
+    unit:9 Cavalry Brigade (42,79)
+    unit:Ist Brigade (59,86)
+    unit:9 Brigade (70,86)
+    activity:training (31,88)
+Page 50 (type diary) http://wd3.herokuapp.com/pages/AWD000193k  ----------
+  10 Jan 1917 0
+    domestic:rations (79,25)
+    domestic:inspections (55,26)
+    place:Saint Georges (6,27)
+    domestic:uniform (41,28)
+    place:Hesdin (68,31)
+    activity:training (30,32)
+    activity:training (59,39)
+    place:Hesdin (30,44)
+    weather:rain (22,50)
+    place:Buire-Au-Bois (82,52)
+    activity:movement (65,53)
+    time:0830AM (45,54)
+    domestic:parades (34,54)
+    place:Fortel (27,57)
+    activity:movement (63,59)
+    time:0900AM (47,60)
+    domestic:parades (37,60)
+    place:Saint Leger (78,62)
+    place:Bealcourt (35,63)
+    place:Montigny (43,63)
+    place:Beaumetz (57,63)
+    place:Domart (66,63)
+    unit:Cavalry Machine Gun Training Centre (56,68)
+    person:Lieutenant S H Le Roy Lewis (32,69)
+    person:Lieutenant S H Le Roy Lewis (departed_training) (21,70)
+    place:Uckfield (34,72)
+    domestic:inspections (44,76)
+    place:Berteaucourt-les-Dames (6,77)
+    person:Lieutenant E E Roberts (joined) (20,80)
+    domestic:inspections (45,82)
+    domestic:inspections (61,84)
+    weather:rain (55,88)
+    domestic:inspections (56,90)
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD000193n  ----------
+  10 Jan 1917 0
+    weather:rain (76,25)
+    domestic:parades (53,25)
+    domestic:parades (41,25)
+    place:Berteaucourt-les-Dames (8,26)
+    weather:rain (57,29)
+    weather:rain (59,32)
+    unit:Lewis Gun School, Le Touquet (72,38)
+    person:Major R H R Brocklebank (departed_training) (42,39)
+    place:Le Touquet (26,42)
+    activity:training (24,46)
+    unit:2 Cavalry Brigade (55,51)
+    activity:training (20,52)
+    unit:Ambala Machine Gun Squadron (26,59)
+    weather:rain (46,62)
+    domestic:inspections (58,62)
+    activity:training (20,66)
+    weather:rain (22,69)
+    activity:training (25,74)
+Page 52 (type cover)
+Page 53 (type diary) http://wd3.herokuapp.com/pages/AWD000195y  ----------
+  10 Jan 1917 0
+    domestic:inspections (48,25)
+    place:Berteaucourt-les-Dames (6,26)
+    weather:rain (70,26)
+    activity:training (30,30)
+    weather:rain (76,30)
+    activity:training (38,34)
+    domestic:inspections (40,39)
+    activity:training (22,41)
+    domestic:inspections (40,48)
+    activity:training (28,51)
+    weather:rain (52,53)
+    weather:rain (21,57)
+    mapRef:Lens (23,59)
+    mapRef:Lens (32,59)
+    place:Flixecourt (59,61)
+    place:Abbeville (67,61)
+    place:Nouvion-En-Ponthieu (77,61)
+    activity:movement (36,62)
+    place:Saint Ouen (51,62)
+    weather:rain (22,62)
+    mapRef:Abbeville (41,64)
+    mapRef:Abbeville (55,65)
+    activity:movement (26,69)
+    domestic:accomodation (68,69)
+    place:Le Bois Ratel (60,70)
+    place:Cailliet (31,71)
+    time:0500PM (71,72)
+    place:Preures (24,72)
+    time:0415PM (43,73)
+    place:Preures (31,74)
+    mapRef:Calais (68,75)
+    mapRef:Calais (79,75)
+    place:Preures (74,78)
+    place:Preures (6,79)
+    place:La Rue Noire (31,80)
+    place:Le Bois Ratel (21,83)
+    activity:construction (31,87)
+    weather:rain (23,91)
+Page 54 (type diary) http://wd3.herokuapp.com/pages/AWD0001975  ----------
+  10 Jan 1917 0
+    place:Preures (6,26)
+    place:Dodeauville (43,40)
+    activity:working (29,49)
+    weather:cold (44,54)
+    weather:cold (24,60)
+    activity:working (27,74)
+    person:Second Lieutenant W White (departed_training) (33,78)
+    person:Sergeant Salt (departed_training) (52,78)
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD000196u  ----------
+  10 Jan 1917 0
+    weather:rain (35,27)
+    place:Preures (7,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (77,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (28,34)
+    domestic:inspections (20,41)
+    weather:rain (30,44)
+    domestic:parades (63,44)
+    domestic:inspections (63,54)
+    person:Captain Misa (departed_posted) (24,58)
+    place:Uckfield (68,60)
+    activity:training (30,65)
+Page 56 (type cover)
+Page 57 (type diary) http://wd3.herokuapp.com/pages/AWD000195a  ----------
+  Hashtags: #militarymedal #militarymedals #horsedeath 
+  10 Jan 1917 0
+    activity:training (28,27)
+    place:Preures (6,27)
+    domestic:sport (37,31)
+    weather:rain (30,31)
+    activity:training (68,39)
+    activity:training (30,48)
+    activity:training (33,52)
+    activity:training (32,56)
+    activity:training (28,60)
+    unit:1 Cavalry Division (77,63)
+    domestic:inspections (30,65)
+    person:Sergeant Bull (award) (77,68)
+    person:Sergeant Platt (award) (69,69)
+    place:Beussent (50,71)
+    time:1100AM (36,71)
+    person:Sergeant Baker (award) (22,76)
+    activity:training (37,82)
+    person:Lieutenant C H Miller (commander) (27,84)
+Page 58 (type diary) http://wd3.herokuapp.com/pages/AWD000198k  ----------
+  10 Jan 1917 0
+    activity:training (23,27)
+    place:Preures (6,27)
+    activity:training (27,35)
+    activity:training (20,43)
+    activity:training (33,51)
+    domestic:inspections (49,60)
+    activity:training (49,70)
+    activity:training (19,75)
+    activity:training (25,81)
+    person:Sergeant J Salt (returned_training) (45,86)
+    person:Lieutenant W White (returned_training) (24,87)
+Page 59 (type diary) http://wd3.herokuapp.com/pages/AWD0001971  ----------
+  Hashtags: #christmasday 
+  10 Jan 1917 0
+    activity:training (23,27)
+    place:Preures (6,27)
+    activity:training (20,31)
+    domestic:inspections (71,35)
+    domestic:inspections (19,47)
+    domestic:inspections (29,49)
+    activity:training (24,58)
+    person:Captain L W D Nathen (returned_leave) (51,58)
+  23 Dec 1916 63
+    domestic:inspections (33,69)
+  24 Dec 1916 80
+    domestic:religion (20,81)
+    time:1145AM (61,81)
+  25 Dec 1916 87
+Page 60 (type diary) http://wd3.herokuapp.com/pages/AWD0001940  ----------
+  Hashtags: #horsedeath 
+  26 Dec 1916 22
+    time:0800AM (37,25)
+    activity:training (25,25)
+    place:Preures (9,25)
+  27 Dec 1916 26
+    domestic:inspections (35,29)
+    unit:1 Cavalry Division (43,32)
+    time:0900AM (22,33)
+  28 Dec 1916 37
+    activity:training (32,40)
+  29 Dec 1916 43
+    activity:training (32,46)
+  30 Dec 1916 48
+    domestic:inspections (37,51)
+  31 Dec 1916 57
+Page 61 (type cover)
+Page 62 (type diary) http://wd3.herokuapp.com/pages/AWD000197o  ----------
+  1 Jan 1917 23
+    time:0900AM (79,26)
+    domestic:parades (72,26)
+    place:Preures (6,27)
+    activity:training (54,29)
+    place:Uckfield (45,29)
+    place:Enquin (25,30)
+    time:1100AM (81,33)
+    domestic:inspections (40,33)
+    unit:Pioneer Battalion (25,34)
+    time:0500PM (79,35)
+    place:Preures (26,37)
+    person:Lieutenant Le Roy-Lewis (departed_training) (37,38)
+    person:Lieutenant Miller (departed_training) (27,39)
+    unit:18 Hussars (46,40)
+    place:Preures (60,42)
+  2 Jan 1917 44
+    activity:training (68,47)
+    activity:training (27,49)
+  3 Jan 1917 52
+    person:Sergeant Baker (departed_training) (49,57)
+    person:Lieutenant Pelly (departed_training) (35,58)
+  4 Jan 1917 60
+    domestic:inspections (23,63)
+    time:1000AM (36,65)
+    place:Preures (26,66)
+  5 Jan 1917 68
+    activity:training (24,68)
+    activity:training (39,69)
+    domestic:medical (46,71)
+    domestic:inspections (54,72)
+    domestic:inspections (65,73)
+  6 Jan 1917 74
+    domestic:inspections (43,78)
+    domestic:inspections (53,78)
+  7 Jan 1917 83
+    place:Enquin (58,86)
+    domestic:religion (40,86)
+    time:1130AM (36,89)
+    person:Lieutenant Miller (other) (25,90)
+Page 63 (type diary) http://wd3.herokuapp.com/pages/AWD000198j  ----------
+  7 Jan 1917 0
+  8 Jan 1917 23
+    place:Le Roque (58,26)
+    place:Preures (7,26)
+    time:0900AM (17,27)
+    place:Bois Ratel (57,29)
+    activity:training (37,30)
+    place:Le Fayel (57,32)
+    time:0800AM (27,37)
+  9 Jan 1917 40
+    weather:cold (20,43)
+    activity:training (45,44)
+    domestic:inspections (45,46)
+  11 Jan 1917 49
+    activity:training (21,52)
+    reference:Gunnery Practice (34,52)
+    activity:training (27,54)
+  12 Jan 1917 57
+    domestic:medical (66,59)
+    weather:rain (47,60)
+  13 Jan 1917 61
+    time:0800AM (45,64)
+    activity:training (23,65)
+    domestic:inspections (71,65)
+  14 Jan 1917 67
+    place:Preures (70,69)
+    time:0600PM (80,69)
+    domestic:religion (39,70)
+    domestic:religion (54,70)
+    place:Camiers (68,71)
+    weather:cold (23,72)
+    person:Lieutenant Dent (departed_training) (35,72)
+  15 Jan 1917 73
+    time:1100AM (69,74)
+    place:Preures (61,75)
+    domestic:inspections (22,76)
+  16 Jan 1917 80
+    activity:training (47,80)
+    weather:cold (23,81)
+    weather:cold (82,81)
+    activity:training (21,83)
+    time:0800AM (27,83)
+    place:Preures (81,84)
+  17 Jan 1917 85
+    time:1100AM (72,85)
+    domestic:inspections (20,87)
+    weather:cold (20,90)
+    weather:cold (38,90)
+Page 64 (type diary) http://wd3.herokuapp.com/pages/AWD000192t  ----------
+  18 Jan 1917 25
+    activity:training (43,25)
+    time:0800AM (31,26)
+    place:Preures (5,26)
+    activity:training (23,27)
+  19 Jan 1917 29
+    activity:training (19,33)
+    domestic:medical (21,33)
+  20 Jan 1917 35
+    domestic:medical (44,35)
+    weather:cold (21,41)
+  21 Jan 1917 42
+    time:1130AM (66,42)
+    place:Enquin (79,42)
+    domestic:religion (36,43)
+    person:Second Lieutenant White (other) (26,45)
+    place:Camiers (53,48)
+    person:Lieutenant D F G Duff (commander) (41,50)
+  22 Jan 1917 51
+    time:0900AM (43,52)
+    time:1015AM (51,53)
+    activity:training (20,53)
+    activity:training (57,54)
+  23 Jan 1917 59
+    unit:1 Cavalry Division (69,60)
+    domestic:inspections (42,60)
+    weather:cold (22,61)
+    person:Captain H Misa (commander) (74,64)
+    activity:training (33,64)
+    place:Uckfield (75,67)
+  24 Jan 1917 69
+    activity:training (60,72)
+    weather:cold (24,73)
+    domestic:sport (51,74)
+    domestic:sport (63,74)
+    activity:training (36,77)
+  25 Jan 1917 79
+    activity:training (19,84)
+    activity:training (39,84)
+    domestic:inspections (30,84)
+  26 Jan 1917 86
+    activity:training (68,86)
+    time:0900AM (44,87)
+    activity:training (27,88)
+Page 65 (type diary) http://wd3.herokuapp.com/pages/AWD000192y  ----------
+  27 Jan 1917 24
+    domestic:medical (32,25)
+    domestic:inspections (20,26)
+    place:Preures (7,26)
+    activity:training (71,26)
+  28 Jan 1917 30
+    time:1100AM (70,32)
+    place:Preures (78,32)
+    weather:cold (45,37)
+  29 Jan 1917 39
+    reference:Medical Officer/Training (33,42)
+    activity:training (27,43)
+    activity:training (36,43)
+  30 Jan 1917 47
+    weather:cold (82,52)
+    activity:training (27,54)
+    activity:training (31,54)
+  31 Jan 1917 55
+Page 66 (type cover)
+Page 67 (type diary) http://wd3.herokuapp.com/pages/AWD0001936  ----------
+  1 Feb 1917 27
+    place:Preures (7,31)
+    activity:training (54,32)
+    activity:training (21,34)
+  2 Feb 1917 39
+    activity:training (28,43)
+    reference:Gas Helmet Drill/Revolver Pressing (32,43)
+    domestic:inspections (37,47)
+  4 Feb 1917 54
+    activity:training (23,54)
+    domestic:inspections (32,54)
+    weather:cold (59,58)
+  6 Feb 1917 66
+    activity:training (28,66)
+    activity:training (67,70)
+    domestic:inspections (23,70)
+    person:Sergeant Platts (departed_posted) (64,73)
+    activity:training (29,74)
+    person:Lieutenant Miller (departed_posted) (53,74)
+  7 Feb 1917 78
+    activity:training (29,81)
+  8 Feb 1917 85
+    domestic:inspections (34,85)
+    domestic:inspections (21,85)
+    domestic:inspections (24,89)
+    place:Enquin (65,89)
+    time:1000AM (76,89)
+Page 68 (type diary) http://wd3.herokuapp.com/pages/AWD000197z  ----------
+  8 Feb 1917 23
+    place:Preures (7,26)
+    activity:training (31,26)
+    reference:Gas Helmet Drill/Revolver Pressing (79,26)
+  9 Feb 1917 27
+    activity:training (20,30)
+  10 Feb 1917 33
+    domestic:inspections (51,34)
+  12 Feb 1917 42
+    activity:training (28,44)
+  13 Feb 1917 48
+    activity:training (24,53)
+    activity:training (33,54)
+  14 Feb 1917 58
+    domestic:inspections (30,62)
+    place:Preures (48,64)
+    time:1030AM (28,65)
+  15 Feb 1917 66
+    activity:training (26,69)
+  16 Feb 1917 73
+    activity:training (26,78)
+    domestic:medical (71,80)
+Page 69 (type diary) http://wd3.herokuapp.com/pages/AWD0001960  ----------
+  Hashtags: #stomatitis 
+  17 Feb 1917 27
+    place:Preures (8,30)
+    domestic:inspections (35,31)
+  18 Feb 1917 41
+    unit:21 Infantry Division (46,45)
+  19 Feb 1917 46
+    unit:21 Int. Division (32,46)
+    unit:21 infantry divison (38,46)
+    activity:training (22,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (37,57)
+  20 Feb 1917 59
+    activity:working (57,61)
+    weather:rain (22,61)
+  21 Feb 1917 66
+    place:Lerocq (69,68)
+    place:Sehem (79,68)
+    activity:training (23,69)
+  22 Feb 1917 74
+    weather:rain (84,76)
+    person:Corporal Choules (other) (72,76)
+    activity:training (22,77)
+  23 Feb 1917 79
+    place:Enquin (61,81)
+    activity:training (22,83)
+  24 Feb 1917 86
+    activity:training (31,88)
+    time:0645AM (34,88)
+Page 70 (type diary) http://wd3.herokuapp.com/pages/AWD000196q  ----------
+  Hashtags: #leisure #boxingcompetition 
+  24 Feb 1917 29
+    place:Preures (7,30)
+    domestic:inspections (52,31)
+  25 Feb 1917 33
+    person:Private Collins (other) (80,34)
+    domestic:sport (49,34)
+    place:Samer (71,34)
+  26 Feb 1917 38
+    time:0630PM (84,38)
+    domestic:religion (61,38)
+    activity:training (31,42)
+  27 Feb 1917 49
+    domestic:inspections (20,54)
+    domestic:inspections (29,54)
+    unit:2 Cavalry Brigade (23,58)
+  28 Feb 1917 65
+    activity:training (28,69)
+    person:Captain H Misa (commander) (73,85)
+Page 71 (type cover)
+Page 72 (type diary) http://wd3.herokuapp.com/pages/AWD000197a  ----------
+  18 Feb 1917 11
+    activity:movement (58,11)
+    place:Preures (50,21)
+    time:1130AM (56,21)
+    place:Preures (42,26)
+    place:Labourse (63,29)
+    mapRef:Lens (50,32)
+    place:Labourse (48,34)
+    time:1130PM (51,36)
+  19 Feb 1917 38
+    unit:21 Division (43,38)
+    activity:reconnoitered (54,42)
+    place:Quarries Sector (48,44)
+    unit:62 Infantry Brigade (56,44)
+    mapRef:36 C N.W3 (50,46)
+  20 Feb 1917 50
+    domestic:inspections (53,51)
+    activity:movement (48,53)
+    place:Labourse (61,54)
+    place:Vermelles (54,56)
+    time:0845AM (41,56)
+    mapRef:Lens (44,59)
+    mapRef:Lens (47,59)
+    activity:line (53,61)
+    person:Lieutenant Duff (64,66)
+    person:Lieutenant Dent (commander) (63,69)
+    person:Second Lieutenant White (commander) (63,71)
+    unit:62 Machine Gun Company (54,74)
+    unit:62 mg corp (53,74)
+    place:Vermelles (48,79)
+    place:Vermelles (63,79)
+    time:0300PM (55,81)
+    weather:rain (64,89)
+Page 73 (type diary) http://wd3.herokuapp.com/pages/AWD000192r  ----------
+  Hashtags: #snipers #enemycasualties #gas #enemyraids 
+  20 Feb 1917 0
+    activity:repair (51,14)
+    weather:fog (56,19)
+    activity:attack (51,23)
+    person:Lieutenant Roberts (joined) (51,26)
+    activity:attack (42,31)
+    activity:enemy_activity (43,34)
+    activity:fire (52,43)
+    place:Vermelles (49,49)
+    activity:attack (49,59)
+    weather:fog (53,61)
+    weather:fog (65,69)
+    activity:enemy_activity (47,72)
+    place:Cite Saint Elie (51,74)
+    activity:attack (59,74)
+    activity:enemy_activity (58,83)
+    weather:fine (54,84)
+    activity:attack (58,91)
+Page 74 (type diary) http://wd3.herokuapp.com/pages/AWD0001980  ----------
+  Hashtags: #measles 
+  25 Feb 1917 6
+    activity:attack (55,11)
+    activity:fire (52,19)
+    person:Lieutenant White (commander) (63,28)
+    person:Lieutenant Dent (commander) (63,31)
+    unit:62 Machine Gun Company (49,36)
+    person:Lieutenant Yates (commander) (41,38)
+    person:Lieutenant Roberts (commander) (53,39)
+    activity:attack (50,46)
+    weather:fine (66,51)
+    activity:attack (47,54)
+    activity:attack (50,58)
+    unit:No. 1 Section 62 Machine Gun Company (59,63)
+    place:Village Lines (52,66)
+    unit:62 mg corp (42,66)
+    time:0300PM (60,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (56,68)
+    person:Lieutenant D J G Duff (departed_sick) (42,68)
+    activity:attack (50,74)
+    place:Vermelles (43,8)
+    unit:62 Machine Gun Company (59,81)
+    unit:71 Machine Gun Company (55,83)
+    place:Vermelles (43,88)
+    unit:No. 1 Section 62 Machine Gun Company (55,88)
+    unit:62 mg corp (57,89)
+Page 75 (type diary) http://wd3.herokuapp.com/pages/AWD000193q  ----------
+  28 Feb 1917 7
+    unit:110 Infantry Brigade (44,11)
+Page 76 (type cover)
+Page 77 (type diary) http://wd3.herokuapp.com/pages/AWD0001929  ----------
+  1 Mar 1917 27
+    activity:training (22,30)
+    domestic:inspections (52,31)
+    place:Preures (8,31)
+    unit:1 Cavalry Division (28,34)
+    place:Preures (45,34)
+    time:1045AM (56,36)
+    domestic:inspections (22,42)
+    domestic:hygiene (81,42)
+    activity:line (32,42)
+    unit:110 Infantry Brigade (29,50)
+    activity:reconnoitered (54,50)
+    activity:training (21,53)
+    domestic:inspections (31,54)
+    place:Preures (8,54)
+    time:1030AM (34,58)
+    place:Preures (25,58)
+    activity:line (16,65)
+    unit:110 mg coy (58,66)
+    place:Hohenzollern Sector (77,66)
+    mapRef:36c NW 3 (29,68)
+    mapRef:36c N W 3 (59,70)
+    unit:No. 1 110 Machine Gun Company (79,73)
+    unit:110 Infantry Brigade (70,74)
+    place:Quarries Sector (46,74)
+    unit:110 mg coy (19,78)
+    person:Second Lieutenant White (commander) (52,81)
+    person:Lieutenant Dent (commander) (54,85)
+    person:Lieutenant Fanning (commander) (60,86)
+    person:Lieutenant Roberts (commander) (57,90)
+Page 78 (type diary) http://wd3.herokuapp.com/pages/AWD0001945  ----------
+  Hashtags: #gas 
+  3 Mar 1917 27
+    person:Lieutenant C H Miller (returned_training) (33,30)
+    place:Preures (8,30)
+    unit:1 Signal Squadron (41,34)
+    activity:line (17,39)
+    place:Zollern (64,39)
+    activity:attack (45,42)
+    weather:fine (75,46)
+  4 Mar 1917 50
+    place:Preures (8,54)
+    domestic:inspections (48,54)
+    time:1150PM (44,58)
+    time:0110AM (53,58)
+    time:0200AM (65,58)
+    activity:fire (39,58)
+    activity:line (17,58)
+    place:Redoubt Crater (66,62)
+    time:1210AM (73,66)
+    activity:attack (30,68)
+    activity:attack (42,70)
+    time:0830AM (75,73)
+    place:Village Line (23,73)
+    place:Farmers Lane (63,74)
+    person:Lieutenant Dent (commander) (20,77)
+  5 Mar 1917 81
+    person:Lieutenant Roberts (departed_posted) (25,81)
+    weather:cold (23,85)
+    place:Preures (7,85)
+    activity:attack (43,88)
+    activity:line (15,89)
+Page 79 (type diary) http://wd3.herokuapp.com/pages/AWD000192s  ----------
+  Hashtags: #aeroplane #gas 
+  5 Mar 1917 27
+    activity:line (21,30)
+    activity:enemy_activity (32,31)
+  6 Mar 1917 37
+    weather:cold (24,38)
+    place:Preures (8,42)
+    activity:line (19,44)
+    activity:attack (45,46)
+    place:Farmers Lane (70,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (49,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (71,54)
+  7 Mar 1917 57
+    weather:cold (58,58)
+    weather:cold (48,59)
+    activity:line (22,61)
+    place:Preures (8,61)
+    weather:cold (32,61)
+    activity:attack (44,65)
+    weather:cold (76,69)
+    activity:repair (45,72)
+  8 Mar 1917 76
+    place:Vermelles (24,77)
+    place:Preures (9,80)
+    weather:cold (22,81)
+    activity:line (20,82)
+    activity:attack (47,84)
+    activity:reconnoitered (23,88)
+Page 80 (type diary) http://wd3.herokuapp.com/pages/AWD000196s  ----------
+  Hashtags: #gas 
+  8 Mar 1917 28
+    activity:fire (68,30)
+    activity:line (18,30)
+  9 Mar 1917 34
+    time:0610PM (42,34)
+    place:Preures (8,37)
+    domestic:inspections (31,38)
+    domestic:medical (37,39)
+    activity:line (20,40)
+    activity:attack (45,42)
+    activity:enemy_activity (44,46)
+    activity:reconnoitered (72,49)
+    unit:1 Cavalry Division (82,53)
+  10 Mar 1917 57
+    domestic:inspections (29,57)
+    place:Vermelles (67,58)
+    place:Preures (10,61)
+    domestic:inspections (33,61)
+    activity:line (19,65)
+    activity:attack (47,68)
+  11 Mar 1917 69
+    place:Preures (9,73)
+    activity:line (24,76)
+    activity:enemy_activity (35,77)
+    place:Hulluch Road (82,77)
+    activity:attack (29,81)
+    weather:fine (50,87)
+Page 81 (type diary) http://wd3.herokuapp.com/pages/AWD000195c  ----------
+  Hashtags: #mine 
+  12 Mar 1917 26
+    place:Preures (8,30)
+    activity:line (22,34)
+    place:Farmers Lane (30,38)
+    weather:rain (83,38)
+    activity:attack (53,39)
+  13 Mar 1917 46
+    place:Preures (7,50)
+    activity:attack (42,54)
+    activity:line (19,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (75,57)
+  14 Mar 1917 58
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (22,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (34,58)
+    place:Preures (8,61)
+    domestic:inspections (30,62)
+    activity:attack (42,65)
+    activity:line (19,65)
+  15 Mar 1917 69
+    weather:rain (44,69)
+    place:Preures (8,73)
+    place:Farmers Lane (43,77)
+    place:Gordon Alley (59,77)
+    activity:fire (22,80)
+    activity:line (21,80)
+    place:Village Line (67,81)
+    time:0400PM (37,82)
+    place:Southern Crater (68,89)
+Page 82 (type diary) http://wd3.herokuapp.com/pages/AWD0001928  ----------
+  15 Mar 1917 27
+    activity:line (17,30)
+    person:Lieutenant Roberts (commander) (42,31)
+  16 Mar 1917 34
+    place:Preures (8,39)
+    person:Lieutenant Roberts (commander) (78,42)
+    time:0500AM (47,43)
+    activity:raid (24,43)
+    activity:attack (55,45)
+    activity:attack (68,54)
+    unit:110 mg coy (63,69)
+    time:0130PM (52,73)
+    unit:110 Machine Gun Company (25,73)
+    domestic:hygiene (84,73)
+  17 Mar 1917 77
+    activity:movement (26,77)
+    place:Noyelles (43,78)
+    place:Enquin (60,81)
+    place:Preures (7,81)
+    domestic:parades (47,82)
+    time:0750AM (50,85)
+    place:Noyelles (8,86)
+    place:Vermelles (73,88)
+Page 83 (type diary) http://wd3.herokuapp.com/pages/AWD000198p  ----------
+  Hashtags: #gas 
+  17 Mar 1917 26
+    place:Noyelles (51,30)
+    time:0900AM (61,31)
+    place:Noyelles (7,31)
+    time:0350PM (65,34)
+    place:Preures (58,34)
+  18 Mar 1917 35
+    place:Estre Blanche (29,35)
+    person:Lieutenant Roberts (departed_training) (77,36)
+    time:1145AM (56,38)
+    place:Preures (8,38)
+    place:Preures (65,38)
+    domestic:religion (45,38)
+  19 Mar 1917 39
+    domestic:inspections (72,42)
+  20 Mar 1917 46
+    weather:rain (60,46)
+    domestic:parades (29,49)
+    domestic:parades (50,50)
+    domestic:inspections (58,50)
+    domestic:uniform (78,50)
+    person:Lieutenant Roberts (returned_training) (72,52)
+  21 Mar 1917 54
+    domestic:uniform (24,54)
+    domestic:inspections (39,54)
+    domestic:other (33,58)
+  22 Mar 1917 61
+    weather:rain (22,61)
+    time:0900AM (38,65)
+    activity:training (32,66)
+    time:0950PM (49,69)
+    domestic:inspections (23,69)
+  23 Mar 1917 73
+    weather:cold (40,73)
+  24 Mar 1917 85
+    time:0900AM (81,89)
+    activity:training (42,89)
+Page 84 (type diary) http://wd3.herokuapp.com/pages/AWD000197h  ----------
+  24 Mar 1917 26
+    place:Preures (6,30)
+  25 Mar 1917 31
+    place:Enquin (58,34)
+    domestic:religion (38,34)
+    time:1045AM (66,35)
+  26 Mar 1917 38
+    domestic:inspections (49,38)
+    domestic:inspections (30,38)
+    domestic:inspections (25,42)
+  27 Mar 1917 49
+    weather:cold (66,49)
+    time:0900AM (76,54)
+    activity:training (37,54)
+  28 Mar 1917 58
+    weather:rain (67,58)
+    activity:training (28,61)
+    time:0900AM (54,62)
+    domestic:inspections (39,65)
+  29 Mar 1917 69
+    unit:2 Cavalry Brigade (55,73)
+    activity:training (23,73)
+    domestic:parades (53,76)
+    time:0830AM (58,77)
+    time:0945AM (45,81)
+    place:Hubersent (22,81)
+  30 Mar 1917 85
+    weather:rain (51,85)
+    time:0830AM (74,88)
+    activity:training (31,89)
+Page 85 (type diary) http://wd3.herokuapp.com/pages/AWD000197s  ----------
+  30 Mar 1917 28
+    activity:training (39,30)
+    domestic:inspections (68,30)
+    domestic:medical (72,30)
+    place:Preures (6,30)
+  31 Mar 1917 34
+    domestic:inspections (40,38)
+    time:1030AM (40,42)
+    weather:rain (36,54)
+    weather:rain (44,54)
+Page 86 (type ) http://wd3.herokuapp.com/pages/AWD000194j  ----------
+  Hashtags: #raid 
+  31 Mar 1917 0
+    reference:Appendix I (44,4)
+    reference:C. T. 39 (60,8)
+    date:10 Mar 1917 (35,80)
+Page 87 (type orders) http://wd3.herokuapp.com/pages/AWD000197r  ----------
+  Hashtags: #raid 
+  31 Mar 1917 0
+    reference:Appendix 2 (43,2)
+    reference:Operation Orders (50,6)
+    person:Captain L W D Wathen (52,7)
+Page 88 (type orders) http://wd3.herokuapp.com/pages/AWD000198f  ----------
+  31 Mar 1917 0
+    person:Captain L W D Wathen (commander) (48,10)
+    reference:Appendix 3 (41,4)
+    reference:Appendix 3 - Copy No. 6 (56,5)
+    date:16 Mar 1917 (34,76)
+    reference:Operating Orders (49,8)
+Page 89 (type cover)
+Page 90 (type diary) http://wd3.herokuapp.com/pages/AWD0001920  ----------
+  2 Apr 1917 30
+    domestic:religion (38,30)
+    place:Preures (7,30)
+    time:0930AM (60,30)
+    activity:training (24,35)
+    weather:cold (61,35)
+  3 Apr 1917 39
+    activity:training (62,42)
+    weather:cold (23,43)
+    time:0900PM (31,46)
+  5 Apr 1917 54
+    time:1015AM (77,57)
+    place:Fruges (46,58)
+    place:Preures (71,58)
+    activity:movement (22,61)
+    place:Hucqueliers (35,61)
+    place:Maninghem (50,61)
+    time:1130AM (78,61)
+  6 Apr 1917 65
+    domestic:accomodation (69,65)
+    place:Maninghem (7,69)
+  7 Apr 1917 73
+    activity:movement (56,77)
+    place:Fruges (45,77)
+    place:Wavrans (74,77)
+    mapRef:Lens Sheet 11 (33,81)
+    mapRef:Hazebruck 5a (72,81)
+    mapRef:Lens 11 (42,82)
+    place:Maninghem (40,85)
+    time:0700AM (50,85)
+    time:0800AM (23,88)
+    place:Fruges (42,89)
+    place:Anvin (51,89)
+Page 91 (type diary) http://wd3.herokuapp.com/pages/AWD000196l  ----------
+  Hashtags: #gap 
+  7 Apr 1917 27
+    place:Anvin (5,31)
+  8 Apr 1917 35
+    time:1120AM (66,39)
+    activity:movement (22,39)
+    place:Anvin (57,39)
+    place:Frevillers (70,42)
+    place:Conteville (31,43)
+    place:Hugliers (50,43)
+    place:La Thieuloye (60,43)
+    place:Bethonsart (78,43)
+    place:Mingoval (25,46)
+    time:0500PM (67,47)
+    place:Frevin Capelle (48,47)
+    domestic:accomodation (36,48)
+  10 Apr 1917 58
+    weather:cold (47,58)
+    weather:rain (54,58)
+    place:Frevin Capelle (7,59)
+    time:0210PM (38,62)
+    time:0230PM (57,62)
+    activity:movement (62,65)
+    place:Mont Saint Eloi (82,65)
+    place:Anzin Saint Aubin (33,70)
+    place:Saint Catherine (75,73)
+    place:Saint Nicolas (84,73)
+    place:Saint Laurent Blangey (63,78)
+  11 Apr 1917 81
+    time:0130AM (73,85)
+    place:Saint Laurent Blangey (7,85)
+    domestic:accomodation (41,85)
+Page 92 (type diary) http://wd3.herokuapp.com/pages/AWD000193m  ----------
+  Hashtags: #horsescasualties 
+  11 Apr 1917 27
+    place:Saint Laurent Blangy (7,29)
+    time:1230PM (17,39)
+    unit:9 Division (33,42)
+    unit:1 Cavalry Brigade (80,45)
+    unit:4 Dragoon Guards (36,46)
+    unit:4 Dragoon Guards (48,46)
+    place:Athies (70,46)
+    unit:1 Cavalry Brigade (23,50)
+    time:0400PM (17,54)
+    domestic:accomodation (44,54)
+  12 Apr 1917 57
+    weather:cold (26,58)
+    time:1030AM (72,61)
+    time:0745AM (18,62)
+    activity:movement (26,66)
+    time:0300PM (81,84)
+    place:Frevin Capelle (64,85)
+Page 93 (type diary) http://wd3.herokuapp.com/pages/AWD000198b  ----------
+  Hashtags: #horsesrations 
+  13 Apr 1917 26
+    place:Frevin Capelle (7,30)
+    domestic:accomodation (35,33)
+    weather:cold (34,38)
+    weather:fine (22,38)
+  14 Apr 1917 39
+    domestic:rations (21,45)
+  15 Apr 1917 49
+    domestic:religion (53,49)
+    weather:rain (35,53)
+  16 Apr 1917 54
+  17 Apr 1917 57
+    domestic:hygiene (31,57)
+    domestic:hygiene (55,57)
+    place:Frevin Capelle (43,61)
+    place:Fillievres (62,61)
+    activity:movement (28,61)
+    place:Savy (70,64)
+    place:Saint Pol (75,64)
+    time:0700AM (56,64)
+    place:Rougefay (71,68)
+    place:Croisette (21,69)
+    place:Linzeux (32,69)
+    place:Fillievres (40,69)
+    domestic:accomodation (58,70)
+    time:0200PM (25,73)
+    weather:cold (23,88)
+    weather:rain (35,88)
+Page 94 (type diary) http://wd3.herokuapp.com/pages/AWD0001982  ----------
+  Hashtags: #horsescondition 
+  18 Apr 1917 27
+    place:Rougefay (7,31)
+    unit:18 Hussars (21,34)
+  17 Apr 1917 40
+    unit:Goc Cavalry corps (21,42)
+    domestic:inspections (41,42)
+  19 Apr 1917 49
+    place:Fressin (50,53)
+    place:Menage (80,53)
+    domestic:accomodation (66,53)
+    activity:movement (25,54)
+    mapRef:Abbeville Sheet 14 (57,57)
+    place:Saint Vaast (30,57)
+    place:Contes (21,58)
+    time:0800AM (37,61)
+    time:1230PM (61,61)
+    place:Rougefay (26,61)
+    place:Contes (51,61)
+    domestic:accomodation (84,64)
+    place:Contes (53,65)
+    place:Saint Vaast (72,65)
+    domestic:accomodation (45,65)
+    weather:fine (63,68)
+    weather:rain (72,68)
+  20 Apr 1917 69
+    place:Contes (8,73)
+    domestic:other (27,74)
+    weather:fine (47,80)
+  21 Apr 1917 81
+    domestic:other (30,81)
+    domestic:inspections (47,84)
+  22 Apr 1917 85
+    time:0800AM (75,88)
+    domestic:religion (40,88)
+Page 95 (type diary) http://wd3.herokuapp.com/pages/AWD000198g  ----------
+  23 Apr 1917 27
+    time:0830AM (64,31)
+    place:Contes (7,31)
+    time:0330PM (40,34)
+    time:0400PM (48,34)
+  24 Apr 1917 51
+    time:0600PM (85,38)
+    domestic:inspections (34,38)
+    place:Contes (26,42)
+    unit:Oc asc 1 Cavalry Division (21,46)
+    domestic:inspections (45,46)
+  25 Apr 1917 47
+    time:0500PM (30,50)
+    place:Contes (40,50)
+  24 Apr 1917 51
+    domestic:inspections (44,53)
+    activity:training (45,57)
+    activity:training (20,57)
+    activity:training (28,65)
+    activity:training (50,68)
+    weather:fine (29,73)
+    unit:18 Hussars (50,80)
+  29 Apr 1917 85
+    time:0630PM (82,88)
+    domestic:religion (39,88)
+    place:Contes (69,89)
+Page 96 (type diary) http://wd3.herokuapp.com/pages/AWD000198x  ----------
+  30 Apr 1917 27
+    activity:training (22,30)
+    place:Contes (6,31)
+    activity:training (29,34)
+    time:1100AM (39,38)
+    activity:training (21,42)
+    person:Captain L W D Wathen (commander) (57,60)
+Page 97 (type cover)
+Page 98 (type diary) http://wd3.herokuapp.com/pages/AWD000194o  ----------
+  1 May 1917 26
+    time:0700AM (76,30)
+    place:Contes (6,30)
+    activity:training (20,30)
+    activity:training (47,33)
+    unit:4 Dragoon Guards (59,57)
+    unit:9 Lancers (67,57)
+    unit:18 Hussars (80,57)
+  2 May 1917 66
+    activity:training (23,69)
+    time:0300PM (43,77)
+    time:0800PM (49,77)
+    place:Hesdin (31,77)
+    domestic:hygiene (22,77)
+  3 May 1917 85
+    activity:training (22,89)
+Page 99 (type diary) http://wd3.herokuapp.com/pages/AWD000193p  ----------
+  Hashtags: #horseshow 
+  3 May 1917 24
+    place:Contes (4,30)
+    activity:training (32,30)
+  4 May 1917 33
+    activity:training (24,37)
+  5 May 1917 42
+    domestic:inspections (72,45)
+    domestic:inspections (23,53)
+    unit:2 Cavalry Brigade (66,53)
+    time:1200PM (31,57)
+  6 May 1917 58
+    domestic:inspections (43,58)
+    domestic:religion (37,61)
+    place:Contes (65,61)
+    time:1000AM (59,62)
+  7 May 1917 63
+    time:0800AM (46,65)
+    activity:training (53,66)
+    activity:training (71,66)
+    activity:training (52,73)
+  8 May 1917 74
+    activity:training (23,77)
+    time:0830AM (85,77)
+Page 100 (type diary) http://wd3.herokuapp.com/pages/AWD0001974  ----------
+  9 May 1917 22
+    place:Contes (6,29)
+    time:0800AM (41,29)
+  10 May 1917 30
+    activity:training (57,30)
+    activity:training (20,31)
+    activity:training (24,33)
+    time:0615AM (59,33)
+    activity:training (57,36)
+    time:0800AM (21,37)
+    time:0830AM (51,37)
+    domestic:parades (39,38)
+    domestic:parades (20,41)
+    place:Contes (53,41)
+    time:1200PM (63,41)
+    unit:Ddr Cavalry corps (31,42)
+    unit:D.D.R. Calvary Corps (38,42)
+  11 May 1917 45
+    activity:training (36,45)
+    domestic:inspections (80,49)
+    activity:training (20,49)
+    time:0800AM (30,50)
+  13 May 1917 51
+    domestic:inspections (21,53)
+  12 May 1917 57
+    activity:training (20,61)
+    time:0800AM (58,61)
+  13 May 1917 51
+    place:Bomy (65,69)
+    activity:movement (37,69)
+    place:Cuhem (5,70)
+    place:Contes (20,73)
+    place:Fruges (56,73)
+    place:Cuhem (64,73)
+    activity:movement (44,73)
+    time:0715AM (32,73)
+    time:0230PM (82,73)
+    domestic:accomodation (37,77)
+    activity:movement (74,77)
+    place:Hazebrouck (55,80)
+  14 May 1917 81
+    mapRef:Hazebrouck (62,81)
+    mapRef:Hazebrouck (49,81)
+    place:Ecquedecques (5,85)
+    place:Saint Hilaire (57,85)
+    activity:movement (27,85)
+    domestic:parades (43,89)
+    activity:movement (68,89)
+    time:0745AM (53,89)
+Page 101 (type diary) http://wd3.herokuapp.com/pages/AWD000193c  ----------
+  14 May 1917 25
+    place:Ecquedecques (38,28)
+    time:1100AM (61,29)
+    place:Ecquedecques (5,29)
+    activity:movement (25,31)
+  15 May 1917 32
+    domestic:accomodation (30,32)
+    activity:movement (25,36)
+    place:Les Amusoires (5,36)
+    place:Robecq (54,37)
+    time:0745AM (42,40)
+    place:Lillers (65,40)
+    domestic:parades (29,40)
+    activity:movement (54,41)
+    place:Busnes (75,41)
+    place:Les Amusoires (33,44)
+    domestic:accomodation (21,44)
+    time:1000AM (59,45)
+  16 May 1917 48
+    activity:other (21,52)
+    activity:training (67,52)
+  17 May 1917 55
+    activity:movement (69,60)
+    place:Roclincourt (5,60)
+    place:Roclincourt (60,64)
+    mapRef:51B NW Roclincourt (21,66)
+    mapRef:51B N.W. (21,67)
+    unit:15 Cavalry (74,68)
+    domestic:accomodation (50,68)
+  18 May 1917 71
+    unit:5 Division xiii corps (54,71)
+    unit:5 Calvary Division (70,72)
+    unit:X111 Corps (82,72)
+    unit:15 Brigade (77,75)
+    unit:13 Brigade (69,76)
+  24 May 1917 83
+    unit:Divsional Reserves (27,83)
+    unit:5 Division (57,83)
+    unit:2 Division (72,83)
+    activity:reserve (21,83)
+    unit:Dmgo 5 Division (38,86)
+Page 102 (type diary) http://wd3.herokuapp.com/pages/AWD0001932  ----------
+  19 May 1917 25
+  20 May 1917 30
+    domestic:accomodation (23,30)
+    unit:1 Cavalry Division (82,33)
+    activity:fire (26,34)
+    time:0930AM (17,34)
+    unit:1 Cavalry Division Digging Party (31,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,37)
+    unit:1 Calvary (26,38)
+    domestic:inspections (36,45)
+    domestic:inspections (47,45)
+    unit:1 Calvary Division (73,46)
+    place:Ecurie (31,53)
+  21 May 1917 57
+    unit:13 Brigade (74,61)
+    unit:15 Brigade (81,61)
+    unit:15 Division (83,61)
+  22 May 1917 75
+    time:0530AM (55,65)
+    activity:reconnoitered (32,73)
+    mapRef:Gavrelle (59,80)
+    mapRef: (49,81)
+    mapRef:Gavrelle (45,81)
+    unit:205 Machine Gun Company (23,84)
+    unit:15 M G Cavalry (79,84)
+    unit:15 mg coy (88,84)
+    mapRef: (51,85)
+    unit:205 mg coy (35,85)
+    gridRef:B_11_A_9_7 (40,85)
+    unit:95 M G Cavalry (71,89)
+    unit:95 mg coy (86,89)
+Page 103 (type diary) http://wd3.herokuapp.com/pages/AWD0001943  ----------
+  Hashtags: #gas 
+  22 May 1917 26
+    gridRef:B_11_A_3_5 (30,30)
+    gridRef:B_11_A_3_5 (23,30)
+    place:Oppy Wood (48,35)
+    place:Fresnoy (54,36)
+    place:Fresnoy (62,38)
+    time:1145PM (45,45)
+    unit:1 Cavalry Division (73,49)
+    place:Arleux (21,50)
+    place:Maison Cote (28,50)
+  23 May 1917 53
+    place:Ecurie (44,53)
+    activity:quiet (39,58)
+    unit:5 Division (43,73)
+    unit:2 Division (57,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (53,76)
+  24 May 1917 79
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (76,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (64,78)
+    unit:5 Division (45,80)
+  25 May 1917 81
+    activity:quiet (29,81)
+    unit:2 Division (59,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (36,84)
+    activity:quiet (28,85)
+    activity:enemy_activity (65,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,86)
+    place:Arleux (27,89)
+Page 104 (type diary) http://wd3.herokuapp.com/pages/AWD0001981  ----------
+  26 May 1917 26
+    activity:enemy_activity (23,29)
+    place:Arleux (49,29)
+    time:0745AM (18,31)
+  27 May 1917 33
+    activity:fire (34,33)
+    activity:attack (52,37)
+    time:1015PM (17,41)
+    activity:attack (27,41)
+    weather:hot (77,44)
+    time:1000PM (61,45)
+    time:1200AM (43,46)
+    domestic:parades (23,46)
+  28 May 1917 50
+    activity:fire (20,53)
+  30 May 1917 65
+    place:Oppy (73,73)
+    place:Oppy (78,81)
+    place:Arleux (52,85)
+    place:Arleux (28,88)
+Page 105 (type diary) http://wd3.herokuapp.com/pages/AWD000197e  ----------
+  30 May 1917 25
+    place:Willerval (26,33)
+    place:Arleux (80,33)
+    place:Arleux (36,33)
+    weather:rain (21,36)
+  31 May 1917 42
+    unit:2 M G Sqdn (68,41)
+    time:0300PM (56,41)
+    activity:quiet (28,41)
+    unit:5 and 99 Machine Gun Corps (20,43)
+    unit:5 M G Cavalry (32,44)
+    unit:99 M G Cavalry (41,45)
+    unit:5 Machine Gun Corps (32,45)
+    unit:99 Machine Gun Corps (40,45)
+    person:Captain Wathen (commander) (60,64)
+Page 106 (type report) http://wd3.herokuapp.com/pages/AWD000197b  ----------
+  31 May 1917 0
+    reference:Map - Gavrelle 1/20,000 (44,3)
+    person:Captain L W D Wathen (commander) (55,58)
+    date:30 May 1917 (36,60)
+    reference:Appendix 1 (43,62)
+    title:Disposition of the Squadron (38,7)
+Page 107 (type cover)
+Page 108 (type diary) http://wd3.herokuapp.com/pages/AWD000197d  ----------
+  Hashtags: #croixdeguerre 
+  1 Jun 1917 23
+    time:1230AM (18,26)
+    place:Ecurie (51,32)
+    activity:resting (68,33)
+  2 Jun 1917 36
+    domestic:hygiene (23,36)
+    domestic:accomodation (40,39)
+    place:Les Amusoires (51,40)
+    place:Ecurie (5,40)
+    activity:movement (21,40)
+    unit:1 Cavalry Division (83,40)
+    unit:1 Cavalry Division Digging Party (18,44)
+    mapRef:51B  (77,45)
+    mapRef:51b (82,45)
+    mapRef:51B (88,45)
+    gridRef:G_9_B_3_8 (62,45)
+    unit:1 Cavalry Division Digging Party (26,45)
+    domestic:accomodation (50,48)
+    time:0530PM (57,48)
+  31 May 1917 0
+  2 Jun 1917 36
+  3 Jun 1917 52
+    place:Les Amusoires (4,56)
+    place:Robecq (73,56)
+    domestic:hygiene (64,56)
+  4 Jun 1917 59
+    domestic:inspections (50,63)
+    activity:training (19,63)
+    time:0600AM (33,63)
+    time:0830AM (38,65)
+    domestic:inspections (47,71)
+    time:1100AM (34,71)
+  5 Jun 1917 82
+    person:Lance Corporal Leo James Burgess (award) (22,82)
+    person:Lance Corporal Leo James Burgess (award) (45,83)
+    activity:training (18,86)
+    domestic:inspections (47,87)
+    domestic:inspections (56,87)
+    time:0600AM (33,87)
+    time:0830AM (38,87)
+Page 109 (type diary) http://wd3.herokuapp.com/pages/AWD000192k  ----------
+  Hashtags: #horsesevacuated 
+  6 Jun 1917 24
+    time:0615AM (56,28)
+    time:0815AM (78,29)
+    activity:training (20,29)
+    place:Les Amusoires (4,29)
+    time:0800AM (55,32)
+    domestic:inspections (69,33)
+  7 Jun 1917 41
+    time:0615AM (62,45)
+    time:0815AM (85,45)
+    activity:training (21,46)
+    time:0800AM (55,49)
+    domestic:inspections (63,49)
+  8 Jun 1917 53
+    domestic:medical (27,53)
+    time:0615AM (60,56)
+    time:0815AM (85,57)
+    activity:training (20,57)
+  9 Jun 1917 61
+    time:0800AM (51,61)
+  10 Jun 1917 65
+    time:0800AM (35,65)
+    domestic:sport (50,65)
+    domestic:religion (40,69)
+    unit:Xiii corps (79,72)
+  11 Jun 1917 77
+    time:0800AM (35,80)
+    domestic:inspections (43,80)
+    unit:2 Cavalry Brigade (22,84)
+    activity:training (60,89)
+Page 110 (type diary) http://wd3.herokuapp.com/pages/AWD0001989  ----------
+  Hashtags: #horsesinfection 
+  11 Jun 1917 25
+    place:Les Amusoires (6,29)
+  12 Jun 1917 30
+    time:0800AM (31,33)
+  13 Jun 1917 37
+    activity:movement (63,41)
+    person:Captain L W D Wathen (46,41)
+    unit:Xiii corps (85,41)
+    activity:movement (33,45)
+    time:0900AM (57,45)
+    place:Les Amusoires (44,46)
+    place:Ecurie (35,49)
+    time:1230PM (56,49)
+    mapRef:51B  N.W. (44,52)
+    unit:Xiii corps (74,53)
+    mapRef:51B N W (62,54)
+    gridRef:A_22_C_4_3 (26,54)
+  14 Jun 1917 57
+    unit:31 Division (53,57)
+    unit:31 Division (65,57)
+    place:Ecurie (6,61)
+    unit:31 Division (67,61)
+  15 Jun 1917 69
+    domestic:parades (71,72)
+    activity:training (22,73)
+    time:0700AM (45,73)
+    time:0730AM (52,73)
+  16 Jun 1917 77
+    activity:training (37,77)
+  17 Jun 1917 81
+    activity:reconnoitered (49,84)
+Page 111 (type diary) http://wd3.herokuapp.com/pages/AWD0001969  ----------
+  17 Jun 1917 26
+    place:Gavrelle (47,29)
+    place:Ecurie (5,30)
+    weather:hot (21,32)
+  18 Jun 1917 34
+    weather:hot (28,34)
+    unit:2 M G Squadron (21,37)
+    unit:93 Machine Gun Coy (60,37)
+    unit:2 M G Squadron (36,37)
+    unit:93 mg coy (56,37)
+    unit:93 M G Corp (44,38)
+    place:Willie Trench (63,45)
+    place:Ditch Post (58,53)
+    place:Red Line (70,53)
+  28 Jun 1917 59
+  19 Jun 1917 67
+    gridRef:B_28_C_7_2 (28,65)
+    activity:line (4,67)
+    time:0315AM (24,69)
+    activity:repair (27,73)
+    place:Gavrelle Sector (6,73)
+    activity:quiet (40,77)
+    time:1100AM (84,80)
+    weather:fine (76,84)
+    time:0130PM (24,85)
+    weather:hot (22,88)
+Page 112 (type diary) http://wd3.herokuapp.com/pages/AWD000193z  ----------
+  Hashtags: #prisoners #aeroplane 
+  20 Jun 1917 24
+    activity:attack (21,28)
+    activity:line (8,28)
+    activity:repair (36,32)
+    time:0515AM (28,32)
+    place:Gavrelle (5,33)
+    activity:attack (73,37)
+  21 Jun 1917 59
+    weather:rain (22,60)
+  22 Jun 1917 71
+    weather:rain (66,71)
+    weather:rain (57,76)
+    unit:Brigade (69,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 16; sick: 0; wounded: 0 (65,80)
+    unit:31 Division (24,82)
+    unit:93 Brigade (21,87)
+Page 113 (type diary) http://wd3.herokuapp.com/pages/AWD000192v  ----------
+  22 Jun 1917 24
+    activity:attack (54,29)
+    time:1020PM (43,29)
+    activity:line (6,30)
+    place:Gavrelle Sector (5,34)
+    activity:attack (42,35)
+    place:Gavrelle Support Trench (58,41)
+    activity:fire (58,48)
+    activity:fire (21,49)
+    person:Lance Corporal Hall (combat) (59,64)
+    person:Lance Corporal Maxwell (combat) (33,65)
+    person:Sergeant Bull (casualty_wounded) (81,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (63,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (89,77)
+  23 Jun 1917 86
+    person:Lance Corporal Hall (casualty_wounded) (21,80)
+    person:Private Foster (casualty_wounded) (32,80)
+    time:0145AM (64,88)
+Page 114 (type diary) http://wd3.herokuapp.com/pages/AWD000194x  ----------
+  23 Jun 1917 25
+    activity:repair (36,29)
+    activity:line (5,29)
+    activity:fire (49,32)
+    activity:line (19,33)
+    place:Gavrelle Sector (6,35)
+  24 Jun 1917 37
+    weather:rain (58,37)
+    activity:enemy_activity (51,42)
+    activity:enemy_activity (50,50)
+    activity:attack (27,50)
+    activity:fire (45,57)
+  25 Jun 1917 65
+    time:0100AM (83,65)
+    activity:quiet (48,70)
+    activity:attack (61,73)
+    activity:enemy_activity (21,76)
+    activity:repair (50,77)
+  26 Jun 1917 81
+    activity:repair (58,85)
+    activity:quiet (27,87)
+Page 115 (type diary) http://wd3.herokuapp.com/pages/AWD000194c  ----------
+  26 Jun 1917 25
+    activity:line (12,30)
+  27 Jun 1917 34
+    place:Gavrelle Sector (5,34)
+    unit:93 mg coy (80,37)
+    unit:Xiii corps (32,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (84,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (72,57)
+    place:Tyne Alley (59,65)
+  28 Jun 1917 77
+    place:Oppy Wood (77,89)
+    unit:5 Division (25,89)
+    unit:31 Division (34,89)
+Page 116 (type diary) http://wd3.herokuapp.com/pages/AWD000192p  ----------
+  28 Jun 1917 25
+    activity:line (8,28)
+    place:Cadorna Trench (34,28)
+    time:0710PM (81,29)
+    place:Gavrelle Sector (6,32)
+    activity:fire (23,34)
+    activity:attack (25,42)
+    activity:attack (55,45)
+    time:1200PM (81,49)
+    activity:attack (49,53)
+  29 Jun 1917 73
+    time:1000AM (47,76)
+    activity:fire (36,79)
+    activity:enemy_activity (47,84)
+    time:0900PM (67,87)
+    time:0800PM (60,88)
+Page 117 (type diary) http://wd3.herokuapp.com/pages/AWD000194e  ----------
+  Hashtags: #prisoners #shellshock 
+  28 Jun 1917 25
+    time:0100AM (34,29)
+    activity:line (10,29)
+    activity:achieved (61,30)
+    place:Gavrelle Sector (4,34)
+    place:Gavrelle (7,34)
+    time:0315AM (82,41)
+    place:Oppy Wood (55,45)
+    person:Lieutenant C H Miller (casualty_wounded) (64,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (67,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 2 (88,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (53,61)
+  29 Jun 1917 65
+    unit:92 M G Cavalry (66,69)
+    unit:92 mg coy (77,70)
+    time:1130PM (70,72)
+  30 Jun 1917 77
+    weather:rain (46,77)
+    activity:quiet (25,77)
+    activity:quiet (30,81)
+    time:0500PM (79,85)
+    weather:rain (51,85)
+Page 118 (type diary) http://wd3.herokuapp.com/pages/AWD000198i  ----------
+  30 Jun 1917 30
+    activity:line (6,28)
+    unit:94 mg coy (36,28)
+    unit:94 M G Cavalry (25,29)
+    unit:94 Machine Gun Company (25,29)
+    place:Gavrelle Sector (5,32)
+    person:Captain L W D Wathen (commander) (58,47)
+Page 119 (type orders) http://wd3.herokuapp.com/pages/AWD000195b  ----------
+  Hashtags: #machinegunfiringprogramme 
+  30 Jun 1917 0
+    reference:Appendix 1 (40,3)
+    orders:attack (42,7)
+    reference:2nd Machine Gun Squadron Fire Programme (49,8)
+Page 120 (type orders) http://wd3.herokuapp.com/pages/AWD000197y  ----------
+  30 Jun 1917 0
+    orders:routine (44,3)
+    person:Captain L W D Wathen (commander) (49,38)
+    reference:2nd Machine Gun Squadron Fire Programme (continued) (50,4)
+    date:28 Jun 1917 (35,40)
+    orders:attack (42,5)
+    reference:Appendix 1 (37,5)
+Page 121 (type cover)
+Page 122 (type diary) http://wd3.herokuapp.com/pages/AWD000198s  ----------
+  Hashtags: #horsescondition 
+  1 Jul 1917 26
+    activity:withdraw (41,30)
+    unit:No. 3 Section (78,30)
+    place:Gavrelle (7,31)
+    place:Gavrelle Sector (4,31)
+    time:0130AM (65,33)
+    unit:4 M.G. Corps (43,34)
+    unit:94 mg coy (47,34)
+    time:0700PM (72,37)
+    activity:movement (24,37)
+    place:Roclincourt (37,38)
+    domestic:accomodation (49,38)
+    unit:31 Division (39,41)
+    activity:reserve (42,46)
+    unit:94 Infantry Brigade (60,46)
+    place:Roclincourt (76,49)
+  2 Jul 1917 54
+    activity:movement (63,56)
+    activity:withdraw (78,57)
+    unit:No. 3 Section (65,58)
+  3 Jul 1917 61
+    time:1100PM (22,61)
+    place:Roclincourt (44,61)
+    activity:movement (66,64)
+    unit:1 Cavalry Division (66,65)
+  4 Jul 1917 69
+    time:0830AM (37,69)
+    time:1215PM (77,69)
+    place:Ecurie (20,69)
+    place:Les Amusoires (61,69)
+    place:Les Amusoires (4,73)
+    unit:M.G. Corps (34,77)
+    place:Locon (83,77)
+  5 Jul 1917 84
+    time:0730AM (30,89)
+Page 123 (type diary) http://wd3.herokuapp.com/pages/AWD000197j  ----------
+  Hashtags: #courtmartial 
+  6 Jul 1917 25
+    time:0730AM (28,29)
+  7 Jul 1917 30
+    domestic:inspections (36,30)
+    place:Les Amusoires (7,30)
+    time:0730AM (29,33)
+  8 Jul 1917 34
+    domestic:inspections (39,37)
+  9 Jul 1917 38
+    time:0730AM (30,41)
+    activity:training (68,41)
+  10 Jul 1917 42
+    domestic:inspections (44,45)
+    time:0730AM (29,46)
+    time:1000AM (36,46)
+    time:1030AM (32,49)
+  11 Jul 1917 50
+    time:0730AM (30,53)
+    domestic:inspections (44,53)
+    time:0930AM (37,54)
+    time:1130AM (23,57)
+  12 Jul 1917 61
+    activity:training (48,61)
+    time:0730AM (40,65)
+  13 Jul 1917 66
+    domestic:inspections (50,66)
+    time:0730AM (30,69)
+    domestic:sport (40,69)
+  14 Jul 1917 73
+  15 Jul 1917 77
+    time:0730AM (30,77)
+  16 Jul 1917 82
+    unit:9 Cavalry Brigade (55,84)
+    unit:1 Cavalry Brigade (47,85)
+    time:1030AM (30,85)
+    person:Lieutenant Dent (discipline) (39,88)
+Page 124 (type diary) http://wd3.herokuapp.com/pages/AWD000193j  ----------
+  16 Jul 1917 26
+    unit:18 Hussars (34,28)
+    unit:18 Hussars (24,29)
+    domestic:sport (47,29)
+    place:Les Amusoires (7,30)
+  18 Jul 1917 37
+    time:0730AM (28,37)
+    activity:training (18,39)
+    activity:training (37,41)
+    unit:2 Dismounted Pioneer Battalion (71,41)
+    unit:9 Dismounted Pioneer Battalion (79,41)
+    unit:2 and 9 Dismounted Pioneer Battalions (70,41)
+    unit:2 Machine Gun Squadron (48,45)
+    unit:9 Machine Gun Squadron (55,45)
+    unit:2 Cavalry Brigade (42,49)
+    unit:1 Portuguese Division (33,53)
+    unit:1 Portuguese Division (50,53)
+    place:Neuve Chapelle (68,53)
+    activity:reconnoitered (22,57)
+  19 Jul 1917 61
+    activity:reconnoitered (28,69)
+    unit:Portuguese Division (20,72)
+  20 Jul 1917 73
+    domestic:inspections (53,76)
+    time:0700AM (32,77)
+    time:1100AM (42,81)
+    unit:2 Cavalry Brigade (20,81)
+    activity:training (66,88)
+Page 125 (type diary) http://wd3.herokuapp.com/pages/AWD0001937  ----------
+  Hashtags: #aeroplanes #courtmartial #pierrot 
+  20 Jul 1917 26
+    place:Les Amusoires (4,29)
+    person:Captain H Misa (discipline) (20,29)
+    unit:H Battery Royal Horse Artillery (23,32)
+  21 Jul 1917 33
+    unit:H Battery Royal Horse Artillery (40,33)
+    unit:H. Battery, R.H.A. (27,35)
+    time:0730AM (31,37)
+  22 Jul 1917 41
+    domestic:sport (20,41)
+    domestic:religion (36,45)
+  23 Jul 1917 46
+    time:1200PM (55,46)
+    domestic:inspections (22,49)
+  24 Jul 1917 53
+    domestic:inspections (23,57)
+  25 Jul 1917 58
+    domestic:inspections (40,61)
+  26 Jul 1917 62
+    domestic:inspections (31,62)
+    activity:training (45,65)
+    time:0730AM (30,65)
+  27 Jul 1917 66
+    activity:training (46,69)
+    time:0730AM (31,69)
+  28 Jul 1917 70
+    person:Lieutenant S H Le Roy-Lewis (other) (21,73)
+    person:Lieutenant E E Roberts (other) (43,73)
+    place:Robecq (77,77)
+    domestic:inspections (35,81)
+    time:0730AM (27,81)
+    person:Captain H Misa (departed_training) (22,85)
+    person:Sergeant H Baker (departed_training) (36,85)
+    unit:G hq small arms school (73,85)
+Page 126 (type diary) http://wd3.herokuapp.com/pages/AWD000196r  ----------
+  Hashtags: #militarymedal #Nonconformist 
+  29 Jul 1917 27
+    place:Les Amusoires (6,29)
+    domestic:religion (34,33)
+  30 Jul 1917 37
+    time:1200PM (43,37)
+    weather:rain (39,41)
+    time:0730AM (29,41)
+    activity:training (71,42)
+  31 Jul 1917 86
+    activity:training (22,45)
+    domestic:parades (51,49)
+    activity:training (41,49)
+    time:0730AM (30,49)
+    person:Sergeant L Bull (award) (24,69)
+    person:Lance Corporal G Maxwell (award) (24,73)
+    unit:Xiii corps (53,77)
+    person:Captain L W D Wathen (commander) (62,84)
+Page 127 (type cover)
+Page 128 (type diary) http://wd3.herokuapp.com/pages/AWD000195t  ----------
+  Hashtags: #bartomilitarymedal #croixdeguerre 
+  1 Aug 1917 27
+    place:Les Amusoires (9,28)
+    weather:rain (78,30)
+    activity:training (56,30)
+    time:0730AM (45,30)
+  2 Aug 1917 31
+    place:Les Amusoires (4,31)
+    activity:training (27,32)
+    activity:training (28,32)
+    weather:rain (61,34)
+  3 Aug 1917 35
+    activity:training (48,35)
+    domestic:hygiene (40,37)
+    place:Robecq (58,38)
+    time:0730AM (30,38)
+  4 Aug 1917 42
+    time:1100AM (21,42)
+    time:0100PM (30,42)
+    time:0730AM (51,46)
+    domestic:inspections (76,47)
+    domestic:inspections (60,47)
+  5 Aug 1917 50
+    place:Robecq (75,50)
+    activity:training (55,50)
+    time:1000AM (84,50)
+    domestic:religion (35,53)
+    unit:9 Lancers (79,53)
+    time:1100AM (60,54)
+    unit:9 Lancers (88,54)
+    unit:B Squadron, 9 Lancers (74,55)
+    unit:2 Cavalry Brigade (50,58)
+    person:Sergeant L S Bull (award) (35,69)
+    person:Sergeant L S Bull (award) (50,70)
+  6 Aug 1917 73
+    person:Lance Corporal L J Burgess (award) (35,74)
+    person:Lance Corporal L J Burgess (award) (51,74)
+    activity:training (48,77)
+    time:0730AM (31,78)
+    activity:training (22,81)
+    weather:rain (82,82)
+Page 129 (type diary) http://wd3.herokuapp.com/pages/AWD000196f  ----------
+  7 Aug 1917 26
+    activity:training (62,29)
+    place:Les Amusoires (3,29)
+    time:0730AM (29,30)
+    domestic:inspections (50,30)
+    place:Les Amusoires (7,32)
+  8 Aug 1917 37
+    time:0730AM (27,41)
+  9 Aug 1917 42
+    domestic:inspections (22,46)
+  10 Aug 1917 49
+    time:0900AM (57,50)
+    place:Les Amusoires (29,50)
+    activity:training (71,54)
+    time:0730AM (30,54)
+    domestic:inspections (40,54)
+    domestic:inspections (58,54)
+  11 Aug 1917 57
+    time:0730AM (31,61)
+    domestic:hygiene (57,62)
+    place:Robecq (76,62)
+  12 Aug 1917 65
+    time:1100AM (21,65)
+    time:0100PM (34,65)
+    domestic:religion (40,69)
+    domestic:religion (53,69)
+  13 Aug 1917 73
+    time:0800AM (83,77)
+    domestic:inspections (58,77)
+    domestic:parades (30,77)
+    activity:movement (49,81)
+    place:Les Amusoires (24,81)
+    place:Calonne (66,81)
+    activity:training (36,82)
+    place:Robecq (74,82)
+  14 Aug 1917 85
+    domestic:accomodation (23,85)
+    person:Captain L W D Wathen (commander) (53,89)
+Page 130 (type diary) http://wd3.herokuapp.com/pages/AWD000198n  ----------
+  14 Aug 1917 25
+    person:Captain L W D Wathen (departed_leave) (18,29)
+    person:Lieutenant D F G Duff (commander) (38,29)
+    place:Les Amusoires (6,29)
+    strength:officer: 0; nco: 0; other: 44 (68,34)
+    unit:Machine Gun Corps Infantry (55,37)
+  15 Aug 1917 40
+    person:Lieutenant E E Roberts (other) (32,41)
+    activity:training (25,44)
+  17 Aug 1917 52
+    activity:training (30,52)
+    activity:training (66,52)
+    activity:training (23,54)
+  18 Aug 1917 56
+    domestic:inspections (48,56)
+    time:1100AM (27,60)
+    time:1200PM (57,60)
+    domestic:inspections (36,60)
+    domestic:religion (79,60)
+    domestic:religion (65,60)
+    time:0630PM (39,63)
+  19 Aug 1917 64
+  20 Aug 1917 67
+    person:Lieutenant Lewis (other) (25,68)
+  21 Aug 1917 71
+  23 Aug 1917 79
+    activity:training (28,79)
+    time:1100AM (54,84)
+    domestic:parades (44,84)
+    domestic:inspections (67,84)
+Page 131 (type diary) http://wd3.herokuapp.com/pages/AWD000193t  ----------
+  Hashtags: #billetsbad 
+  24 Aug 1917 27
+    person:Captain H Misa (commander) (80,29)
+    place:Les Amusoires (4,29)
+    person:Captain H Misa (returned_training) (31,30)
+  26 Aug 1917 38
+    domestic:hygiene (36,38)
+    person:Captain L W D Wathen (commander) (59,41)
+    person:Captain Wathen (48,42)
+    person:Captain L W D Wathen (returned_leave) (38,42)
+  27 Aug 1917 47
+    place:Wandonne (58,50)
+    mapRef:Hazebrouck (78,50)
+    mapRef:Hazebrouck sheet 5a (81,50)
+    mapRef:Hazebrouck 5A (68,50)
+    activity:movement (25,50)
+    mapRef:5A (21,53)
+    time:0700AM (73,54)
+    place:Hezecques (4,54)
+    place:Les Amusoires (56,54)
+    domestic:parades (46,54)
+    activity:resting (72,57)
+    time:0100PM (47,58)
+    place:Hezecques (32,58)
+    domestic:accomodation (69,58)
+  28 Aug 1917 61
+    weather:fine (34,62)
+    weather:rain (46,62)
+    mapRef:Calais (74,65)
+    activity:movement (21,65)
+    place:Samer (58,66)
+    mapRef:Calais (88,66)
+    place:Hezecques (34,69)
+    time:0715AM (47,70)
+    place:Enquin (75,70)
+    time:1230PM (20,72)
+  29 Aug 1917 77
+    weather:rain (50,77)
+  30 Aug 1917 81
+    place:Enquin (4,81)
+    domestic:accomodation (30,81)
+    domestic:accomodation (23,88)
+    place:Enquin (83,89)
+Page 132 (type diary) http://wd3.herokuapp.com/pages/AWD000196x  ----------
+  31 Aug 1917 90
+    domestic:inspections (31,29)
+    domestic:inspections (47,30)
+    place:Enquin (4,30)
+    person:Captain H Misa (departed_leave) (21,37)
+    person:Captain L W D Wathen (departed_training) (21,41)
+    person:Lieutenant D F G Duff (commander) (22,50)
+    unit:4 Dragoon Guards (33,77)
+    unit:9 Lancers (43,78)
+    unit:18 Hussars (54,78)
+    person:Lieutenant D F G Duff (commander) (56,88)
+Page 133 (type cover)
+Page 134 (type diary) http://wd3.herokuapp.com/pages/AWD000195q  ----------
+  1 Sep 1917 25
+    place:Enquin (5,29)
+  2 Sep 1917 31
+    time:1115AM (65,33)
+  3 Sep 1917 34
+    domestic:religion (37,34)
+    activity:training (22,38)
+    time:0800AM (60,38)
+    activity:training (31,40)
+  4 Sep 1917 46
+    activity:training (31,50)
+  5 Sep 1917 53
+    activity:training (42,57)
+    activity:training (57,61)
+    activity:training (20,62)
+  6 Sep 1917 65
+    activity:training (32,69)
+    activity:training (53,70)
+  8 Sep 1917 77
+    activity:training (34,77)
+    activity:training (25,78)
+    domestic:inspections (67,81)
+  9 Sep 1917 83
+    domestic:religion (40,85)
+Page 135 (type diary) http://wd3.herokuapp.com/pages/AWD0001990  ----------
+  10 Sep 1917 25
+    activity:training (22,28)
+  11 Sep 1917 29
+    place:Enquin (7,29)
+    activity:training (22,33)
+  12 Sep 1917 34
+    activity:training (24,36)
+  13 Sep 1917 40
+    activity:training (18,44)
+    activity:training (26,45)
+  14 Sep 1917 46
+    activity:training (23,50)
+  15 Sep 1917 53
+    person:Captain H Misa (commander) (37,56)
+    person:Captain H Misa (commander) (48,57)
+    activity:training (22,57)
+  16 Sep 1917 60
+    domestic:parades (44,60)
+    place:Samer (82,61)
+    domestic:religion (42,64)
+    time:0915AM (76,64)
+  17 Sep 1917 65
+    activity:training (24,68)
+  18 Sep 1917 69
+    activity:training (25,72)
+  19 Sep 1917 77
+    activity:training (25,80)
+  20 Sep 1917 85
+    activity:training (25,88)
+Page 136 (type diary) http://wd3.herokuapp.com/pages/AWD000196g  ----------
+  21 Sep 1917 25
+    domestic:sport (31,28)
+    place:Enquin (6,29)
+    person:Private Williams (other) (62,29)
+  23 Sep 1917 37
+    domestic:inspections (38,37)
+    domestic:inspections (30,37)
+    activity:training (39,41)
+    domestic:inspections (28,41)
+    place:Samer (61,41)
+  24 Sep 1917 45
+    activity:training (20,49)
+    person:Lieutenant D F G Duff (departed_training) (29,53)
+    person:Lieutenant E E Roberts (departed_training) (47,53)
+  25 Sep 1917 56
+    domestic:inspections (36,57)
+    activity:training (19,61)
+    time:0430AM (49,61)
+    unit:2 Cavalry Brigade (63,61)
+    unit:9 Cavalry Brigade (25,65)
+    time:0730AM (47,69)
+    unit:9 Lancers (31,69)
+  27 Sep 1917 84
+    place:Samer (80,88)
+    time:0800AM (35,88)
+Page 137 (type diary) http://wd3.herokuapp.com/pages/AWD000197i  ----------
+  27 Sep 1917 26
+    place:Enquin (7,28)
+  28 Sep 1917 30
+    activity:training (19,33)
+    place:Hubersent (19,37)
+    mapRef:Calais (41,37)
+    mapRef:Calais (31,37)
+    unit:1 Cavalry Brigade (56,37)
+    unit:2 Cavalry Brigade (64,37)
+    unit:2 Cavalry Brigade (34,40)
+    place:Camiers (32,45)
+    place:Enquin (45,45)
+    unit:1 Cavalry Brigade (64,45)
+    unit:4 Dragoon Guards (48,53)
+    unit:4 Dragoon Guards (69,53)
+    unit:18 Hussars (47,56)
+    unit:18 Hussars (64,57)
+    activity:reserve (51,60)
+    person:Captain L W D Wathen (19,72)
+    person:Captain L W D Wathen (commander) (38,72)
+  29 Sep 1917 78
+    time:0800AM (62,81)
+  30 Sep 1917 86
+    domestic:religion (43,88)
+    time:0930AM (74,88)
+Page 138 (type diary) http://wd3.herokuapp.com/pages/AWD000194h  ----------
+  30 Sep 1917 27
+    weather:fine (21,28)
+    place:Enquin (4,28)
+    person:Captain L W D Wathen (commander) (64,60)
+Page 139 (type cover)
+Page 140 (type diary) http://wd3.herokuapp.com/pages/AWD000194i  ----------
+  1 Oct 1917 25
+    activity:training (19,28)
+    time:0830AM (44,28)
+  2 Oct 1917 29
+    place:Enquin (3,29)
+    activity:training (20,32)
+    time:0830AM (36,33)
+    time:0900AM (44,33)
+    time:0900AM (73,33)
+    activity:training (26,36)
+  3 Oct 1917 41
+    domestic:parades (53,44)
+    time:0830AM (64,45)
+    activity:training (20,47)
+    place:Beauriez (67,49)
+    time:0900AM (82,49)
+  4 Oct 1917 52
+    activity:training (29,53)
+    domestic:parades (54,56)
+    time:0830AM (64,57)
+    activity:training (20,60)
+    activity:training (75,60)
+  5 Oct 1917 64
+    activity:training (19,68)
+    time:0830AM (42,69)
+  6 Oct 1917 77
+  7 Oct 1917 81
+    place:Watten (36,84)
+    place:Enquin (71,85)
+    time:0815AM (82,85)
+    activity:movement (19,86)
+    place:Watten (61,88)
+    place:Desvres Station (36,89)
+    time:0630PM (74,89)
+Page 141 (type diary) http://wd3.herokuapp.com/pages/AWD00019c6  ----------
+  Hashtags: #horsescondition 
+  7 Oct 1917 25
+    domestic:accomodation (33,27)
+    place:Watten (4,28)
+    mapRef:Calais and Hazebrouck (25,31)
+    mapRef:Calais (24,32)
+    mapRef:Hazebrouck (37,32)
+  8 Oct 1917 33
+    mapRef:Calais and Hazebrouck (36,33)
+    place:Houtkerque (39,37)
+    mapRef:Hazebrouck (56,37)
+    activity:movement (20,37)
+    mapRef:Hazebrouck (63,38)
+    time:0800AM (51,40)
+    domestic:parades (45,40)
+    place:Houtkerque (68,40)
+    time:0330PM (82,41)
+    place:Wormhoudt (20,41)
+    domestic:accomodation (43,44)
+    domestic:accomodation (20,47)
+  9 Oct 1917 49
+    place:Houtkerque (3,52)
+    time:0830AM (55,53)
+    activity:training (30,53)
+    place:Houtkerque (9,55)
+  10 Oct 1917 56
+    domestic:inspections (73,60)
+  11 Oct 1917 61
+    domestic:inspections (64,61)
+  12 Oct 1917 65
+    weather:rain (24,65)
+    domestic:parades (73,68)
+    place:Watten (45,68)
+    time:0715AM (80,69)
+    activity:movement (19,69)
+    activity:movement (24,71)
+    place:Wormhoudt (33,72)
+    place:Watten (60,72)
+    place:Foret D'Eperlecques (68,72)
+    place:Bollezeele (46,73)
+    domestic:accomodation (62,76)
+  13 Oct 1917 80
+    time:0315PM (31,80)
+    place:Samer (50,84)
+    mapRef:Calais (69,84)
+    mapRef:Calais (75,85)
+    activity:movement (20,85)
+    domestic:parades (33,87)
+    time:0800AM (41,88)
+    place:Nordausque (64,88)
+Page 142 (type diary) http://wd3.herokuapp.com/pages/AWD000192d  ----------
+  Hashtags: #horsescondition 
+  13 Oct 1917 26
+    place:Enquin (49,28)
+    place:Bonningues (23,29)
+    place:Desvres (36,29)
+    place:Enquin (4,29)
+    place:Enquin (7,31)
+    time:0430PM (45,32)
+  14 Oct 1917 33
+    weather:rain (67,33)
+    domestic:religion (42,36)
+    domestic:religion (56,37)
+    place:Preures (61,44)
+    place:Le Fayel (70,45)
+  15 Oct 1917 48
+    place:Bois Ratel (20,48)
+    time:0830AM (47,52)
+    activity:training (20,53)
+  16 Oct 1917 56
+    time:0830AM (45,60)
+    domestic:accomodation (72,60)
+    activity:training (20,61)
+    place:Enquin (70,69)
+    place:Preures (67,72)
+  17 Oct 1917 73
+    time:0830AM (30,76)
+    activity:training (23,76)
+  18 Oct 1917 77
+    activity:training (19,79)
+    domestic:inspections (30,79)
+  19 Oct 1917 80
+    domestic:inspections (28,83)
+  20 Oct 1917 84
+    activity:training (20,85)
+    time:0830AM (34,88)
+    activity:training (20,89)
+Page 143 (type diary) http://wd3.herokuapp.com/pages/AWD000197l  ----------
+  Hashtags: #horsescondition #Communion #celebration #weaponsystems #Italy 
+  21 Oct 1917 23
+    place:Enquin (6,27)
+    place:Enquin (80,28)
+    domestic:religion (57,28)
+    domestic:religion (42,28)
+  22 Oct 1917 32
+    time:0800AM (24,32)
+  23 Oct 1917 36
+    domestic:parades (23,36)
+    time:0830AM (54,36)
+    domestic:inspections (75,39)
+    domestic:inspections (21,40)
+    place:Enquin (32,47)
+    time:1130AM (45,48)
+    place:Preures (32,52)
+  24 Oct 1917 59
+    time:0830AM (40,62)
+    activity:training (51,63)
+    domestic:parades (35,64)
+  25 Oct 1917 67
+    domestic:inspections (59,67)
+    domestic:parades (71,71)
+    activity:training (47,72)
+    activity:training (21,73)
+  26 Oct 1917 74
+    domestic:parades (32,78)
+    time:0830AM (55,78)
+    domestic:parades (20,79)
+    activity:training (65,79)
+  27 Oct 1917 82
+    domestic:inspections (45,82)
+    domestic:inspections (54,83)
+    domestic:inspections (71,86)
+    domestic:parades (21,86)
+    time:0830AM (60,86)
+    domestic:parades (32,87)
+Page 144 (type diary) http://wd3.herokuapp.com/pages/AWD0001939  ----------
+  Hashtags: #football 
+  27 Oct 1917 25
+    domestic:inspections (19,27)
+    place:Enquin (5,29)
+  28 Oct 1917 30
+    domestic:religion (39,32)
+    place:Hucqueliers (65,33)
+    domestic:religion (48,33)
+    time:1159AM (85,33)
+  29 Oct 1917 37
+    domestic:parades (20,40)
+    place:Preures (79,41)
+    domestic:parades (32,41)
+    domestic:medical (66,41)
+    domestic:medical (55,41)
+    time:0830AM (44,41)
+  30 Oct 1917 45
+    place:Enquin (43,45)
+    time:1030AM (25,45)
+    time:0400PM (57,45)
+    domestic:parades (32,49)
+    time:0830AM (43,49)
+    activity:training (48,53)
+  31 Oct 1917 57
+    time:0215PM (50,57)
+    domestic:parades (23,60)
+    domestic:hygiene (41,60)
+    place:Recques (51,61)
+    time:0400PM (65,61)
+    time:0600PM (70,61)
+    domestic:sport (52,64)
+    domestic:sport (20,67)
+    domestic:sport (32,69)
+    person:Captain L W D Wathen (commander) (65,82)
+Page 145 (type cover)
+Page 146 (type diary) http://wd3.herokuapp.com/pages/AWD000194n  ----------
+  Hashtags: #football #weaponsystems 
+  1 Nov 1917 25
+    place:Enquin (3,26)
+  2 Nov 1917 29
+    activity:training (22,29)
+    time:0830AM (43,29)
+    domestic:inspections (74,29)
+    place:Enquin (6,29)
+    activity:training (30,30)
+    time:0830AM (40,34)
+  3 Nov 1917 36
+    activity:training (19,36)
+    domestic:inspections (31,36)
+    domestic:inspections (50,37)
+    domestic:parades (62,40)
+    time:0730AM (32,41)
+    activity:training (51,45)
+    domestic:sport (82,45)
+    place:Enquin (25,45)
+    time:0930AM (38,46)
+  4 Nov 1917 49
+  5 Nov 1917 53
+    activity:training (20,57)
+    domestic:parades (57,57)
+    place:Enquin (67,57)
+  6 Nov 1917 60
+    time:0925AM (24,61)
+    activity:training (20,64)
+    activity:training (30,65)
+    time:0830AM (64,65)
+  7 Nov 1917 68
+    unit:Cyclists (63,71)
+    activity:training (31,73)
+  8 Nov 1917 76
+    time:0730AM (40,76)
+    domestic:parades (28,76)
+    activity:training (19,79)
+    time:1000AM (79,81)
+    domestic:medical (39,81)
+    place:Enquin (66,81)
+    time:1015AM (40,84)
+    place:Preures (25,84)
+  9 Nov 1917 85
+    activity:training (18,88)
+    time:0830AM (46,88)
+Page 147 (type diary) http://wd3.herokuapp.com/pages/AWD0001973  ----------
+  Hashtags: #roadscondition #rations 
+  10 Nov 1917 24
+    place:Fruges (40,29)
+    place:Enquin (5,29)
+    mapRef:Hazebrouck (57,29)
+    activity:movement (23,29)
+    mapRef:Hazebrouck (64,30)
+    domestic:parades (21,32)
+    place:Preures (32,33)
+    place:Capelle Neuve (71,33)
+    time:0930AM (44,33)
+    domestic:accomodation (40,36)
+  11 Nov 1917 37
+    time:0300PM (20,37)
+    place:Barly (44,41)
+    mapRef:Lens (67,41)
+    activity:movement (23,41)
+    mapRef:Lens (57,42)
+    place:Fruges (33,44)
+    place:Hesdin (42,45)
+    domestic:parades (21,45)
+    time:0900AM (59,45)
+    place:Longuevillette (21,49)
+    time:0600PM (41,49)
+    domestic:accomodation (48,51)
+    domestic:rations (21,56)
+    place:Hem (37,60)
+    place:Candas (43,61)
+    time:0700PM (62,61)
+    weather:rain (33,64)
+    person:Captain H Misa (returned_training) (58,65)
+  12 Nov 1917 69
+    place:Grantham (54,69)
+    unit:Machine gun co tc grantham (54,69)
+    activity:movement (23,72)
+    place:Contay (58,73)
+    place:Longuevillette (66,76)
+    domestic:parades (51,76)
+    mapRef:Amiens (22,77)
+    time:0130PM (21,80)
+    place:Beaucourt-Sur-Hallue (67,81)
+    activity:movement (35,82)
+  13 Nov 1917 84
+    domestic:accomodation (26,84)
+    domestic:accomodation (57,84)
+    domestic:accomodation (73,84)
+    domestic:accomodation (81,84)
+    time:0500PM (67,85)
+    place:Bray (44,88)
+    mapRef:Amiens (68,88)
+    activity:movement (22,89)
+Page 148 (type diary) http://wd3.herokuapp.com/pages/AWD000196j  ----------
+  Hashtags: #aeroplane 
+  13 Nov 1917 25
+    place:Bray (5,29)
+    domestic:parades (32,29)
+    time:0300PM (43,29)
+    place:Suzanne (79,32)
+    place:Franvillers (31,33)
+    time:0430PM (48,33)
+    domestic:accomodation (42,37)
+    time:0930PM (24,37)
+  14 Nov 1917 41
+    time:0400PM (83,44)
+    place:Peronne (44,45)
+    domestic:parades (72,45)
+    activity:movement (18,45)
+    activity:movement (25,46)
+    domestic:accomodation (52,48)
+    place:Doingt (34,49)
+    time:0900PM (46,49)
+    domestic:accomodation (20,52)
+  15 Nov 1917 53
+    place:Doingt (3,56)
+    domestic:accomodation (34,58)
+  16 Nov 1917 65
+    activity:training (20,66)
+    domestic:hygiene (64,68)
+  17 Nov 1917 69
+    activity:training (19,72)
+    place:Buire (74,76)
+    domestic:hygiene (49,76)
+  18 Nov 1917 77
+    activity:training (59,79)
+  19 Nov 1917 85
+Page 149 (type diary) http://wd3.herokuapp.com/pages/AWD0001964  ----------
+  20 Nov 1917 36
+  19 Nov 1917 24
+    place:Doingt (4,27)
+    domestic:hygiene (29,28)
+    place:Buire (52,29)
+    domestic:parades (73,29)
+    activity:movement (77,33)
+  20 Nov 1917 36
+    place:Fins (59,36)
+    place:Fins (61,40)
+    gridRef:E_14_B__ (45,41)
+    time:0400PM (73,41)
+    place:Fins (5,41)
+    mapRef:Special Map Vol 2 (90,41)
+    person:Lieutenant Dent (commander) (69,45)
+    time:0730AM (44,45)
+    unit:4 Dragoon Guards (62,48)
+    unit:4 Dragoon Guards (27,49)
+    time:0935AM (49,49)
+    time:0930AM (32,53)
+    person:Lieutenant Roberts (commander) (31,56)
+    unit:4 Dragoon Guards (77,57)
+    place:Bois-de-Neuf (74,60)
+    place:Trescault (43,61)
+    place:Ribecourt (56,61)
+    unit:4 Dragoon Guards (84,63)
+    place:Flesquieres (68,64)
+    time:0315PM (72,68)
+    place:Bois-de-Neuf (53,68)
+    unit:4 Dragoon Guards (38,71)
+    time:0315PM (19,72)
+    place:Noyelles (34,76)
+    time:0345PM (54,77)
+    person:Sergeant Berry (34,80)
+    place:La Vallee Wood (24,85)
+    activity:attack (44,85)
+    activity:enemy_activity (76,85)
+Page 150 (type diary) http://wd3.herokuapp.com/pages/AWD0001976  ----------
+  Hashtags: #prisoners #horsescasualties 
+  20 Nov 1917 24
+    activity:enemy_activity (34,29)
+    place:La Folie (43,32)
+    activity:attack (22,32)
+    activity:attack (77,39)
+    place:Noyelles (74,45)
+    activity:attack (46,45)
+    place:Cantaing (60,49)
+    activity:enemy_activity (34,50)
+    activity:attack (66,51)
+    activity:attack (25,54)
+    place:Bois-de-Neuf (62,57)
+    place:Cantaing (42,61)
+    activity:attack (29,61)
+    activity:withdraw (63,61)
+    unit:4 Dragoon Guards (83,61)
+    place:Bois-de-Neuf (83,65)
+    time:0430PM (47,65)
+    unit:4 Dragoon Guards (24,65)
+    place:Noyelles (38,68)
+    activity:movement (77,69)
+    place:Ribecourt (63,72)
+    place:Trescault (51,73)
+    place:Ribecourt (37,76)
+    domestic:accomodation (21,77)
+    place:Marcoing (50,77)
+    time:0530PM (74,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (70,79)
+  21 Nov 1917 80
+    person:Lance Corporal Fisher (casualty_wounded) (72,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (89,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (78,81)
+    person:Lieutenant White (departed_posted) (49,84)
+    time:0400AM (23,85)
+    unit:18 Hussars (22,88)
+    unit:18 Hussars (81,89)
+    unit:18 Hussars (33,89)
+Page 151 (type diary) http://wd3.herokuapp.com/pages/AWD0001946  ----------
+  Hashtags: #horsescasualties 
+  21 Nov 1917 25
+    place:Canal-de-l'Escault (70,29)
+    unit:4 Dragoon Guards (46,30)
+    person:Lieutenant Johnson (51,33)
+    time:0800AM (25,33)
+    unit:86 Infantry Brigade (22,37)
+    unit:86 infantry (22,38)
+    time:1130AM (56,40)
+    place:Bois-de-Neuf (36,41)
+    activity:movement (30,44)
+    place:Marcoing (46,46)
+    time:1159AM (61,46)
+    unit:9 Lancers (63,49)
+    unit:9 Lancers (54,50)
+    unit:9 Lancers (40,54)
+    place:Chateau Talma (30,57)
+    unit:Brigade (22,72)
+    unit:9 Lancer (47,72)
+    unit:Machine Gun Squadron (61,73)
+    unit:2n Machine Gun Squadron (71,73)
+    unit:9 Cavalry Brigade (42,73)
+    place:Ribecourt (72,77)
+    activity:movement (55,77)
+    time:1145PM (25,77)
+    casualties:died: 0; killed: 7; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,80)
+    casualties:died: 2; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (76,81)
+  22 Nov 1917 82
+    time:0900AM (42,85)
+    unit:Brigade (57,86)
+    place:Metz-En-Coutre (23,88)
+    activity:movement (52,88)
+Page 152 (type diary) http://wd3.herokuapp.com/pages/AWD000198u  ----------
+  22 Nov 1917 26
+    domestic:accomodation (30,29)
+    place:Metz (54,29)
+    activity:movement (29,29)
+  23 Nov 1917 33
+  28 Nov 1917 47
+    domestic:parades (68,49)
+    place:Bray (45,49)
+    time:1015AM (81,49)
+    activity:movement (29,50)
+    activity:movement (25,51)
+    place:Cery (35,53)
+    place:Maricourt (43,53)
+    place:Suzanne (54,53)
+    place:Bray (70,53)
+    time:0530PM (25,56)
+    domestic:accomodation (66,57)
+    mapRef:Amiens (80,57)
+    mapRef:Amiens (72,57)
+    mapRef:AMIENS (83,57)
+  29 Nov 1917 61
+  30 Nov 1917 67
+    unit:Vii corps (69,69)
+    time:1100AM (46,69)
+    unit:Brigade (40,73)
+    place:Bray (41,76)
+    place:Bray (55,77)
+    activity:movement (50,77)
+    time:0230PM (67,77)
+    domestic:accomodation (28,81)
+    mapRef:Amiens (33,84)
+    place:Doingt (24,85)
+    mapRef:Amiens (48,85)
+    person:Captain L W D Wathen (commander) (65,88)
+Page 153 (type cover)
+Page 154 (type diary) http://wd3.herokuapp.com/pages/AWD000192h  ----------
+  1 Dec 1917 27
+    mapRef:62C (71,29)
+    activity:movement (29,29)
+    place:Longavesnes (59,29)
+    gridRef:E_14_B__ (42,30)
+    place:Doingt (6,31)
+    time:0730AM (66,33)
+    mapRef:62C (22,34)
+    activity:movement (79,34)
+    place:Bussu (28,38)
+    weather:cold (27,42)
+  2 Dec 1917 43
+    time:0300PM (45,46)
+    unit:2 Cavalry Dismounted Brigade (87,49)
+    unit:2 Cavalry Dismounted Brigade (60,50)
+    activity:line (22,50)
+    strength:officer: 5; nco: 0; other: 96 (75,53)
+    person:Captain L W D Wathen (commander) (46,54)
+    place:Bois Gauche (81,56)
+    time:0600PM (36,57)
+    activity:line (58,57)
+    mapRef:Enemy Rear Organisation Sheet 2 (46,61)
+    mapRef:Enemy Rear Organisation Sheet 2 (32,61)
+    mapRef:Enemy Rear Organisation Sheet 2 (55,62)
+    person:Lieutenant White (commander) (45,69)
+    place:Gauche Wood (77,70)
+    person:Lieutenant Duff (commander) (53,73)
+    place:Gauche Wood (39,77)
+    person:Lieutenant Johnson (commander) (45,85)
+Page 155 (type diary) http://wd3.herokuapp.com/pages/AWD000191z  ----------
+  2 Dec 1917 27
+    person:Lieutenant Dent (commander) (55,29)
+    gridRef:E_14_B__ (5,31)
+    place:Gauche Wood (63,33)
+    unit:13 Machine Gun Squadron (62,37)
+    unit:14 Machine Gun Squadron (71,37)
+    unit:13 Machine Gun Squadron (53,45)
+    unit:13 Machine Gun Squadron (45,46)
+    unit:2 Machine Gun Squadron (85,49)
+    time:1000PM (66,54)
+    unit:2 Machine Gun Squadron (30,54)
+  3 Dec 1917 70
+    activity:fire (51,73)
+    activity:fire (21,74)
+    person:Lieutenant Johnson (casualty_wounded) (42,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (59,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (70,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 22 (29,84)
+    time:0800AM (51,85)
+    activity:withdraw (36,89)
+Page 156 (type diary) http://wd3.herokuapp.com/pages/AWD000196n  ----------
+  Hashtags: #horsescondition 
+  10 Dec 1917 88
+  3 Dec 1917 26
+    place:Bray (47,37)
+    activity:movement (28,37)
+    place:Longavesnes (24,41)
+    mapRef:62c (59,41)
+    mapRef:62C (42,41)
+  4 Dec 1917 42
+    place:Longavesnes (8,45)
+    activity:fire (39,48)
+  2 Dec 1917 50
+    person:Private Humphries (casualty_mia) (25,53)
+    unit:4 Machine Gun Squadron (80,57)
+    unit:4 Machine Gun Squadron (26,61)
+    time:0800PM (67,61)
+    place:Longavesnes (65,65)
+    activity:movement (48,65)
+  5 Dec 1917 69
+    activity:working (24,73)
+  10 Dec 1917 88
+    time:0300PM (55,88)
+Page 157 (type diary) http://wd3.herokuapp.com/pages/AWD000194t  ----------
+  6 Dec 1917 23
+    place:Longavesnes (6,30)
+    place:Longavesnes (8,31)
+    activity:movement (32,34)
+  10 Dec 1917 35
+    unit:21 Division (80,36)
+  11 Dec 1917 42
+    activity:movement (74,49)
+    place:Bray (24,52)
+  12 Dec 1917 53
+    person:Captain H Misa (commander) (43,53)
+  15 Dec 1917 65
+    activity:reconnoitered (63,65)
+    domestic:parades (41,69)
+  16 Dec 1917 70
+    place:Bray (64,73)
+    activity:movement (34,73)
+    time:0300PM (61,77)
+    place:Longavesnes (42,77)
+    activity:movement (77,79)
+    time:0500PM (57,81)
+    place:Roissel (27,81)
+    time:0850PM (38,84)
+    place:Bray (22,84)
+  17 Dec 1917 85
+    place:Bray (7,88)
+    domestic:accomodation (77,88)
+    weather:cold (40,89)
+Page 158 (type diary) http://wd3.herokuapp.com/pages/AWD000193l  ----------
+  Hashtags: #Christmas 
+  17 Dec 1917 25
+    place:Bray (5,29)
+  18 Dec 1917 30
+    place:Bray (22,30)
+    weather:cold (52,36)
+  23 Dec 1917 42
+    mapRef:Amiens (76,45)
+    mapRef:Amiens (63,45)
+    activity:movement (36,45)
+    place:Doingt (49,46)
+    time:0830AM (73,49)
+    domestic:parades (46,50)
+    place:Courcelles (35,53)
+    time:1159AM (53,53)
+  24 Dec 1917 65
+    place:Courcelles (7,69)
+    activity:construction (31,69)
+    activity:construction (53,69)
+  25 Dec 1917 70
+  26 Dec 1917 76
+  27 Dec 1917 83
+    time:0830AM (38,84)
+    activity:construction (41,89)
+Page 159 (type diary) http://wd3.herokuapp.com/pages/AWD000194f  ----------
+  Hashtags: #militarymedal 
+  27 Dec 1917 26
+    place:Courcelles (7,29)
+    person:Private Hough (casualty_non) (38,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,32)
+  28 Dec 1917 33
+    activity:construction (33,36)
+    time:1000AM (53,40)
+    unit:1 Cavalry Division (33,40)
+  29 Dec 1917 41
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,44)
+    time:0830AM (54,45)
+    activity:construction (68,45)
+  31 Dec 1917 50
+    person:Lance Corporal S Fisher (award) (38,75)
+    person:Lance Corporal S Fisher (award) (54,75)
+    person:Sergeant F Berry (award) (38,79)
+    person:Sergeant Berry (award) (56,79)
+    person:Captain L W D Wathen (commander) (62,83)
+    unit:2 squadron mgc (Cavalry) (68,87)
+Page 160 (type cover)
+Page 161 (type diary) http://wd3.herokuapp.com/pages/AWD0001923  ----------
+  Hashtags: #horsescondition #mange #courtofenquiry 
+  1 Jan 1918 26
+    activity:construction (35,29)
+    place:Courcelles (6,29)
+  2 Jan 1918 30
+    time:0830AM (28,33)
+    domestic:inspections (65,33)
+    time:0230PM (47,37)
+    unit:No 1 Veterinary Section (32,41)
+    domestic:discipline (53,41)
+    time:1000AM (25,45)
+    person:Private P Hough (casualty_non) (73,45)
+    person:Private T Hough (casualty_non) (24,49)
+  3 Jan 1918 51
+    time:0830AM (31,53)
+    activity:construction (41,53)
+    activity:construction (67,53)
+    activity:construction (47,54)
+  4 Jan 1918 62
+    time:1030AM (77,64)
+    domestic:inspections (48,64)
+    domestic:medical (40,64)
+    domestic:inspections (40,64)
+    time:0830AM (32,65)
+    unit:No 3 Section (36,69)
+    domestic:inspections (41,69)
+    person:Second Lieutenant D R Cheadle (joined) (74,73)
+  5 Jan 1918 82
+    time:0830AM (31,85)
+    domestic:inspections (45,85)
+    domestic:inspections (41,88)
+    time:1030AM (29,89)
+Page 162 (type diary) http://wd3.herokuapp.com/pages/AWD000198o  ----------
+  5 Jan 1918 25
+    place:Courcelles (7,29)
+    activity:construction (45,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 18; wounded: 0 (20,33)
+  6 Jan 1918 37
+    weather:cold (29,37)
+    domestic:religion (41,41)
+    time:1115AM (71,41)
+  7 Jan 1918 42
+    domestic:inspections (64,45)
+    activity:training (43,45)
+    time:0830AM (29,45)
+  8 Jan 1918 49
+    activity:construction (31,51)
+  9 Jan 1918 55
+    domestic:inspections (48,57)
+    time:0830AM (32,57)
+  10 Jan 1918 61
+    activity:construction (40,64)
+    time:0830AM (30,65)
+    time:0900PM (76,65)
+    unit:3 Dismounted Division (67,70)
+  11 Jan 1918 73
+    domestic:hygiene (45,76)
+    time:1159AM (72,76)
+    time:0830AM (33,77)
+    time:0100PM (83,77)
+    place:Doingt (28,81)
+    unit:3 Dismounted Division (81,84)
+    activity:reconnoitered (38,85)
+    unit:2 Dismounted Division (72,85)
+Page 163 (type diary) http://wd3.herokuapp.com/pages/AWD000193u  ----------
+  11 Jan 1918 26
+  12 Jan 1918 30
+    place:Courcelles (5,30)
+    domestic:parades (40,33)
+    domestic:other (63,33)
+    time:0830AM (29,33)
+  13 Jan 1918 37
+    time:1000AM (59,37)
+    activity:movement (57,41)
+    place:Le Verguier (63,44)
+    domestic:parades (76,45)
+    activity:line (35,45)
+    person:Lieutenant S H Le Roy-Lewis (departed_training) (52,49)
+    time:0200PM (41,50)
+    place:Uckfield (64,53)
+  14 Jan 1918 57
+    place:Le Verguier (50,65)
+    activity:movement (39,65)
+    person:Captain Duff (commander) (29,65)
+    person:Captain H Misa (commander) (77,68)
+    place:Courcelles (58,69)
+    time:0330PM (69,69)
+    unit:6 Machine Gun Squadron (32,69)
+    person:Captain H Misa (commander) (23,73)
+    person:Captain G Dent (commander) (76,76)
+    person:Captain L W D Wathen (departed_posted) (41,77)
+    person:Captain G Dent (commander) (25,81)
+    place:Vendelles (22,85)
+    place:Le Verguier (54,85)
+    activity:movement (39,85)
+Page 164 (type diary) http://wd3.herokuapp.com/pages/AWD000196h  ----------
+  14 Jan 1918 25
+    mapRef:Map Sheet 62c (61,28)
+    mapRef:62C (51,28)
+    time:0730PM (24,28)
+    place:Courcelles (6,29)
+    unit:6 Machine Gun Squadron (51,32)
+    unit:6 Machine Gun Company (56,33)
+    unit:Calvary corps (47,36)
+    place:Faggot Wood (55,44)
+    person:Lieutenant Roberts (commander) (41,44)
+    gridRef:L_35_C__ (67,44)
+    place:Le Verguier Forts (44,51)
+    place:Fort Greathead (65,52)
+    person:Second Lieutenant Cheadle (commander) (33,55)
+    place:Fort Dyce (48,56)
+    person:Second Lieutenant Christie (commander) (72,56)
+    place:Fort Bell (33,60)
+    person:Second Lieutenant Davenall (commander) (58,60)
+  15 Jan 1918 67
+    activity:quiet (49,71)
+  16 Jan 1918 75
+    domestic:inspections (49,83)
+    domestic:inspections (66,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (20,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (41,87)
+Page 165 (type diary) http://wd3.herokuapp.com/pages/AWD000195l  ----------
+  Hashtags: #anti 
+  17 Jan 1918 26
+    activity:quiet (29,29)
+    activity:quiet (42,29)
+    weather:rain (22,29)
+    place:Fort Greathead (65,29)
+    place:Courcelles (6,30)
+  18 Jan 1918 32
+    unit:Royal Engineers (56,37)
+    activity:repair (60,37)
+    activity:repair (73,37)
+    domestic:inspections (42,37)
+    time:0615AM (41,44)
+    time:0430PM (78,48)
+    time:1230PM (45,49)
+    time:0100PM (71,49)
+    time:0430PM (39,53)
+    time:0530PM (49,53)
+  19 Jan 1918 54
+    activity:enemy_activity (44,57)
+    place:Le Verguier (61,57)
+  20 Jan 1918 61
+    place:Le Verguier (47,65)
+    domestic:inspections (61,65)
+  21 Jan 1918 73
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,76)
+  22 Jan 1918 77
+    person:Lieutenant Christie (commander) (34,80)
+    person:Lieutenant Roberts (commander) (77,80)
+    place:Fort Dyce (47,81)
+  23 Jan 1918 84
+    time:0730PM (60,84)
+    place:Faggot Wood (25,85)
+    person:Lieutenant Roberts (commander) (45,89)
+Page 166 (type diary) http://wd3.herokuapp.com/pages/AWD000196v  ----------
+  23 Jan 1918 25
+    place:Fort Dyce (72,28)
+  24 Jan 1918 29
+    person:Captain Duff (commander) (20,29)
+    place:Courcelles (6,29)
+    unit:13 Machine Gun Squadron (57,32)
+  25 Jan 1918 37
+    unit:13 Machine Gun Squadron (70,40)
+    unit:13 mg squadron (69,40)
+    time:0630PM (82,45)
+    person:Captain Lister-Kaye (commander) (31,45)
+    time:0730PM (72,49)
+    activity:movement (21,53)
+    place:Jeancourt (68,53)
+    place:Courcelles (48,56)
+  26 Jan 1918 57
+    time:1000PM (64,57)
+    activity:other (34,61)
+  27 Jan 1918 64
+    place:Courcelles (71,69)
+    domestic:religion (43,69)
+    time:0945AM (20,72)
+    person:Captain Misa (other) (38,73)
+    person:Lieutenant Page (other) (55,73)
+    activity:reconnoitered (65,73)
+    place:Brown Line (83,73)
+  28 Jan 1918 76
+    unit:2 Cavalry Brigade (40,79)
+    time:0830AM (29,80)
+    activity:reserve (43,85)
+    unit:Calvary corps reserve (28,86)
+    person:Captain Dent (other) (68,88)
+    activity:reconnoitered (77,89)
+Page 167 (type diary) http://wd3.herokuapp.com/pages/AWD000197g  ----------
+  28 Jan 1918 26
+    place:Brown Line (25,29)
+    place:Courcelles (5,29)
+    person:Lieutenant Roberts (departed_leave) (24,33)
+    unit:12 Machine Gun Squadron (55,36)
+    person:Captain D G G Duff (departed_posted) (20,37)
+    person:Captain Duff (promotion) (28,37)
+    unit:12 mg squadron (61,37)
+  29 Jan 1918 45
+    activity:working (51,48)
+    time:0830AM (36,49)
+    time:1159AM (77,52)
+    domestic:hygiene (31,53)
+    place:Doingt (44,53)
+    time:1045AM (57,53)
+    time:0300PM (45,56)
+  30 Jan 1918 60
+    place:Brown Line (40,61)
+    activity:working (49,65)
+    activity:repair (62,65)
+    time:0700AM (34,65)
+    time:0930AM (80,69)
+    domestic:inspections (60,72)
+    domestic:parades (49,73)
+    time:1100AM (26,73)
+    time:0330PM (62,76)
+    time:0150PM (38,77)
+Page 168 (type diary) http://wd3.herokuapp.com/pages/AWD00019b5  ----------
+  31 Jan 1918 24
+    time:0700AM (32,29)
+    place:Courcelles (6,30)
+    time:0830AM (24,33)
+    time:0930AM (62,33)
+    time:0300PM (29,36)
+    person:Captain L W D Wathen (commander) (61,50)
+Page 169 (type cover)
+Page 170 (type diary) http://wd3.herokuapp.com/pages/AWD000196i  ----------
+  Hashtags: #horsesdipping #horsesinfection 
+  1 Feb 1918 25
+    place:Courcelles (6,29)
+    activity:repair (59,29)
+  2 Feb 1918 33
+    place:Doingt (53,37)
+    domestic:hygiene (30,37)
+  3 Feb 1918 40
+    place:Flamicourt (40,40)
+  4 Feb 1918 46
+    time:0830AM (34,48)
+  5 Feb 1918 52
+    domestic:inspections (19,53)
+    place:Beaumetz (68,61)
+  6 Feb 1918 65
+    domestic:inspections (51,69)
+    person:Captain H Misa (departed_leave) (67,73)
+  7 Feb 1918 76
+    place:Mentone (37,77)
+    time:1030AM (54,81)
+    domestic:hygiene (60,85)
+Page 171 (type diary) http://wd3.herokuapp.com/pages/AWD0001958  ----------
+  Hashtags: #gasdrill #disinfection 
+  8 Feb 1918 25
+    time:0830AM (28,28)
+    domestic:inspections (46,29)
+    place:Courcelles (4,30)
+    time:1030AM (21,33)
+  9 Feb 1918 34
+    time:0830AM (28,37)
+    domestic:hygiene (41,37)
+    place:Doingt (52,37)
+  10 Feb 1918 41
+    unit:1 Cavalry Division (46,41)
+    activity:movement (20,41)
+  11 Feb 1918 46
+    time:1045AM (52,49)
+    domestic:inspections (40,49)
+    domestic:inspections (30,49)
+  12 Feb 1918 53
+    time:0400PM (64,53)
+    domestic:inspections (43,53)
+    activity:working (43,56)
+  13 Feb 1918 57
+    time:0830AM (33,57)
+    time:0800AM (32,61)
+    time:1000AM (58,61)
+  14 Feb 1918 62
+    place:Buire (45,64)
+    activity:movement (32,64)
+    domestic:hygiene (57,65)
+  15 Feb 1918 73
+    activity:working (45,76)
+    activity:repair (58,76)
+  16 Feb 1918 77
+    time:0800AM (35,77)
+    person:Lieutenant H N Johnson (other) (74,80)
+    person:Lieutenant N White (commander) (55,81)
+    person:Second Lieutenant W H Page (other) (22,84)
+    place:Jeancourt (50,84)
+    activity:movement (35,84)
+    place:Jeancourt (55,85)
+    time:0200PM (29,88)
+    place:Jeancourt (59,88)
+Page 172 (type diary) http://wd3.herokuapp.com/pages/AWD000196z  ----------
+  16 Feb 1918 25
+    unit:1 Dismounted Division (60,28)
+    unit:1 Dismounted Division (81,28)
+    domestic:accomodation (27,28)
+    unit:1 Dismounted Division (71,29)
+    activity:reserve (35,29)
+    place:Courcelles (6,29)
+    person:Captain G Dent (other) (21,33)
+    place:Jeancourt (7,33)
+    person:Captain L W D Wathen (commander) (24,37)
+  17 Feb 1918 42
+    person:Captain G Dent (departed_leave) (20,45)
+    person:Captain H Misa (returned_leave) (62,45)
+    domestic:inspections (23,52)
+  18 Feb 1918 53
+    time:1000AM (65,53)
+    time:0500AM (27,57)
+    time:0630AM (36,57)
+  19 Feb 1918 62
+    unit:K Battery Royal Horse Artillery (82,65)
+    domestic:parades (24,65)
+    unit:K Battery Royal Horse Artillery (21,68)
+    activity:reconnoitered (38,69)
+    unit:1 Dismounted Division (61,72)
+  20 Feb 1918 74
+    place:Le Verguier (44,77)
+    unit:Canadian Machine Gun Squadron (20,80)
+    unit:Canadian mg squadron (46,80)
+  21 Feb 1918 82
+    unit:Canadian Machine Gun Squadron (29,82)
+    place:Le Verguier (55,84)
+    time:1159AM (85,85)
+    unit:Canadian Machine Gun Squadron (39,85)
+Page 173 (type diary) http://wd3.herokuapp.com/pages/AWD000192l  ----------
+  22 Feb 1918 26
+    place:Le Verguier (22,29)
+    activity:fire (39,29)
+  23 Feb 1918 30
+    place:Courcelles (5,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (75,33)
+    gridRef:G_14_C_4_4 (61,37)
+    activity:attack (37,37)
+    gridRef:G_20_A_8_2 (77,38)
+    gridRef:L_29_B_4_2 (36,41)
+    time:0800PM (54,41)
+    place:Le Verguier (55,45)
+    activity:fire (67,45)
+  24 Feb 1918 49
+    person:Captain H Misa (departed_sick) (37,49)
+    activity:quiet (40,53)
+  25 Feb 1918 54
+  26 Feb 1918 59
+    activity:fire (22,62)
+    unit:1 Dismounted Divison (28,65)
+    gridRef:L_29_B_4_2 (74,69)
+    activity:attack (53,69)
+    gridRef:G_20_A_9_2 (34,73)
+    gridRef:G_14_C_8_0 (57,73)
+    place:Fort Dyce (59,77)
+    person:Second Lieutenant D R Cheadle (48,81)
+  27 Feb 1918 85
+    unit:1 Machine Gun Squadron (55,88)
+    unit:1 Machine Gun Squadron (33,89)
+    unit:1 mg squadron (29,89)
+Page 174 (type diary) http://wd3.herokuapp.com/pages/AWD0001927  ----------
+  Hashtags: #Belgiancroixdeguerre 
+  27 Feb 1918 26
+    place:Courcelles (5,29)
+    time:0945PM (24,29)
+    time:1115PM (83,33)
+  28 Feb 1918 34
+    time:0315PM (59,37)
+    activity:enemy_activity (21,41)
+    place:Small Foot Wood (81,49)
+    mapRef:Map Sheet 62c (54,53)
+    mapRef:62C (35,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,58)
+    person:A J Hargraves (award) (55,65)
+    person:Captain L W D Wathen (commander) (63,82)
+Page 175 (type cover)
+Page 176 (type diary) http://wd3.herokuapp.com/pages/AWD000196b  ----------
+  1 Mar 1918 27
+    mapRef:62C (18,29)
+    place:Cookers Quarry (8,29)
+  2 Mar 1918 31
+    activity:enemy_activity (19,32)
+    mapRef:Map Sheet 62c (3,32)
+    place:International Post (44,33)
+    activity:attack (24,36)
+    time:1150PM (74,37)
+  3 Mar 1918 42
+  5 Mar 1918 54
+    activity:enemy_activity (24,57)
+    place:Parker Copse (56,57)
+    place:Pontru (81,57)
+    place:Berthaucourt (26,61)
+    place:Courcelles (25,65)
+  7 Mar 1918 70
+  8 Mar 1918 74
+    gridRef:L_36_C_7_3 (77,77)
+    activity:attack (55,77)
+    mapRef:Special Sheet (30,77)
+    mapRef:Special Sheet (19,77)
+    place:Red House (67,77)
+    gridRef:G_33_A_99_90 (33,80)
+    time:0700PM (65,81)
+    time:1000PM (74,81)
+    gridRef:G_27_C_85_90 (51,82)
+  9 Mar 1918 86
+    unit:1 Dismounted Division (33,88)
+    time:1159PM (65,89)
+Page 177 (type diary) http://wd3.herokuapp.com/pages/AWD0001987  ----------
+  9 Mar 1918 27
+    activity:attack (23,30)
+    place:Cookers Quarry (5,30)
+    gridRef:M_7_A_65_20 (64,33)
+    unit:2 Machine Gun Squadron (29,34)
+    gridRef:M_4_A_57_80 (22,38)
+    gridRef:G_33_D_80_70 (41,38)
+    activity:fire (44,41)
+  10 Mar 1918 48
+    unit:72 Machine Gun Company (73,53)
+    unit:72 mg coy (70,53)
+    unit:191 Machine Gun Company (45,57)
+    place:Watling Street (27,57)
+    unit:72 Machine Gun Company (21,60)
+    time:1115PM (42,61)
+    activity:movement (61,61)
+    place:Courcelles (74,61)
+    time:1000PM (46,65)
+    place:Bihecourt (35,66)
+  11 Mar 1918 67
+    place:Watling Street (54,68)
+    unit:191 Machine Gun Company (34,69)
+    unit:191 mg coy (31,69)
+    time:1000PM (21,73)
+    time:1215AM (59,73)
+    place:Courcelles (47,73)
+  12 Mar 1918 74
+    activity:working (39,77)
+    place:Courcelles (6,77)
+    place:Roisel (71,81)
+    unit:66 Division (42,85)
+    unit:66 Division (51,85)
+    activity:reserve (25,85)
+  13 Mar 1918 86
+Page 178 (type diary) http://wd3.herokuapp.com/pages/AWD000197w  ----------
+  14 Mar 1918 25
+    person:Lieutenant H W Johnson (commander) (76,29)
+    place:Courcelles (6,30)
+    place:Roisel (41,33)
+    activity:movement (27,33)
+    activity:reserve (80,33)
+    unit:8 Machine Gun Squadron (57,33)
+    unit:8 mg squadron (55,33)
+    unit:8 Machine Gun Squadron (66,34)
+    unit:66 Machine Gun Battalion (26,36)
+    place:Roisel (82,37)
+    person:Captain Wathen (other) (41,37)
+    person:Lieutenant Johnson (other) (58,37)
+    unit:66 mg battalion (19,37)
+    activity:reconnoitered (38,41)
+    time:1200PM (27,41)
+    place:Roisel (32,45)
+    time:0400PM (43,45)
+    time:1155PM (55,45)
+    activity:line (27,48)
+    time:0210AM (77,49)
+    unit:2 Machine Gun Squadron (69,53)
+  15 Mar 1918 57
+    time:0700AM (41,57)
+    time:0800AM (61,60)
+    place:Roisel (47,61)
+    place:Roisel (6,62)
+    person:Lieutenant Johnson (other) (44,66)
+  16 Mar 1918 87
+    person:Second Lieutenant Christie (other) (22,69)
+    person:Lieutenant Johnson (commander) (32,77)
+    person:Lieutenant Johnson (42,81)
+    unit:197 and 199 Brigades (62,81)
+    unit:197 Brigade hq (62,82)
+    unit:199 Brigade hq (75,82)
+    person:Lieutenant Johnson (22,85)
+    activity:fire (31,88)
+    time:1200AM (56,88)
+Page 179 (type diary) http://wd3.herokuapp.com/pages/AWD000196a  ----------
+  Hashtags: #gas 
+  17 Mar 1918 25
+    domestic:parades (42,29)
+    place:Roisel (8,29)
+    activity:construction (73,30)
+    activity:construction (46,31)
+    person:Lieutenant Johnson (other) (76,33)
+    activity:training (65,34)
+    unit:198 Brigade hq (35,37)
+    activity:fire (58,41)
+    time:0600PM (42,41)
+    place:Roisel (75,42)
+    activity:fire (43,42)
+    activity:fire (63,45)
+    activity:fire (79,45)
+    time:1000PM (60,45)
+    place:Roisel (44,49)
+    activity:fire (25,52)
+  18 Mar 1918 57
+    time:0300AM (17,60)
+    domestic:parades (81,61)
+    activity:training (22,64)
+    activity:construction (41,64)
+    activity:training (20,68)
+    activity:repair (31,71)
+  19 Mar 1918 72
+    person:Second Lieutenant Page (commander) (81,73)
+    domestic:hygiene (41,75)
+    place:Roisel (48,76)
+    activity:training (65,76)
+    person:Second Lieutenant Page (commander) (44,79)
+    activity:repair (55,80)
+Page 180 (type diary) http://wd3.herokuapp.com/pages/AWD000198t  ----------
+  20 Mar 1918 26
+    activity:training (50,29)
+    place:Roisel (7,30)
+  21 Mar 1918 36
+    activity:movement (62,37)
+    time:0535AM (17,38)
+    activity:line (51,39)
+    time:0600AM (22,42)
+    time:0720AM (64,42)
+    activity:fire (40,45)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (88,45)
+    time:0810AM (17,46)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (73,46)
+    activity:fire (71,49)
+    place:Roisel (61,49)
+    weather:fog (22,50)
+    activity:enemy_activity (49,57)
+    place:Templeux Quarries (79,57)
+    time:0600PM (26,57)
+    unit:197 Brigade (57,65)
+    place:Prieul Wood (24,66)
+    unit:197 infantry Brigade hq (58,66)
+    person:Lieutenant Johnson (other) (38,69)
+    unit:197 Infantry Brigade (62,70)
+    time:0400PM (22,70)
+    time:1000PM (31,70)
+    activity:movement (58,76)
+    place:Courcelles (50,77)
+    place:Le Mesnil (72,77)
+  22 Mar 1918 78
+    time:0230AM (17,81)
+    activity:enemy_activity (67,89)
+    place:Hamelet (41,89)
+    time:0300AM (17,89)
+Page 181 (type diary) http://wd3.herokuapp.com/pages/AWD0001963  ----------
+  Hashtags: #enemycasualties #gunscollectedonahandcart 
+  22 Mar 1918 28
+    weather:fog (47,29)
+    place:Roisel (22,30)
+    place:Roisel (7,30)
+    activity:attack (51,33)
+    time:1000AM (69,33)
+    person:Sergeant Bull (59,37)
+    activity:attack (77,37)
+    activity:withdraw (48,42)
+    person:Lance Corporal Fisher (combat) (49,50)
+    person:Lance Corporal Mousley (casualty_wounded) (80,50)
+    activity:withdraw (30,57)
+    activity:attack (63,57)
+    person:Corporal Westley (combat) (34,65)
+    activity:withdraw (28,73)
+    time:1000PM (69,73)
+    person:Lieutenant Johnson (other) (41,77)
+    place:Bernes (77,77)
+    place:Le Mesnil (32,81)
+    place:Bovrincourt (60,85)
+    person:Lieutenant Johnson (other) (27,89)
+Page 182 (type diary) http://wd3.herokuapp.com/pages/AWD000194d  ----------
+  22 Mar 1918 25
+    casualties:died: 0; killed: 1; missing: 3; prisoner: 0; sick: 0; wounded: 1 (89,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (39,30)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 0 (50,30)
+    casualties:died: 0; killed: 0; missing: 2; prisoner: 0; sick: 0; wounded: 0 (66,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (79,30)
+    place:Devise (46,34)
+    activity:movement (35,34)
+    activity:movement (23,35)
+    place:Prusle (39,38)
+  23 Mar 1918 39
+    activity:movement (75,41)
+    time:0600AM (23,41)
+    place:Morchain (23,46)
+    place:Curchy (79,49)
+    activity:fire (40,49)
+  24 Mar 1918 51
+    place:Carnoy (78,53)
+    place:Cappy (35,57)
+    place:Cerisy (77,61)
+    unit:Dismounted Brigade (34,61)
+    person:Lieutenant Roberts (commander) (25,62)
+  25 Mar 1918 67
+    place:Montauban (83,69)
+    person:Lieutenant Roberts (commander) (34,69)
+    unit:Dismounted Brigade (59,69)
+    place:Bonafay Wood (29,73)
+    activity:attack (49,73)
+    time:0800AM (67,73)
+    activity:enemy_activity (37,85)
+    activity:movement (74,85)
+    domestic:accomodation (24,89)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (77,89)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (66,89)
+Page 183 (type diary) http://wd3.herokuapp.com/pages/AWD000195i  ----------
+  26 Mar 1918 25
+    unit:Dismounted Brigade (18,29)
+    person:General Beale-Browne (other) (40,33)
+    unit:2 Calvary Brigade (61,37)
+    activity:reserve (74,37)
+    place:Bray (45,38)
+    person:Captain Dent (40,41)
+    person:General Cummins (commander) (58,41)
+    unit:Composite Brigade (74,41)
+    place:Heilly (61,46)
+    time:0600PM (20,49)
+    person:Second Lieutenant Davenall (commander) (65,53)
+    person:General Beale-Browne (commander) (43,57)
+    unit:18 Hussars (28,57)
+    person:Captain Dent (commander) (68,61)
+    place:Maricourt (23,61)
+    place:Sailly-le-Sec (40,61)
+    person:Second Lieutenant Davenall (commander) (59,65)
+    unit:9 Cavalry Brigade (45,65)
+    unit:18 Hussars (37,69)
+    unit:18 Hussars (28,69)
+    person:Colonel Sewell (commander) (23,73)
+    person:Lieutenant Johnson (58,73)
+    person:Second Lieutenant Cheadle (combat) (41,77)
+    unit:18 Hussars (25,78)
+    place:Heilly (36,81)
+  27 Mar 1918 82
+    unit:1 Cavalry Brigade (41,85)
+    person:Lieutenant Cheadle (commander) (37,89)
+    unit:4 Dragoon Guards (61,89)
+Page 184 (type diary) http://wd3.herokuapp.com/pages/AWD0001984  ----------
+  27 Mar 1918 26
+    place:Sailly Laurette (67,30)
+    place:Chipilly (30,34)
+    activity:attack (76,34)
+    place:Sailly Laurette (49,38)
+    place:Morlancourt (61,38)
+    unit:4 Dragoon Guards (56,41)
+    place:Sailly Laurette (28,46)
+    activity:attack (22,50)
+    unit:11 Hussars (24,54)
+    activity:attack (33,54)
+    place:Somme (25,58)
+    place:Cerisy (41,58)
+    place:Sailly-le-Sec (58,62)
+    person:Lieutenant Johnson (combat) (79,65)
+    person:Captain Dent (combat) (65,66)
+    unit:4 Dragoon Guards (42,66)
+    unit:4 Dragoon Guards (72,69)
+    person:Lieutenant Roberts (combat) (81,77)
+    place:Sailly-le-Sec (50,81)
+    activity:movement (73,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (47,89)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (59,89)
+    place:Hamelet (23,89)
+Page 185 (type diary) http://wd3.herokuapp.com/pages/AWD0001955  ----------
+  Hashtags: #horsescasualties 
+  28 Mar 1918 26
+    time:0700AM (33,30)
+    activity:movement (22,30)
+    place:Bois-de-Vaire (49,30)
+    place:Hamelet (8,30)
+    activity:support (22,34)
+    unit:18 Hussars (22,38)
+    unit:Americans (44,38)
+    place:Warfusee (67,38)
+    person:Lieutenant Johnson (combat) (24,46)
+    person:Second Lieutenant Cheadle (commander) (35,46)
+  29 Mar 1918 47
+    place:Bois-de-Vaire (60,50)
+    activity:movement (27,54)
+    place:Hamelet (43,54)
+    person:Corporal Bales (combat) (34,58)
+    activity:attack (41,58)
+    activity:enemy_activity (48,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (84,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (76,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (22,69)
+  30 Mar 1918 70
+    place:Villers Brettoneux (76,73)
+    activity:movement (32,74)
+    activity:movement (56,77)
+    place:Fouilloy (71,77)
+    unit:9 Machine Gun Squadron (69,82)
+    unit:9 mg squadron (64,82)
+    person:Second Lieutenant Davenall (combat) (41,85)
+  31 Mar 1918 87
+    time:0700AM (37,89)
+    activity:movement (23,89)
+    domestic:accomodation (75,89)
+    place:Bussy les Daours (54,89)
+    place:Bussy-les-Daours (6,90)
+Page 186 (type diary) http://wd3.herokuapp.com/pages/AWD0001986  ----------
+  31 Mar 1918 0
+    strength:officer: 10; nco: 0; other: 219 (68,37)
+    strength:officer: 10; nco: 0; other: 200 (64,41)
+Page 187 (type cover)
+Page 188 (type diary) http://wd3.herokuapp.com/pages/AWD00019ao  ----------
+  1 Apr 1918 25
+    place:Bois-de-Taillaux (59,29)
+    activity:attack (30,29)
+    mapRef:62D (88,29)
+    person:Second Lieutenant Davenall (44,29)
+    mapRef:62d (82,30)
+    mapRef:62D (80,30)
+  2 Apr 1918 33
+    activity:quiet (56,33)
+    unit:9 mg squadron (36,33)
+    unit:9 mg squadron (49,33)
+    place:Bois-de-Taillaux (79,37)
+    activity:line (67,37)
+    unit:9 mg squadron (40,41)
+    unit:9 Machine Gun Squadron (44,41)
+    person:Captain Dent (commander) (28,45)
+    time:1000PM (57,45)
+  3 Apr 1918 49
+    place:Bois-de-Vaire (81,49)
+    activity:quiet (30,53)
+    unit:1 Dismounted Division (45,53)
+    unit:41 Inf Brigade Horses (78,53)
+    unit:41 Infantry Brigade (81,53)
+    place:Bussy-les-Daours (40,57)
+    person:Captain L W D Wathen (72,57)
+    unit:41 Inf Brigade Horses (24,57)
+  4 Apr 1918 60
+    person:Captain L W D Wathen (34,61)
+    person:Captain Dent (commander) (52,61)
+    time:0530AM (27,65)
+    place:Bois-de-Vaire (37,69)
+    activity:fire (53,69)
+    time:0700AM (72,69)
+    place:Warfusee (24,73)
+    place:Warfusee (58,73)
+    place:Fouilloy (67,73)
+    activity:attack (76,73)
+    person:Lance Corporal Fisher (42,73)
+    person:Sergeant Hopkins (casualty_mia) (56,81)
+    time:0800AM (67,88)
+    activity:attack (52,89)
+Page 189 (type diary) http://wd3.herokuapp.com/pages/AWD000194v  ----------
+  4 Apr 1918 25
+    activity:withdraw (47,31)
+    person:Sergeant Eldridge (combat) (31,37)
+    activity:withdraw (50,41)
+    unit:14 mg battalion (50,49)
+    unit:14 Machine Gun Battalion (53,50)
+    place:Aubigny (84,50)
+    activity:movement (63,53)
+    person:Lieutenant Page (other) (54,57)
+    activity:attack (75,61)
+    time:0700AM (43,65)
+    weather:fog (84,65)
+    time:0900AM (56,73)
+    activity:fire (45,73)
+    activity:enemy_activity (73,73)
+    activity:withdraw (61,88)
+    unit:4 inf-Brigade (33,89)
+Page 190 (type diary) http://wd3.herokuapp.com/pages/AWD0001953  ----------
+  4 Apr 1918 25
+    place:Bois-de-Vaire (25,29)
+    place:Fouilloy (53,33)
+    person:Captain Dent (55,37)
+    activity:attack (71,41)
+    activity:attack (77,41)
+    place:Bois-de-Vaire (58,45)
+    activity:withdraw (24,49)
+    place:Bois-de-Vaire (39,53)
+    place:Fouilloy (24,57)
+    activity:withdraw (25,61)
+    place:Fouilloy (82,61)
+    time:0700PM (42,61)
+    activity:attack (33,65)
+    unit:1 Machine Gun Squadron (59,65)
+    unit:1 mg squadron (51,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 10 (77,72)
+    person:Lieutenant E E Roberts (casualty_wounded) (63,73)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,73)
+    casualties:died: 0; killed: 2; missing: 6; prisoner: 0; sick: 0; wounded: 11 (86,73)
+    reference:killed: two o.f. (40,74)
+    casualties:died: 0; killed: 0; missing: 4; prisoner: 0; sick: 0; wounded: 0 (44,77)
+    casualties:died: 0; killed: 0; missing: 2; prisoner: 0; sick: 0; wounded: 2 (72,77)
+    place:Bussy-les-Daours (42,80)
+    activity:movement (42,81)
+    place:Daours (59,81)
+    activity:enemy_activity (62,85)
+    place:Bussy-les-Daours (35,85)
+    place:Amiens (34,88)
+    activity:movement (53,89)
+Page 191 (type diary) http://wd3.herokuapp.com/pages/AWD0001930  ----------
+  Hashtags: #BartoMilitaryMedal #MilitaryMedal #DistinguishedConductMedal #MilitaryCross 
+  4 Apr 1918 23
+    place:Bussy-les-Daours (31,29)
+    person:Captain G Dent (award) (37,44)
+    person:Lieutenant E E Roberts (award) (36,49)
+    person:Sergeant L S Bull (award) (32,61)
+    person:Private A Atterbury (award) (31,65)
+    person:Lance Corporal J McFeat (award) (31,73)
+    person:Private N Palmer (award) (31,76)
+    person:Lance Corporal S Fisher (award) (37,84)
+Page 192 (type diary) http://wd3.herokuapp.com/pages/AWD0001961  ----------
+  Hashtags: #equipmentreplaced 
+  5 Apr 1918 23
+    place:Amiens (69,29)
+    activity:movement (35,29)
+    place:Amiens (6,30)
+    domestic:accomodation (20,32)
+  7 Apr 1918 37
+    activity:resupplying (38,41)
+  9 Apr 1918 53
+    domestic:hygiene (53,53)
+    domestic:inspections (38,57)
+    domestic:hygiene (52,57)
+  10 Apr 1918 58
+    domestic:religion (20,61)
+    activity:movement (49,61)
+    place:Montieres (23,65)
+    place:Occoche (23,69)
+    place:Amiens (49,69)
+    time:0300PM (60,69)
+    place:Fienvillers (25,73)
+    place:Auxi-le-Chateau (80,73)
+    time:0800PM (38,73)
+    domestic:accomodation (59,77)
+    place:Bachimont (35,77)
+    place:Bachimont (7,77)
+    time:1230AM (31,81)
+  11 Apr 1918 84
+    time:0700AM (53,88)
+Page 193 (type diary) http://wd3.herokuapp.com/pages/AWD000197f  ----------
+  11 Apr 1918 25
+    time:0130PM (71,29)
+    place:Rougefay (60,29)
+    domestic:accomodation (61,33)
+  12 Apr 1918 34
+    place:Galametz (36,34)
+    activity:movement (23,34)
+    time:1215PM (50,38)
+    place:Galametz (6,38)
+    place:Fillievres (47,41)
+    activity:movement (69,41)
+    time:0210PM (26,45)
+    place:Heuchin (56,46)
+    time:0730PM (77,49)
+    place:Predefin (28,49)
+    mapRef:Hazebrouck (45,49)
+    mapRef:Hazebrouck (34,49)
+  13 Apr 1918 54
+    time:0700AM (64,56)
+    time:1040AM (75,57)
+    place:Predefin (7,58)
+  14 Apr 1918 62
+    activity:training (45,65)
+    time:0445PM (26,69)
+    time:0630PM (78,69)
+    place:Predefin (65,69)
+    activity:movement (53,72)
+    unit:41 Infantry Brigade (26,73)
+    time:0610PM (67,73)
+    place:Boyaval (81,73)
+    mapRef:Lens (18,76)
+    mapRef:Lens (27,77)
+    place:Fiefs (48,81)
+    time:0800PM (20,84)
+  15 Apr 1918 85
+Page 194 (type diary) http://wd3.herokuapp.com/pages/AWD0001972  ----------
+  Hashtags: #militarymedal #nominalroll #equipmentdeficiencies 
+  16 Apr 1918 27
+    place:Fiefs (41,29)
+    place:Fiefs (7,29)
+    activity:movement (24,29)
+    activity:movement (71,29)
+    time:1230PM (81,29)
+    person:Brigadier General D Beale-Browne (other) (45,33)
+    time:0200PM (32,33)
+    place:Fiefs (39,36)
+    unit:2 Cavalry Brigade (31,41)
+  17 Apr 1918 43
+    place:Beaumetz-les-Aire (8,45)
+    activity:training (31,45)
+  18 Apr 1918 47
+    domestic:inspections (55,50)
+  21 Apr 1918 59
+    place:Bomy (82,61)
+    domestic:religion (42,62)
+    time:1115AM (25,65)
+    person:Lance Corporal S Fisher (award) (34,73)
+    person:Private N Palmer (award) (35,76)
+  22 Apr 1918 79
+    domestic:inspections (44,81)
+    domestic:parades (46,85)
+    time:0215PM (79,85)
+Page 195 (type diary) http://wd3.herokuapp.com/pages/AWD000198h  ----------
+  23 Apr 1918 30
+    activity:training (22,33)
+    activity:training (53,33)
+    time:0830AM (31,33)
+  24 Apr 1918 35
+  25 Apr 1918 39
+    domestic:parades (29,41)
+    activity:training (61,41)
+    time:0830AM (39,41)
+  26 Apr 1918 46
+    activity:training (24,47)
+    domestic:inspections (59,53)
+    activity:training (21,53)
+    time:0830AM (32,53)
+  27 Apr 1918 55
+    domestic:hygiene (78,57)
+    weather:fog (52,57)
+    activity:training (59,57)
+    time:0830AM (68,57)
+    place:Lisbourg (24,61)
+  28 Apr 1918 63
+    domestic:religion (68,65)
+    domestic:parades (75,65)
+    place:Greuppe (60,65)
+    time:1130AM (44,69)
+  29 Apr 1918 71
+    time:0830AM (70,72)
+    weather:rain (52,73)
+    activity:training (69,73)
+    activity:training (22,77)
+  30 Apr 1918 78
+    domestic:parades (32,81)
+    time:0830AM (43,81)
+Page 196 (type diary) http://wd3.herokuapp.com/pages/AWD0001938  ----------
+  30 Apr 1918 0
+    strength:officer: 10; nco: 0; other: 200 (82,28)
+    strength:officer: 10; nco: 0; other: 200 (65,29)
+    strength:officer: 9; nco: 0; other: 220 (82,32)
+    strength:officer: 9; nco: 0; other: 220 (63,33)
+Page 197 (type cover)
+Page 198 (type diary) http://wd3.herokuapp.com/pages/AWD000197x  ----------
+  1 May 1918 25
+    time:1100AM (82,29)
+    place:Beaumetz-les-Aire (66,29)
+    domestic:inspections (24,29)
+    place:Beaumetz-les-Aire (6,31)
+    domestic:inspections (22,33)
+    time:0830AM (55,37)
+    place:Beaumetz-les-Aire (41,37)
+  2 May 1918 39
+    place:Bomy (76,41)
+    activity:training (26,41)
+    time:0915AM (21,45)
+    domestic:inspections (75,45)
+    domestic:inspections (71,49)
+  3 May 1918 51
+    time:0830AM (39,53)
+    domestic:parades (32,53)
+    domestic:inspections (30,57)
+  4 May 1918 59
+    time:0830AM (45,61)
+    place:Bomy (79,61)
+    domestic:parades (34,61)
+    domestic:hygiene (55,61)
+  5 May 1918 63
+    weather:rain (44,65)
+  6 May 1918 67
+    place:Coyecque (48,69)
+    activity:movement (74,69)
+    activity:movement (38,70)
+    place:Dennebroeucq (23,73)
+    domestic:accomodation (43,73)
+  7 May 1918 74
+    time:0830AM (34,77)
+    domestic:inspections (78,77)
+    activity:training (23,77)
+    place:Dennebroeucq (7,78)
+  8 May 1918 81
+    weather:rain (28,81)
+    domestic:inspections (41,84)
+    time:1000AM (53,88)
+    activity:movement (25,88)
+    place:Glem (44,89)
+Page 199 (type diary) http://wd3.herokuapp.com/pages/AWD0001925  ----------
+  8 May 1918 27
+    activity:training (40,30)
+    place:Dennebroeucq (7,30)
+  9 May 1918 31
+    activity:training (30,31)
+    domestic:parades (53,38)
+    time:0830AM (65,38)
+    activity:training (44,42)
+  10 May 1918 43
+    domestic:parades (34,46)
+    time:0830AM (44,46)
+  11 May 1918 50
+    activity:training (24,52)
+    activity:training (65,54)
+  12 May 1918 59
+    place:Bomy (85,61)
+    domestic:hygiene (49,62)
+  13 May 1918 67
+    place:Bomy (82,70)
+    domestic:parades (37,77)
+    time:0815AM (43,77)
+    time:1200PM (83,77)
+  14 May 1918 81
+    weather:rain (25,81)
+    activity:training (22,85)
+    time:0830AM (63,85)
+    domestic:inspections (25,89)
+Page 200 (type diary) http://wd3.herokuapp.com/pages/AWD0001957  ----------
+  15 May 1918 25
+    place:Dennebroeucq (7,28)
+    time:0830AM (41,29)
+    domestic:parades (34,29)
+  16 May 1918 30
+    activity:training (59,32)
+    activity:training (58,37)
+  17 May 1918 41
+    weather:fine (23,41)
+    unit:9 Cavalry Brigade (76,44)
+    time:0815AM (75,48)
+    unit:9 Lancers (50,49)
+    place:Coyecque (63,49)
+    domestic:parades (38,52)
+    time:0815AM (63,53)
+    place:Glem (52,53)
+  18 May 1918 57
+    time:0100PM (34,57)
+    weather:hot (50,57)
+    domestic:hygiene (37,60)
+    place:Ponche (47,60)
+  19 May 1918 65
+    time:0530PM (56,65)
+    domestic:religion (44,69)
+    place:Dennebroeucq (77,69)
+    time:1130AM (27,72)
+  20 May 1918 73
+    domestic:parades (63,76)
+    domestic:medical (83,76)
+    time:0800AM (42,77)
+    activity:training (65,77)
+    domestic:parades (33,77)
+    time:0600PM (62,84)
+    place:Coyecque (49,84)
+  21 May 1918 85
+    activity:movement (35,88)
+    place:Embry (47,88)
+Page 201 (type diary) http://wd3.herokuapp.com/pages/AWD000193x  ----------
+  21 May 1918 26
+    time:0830AM (33,28)
+    activity:movement (50,29)
+    domestic:parades (21,29)
+    place:Wandonne (63,29)
+    place:Henoville (79,29)
+    place:Boubers (7,29)
+    mapRef:Calais (55,32)
+    mapRef:Abbeville (67,33)
+    place:Boubers (26,33)
+  22 May 1918 38
+    activity:movement (21,41)
+    domestic:parades (78,41)
+    activity:movement (40,45)
+    place:Campagne (56,45)
+    place:Saulchoy (81,45)
+    place:Remy (69,45)
+    time:0715AM (24,45)
+    mapRef:Abbeville (26,48)
+    mapRef:Abbeville (18,49)
+    time:1115AM (55,49)
+    weather:hot (34,53)
+  23 May 1918 55
+    activity:training (22,56)
+    place:Saulchoy (7,56)
+    time:0800AM (47,56)
+    domestic:hygiene (23,61)
+  24 May 1918 62
+    activity:training (23,65)
+    time:0800AM (48,65)
+    domestic:inspections (55,68)
+    time:0830AM (40,68)
+  25 May 1918 74
+    time:0800AM (45,76)
+    time:1015AM (80,76)
+    activity:training (22,77)
+    domestic:inspections (68,77)
+  26 May 1918 78
+    time:0800AM (52,80)
+  27 May 1918 82
+    activity:training (68,84)
+    domestic:parades (34,84)
+    domestic:medical (80,84)
+    time:0800AM (40,84)
+    domestic:inspections (24,88)
+Page 202 (type diary) http://wd3.herokuapp.com/pages/AWD000194a  ----------
+  28 May 1918 25
+    activity:training (61,28)
+    activity:training (21,28)
+    place:Saulchoy (7,29)
+    time:0800AM (46,29)
+    time:0830AM (35,33)
+  29 May 1918 37
+    activity:training (53,37)
+    activity:training (20,38)
+    activity:training (74,40)
+    domestic:parades (35,41)
+    time:0800AM (45,41)
+  30 May 1918 46
+    activity:training (32,46)
+    time:0800AM (43,48)
+    domestic:parades (31,49)
+    activity:training (69,49)
+    time:0200PM (77,49)
+  31 May 1918 50
+    activity:training (21,51)
+    time:0800AM (50,52)
+    time:0830AM (60,56)
+    domestic:inspections (33,61)
+    strength:officer: 9; nco: 0; other: 220 (60,68)
+    strength:officer: 9; nco: 0; other: 220 (83,68)
+    strength:officer: 11; nco: 0; other: 214 (62,72)
+    strength:officer: 11; nco: 0; other: 214 (82,72)
+Page 203 (type cover)
+Page 204 (type diary) http://wd3.herokuapp.com/pages/AWD000193y  ----------
+  Hashtags: #horsescondition 
+  31 May 1918 0
+    time:0800AM (48,30)
+    activity:training (24,30)
+    place:Saulchoy (7,31)
+    domestic:inspections (74,31)
+    time:1030AM (84,31)
+    place:Saulchoy (69,34)
+    domestic:religion (51,34)
+    time:1000AM (79,35)
+    domestic:parades (33,38)
+    time:0800AM (41,38)
+    time:0815AM (47,42)
+    time:0915AM (55,42)
+    time:0915AM (29,46)
+    time:1015AM (38,46)
+    activity:training (60,46)
+  4 Jun 1918 50
+    time:0200PM (39,50)
+    activity:training (22,54)
+    time:0200PM (74,57)
+    activity:training (39,58)
+  5 Jun 1918 61
+    activity:training (24,65)
+    time:0800AM (64,66)
+    time:0915AM (77,73)
+    time:0200PM (72,77)
+    activity:training (34,77)
+    domestic:inspections (74,81)
+    domestic:parades (66,85)
+    time:1000PM (78,85)
+    activity:training (35,88)
+Page 205 (type diary) http://wd3.herokuapp.com/pages/AWD0001994  ----------
+  6 Jun 1918 28
+    domestic:parades (84,30)
+    place:Saulchoy (8,31)
+    activity:training (36,34)
+    time:0200PM (71,38)
+    activity:training (23,38)
+  7 Jun 1918 40
+    time:0815AM (80,46)
+    activity:training (37,52)
+    time:0315PM (26,58)
+  8 Jun 1918 59
+    place:Saulchoy (75,61)
+    domestic:hygiene (41,62)
+  9 Jun 1918 67
+    place:Saulchoy (74,69)
+    domestic:parades (52,69)
+    time:1000AM (22,73)
+    time:0800AM (48,77)
+    activity:training (74,77)
+    domestic:parades (37,77)
+    time:0200PM (68,81)
+    activity:training (53,81)
+    domestic:parades (74,84)
+    activity:training (31,86)
+    time:1000PM (22,89)
+Page 206 (type diary) http://wd3.herokuapp.com/pages/AWD000193i  ----------
+  Hashtags: #mumpssqaudronisolated 
+  9 Jun 1918 0
+    place:Saulchoy (8,30)
+    activity:training (31,30)
+    unit:9 Lancers (83,30)
+    place:Valloir Abbaye (52,34)
+    time:0900AM (71,34)
+    time:0800AM (34,37)
+    time:0200PM (85,37)
+    activity:training (25,38)
+    activity:training (37,41)
+    domestic:medical (58,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (71,42)
+  12 Jun 1918 45
+    domestic:parades (36,49)
+    time:0800AM (45,49)
+    domestic:inspections (39,53)
+    time:0200PM (23,53)
+  13 Jun 1918 60
+    person:Lieutenant Roberts (other) (38,60)
+    activity:training (41,65)
+    domestic:parades (58,68)
+    place:Douriez (24,68)
+    time:0800AM (68,68)
+  14 Jun 1918 72
+    domestic:inspections (40,72)
+    domestic:inspections (62,76)
+    place:Saulchoy (54,80)
+    time:0815AM (67,80)
+  15 Jun 1918 84
+    activity:training (23,85)
+    domestic:hygiene (47,87)
+    place:Saulchoy (60,87)
+    activity:training (26,87)
+    time:0900AM (72,87)
+    time:0300PM (83,87)
+Page 207 (type diary) http://wd3.herokuapp.com/pages/AWD0001965  ----------
+  Hashtags: #horsescondition #DistinguishedConductMedal #Militarycross 
+  15 Jun 1918 26
+    place:Saulchoy (7,29)
+  16 Jun 1918 30
+    domestic:religion (48,33)
+    place:Grand Preaux (71,33)
+    time:1100AM (20,36)
+    person:Captain G Dent (award) (64,40)
+    person:Sergeant L S Bull (23,45)
+  17 Jun 1918 51
+    domestic:parades (34,52)
+    domestic:medical (58,52)
+    time:0800AM (44,52)
+    time:1015AM (78,52)
+    activity:training (33,56)
+  18 Jun 1918 58
+    activity:training (55,60)
+    time:0800AM (42,60)
+    domestic:parades (30,61)
+    activity:training (22,63)
+  19 Jun 1918 66
+    domestic:parades (33,68)
+    time:0800AM (42,68)
+    time:1030AM (20,72)
+  20 Jun 1918 74
+    domestic:hygiene (48,76)
+    activity:training (38,78)
+    place:Saulchoy (22,80)
+    time:0830AM (39,84)
+  21 Jun 1918 85
+    time:0800AM (33,87)
+Page 208 (type diary) http://wd3.herokuapp.com/pages/AWD0001951  ----------
+  Hashtags: #pyrexia 
+  21 Jun 1918 27
+    unit:9 Lancers (34,30)
+    unit:9 Lancers (42,30)
+    place:Saulchoy (8,31)
+    domestic:inspections (25,35)
+  22 Jun 1918 36
+    place:La Neuville (73,38)
+    activity:training (33,38)
+    time:0730AM (80,42)
+  23 Jun 1918 48
+    place:Saulchoy (73,50)
+    domestic:religion (49,50)
+  24 Jun 1918 55
+    domestic:medical (58,57)
+    time:0800AM (45,57)
+    domestic:parades (35,58)
+    time:1015AM (78,58)
+    activity:training (43,63)
+    domestic:parades (42,69)
+  25 Jun 1918 71
+    domestic:parades (35,73)
+    time:0800AM (47,73)
+    domestic:medical (32,77)
+  26 Jun 1918 79
+    place:La Neuville (74,81)
+    activity:training (33,81)
+    time:0720AM (30,88)
+Page 209 (type diary) http://wd3.herokuapp.com/pages/AWD0001934  ----------
+  Hashtags: #pyrexia 
+  27 Jun 1918 24
+    place:Saulchoy (52,28)
+    domestic:hygiene (42,28)
+    activity:training (28,28)
+    place:Saulchoy (8,29)
+    domestic:sport (29,33)
+  28 Jun 1918 35
+    person:Lieutenant Hibbert (departed_training) (59,36)
+    person:Second Lieutenant Cheadle (departed_training) (75,36)
+    time:0800AM (48,36)
+    domestic:parades (37,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (87,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (39,44)
+    domestic:inspections (30,45)
+  29 Jun 1918 47
+    time:0800AM (49,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (83,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (38,52)
+  30 Jun 1918 54
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 31; wounded: 0 (42,56)
+    person:Major L W D Wathen (commander) (72,71)
+Page 210 (type cover)
+Page 211 (type diary) http://wd3.herokuapp.com/pages/AWD0001926  ----------
+  Hashtags: #pyrexia 
+  1 Jul 1918 25
+    time:0800AM (54,28)
+    domestic:parades (44,28)
+    place:Saulchoy (9,29)
+  2 Jul 1918 32
+    activity:training (69,32)
+    time:0800AM (53,33)
+    domestic:parades (43,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 11; wounded: 0 (87,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,35)
+    activity:training (41,36)
+  3 Jul 1918 38
+    activity:training (62,38)
+    place:Saulchoy (80,38)
+    time:0800AM (54,39)
+    domestic:parades (44,39)
+    domestic:hygiene (71,39)
+  4 Jul 1918 45
+    activity:training (62,45)
+    domestic:parades (43,45)
+    time:0800AM (53,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (58,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,50)
+    activity:training (24,50)
+    place:Petit Chemin (73,51)
+  5 Jul 1918 52
+    activity:training (44,52)
+    activity:training (58,55)
+    time:0700AM (28,56)
+    time:0830AM (35,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (74,58)
+  6 Jul 1918 64
+    time:0930AM (84,64)
+    time:0815AM (76,65)
+    activity:training (45,65)
+    activity:training (78,67)
+    activity:training (38,69)
+    domestic:parades (47,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,73)
+    time:0215PM (24,74)
+  7 Jul 1918 79
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (81,79)
+Page 212 (type diary) http://wd3.herokuapp.com/pages/AWD000195x  ----------
+  Hashtags: #pyrexia 
+  8 Jul 1918 27
+    time:0830AM (72,29)
+    time:0730AM (65,30)
+    activity:training (38,30)
+    place:Saulchoy (9,32)
+  9 Jul 1918 34
+    time:0630AM (64,36)
+    activity:training (37,37)
+    person:Captain G Dent (other) (37,45)
+  10 Jul 1918 51
+    place:Frohen-le-Grand (59,52)
+    activity:movement (46,52)
+    domestic:parades (70,54)
+    place:Saulchoy (82,54)
+    place:Gennes-Ivergny (64,57)
+    time:0815AM (28,59)
+    activity:movement (49,59)
+    domestic:accomodation (73,61)
+    place:Auxi-le-Chateau (54,61)
+    mapRef:Lens (58,65)
+    place:Bealcourt (27,66)
+  11 Jul 1918 67
+    mapRef:Lens (71,69)
+    place:Sarton (52,70)
+    activity:movement (30,71)
+    time:1015AM (63,73)
+    place:Bealcourt (8,73)
+    activity:movement (78,73)
+    domestic:parades (35,74)
+    place:Bealcourt (48,74)
+    place:Doullens (42,76)
+    domestic:accomodation (54,77)
+    place:Outrebois (26,77)
+    place:Sarton (73,77)
+  12 Jul 1918 81
+    time:0730AM (57,82)
+    activity:training (31,83)
+    place:Sarton (8,84)
+Page 213 (type diary) http://wd3.herokuapp.com/pages/AWD0001942  ----------
+  13 Jul 1918 26
+    activity:training (26,28)
+    time:1000AM (83,28)
+    time:0800AM (36,29)
+    place:Sarton (7,30)
+  14 Jul 1918 32
+    activity:training (30,33)
+    activity:reconnoitered (63,33)
+    time:0700AM (40,33)
+  15 Jul 1918 41
+    time:0800AM (42,42)
+    activity:training (31,43)
+    domestic:inspections (81,44)
+    domestic:inspections (26,46)
+  16 Jul 1918 50
+    activity:training (37,52)
+    time:0800AM (76,53)
+    mapRef:57d (56,54)
+    mapRef:57D (40,56)
+  17 Jul 1918 68
+    time:0800AM (44,70)
+    activity:training (30,71)
+    time:1030AM (76,73)
+  18 Jul 1918 74
+    domestic:medical (48,75)
+    time:0800AM (40,75)
+    activity:training (24,76)
+    activity:training (31,76)
+  19 Jul 1918 80
+    time:0900AM (51,80)
+    place:Orville (39,81)
+    domestic:hygiene (29,82)
+    time:1000AM (73,82)
+    activity:training (64,85)
+Page 214 (type diary) http://wd3.herokuapp.com/pages/AWD000194r  ----------
+  20 Jul 1918 25
+    place:Sarton (7,28)
+    activity:training (27,28)
+    time:0800AM (39,28)
+  21 Jul 1918 30
+    time:0800AM (59,32)
+    time:0900AM (68,32)
+  22 Jul 1918 34
+    domestic:parades (39,37)
+    activity:training (68,37)
+    time:0800AM (51,37)
+  23 Jul 1918 40
+    place:Thievres (60,43)
+    domestic:accomodation (51,43)
+    activity:movement (38,44)
+    place:Thievres (7,45)
+  24 Jul 1918 49
+    weather:rain (54,53)
+    activity:training (26,53)
+    time:0800AM (39,53)
+  25 Jul 1918 55
+    activity:training (68,57)
+    time:0715AM (51,57)
+    domestic:parades (29,58)
+    domestic:hygiene (78,62)
+  26 Jul 1918 65
+    place:Orville (24,66)
+    activity:training (24,71)
+    activity:training (30,72)
+  27 Jul 1918 74
+    domestic:parades (30,77)
+  28 Jul 1918 85
+    domestic:religion (63,86)
+    weather:rain (31,86)
+    place:Sarton (77,87)
+    time:1100AM (49,92)
+Page 215 (type diary) http://wd3.herokuapp.com/pages/AWD000198e  ----------
+  28 Jul 1918 25
+    person:Major L W D Wathen (departed_training) (23,28)
+    place:Thievres (9,29)
+    person:Captain H Misa (commander) (25,31)
+  29 Jul 1918 33
+    activity:training (55,34)
+    time:0800AM (45,34)
+    time:0200PM (67,34)
+    domestic:parades (36,35)
+    domestic:inspections (41,37)
+    domestic:inspections (30,41)
+  30 Jul 1918 43
+    domestic:inspections (76,43)
+    time:0800AM (47,44)
+    domestic:inspections (66,47)
+  31 Jul 1918 53
+    activity:repair (63,54)
+    domestic:parades (37,55)
+    time:0800AM (45,55)
+    person:Major L W D Wathen (returned_training) (42,62)
+    person:Second Lieutenant D L Cheadle (returned_hospital) (51,64)
+    strength:officer: 11; nco: 0; other: 241 (83,70)
+    strength:officer: 11; nco: 0; other: 241 (64,72)
+    strength:officer: 12; nco: 0; other: 253 (81,74)
+    strength:officer: 12; nco: 0; other: 253 (63,75)
+Page 216 (type cover)
+Page 217 (type diary) http://wd3.herokuapp.com/pages/AWD000195n  ----------
+  1 Aug 1918 27
+    unit:9 Lancers (75,29)
+    place:Thievres (7,30)
+    activity:training (29,31)
+    domestic:inspections (75,33)
+    mapRef:Lens (11,35)
+  2 Aug 1918 36
+    activity:training (34,39)
+    person:Second Lieutenant Cheadle (returned_hospital) (44,42)
+    person:Major Wathen (returned_training) (24,45)
+  3 Aug 1918 47
+    activity:training (27,49)
+    weather:rain (27,52)
+  4 Aug 1918 53
+    time:1145AM (72,55)
+    person:Captain Misa (26,59)
+  5 Aug 1918 60
+    place:Thievres (74,63)
+    activity:movement (40,63)
+    place:Wargnies (23,65)
+  6 Aug 1918 66
+    place:Beauquesne (43,66)
+    domestic:accomodation (44,70)
+    activity:movement (74,70)
+    time:1000PM (57,70)
+    place:Wargnies (7,71)
+  7 Aug 1918 74
+    place:Vignacourt (26,74)
+    mapRef:Amiens (69,74)
+    mapRef:Amiens (78,74)
+    place:Saint Sauveur (8,78)
+    activity:movement (39,78)
+  8 Aug 1918 79
+    place:Longeau (79,79)
+    place:Caix (66,83)
+    mapRef:66E (70,83)
+    mapRef:66e (77,83)
+    activity:movement (39,83)
+    place:Caix (9,86)
+    person:Lieutenant Roberts (combat) (61,86)
+    gridRef:E_9_D_10_01 (53,90)
+Page 218 (type diary) http://wd3.herokuapp.com/pages/AWD00019bg  ----------
+  Hashtags: #horsescasualties 
+  8 Aug 1918 25
+    gridRef:E_9_B_3_3 (55,28)
+    place:Caix (27,33)
+    person:Lieutenant Hibbert (combat) (48,36)
+    person:Second Lieutenant Page (combat) (82,36)
+    person:Second Lieutenant Page (23,39)
+    gridRef:E_11_C__ (47,40)
+    gridRef:E_11_D__ (62,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (22,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (31,47)
+  9 Aug 1918 48
+    time:0100PM (55,51)
+    place:Vrely (67,51)
+    activity:movement (39,51)
+    unit:9 Lancers (61,55)
+    place:Meharicourt (27,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (70,62)
+    person:Major L W D Wathen (casualty_wounded) (32,62)
+    person:Second Lieutenant E G Frere (casualty_wounded) (52,62)
+    person:Lieutenant W White (commander) (71,65)
+    unit:4 Dragoon Guards (73,72)
+    activity:attack (56,72)
+    place:Meharicourt (53,75)
+    unit:9 Lancers (24,76)
+    casualties:died: 0; killed: 10; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (78,78)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (22,82)
+    place:Cayeux (63,82)
+Page 219 (type diary) http://wd3.herokuapp.com/pages/AWD000197m  ----------
+  Hashtags: #nightoperations 
+  10 Aug 1918 26
+    place:Caix (76,28)
+    place:Caix (9,29)
+    activity:movement (37,29)
+    time:0300PM (60,32)
+    domestic:accomodation (68,35)
+  11 Aug 1918 37
+    place:Caix (79,39)
+    domestic:accomodation (56,39)
+    mapRef:62D (21,42)
+    time:0945PM (67,42)
+    mapRef:62d (35,43)
+    place:Camon (74,44)
+    place:Marcelcave (44,45)
+    activity:movement (31,45)
+    domestic:accomodation (38,48)
+    person:Captain Misa (returned_hospital) (68,48)
+    time:0330AM (53,48)
+    person:Captain Dent (returned_leave) (37,51)
+    person:Lieutenant Johnson (returned_leave) (48,51)
+  12 Aug 1918 53
+    time:1000AM (35,56)
+  13 Aug 1918 58
+    domestic:inspections (26,59)
+    domestic:inspections (57,61)
+  14 Aug 1918 64
+    domestic:hygiene (50,65)
+  15 Aug 1918 74
+    place:Bretel (50,76)
+    activity:movement (35,76)
+    place:Bretel (10,78)
+    person:Captain H Misa (departed_posted) (25,79)
+    person:Captain G Dent (commander) (74,79)
+    unit:1 mg squadron (56,79)
+  16 Aug 1918 83
+    place:Maizicourt (50,85)
+    activity:movement (31,85)
+    time:0200AM (73,85)
+    place:Maizicourt (9,86)
+    domestic:accomodation (41,88)
+Page 220 (type diary) http://wd3.herokuapp.com/pages/AWD000192e  ----------
+  Hashtags: #horsescasualties 
+  17 Aug 1918 26
+    place:Maizicourt (8,29)
+  18 Aug 1918 30
+    activity:training (30,34)
+  19 Aug 1918 36
+    time:0830PM (60,39)
+    activity:training (31,39)
+    activity:movement (50,39)
+    place:Frohen-le-Grand (78,39)
+    place:Doullens (25,43)
+    place:Mondicourt (35,43)
+    place:Warlincourt-les-Pas (61,43)
+    domestic:accomodation (48,43)
+  20 Aug 1918 44
+    time:0845PM (38,46)
+    activity:movement (30,47)
+    place:Willow Patch (56,47)
+    mapRef:57D (76,48)
+  21 Aug 1918 50
+    mapRef:57d (31,51)
+    time:0430AM (52,54)
+    activity:movement (45,54)
+    place:Jewel Valley (65,54)
+    activity:movement (25,55)
+    activity:fire (78,61)
+    casualties:died: 2; killed: 4; missing: 3; prisoner: 0; sick: 0; wounded: 28 (26,64)
+    casualties:died: 2; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 28 (65,64)
+    time:0530PM (83,70)
+    activity:withdraw (67,70)
+    activity:movement (45,73)
+    place:Sarton (59,73)
+    domestic:accomodation (74,73)
+    place:Sarton (8,74)
+  22 Aug 1918 76
+    time:0200AM (31,76)
+    weather:fog (44,76)
+  23 Aug 1918 80
+    domestic:hygiene (50,83)
+    activity:training (31,84)
+  24 Aug 1918 86
+Page 221 (type diary) http://wd3.herokuapp.com/pages/AWD0001968  ----------
+  25 Aug 1918 26
+    activity:resupplying (64,28)
+    place:Sarton (9,29)
+    person:Lieutenant M Chennels (joined) (42,29)
+  26 Aug 1918 31
+    place:Maizieres (48,33)
+    time:1030PM (67,33)
+    activity:movement (28,34)
+    domestic:accomodation (81,34)
+    time:0430PM (36,34)
+  28 Aug 1918 40
+    activity:training (63,43)
+  31 Aug 1918 54
+    activity:resupplying (43,56)
+    strength:officer: 12; nco: 0; other: 252 (57,64)
+    strength:officer: 10; nco: 0; other: 207 (56,68)
+    strength:officer: 10; nco: 0; other: 207 (69,68)
+Page 222 (type cover)
+Page 223 (type diary) http://wd3.herokuapp.com/pages/AWD0001935  ----------
+  1 Sep 1918 26
+    place:Maizieres (8,30)
+  2 Sep 1918 33
+  3 Sep 1918 40
+  4 Sep 1918 54
+    activity:training (30,57)
+  5 Sep 1918 59
+  6 Sep 1918 64
+    time:0200PM (51,66)
+    activity:movement (26,67)
+    place:Rebreuve (35,67)
+  7 Sep 1918 68
+    place:Rebreuve (8,68)
+  10 Sep 1918 83
+  11 Sep 1918 87
+    activity:training (30,91)
+Page 224 (type diary) http://wd3.herokuapp.com/pages/AWD0001988  ----------
+  12 Sep 1918 25
+    domestic:hygiene (42,28)
+    activity:training (26,28)
+    place:Rebreuve (9,29)
+  13 Sep 1918 30
+    unit:9 Machine Gun Squadron (48,34)
+    activity:training (26,34)
+  14 Sep 1918 37
+    activity:training (23,42)
+  15 Sep 1918 43
+    unit:10 Machine Gun Squadron (78,46)
+  16 Sep 1918 49
+    time:0900AM (57,51)
+    activity:movement (37,51)
+    place:Willeman (43,52)
+    place:Willeman (8,52)
+  17 Sep 1918 55
+    place:Oeuf (63,58)
+    time:0800AM (47,58)
+    activity:training (24,59)
+    place:Caumont (59,61)
+  18 Sep 1918 62
+    domestic:accomodation (45,62)
+    time:0430PM (23,62)
+    place:Caumont (9,63)
+    time:1100AM (57,65)
+  19 Sep 1918 67
+    place:Frohen-le-Petit (8,67)
+    activity:movement (27,67)
+  20 Sep 1918 72
+    activity:training (25,72)
+    domestic:inspections (40,75)
+Page 225 (type diary) http://wd3.herokuapp.com/pages/AWD000192j  ----------
+  23 Sep 1918 25
+    domestic:inspections (44,28)
+    place:Frohen-le-Petit (8,29)
+    domestic:inspections (33,33)
+  24 Sep 1918 34
+    time:0700PM (49,36)
+    activity:movement (26,37)
+    place:Famechon (34,37)
+    place:Famechon (8,38)
+  25 Sep 1918 40
+    place:Aveluy (36,43)
+    activity:movement (26,44)
+    time:0700PM (48,44)
+    place:Aveluy (7,45)
+  26 Sep 1918 46
+    place:Moislains (36,48)
+    activity:movement (26,49)
+    time:0845PM (52,49)
+  27 Sep 1918 50
+    place:Moislains (8,50)
+  29 Sep 1918 62
+    mapRef:62c (60,65)
+    mapRef:62C (54,66)
+    place:Hamelet (45,66)
+    activity:movement (26,67)
+    place:Hamelet (8,67)
+    time:0400PM (33,67)
+  30 Sep 1918 68
+Page 226 (type cover)
+Page 227 (type diary) http://wd3.herokuapp.com/pages/AWD000192o  ----------
+  Hashtags: #gunsdestroyed 
+  1 Oct 1918 24
+    place:Hamelet (8,27)
+  2 Oct 1918 29
+    place:Hamelet (73,29)
+    mapRef:62C (14,29)
+    mapRef:62c (11,30)
+    place:Villeret (41,31)
+    activity:movement (28,31)
+  3 Oct 1918 32
+  5 Oct 1918 37
+    place:Hamelet (77,37)
+    place:Nauroy (50,38)
+    activity:movement (59,38)
+  6 Oct 1918 39
+    activity:movement (29,39)
+  7 Oct 1918 43
+    mapRef:62c (67,44)
+    domestic:accomodation (47,45)
+    place:Hesbecourt (38,45)
+  8 Oct 1918 46
+    mapRef:62C (70,46)
+    activity:movement (22,46)
+    place:Serain (65,47)
+    mapRef:62c (8,47)
+    place:Bellecourt (40,48)
+    place:Folemprise Fm (49,48)
+    place:Geneve (58,48)
+    activity:movement (24,48)
+    time:0415AM (31,48)
+    activity:movement (76,49)
+    place:Gouy (83,50)
+    unit:9 Lancers (54,50)
+    unit:4 Dragoon Guards (23,51)
+  9 Oct 1918 53
+    domestic:accomodation (50,55)
+    place:Le Trou Au Soldat (41,55)
+  10 Oct 1918 56
+    time:0600AM (31,56)
+    place:Gouy (6,57)
+    activity:movement (22,57)
+    activity:movement (69,57)
+    time:0300PM (59,57)
+    place:Troisville (40,58)
+    mapRef:67b (9,60)
+    activity:movement (24,60)
+  11 Oct 1918 61
+    place:Le Trou Au Soldat (24,62)
+    mapRef:57b (37,62)
+    mapRef:57B (33,62)
+  12 Oct 1918 64
+    domestic:accomodation (32,64)
+    place:Le Trou Au Soldat (8,65)
+  13 Oct 1918 66
+    domestic:accomodation (31,66)
+  14 Oct 1918 68
+    mapRef:62C (45,69)
+    activity:movement (22,69)
+    time:0845AM (31,69)
+  15 Oct 1918 71
+  16 Oct 1918 74
+  17 Oct 1918 75
+    domestic:hygiene (34,75)
+    mapRef:62c (7,75)
+  18 Oct 1918 78
+  21 Oct 1918 85
+    activity:training (34,86)
+  22 Oct 1918 87
+    activity:training (37,89)
+    activity:training (43,89)
+  23 Oct 1918 90
+    activity:training (48,91)
+Page 228 (type diary) http://wd3.herokuapp.com/pages/AWD000194w  ----------
+  25 Oct 1918 27
+    activity:training (47,27)
+    place:Cauvigny Farm (8,28)
+    activity:training (33,28)
+  26 Oct 1918 30
+    activity:training (33,30)
+    activity:training (48,30)
+    mapRef:62C (12,31)
+    mapRef:62c (9,32)
+  27 Oct 1918 33
+    activity:training (26,35)
+  29 Oct 1918 38
+    activity:training (34,39)
+    unit:4 Dragoon Guards (46,40)
+  30 Oct 1918 41
+  31 Oct 1918 44
+    unit:9 Cavalry Brigade (43,44)
+    unit:1 Cavalry Division (64,46)
+    activity:training (30,47)
+Page 229 (type cover)
+Page 230 (type diary) http://wd3.herokuapp.com/pages/AWD00019a1  ----------
+  1 Nov 1918 26
+    activity:training (25,28)
+    mapRef:62C (15,31)
+  2 Nov 1918 32
+    mapRef:62c (12,32)
+    domestic:inspections (54,33)
+  3 Nov 1918 37
+  4 Nov 1918 42
+    domestic:parades (52,42)
+    activity:training (27,43)
+  5 Nov 1918 47
+    activity:training (27,48)
+  6 Nov 1918 57
+    place:Le Catelet (79,57)
+    place:Jeancourt (59,58)
+    place:Hargicourt (69,58)
+    activity:movement (38,58)
+    time:0315PM (80,59)
+    place:Gravecourt (8,60)
+    mapRef:Valenciennes (47,61)
+    mapRef:Valenciennes (38,61)
+  7 Nov 1918 66
+    place:Cambrai (66,66)
+    place:Aubencheul (75,66)
+    place:Masnieres (53,67)
+    time:0830AM (43,68)
+    activity:movement (34,69)
+    time:0330PM (66,69)
+    place:Cantin (25,71)
+    place:Goeulzin (7,71)
+  8 Nov 1918 75
+    place:Douai (57,77)
+    time:1000AM (46,77)
+    activity:movement (33,78)
+    place:Mons-En-Pevele (8,79)
+  9 Nov 1918 83
+Page 231 (type diary) http://wd3.herokuapp.com/pages/AWD0001933  ----------
+  Hashtags: #armistice 
+  10 Nov 1918 26
+    activity:movement (50,30)
+    place:Nomain (73,30)
+    place:Mons-En-Pevele (9,30)
+    time:0730AM (52,33)
+    activity:movement (64,34)
+    place:Wasmes (61,39)
+  11 Nov 1918 40
+    activity:movement (66,43)
+    place:Wasmes (8,44)
+    place:Basecles (42,46)
+    person:Lieutenant W H Page (commander) (57,49)
+    time:0800AM (27,50)
+    unit:9 Lancers (51,52)
+    time:0730AM (52,55)
+    time:1115AM (81,58)
+    place:Basecles (31,59)
+  12 Nov 1918 74
+    place:Montagne (80,74)
+    time:0845AM (49,75)
+    activity:movement (37,76)
+    time:0230PM (76,78)
+    place:Belloy (51,78)
+    place:Sin (64,78)
+    place:Belloy (48,81)
+    place:Belloy (8,83)
+  13 Nov 1918 84
+    activity:resting (39,86)
+Page 232 (type diary) http://wd3.herokuapp.com/pages/AWD000198c  ----------
+  14 Nov 1918 26
+    domestic:inspections (70,28)
+    place:Belloy (9,29)
+    time:1145AM (49,32)
+  15 Nov 1918 33
+    place:Germany (76,40)
+    unit:1 Cavalry Division (34,40)
+    person:Captain D F G Duff (joined) (36,49)
+  16 Nov 1918 54
+    domestic:inspections (35,57)
+  17 Nov 1918 59
+    activity:movement (42,60)
+    place:Peruwelz (68,60)
+    place:Stambruges (79,60)
+    time:0700AM (53,60)
+    place:Sirault (27,64)
+    place:Brugelette (54,64)
+    domestic:accomodation (37,64)
+  18 Nov 1918 65
+    activity:movement (36,68)
+    place:Brugelette (7,68)
+    time:0745AM (47,68)
+    mapRef:Brussels (55,71)
+    mapRef:Brussels (44,71)
+    place:Naast (38,71)
+    domestic:accomodation (27,71)
+    person:Major G Dent (departed_leave) (46,74)
+    person:Captain Duff (commander) (54,77)
+    place:Naast (7,80)
+  19 Nov 1918 82
+    activity:resting (29,85)
+Page 233 (type diary) http://wd3.herokuapp.com/pages/AWD000197q  ----------
+  Hashtags: #duplicate 
+  14 Nov 1918 22
+    place:Belloy (9,28)
+  15 Nov 1918 31
+  16 Nov 1918 52
+  17 Nov 1918 57
+  18 Nov 1918 63
+    time:0745AM (47,67)
+    place:Brugelette (8,68)
+    mapRef:Brussels (45,70)
+    place:Naast (7,79)
+  19 Nov 1918 80
+Page 234 (type diary) http://wd3.herokuapp.com/pages/AWD000195g  ----------
+  Hashtags: #duplicate 
+  19 Nov 1918 0
+    place:Belloy (9,29)
+    place:Brugelette (7,66)
+Page 235 (type diary) http://wd3.herokuapp.com/pages/AWD000196k  ----------
+  Hashtags: #concert #discipline #courtmartial 
+  19 Nov 1918 0
+  20 Nov 1918 24
+    domestic:inspections (68,27)
+    place:Naast (7,27)
+  21 Nov 1918 33
+    activity:movement (37,35)
+    place:Rualette (71,35)
+    place:Rougelette (7,37)
+  22 Nov 1918 40
+    activity:movement (37,41)
+    place:Namur (8,46)
+    mapRef:Namur (58,47)
+    place:Beez (51,47)
+  23 Nov 1918 49
+    domestic:sport (69,51)
+  24 Nov 1918 56
+    activity:movement (38,58)
+    place:Envoz (9,59)
+  25 Nov 1918 61
+  26 Nov 1918 67
+    person:Staff Sergeant F King (discipline) (44,72)
+  27 Nov 1918 77
+    activity:movement (38,78)
+    place:Sprimont (8,78)
+  28 Nov 1918 81
+Page 236 (type diary) http://wd3.herokuapp.com/pages/AWD0001983  ----------
+  29 Nov 1918 23
+    place:Sprimont (6,25)
+    activity:movement (39,27)
+    place:Sprimont (9,28)
+    domestic:inspections (54,30)
+  30 Nov 1918 36
+    place:Roy (6,38)
+    place:Ruy (9,40)
+    person:Captain Duff (commander) (58,59)
+Page 237 (type diary) http://wd3.herokuapp.com/pages/AWD000197c  ----------
+  Hashtags: #duplicate 
+  30 Nov 1918 0
+    mapRef:Marche (53,26)
+Page 238 (type cover)
+Page 239 (type diary) http://wd3.herokuapp.com/pages/AWD000198a  ----------
+  1 Dec 1918 23
+    activity:movement (30,25)
+    place:Ruy (8,26)
+    place:Malmedy (55,26)
+    place:Weismes (66,26)
+    place:Butgenbach (76,26)
+    place:Elsenborn (21,29)
+    place:Montjoie (51,30)
+    mapRef:Rhine Valley (68,33)
+    mapRef:Rhine Valley No1 (50,33)
+  2 Dec 1918 35
+    place:Konzen (7,38)
+  3 Dec 1918 40
+  4 Dec 1918 45
+    activity:movement (23,47)
+    place:Simmerath (41,47)
+    place:Strauch (56,47)
+    place:Boich (8,49)
+    place:Nideggen (75,49)
+    place:Boich (21,50)
+  5 Dec 1918 52
+    activity:movement (25,55)
+    place:Gymnich (7,55)
+    place:Thum (41,56)
+    place:Froitzheim (51,56)
+    place:Gladbach (76,57)
+    place:Erp (20,59)
+    place:Lechenich (27,59)
+    place:Gymnich (41,59)
+  6 Dec 1918 60
+    place:Cologne (6,62)
+    mapRef:Germany 2L (50,64)
+    activity:movement (26,64)
+    mapRef:Germany 2L (68,65)
+    place:Frechen (33,67)
+    place:Bonner Strasse Barracks (60,69)
+    place:Mulheim Bridge (67,72)
+    unit:4 Dragoon Guards (46,73)
+    unit:4 D Gs (42,73)
+    unit:18 Hussars (38,76)
+    unit:18 Hussars (75,80)
+    place:Bonner Railway Bridge (52,84)
+  7 Dec 1918 86
+Page 240 (type diary) http://wd3.herokuapp.com/pages/AWD000195u  ----------
+  8 Dec 1918 23
+    place:Cologne (8,25)
+  9 Dec 1918 26
+  10 Dec 1918 30
+    unit:Infantry (55,33)
+    unit:Infantry (42,33)
+  11 Dec 1918 34
+  12 Dec 1918 40
+    activity:movement (37,41)
+    place:Bruk (80,41)
+    place:Refrath (7,42)
+    place:Lustheide (49,46)
+  13 Dec 1918 48
+    place:Bensberg (42,49)
+    activity:movement (24,50)
+    place:Bechen (55,50)
+    place:Stumpf (7,50)
+  14 Dec 1918 54
+    mapRef:Germany 2 (47,54)
+    mapRef:Germany 2k (29,54)
+  15 Dec 1918 60
+  16 Dec 1918 64
+    activity:movement (27,67)
+    place:Deutz (7,71)
+    person:Major L W D Wathen (returned_leave) (50,72)
+  17 Dec 1918 74
+  19 Dec 1918 83
+  20 Dec 1918 89
+Page 241 (type diary) http://wd3.herokuapp.com/pages/AWD000195h  ----------
+  Hashtags: #influenza #horsesselctionofbroodmares #courtmartial #christmas 
+  21 Dec 1918 23
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (43,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (33,25)
+    domestic:medical (49,25)
+    place:Cologne (9,25)
+  22 Dec 1918 28
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (45,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (34,30)
+  23 Dec 1918 32
+    domestic:medical (50,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (45,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (34,35)
+  24 Dec 1918 38
+    domestic:inspections (42,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (61,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (45,44)
+  25 Dec 1918 46
+  26 Dec 1918 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (73,54)
+  27 Dec 1918 64
+    person:Private G Stewart (discipline) (85,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (37,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (53,79)
+    domestic:medical (58,79)
+  28 Dec 1918 82
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (18,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (29,88)
+Page 242 (type diary) http://wd3.herokuapp.com/pages/AWD0001954  ----------
+  Hashtags: #demoblisers #influenza 
+  29 Dec 1918 23
+    place:Cologne (10,25)
+    domestic:sport (42,28)
+    person:Second Lieutenant Christie (other) (51,31)
+    person:Lieutenant E E Roberts (joined) (73,31)
+  30 Dec 1918 38
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (48,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (22,40)
+  31 Dec 1918 48
+    domestic:rations (47,50)
+    domestic:medical (46,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (45,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (30,62)
+Page 243 (type cover)
+Page 244 (type diary) http://wd3.herokuapp.com/pages/AWD000193w  ----------
+  Hashtags: #christmasdinners #rations #mange #venerealdiseases #horsescondition 
+  1 Jan 1919 27
+    place:Deutz (7,28)
+  2 Jan 1919 30
+    person:Lieutenant E E Roberts (other) (68,32)
+  3 Jan 1919 38
+    domestic:medical (54,40)
+  4 Jan 1919 42
+  6 Jan 1919 51
+    domestic:rations (38,53)
+  7 Jan 1919 58
+  8 Jan 1919 63
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (55,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (66,65)
+  9 Jan 1919 67
+  10 Jan 1919 71
+    domestic:medical (44,74)
+Page 245 (type diary) http://wd3.herokuapp.com/pages/AWD000196w  ----------
+  Hashtags: #horsesevacuated #lecture #swimmingbaths #courtmartial 
+  13 Jan 1919 24
+    place:Deutz (7,26)
+    unit:4 Dragoon Guards (80,35)
+    person:Major L W D Wathen (discipline) (41,37)
+    person:Captain D F G Duff (discipline) (34,41)
+    person:Lieutenant F Davenall (discipline) (56,41)
+  14 Jan 1919 44
+    domestic:hygiene (66,48)
+    domestic:inspections (48,49)
+  15 Jan 1919 53
+  17 Jan 1919 60
+    domestic:sport (40,61)
+    domestic:inspections (55,65)
+  18 Jan 1919 70
+    person:Viscount Broome (other) (77,72)
+    domestic:medical (35,73)
+    person:Major L W D Wathen (discipline) (65,77)
+    person:Captain G Dent (discipline) (21,81)
+    unit:9 Lancers (22,85)
+Page 246 (type diary) http://wd3.herokuapp.com/pages/AWD0001992  ----------
+  Hashtags: #lecture #horsesinfection #horsesdispatched #horsesdestroyed 
+  19 Jan 1919 24
+    place:Deutz (8,26)
+    person:Major Fox (other) (69,28)
+    domestic:religion (40,28)
+  20 Jan 1919 37
+  21 Jan 1919 44
+    weather:cold (35,44)
+    domestic:inspections (34,48)
+  23 Jan 1919 61
+    domestic:medical (76,61)
+    domestic:inspections (50,68)
+  24 Jan 1919 74
+    domestic:medical (34,77)
+    domestic:hygiene (66,77)
+  25 Jan 1919 82
+    domestic:inspections (33,85)
+Page 247 (type diary) http://wd3.herokuapp.com/pages/AWD000198w  ----------
+  Hashtags: #demobilization #swimmingbaths 
+  26 Jan 1919 26
+    place:Deutz (7,26)
+    weather:cold (50,29)
+  28 Jan 1919 39
+    weather:cold (46,40)
+  29 Jan 1919 48
+    domestic:medical (30,48)
+    domestic:inspections (64,52)
+  30 Jan 1919 63
+    domestic:sport (53,65)
+  31 Jan 1919 71
+Page 248 (type diary) http://wd3.herokuapp.com/pages/AWD000193o  ----------
+  Hashtags: #meritoriousservicemedal 
+  31 Jan 1919 27
+    place:Deutz (8,27)
+    person:Sergeant C Charles (award) (56,44)
+Page 249 (type cover)
+Page 250 (type diary) http://wd3.herokuapp.com/pages/AWD000196p  ----------
+  Hashtags: #horsesdestroyed #horsescondition 
+  1 Feb 1919 26
+    place:Cologne (9,28)
+  2 Feb 1919 38
+    weather:cold (50,40)
+  3 Feb 1919 51
+    domestic:inspections (39,52)
+  4 Feb 1919 58
+    weather:cold (58,64)
+  5 Feb 1919 67
+  6 Feb 1919 74
+    person:Private A Cook (departed_posted) (36,85)
+    person:Private A Cook (departed_posted) (19,85)
+Page 251 (type diary) http://wd3.herokuapp.com/pages/AWD00019bx  ----------
+  Hashtags: #horsesdestroyed #lectureonprisonlifeinDartmoor #lectureonsmallholdings #horsesevacuated 
+  8 Feb 1919 27
+    place:Cologne (10,28)
+  10 Feb 1919 38
+  11 Feb 1919 46
+    domestic:parades (34,53)
+  12 Feb 1919 54
+  14 Feb 1919 62
+  18 Feb 1919 82
+  19 Feb 1919 88
+Page 252 (type diary) http://wd3.herokuapp.com/pages/AWD000194q  ----------
+  Hashtags: #demobilization #horsesdestroyed #horsesevacuated 
+  20 Feb 1919 27
+    place:Horrem (60,27)
+    place:Cologne (10,28)
+  21 Feb 1919 35
+  24 Feb 1919 47
+  25 Feb 1919 54
+  26 Feb 1919 59
+    person:Major L W D Wathen (departed_posted) (57,61)
+  27 Feb 1919 63
+  28 Feb 1919 76
+Page 253 (type blank)
+Page 254 (type diary) http://wd3.herokuapp.com/pages/AWD000195j  ----------
+  Hashtags: #demobilization #horsesevacuated 
+  2 Mar 1919 27
+    place:Cologne (10,27)
+    activity:training (20,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (44,27)
+  3 Mar 1919 31
+    activity:training (20,36)
+  4 Mar 1919 40
+    activity:training (20,43)
+  6 Mar 1919 52
+    activity:training (20,52)
+    activity:training (20,55)
+  7 Mar 1919 56
+  8 Mar 1919 60
+    activity:training (20,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (67,60)
+    activity:training (20,64)
+  9 Mar 1919 68
+    domestic:religion (32,73)
+  10 Mar 1919 76
+    person:Second Lieutenant J G J Christie (other) (53,76)
+  28 Feb 1919 0
+    mapRef:Germany (73,8)
+  10 Mar 1919 76
+    activity:training (20,80)
+    person:Major L W D Wathen (returned_posted) (51,80)
+  11 Mar 1919 84
+    activity:training (20,88)
+Page 255 (type diary) http://wd3.herokuapp.com/pages/AWD000192x  ----------
+  Hashtags: #lecture #smokingconcert #horsestransferred 
+  12 Mar 1919 25
+    place:Cologne (9,28)
+  13 Mar 1919 34
+    activity:training (26,37)
+  14 Mar 1919 39
+  15 Mar 1919 42
+  16 Mar 1919 51
+    activity:training (25,52)
+  17 Mar 1919 55
+    activity:training (25,57)
+  18 Mar 1919 59
+    unit:4 Dragoon Guards (53,61)
+  20 Mar 1919 71
+    domestic:sport (36,78)
+  21 Mar 1919 79
+    activity:training (28,81)
+    domestic:inspections (58,81)
+  22 Mar 1919 84
+    activity:training (27,85)
+Page 256 (type diary) http://wd3.herokuapp.com/pages/AWD000194p  ----------
+  Hashtags: #demobilzation #pay #lecture #demobilizationcancelled 
+  23 Mar 1919 26
+    place:Cologne (8,28)
+  24 Mar 1919 34
+    unit:8 Hussars (66,36)
+  25 Mar 1919 42
+  26 Mar 1919 54
+  27 Mar 1919 67
+    unit:7 Machine Gun Squadron (25,77)
+  28 Mar 1919 79
+Page 257 (type diary) http://wd3.herokuapp.com/pages/AWD000193a  ----------
+  28 Mar 1919 0
+  29 Mar 1919 25
+    place:Cologne (9,28)
+  30 Mar 1919 30
+    unit:3 Machine Gun Squadron (53,31)
+    reference:Routines (26,31)
+    weather:cold (78,35)
+  31 Mar 1919 38
+    domestic:inspections (52,39)
+    weather:cold (69,40)

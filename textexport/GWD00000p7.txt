@@ -1,0 +1,465 @@
+GWD00000p7 wo/95/1269/2
+1 DIVISION: 5 Battalion Royal Sussex Regiment 
+22 pages
+
+Page 584 (type cover)
+Page 585 (type cover)
+Page 586 (type cover)
+Page 587 (type cover)
+Page 588 (type diary) http://wd3.herokuapp.com/pages/AWD0003kwr  ----------
+  16 Feb 1915 21
+    domestic:inspections (36,25)
+    person:General Monck (other) (48,25)
+    time:1030AM (17,25)
+    place:London (9,26)
+  18 Feb 1915 31
+    activity:movement (29,31)
+    time:0215PM (17,31)
+    place:London (6,32)
+    activity:movement (46,32)
+    place:Southampton (56,34)
+    time:0830AM (17,34)
+    activity:movement (35,35)
+  19 Feb 1915 36
+    place:Southampton (8,37)
+    time:0600PM (18,37)
+    activity:movement (37,39)
+    place:Le Havre (7,40)
+    time:0400AM (18,40)
+  20 Feb 1915 41
+    activity:movement (32,41)
+  21 Feb 1915 44
+    time:0700PM (18,45)
+    place:Lillers (76,46)
+    person:Major Ashby (departed_sick) (64,46)
+    place:Chocques (42,47)
+    activity:movement (34,47)
+    person:General Westmacott (other) (77,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (84,47)
+  26 Feb 1915 48
+    time:0900PM (17,48)
+    unit:1 Northants (54,48)
+    unit:2/krr (58,48)
+    unit:1/2 North Lancs (62,48)
+    unit:2 Brigade (25,49)
+  27 Feb 1915 51
+  28 Feb 1915 53
+    domestic:inspections (25,53)
+    time:1130AM (17,54)
+    place:Hinges (58,55)
+    place:Chocques (34,56)
+    place:Hingette (6,57)
+    activity:movement (23,57)
+    time:0245PM (18,57)
+  2 Mar 1915 58
+    place:Avelette (60,60)
+  10 Mar 1915 62
+    activity:movement (24,62)
+    activity:reserve (64,64)
+    activity:movement (24,65)
+    time:0715AM (17,65)
+    domestic:accomodation (47,66)
+    place:Le Carnet Malo (7,66)
+  12 Mar 1915 67
+  13 Mar 1915 71
+    place:Les Facons (7,71)
+    activity:movement (23,71)
+    time:0730PM (18,71)
+    activity:movement (28,74)
+    place:Hingette (7,75)
+  14 Mar 1915 76
+    place:Festubert (75,78)
+  15 Mar 1915 79
+    place:Gorre (7,80)
+    unit:2 Battalion Royal Sussex Regiment (51,80)
+  17 Mar 1915 83
+    unit:2 Division (68,83)
+    person:Private Foster (casualty_wounded) (60,85)
+    person:Stone (casualty_wounded) (66,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (24,87)
+    unit:1 Queens (44,87)
+    activity:working (69,88)
+    unit:Transport (30,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (53,89)
+    person:Private Bishop (casualty_wounded) (23,90)
+    person:Private Mushett (casualty_wounded) (43,90)
+Page 589 (type diary) http://wd3.herokuapp.com/pages/AWD0003kwp  ----------
+  18 Mar 1915 22
+    unit:C & D Coys 5 Battalion Royal Sussex Regiment (49,25)
+    time:0700PM (17,25)
+    place:Festubert (6,25)
+    unit:2 Battalion (40,26)
+  19 Mar 1915 27
+    unit:B Coy 5 Battalion Royal Sussex Regiment (34,27)
+    place:Festubert (57,27)
+    activity:reserve (30,27)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,30)
+    place:Festubert (7,30)
+    person:Private P W J Vince (casualty_kia) (27,31)
+  20 Mar 1915 32
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (72,34)
+    person:Private B Catt (casualty_kia) (71,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (35,37)
+    person:Private Adams (casualty_wounded) (28,37)
+    person:Private Bourne (casualty_wounded) (35,37)
+    person:Private Dunster (casualty_wounded) (42,37)
+  22 Mar 1915 38
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (60,41)
+  23 Mar 1915 44
+    unit:2 Sussex (55,46)
+    place:Rue du Bois (73,47)
+    place:Le Touret (7,47)
+    activity:movement (25,47)
+    place:Le Touret (17,49)
+    place:Neuve Chapelle (28,49)
+  24 Mar 1915 50
+    person:Major Langham (other) (62,54)
+    unit:C & D Coys 5 Battalion Royal Sussex Regiment (26,54)
+  26 Mar 1915 57
+    time:1130AM (17,61)
+  27 Mar 1915 63
+    unit:A B & C Coys 5 Battalion Royal Sussex Regiment (47,65)
+    unit:2 Battalion Royal Sussex Regiment (31,66)
+    unit:D Coy 5 Battalion Royal Sussex Regiment (69,66)
+    unit:2 Sussex (29,66)
+    place:Richebourg l'Avoue (8,66)
+    activity:line (55,66)
+  28 Mar 1915 70
+    person:Private Taylor (casualty_kia) (73,73)
+    person:Private Hayward (casualty_kia) (80,73)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,74)
+    person:Private Swain (casualty_kia) (33,74)
+    person:Private Garner (casualty_kia) (40,74)
+  29 Mar 1915 76
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (47,76)
+    unit:D Coy 5 Battalion Royal Sussex Regiment (31,82)
+    activity:repair (26,82)
+  30 Mar 1915 84
+    unit:B Coy 5 Battalion Royal Sussex Regiment (57,84)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,87)
+    person:Corporal Carnaghan (casualty_kia) (26,88)
+    person:Private Tester (casualty_kia) (37,88)
+    unit:1 Coldstream (45,90)
+    unit:1 Coldstream Guards (53,91)
+    place:Hingette (79,91)
+    activity:movement (64,91)
+Page 590 (type diary) http://wd3.herokuapp.com/pages/AWD0003kwq  ----------
+  30 Mar 1915 0
+  31 Mar 1915 22
+    activity:resting (56,26)
+    place:Hingette (7,27)
+  30 Mar 1915 0
+Page 591 (type cover)
+Page 592 (type diary) http://wd3.herokuapp.com/pages/AWD0003kx9  ----------
+  1 Apr 1915 22
+    activity:resting (22,26)
+    place:Hingette (7,27)
+  7 Apr 1915 28
+    unit:A Coy 5 Battalion Royal Sussex Regiment (52,30)
+    activity:line (27,31)
+    unit:B C & D Coys 5 Battalion Royal Sussex Regiment (24,33)
+    place:Neuve Chapelle (7,33)
+  8 Apr 1915 35
+    unit:C Coy 5 Battalion Royal Sussex Regiment (30,36)
+  11 Apr 1915 39
+    person:Captain T B Hawthorn (casualty_wounded) (26,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (42,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (60,39)
+    unit:4 Seaforths (36,42)
+  12 Apr 1915 43
+    unit:D Coy 5 Battalion Royal Sussex Regiment (28,43)
+  13 Apr 1915 48
+    unit:B & C Coys 5 Battalion Royal Sussex Regiment (32,48)
+    unit:A & D Coys 5 Battalion Royal Sussex Regiment (71,48)
+    place:Richebourg Saint Vaast (8,48)
+  24 Apr 1915 52
+    unit:Btn hq, b & c coys 5 battalion royal sussex Regiment (42,52)
+    place:Gonnehem (47,52)
+    place:Gonnehem (7,52)
+  25 Apr 1915 54
+    place:Long Cornet (5,55)
+    activity:working (48,57)
+  27 Apr 1915 59
+    unit:4 Seaforths (24,61)
+    activity:reserve (38,63)
+  28 Apr 1915 64
+    unit:C Coy 5 Battalion Royal Sussex Regiment (78,69)
+    unit:A Coy 5 Battalion Royal Sussex Regiment (43,70)
+    unit:B & D Coys 5 Battalion Royal Sussex Regiment (61,70)
+    activity:line (53,70)
+  29 Apr 1915 71
+  30 Apr 1915 74
+    activity:fire (63,74)
+Page 593 (type cover)
+Page 594 (type diary) http://wd3.herokuapp.com/pages/AWD0003kwo  ----------
+  1 May 1915 21
+    activity:fire (30,25)
+    time:0415AM (17,25)
+    unit:Artillery (25,28)
+    person:Company Sergeant Major Bull (casualty_kia) (34,28)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,28)
+  2 May 1915 30
+    unit:Scots Guards (29,33)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (64,33)
+    person:Second Lieutenant W E Price (casualty_kia) (52,34)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (72,34)
+  3 May 1915 36
+    activity:movement (24,36)
+    activity:clearing (60,39)
+    place:Gonnehem (7,39)
+    time:0430AM (17,39)
+    person:Second Lieutenant W E Price (other) (58,40)
+  6 May 1915 41
+    time:0600PM (17,44)
+    activity:movement (26,47)
+    mapRef:A (75,47)
+  8 May 1915 48
+    place:Mesplaux (7,48)
+  9 May 1915 53
+    activity:movement (27,53)
+    time:0400AM (18,57)
+    unit:Artillery (29,57)
+    mapRef:Map A Illies-Volaines (83,58)
+    unit:2 Royal Sussex (82,61)
+    mapRef:Ref: Illies-Volaines-Festubert (49,62)
+    unit:2 Royal Sussex Regiment (26,63)
+    unit:1 Northamptons (49,65)
+    unit:5 Battalion Royal Sussex Regiment (36,66)
+    unit:2 Kings Royal Rifles (55,67)
+    mapRef:A Illies Voolaines festubert (91,69)
+    unit:9 Kings Liverpool (28,69)
+    unit:2 Kings Royal Rifles (52,76)
+    unit:A Coy 5 Battalion Royal Sussex Regiment (72,90)
+    unit:C Coy 5 Battalion Royal Sussex Regiment (30,92)
+    unit:B Coy 5 Battalion Royal Sussex Regiment (65,92)
+    unit:A Coy 5 Battalion Royal Sussex Regiment (82,94)
+Page 595 (type diary) http://wd3.herokuapp.com/pages/AWD0003kwu  ----------
+  9 May 1915 21
+    unit:Northamptons (74,25)
+    unit:Krr (84,25)
+    unit:Artillery (27,31)
+    unit:A & C Coys 5 Battalion Royal Sussex Regiment (46,31)
+    unit:2 Royal Sussex (31,34)
+    unit:2 Sussex (41,34)
+    person:Second Lieutenant Haigh (casualty_wounded) (80,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (72,37)
+    activity:fire (33,37)
+    unit:C Coy 5 Battalion Royal Sussex Regiment (66,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (22,40)
+    unit:C Coy 5 Battalion Royal Sussex Regiment (76,40)
+    unit:A Coy 5 Battalion Royal Sussex Regiment (33,44)
+    unit:B Coy 5 Battalion Royal Sussex Regiment (68,46)
+    unit:2 Sussex (34,47)
+    unit:Krr (45,50)
+    unit:K.R.R. (43,50)
+    unit:A & B Coys 5 Battalion Royal Sussex Regiment (52,54)
+    person:Lieutenant Napper (casualty_wounded) (41,68)
+    unit:C Coy 5 Battalion Royal Sussex Regiment (26,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (54,69)
+    person:Sergeant Roberts (combat) (76,71)
+    activity:withdraw (31,71)
+    person:Second Lieutenant R Fazan (casualty_kia) (68,80)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,80)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (75,80)
+    person:Major E H Langham (casualty_wounded) (27,82)
+    person:Second Lieutenant Dodd (casualty_wounded) (32,82)
+    person:Second Lieutenant Hobart (casualty_wounded) (44,82)
+    person:Second Lieutenant Perry (casualty_wounded) (39,83)
+    person:Captain Grant (casualty_mia) (57,83)
+    person:Second Lieutenant Powell (casualty_mia) (71,83)
+    person:Second Lieutenant Dennison (casualty_mia) (80,83)
+    casualties:died: 0; killed: 0; missing: 4; prisoner: 0; sick: 0; wounded: 0 (81,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,85)
+    unit:1 Brigade (42,89)
+    unit:Black Watch (32,91)
+    unit:2 5 Battalion Royal Sussex Regiment (46,92)
+Page 596 (type diary) http://wd3.herokuapp.com/pages/AWD0003kx0  ----------
+  9 May 1915 0
+    place:Le Touret (33,27)
+    activity:movement (22,28)
+    activity:movement (47,28)
+  10 May 1915 33
+  11 May 1915 36
+    place:Avelette (7,36)
+    time:0800PM (17,36)
+    activity:movement (40,37)
+  12 May 1915 40
+    place:Gonnehem (7,40)
+    place:Bethune (8,43)
+    time:0500PM (17,43)
+    unit:3 Brigade (56,46)
+  20 May 1915 48
+    place:Cuinchy (44,48)
+    unit:French (24,48)
+  24 May 1915 52
+    place:Cambrin (6,52)
+    unit:A Coy 5 Battalion Royal Sussex Regiment (51,53)
+    unit:B Coy 5 Battalion Royal Sussex Regiment (62,53)
+    place:Maison Rouge (72,55)
+    unit:Hq (67,55)
+    activity:line (51,56)
+    unit:2 Battalion Royal Sussex Regiment (33,57)
+    unit:2 Royal Sussex (31,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (79,58)
+  25 May 1915 59
+  27 May 1915 62
+    person:Captain Waugh (joined) (39,63)
+  28 May 1915 65
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (36,65)
+  31 May 1915 68
+    unit:2 Battalion Royal Sussex Regiment (52,68)
+    place:Cuinchy (37,71)
+    strength:officer: 0; nco: 0; other: 566 (71,77)
+Page 597 (type other) http://wd3.herokuapp.com/pages/AWD0003kww  ----------
+Page 598 (type cover)
+Page 599 (type diary) http://wd3.herokuapp.com/pages/AWD0003kwx  ----------
+  1 Jun 1915 21
+    unit:1 Northamptonshire Regiment (29,24)
+    place:Pall Mall (42,24)
+    unit:1 Northants (26,25)
+    unit:B & C Coys 5 Battalion Royal Sussex Regiment (64,25)
+    place:Canal (56,25)
+    unit:D & C Coys 5 Battalion Royal Sussex Regiment (81,26)
+    activity:enemy_activity (56,26)
+    place:Cuinchy (7,27)
+  4 Jun 1915 29
+    place:Givenchy (23,29)
+    activity:movement (37,32)
+    activity:resting (60,32)
+    domestic:accomodation (49,32)
+  8 Jun 1915 33
+    time:1100PM (16,33)
+    activity:movement (42,33)
+    domestic:inspections (23,37)
+    activity:other (21,42)
+  19 Jun 1915 47
+    place:Beuvry (53,47)
+    place:Le Quesnoy (9,47)
+    activity:movement (25,48)
+    domestic:accomodation (30,48)
+    place:Le Quesnoy Wood (38,48)
+    person:Lieutenant Thomas (joined) (68,50)
+    person:Second Lieutenant Bingen (joined) (80,50)
+    place:Verquin (9,50)
+  24 Jun 1915 51
+    activity:movement (21,51)
+    domestic:accomodation (29,51)
+    place:Allouagne (7,54)
+  26 Jun 1915 55
+    activity:movement (23,55)
+    place:Allouagne (9,57)
+    person:Lieutenant Sansom (other) (22,58)
+  27 Jun 1915 59
+    activity:movement (23,62)
+    activity:working (38,62)
+    activity:repair (53,62)
+    domestic:accomodation (28,63)
+    place:Verquigneul (9,63)
+Page 600 (type cover)
+Page 601 (type diary) http://wd3.herokuapp.com/pages/AWD0003kx2  ----------
+  7 Jul 1915 25
+    place:Verquigneul (8,25)
+    activity:movement (32,29)
+    place:Cambrin (38,29)
+    unit:9 Kings Liverpool Regiment (53,29)
+    place:Cambrin (8,30)
+    activity:line (62,31)
+  13 Jul 1915 32
+    unit:J Company, 2 Sussex (27,32)
+    activity:movement (45,35)
+    domestic:accomodation (53,35)
+  19 Jul 1915 36
+    place:Verquin (7,36)
+    activity:movement (24,40)
+    place:Vermelles (7,40)
+    unit:London Scottish (56,40)
+    unit:A & B Coys 5 Battalion Royal Sussex Regiment (73,41)
+    unit:D Coy 5 Battalion Royal Sussex Regiment (33,42)
+    unit:C Coy 5 Battalion Royal Sussex Regiment (47,42)
+  21 Jul 1915 43
+  22 Jul 1915 46
+    activity:movement (29,46)
+    place:Curly Crescent (42,47)
+    unit:D Coy 5 Battalion Royal Sussex Regiment (25,47)
+  25 Jul 1915 51
+    unit:D Coy 5 Battalion Royal Sussex Regiment (31,51)
+    unit:A Coy 5 Battalion Royal Sussex Regiment (49,51)
+    activity:movement (21,52)
+    activity:movement (27,55)
+    activity:working (74,55)
+    domestic:accomodation (33,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,55)
+    place:La Bourse (6,57)
+  27 Jul 1915 58
+    place:Chapel Alley (44,58)
+  31 Jul 1915 61
+    place:Garden City (7,64)
+    activity:movement (25,65)
+    place:Garden City (7,67)
+Page 602 (type diary) http://wd3.herokuapp.com/pages/AWD0003kx5  ----------
+  1 Aug 1915 22
+    place:Garden City (7,26)
+    activity:construction (30,26)
+  6 Aug 1915 28
+    activity:movement (24,32)
+    activity:reserve (34,32)
+    place:Sailly la bourse (8,33)
+    place:Vermelles (67,35)
+    place:Mazingarbe (77,35)
+  8 Aug 1915 36
+    place:Cambrin (8,39)
+    activity:movement (23,39)
+  12 Aug 1915 40
+    unit:Lancs (30,40)
+    activity:line (39,40)
+    unit:9 Kings Liverpools (28,43)
+    place:Haisnes (59,43)
+    place:Annequin (8,43)
+    activity:attack (54,44)
+    place:Cuinchy Triangle (63,45)
+    activity:fire (25,48)
+    activity:movement (40,56)
+  17 Aug 1915 57
+    place:Annequin (8,60)
+    place:Cambrin (25,62)
+    activity:working (27,62)
+  18 Aug 1915 63
+    unit:3 Army (65,63)
+    unit:48 Division (78,63)
+    place:Annequin (33,63)
+  19 Aug 1915 66
+    place:Fouquereuil (7,66)
+    activity:movement (38,66)
+    unit:4 Royal Welsh Fusiliers (34,67)
+    place:Fouquereuil (9,68)
+    unit:2 Brigade (46,70)
+    domestic:inspections (24,70)
+  20 Aug 1915 72
+    time:0315PM (30,75)
+    time:0900PM (46,75)
+    place:Doullens (8,75)
+    activity:movement (27,75)
+    place:Sarton (8,78)
+    unit:48 Division (56,79)
+    person:Captain A H Wood (other) (75,80)
+    unit:Hq & a & b coys 5 battalion royal sussex Regiment (46,80)
+    activity:movement (24,80)
+    unit:C & D Coys 5 Battalion Royal Sussex Regiment (70,81)
+    place:Louvencourt (8,82)
+  22 Aug 1915 83
+    activity:working (25,85)
+  25 Aug 1915 86
+    place:Louvencourt (8,86)
+    place:Sailly Au Bois (44,90)
+    place:Louvencourt (9,90)
+Page 603 (type diary) http://wd3.herokuapp.com/pages/AWD0003kxg  ----------
+  29 Aug 1915 21
+    place:Sailly Au Bois (8,22)
+    activity:movement (34,26)
+    activity:working (50,26)
+    unit:Hq, a & b coys 5 battalion royal sussex Regiment (21,27)
+    place:Sailly Au Bois (7,27)
+Page 604 (type cover)
+Page 605 (type cover)

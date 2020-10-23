@@ -1,0 +1,410 @@
+GWD000008e wo/95/1104/2
+1 CAVALRY DIVISION: Cavalry Pioneer Battalion 
+21 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type cover)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD000191q  ----------
+  2 Jan 1917 20
+    time:0100PM (77,22)
+    time:0100PM (17,25)
+    activity:movement (30,25)
+    place:Montreuil (6,26)
+    place:Ligny Saint Flochel (42,28)
+    place:Bailleul-Aux-Cornailles (81,33)
+    time:0800PM (22,34)
+  3 Jan 1917 42
+    domestic:accomodation (25,45)
+    activity:other (43,46)
+    place:Bailleul-Aux-Cornailles (6,46)
+  4 Jan 1917 48
+    unit:5 Dragoon Guards (81,51)
+    activity:construction (22,52)
+    unit:5 Dragoon Guards (74,54)
+    unit:Bays (57,55)
+    place:Roellecourt (33,55)
+    place:Tinquette (34,60)
+  5 Jan 1917 72
+    unit:11 Hussars (71,74)
+    unit:Xi Hussars coy (72,75)
+    place:Roellecourt (23,84)
+  6 Jan 1917 88
+    place:Saint Michel (55,90)
+    domestic:hygiene (39,91)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD000191s  ----------
+  7 Jan 1917 20
+    activity:construction (23,25)
+    place:Ligny Saint Flochel (78,25)
+    place:Roellecourt (39,29)
+  8 Jan 1917 30
+    activity:resting (24,35)
+  9 Jan 1917 37
+    activity:construction (23,43)
+    domestic:inspections (59,43)
+  11 Jan 1917 50
+    activity:construction (23,54)
+    weather:cold (44,55)
+  18 Jan 1917 62
+    weather:cold (56,65)
+  31 Jan 1917 86
+    domestic:hygiene (25,73)
+    unit:11 Hussars (42,77)
+    unit:Xi Hussars coy (43,78)
+    person:Lieutenant Colonel R J P Anderson (commander) (45,81)
+    unit:5 Dragoon Guards (22,83)
+    person:Lieutenant Colonel Anderson (author) (68,93)
+Page 6 (type cover)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD000191m  ----------
+  1 Feb 1917 20
+    place:Bailleul-Aux-Cornailles (6,24)
+    activity:construction (65,29)
+  28 Feb 1917 35
+    person:Captain N R Allfrey (34,42)
+    person:Captain N R Allfrey (17,42)
+    person:Lieutenant Colonel R J P Anderson (departed_posted) (31,54)
+Page 8 (type cover)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD000196d  ----------
+  5 Apr 1917 26
+    domestic:accomodation (28,29)
+    place:Samer (7,30)
+    place:Samer (30,31)
+  6 Apr 1917 32
+    place:Samer (7,36)
+    place:Barlin (61,36)
+    activity:movement (40,36)
+    time:1130AM (50,36)
+    unit:Canadian Corps (29,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,39)
+    unit:18 Hussars (54,39)
+  7 Apr 1917 40
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (46,40)
+    unit:15 Hussars (36,40)
+    domestic:accomodation (27,43)
+    place:Barlin (52,44)
+    activity:movement (67,44)
+    time:0230AM (57,44)
+    place:Bois de la Haie (8,45)
+    place:Bois de la Haie (32,46)
+    unit:Canadian Corps (74,46)
+    unit:4 Division, Canadian Corps (60,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (55,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (71,52)
+  8 Apr 1917 55
+    domestic:accomodation (26,58)
+    place:Bois de la Haie (8,59)
+    domestic:inspections (41,60)
+  9 Apr 1917 61
+    domestic:accomodation (27,64)
+    unit:9 Brigade (Dismounted) (30,64)
+    place:Carency (44,65)
+    place:Bois de la Haie (8,66)
+    person:Captain Allfrey (other) (63,66)
+    person:Second Lieutenant G F Turner (other) (34,68)
+    person:Second Lieutenant A F G Renton (other) (59,68)
+    person:Lieutenant L McNeill (other) (62,70)
+    person:Second Lieutenant G C Bishop (other) (39,71)
+    person:Second Lieutenant Parker (other) (27,72)
+    time:0700PM (71,72)
+    place:Vimy Ridge (39,74)
+    activity:repair (55,74)
+  10 Apr 1917 76
+    place:Bois de la Haie (7,80)
+    domestic:accomodation (26,80)
+    time:0700AM (54,80)
+    place:Vimy Ridge (29,82)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 12 (49,82)
+    place:Bois de la Haie (8,83)
+    person:Second Lieutenant G C Bishop (casualty_wounded) (42,84)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 12 (81,84)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 12 (66,84)
+    person:Captain A Wright (other) (39,86)
+    person:Second Lieutenant A V Gander Dower (other) (60,86)
+    person:Second Lieutenant H Brocklebank (other) (36,88)
+    person:Second Lieutenant G H Barlow (other) (66,88)
+    domestic:parades (59,92)
+    time:0200PM (65,92)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD0001921  ----------
+  Hashtags: #rations #transport 
+  10 Apr 1917 26
+    place:Chateau de la Haie (32,31)
+    place:Frevent (63,31)
+    place:Bois de la Haie (8,31)
+  11 Apr 1917 35
+    domestic:accomodation (25,38)
+    person:Second Lieutenant E C W Severne (other) (46,38)
+    person:Second Lieutenant E W Childe Pemberton (other) (66,38)
+    time:0700PM (71,40)
+    place:Vimy Ridge (55,41)
+    place:Bois de la Haie (7,41)
+    activity:repair (33,42)
+  12 Apr 1917 45
+    domestic:accomodation (26,48)
+    person:Captain Allfrey (other) (43,48)
+    person:Second Lieutenant G F Turner (other) (66,48)
+    place:Bois de la Haie (8,49)
+    person:Second Lieutenant V G Toler Aylward (other) (36,50)
+    activity:resupplying (65,51)
+    activity:construction (45,52)
+    time:0700AM (31,52)
+    person:Second Lieutenant R E Beever (other) (66,53)
+    person:Second Lieutenant H J Walker (other) (42,54)
+    unit:124 Canadian Infantry (72,55)
+    time:0600PM (54,56)
+    place:Vimy Ridge (72,57)
+    activity:resupplying (57,58)
+    unit:Canadian Infantry (34,58)
+  13 Apr 1917 61
+    time:0700AM (70,63)
+    domestic:accomodation (26,64)
+    place:Bois de la Haie (8,66)
+    time:1000AM (46,67)
+    activity:resupplying (67,69)
+    unit:4 Canadian Division (46,70)
+    unit:4 Canadian Division (37,70)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 11 (80,71)
+    activity:clearing (31,73)
+    person:Second Lieutenant H J Walker (casualty_wounded) (54,74)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 11 (50,75)
+    person:Second Lieutenant E W Childe Pemberton (casualty_wounded) (33,76)
+    person:Lieutenant L McNeill (other) (66,77)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 11 (34,77)
+    person:Major C J Thackwell (other) (38,78)
+    person:Second Lieutenant G S L Bourke (other) (45,79)
+    person:Second Lieutenant A F G Renton (other) (64,79)
+    activity:construction (68,81)
+    time:0530PM (56,81)
+    place:Vimy Ridge (46,84)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD000191x  ----------
+  14 Apr 1917 27
+    time:0630AM (48,31)
+    place:Bois de la Haie (7,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (55,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (77,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (44,32)
+    unit:11 Hussars (59,32)
+    place:Vimy Ridge (26,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (66,33)
+    person:Second Lieutenant Turner (other) (39,34)
+    person:Second Lieutenant Beevor (other) (67,34)
+    activity:construction (51,36)
+    time:0700AM (58,36)
+    person:Major Cj Thackwell (other) (47,38)
+    person:Captain Allfrey (other) (31,40)
+    person:Second Lieutenant Renton (other) (51,40)
+    activity:construction (41,43)
+    person:Second Lieutenant Ac Parker (other) (34,43)
+    time:1000PM (72,43)
+    place:Souchez (52,44)
+    place:Vimy Ridge (61,44)
+  15 Apr 1917 46
+    time:0500AM (58,48)
+    place:Bois de la Haie (7,49)
+    activity:movement (46,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (34,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (23,51)
+    time:0200PM (41,52)
+    place:Aubigny (67,54)
+  16 Apr 1917 57
+    time:0600PM (47,57)
+    place:Aubigny (58,60)
+    time:0300PM (64,60)
+    time:0630PM (74,60)
+    place:Frevent (77,62)
+    place:Frevent Capelle (7,62)
+    place:Saint Pol (37,63)
+    time:1200AM (43,65)
+  17 Apr 1917 66
+    place:Frevent (7,69)
+    activity:other (50,72)
+  18 Apr 1917 73
+    weather:rain (49,77)
+    place:Frevent (8,77)
+    activity:other (33,78)
+  19 Apr 1917 80
+    place:Frevent (7,82)
+    activity:movement (36,85)
+    time:0200PM (51,85)
+  20 Apr 1917 86
+    activity:movement (56,86)
+    place:Frevent (7,88)
+    person:Second Lieutenant A C Parker (other) (69,91)
+    time:0200PM (60,91)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD0001966  ----------
+  20 Apr 1917 27
+    place:Frevent (9,29)
+    place:Frevent Capelle (7,30)
+    unit:Royal Engineers (30,37)
+    person:Major C J Thackwell (commander) (53,45)
+Page 13 (type cover)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD0001922  ----------
+  Hashtags: #transport #reinforcements 
+  12 May 1917 19
+    activity:movement (62,22)
+    place:Hesdin (40,22)
+    activity:movement (28,24)
+    place:Hesdin (7,24)
+    domestic:accomodation (80,25)
+    place:Ecoivre (23,26)
+    time:0300PM (46,26)
+    unit:Xiii corps (25,26)
+  13 May 1917 29
+    strength:officer: 25; nco: 0; other: 789 (32,29)
+    place:Roclincourt (62,32)
+    activity:movement (31,33)
+    place:Thelus (73,33)
+    place:Roclincourt (8,33)
+    time:0745AM (39,33)
+    unit:1 Cavalry Division (69,34)
+    place:Roclincourt (7,36)
+    unit:188 Infantry Brigade (38,36)
+    unit:Brigadier 188 Infantry Rde (48,36)
+  14 May 1917 40
+    unit:0.06 Pioneer Battalion (26,40)
+    activity:training (79,44)
+    unit:Royal Engineers (27,44)
+    unit:Royal Engineers (48,48)
+    activity:repair (54,51)
+    time:0830PM (24,51)
+    time:0400AM (70,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (34,55)
+  15 May 1917 58
+    unit:Xiii corps (59,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (46,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (66,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,65)
+  16 May 1917 69
+    activity:repair (49,72)
+    time:1100AM (64,72)
+    time:0600AM (57,73)
+    domestic:accomodation (37,76)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD000191u  ----------
+  Hashtags: #reinforcements 
+  17 May 1917 19
+    person:Brigadier General Beale-Browne (commander) (58,22)
+    unit:2 Cavalry Brigade (23,26)
+    unit:9 Cavalry Brigade (31,27)
+  18 May 1917 30
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (61,35)
+    activity:repair (41,35)
+  19 May 1917 42
+    time:0600AM (39,45)
+    time:1200PM (45,45)
+    domestic:hygiene (61,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (36,49)
+  20 May 1917 53
+    activity:fire (78,55)
+    domestic:inspections (61,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (38,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (47,60)
+    person:Lance Corporal Farr (casualty_wounded) (59,60)
+    person:Private Reeson (casualty_wounded) (82,60)
+    person:Private Bowren (casualty_wounded) (44,64)
+    time:1200PM (62,67)
+    time:0600PM (68,68)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD000191l  ----------
+  Hashtags: #horsesevacuated 
+  21 May 1917 19
+  22 May 1917 33
+    activity:fire (62,36)
+  23 May 1917 43
+    person:Second Lieutenant Rogers (departed_posted) (54,46)
+  24 May 1917 55
+    activity:repair (49,58)
+    time:0400AM (64,58)
+    time:0900AM (69,58)
+    time:0200AM (38,59)
+  25 May 1917 68
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD000191o  ----------
+  Hashtags: #horses 
+  26 May 1917 19
+    domestic:parades (23,24)
+    person:Second Lieutenant Boddington (joined) (42,24)
+    person:Second Lieutenant Collyer (joined) (23,27)
+    unit:1 Machine Gun Squadron (48,37)
+    domestic:parades (23,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (49,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (62,42)
+  28 May 1917 44
+    domestic:parades (22,47)
+    person:Private Crummie (casualty_wounded) (68,51)
+  29 May 1917 52
+    domestic:hygiene (37,56)
+    domestic:parades (22,57)
+  30 May 1917 61
+    domestic:parades (22,65)
+    activity:resting (40,66)
+  31 May 1917 70
+    domestic:parades (21,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (45,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,77)
+    strength:officer: 28; nco: 0; other: 776 (45,82)
+Page 18 (type cover)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD000191y  ----------
+  Hashtags: #problem #misfile 
+  19 Oct 1917 22
+    place:Desvres (51,28)
+    place:Samer (50,31)
+    place:Frencq (47,35)
+    place:De Whippe Cataret (38,38)
+    time:1200AM (52,38)
+  20 Oct 1917 39
+    place:Henley Camp (75,39)
+    activity:movement (44,44)
+    place:Cheapside Camp (56,45)
+    time:1000AM (34,45)
+    gridRef:B_18_A_2_6 (67,46)
+    unit:183 Tunnelling Coy. (57,49)
+    unit:183 Tunnelling Coy Royal Engineers (54,49)
+    place:Langemarck (35,52)
+  21 Oct 1917 53
+    person:Captain Wiley (other) (40,58)
+    person:Major Forsythe (other) (66,59)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 11 (23,74)
+  22 Oct 1917 75
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 11 (50,75)
+    domestic:parades (64,81)
+    person:Captain G Proby (other) (19,83)
+    activity:construction (58,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (34,90)
+    person:Lieutenant A B Smith (casualty_wounded) (72,92)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD000191r  ----------
+  23 Oct 1917 23
+    time:0930AM (29,34)
+    time:1030AM (65,34)
+    time:0430AM (23,35)
+    time:0600AM (60,35)
+    time:0330PM (24,38)
+    place:Steenbeck (56,41)
+    gridRef:U_29_A_9_6 (61,47)
+    place:Langemarck (44,52)
+    gridRef:U_23_B_5_3 (56,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 2 (32,57)
+  24 Oct 1917 58
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 5 (48,65)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 4; wounded: 5 (26,66)
+  25 Oct 1917 68
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 4; wounded: 3 (36,76)
+  26 Oct 1917 78
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (57,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 1 (33,86)
+  27 Oct 1917 87
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD000191p  ----------
+  Hashtags: #mules #horses 
+  27 Oct 1917 0
+    activity:construction (24,27)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 5 (38,32)
+    casualties:died: 0; killed: 2; missing: 2; prisoner: 0; sick: 0; wounded: 5 (26,33)
+  29 Oct 1917 36
+    activity:construction (25,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 5 (29,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (40,52)
+  30 Oct 1917 55
+    activity:construction (24,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 10 (32,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 10 (40,62)
+  31 Oct 1917 65
+    activity:construction (24,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (39,77)

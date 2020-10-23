@@ -1,0 +1,481 @@
+GWD00000pa wo/95/1282/4
+1 DIVISION: 53 Battalion South Wales Borderers 
+11 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD0003kyo  ----------
+  22 Mar 1919 22
+    time:0100PM (19,28)
+  23 Mar 1919 29
+    place:Dunkirk (9,29)
+    place:Merris (61,32)
+    activity:movement (30,33)
+    place:Bergues (49,33)
+    place:Esquebec (54,33)
+    place:Bailleul (68,33)
+    time:1200PM (19,33)
+    place:Lille (33,34)
+    place:Baisieux (39,34)
+    place:Charleroi (43,34)
+    place:Namur (51,34)
+    place:Liege (57,34)
+    place:Duren (80,34)
+    place:Perenchies (25,35)
+    place:Euskirchen (25,36)
+    place:Munstereifel (36,36)
+  25 Mar 1919 37
+    weather:cold (36,38)
+    activity:movement (38,41)
+    place:Munstereifel (8,41)
+    time:0820AM (19,41)
+  27 Mar 1919 44
+    weather:cold (62,44)
+    unit:3 Infantry Brigade (34,45)
+    place:Iversheim (53,47)
+    person:Major H M Long (62,47)
+    activity:other (24,48)
+    place:Munstereifel (8,48)
+    unit:A & D Coys 53 Battalion South Wales Borderers (39,48)
+    unit:1 Battalion South Wales Borderers (59,49)
+    unit:2 Battalion South Wales Borderers (32,51)
+    activity:other (24,53)
+  28 Mar 1919 58
+    unit:1 Battalion Gloucestershire Regiment (61,58)
+    activity:other (24,62)
+    place:Munstereifel (8,62)
+    domestic:inspections (57,64)
+    weather:cold (59,65)
+    unit:3 Infantry Brigade (41,65)
+  29 Mar 1919 66
+    person:Captain P G Simpson (departed_posted) (29,67)
+    place:Munstereifel (8,70)
+    person:Second Lieutenant F E Harlow (departed_training) (30,75)
+    person:Captain C K Carroll (joined) (62,75)
+  30 Mar 1919 78
+    weather:cold (38,78)
+    weather:rain (42,78)
+  31 Mar 1919 82
+    place:Munstereifel (8,82)
+    domestic:religion (26,83)
+    unit:3 Infantry Brigade (31,86)
+    time:1000AM (19,86)
+    domestic:inspections (36,87)
+    place:Munstereifel (54,87)
+    place:Iversheim (65,87)
+    place:Munstereifel (8,87)
+    time:0230PM (18,91)
+    weather:fine (63,94)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0003kyl  ----------
+  1 Apr 1919 23
+    place:Munstereifel (8,27)
+    time:1100AM (18,27)
+    domestic:inspections (25,28)
+    domestic:inspections (48,28)
+    place:Munstereifel (72,28)
+    time:0200PM (80,29)
+    time:1200PM (19,30)
+  2 Apr 1919 31
+    domestic:other (31,31)
+    activity:training (25,34)
+    time:0945AM (19,34)
+    time:0230PM (77,34)
+  3 Apr 1919 35
+    place:Arloff (61,35)
+    person:Major Dugmore (other) (25,36)
+    time:0900AM (19,38)
+    activity:other (24,39)
+    place:Euskerchen (38,43)
+  4 Apr 1919 44
+    time:1230PM (46,45)
+    time:1130AM (19,46)
+    activity:resupplying (60,48)
+    time:0600PM (33,48)
+  5 Apr 1919 49
+    activity:other (28,49)
+    domestic:sport (25,53)
+    domestic:inspections (71,53)
+    unit:53 S.W.B. (50,53)
+    time:0230PM (37,54)
+  6 Apr 1919 55
+    domestic:religion (24,58)
+    domestic:parades (29,58)
+  7 Apr 1919 59
+    person:Major H M Long (commander) (42,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,62)
+    domestic:sport (52,63)
+    unit:53 S.W.B. (70,63)
+    unit:1x corps hq (80,64)
+  8 Apr 1919 65
+  9 Apr 1919 67
+    activity:other (23,67)
+  10 Apr 1919 69
+    activity:training (29,70)
+  11 Apr 1919 73
+    domestic:other (25,73)
+    domestic:inspections (37,75)
+    person:Major Long (other) (26,76)
+    time:1100AM (35,77)
+  12 Apr 1919 79
+    unit:51 S.W.B. (73,80)
+    unit:53 S.W.B. (79,80)
+  13 Apr 1919 82
+    domestic:sport (61,82)
+    person:Captain Midall (joined) (36,82)
+    unit:B & C Coys 53 Battalion South Wales Borderer (45,82)
+    unit:51 Battalion South Wales Borderer (70,83)
+  14 Apr 1919 84
+    domestic:religion (23,85)
+    domestic:parades (29,85)
+    person:Lieutenant L A Howe (resigned) (42,85)
+    time:1000AM (52,87)
+    domestic:uniform (61,88)
+    activity:training (58,89)
+  15 Apr 1919 90
+    person:Second Lieutenant A C Bingham (resigned) (38,93)
+    person:Second Lieutenant R O Hughes (resigned) (51,93)
+    person:Lieutenant J F Rees (resigned) (26,94)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD0003kye  ----------
+  16 Apr 1919 26
+    weather:rain (23,28)
+    place:Munstereifel (7,28)
+    person:Major Long (other) (46,28)
+  17 Apr 1919 29
+    activity:training (32,29)
+    weather:rain (54,32)
+    time:1200PM (57,32)
+    time:0500PM (69,32)
+  18 Apr 1919 33
+    unit:D Coy 53 Battalion South Wales Borderers (43,33)
+  19 Apr 1919 35
+    domestic:religion (32,35)
+  20 Apr 1919 37
+    place:Bornheim (40,38)
+  21 Apr 1919 39
+    weather:fine (36,40)
+  22 Apr 1919 41
+  23 Apr 1919 45
+    domestic:inspections (27,45)
+    time:0930AM (47,47)
+    time:0230PM (71,47)
+    activity:training (24,48)
+    time:1250PM (57,48)
+  24 Apr 1919 49
+    unit:6 Bn. S.W.B. (43,50)
+  25 Apr 1919 53
+    person:Second Lieutenant J M Lloyd (joined) (24,53)
+    domestic:sport (60,55)
+    place:Bonn (66,55)
+  26 Apr 1919 56
+    person:Second Lieutenant Wynn (joined) (26,57)
+    domestic:inspections (29,59)
+    domestic:sport (72,61)
+    unit:3 Infantry Brigade (38,61)
+  27 Apr 1919 62
+    unit:52 Battalion South Wales Borderers (30,63)
+  28 Apr 1919 64
+    time:0230PM (76,64)
+  29 Apr 1919 66
+    activity:other (24,66)
+    person:Lieutenant H T Dale (departed_posted) (23,69)
+  30 Apr 1919 70
+    domestic:inspections (26,73)
+    person:General W Robertson (other) (49,73)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD0003kyi  ----------
+  1 May 1919 23
+    activity:other (27,26)
+    place:Munstereifel (7,27)
+    person:Colonel O de L Williams (commander) (50,27)
+  2 May 1919 28
+  3 May 1919 30
+    place:Iversheim (72,30)
+    domestic:inspections (34,31)
+    person:Major Long (other) (28,31)
+    place:Euskirchen (59,33)
+  4 May 1919 34
+    person:Lieutenant A V Curtice (other) (71,34)
+  5 May 1919 36
+    domestic:sport (32,36)
+  6 May 1919 38
+    domestic:inspections (25,38)
+  7 May 1919 39
+    domestic:inspections (62,39)
+    place:Iversheim (76,39)
+    domestic:inspections (30,40)
+    place:Iversheim (50,40)
+    unit:D Coy Battalion South Wales Borderers (70,40)
+  8 May 1919 41
+    unit:A Coy Battalion South Wales Borderers (42,41)
+    activity:training (24,42)
+    domestic:sport (57,42)
+    time:0900AM (45,42)
+  9 May 1919 45
+    activity:training (57,45)
+    domestic:inspections (30,45)
+    unit:B Coy Battalion South Wales Borderers (41,45)
+  10 May 1919 47
+    domestic:inspections (32,48)
+    unit:C Coy Battalion South Wales Borderers (45,48)
+    unit:B Coy Battalion South Wales Borderers (48,50)
+    unit:D Coy Battalion South Wales Borderers (23,51)
+    unit:B Coy Battalion South Wales Borderers (43,51)
+  11 May 1919 53
+    domestic:sport (35,53)
+    unit:Brigade hq (65,53)
+  12 May 1919 55
+    domestic:sport (28,55)
+    domestic:sport (32,55)
+    unit:6 Welsh (40,56)
+    domestic:inspections (68,58)
+  13 May 1919 59
+    unit:A & B Coys 53 Battalion South Wales Borderers (36,59)
+  14 May 1919 62
+    activity:training (44,62)
+    domestic:inspections (29,62)
+    place:Stotzheim (23,62)
+  15 May 1919 66
+    activity:training (25,66)
+    domestic:sport (34,66)
+    place:Rheder (34,66)
+    place:Stotzheim (75,66)
+    activity:training (28,67)
+    place:Arloff (46,67)
+    unit:52 Battalion South Wales Borderers (59,67)
+  16 May 1919 68
+    unit:D Coy 53 Battalion South Wales Borderers (38,71)
+  17 May 1919 72
+    unit:A & B Coys 53 Battalion South Wales Borderers (65,72)
+    person:Private Davies (discipline) (54,72)
+  18 May 1919 74
+    domestic:discipline (25,75)
+  19 May 1919 76
+    activity:other (30,76)
+    place:Schonau (41,77)
+    person:Major V B Ramsden (joined) (22,79)
+  20 May 1919 80
+    unit:B Coy 53 Battalion South Wales Borderers (36,81)
+  21 May 1919 82
+    place:Schonau (36,83)
+  22 May 1919 85
+    person:Major Ramsden (other) (30,86)
+    unit:3 Brigade (38,90)
+    unit:A Coy 53 Battalion South Wales Borderers (56,90)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD0003kyd  ----------
+  24 May 1919 26
+    place:Iversheim (32,26)
+    time:0200PM (42,26)
+    place:Munstereifel (7,27)
+    domestic:sport (29,29)
+    place:Cologne (69,29)
+    person:Corporal Evans (82,29)
+  25 May 1919 30
+    person:Private Davies (discipline) (27,30)
+    person:Corporal Evans (discipline) (21,30)
+  26 May 1919 32
+    activity:other (27,33)
+    time:1230PM (63,33)
+    person:Major Ramsden (other) (40,35)
+    time:1030AM (36,35)
+  27 May 1919 36
+  28 May 1919 38
+    domestic:sport (26,38)
+    person:Mr Kirwan (other) (35,39)
+  29 May 1919 40
+    activity:training (27,40)
+    place:Nothen (33,41)
+    place:Iversheim (29,43)
+  30 May 1919 44
+    place:Iversheim (41,45)
+    activity:other (43,45)
+  31 May 1919 46
+    domestic:sport (54,46)
+    place:Iversheim (48,46)
+    time:0500PM (65,46)
+    unit:A & B Coys 53 Battalion South Wales Borderers (39,46)
+    activity:training (43,48)
+    domestic:sport (38,51)
+    unit:Drums (48,52)
+    unit:A Coy 53 Battalion South Wales Borderers (63,52)
+    unit:D Coy 53 Battalion South Wales Borderers (24,54)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD0003kyc  ----------
+  26 Jun 1919 25
+    place:Alfter (8,27)
+  27 Jun 1919 28
+    time:0550PM (78,28)
+  28 Jun 1919 31
+    domestic:other (24,31)
+    person:Colonel O Williams (23,34)
+    person:Lieutenant Colonel Corfe (commander) (55,34)
+  29 Jun 1919 35
+    person:Major H P Williams (77,35)
+  30 Jun 1919 39
+    activity:other (24,39)
+    place:Munstereifel (33,39)
+    activity:other (25,44)
+    person:Lieutenant Colonel A C Corfe (63,53)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD0003kyb  ----------
+  30 Jun 1919 0
+    place:Munstereifel (9,26)
+    unit:B Coy 53 Battalion South Wales Borderers (28,28)
+    place:Iversheim (51,29)
+    activity:other (39,29)
+    unit:A Coy 53 Battalion South Wales Borderers (71,29)
+    place:Iversheim (43,30)
+    weather:rain (65,31)
+    activity:other (62,31)
+    domestic:sport (50,32)
+    place:Iversheim (39,32)
+    person:Lena Ashwell (other) (50,33)
+    place:Iversheim (33,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (68,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (28,34)
+    place:Iversheim (75,36)
+    activity:other (25,38)
+    place:Satzvey (73,40)
+    domestic:sport (53,42)
+    person:Major V B Ramsden (departed_posted) (28,42)
+    unit:52 Battalion South Wales Borderers (67,43)
+    activity:other (29,44)
+    unit:51 Welsh (39,44)
+    domestic:sport (43,46)
+    person:Brigadier General Cubitt (other) (56,46)
+    place:Iversheim (29,48)
+  12 Jun 1919 51
+    place:Iversheim (62,52)
+    unit:A, B & D Coys Transport 53 Battalion South Wales Borderers (48,52)
+  13 Jun 1919 53
+    place:Iversheim (31,54)
+  14 Jun 1919 57
+    domestic:inspections (27,57)
+    person:Major General Strictland (other) (42,57)
+    time:0200PM (44,58)
+  15 Jun 1919 59
+  16 Jun 1919 62
+    domestic:sport (30,62)
+    unit:B Coy 53 Battalion South Wales Borderers (49,62)
+  17 Jun 1919 64
+  18 Jun 1919 67
+    place:Alfter (40,68)
+    time:0915AM (48,68)
+  19 Jun 1919 70
+    place:Iversheim (44,70)
+    activity:other (57,70)
+    place:Iversheim (27,71)
+  20 Jun 1919 72
+    activity:movement (40,73)
+    unit:A Coy 53 Battalion South Wales Borderers (34,73)
+  21 Jun 1919 74
+    place:Alfter (47,75)
+    activity:movement (42,75)
+  22 Jun 1919 76
+    unit:A Coy 53 Battalion South Wales Borderers (38,76)
+    unit:C Coy 53 Battalion South Wales Borderers (70,76)
+    place:Alfter (8,77)
+    activity:other (26,77)
+  23 Jun 1919 78
+  24 Jun 1919 82
+    place:Troisdorf (24,83)
+    time:0200PM (35,83)
+    unit:B & D Coys 53 Battalion South Wales Borderers (68,84)
+  25 Jun 1919 85
+    domestic:sport (50,85)
+    unit:B Coy 53 Battalion South Wales Borderers (45,86)
+    place:Dransdorf (33,88)
+    place:Rottgen (47,88)
+    place:Alfter (70,88)
+    activity:training (25,88)
+    place:Endenich (39,89)
+    place:Witterschlick (54,89)
+    place:Duisdorf (63,89)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD0003kyn  ----------
+  1 Jul 1919 25
+  2 Jul 1919 28
+    activity:movement (25,28)
+    place:Rheinbach (36,28)
+  3 Jul 1919 30
+    place:Munstereifel (43,31)
+    place:Iversheim (53,31)
+  4 Jul 1919 32
+  5 Jul 1919 34
+    unit:Brigade hq (68,35)
+  6 Jul 1919 36
+    activity:other (26,36)
+    activity:other (34,36)
+    person:Major General Cubitt (other) (25,39)
+    person:Brigadier General Rowley (commander) (56,39)
+  7 Jul 1919 40
+  8 Jul 1919 42
+    place:Cambrai (45,42)
+    person:Lieutenant R Thomas (other) (27,43)
+    place:Paris (60,43)
+  9 Jul 1919 44
+    unit:A & B Coys 53 Battalion South Wales Borderers (50,44)
+  10 Jul 1919 45
+  11 Jul 1919 47
+    unit:A, B & C Coys 53 Battalion South Wales Borderers (46,47)
+    domestic:sport (33,48)
+    unit:C Coy 53 Battalion South Wales Borderers (40,51)
+    activity:training (45,51)
+    domestic:inspections (29,51)
+    activity:other (60,52)
+  12 Jul 1919 53
+    time:0300PM (73,53)
+    activity:other (26,55)
+    time:1000AM (47,56)
+  13 Jul 1919 57
+    domestic:sport (42,57)
+    domestic:religion (30,60)
+  14 Jul 1919 61
+  15 Jul 1919 63
+    domestic:inspections (29,64)
+    domestic:sport (50,64)
+  17 Jul 1919 66
+    unit:A Coy 53 Battalion South Wales Borderers (50,66)
+    person:Captain Canton (departed_posted) (24,68)
+    person:Lieutenant A A McKay (other) (40,68)
+    unit:2 Brigade Western Division (71,70)
+    domestic:sport (32,70)
+  19 Jul 1919 72
+  20 Jul 1919 74
+    unit:A Coy 53 Battalion South Wales Borderers (59,74)
+  21 Jul 1919 77
+    domestic:inspections (33,77)
+  22 Jul 1919 78
+    unit:A & B Coys 53 Battalion South Wales Borderers (45,80)
+  23 Jul 1919 82
+    unit:A & B Coys 53 Battalion South Wales Borderers (30,82)
+    person:Major General T O Maden (other) (45,82)
+    domestic:inspections (79,82)
+    activity:other (27,85)
+    unit:A & C Coys 53 Battalion South Wales Borderers (46,88)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD0003kyh  ----------
+  24 Jul 1919 24
+    place:Flerzheim (43,27)
+  25 Jul 1919 28
+  26 Jul 1919 31
+    domestic:sport (39,31)
+    unit:3 Western Brigade Infantry (30,31)
+    unit:3 Western Brigade Infantry (27,34)
+  27 Jul 1919 36
+    unit:52 Battalion South Wales Borderers (40,37)
+    unit:51 Battalion South Wales Borderers (61,37)
+  28 Jul 1919 39
+  29 Jul 1919 40
+    unit:C & D Coys 53 Battalion South Wales Borderers (52,40)
+    domestic:inspections (31,41)
+    unit:A Coy 53 Battalion South Wales Borderers (43,42)
+    unit:C Coy 53 Battalion South Wales Borderers (39,44)
+    unit:51 Battalion South Wales Borderers (64,44)
+    unit:51 Battalion South Wales Borderers (44,45)
+    unit:51 Battalion South Wales Borderers (70,45)
+  30 Jul 1919 46
+    unit:51 Battalion South Wales Borderers (29,47)
+    domestic:sport (33,49)
+    unit:51 Battalion South Wales Borderers (82,49)
+    unit:52 Battalion South Wales Borderers (56,50)
+    unit:52 Battalion South Wales Borderers (40,51)
+    unit:52 Battalion South Wales Borderers (74,51)
+    unit:52 Battalion South Wales Borderers (45,53)
+  31 Jul 1919 54
+    unit:52 Battalion South Wales Borderers (28,54)
+    person:Lieutenant Colonel Corfe (60,64)

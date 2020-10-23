@@ -1,0 +1,183 @@
+GWD000003k wo/95/1248/2
+1 DIVISION: `B' Squadron Northumberland Hussars 
+18 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD0000jtv  ----------
+  1 May 1915 0
+    unit:1 Division (54,23)
+    place:Vaillicourt (6,24)
+    activity:repair (27,30)
+    place:Vaudricourt (7,41)
+    place:Vaudricourt (63,42)
+    activity:movement (32,42)
+    activity:movement (36,44)
+    reference:Party rejoins Squadron. (52,50)
+    place:Haut Rieux (5,53)
+    place:Vaudricourt (38,54)
+    place:Haut Rieux (51,54)
+    domestic:parades (48,58)
+    place:Philomel (73,58)
+    domestic:inspections (33,60)
+    reference:Thanked by excellent work carried out. (36,63)
+    activity:training (32,67)
+    reference:Training in fire practices, reconnaissances, squad drill, and schemes laid by the 1st Div.  (38,70)
+    domestic:parades (32,74)
+    person:Lieutenant Colonel Macnaughton (other) (78,75)
+    place:Philomel (39,77)
+    domestic:inspections (69,78)
+    activity:training (36,83)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0000jux  ----------
+  1 Feb 1916 21
+    place:Haut Rieux (5,23)
+  4 Feb 1916 24
+    activity:training (32,24)
+    activity:training (18,25)
+  2 Feb 1916 27
+    person:Captain J G G Rea (joined) (25,29)
+  5 Feb 1916 30
+    person:Captain J G G Rea (joined) (32,30)
+    unit:8 Division (71,30)
+  6 Feb 1916 33
+    unit:2 Brigade (51,33)
+  7 Feb 1916 37
+    domestic:parades (26,38)
+  12 Feb 1916 45
+    activity:training (33,45)
+  13 Feb 1916 47
+  14 Feb 1916 51
+    unit:Gun Battery (36,52)
+    unit:1 Division cyclist (50,53)
+    place:Flechin (41,54)
+  15 Feb 1916 55
+    place:Drouvin (49,56)
+    place:Drouvin (7,57)
+    activity:movement (23,57)
+  16 Feb 1916 60
+    unit:Cyclist Brigade (86,65)
+  17 Feb 1916 81
+    activity:repair (36,67)
+    place:Loos (8,69)
+    activity:repair (38,70)
+    place:Loos (77,71)
+  18 Feb 1916 73
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (38,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (46,75)
+    person:Captain J G G Rea (departed_posted) (26,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (65,76)
+    activity:repair (33,80)
+  17 Feb 1916 81
+    place:Drouvin (40,81)
+    person:Captain R A Pease (joined) (24,82)
+  29 Feb 1916 86
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (21,87)
+    person:Captain R A Pease (author) (74,89)
+Page 5 (type cover)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvx  ----------
+  Hashtags: #Gas 
+  31 Mar 1916 73
+  1 Mar 1916 22
+    place:Loos (6,25)
+    activity:repair (24,26)
+    activity:repair (46,26)
+    person:Second Lieutenant Painter (joined) (21,36)
+    person:Second Lieutenant Patterson (departed_posted) (23,40)
+    place:Drouvin (6,43)
+    unit:1 Infantry Division Training School (58,45)
+    place:Drouvin (54,47)
+    person:Captain J G G Rea (returned_training) (23,50)
+    unit:1 Infantry Division Training School (50,51)
+    reference:Issue of 1st Hotchkiss machine gun (37,54)
+    domestic:uniform (55,58)
+    reference:Issue of new smoke helmets (45,59)
+    place:Loos (6,61)
+    person:Captain R A Pease (23,61)
+    person:Second Lieutenant Goodman (departed_posted) (25,64)
+    place:Loos (6,67)
+    person:Private J Charlton (casualty_wounded) (28,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (25,68)
+    place:Drouvin (7,72)
+    activity:other (29,72)
+  31 Mar 1916 73
+Page 7 (type cover)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD0000ju8  ----------
+  31 Mar 1916 0
+    place:Locon (18,32)
+    reference:Squadron standing by as reserve (37,37)
+    place:La Couture (14,38)
+    place:Locon (18,43)
+    activity:reconnoitered (29,78)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD0000juz  ----------
+  31 Mar 1916 0
+    activity:reconnoitered (32,31)
+    place:Bethune (25,38)
+    place:Beuvry (37,38)
+    place:La Bassee (46,38)
+    place:Vaudricourt (66,42)
+    place:Beuvry (56,49)
+    place:La Beuvriere (17,59)
+    activity:other (35,60)
+    activity:reconnoitered (25,62)
+    activity:reconnoitered (32,69)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvi  ----------
+  31 Mar 1916 0
+    activity:reconnoitered (33,41)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD0000jv0  ----------
+  31 Mar 1916 0
+    activity:reconnoitered (33,31)
+    reference:Visit by Earl Kitchiner (41,42)
+Page 12 (type cover)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvl  ----------
+  31 Mar 1916 0
+    place:Annequin (34,30)
+    place:Vermelles (43,36)
+    place:Rutoire (44,40)
+    place:Vermelles (33,41)
+    place:Gosnay (7,44)
+    place:Rutoire (30,46)
+    place:Marles les Mines (65,51)
+    activity:movement (18,51)
+    time:0900AM (58,54)
+    place:Verquin (6,57)
+    time:0300PM (42,58)
+    time:0400PM (63,59)
+    activity:movement (83,59)
+    time:0600PM (54,61)
+    place:Coron de Rutoire (80,61)
+    place:Bois Caree (30,62)
+    activity:other (19,68)
+    reference:Burying Dead near Lone Tree (35,69)
+    place:Lone Tree (43,69)
+    place:Lone Tree (40,72)
+    activity:other (25,72)
+    activity:other (36,88)
+    mapRef:BETHUNE Combined (53,93)
+Page 14 (type cover)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD0000jvy  ----------
+  31 Mar 1916 0
+    activity:movement (18,25)
+    place:Haillicourt (6,36)
+    activity:movement (18,36)
+    place:Auchel (10,43)
+Page 16 (type cover)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD0000jug  ----------
+  31 Mar 1916 0
+    place:Haillicourt (4,26)
+    unit:47 Division (90,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,40)
+    unit:1 Division Cyclist Company (54,42)
+    unit:Cyclist Brigade (60,42)
+    activity:repair (22,43)
+    activity:repair (66,46)
+    unit:1 Division Cyclist Company (54,49)
+    reference:Horse Innoculated (44,63)
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD0000juv  ----------
+  Hashtags: #King #Royal 
+  31 Mar 1916 0
+    unit:1 Division hq (40,30)
+    place:Mazingarbe (5,35)
+    unit:Assistant Provost Marshal, 1 Division (48,39)
+    activity:other (25,42)
+    unit:Commander Royal Engineers, 1 Division (27,57)
+    unit:Assistant Provost Marshal, 4 Corps (27,69)

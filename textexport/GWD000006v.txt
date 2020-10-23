@@ -1,0 +1,1635 @@
+GWD000006v wo/95/1282/1
+1 DIVISION: 6 Battalion Welsh Regiment 
+133 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type cover)
+Page 4 (type cover)
+Page 5 (type cover)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD00010wg  ----------
+  1 Nov 1915 26
+    activity:movement (48,32)
+    place:Auchel (56,33)
+    place:Burbere (52,35)
+    place:Lozinghem (44,36)
+  2 Nov 1915 37
+    weather:rain (49,38)
+    weather:rain (48,41)
+  3 Nov 1915 51
+    weather:rain (55,56)
+    activity:training (49,60)
+    domestic:hygiene (53,65)
+  4 Nov 1915 68
+    domestic:uniform (50,68)
+    activity:training (52,73)
+    activity:training (45,74)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD00010vc  ----------
+  5 Nov 1915 25
+    activity:training (49,30)
+  6 Nov 1915 45
+    activity:training (44,51)
+    domestic:hygiene (49,55)
+    domestic:inspections (57,55)
+    unit:2 Welsh (43,63)
+    domestic:sport (54,63)
+  7 Nov 1915 64
+    domestic:religion (54,69)
+    domestic:religion (42,70)
+    domestic:sport (49,78)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD00010uu  ----------
+  12 Nov 1915 25
+    reference: (39,29)
+    reference: (51,32)
+    reference:Rain (58,34)
+    weather:rain (58,35)
+    reference: (33,37)
+    domestic:inspections (44,41)
+    person:Second Lieutenant A G Akenhead (joined) (49,47)
+    person:Second Lieutenant E S Seabourne (joined) (50,49)
+    person:Second Lieutenant R M Prosser (joined) (48,50)
+    person:Second Lieutenant H J Edmunds (joined) (49,52)
+    person:Second Lieutenant D M Morgan (joined) (49,54)
+    person:Second Lieutenant F W Jacob (joined) (49,56)
+    person:Second Lieutenant J W G Morris (joined) (49,57)
+    reference: (82,58)
+    person:Second Lieutenant C J S Nicholl (joined) (49,60)
+    person:Second Lieutenant T T Ellison (joined) (48,62)
+  13 Nov 1915 63
+    person:Second Lieutenant C D Etchells (joined) (49,63)
+    reference:Soaking wet day (59,67)
+    weather:rain (54,67)
+    reference:Soaking wet day (50,68)
+    reference: (37,70)
+    domestic:inspections (52,77)
+    domestic:accomodation (42,78)
+    domestic:medical (53,78)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD00010uc  ----------
+  8 Nov 1915 25
+    weather:rain (58,30)
+    place:burbURE (57,33)
+    activity:training (45,33)
+    place:Burbure (56,34)
+  9 Nov 1915 35
+    place:Marles-les-Mines (44,36)
+    place:Raimbert (56,36)
+    activity:training (52,40)
+  10 Nov 1915 53
+    domestic:inspections (44,59)
+    person:General Rawlinson (other) (54,60)
+  11 Nov 1915 66
+    activity:training (49,73)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD00010w9  ----------
+  14 Nov 1915 27
+    activity:training (44,32)
+    domestic:religion (46,34)
+    person:Lieutenant E H Harry (departed_leave) (57,36)
+    person:Major Carleton (commander) (39,40)
+  15 Nov 1915 43
+    person:Second Lieutenant P Bell (other) (49,44)
+    activity:movement (52,45)
+    weather:fine (58,45)
+    place:Mazingarbe (56,47)
+    weather:fine (41,47)
+    time:0830AM (42,49)
+    place:Mazingarbe (43,56)
+    time:0600PM (53,57)
+  16 Nov 1915 58
+    activity:working (57,60)
+    domestic:accomodation (56,62)
+    domestic:accomodation (59,64)
+  17 Nov 1915 65
+    activity:training (41,69)
+    activity:training (48,69)
+  18 Nov 1915 71
+    person:Captain Goldberg (other) (49,73)
+    activity:training (58,75)
+    activity:training (45,77)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD00010v0  ----------
+  19 Nov 1915 29
+    domestic:accomodation (48,32)
+    activity:reconnoitered (52,36)
+    person:Second Lieutenant R C Lindsey-Brabazon (other) (47,38)
+    person:Second Lieutenant J H Mills (departed_leave) (40,42)
+    time:0430PM (49,43)
+    activity:movement (44,44)
+    unit:London Scottish 1 Brigade (48,45)
+    time:0700PM (50,47)
+    activity:line (53,50)
+    unit:South Wales Borderers (56,55)
+    activity:support (49,55)
+    unit:2 battalion royal sussex (55,56)
+  20 Nov 1915 57
+    unit:2 Bn Royal Sussex (58,57)
+    activity:line (44,60)
+    place:Possen Alley (55,62)
+    place:Hulloch (58,67)
+    activity:fire (41,67)
+    activity:enemy_activity (49,67)
+    activity:enemy_activity (40,75)
+  21 Nov 1915 76
+    person:other Tom Richards (other) (48,81)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD00010xa  ----------
+  21 Nov 1915 24
+    person:Alfred Onions (other) (43,28)
+    activity:enemy_activity (44,33)
+  22 Nov 1915 35
+    person:Private Simmons (casualty_kia) (54,35)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (56,36)
+    domestic:accomodation (58,39)
+    unit:2 Welsh (46,39)
+    unit:2/Welsh Regiment (46,40)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,45)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,45)
+  23 Nov 1915 48
+    place:Fort Glatz (47,48)
+  25 Nov 1915 51
+    activity:working (50,51)
+    activity:working (55,52)
+  26 Nov 1915 54
+    weather:cold (51,56)
+    unit:2 Welsh (57,57)
+    unit:2 Battalion welsh Regiment (60,57)
+    unit:2/Welsh Regiment (59,58)
+    place:Philosophe (55,59)
+    domestic:accomodation (59,61)
+    domestic:accomodation (45,61)
+    unit:1/9 kings (50,61)
+    unit:1/9 Kings Regiment (52,61)
+    activity:enemy_activity (49,63)
+  27 Nov 1915 64
+    person:Second Lieutenant E H Clarry (departed_training) (50,67)
+    activity:working (49,71)
+  28 Nov 1915 72
+    place:Possen Alley (55,72)
+    domestic:religion (50,75)
+    activity:repair (50,79)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD00010uz  ----------
+  29 Nov 1915 40
+    activity:repair (42,43)
+    activity:repair (50,46)
+  30 Nov 1915 48
+    place:Puit 14 (40,49)
+    person:Private Plane Plane (casualty_kia) (44,50)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (44,51)
+    person:Lance Corporal Pritchard (casualty_wounded) (52,52)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (57,52)
+    person:Private Hopkins (casualty_wounded) (41,54)
+    activity:working (50,56)
+Page 14 (type cover)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD00010v4  ----------
+  30 Nov 1915 0
+    unit:2 Royal Sussex, 1 Brigade (60,26)
+  1 Dec 1915 29
+    domestic:accomodation (45,33)
+  2 Dec 1915 34
+    place:Philosophe (52,39)
+    unit:9 K R R (60,39)
+    place:Noeux les Mines (57,41)
+    domestic:accomodation (49,42)
+    activity:movement (52,42)
+    person:Lieutenant R C Lindsey-Brabazon (other) (52,45)
+    unit:2 Royal Sussex, 1 Brigade (49,46)
+  3 Dec 1915 47
+    person:Lieutenant Pearson Bell (56,47)
+    person:Lieutenant L C Frisby (commander) (49,50)
+    person:Captain J M Goldberg (other) (55,52)
+  4 Dec 1915 55
+    domestic:hygiene (47,56)
+    domestic:uniform (54,56)
+    domestic:accomodation (59,56)
+    activity:working (50,58)
+    domestic:parades (60,61)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD00010u6  ----------
+  5 Dec 1915 29
+    domestic:inspections (40,30)
+    domestic:religion (43,32)
+    domestic:religion (57,32)
+  6 Dec 1915 35
+    domestic:hygiene (44,35)
+    activity:working (45,39)
+    activity:training (56,39)
+    activity:training (40,44)
+    activity:training (53,46)
+    place:Mazingarbe (43,49)
+    domestic:inspections (45,50)
+  7 Dec 1915 52
+    activity:training (44,55)
+    domestic:other (46,57)
+  8 Dec 1915 59
+    activity:training (46,60)
+    activity:movement (52,63)
+    unit:Cameron Highlanders (43,63)
+    place:Hulloch (44,65)
+    place:Vendin Alley (53,65)
+    place:Kingsway Alley (39,68)
+    unit:1 Black Watch (43,69)
+    unit:10 Gloucesters (52,69)
+    activity:line (48,70)
+    activity:support (39,73)
+    unit:2 Brigade (50,75)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD00010tq  ----------
+  8 Dec 1915 0
+    activity:line (49,31)
+  9 Dec 1915 32
+    activity:fire (45,35)
+    person:Private Levi Davies (casualty_kia) (58,36)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 4 (50,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (53,38)
+    person:Sergeant Wyatt (casualty_wounded) (41,40)
+    person:Private Crabbe Crabbe (casualty_wounded) (54,40)
+    person:Private Levi Turton (casualty_wounded) (49,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (58,42)
+    person:Corporal Lowery (casualty_wounded) (41,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (48,44)
+  10 Dec 1915 47
+    activity:line (45,50)
+    person:Major General Holland (other) (48,52)
+    weather:rain (45,55)
+  11 Dec 1915 58
+    activity:repair (54,59)
+    weather:rain (46,61)
+    activity:repair (40,64)
+    activity:repair (51,64)
+    unit:1/9 Kings (43,66)
+  12 Dec 1915 67
+    unit:1/9 Kings Regiment (45,67)
+    activity:quiet (47,71)
+    activity:repair (46,77)
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD00010tk  ----------
+  12 Dec 1915 25
+    activity:repair (49,29)
+    activity:repair (40,30)
+  13 Dec 1915 37
+    activity:repair (51,40)
+    activity:repair (44,41)
+  14 Dec 1915 50
+    unit:1/9 Kings (54,53)
+    unit:1/9 Kings Regiment (56,53)
+    unit:1/9 Kings (45,53)
+    activity:line (47,54)
+    unit:2 Welsh (53,59)
+    unit:2/Welch Regiment (55,59)
+    unit:2 Brigade (41,61)
+    activity:fire (42,62)
+  15 Dec 1915 65
+    activity:line (44,66)
+    activity:support (51,66)
+    activity:repair (43,69)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD00010u3  ----------
+  16 Dec 1915 28
+    activity:line (47,31)
+    domestic:inspections (55,31)
+    person:Major General Holland (other) (47,33)
+  17 Dec 1915 37
+    weather:rain (57,38)
+    unit:1/9 Kings (53,40)
+    unit:1/9 Kings Regiment (55,41)
+  18 Dec 1915 43
+    activity:reserve (47,44)
+    activity:reserve (55,44)
+    person:Major C A S Carleton (departed_leave) (45,49)
+    person:Major Carleton (departed_leave) (46,50)
+    person:Captain J A S Hinton (commander) (45,53)
+  19 Dec 1915 54
+    activity:repair (55,54)
+    activity:repair (54,66)
+    activity:repair (45,69)
+  20 Dec 1915 73
+    unit:10 Royal North [unclear] (48,76)
+    activity:movement (40,79)
+    domestic:accomodation (51,79)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD00010wr  ----------
+  21 Dec 1915 28
+    domestic:inspections (55,31)
+    time:1000AM (45,31)
+  22 Dec 1915 36
+    domestic:inspections (49,38)
+    time:0900AM (46,39)
+    time:1000AM (48,39)
+    activity:training (52,40)
+    time:1030AM (45,41)
+    time:1130AM (50,41)
+    activity:training (41,41)
+    time:1130AM (48,42)
+    time:1230PM (52,43)
+    activity:working (47,44)
+  23 Dec 1915 45
+    domestic:hygiene (41,51)
+    domestic:inspections (52,51)
+    domestic:inspections (54,51)
+    time:1200AM (53,56)
+    domestic:sport (43,68)
+  24 Dec 1915 74
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD00010w3  ----------
+  Hashtags: #concert 
+  24 Dec 1915 26
+    activity:reconnoitered (47,29)
+    strength:officer: 5; nco: 16; other: 200 (46,31)
+    activity:working (48,33)
+    activity:repair (45,35)
+  25 Dec 1915 36
+    domestic:religion (47,40)
+    domestic:religion (50,40)
+    time:1100AM (57,40)
+    domestic:sport (52,42)
+  26 Dec 1915 44
+    unit:6/Welsh Regiment (49,44)
+    domestic:hygiene (44,49)
+    activity:movement (51,56)
+    activity:line (54,56)
+    time:0200PM (44,57)
+    unit:10 Gloucesters (59,59)
+    unit:10 Woverton (56,60)
+  27 Dec 1915 62
+    activity:repair (51,66)
+    activity:repair (48,74)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD00010w6  ----------
+  27 Dec 1915 0
+    activity:repair (50,31)
+    place:Vendin Alley (40,35)
+  28 Dec 1915 38
+    activity:repair (45,41)
+    activity:fire (50,44)
+    activity:enemy_activity (41,51)
+    activity:fire (55,51)
+  29 Dec 1915 55
+    activity:enemy_activity (45,55)
+    unit:1/9 Kings Regiment (54,58)
+    place:Possen Alley (41,61)
+    place:Vendin Alley (40,65)
+    place:Hulloch (57,65)
+    activity:line (39,68)
+    activity:support (49,69)
+    activity:enemy_activity (56,69)
+    unit:Large French Battle Plane (50,70)
+    unit:9 Battalion (45,72)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD00010tu  ----------
+  30 Dec 1915 31
+    activity:repair (50,34)
+    activity:reconnoitered (44,43)
+    activity:attack (46,49)
+  31 Dec 1915 50
+    person:Major Carleton (returned_leave) (49,53)
+    activity:fire (49,56)
+    person:Captain Hinton (other) (40,56)
+    place:Possen Alley (52,58)
+    activity:reconnoitered (44,62)
+Page 24 (type cover)
+Page 25 (type cover)
+Page 26 (type cover)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD00010v2  ----------
+  1 Jan 1916 10
+    unit:1/ 9 Battalion Kings (Liverpool) Regiment (56,12)
+    unit:1/9 Kings (54,14)
+    activity:reserve (40,17)
+    activity:reserve (54,17)
+    place:Vendin Alley (55,22)
+    person:Private Millar (casualty_wounded) (41,23)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (44,23)
+    strength:officer: 0; nco: 0; other: 76 (56,25)
+    activity:fire (50,34)
+    domestic:rations (43,34)
+  2 Jan 1916 42
+    activity:fire (49,46)
+    place:Possen (54,47)
+    activity:repair (41,49)
+    unit:C.R.E. (Commander Royal Engineers), 1 Division (50,52)
+    domestic:inspections (40,53)
+    unit:1 Division (50,53)
+    activity:repair (53,56)
+  3 Jan 1916 58
+    activity:repair (50,58)
+    activity:repair (48,62)
+  4 Jan 1916 71
+    activity:training (47,75)
+    activity:repair (52,81)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD00010tj  ----------
+  4 Jan 1916 20
+    domestic:inspections (43,24)
+    unit:1/9 Kings (45,30)
+    activity:line (55,30)
+  5 Jan 1916 33
+    activity:repair (48,38)
+    place:Possen Alley (56,39)
+    unit:1/9 Kings (52,43)
+    activity:repair (40,49)
+  6 Jan 1916 57
+    activity:repair (44,59)
+    place:Vendin Alley (51,62)
+    activity:reconnoitered (46,66)
+    activity:fire (42,71)
+    unit:Ghq (46,74)
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD00010tv  ----------
+  6 Jan 1916 23
+    activity:reconnoitered (44,27)
+    person:Private J H Thomas (other) (52,31)
+    person:Private Thomas (other) (48,37)
+    unit:2 Welsh (44,38)
+    unit:2/Welsh Regiment (47,39)
+    activity:fire (45,54)
+    activity:achieved (51,54)
+    person:Private J H Thomas (award) (56,56)
+  7 Jan 1916 65
+    unit:Northampton(shire Regiment (52,69)
+    unit:Northamptons (49,70)
+    unit:Loyal North Lancs (47,72)
+    activity:movement (56,77)
+    domestic:accomodation (57,77)
+    activity:movement (47,78)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD00010vq  ----------
+  7 Jan 1916 0
+    place:Mazingarbe (47,22)
+  8 Jan 1916 23
+    unit:Loyal North Lancs (52,23)
+    domestic:hygiene (58,26)
+  9 Jan 1916 29
+    domestic:religion (49,34)
+    activity:working (54,37)
+  10 Jan 1916 42
+    domestic:hygiene (59,46)
+    activity:working (41,52)
+  11 Jan 1916 57
+    activity:working (46,60)
+    activity:working (49,68)
+Page 31 (type diary) http://wd3.herokuapp.com/pages/AWD00010uj  ----------
+  11 Jan 1916 0
+    activity:working (51,39)
+    domestic:inspections (55,44)
+    domestic:accomodation (59,44)
+    domestic:inspections (43,44)
+  12 Jan 1916 46
+    time:1120AM (44,46)
+    activity:repair (46,50)
+    activity:repair (48,53)
+    place:Mazingarbe (42,57)
+  13 Jan 1916 59
+    unit:Royal Engineers (53,59)
+    unit:3 Brigade (46,62)
+    unit:1 Brigade (60,64)
+    activity:movement (50,66)
+    time:1000AM (59,69)
+    domestic:accomodation (47,69)
+    place:Lillers (46,70)
+    domestic:accomodation (48,73)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD00010ws  ----------
+  Hashtags: #football 
+  14 Jan 1916 21
+    activity:training (50,34)
+    person:Lieutenant E D C Owens (joined) (48,37)
+  15 Jan 1916 40
+    activity:training (43,44)
+    domestic:parades (52,46)
+    domestic:sport (50,50)
+    person:Second Lieutenant H H Bucknell (joined) (47,53)
+    person:Second Lieutenant A T Davies (joined) (47,55)
+  16 Jan 1916 61
+    domestic:religion (50,64)
+    domestic:religion (45,65)
+    place:Raimbert (54,67)
+    activity:resting (47,70)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD00010u9  ----------
+  17 Jan 1916 20
+    activity:training (45,25)
+    activity:training (49,27)
+    activity:training (54,28)
+  18 Jan 1916 35
+    activity:training (49,40)
+  19 Jan 1916 44
+    activity:training (44,49)
+    activity:training (49,53)
+  20 Jan 1916 57
+    person:Second Lieutenant H H Bucknell (other) (47,67)
+    person:Second Lieutenant E H Clarry (departed_leave) (47,71)
+    person:General Joseph Joffre (other) (57,75)
+    place:Raimbert (56,77)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD00010ua  ----------
+  21 Jan 1916 18
+    activity:training (50,22)
+    activity:training (44,23)
+    domestic:sport (55,31)
+    domestic:sport (45,31)
+    person:Major Blackburn (other) (57,32)
+  22 Jan 1916 33
+    activity:training (48,37)
+    activity:other (46,49)
+  23 Jan 1916 50
+    domestic:religion (47,54)
+    domestic:inspections (46,56)
+    domestic:accomodation (54,56)
+  24 Jan 1916 57
+    activity:training (45,62)
+    activity:training (51,70)
+Page 35 (type diary) http://wd3.herokuapp.com/pages/AWD00010vf  ----------
+  Hashtags: #DCM #D 
+  26 Jan 1916 21
+    activity:training (53,21)
+    activity:training (45,26)
+    person:Sergeant Bland (promotion) (38,27)
+  27 Jan 1916 29
+    domestic:hygiene (43,33)
+    domestic:hygiene (53,34)
+  28 Jan 1916 41
+    activity:training (50,41)
+    activity:training (44,46)
+    activity:training (53,49)
+  29 Jan 1916 52
+    activity:training (43,57)
+    activity:training (57,58)
+  30 Jan 1916 62
+    domestic:religion (51,64)
+    person:Private J H Thomas (award) (51,70)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD00010w2  ----------
+  30 Jan 1916 0
+  31 Jan 1916 26
+    activity:training (44,31)
+    domestic:sport (50,38)
+Page 37 (type cover)
+Page 38 (type cover)
+Page 39 (type diary) http://wd3.herokuapp.com/pages/AWD00010ur  ----------
+  Hashtags: #St 
+  1 Mar 1916 27
+    activity:training (63,29)
+    activity:resting (24,30)
+    activity:training (31,30)
+    place:Bracquemont (8,30)
+    activity:training (43,35)
+    domestic:sport (59,35)
+    domestic:sport (40,44)
+Page 40 (type diary) http://wd3.herokuapp.com/pages/AWD00010vt  ----------
+  2 Mar 1916 23
+    place:South Maroc (74,29)
+    activity:reconnoitered (20,30)
+    place:Bracquemont (7,31)
+    domestic:accomodation (65,35)
+    activity:reconnoitered (28,36)
+    activity:training (47,42)
+    person:Second Lieutenant R C Lindsey-Brabazon (other) (59,48)
+Page 41 (type diary) http://wd3.herokuapp.com/pages/AWD00010ut  ----------
+  3 Mar 1916 26
+    place:Bracquemont (7,30)
+    domestic:hygiene (47,31)
+    activity:working (35,32)
+    unit:8 Berkshire Regiment (53,35)
+    unit:5/Berkshires (30,36)
+    unit:5/Berkshires (78,41)
+    time:0500PM (35,42)
+    place:Maroc (51,47)
+    activity:support (38,47)
+    time:0730PM (31,48)
+    unit:2 Royal Munsters (76,53)
+    activity:support (78,62)
+    activity:support (62,63)
+    activity:working (25,64)
+Page 42 (type diary) http://wd3.herokuapp.com/pages/AWD00010x8  ----------
+  Hashtags: #balloon 
+  4 Mar 1916 25
+    place:South Maroc (7,31)
+    activity:enemy_activity (67,33)
+    activity:enemy_activity (28,35)
+    activity:working (47,35)
+    place:Seventh Avenue (71,36)
+    domestic:accomodation (44,47)
+    activity:fire (31,49)
+Page 43 (type diary) http://wd3.herokuapp.com/pages/AWD00010uk  ----------
+  Hashtags: #planehit #aeroplanes 
+  5 Mar 1916 24
+    activity:fire (42,29)
+    weather:fine (29,30)
+    place:South Maroc (6,30)
+    activity:enemy_activity (56,34)
+    unit:8 Royal Irish Fusiliers (62,46)
+    unit:8/Royal Irish Fusiliers (65,47)
+Page 44 (type diary) http://wd3.herokuapp.com/pages/AWD00010to  ----------
+  Hashtags: #mine 
+  6 Mar 1916 24
+    activity:repair (37,28)
+    activity:working (43,28)
+    place:South Maroc (6,28)
+    place:South Maroc (7,32)
+    unit:2 Royal Munsters (66,34)
+    domestic:accomodation (32,34)
+    place:Maroc (72,39)
+    place:Liverpool Street (81,39)
+    time:0900PM (34,41)
+    mapRef:M464.5 (55,44)
+    gridRef:M_4_B_4_5 (54,45)
+    gridRef:M_5_A_3_1 (64,45)
+    place:Carfax Road (31,46)
+    mapRef: (79,47)
+    activity:support (52,49)
+    activity:reserve (66,49)
+    activity:line (38,50)
+    time:0400PM (34,56)
+    casualties:died: 0; killed: 10; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,56)
+    time:0400AM (78,60)
+    unit:Gloucesters (32,61)
+    unit:R.E (43,61)
+    casualties:died: 0; killed: 10; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,61)
+    unit:Re (43,62)
+  7 Mar 1916 64
+    person:Second Lieutenant Ellison (returned_hospital) (49,67)
+Page 45 (type diary) http://wd3.herokuapp.com/pages/AWD00010v9  ----------
+  7 Mar 1916 32
+    activity:enemy_activity (59,28)
+    activity:fire (26,29)
+    place:Maroc (7,29)
+    activity:fire (26,30)
+    place:Maroc (8,33)
+    activity:attack (64,34)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,37)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,39)
+    person:Private B Lewis (casualty_kia) (25,40)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (21,41)
+    activity:fire (50,44)
+    unit:Irish Munsters (37,45)
+    activity:fire (27,46)
+Page 46 (type diary) http://wd3.herokuapp.com/pages/AWD00010wz  ----------
+  Hashtags: #delayfuses 
+  8 Mar 1916 25
+    place:Maroc (6,29)
+    activity:fire (25,31)
+    activity:attack (70,31)
+    activity:fire (38,31)
+    place:Maroc (5,36)
+    activity:attack (53,37)
+    activity:attack (37,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (68,63)
+    place:Petit Sains (48,64)
+    domestic:accomodation (38,64)
+Page 47 (type diary) http://wd3.herokuapp.com/pages/AWD00010va  ----------
+  Hashtags: #D #DCM 
+  9 Mar 1916 24
+    place:Maroc (7,26)
+    activity:quiet (23,30)
+    unit:1 Gloucesters (51,34)
+    place:Maroc (6,35)
+    unit:1 Gloucesters (68,35)
+    time:0930PM (73,35)
+    person:Company Sergeant Major G Cowley (award) (67,39)
+    domestic:accomodation (48,40)
+    place:Les Brebis (58,40)
+    activity:movement (42,41)
+    unit:1 Glosters (27,42)
+    unit:!st Gloucester (24,42)
+    person:Lance Corporal Widlake (award) (51,47)
+    person:Lance Corporal Widlake (award) (41,47)
+Page 48 (type diary) http://wd3.herokuapp.com/pages/AWD00010th  ----------
+  10 Mar 1916 24
+    place:Les Brebis (7,28)
+    activity:working (26,29)
+    activity:working (48,29)
+    place:South Maroc (69,31)
+    place:Les Brebis (7,32)
+    domestic:accomodation (62,33)
+    activity:movement (67,39)
+    domestic:accomodation (44,44)
+Page 49 (type diary) http://wd3.herokuapp.com/pages/AWD00010tw  ----------
+  11 Mar 1916 25
+    place:South Maroc (7,28)
+    activity:repair (28,29)
+    activity:reserve (59,29)
+    place:South Maroc (7,31)
+    place:South Street (57,35)
+    activity:working (66,35)
+    place:7th Avenue (25,37)
+    unit:Royal Engineers (52,40)
+Page 50 (type diary) http://wd3.herokuapp.com/pages/AWD00010wq  ----------
+  11 Mar 1916 0
+  12 Mar 1916 29
+    person:Second Lieutenant Routley (returned_training) (72,31)
+    activity:repair (37,31)
+    place:South Maroc (6,32)
+    person:Second Lieutenant P C Routley (23,36)
+    unit:1 Glosters (79,36)
+    unit:1 Gloucesters (67,36)
+    time:0930PM (64,42)
+    place:Maroc (48,42)
+    activity:line (28,43)
+    time:0400PM (23,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 35 (31,54)
+    activity:fire (35,59)
+    time:0400AM (40,63)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,69)
+    person:Company Sergeant Major Turner (award) (53,69)
+    unit:173 royal engineers (30,72)
+    unit:17 R E Coy (68,84)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,87)
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD00010u4  ----------
+  Hashtags: #Minehead15 
+  13 Mar 1916 26
+    activity:attack (22,28)
+    activity:enemy_activity (75,33)
+    activity:enemy_activity (78,33)
+    place:Maroc (5,35)
+    activity:fire (29,43)
+    activity:attack (22,47)
+    activity:enemy_activity (60,49)
+    place:Seventh Avenue (77,61)
+    activity:repair (28,62)
+    gridRef:M_4_D_1_7 (44,66)
+    person:Captain J S Prichard (joined) (68,66)
+    mapRef:M 4c 8.10to 4d1.7 (34,66)
+    gridRef:M_4_C_8_10 (33,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (38,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (48,71)
+Page 52 (type diary) http://wd3.herokuapp.com/pages/AWD00010ts  ----------
+  14 Mar 1916 24
+    activity:fire (34,26)
+    place:Maroc (7,26)
+    weather:fine (21,26)
+    activity:attack (53,29)
+    place:Les Brebis (43,29)
+    unit:13 siege Battery (34,30)
+    activity:enemy_activity (25,40)
+    place:Southern Crassier (52,40)
+    activity:attack (20,45)
+    strength:officer: 0; nco: 0; other: 32 (30,61)
+    activity:fire (35,64)
+    time:0430PM (27,65)
+    person:Second Lieutenant Ellison (casualty_kia) (47,67)
+    person:Sergeant Holmes (casualty_kia) (61,67)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,67)
+    place:Southern Crassier (23,68)
+    person:Second Lieutenant Ellison (returned_hospital) (20,72)
+    person:Sergeant Holmes (other) (20,79)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 9 (36,85)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 9 (21,87)
+    unit:8 royal welsh fusiliers (35,91)
+Page 53 (type diary) http://wd3.herokuapp.com/pages/AWD00010w4  ----------
+  15 Mar 1916 24
+    place:Maroc (6,26)
+    activity:fire (60,26)
+    place:Maroc (8,27)
+    gridRef:M_4_D_1_7 (72,32)
+    gridRef:M_4_C_8_10 (62,33)
+    activity:repair (42,33)
+    mapRef:M 4c 8.10to 4d1.7 (66,33)
+    activity:repair (21,34)
+    person:Lieutenant J Evans (joined) (22,39)
+    activity:movement (80,39)
+    unit:1 Loyal North Lancs (60,40)
+    domestic:accomodation (50,45)
+    place:Les Brebis (26,46)
+    place:Maroc (58,48)
+    person:Second Lieutenant Ellison (other) (22,51)
+Page 54 (type diary) http://wd3.herokuapp.com/pages/AWD00010wd  ----------
+  16 Mar 1916 24
+    activity:resting (58,26)
+    place:Les Brebis (7,27)
+    activity:resting (21,27)
+    activity:enemy_activity (28,29)
+    activity:fire (21,30)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 5 (43,33)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 5 (22,34)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 5 (23,39)
+    activity:quiet (21,42)
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD00010u1  ----------
+  17 Mar 1916 24
+    activity:quiet (21,26)
+    place:Les Brebis (6,27)
+    person:Lieutenant Langer (returned_hospital) (21,31)
+Page 56 (type diary) http://wd3.herokuapp.com/pages/AWD00010ve  ----------
+  18 Mar 1916 25
+    activity:training (30,25)
+    place:Les Brebis (6,26)
+    person:Second Lieutenant Morris (other) (60,26)
+    place:Les Brebis (7,29)
+    person:Lieutenant J R Samuel (joined) (24,30)
+    activity:quiet (21,38)
+Page 57 (type diary) http://wd3.herokuapp.com/pages/AWD00010wi  ----------
+  19 Mar 1916 24
+    weather:fine (21,26)
+    weather:fine (33,27)
+    place:Les Brebis (7,27)
+    activity:quiet (20,30)
+Page 58 (type diary) http://wd3.herokuapp.com/pages/AWD00010wp  ----------
+  20 Mar 1916 24
+    place:Les Brebis (5,26)
+    activity:quiet (21,27)
+    person:Lieutenant R K Green (joined) (23,31)
+    activity:working (55,32)
+    activity:working (20,35)
+Page 59 (type diary) http://wd3.herokuapp.com/pages/AWD00010ud  ----------
+  21 Mar 1916 24
+    activity:quiet (22,26)
+    place:Les Brebis (6,27)
+    domestic:hygiene (40,29)
+    domestic:hygiene (20,30)
+    person:Second Lieutenant Clarry (departed_sick) (22,35)
+    person:Second Lieutenant Pugh Evans (departed_sick) (41,35)
+Page 60 (type diary) http://wd3.herokuapp.com/pages/AWD00010ui  ----------
+  21 Mar 1916 0
+  22 Mar 1916 28
+    domestic:accomodation (76,29)
+    activity:quiet (22,30)
+    place:North Maroc (6,32)
+    domestic:hygiene (52,33)
+    activity:working (69,37)
+    activity:working (39,38)
+Page 61 (type diary) http://wd3.herokuapp.com/pages/AWD00010vz  ----------
+  23 Mar 1916 26
+    activity:working (70,29)
+    activity:quiet (22,30)
+    place:North Maroc (6,30)
+Page 62 (type diary) http://wd3.herokuapp.com/pages/AWD00010v8  ----------
+  24 Mar 1916 24
+    weather:cold (22,29)
+    place:North Maroc (6,31)
+    activity:movement (31,33)
+    activity:attack (42,38)
+    activity:line (61,53)
+    time:0900PM (36,55)
+    place:Carfax Road (72,58)
+    place:Harrison's Crater (56,59)
+    gridRef:M_5_A_3_1 (39,64)
+    gridRef:M_6_B_3_6 (30,66)
+    unit:2/Royal Munsters (55,69)
+    activity:line (23,71)
+Page 63 (type diary) http://wd3.herokuapp.com/pages/AWD00010uf  ----------
+  24 Mar 1916 0
+    place:Harrison's Crater (82,25)
+  27 Mar 1916 26
+    activity:quiet (21,26)
+    place:Loos (5,27)
+    unit:Right Battalion hqs (7,33)
+    time:0730PM (81,34)
+    unit:1 Glosters (53,36)
+    unit:C Company (68,39)
+    activity:movement (57,39)
+    time:0900PM (41,41)
+    gridRef:M_36_D_5_5 (60,43)
+    unit:B Company (71,43)
+    place:Loos Crassier (48,44)
+    unit:A Company (29,46)
+    place:Loos (38,48)
+    place:Maroc (74,49)
+    unit:D Company (23,50)
+    place:Loos (33,53)
+    activity:movement (26,53)
+    weather:rain (38,56)
+    place:Maroc (41,61)
+    domestic:accomodation (24,70)
+    activity:repair (25,83)
+Page 64 (type diary) http://wd3.herokuapp.com/pages/AWD00010x5  ----------
+  28 Mar 1916 24
+    weather:fine (29,25)
+    time:1100AM (75,28)
+    activity:quiet (22,29)
+    place:Old German Front Line (6,29)
+    place:Maroc (72,44)
+    activity:fire (24,46)
+    place:Piccadilly (22,50)
+    activity:fire (41,53)
+    place:Verdun (48,61)
+    weather:overcast (39,64)
+    weather:overcast (21,65)
+    activity:working (68,68)
+    place:Loos (77,68)
+    unit:26 Field Coy Royal Engineers (28,73)
+    unit:26 Field Coy R E (21,74)
+Page 65 (type diary) http://wd3.herokuapp.com/pages/AWD00010vv  ----------
+  Hashtags: #aeroplanes 
+  29 Mar 1916 23
+    activity:quiet (22,26)
+    activity:other (18,30)
+    place:Maroc (23,34)
+    activity:other (19,48)
+    activity:enemy_activity (31,62)
+    activity:enemy_activity (30,73)
+    place:Harrison's Crater (77,74)
+Page 66 (type diary) http://wd3.herokuapp.com/pages/AWD00010u0  ----------
+  30 Mar 1916 24
+    activity:quiet (59,27)
+    weather:fine (48,27)
+    place:Old German Front Line (8,27)
+    place:Maroc (52,31)
+    unit:Scouts Observation Post (29,32)
+    activity:attack (34,34)
+    place:Artillery Row (21,44)
+    activity:movement (30,46)
+    unit:1 Glosters (79,47)
+    place:Loos (51,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (75,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (50,56)
+Page 67 (type diary) http://wd3.herokuapp.com/pages/AWD00010vy  ----------
+  31 Mar 1916 24
+    activity:fire (22,26)
+    place:Harts (56,27)
+    place:Loos (7,27)
+    place:Harrisons Crater (65,27)
+    activity:attack (66,33)
+    activity:casualty (20,56)
+    weather:fine (40,62)
+    weather:fine (21,63)
+    place:Harrisons Crater (65,66)
+    person:Sergeant Powell (casualty_kia) (23,67)
+    person:Major Carrington (other) (23,74)
+    activity:quiet (21,89)
+    activity:fire (54,89)
+Page 68 (type cover)
+Page 69 (type diary) http://wd3.herokuapp.com/pages/AWD00010uw  ----------
+  1 Apr 1916 24
+    place:Loos (6,26)
+    weather:fine (20,26)
+    weather:fine (33,26)
+    place:Loos (6,29)
+    place:Harrisons Crater (71,30)
+    activity:fire (30,30)
+    time:0900AM (36,34)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 5 (60,38)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 5 (43,38)
+    person:Captain Morris (casualty_kia) (24,43)
+    activity:quiet (20,54)
+    weather:hot (34,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (32,85)
+Page 70 (type diary) http://wd3.herokuapp.com/pages/AWD00010wa  ----------
+  2 Apr 1916 24
+    weather:fine (27,26)
+    weather:fine (20,26)
+    place:Loos (6,27)
+    activity:fire (30,30)
+    activity:enemy_activity (22,31)
+    place:South Street (40,33)
+    time:1000PM (79,42)
+    unit:1 Loyal North Lancs (53,43)
+    domestic:accomodation (69,46)
+    place:Les Brebis (49,47)
+    activity:movement (37,48)
+Page 71 (type diary) http://wd3.herokuapp.com/pages/AWD00010v1  ----------
+  3 Apr 1916 22
+    weather:fine (28,25)
+    place:Les Brebis (6,26)
+    person:Lieutenant Owens (departed_leave) (21,45)
+Page 72 (type diary) http://wd3.herokuapp.com/pages/AWD00010vg  ----------
+  4 Apr 1916 24
+    weather:fine (19,26)
+    weather:fine (31,26)
+    place:Les Brebis (7,27)
+    person:Major Shaw (other) (57,40)
+    place:Bully (74,43)
+    activity:reconnoitered (30,44)
+    place:Hole In The Wall (74,47)
+    activity:working (27,50)
+Page 73 (type diary) http://wd3.herokuapp.com/pages/AWD00010wl  ----------
+  Hashtags: #Court 
+  5 Apr 1916 22
+    place:Les Brebis (4,26)
+    weather:fine (24,26)
+    place:Les Brebis (8,27)
+    activity:working (46,30)
+    activity:other (21,33)
+    activity:fire (22,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (45,40)
+    unit:8/Berkshires (30,42)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (22,43)
+Page 74 (type diary) http://wd3.herokuapp.com/pages/AWD00010w5  ----------
+  6 Apr 1916 23
+    activity:quiet (22,26)
+    place:Les Brebis (7,27)
+    activity:working (21,33)
+    place:Maroc (60,36)
+    time:0645PM (42,37)
+    activity:working (36,38)
+    weather:rain (57,44)
+    time:1030PM (38,46)
+Page 75 (type diary) http://wd3.herokuapp.com/pages/AWD00010tr  ----------
+  7 Apr 1916 24
+    activity:quiet (23,27)
+    place:Les Brebis (7,30)
+    weather:overcast (23,31)
+    place:Saint Pancras Keep (82,33)
+    activity:working (19,34)
+    unit:Trench Maintenance Company (54,34)
+    activity:fire (21,41)
+    person:Second Lieutenant Edmunds (departed_sick) (59,48)
+    person:Second Lieutenant Pugh Evans (returned_hospital) (28,49)
+    person:Second Lieutenant Evans (returned_hospital) (21,50)
+Page 76 (type diary) http://wd3.herokuapp.com/pages/AWD00010ul  ----------
+  8 Apr 1916 25
+    weather:fine (37,27)
+    activity:quiet (23,27)
+    place:Les Brebis (6,28)
+    activity:fire (21,32)
+    activity:movement (29,35)
+    unit:8 Berkshires (79,36)
+    place:Maroc (49,36)
+    domestic:accomodation (66,36)
+    time:0830PM (28,40)
+    unit:Engineers (35,40)
+    activity:attack (48,41)
+    place:Loos Crassier (31,45)
+    activity:enemy_activity (67,45)
+    activity:attack (43,46)
+    activity:attack (20,57)
+    activity:enemy_activity (66,59)
+    domestic:accomodation (21,65)
+Page 77 (type diary) http://wd3.herokuapp.com/pages/AWD00010x0  ----------
+  9 Apr 1916 26
+    weather:fine (23,27)
+    place:Maroc (7,28)
+    place:Puits (58,32)
+    place:Puits 16 (61,32)
+    activity:attack (20,40)
+    place:Les Brebis (39,40)
+    place:Cite Saint Auguste (76,42)
+    activity:attack (23,53)
+Page 78 (type diary) http://wd3.herokuapp.com/pages/AWD00010vd  ----------
+  10 Apr 1916 24
+    weather:fine (27,26)
+    place:Maroc (6,27)
+    activity:repair (22,29)
+    activity:repair (48,29)
+    place:Sickly Alley (57,30)
+    activity:fire (31,37)
+    time:0430PM (24,42)
+    place:Puits 16 (40,46)
+    activity:fire (79,60)
+    place:Neuf Alley (28,74)
+    unit:Infantry op (82,74)
+    activity:other (36,79)
+    time:0545PM (64,80)
+Page 79 (type diary) http://wd3.herokuapp.com/pages/AWD00010wv  ----------
+  11 Apr 1916 25
+    weather:fine (35,26)
+    activity:quiet (23,26)
+    place:Maroc (7,28)
+    activity:movement (29,30)
+    activity:line (73,30)
+    unit:1 Glosters (23,35)
+    time:1130PM (35,39)
+    place:Northern Crassier (58,48)
+    time:1230PM (87,52)
+    activity:attack (24,57)
+    time:1100AM (83,57)
+    activity:enemy_activity (24,69)
+Page 80 (type diary) http://wd3.herokuapp.com/pages/AWD00010x1  ----------
+  12 Apr 1916 23
+    activity:quiet (23,26)
+    place:Maroc (7,28)
+    weather:rain (24,30)
+    place:Northern Crassier (71,35)
+Page 81 (type diary) http://wd3.herokuapp.com/pages/AWD00010wo  ----------
+  13 Apr 1916 23
+    weather:rain (67,26)
+    activity:quiet (23,26)
+    place:Maroc (6,27)
+    weather:fine (55,30)
+    activity:fire (37,34)
+    place:South Maroc (29,38)
+    person:Second Lieutenant Rowlands (joined) (23,42)
+Page 82 (type diary) http://wd3.herokuapp.com/pages/AWD00010w8  ----------
+  14 Apr 1916 23
+    activity:quiet (23,26)
+    place:Maroc (5,27)
+    place:Pylons (73,31)
+    place:Loos Towers (79,31)
+    activity:enemy_activity (40,32)
+    place:Northern Tower (42,36)
+    place:South Maroc (77,51)
+    activity:movement (60,52)
+    domestic:accomodation (70,52)
+    unit:1 Glosters (52,52)
+    unit:1 Berkshires (50,52)
+    unit:1 Gloucesters (21,53)
+    activity:repair (35,61)
+    place:Crassier Sap (81,61)
+    place:Southern Sap (41,64)
+    place:Northern Sap (29,65)
+    activity:enemy_activity (24,74)
+    time:0900PM (46,74)
+    place:Southern Crassier (78,75)
+    activity:fire (46,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,83)
+    person:Captain Davies (returned_leave) (56,91)
+Page 83 (type diary) http://wd3.herokuapp.com/pages/AWD00010vh  ----------
+  15 Apr 1916 25
+    place:South Maroc (6,26)
+    place:Maroc (7,28)
+    place:North Maroc (85,30)
+    activity:fire (22,32)
+    place:South Maroc (27,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,39)
+    activity:working (23,46)
+    activity:working (29,46)
+    unit:Advance Battle Headquarters (46,47)
+    place:Maroc Cemetery (30,51)
+    activity:working (27,55)
+    place:Reserve Line (27,60)
+    person:Lieutenant C Wells (returned_leave) (25,64)
+Page 84 (type diary) http://wd3.herokuapp.com/pages/AWD00010vp  ----------
+  16 Apr 1916 25
+    weather:fine (43,26)
+    activity:quiet (22,27)
+    place:South Maroc (6,28)
+    place:South Maroc (54,30)
+    activity:enemy_activity (23,31)
+    place:South Street (67,34)
+    activity:working (27,35)
+    time:0215PM (27,43)
+    place:Tower Of Loos Pylons (53,43)
+Page 85 (type diary) http://wd3.herokuapp.com/pages/AWD00010wx  ----------
+  17 Apr 1916 25
+    weather:rain (23,26)
+    weather:cold (31,27)
+    place:Maroc (6,27)
+    activity:quiet (25,31)
+    place:Maroc (58,35)
+    unit:1 Glosters (44,35)
+    activity:movement (20,37)
+    place:North Maroc (59,46)
+    place:South Maroc (70,46)
+    activity:fire (22,47)
+Page 86 (type diary) http://wd3.herokuapp.com/pages/AWD00010wt  ----------
+  18 Apr 1916 26
+    weather:rain (23,26)
+    place:Maroc (5,27)
+    place:Seventh Avenue (63,30)
+    activity:fire (22,31)
+    activity:fire (31,32)
+    place:North Maroc (26,34)
+    activity:attack (36,42)
+    place:Triangle (71,43)
+    activity:attack (48,43)
+    time:0200AM (24,43)
+    place:Harts Crater (56,49)
+    activity:attack (35,49)
+    time:0245AM (25,50)
+    place:Loos Towers (38,57)
+    place:North Maroc (41,60)
+    gridRef:M_3_B_2_4.5 (61,61)
+    place:Wingles (23,64)
+    domestic:uniform (58,66)
+    domestic:uniform (20,68)
+    domestic:other (21,75)
+Page 87 (type diary) http://wd3.herokuapp.com/pages/AWD00010u8  ----------
+  19 Apr 1916 23
+    weather:rain (23,26)
+    place:Maroc (7,27)
+    activity:quiet (22,30)
+    activity:repair (42,33)
+    activity:repair (22,34)
+    activity:attack (22,44)
+    activity:enemy_activity (47,44)
+    activity:enemy_activity (68,47)
+    place:Southern Crassier (69,51)
+    domestic:religion (22,66)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (20,74)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,75)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,76)
+Page 88 (type diary) http://wd3.herokuapp.com/pages/AWD00010v6  ----------
+  20 Apr 1916 23
+    weather:fine (69,25)
+    weather:rain (24,26)
+    weather:fine (80,26)
+    place:Maroc (7,27)
+    weather:fine (22,30)
+    time:0615AM (68,32)
+    place:Maroc (51,32)
+    activity:fire (31,33)
+    gridRef:M_4_C_8_4.5 (80,38)
+    activity:attack (29,40)
+    place:Southern Crassier (78,42)
+    place:Petit Sains (83,51)
+    activity:movement (73,52)
+    unit:2 krro (50,53)
+    unit:Loyal North Lancs (55,57)
+    domestic:accomodation (45,57)
+Page 89 (type diary) http://wd3.herokuapp.com/pages/AWD00010up  ----------
+  21 Apr 1916 24
+    weather:rain (24,27)
+    place:Petit Sains (8,28)
+    activity:quiet (21,30)
+    place:Noeux-les-Mines (80,30)
+    domestic:hygiene (72,31)
+    unit:141 Field Ambulance (49,34)
+    unit:141 Field Ambulance (56,34)
+    activity:working (34,39)
+    place:Maroc (43,39)
+Page 90 (type diary) http://wd3.herokuapp.com/pages/AWD00010uh  ----------
+  22 Apr 1916 23
+    weather:rain (24,27)
+    place:Petit Sains (7,28)
+    domestic:hygiene (55,30)
+    domestic:hygiene (20,30)
+    place:Noeux-les-Mines (65,30)
+    activity:quiet (22,38)
+    domestic:inspections (24,42)
+Page 91 (type diary) http://wd3.herokuapp.com/pages/AWD00010u5  ----------
+  Hashtags: #Easter 
+  22 Apr 1916 0
+    weather:fine (37,27)
+    weather:fine (46,27)
+    place:Petit Sains (7,28)
+    activity:quiet (24,28)
+  23 Apr 1916 29
+    domestic:religion (45,31)
+    activity:enemy_activity (72,34)
+    place:Bracquemont (56,41)
+    domestic:sport (23,49)
+    domestic:religion (52,68)
+Page 92 (type diary) http://wd3.herokuapp.com/pages/AWD00010wc  ----------
+  24 Apr 1916 26
+    weather:fine (27,26)
+    place:Petit Sains (8,27)
+    time:0815AM (75,31)
+    activity:working (33,32)
+    place:Maroc (23,37)
+    time:0100PM (50,37)
+    activity:quiet (27,45)
+Page 93 (type diary) http://wd3.herokuapp.com/pages/AWD00010vr  ----------
+  Hashtags: #Observationballoons #Balloons 
+  25 Apr 1916 26
+    weather:fine (21,26)
+    place:Petit Sains (6,27)
+    weather:fine (34,27)
+    time:0815AM (45,32)
+    activity:working (28,32)
+    activity:enemy_activity (66,35)
+    activity:enemy_activity (33,45)
+    place:Petit Sains (24,49)
+    place:Mazingarbe (42,50)
+    activity:fire (56,57)
+    place:Petit Sains (48,62)
+Page 94 (type diary) http://wd3.herokuapp.com/pages/AWD00010vu  ----------
+  26 Apr 1916 23
+    weather:fine (29,27)
+    place:Petit Sains (7,27)
+    activity:quiet (21,31)
+    place:Petit Sains (36,39)
+    time:0800PM (54,44)
+    activity:movement (64,44)
+    domestic:parades (45,44)
+    place:North Maroc (74,44)
+    activity:attack (34,47)
+    unit:8 Berks (50,57)
+    unit:8/Berkshires (51,57)
+    domestic:accomodation (35,57)
+Page 95 (type diary) http://wd3.herokuapp.com/pages/AWD00010vj  ----------
+  Hashtags: #Howitzer 
+  27 Apr 1916 25
+    time:0530AM (52,27)
+    place:North Maroc (5,28)
+    place:South Street (74,30)
+    place:North Maroc (7,30)
+    activity:movement (34,31)
+    place:Piccadilly (23,35)
+    activity:reserve (49,35)
+    place:Loos (59,42)
+    time:0830AM (84,42)
+    unit:Headquarters (22,44)
+    place:North Maroc (42,47)
+    activity:movement (26,48)
+    activity:reserve (66,51)
+    time:0100PM (36,56)
+    activity:enemy_activity (47,59)
+    time:1000PM (34,60)
+    unit:16 Division (47,62)
+    place:Loos (25,63)
+    place:Hulluch (30,63)
+    place:Chalk Pit (27,68)
+    activity:enemy_activity (52,69)
+    place:Mazingarbe (25,76)
+Page 96 (type diary) http://wd3.herokuapp.com/pages/AWD00010vw  ----------
+  27 Apr 1916 26
+    unit:16 Division (23,28)
+    place:North Maroc (6,29)
+    unit:2/6 Welsh Regiment (50,36)
+    unit:2 Welsh (47,37)
+    time:0716PM (23,41)
+    time:0735PM (69,41)
+    activity:quiet (22,51)
+    activity:working (33,56)
+    activity:working (23,59)
+    activity:working (42,61)
+    person:Captain Wells (other) (75,61)
+    place:Carfax Road (46,65)
+Page 97 (type diary) http://wd3.herokuapp.com/pages/AWD00010wn  ----------
+  28 Apr 1916 26
+    place:North Maroc (5,30)
+    weather:fine (30,31)
+    place:North Maroc (54,34)
+    activity:fire (30,34)
+    activity:working (78,41)
+    activity:working (40,43)
+    place:Reserve Line (69,45)
+    domestic:parades (21,45)
+    place:Carfax Road (78,46)
+    person:Captain Frisby (other) (38,47)
+    activity:attack (31,53)
+    time:0845PM (26,54)
+    activity:raid (49,57)
+    time:0930PM (50,74)
+Page 98 (type diary) http://wd3.herokuapp.com/pages/AWD00010we  ----------
+  29 Apr 1916 30
+    activity:quiet (24,31)
+    place:North Maroc (8,31)
+    activity:working (33,35)
+    place:Loos (54,39)
+    unit:1 Glosters (43,42)
+    place:Loos (29,42)
+    time:0930PM (44,47)
+    activity:fire (62,50)
+    place:Fin Street Sap (74,50)
+    activity:attack (81,52)
+    activity:attack (45,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (29,54)
+Page 99 (type diary) http://wd3.herokuapp.com/pages/AWD00010wm  ----------
+  30 Apr 1916 27
+    place:Loos (7,31)
+    weather:hot (24,31)
+    place:Loos (7,35)
+    time:1000AM (83,35)
+    activity:fire (35,36)
+    activity:fire (26,37)
+    gridRef:M_5_D_8_7 (80,38)
+    mapRef:M 5d 8.7 (79,39)
+    time:1115AM (28,39)
+    activity:fire (69,41)
+    gridRef:M_5_D_6_7.5 (23,42)
+    activity:fire (59,61)
+    activity:fire (47,62)
+    time:1030PM (26,62)
+    activity:enemy_activity (31,80)
+    place:Lens Road (28,88)
+    activity:attack (75,88)
+Page 100 (type diary) http://wd3.herokuapp.com/pages/AWD00010tn  ----------
+  30 Apr 1916 29
+    activity:attack (19,30)
+    place:Loos (7,31)
+    activity:fire (21,34)
+    person:Lance Corporal Jones (combat) (29,39)
+    person:Sergeant Jones (combat) (59,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (61,61)
+    person:Captain Frisly (combat) (22,65)
+    activity:attack (33,66)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (21,85)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,86)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (74,88)
+Page 101 (type diary) http://wd3.herokuapp.com/pages/AWD00010uo  ----------
+  30 Apr 1916 28
+    place:Loos (7,31)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,31)
+    person:Sergeant Jones (casualty_wounded) (23,34)
+    place:Loos (68,34)
+    place:Lens Road (65,39)
+    activity:reconnoitered (24,39)
+    activity:fire (54,42)
+    activity:enemy_activity (78,50)
+    activity:enemy_activity (22,53)
+    place:Lens Road (43,54)
+    activity:attack (67,54)
+    person:Sergeant Jones (other) (31,62)
+    person:Captain Sneath (other) (64,66)
+    person:Sergeant Jones (other) (22,69)
+    place:Maroc (38,73)
+    place:Philosophe (48,73)
+    person:Private S Martins (other) (83,74)
+    person:Private P Walters (other) (27,77)
+    person:Private H Piggott (other) (38,77)
+    place:Maroc (81,77)
+    activity:fire (28,81)
+    person:Sergeant Jones (casualty_died) (25,84)
+    place:Bethune (45,85)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (18,85)
+    person:Private W Phillips (other) (40,92)
+    person:Private J Evans (other) (51,92)
+Page 102 (type cover)
+Page 103 (type diary) http://wd3.herokuapp.com/pages/AWD00010vb  ----------
+  1 May 1916 23
+    place:Loos (6,29)
+    activity:repair (77,30)
+    weather:hot (28,30)
+    activity:reconnoitered (72,38)
+    time:0200AM (81,51)
+    activity:reconnoitered (24,54)
+    place:Lens Road (63,54)
+  30 Apr 1916 0
+  1 May 1916 23
+    activity:fire (73,61)
+    time:0220AM (27,70)
+Page 104 (type diary) http://wd3.herokuapp.com/pages/AWD00010v5  ----------
+  2 May 1916 26
+    place:Loos (7,31)
+    weather:fine (24,31)
+    activity:fire (31,31)
+    activity:fire (68,31)
+    activity:movement (72,37)
+    unit:1 Gloucesters (46,37)
+    unit:1 Glosters (57,38)
+Page 105 (type diary) http://wd3.herokuapp.com/pages/AWD00010vo  ----------
+  Hashtags: #mine #camouflet #gas 
+  3 May 1916 24
+    weather:hot (30,29)
+    activity:other (40,30)
+    weather:hot (23,30)
+    time:0110AM (64,30)
+    activity:fire (54,34)
+    activity:fire (41,37)
+    activity:attack (71,38)
+    time:0830PM (46,38)
+    activity:fire (70,50)
+    unit:16 Division (35,53)
+    time:0900PM (52,54)
+    activity:other (61,57)
+    time:0907PM (67,57)
+    unit:16 Division (38,60)
+    time:1010PM (23,65)
+Page 106 (type diary) http://wd3.herokuapp.com/pages/AWD00010ty  ----------
+  Hashtags: #aeroplanes 
+  4 May 1916 25
+    activity:quiet (32,29)
+    activity:enemy_activity (71,29)
+    weather:hot (57,30)
+    weather:hot (52,31)
+    unit:173 Coy Royal Engineers (53,42)
+    activity:working (30,42)
+    unit:173 Coy R E (60,43)
+Page 107 (type diary) http://wd3.herokuapp.com/pages/AWD00010vn  ----------
+  5 May 1916 24
+    activity:quiet (23,24)
+    activity:quiet (47,26)
+Page 108 (type diary) http://wd3.herokuapp.com/pages/AWD00010wk  ----------
+  6 May 1916 28
+    activity:quiet (24,27)
+    weather:fine (33,34)
+Page 109 (type diary) http://wd3.herokuapp.com/pages/AWD00010w0  ----------
+  7 May 1916 21
+    place:Les Brebis (7,25)
+    weather:fine (23,27)
+    activity:fire (57,32)
+    activity:quiet (22,38)
+Page 110 (type diary) http://wd3.herokuapp.com/pages/AWD00010ug  ----------
+  8 May 1916 21
+    weather:rain (33,25)
+    place:Les Brebis (7,25)
+    weather:rain (22,26)
+    activity:working (37,31)
+Page 111 (type diary) http://wd3.herokuapp.com/pages/AWD000112m  ----------
+  9 May 1916 21
+    place:Les Brebis (7,24)
+    weather:fine (26,25)
+    activity:quiet (24,31)
+Page 112 (type diary) http://wd3.herokuapp.com/pages/AWD00010x2  ----------
+  10 May 1916 20
+    place:Les Brebis (7,23)
+    activity:quiet (25,24)
+Page 113 (type diary) http://wd3.herokuapp.com/pages/AWD00010uy  ----------
+  11 May 1916 21
+    place:Les Brebis (7,25)
+    weather:fine (30,25)
+    weather:fine (22,26)
+    place:Les Brebis (7,28)
+    activity:enemy_activity (20,30)
+    place:Philosophe (41,37)
+    place:Maroc (65,37)
+    activity:fire (25,38)
+    place:Grenay (55,38)
+    place:Les Brebis (31,42)
+    activity:enemy_activity (71,46)
+    activity:fire (23,50)
+    place:Hohenzollern Redoubt (65,50)
+Page 114 (type diary) http://wd3.herokuapp.com/pages/AWD00010tl  ----------
+  12 May 1916 22
+    place:Les Brebis (7,23)
+    activity:quiet (25,24)
+Page 115 (type diary) http://wd3.herokuapp.com/pages/AWD00010x9  ----------
+  13 May 1916 21
+    weather:fine (31,26)
+    place:Les Brebis (7,27)
+    activity:movement (78,27)
+    place:South Maroc (26,32)
+    activity:fire (68,32)
+    activity:reserve (48,33)
+Page 116 (type diary) http://wd3.herokuapp.com/pages/AWD00010tt  ----------
+  14 May 1916 22
+    activity:fire (27,25)
+    place:South Maroc (7,25)
+    place:North Maroc (37,28)
+    activity:quiet (25,34)
+Page 117 (type diary) http://wd3.herokuapp.com/pages/AWD00010v3  ----------
+  15 May 1916 22
+    place:South Maroc (7,25)
+    weather:fine (21,25)
+    weather:fine (35,26)
+    activity:quiet (28,31)
+Page 118 (type diary) http://wd3.herokuapp.com/pages/AWD00010tx  ----------
+  16 May 1916 20
+    activity:quiet (24,24)
+    place:South Maroc (7,24)
+    unit:2 Welsh (74,28)
+    unit:2/6 Welsh Regiment (78,29)
+    unit:3 Brigade (76,33)
+    activity:movement (23,37)
+    activity:movement (37,37)
+    place:Les Brebis (64,38)
+    place:Houchin (53,40)
+Page 119 (type diary) http://wd3.herokuapp.com/pages/AWD00010u2  ----------
+  17 May 1916 20
+    activity:quiet (24,23)
+    place:Houchin (6,23)
+    domestic:inspections (66,24)
+Page 120 (type diary) http://wd3.herokuapp.com/pages/AWD00010x3  ----------
+  18 May 1916 21
+    domestic:parades (31,23)
+    domestic:parades (20,24)
+    place:Houchin (7,25)
+    activity:training (29,31)
+Page 121 (type diary) http://wd3.herokuapp.com/pages/AWD00010w1  ----------
+  19 May 1916 20
+    activity:movement (31,24)
+    place:Maroc (44,24)
+    place:Houchin (6,24)
+    person:Captain Wells (other) (23,28)
+    place:Houchin (28,32)
+    activity:training (49,33)
+Page 122 (type diary) http://wd3.herokuapp.com/pages/AWD00010wh  ----------
+  20 May 1916 21
+    activity:repair (63,25)
+    activity:repair (20,25)
+    place:Maroc (37,26)
+    activity:repair (64,29)
+    place:Houchin (38,30)
+Page 123 (type diary) http://wd3.herokuapp.com/pages/AWD00010wb  ----------
+  21 May 1916 22
+    activity:quiet (28,28)
+Page 124 (type diary) http://wd3.herokuapp.com/pages/AWD00010wu  ----------
+  22 May 1916 21
+    place:Houchin (39,26)
+    place:Edgeware Road (65,30)
+    activity:repair (44,30)
+Page 125 (type diary) http://wd3.herokuapp.com/pages/AWD00010xn  ----------
+  23 May 1916 21
+    activity:quiet (24,25)
+    activity:repair (57,26)
+    place:Maroc (22,31)
+    place:Houchin (32,31)
+Page 126 (type diary) http://wd3.herokuapp.com/pages/AWD00010um  ----------
+  24 May 1916 27
+    activity:quiet (29,29)
+    weather:fine (21,34)
+    weather:fine (26,35)
+Page 127 (type diary) http://wd3.herokuapp.com/pages/AWD00010vx  ----------
+  25 May 1916 27
+    activity:quiet (24,29)
+    weather:rain (35,34)
+Page 128 (type diary) http://wd3.herokuapp.com/pages/AWD00010wj  ----------
+  26 May 1916 30
+    weather:rain (53,29)
+    activity:quiet (26,30)
+    weather:rain (62,31)
+Page 129 (type diary) http://wd3.herokuapp.com/pages/AWD00010w7  ----------
+  27 May 1916 26
+    place:Houchin (55,30)
+    weather:fine (30,30)
+    activity:movement (65,30)
+    place:Maroc (69,42)
+    activity:movement (55,42)
+Page 130 (type diary) http://wd3.herokuapp.com/pages/AWD00010vm  ----------
+  28 May 1916 26
+    place:Houchin (51,30)
+    place:Maroc (65,30)
+    activity:movement (25,30)
+    activity:working (62,33)
+    time:0600AM (25,35)
+    time:0900AM (51,35)
+    activity:working (47,38)
+    place:Haymarket (64,42)
+    place:Queen Street (30,42)
+    activity:fire (30,45)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (80,46)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,49)
+Page 131 (type diary) http://wd3.herokuapp.com/pages/AWD00010tm  ----------
+  29 May 1916 26
+    domestic:accomodation (76,29)
+    activity:quiet (21,30)
+    activity:fire (66,31)
+    activity:working (79,34)
+    activity:working (42,38)
+    place:Houchin (39,42)
+    activity:fire (32,46)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (74,46)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (20,49)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,49)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,50)
+Page 132 (type diary) http://wd3.herokuapp.com/pages/AWD00010vi  ----------
+  30 May 1916 30
+    activity:repair (69,30)
+    activity:working (35,31)
+    activity:fire (49,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,38)
+    activity:fire (77,40)
+    place:Maroc (57,41)
+    activity:fire (28,42)
+Page 133 (type diary) http://wd3.herokuapp.com/pages/AWD00010vk  ----------
+  31 May 1916 31
+    activity:quiet (20,29)
+    activity:fire (34,34)
+    place:North Maroc (62,34)
+    domestic:accomodation (49,34)
+    activity:working (28,38)
+    activity:repair (43,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,45)
+    person:Lieutenant Rc Brabazon (author) (56,71)

@@ -1,0 +1,1224 @@
+GWD000005v wo/95/1123/5
+2 CAVALRY DIVISION: 3 Brigade Ammunition Column 
+89 pages
+
+Page 1 (type cover)
+Page 2 (type diary) http://wd3.herokuapp.com/pages/AWD0000w9r  ----------
+  1 Aug 1914 0
+  13 Oct 1914 24
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8t  ----------
+  13 Oct 1914 0
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0000wa2  ----------
+  21 Oct 1914 29
+    activity:resupplying (39,39)
+  14 Nov 1914 61
+    place:Bleu (39,61)
+    activity:movement (30,62)
+  17 Nov 1914 71
+    unit:5 Division (64,75)
+    place:Vieux Berquin (34,77)
+    activity:movement (44,79)
+  18 Nov 1914 80
+    activity:resupplying (47,86)
+    place:Dranoutre (34,86)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD0000w86  ----------
+  Hashtags: #king 
+  19 Nov 1914 27
+    activity:movement (53,28)
+  22 Nov 1914 42
+    activity:reserve (49,42)
+  23 Nov 1914 50
+    unit:Warwickshire Royal Horse Artillery ammunition column (30,53)
+  31 Dec 1914 63
+    activity:reserve (42,63)
+    place:Vieux Berquin (65,63)
+    domestic:inspections (29,75)
+    person:Field Marshal French (commander) (45,81)
+    person:Field Marshal Fm lui j french commander-in chief (commander) (42,81)
+    domestic:inspections (29,83)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8j  ----------
+  14 Dec 1914 25
+    activity:resupplying (42,30)
+    casualties:died: 0; killed: 66; missing: 0; prisoner: 0; sick: 0; wounded: 0 (68,37)
+    unit:South Warwickshires Ammunition Column (38,52)
+    strength:officer: 0; nco: 0; other: 400 (45,72)
+    casualties:died: 0; killed: 500; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,74)
+    person:Second Lieutenant Stewart (promotion) (40,79)
+    person:Second Lieutenant Earnshaw (promotion) (34,80)
+  1 Jan 1915 82
+    person:Captain N A L Day (departed_posted) (28,83)
+  3 Jan 1915 87
+    person:Lieutenant Du Buisson (joined) (65,87)
+    person:Major W F Parsons (departed_posted) (29,90)
+    unit:114 Battery, Royal Field Artillery (41,92)
+Page 7 (type cover)
+Page 8 (type ) http://wd3.herokuapp.com/pages/AWD0000wao  ----------
+  3 Jan 1915 21
+Page 9 (type cover)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD0000w9b  ----------
+  Hashtags: #logistics 
+  1 Feb 1915 23
+    time:0730AM (11,30)
+    activity:movement (35,30)
+    place:Petit-Bois (16,30)
+    time:0300PM (11,33)
+    place:Vieux Berquin (18,33)
+    place:Vieux Berquin (37,33)
+  3 Feb 1915 37
+    unit:Cavalry Regiment (55,40)
+    activity:movement (35,42)
+  5 Feb 1915 48
+  6 Feb 1915 57
+    unit:124 Battery, Royal Field Artillery (52,60)
+    person:Second Lieutenant G L A Duff (joined) (29,61)
+    person:Lieutenant Gla Duff (joined) (31,61)
+  7 Feb 1915 65
+    person:Captain K Parbury (departed_posted) (50,68)
+    person:Captain C G Lawson (departed_posted) (31,70)
+    unit:J Battery, Royal Horse Artillery (71,72)
+    unit:28 Division (30,73)
+    person:Second Lieutenant T G Du Buisson (departed_posted) (37,73)
+  8 Feb 1915 77
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD0000waa  ----------
+  Hashtags: #motorcyclist 
+  8 Feb 1915 0
+  14 Feb 1915 53
+  19 Feb 1915 70
+    unit:Secunderabad Cavalry Brigade Ammunition Column (64,72)
+    person:Second Lieutenant T R Anderson (joined) (32,73)
+  27 Feb 1915 78
+    place:Hazebrouk (48,83)
+    place:Vieux Berquin (14,84)
+    activity:movement (30,84)
+    time:0800AM (6,85)
+    place:Grand Bois (14,87)
+    place:Pihem (41,87)
+    place:Bientques (50,87)
+    place:Grand-Bois (30,88)
+    person:Captain Soames (commander) (52,93)
+Page 12 (type cover)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8s  ----------
+  3 Mar 1915 24
+    person:Second Lieutenant Thorne (joined) (58,27)
+    person:Second Lieutenant H B Russell (joined) (30,28)
+  9 Mar 1915 51
+    activity:movement (30,58)
+    time:0600AM (6,59)
+    place:Grand-Bois (13,60)
+    place:Vieux Berquin (13,63)
+    time:0300PM (6,63)
+  10 Mar 1915 65
+  13 Mar 1915 72
+    unit:North Midland Territorial Division (38,81)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD0000w9z  ----------
+  21 Mar 1915 24
+    person:Second Lieutenant G L A Duff (departed_posted) (33,28)
+  26 Mar 1915 33
+    person:Captain M G Soames (57,36)
+    person:Captain O H Stanley (joined) (29,37)
+    unit:D Battery, Royal Horse Artillery (38,41)
+  27 Mar 1915 42
+    person:Second Lieutenant R A Beck (joined) (34,46)
+Page 15 (type cover)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD0000w9l  ----------
+  Hashtags: #measles #medical 
+  2 Apr 1915 22
+  6 Apr 1915 28
+    person:Second Lieutenant G M Dixon (joined) (56,32)
+  7 Apr 1915 37
+    unit:Warwickshires Royal Horse Artillery ammunition column (30,37)
+    unit:Warwickshires Battery, Royal Horse Artillery (49,40)
+  14 Apr 1915 41
+    person:Lieutenant R E Eden (joined) (29,41)
+    unit:Warwickshires Battery, Royal Horse Artillery (31,47)
+    domestic:medical (63,49)
+    unit:9 Cavalry Brigade (35,50)
+  17 Apr 1915 54
+    unit:Warwickshires Battery, Royal Horse Artillery (53,57)
+  23 Apr 1915 59
+    person:Second Lieutenant G M Dixon (joined) (31,59)
+    place:Estaires (58,63)
+    unit:7 Division (53,67)
+  24 Apr 1915 71
+    place:Fletre (45,72)
+  26 Apr 1915 75
+    place:Boeschepe (50,75)
+    place:Boeschepe (55,77)
+    unit:D Battery, Royal Horse Artillery (39,87)
+    unit:E Battery, Royal Horse Artillery (50,87)
+    unit:J Battery, Royal Horse Artillery (60,87)
+    unit:Anti-aircraft section, Royal Horse Artillery (71,87)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD0000w90  ----------
+  27 Apr 1915 23
+    unit:E Battery, Royal Horse Artillery (61,26)
+    unit:J Battery, Royal Horse Artillery (70,26)
+    activity:resupplying (30,27)
+    unit:D Battery, Royal Horse Artillery (50,27)
+  28 Apr 1915 30
+    unit:D Battery, Royal Horse Artillery (59,39)
+    unit:E Battery, Royal Horse Artillery (68,39)
+    activity:resupplying (31,41)
+    unit:Anti-aircraft section, Royal Horse Artillery (43,44)
+  29 Apr 1915 45
+    unit:J Battery, Royal Horse Artillery (34,45)
+  30 Apr 1915 50
+    activity:resupplying (34,50)
+    unit:J Battery, Royal Horse Artillery (62,53)
+    activity:resupplying (43,54)
+    unit:D Battery, Royal Horse Artillery (29,54)
+    unit:E Battery, Royal Horse Artillery (50,54)
+    person:Captain O H Stanley (58,59)
+Page 18 (type cover)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD0000w9h  ----------
+  1 May 1915 19
+  3 May 1915 25
+    activity:resupplying (40,25)
+    time:0730PM (66,30)
+    activity:movement (58,31)
+    place:La Sarthe (31,35)
+    place:Merville (50,35)
+  4 May 1915 38
+    place:Zevecoten (46,39)
+    person:Lieutenant Anderson (32,43)
+    unit:D Battery (57,44)
+    unit:D Battery, Royal Horse Artillery (55,44)
+  5 May 1915 47
+    person:Lieutenant Waldron (casualty_wounded) (47,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (53,48)
+    activity:movement (43,53)
+    place:La Sarthe (56,53)
+    place:La Gorgue (70,53)
+  6 May 1915 57
+    unit:D Battery (69,57)
+    unit:D Battery, Royal Horse Artillery (70,57)
+    activity:resupplying (39,57)
+  7 May 1915 61
+    unit:D Battery (53,61)
+    unit:D Battery, Royal Horse Artillery (53,61)
+    activity:resupplying (30,62)
+  8 May 1915 65
+    unit:E Battery (56,66)
+    unit:D Battery (58,66)
+    unit:J Battery (60,66)
+    activity:resupplying (31,66)
+  9 May 1915 69
+    activity:resupplying (30,69)
+  10 May 1915 73
+    unit:E Battery (47,73)
+    unit:E Battery, Royal Horse Artillery (48,73)
+    unit:D Battery, Royal Horse Artillery (56,73)
+    activity:resupplying (30,73)
+    unit:D Battery (56,74)
+  11 May 1915 76
+    activity:resupplying (30,77)
+  14 May 1915 80
+    unit:D Battery (61,81)
+    unit:D Battery, Royal Horse Artillery (61,81)
+    activity:resupplying (31,81)
+  15 May 1915 83
+    activity:resupplying (31,84)
+  16 May 1915 86
+    activity:resupplying (30,87)
+  17 May 1915 89
+    activity:resupplying (32,89)
+    unit:D Battery (61,90)
+    unit:D Battery, Royal Horse Artillery (61,90)
+    activity:resupplying (30,92)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD0000wa7  ----------
+  18 May 1915 21
+    place:La Gorgue (15,23)
+    unit:E Battery, Royal Horse Artillery (48,24)
+    activity:resupplying (33,25)
+  19 May 1915 27
+    unit:J Battery, Royal Horse Artillery (49,28)
+  20 May 1915 30
+    activity:resupplying (33,30)
+  25 May 1915 33
+    unit:E Battery, Royal Horse Artillery (50,33)
+    activity:resupplying (34,34)
+  26 May 1915 37
+    activity:resupplying (33,37)
+  31 May 1915 41
+    activity:resupplying (34,42)
+    place:Renescure (48,46)
+    time:0800PM (41,46)
+    activity:movement (31,47)
+    time:0500AM (68,54)
+    place:Vieux-Berquin (40,55)
+    place:Renescure (39,66)
+Page 21 (type cover)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD0000w91  ----------
+  1 Jun 1915 21
+  9 Jun 1915 31
+    person:Second Lieutenant H B Russell (departed_posted) (30,35)
+    person:Captain O H Stanley (commander) (64,47)
+Page 23 (type cover)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD0000w9w  ----------
+  20 Jul 1915 37
+    activity:movement (33,42)
+    place:Clairmarais (41,42)
+    person:Captain O H Stanley (commander) (55,51)
+Page 25 (type cover)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD0000wa8  ----------
+  20 Jul 1915 0
+  3 Aug 1915 24
+    person:Second Lieutenant C H Verden (joined) (35,28)
+  5 Aug 1915 31
+    unit:52 Battery, Royal Field Artillery (67,35)
+    person:Captain Stanley (departed_posted) (46,35)
+  7 Aug 1915 42
+    unit:No. 36 (French) Mortar Battery (70,46)
+    person:Lieutenant Shane (departed_posted) (32,47)
+  12 Aug 1915 54
+  6 Aug 1915 66
+    place:Ecques (65,69)
+    activity:movement (43,70)
+Page 27 (type cover)
+Page 28 (type cover)
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8r  ----------
+  4 Sep 1915 23
+    place:Bethune (64,28)
+    activity:movement (50,29)
+    place:Beuvry (48,40)
+    domestic:accomodation (38,41)
+    place:Vendin-les-Bethune (33,46)
+    unit:2 Division (35,52)
+  7 Sep 1915 53
+    unit:D Battery, Royal Horse Artillery (35,58)
+  8 Sep 1915 60
+    unit:J Battery, Royal Horse Artillery (36,64)
+  12 Sep 1915 66
+    unit:D Battery, Royal Horse Artillery (28,70)
+  14 Sep 1915 73
+    unit:D Battery, Royal Horse Artillery (28,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,78)
+    unit:D Battery, Royal Horse Artillery (54,82)
+  15 Sep 1915 84
+    unit:J Battery, Royal Horse Artillery (28,84)
+    unit:E Battery, Royal Horse Artillery (27,89)
+    unit:D Battery, Royal Horse Artillery (52,89)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD0000w82  ----------
+  17 Sep 1915 25
+  21 Sep 1915 32
+  24 Sep 1915 39
+    time:0530PM (40,43)
+  25 Sep 1915 44
+    time:0330PM (49,47)
+  28 Sep 1915 49
+  29 Sep 1915 54
+  30 Sep 1915 65
+Page 31 (type cover)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8q  ----------
+  3 Oct 1915 24
+  17 Oct 1915 33
+    place:La Sablonniere (55,38)
+  19 Oct 1915 42
+    place:Le Rons (56,42)
+  27 Oct 1915 47
+    person:Second Lieutenant N G Pring (joined) (29,51)
+    person:Second Lieutenant R Cochrane (joined) (30,55)
+  28 Oct 1915 56
+    person:Second Lieutenant P Q Muirhead (joined) (29,60)
+  29 Oct 1915 64
+    person:Second Lieutenant C H Verden (departed_posted) (29,68)
+  31 Oct 1915 70
+    person:A B Thorne (returned_posted) (29,74)
+Page 33 (type cover)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD0000w9u  ----------
+  20 Nov 1915 25
+    person:Captain T B Persse (departed_sick) (32,29)
+    person:Second Lieutenant Trim (commander) (55,33)
+  27 Nov 1915 37
+    person:Second Lieutenant R W H Wilkes (joined) (24,42)
+    person:Second Lieutenant R W H Wilkes (joined) (39,42)
+  29 Nov 1915 46
+    activity:movement (49,51)
+    unit:E Battery, Royal Horse Artillery (69,57)
+    place:Ecques (50,61)
+    place:Herbelles (67,64)
+    activity:movement (45,64)
+  30 Nov 1915 66
+    unit:D Battery, Royal Horse Artillery (43,68)
+    unit:J Battery, Royal Horse Artillery (49,68)
+    unit:D Battery, Royal Horse Artillery (29,72)
+    unit:J Battery, Royal Horse Artillery (34,72)
+    place:Locon (63,73)
+    activity:movement (46,74)
+    activity:movement (48,75)
+    unit:E Battery, Royal Horse Artillery (29,76)
+    place:Hinges (68,77)
+Page 35 (type cover)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8w  ----------
+  1 Dec 1915 21
+    unit:46 Division (60,24)
+    unit:D Battery, Royal Horse Artillery (28,25)
+    unit:J Battery, Royal Horse Artillery (33,25)
+  5 Dec 1915 27
+    unit:7 Division (58,27)
+    unit:E Battery, Royal Horse Artillery (30,28)
+    unit:D Battery, Royal Horse Artillery (28,29)
+    unit:19 Division (46,29)
+    unit:E Battery, Royal Horse Artillery (55,29)
+    unit:12 Division (66,29)
+    unit:J Battery, Royal Horse Artillery (32,30)
+    unit:D Battery, Royal Horse Artillery (32,36)
+    unit:J Battery, Royal Horse Artillery (50,36)
+    unit:E Battery, Royal Horse Artillery (67,37)
+    activity:resupplying (32,50)
+    activity:resupplying (32,55)
+    activity:resupplying (33,64)
+    activity:resupplying (33,69)
+    activity:resupplying (33,74)
+    activity:resupplying (33,78)
+    activity:resupplying (33,83)
+  12 Dec 1915 89
+    activity:resupplying (33,89)
+Page 37 (type ) http://wd3.herokuapp.com/pages/AWD0000w8g  ----------
+Page 38 (type diary) http://wd3.herokuapp.com/pages/AWD0000w95  ----------
+  12 Dec 1915 0
+    activity:resupplying (43,24)
+    unit:D Battery, Royal Horse Artillery (31,28)
+    unit:J Battery, Royal Horse Artillery (47,28)
+    unit:E Battery, Royal Horse Artillery (67,28)
+  24 Dec 1915 34
+  28 Dec 1915 39
+  29 Dec 1915 43
+  30 Dec 1915 47
+  31 Dec 1915 51
+Page 39 (type cover)
+Page 40 (type diary) http://wd3.herokuapp.com/pages/AWD0000w9d  ----------
+  31 Dec 1915 0
+  7 Jan 1916 25
+    unit:J Battery, Royal Horse Artillery (53,26)
+    person:Second Lieutenant C J L Lutyens (joined) (28,26)
+    time:0800AM (10,28)
+    activity:movement (46,28)
+    place:Annezin (55,29)
+    unit:Dismounted Division of Cavalry Corps (40,31)
+    unit:1 Dismounted Brigade (51,37)
+    unit:3 Dismounted Brigade (60,37)
+  9 Jan 1916 75
+    person:Second Lieutenant S C Turner (30,44)
+  16 Jan 1916 45
+  25 Jan 1916 54
+    person:Second Lieutenant N G Pring (joined) (30,49)
+    person:Lieutenant March (joined) (30,53)
+    unit:33 Division (56,57)
+    person:Second Lieutenant C J L Lutyens (departed_posted) (29,58)
+    unit:23 Division (53,60)
+    person:Second Lieutenant N G Pring (departed_posted) (29,61)
+    unit:D Battery, Royal Horse Artillery (30,70)
+    unit:E Battery, Royal Horse Artillery (46,70)
+    unit:J Battery, Royal Horse Artillery (61,70)
+  9 Jan 1916 75
+    activity:resupplying (28,76)
+    activity:resupplying (36,77)
+  11 Jan 1916 81
+    activity:resupplying (36,82)
+  12 Jan 1916 84
+    activity:resupplying (28,85)
+  13 Jan 1916 87
+Page 41 (type diary) http://wd3.herokuapp.com/pages/AWD0000w9c  ----------
+  13 Jan 1916 0
+  15 Jan 1916 28
+    activity:resupplying (28,29)
+  16 Jan 1916 31
+    activity:resupplying (28,33)
+  17 Jan 1916 34
+    activity:resupplying (38,35)
+  18 Jan 1916 37
+    activity:resupplying (37,39)
+  19 Jan 1916 41
+    activity:resupplying (28,43)
+  20 Jan 1916 45
+    activity:resupplying (37,46)
+  21 Jan 1916 48
+    activity:resupplying (28,50)
+  22 Jan 1916 52
+    activity:resupplying (37,54)
+  23 Jan 1916 56
+    activity:resupplying (28,58)
+  24 Jan 1916 60
+    activity:resupplying (37,62)
+  25 Jan 1916 64
+  26 Jan 1916 68
+    activity:resupplying (28,70)
+  27 Jan 1916 71
+    activity:resupplying (28,73)
+  28 Jan 1916 75
+    activity:resupplying (28,77)
+  29 Jan 1916 79
+    activity:resupplying (27,80)
+  30 Jan 1916 82
+    activity:resupplying (33,83)
+    activity:resupplying (37,84)
+  31 Jan 1916 86
+Page 42 (type diary) http://wd3.herokuapp.com/pages/AWD0000w9g  ----------
+  3 Feb 1916 67
+  4 Feb 1916 69
+    unit:J Battery, Royal Horse Artillery (65,27)
+    person:Lieutenant B O March (28,27)
+  16 Feb 1916 29
+    person:Second Lieutenant R F Angas (joined) (28,30)
+  17 Feb 1916 32
+    unit:35 Division (60,33)
+    person:Second Lieutenant W Wright (joined) (27,36)
+  18 Feb 1916 38
+    person:Second Lieutenant J W H Wilkes (departed_posted) (29,38)
+  28 Feb 1916 41
+    unit:3 Brigade, Royal Horse Artillery (68,41)
+    person:Second Lieutenant J S Fuller (joined) (27,41)
+    person:Second Lieutenant E W Austin (joined) (28,44)
+    activity:movement (52,47)
+    unit:2 Cavalry Division (42,50)
+    unit:E Battery, Royal Horse Artillery (46,61)
+    unit:D Battery, Royal Horse Artillery (29,62)
+    unit:J Battery, Royal Horse Artillery (61,62)
+    activity:resupplying (35,67)
+    activity:resupplying (27,71)
+    activity:resupplying (28,74)
+    activity:resupplying (36,76)
+    activity:resupplying (26,79)
+    activity:resupplying (35,82)
+    activity:resupplying (28,85)
+  10 Feb 1916 86
+    activity:resupplying (36,86)
+    activity:resupplying (36,89)
+Page 43 (type diary) http://wd3.herokuapp.com/pages/AWD0000waf  ----------
+  10 Feb 1916 0
+    unit:D Battery, Royal Horse Artillery (29,22)
+    unit:E Battery, Royal Horse Artillery (46,22)
+    unit:J Battery, Royal Horse Artillery (61,22)
+  11 Feb 1916 24
+    activity:resupplying (28,29)
+  13 Feb 1916 33
+    activity:resupplying (28,33)
+  14 Feb 1916 36
+    activity:resupplying (27,38)
+  15 Feb 1916 39
+    activity:resupplying (36,41)
+  16 Feb 1916 43
+    activity:resupplying (28,44)
+  17 Feb 1916 46
+    activity:resupplying (35,48)
+    activity:resupplying (36,48)
+  19 Feb 1916 54
+  20 Feb 1916 58
+    activity:resupplying (27,60)
+  21 Feb 1916 61
+  25 Feb 1916 65
+    activity:resupplying (27,67)
+  26 Feb 1916 69
+    activity:resupplying (36,71)
+    person:Captain Trim (commander) (53,80)
+Page 44 (type diary) http://wd3.herokuapp.com/pages/AWD0000wcg  ----------
+  Hashtags: #horsescondition 
+  1 Mar 1916 24
+    domestic:accomodation (61,28)
+    activity:training (33,34)
+  6 Mar 1916 47
+    person:Second Lieutenant J S Fuller (departed_posted) (28,51)
+  12 Mar 1916 55
+    unit:16 Division (32,55)
+    person:Second Lieutenant E W Austin (departed_posted) (28,60)
+    unit:Royal Horse Artillery Brigade (32,62)
+    unit:20 Division (54,62)
+  26 Mar 1916 63
+    place:Merck (10,66)
+    unit:J Battery, Royal Horse Artillery (61,67)
+    person:Second Lieutenant S C Turner (departed_posted) (28,68)
+  31 Mar 1916 70
+    person:Second Lieutenant R F Angas (departed_posted) (28,74)
+    unit:32 Division (62,74)
+Page 45 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8e  ----------
+  Hashtags: #horsescondition 
+  14 Apr 1916 26
+    person:Second Lieutenant W Wright (commander) (42,26)
+    unit:3 Cavalry Brigade (48,27)
+    unit:3 Cavalry Brigade (38,28)
+    person:Second Lieutenant W Lucas (joined) (28,30)
+  28 Apr 1916 36
+    unit:Ammunition Park, 2 Cavalry Division (44,36)
+    unit:E Battery, Royal Horse Artillery (59,40)
+    person:Second Lieutenant W Wright (departed_posted) (29,42)
+    domestic:accomodation (54,47)
+    activity:training (36,55)
+    person:Captain Trim (commander) (52,81)
+Page 46 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8n  ----------
+  1 May 1916 23
+    domestic:accomodation (47,29)
+    activity:training (44,32)
+    person:Lieutenant A B Thorne (departed_posted) (29,34)
+    unit:Royal Flying Corps (57,35)
+    person:Second Lieutenant M N Dewing (joined) (31,42)
+  13 May 1916 46
+    unit:E Battery, Royal Horse Artillery (40,46)
+    person:Lieutenant J W Aird (joined) (30,50)
+  29 May 1916 54
+    person:Lieutenant J W Aird (departed_posted) (31,59)
+    person:Second Lieutenant M N Dewing (departed_posted) (55,59)
+    unit:50 Division (63,66)
+    person:Captain Trim (commander) (53,83)
+Page 47 (type diary) http://wd3.herokuapp.com/pages/AWD0000w9k  ----------
+  14 Jun 1916 24
+    unit:Dismounted Brigade (64,35)
+    place:Vlamertinghe (31,35)
+    unit:2 Cavalry Division (46,39)
+  17 Jun 1916 40
+    unit:E Battery, Royal Horse Artillery (64,43)
+    person:Second Lieutenant W Wright (departed_posted) (31,44)
+    person:Second Lieutenant M N Dewing (departed_posted) (32,47)
+  18 Jun 1916 48
+    time:0600PM (6,53)
+  21 Jun 1916 57
+    activity:movement (35,61)
+    time:0330PM (6,62)
+    time:0300AM (56,64)
+  23 Jun 1916 65
+  30 Jun 1916 69
+    activity:movement (44,69)
+    place:Borre (21,69)
+    place:Borre (21,74)
+    person:Second Lieutenant R C Norton (joined) (31,74)
+    person:Captain Trim (commander) (50,89)
+Page 48 (type cover)
+Page 49 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8p  ----------
+  8 Jul 1916 23
+    activity:movement (66,27)
+    time:0245PM (7,29)
+    place:Borre (38,30)
+    place:Borre (7,33)
+    time:0500PM (47,36)
+  15 Jul 1916 37
+    person:Second Lieutenant C J E Robinson (joined) (29,41)
+    unit:2 Dragoons (Royal Scots Greys) (33,46)
+  24 Jul 1916 48
+    activity:training (39,54)
+    activity:training (34,63)
+  30 Jul 1916 66
+    person:Second Lieutenant R C Norton (departed_posted) (29,70)
+    unit:33 Division (66,70)
+Page 50 (type cover)
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD0000w93  ----------
+  6 Aug 1916 23
+    activity:working (38,29)
+    place:Les Cinq Rues (16,29)
+    person:Second Lieutenant W Lucas (54,31)
+    place:Abeele (18,34)
+    unit:F Working Party, 2 Cavalry Division (44,49)
+  23 Aug 1916 54
+    person:Second Lieutenant C J E Robinson (returned_posted) (30,59)
+    unit:D Battery, Royal Horse Artillery (37,63)
+  25 Aug 1916 67
+    person:Second Lieutenant W Lucas (returned_posted) (61,71)
+    person:Lieutenant J W H Wilkes (31,72)
+Page 52 (type cover)
+Page 53 (type diary) http://wd3.herokuapp.com/pages/AWD0000w7x  ----------
+  4 Sep 1916 24
+    place:Hazebrouck (21,27)
+  6 Sep 1916 28
+    place:Hazebrouck (17,31)
+    activity:movement (43,32)
+    time:0930AM (5,32)
+    place:Busnes (18,34)
+  7 Sep 1916 35
+    time:0300PM (5,35)
+    place:Busnes (19,38)
+    time:0845AM (6,39)
+    place:Wavrans (54,40)
+    place:Wavrans (20,41)
+    activity:movement (31,41)
+  8 Sep 1916 42
+    time:0430PM (5,43)
+    place:Hesdin (68,44)
+    place:Wavrans (21,45)
+    place:Saint Georges (56,45)
+    activity:movement (31,46)
+    time:0845AM (6,46)
+  10 Sep 1916 49
+    time:0115PM (6,49)
+    place:Remaisnil (56,53)
+    activity:movement (32,53)
+    time:0930AM (6,54)
+    place:Remaisnil (22,56)
+  11 Sep 1916 57
+    time:0350PM (6,58)
+    place:Remaisnil (21,60)
+    place:Vignacourt (54,60)
+    activity:movement (32,61)
+    time:0730AM (6,61)
+  12 Sep 1916 63
+    place:Vignacourt (19,64)
+    time:0130PM (6,64)
+    place:Bonnay (54,66)
+    place:Vignacourt (21,67)
+    activity:movement (31,68)
+    time:1000AM (6,68)
+  15 Sep 1916 71
+    place:Bonnay (20,71)
+    time:0600PM (8,71)
+    place:Bonnay (17,74)
+    unit:A Echelon Cavalry (69,78)
+    unit:3 Brigade, Royal Horse Artillery (63,82)
+    person:Captain C L Balkwill (departed_posted) (29,84)
+    place:Bonnay (17,84)
+    unit:34 Division (57,88)
+    person:Second Lieutenant G Dania (joined) (29,89)
+    place:Bonnay (16,89)
+Page 54 (type cover)
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD0000w9a  ----------
+  1 Oct 1916 22
+    place:Bonnay (16,27)
+    person:Second Lieutenant J W H Wilkes (joined) (29,27)
+    person:Second Lieutenant J W Aird (44,33)
+  10 Oct 1916 41
+    place:Bonnay (17,44)
+    activity:working (34,45)
+  14 Oct 1916 51
+    place:Bonnay (17,54)
+    activity:working (42,55)
+  19 Oct 1916 58
+    person:W T Else (casualty_wounded) (38,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (60,62)
+  29 Oct 1916 66
+    activity:working (33,70)
+    unit:2 Cavalry Division Ammunition Park (68,75)
+    place:Bonnay (47,84)
+Page 56 (type cover)
+Page 57 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8u  ----------
+  6 Nov 1916 23
+    person:Lieutenant J W H Wilkes (departed_posted) (30,27)
+    place:Bonnay (15,28)
+    person:Second Lieutenant M N Dewing (60,30)
+  8 Nov 1916 32
+    person:Second Lieutenant J Aird (29,33)
+    place:Bussy (52,44)
+    activity:movement (41,44)
+    place:Bussy (22,46)
+  9 Nov 1916 47
+    place:Bussy (15,50)
+    place:Belloy-Sur-Somme (42,50)
+    place:Belloy-Sur-Somme (22,51)
+    activity:movement (31,51)
+  10 Nov 1916 53
+    place:Belloy-Sur-Somme (15,56)
+    activity:movement (32,57)
+    place:Grand-Laviers (19,61)
+  11 Nov 1916 62
+    place:Ponches Estruval (42,65)
+    activity:movement (32,67)
+  17 Nov 1916 71
+    place:Ponches Estruval (16,71)
+    place:Ponches Estruval (15,75)
+    activity:movement (32,75)
+  20 Nov 1916 78
+    place:Estrees-les-Crecy (17,79)
+    person:Second Lieutenant M N Dewing (28,82)
+    person:Second Lieutenant W Lucas (50,82)
+    person:Second Lieutenant R C Norton (joined) (30,86)
+Page 58 (type cover)
+Page 59 (type diary) http://wd3.herokuapp.com/pages/AWD0000wa5  ----------
+  Hashtags: #farming 
+  1 Dec 1916 23
+    place:Estrees-les-Crecy (59,28)
+    domestic:accomodation (45,29)
+    place:Estrees-les-Crecy (8,34)
+    place:Ligescourt (52,48)
+Page 60 (type cover)
+Page 61 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8m  ----------
+  Hashtags: #alliedrelations #farming 
+  9 Jan 1917 23
+    person:Second Lieutenant W Lucas (casualty_wounded) (29,28)
+    place:Estrees-les-Crecy (19,28)
+  8 Jan 1917 30
+    person:Chaplain C C Thicknesse (joined) (30,33)
+    place:Estrees-les-Crecy (18,33)
+    unit:34 Division (53,38)
+    person:Second Lieutenant G Dania (departed_posted) (30,39)
+    place:Estrees-les-Crecy (17,39)
+  17 Jan 1917 54
+    place:Estrees-les-Crecy (17,59)
+    person:Second Lieutenant W Lucas (departed_sick) (30,60)
+Page 62 (type cover)
+Page 63 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8h  ----------
+  Hashtags: #alliedrelations #farming 
+  4 Feb 1917 23
+    person:Second Lieutenant A H Jeffreys (joined) (29,29)
+    place:Estrees-les-Crecy (19,29)
+  5 Feb 1917 34
+    unit:14 Division (30,34)
+    person:Second Lieutenant K C Hadow (joined) (29,39)
+    place:Estrees-les-Crecy (19,39)
+  12 Feb 1917 44
+    unit:12 Division (29,44)
+    person:Second Lieutenant A H Jeffreys (departed_posted) (29,49)
+    place:Estrees-les-Crecy (19,49)
+  16 Feb 1917 53
+    unit:D Battery, Royal Horse Artillery (30,53)
+    person:Second Lieutenant K C Hadow (departed_posted) (30,58)
+    unit:D Battery, Royal Horse Artillery (29,63)
+    activity:training (60,68)
+    activity:other (53,73)
+    person:Lieutenant John W Aird (commander) (56,82)
+Page 64 (type cover)
+Page 65 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8c  ----------
+  Hashtags: #alliedrelations 
+  1 Mar 1917 23
+    person:Captain H F Trim (departed_sick) (31,27)
+  9 Mar 1917 28
+    place:Estrees-les-Crecy (14,28)
+  15 Mar 1917 32
+    person:Captain H F Trim (29,32)
+    place:Estrees-les-Crecy (18,32)
+    place:Estrees-les-Crecy (18,36)
+    person:Lieutenant C H Borthwick (joined) (30,37)
+    unit:Y Battery, Royal Horse Artillery (59,37)
+  21 Mar 1917 38
+    place:Estrees-les-Crecy (18,42)
+    unit:6 Division Ammunition Column (57,42)
+  23 Mar 1917 43
+    person:Captain J Perry (joined) (30,43)
+    place:Estrees-les-Crecy (18,47)
+    person:Second Lieutenant R H Bailey (joined) (30,48)
+    domestic:accomodation (56,56)
+    person:Captain J Perry (commander) (61,77)
+Page 66 (type cover)
+Page 67 (type diary) http://wd3.herokuapp.com/pages/AWD0000wa9  ----------
+  Hashtags: #PTO 
+  5 Apr 1917 23
+    place:Estrees-les-Crecy (19,27)
+    time:1000AM (6,28)
+    activity:movement (60,28)
+    place:Bealcourt (53,32)
+    place:Bealcourt (20,34)
+    time:0400PM (5,35)
+  8 Apr 1917 37
+    place:Henu (49,40)
+    time:0200PM (6,41)
+    activity:movement (39,41)
+    place:Bealcourt (19,41)
+    unit:J Battery, Royal Horse Artillery (58,45)
+    unit:E Battery, Royal Horse Artillery (61,45)
+    unit:D Battery, Royal Horse Artillery (67,46)
+    time:1000PM (6,46)
+    place:Henu (19,47)
+  9 Apr 1917 53
+    activity:movement (33,53)
+    place:Henu (55,53)
+    place:Henu (19,56)
+    activity:movement (59,58)
+  10 Apr 1917 61
+    place:Henu (20,63)
+    time:1200AM (5,64)
+    person:Second Lieutenant J W Aird (commander) (58,65)
+    activity:movement (30,68)
+    place:Arras (39,68)
+    activity:resupplying (50,69)
+  11 Apr 1917 72
+    place:Henu (19,75)
+    activity:movement (57,78)
+  12 Apr 1917 80
+    place:Henu (32,80)
+    place:Henu (20,84)
+    activity:movement (59,85)
+    place:Henu (38,88)
+Page 68 (type diary) http://wd3.herokuapp.com/pages/AWD0000w94  ----------
+  Hashtags: #PTO 
+  20 Apr 1917 23
+    place:Henu (20,27)
+    person:Lieutenant R C Norton (commander) (64,28)
+    time:0900AM (6,29)
+    activity:movement (66,34)
+    domestic:accomodation (46,37)
+  24 Apr 1917 38
+    time:0900AM (6,42)
+    place:Henu (20,42)
+    person:Second Lieutenant C J E Robinson (commander) (29,47)
+  27 Apr 1917 53
+    person:Second Lieutenant R H Bailey (departed_posted) (29,57)
+    place:Henu (20,57)
+    unit:50 Division (68,58)
+  30 Apr 1917 64
+    place:Henu (20,68)
+    place:Henu (57,71)
+    person:Captain J Perry (commander) (57,83)
+Page 69 (type cover)
+Page 70 (type diary) http://wd3.herokuapp.com/pages/AWD0000wai  ----------
+  12 May 1917 23
+    place:Henu (15,26)
+    time:0900AM (4,27)
+    activity:movement (39,29)
+  13 May 1917 30
+    time:0500PM (4,30)
+    place:Naours (16,30)
+    place:Henu (50,30)
+    place:Naours (58,30)
+    time:0700AM (4,34)
+    activity:movement (39,34)
+    place:Naours (15,34)
+    place:Aubigny (58,34)
+    place:Aubigny (20,35)
+    place:Naours (50,35)
+    person:Second Lieutenant G P Hedges (joined) (29,38)
+  14 May 1917 39
+    time:0900AM (4,42)
+    place:Aubigny (16,42)
+    place:Lamotte (20,42)
+    activity:movement (38,43)
+    place:Aubigny (49,43)
+    place:Lamotte (59,44)
+    person:Second Lieutenant M N Dewing (departed_posted) (30,46)
+  15 May 1917 47
+    unit:3 Division (57,48)
+    time:0700AM (4,50)
+    place:Lamotte (14,50)
+    activity:movement (38,51)
+    place:Marquaix (21,51)
+    place:Lamotte (45,51)
+    place:Marquaix (54,52)
+    domestic:accomodation (66,53)
+  16 May 1917 55
+    place:Marquaix (17,58)
+    person:Second Lieutenant J W Aird (departed_posted) (32,59)
+  19 May 1917 63
+    person:Second Lieutenant G P Hedges (departed_posted) (29,67)
+    place:Marquaix (18,67)
+    unit:E Battery, Royal Field Artillery (57,69)
+    person:Lieutenant C H Borthwick (59,73)
+  31 May 1917 76
+    unit:J Battery, Royal Field Artillery (44,76)
+    place:Marquaix (17,80)
+    place:Marquaix (59,82)
+    domestic:accomodation (49,82)
+    person:Captain J Perry (commander) (59,90)
+Page 71 (type cover)
+Page 72 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8v  ----------
+  Hashtags: #horsescondition #alliedrelations #farming 
+  2 Jun 1917 23
+    place:Marquaix (17,28)
+    person:Captain J Andrew (joined) (32,28)
+  1 Jun 1917 37
+    place:Marquaix (17,37)
+    person:Second Lieutenant J W Aird (returned_posted) (30,37)
+    place:Marquaix (59,46)
+    domestic:accomodation (49,46)
+    activity:working (44,51)
+    activity:working (33,55)
+    unit:Agricultural establishment of 2 Cavalry Division (64,65)
+    unit:2 Cavalry Division (35,68)
+  30 Jun 1917 85
+    person:Captain J Perry (commander) (60,90)
+Page 73 (type cover)
+Page 74 (type diary) http://wd3.herokuapp.com/pages/AWD0000wdb  ----------
+  7 Jul 1917 23
+    unit:D Battery, Royal Horse Artillery (57,27)
+    person:Second Lieutenant C J E Robinson (departed_posted) (27,27)
+    place:Marquaix (17,28)
+    unit:D Battery, Royal Horse Artillery (59,31)
+    person:Second Lieutenant K A Townshend (departed_posted) (27,31)
+  11 Jul 1917 34
+    unit:D Battery, Royal Horse Artillery (39,35)
+    person:Second Lieutenant J H Massey (joined) (27,38)
+    unit:15 Division (55,40)
+  13 Jul 1917 42
+    time:0700AM (5,46)
+    activity:movement (35,47)
+    time:0330PM (68,47)
+  14 Jul 1917 48
+    place:Suzanne (18,49)
+    time:0600AM (4,52)
+    activity:movement (36,53)
+    place:Ville Sur Corbie (16,56)
+  15 Jul 1917 57
+    activity:movement (32,60)
+    time:1030AM (58,61)
+    time:0600AM (4,61)
+    place:Sarton (17,63)
+  16 Jul 1917 64
+    activity:movement (32,68)
+    time:0940AM (57,69)
+    time:0600AM (5,69)
+    place:Lucheux (16,71)
+    activity:movement (35,81)
+    unit:First Army (46,84)
+    unit:1 Army (47,86)
+    person:Second Lieutenant J W Aird (commander) (38,92)
+Page 75 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8y  ----------
+  28 Jul 1917 23
+    place:Olhain (53,28)
+    activity:movement (43,28)
+    time:1130AM (5,28)
+    time:0325PM (68,28)
+    place:Olhain (20,31)
+  29 Jul 1917 34
+    activity:movement (44,37)
+    time:0930AM (5,37)
+    time:0115PM (30,41)
+    place:Sailly-Labourse (15,42)
+    place:Lucheux (18,46)
+    place:Berlencourt (56,46)
+    activity:movement (42,46)
+  31 Jul 1917 48
+    place:Berlencourt (23,49)
+    person:Captain J Perry (commander) (59,78)
+Page 76 (type cover)
+Page 77 (type diary) http://wd3.herokuapp.com/pages/AWD0000w9q  ----------
+  1 Aug 1917 23
+    unit:6 Division Artillery (64,26)
+    unit:6 Division (66,27)
+    place:Sailly-Labourse (12,32)
+  2 Aug 1917 33
+    person:Lieutenant J N H Wilson (joined) (27,36)
+    place:Berlencourt (14,37)
+  4 Aug 1917 39
+    unit:1 Cavalry Division (28,40)
+    person:Lieutenant J N H Wilson (departed_posted) (28,44)
+  9 Aug 1917 46
+    unit:D Battery, Royal Horse Artillery (51,47)
+    person:Second Lieutenant K A Townshend (27,51)
+  19 Aug 1917 54
+    unit:D Battery, Royal Horse Artillery (42,55)
+    activity:movement (44,59)
+    place:Olhain (16,61)
+    unit:2 Cavalry Division (67,63)
+  20 Aug 1917 66
+    place:Olhain (16,69)
+    place:Berlencourt (14,74)
+  31 Aug 1917 75
+    place:Berlencourt (14,80)
+    person:Captain J Perry (commander) (58,88)
+Page 78 (type cover)
+Page 79 (type diary) http://wd3.herokuapp.com/pages/AWD0000wae  ----------
+  Hashtags: #alliedrelations #farming 
+  5 Sep 1917 23
+    place:Berlencourt (16,26)
+    unit:1 Army (73,27)
+    time:0830AM (4,28)
+    place:Bajus (20,29)
+    time:0300PM (71,30)
+    place:Bajus (58,30)
+    activity:movement (36,30)
+  6 Sep 1917 31
+    place:Flers (59,32)
+    domestic:accomodation (52,32)
+    activity:movement (41,33)
+    time:0900AM (4,34)
+    place:Bajus (16,34)
+  8 Sep 1917 35
+    time:1230PM (70,35)
+    place:Hesdinguel (20,35)
+    place:Hesdinguel (50,36)
+    activity:movement (39,36)
+    place:Hesdinguel (16,38)
+    activity:movement (41,39)
+    domestic:accomodation (62,40)
+    place:Les Brebis (19,43)
+  15 Sep 1917 44
+    time:1140AM (68,44)
+    place:Les Brebis (57,44)
+    place:Verquinel (20,49)
+    place:Verquinel (54,49)
+    activity:movement (43,49)
+  16 Sep 1917 50
+    place:Flers (13,53)
+  21 Sep 1917 54
+    person:Second Lieutenant J W Aird (departed_posted) (28,54)
+    unit:38 Division (68,54)
+    place:Verquinel (14,58)
+    place:Bethune (21,58)
+    activity:movement (43,58)
+    place:Bethune (53,59)
+    domestic:accomodation (63,59)
+  25 Sep 1917 61
+    place:Bethune (15,65)
+    person:Second Lieutenant B B Edge (joined) (28,66)
+    person:Second Lieutenant W Mure (joined) (28,70)
+    place:Flers (13,70)
+    place:Flers (67,72)
+  30 Sep 1917 74
+    place:Flers (14,77)
+    place:Flers (51,79)
+    activity:other (29,80)
+    unit:French (55,82)
+    place:Bethune (16,88)
+    unit:6 Division (32,92)
+    unit:6 Divisional Artillery (34,93)
+    person:Captain J Perry (commander) (57,94)
+Page 80 (type cover)
+Page 81 (type diary) http://wd3.herokuapp.com/pages/AWD0000wa0  ----------
+  1 Oct 1917 23
+    person:Lieutenant R C Norton (departed_posted) (28,26)
+    unit:E Battery, Royal Horse Artillery (50,27)
+  8 Oct 1917 28
+    place:Flers (17,32)
+    place:La Thieuloye (58,32)
+    place:Flers (51,33)
+    activity:movement (37,33)
+    place:La Thieuloye (20,35)
+  9 Oct 1917 36
+    unit:2 Cavalry Division (32,36)
+    place:Bethune (16,39)
+    place:Bethune (52,40)
+    activity:movement (38,40)
+    time:0900AM (5,41)
+    place:La Thieuloye (15,43)
+    place:La Thieuloye (33,44)
+  12 Oct 1917 45
+    person:Second Lieutenant B B Edge (departed_posted) (28,48)
+    unit:J Battery, Royal Horse Artillery (54,49)
+    place:La Thieuloye (17,49)
+  20 Oct 1917 51
+    unit:3 Cavalry Brigade (56,55)
+    time:0930AM (5,55)
+    place:La Thieuloye (16,55)
+    activity:movement (35,56)
+    place:Etree Wamin (17,59)
+    place:La Thieuloye (31,59)
+    place:Etree Wamin (43,59)
+  21 Oct 1917 60
+    place:Amiens (65,60)
+    place:Etree Wamin (16,64)
+    time:0930AM (5,65)
+    place:Etree Wamin (50,65)
+    activity:movement (30,65)
+  22 Oct 1917 69
+    activity:movement (38,73)
+    time:0915AM (5,74)
+    place:Plachy-Buyon (16,77)
+  31 Oct 1917 78
+    place:Plachy-Buyon (18,82)
+    domestic:accomodation (49,83)
+    activity:training (61,83)
+    person:K A Townsend (author) (59,93)
+Page 82 (type cover)
+Page 83 (type diary) http://wd3.herokuapp.com/pages/AWD0000w9i  ----------
+  16 Nov 1917 23
+    place:Plachy-Buyon (14,27)
+    activity:movement (33,27)
+    unit:2 Cavalry Division (63,28)
+    place:Proyart (31,31)
+  17 Nov 1917 32
+    place:Proyart (17,32)
+    time:1015PM (46,32)
+    place:Proyart (17,36)
+    place:Montecourt (52,36)
+    activity:movement (32,36)
+    time:0400PM (6,37)
+    place:Montecourt (13,40)
+    domestic:accomodation (48,40)
+  21 Nov 1917 41
+    place:Montecourt (16,45)
+    activity:movement (66,45)
+    time:0200AM (6,46)
+    place:Villers-Faucon (16,49)
+    domestic:accomodation (50,49)
+    time:0900AM (57,49)
+    activity:movement (32,52)
+    place:Villers-Faucon (17,53)
+    time:0900PM (5,53)
+    unit:A Echelon 2 Cavalry Division (32,55)
+    place:Villers Pluich (18,57)
+    unit:Cavalry Regiment (68,57)
+    activity:support (56,60)
+  22 Nov 1917 63
+    place:Villers Pluich (18,65)
+    time:1000AM (6,66)
+  23 Nov 1917 67
+    place:Villers Pluich (67,67)
+    activity:movement (34,68)
+    place:Villers-Faucon (17,70)
+    time:0600PM (6,70)
+    activity:movement (37,71)
+  30 Nov 1917 72
+    time:1130AM (5,74)
+    place:Villers-Faucon (17,80)
+    activity:movement (29,80)
+    unit:2 Cavalry Division (39,84)
+    person:Captain J Perry (commander) (59,87)
+Page 84 (type cover)
+Page 85 (type diary) http://wd3.herokuapp.com/pages/AWD0000wdg  ----------
+  1 Dec 1917 25
+    place:Villers-Faucon (18,27)
+    place:Fins (61,27)
+    activity:movement (37,27)
+    time:0600PM (5,28)
+  2 Dec 1917 34
+    place:Fins (19,30)
+    activity:movement (38,31)
+    time:1000AM (6,32)
+    place:Fins (15,32)
+    place:Etricourt (48,32)
+    place:Etricourt (22,33)
+    time:0300PM (5,35)
+    place:Etricourt (18,36)
+    activity:movement (51,36)
+  6 Dec 1917 41
+    time:1100AM (5,44)
+    place:Metz (24,44)
+    activity:movement (41,44)
+    place:Etricourt (17,45)
+    person:Lieutenant K A Townsend (commander) (46,48)
+    time:1100AM (5,48)
+    place:Etricourt (16,49)
+    place:Suzanne (23,49)
+    activity:movement (63,49)
+    unit:B Echelon 2 Cavalry Division (33,51)
+    unit:2 Cavalry Division (42,52)
+    place:Suzanne (55,52)
+  7 Dec 1917 56
+    place:Suzanne (17,58)
+    place:Vers (23,58)
+    activity:movement (41,58)
+  8 Dec 1917 61
+    place:Boucly (69,63)
+    place:Boucly (20,64)
+    activity:movement (41,64)
+    place:Metz (15,65)
+  12 Dec 1917 67
+    person:Lieutenant C H Borthwick (departed_sick) (30,68)
+    unit:J Battery, Royal Horse Artillery (51,69)
+    place:Boucly (17,70)
+  14 Dec 1917 73
+    place:Boucly (16,75)
+    person:Second Lieutenant W Mure (29,76)
+    unit:J Battery, Royal Horse Artillery (54,76)
+  31 Dec 1917 78
+    place:Boucly (17,80)
+    unit:2 Cavalry Division (56,84)
+    place:Vers (18,84)
+    person:Captain J Perry (commander) (59,92)
+Page 86 (type cover)
+Page 87 (type diary) http://wd3.herokuapp.com/pages/AWD0000w87  ----------
+  8 Jan 1918 21
+    place:Boucly (6,31)
+    activity:movement (39,32)
+  24 Jan 1918 34
+    place:Caulaincourt (5,38)
+    person:Second Lieutenant R K A Kennedy (joined) (20,39)
+    unit:A Battery, 84 heavy Brigade, Royal Field Artillery (73,40)
+    activity:working (53,51)
+    unit:Royal Engineers (72,54)
+    person:Captain J Perry (64,84)
+Page 88 (type cover)
+Page 89 (type diary) http://wd3.herokuapp.com/pages/AWD0000w8f  ----------
+  1 Feb 1918 22
+    place:Caulaincourt (5,31)
+    place:Caulaincourt (77,31)
+    domestic:accomodation (62,31)
+    activity:working (38,35)
+    place:Vermand (60,39)
+    unit:Royal Engineers (49,43)
+  12 Feb 1918 48
+    person:Second Lieutenant R Hawkes (joined) (21,53)
+    place:Caulaincourt (6,54)
+  20 Feb 1918 57
+    place:Caulaincourt (7,62)
+    person:Captain J Perry (departed_leave) (22,62)
+    place:Caulaincourt (6,74)
+    unit:3 Brigade, Royal Horse Artillery (58,74)
+    person:Lieutenant J W H Wilkes (commander) (23,74)
+  26 Feb 1918 84
+    place:Caulaincourt (7,89)
+    person:Second Lieutenant R Hawkes (departed_sick) (22,89)
+    person:Lieutenant J W H Wilkes (commander) (73,92)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (35,93)

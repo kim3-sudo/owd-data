@@ -1,0 +1,923 @@
+GWD00000ll wo/95/1272/2
+1 DIVISION:  2 Infantry Brigade: 2 Battalion King's Royal Rifle Corps.  
+120 pages
+
+Page 218 (type cover)
+Page 219 (type ) http://wd3.herokuapp.com/pages/AWD00034dn  ----------
+Page 220 (type cover)
+Page 221 (type diary) http://wd3.herokuapp.com/pages/AWD00034dh  ----------
+  1 Jul 1915 26
+    weather:fine (39,31)
+    domestic:inspections (42,36)
+    domestic:sport (49,38)
+  2 Jul 1915 41
+    weather:fine (39,46)
+    activity:repair (55,57)
+Page 222 (type diary) http://wd3.herokuapp.com/pages/AWD00034ds  ----------
+  3 Jul 1915 26
+    weather:hot (42,32)
+    activity:repair (47,38)
+    place:Cambrin (59,46)
+    domestic:hygiene (47,51)
+    place:Labourse (57,51)
+    activity:training (51,58)
+Page 223 (type diary) http://wd3.herokuapp.com/pages/AWD00034e6  ----------
+  4 Jul 1915 25
+    weather:hot (41,29)
+    domestic:religion (51,30)
+    domestic:sport (43,33)
+    activity:repair (58,36)
+    unit:Northhamptons (45,41)
+Page 224 (type diary) http://wd3.herokuapp.com/pages/AWD00034cu  ----------
+  5 Jul 1915 21
+    weather:fine (41,26)
+    activity:repair (51,33)
+    gridRef:H_1_C_6_4 (56,65)
+Page 225 (type other) http://wd3.herokuapp.com/pages/AWD00034d5  ----------
+  5 Jul 1915 0
+Page 226 (type other) http://wd3.herokuapp.com/pages/AWD00034cm  ----------
+  5 Jul 1915 0
+Page 227 (type diary) http://wd3.herokuapp.com/pages/AWD00034d6  ----------
+  5 Jul 1915 0
+    person:Second Lieutenant Ward (other) (57,31)
+    unit:1 Division: 2 Brigade: 2 battalion royal sussex Regiment (49,32)
+    place:Neuve-Eglise (58,42)
+    time:1040PM (42,42)
+    time:0950PM (45,44)
+  6 Jul 1915 46
+    activity:working (40,55)
+  7 Jul 1915 59
+    place:Sailly-Labourse (53,69)
+    unit:1 Division: 2 Brigade: 1 battalion northampton Regiment (51,71)
+    unit:1 Northamptons (62,71)
+    unit:1 Northhamptons (49,72)
+    gridRef:G_4_D_2_2 (58,72)
+    mapRef:Auchy- lens (54,76)
+    mapRef:AUCHY-LES-MINES - LENS (54,77)
+Page 228 (type diary) http://wd3.herokuapp.com/pages/AWD00034e0  ----------
+  7 Jul 1915 26
+    unit:5 Sussex (53,41)
+    unit:1 Division: 5 battalion royal sussex Regiment (51,42)
+    unit:Black Watch (60,44)
+    unit:Blackwatch (45,44)
+    activity:fire (44,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (45,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (36,48)
+    activity:reconnoitered (41,49)
+    time:1145PM (55,49)
+    activity:fire (47,53)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 0 (48,54)
+Page 229 (type diary) http://wd3.herokuapp.com/pages/AWD00034fl  ----------
+  7 Jul 1915 24
+    unit:54 Battery (39,32)
+    unit:51 Battery (63,32)
+    activity:repair (54,34)
+  8 Jul 1915 36
+    time:0230AM (51,39)
+    activity:quiet (46,41)
+    time:1030AM (42,44)
+    time:1130AM (44,46)
+    activity:repair (43,54)
+Page 230 (type diary) http://wd3.herokuapp.com/pages/AWD00034cn  ----------
+  9 Jul 1915 24
+    time:1000PM (52,31)
+    activity:reconnoitered (42,31)
+    person:Second Lieutenant Symington (other) (49,37)
+    person:Corporal Evans (other) (55,40)
+    activity:fire (45,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (54,69)
+    strength:officer: 19; nco: 0; other: 790 (41,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 2 (36,73)
+Page 231 (type diary) http://wd3.herokuapp.com/pages/AWD00034ch  ----------
+  10 Jul 1915 25
+    person:Second Lieutenant Symington (other) (48,29)
+    person:Corporal Evans (combat) (56,29)
+    activity:reconnoitered (41,31)
+    activity:repair (49,53)
+    place:Annequin (57,65)
+    unit:2 Brigade: 1 battalion northampton Regiment (45,67)
+Page 232 (type other) http://wd3.herokuapp.com/pages/AWD00034fm  ----------
+  10 Jul 1915 0
+Page 233 (type diary) http://wd3.herokuapp.com/pages/AWD00034fn  ----------
+  11 Jul 1915 22
+    weather:overcast (41,27)
+    activity:fire (47,31)
+    activity:fire (58,34)
+    time:1000AM (41,35)
+    activity:attack (42,41)
+    strength:officer: 19; nco: 0; other: 786 (51,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 1 (35,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 1 (43,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (57,50)
+  12 Jul 1915 52
+    unit:The Black Watch (1 Brigade) (62,60)
+    time:0230PM (43,61)
+    unit:1 guards Brigade: 1 battalion the black watch [royal highlanders] (53,61)
+    unit:Black Watch (35,63)
+    time:0430PM (57,67)
+    domestic:accomodation (53,71)
+    unit:Scots Guards (36,74)
+    place:Labourse (50,74)
+Page 234 (type diary) http://wd3.herokuapp.com/pages/AWD00034f8  ----------
+  12 Jul 1915 25
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 1 (61,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (37,31)
+    weather:fine (46,32)
+    activity:enemy_activity (59,37)
+    place:Vermelles (47,41)
+    activity:repair (55,46)
+Page 235 (type other) http://wd3.herokuapp.com/pages/AWD00034e2  ----------
+  12 Jul 1915 0
+    mapRef:Map Sketch Holenzollern (9,55)
+Page 236 (type diary) http://wd3.herokuapp.com/pages/AWD00034fp  ----------
+  13 Jul 1915 24
+    unit:1 Northamptons (33,28)
+    unit:1 Division: 2 Brigade: 1 battalion northampton Regiment (42,30)
+    time:0400PM (57,31)
+    activity:movement (49,31)
+    place:Bethune (47,35)
+    unit:1 Division: 1 Brigade: 8 battalion royal berkshire Regiment (43,37)
+    unit:Berkshires (34,37)
+    unit:Berkshires (42,37)
+    person:Corporal Evans (award) (51,59)
+    person:Lieutenant Symington (award) (39,61)
+    place:Hohenzollern (47,61)
+    person:Major V Vivian (other) (52,71)
+Page 237 (type diary) http://wd3.herokuapp.com/pages/AWD00034f2  ----------
+  13 Jul 1915 0
+  14 Jul 1915 39
+    weather:fine (42,43)
+    weather:rain (54,43)
+    person:Lieutenant Robinson (departed_leave) (43,55)
+    person:Second Lieutenant Nash (returned_leave) (55,57)
+  15 Jul 1915 59
+    domestic:medical (58,64)
+    domestic:medical (38,66)
+    domestic:hygiene (52,74)
+Page 238 (type diary) http://wd3.herokuapp.com/pages/AWD00034ew  ----------
+  15 Jul 1915 24
+    domestic:hygiene (41,28)
+    domestic:sport (50,30)
+    weather:fine (57,35)
+    weather:rain (40,36)
+  16 Jul 1915 38
+    weather:fine (40,43)
+    time:0900AM (53,43)
+    place:Bethune (52,45)
+    activity:fire (47,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,53)
+    strength:officer: 18; nco: 0; other: 795 (38,55)
+    person:Second Lieutenant Mahar (departed_leave) (53,55)
+    person:Second Lieutenant Glegg (departed_leave) (39,58)
+    person:Second Lieutenant Fowler (other) (44,58)
+    domestic:medical (48,64)
+    domestic:sport (41,69)
+    domestic:hygiene (52,73)
+Page 239 (type diary) http://wd3.herokuapp.com/pages/AWD00034en  ----------
+  17 Jul 1915 22
+    weather:overcast (40,27)
+    activity:training (51,30)
+    activity:training (42,31)
+    activity:working (43,37)
+    place:Annezin (52,43)
+    domestic:inspections (48,47)
+Page 240 (type orders) http://wd3.herokuapp.com/pages/AWD00034f4  ----------
+  17 Jul 1915 0
+    person:Second Lieutenant Palmer (commander) (44,71)
+    date:18 Jul 1915 (46,77)
+Page 241 (type diary) http://wd3.herokuapp.com/pages/AWD00034dm  ----------
+  18 Jul 1915 25
+    weather:fine (41,30)
+    activity:fire (40,34)
+    time:0930AM (51,34)
+    time:1030AM (55,34)
+    activity:fire (49,37)
+    activity:working (47,44)
+    domestic:sport (49,50)
+  19 Jul 1915 51
+    weather:fine (42,56)
+    unit:1 Division: 1 guards Brigade (59,57)
+    unit:1 Division: 1 guards Brigade: 1/14 [county of london] battalion [london scottish] (49,61)
+    unit:Guards Brigade (34,62)
+    activity:movement (49,65)
+    time:0900AM (57,65)
+    place:Beuvry (46,68)
+    gridRef:G_13_C_1_8 (59,68)
+    place:Vermelles (56,69)
+    domestic:accomodation (57,72)
+    time:1015AM (44,73)
+    unit:1 Division: 2 guards Brigade: 2 guards brigade: 1 battalion northamptonshire battalion (44,76)
+    unit:1 Division: 2 guards Brigade: 1/9 battalion the kings [liverpool Regiment] (50,78)
+    unit:Northamptons (34,81)
+    unit:2 Sussex, 5 Sussex, 9 Liverpools (36,84)
+Page 242 (type other) http://wd3.herokuapp.com/pages/AWD00034cf  ----------
+  19 Jul 1915 0
+    mapRef:Map Sketch near Cambri (34,69)
+Page 243 (type diary) http://wd3.herokuapp.com/pages/AWD00034ct  ----------
+  19 Jul 1915 0
+    place:Noyelles (56,28)
+    unit:1 Bn. Loyal North Lancashire Regiment (42,29)
+    unit:Hq 2 infantry Brigade (50,29)
+    place:Vermelles (44,31)
+    unit:23 filed coy, re (34,33)
+    place:Labourse (57,34)
+    place:Vermelles (42,39)
+  20 Jul 1915 47
+    weather:fine (41,51)
+    activity:working (44,54)
+    unit:23 Field Company, Royal Engineers (47,54)
+Page 244 (type diary) http://wd3.herokuapp.com/pages/AWD00034dk  ----------
+  21 Jul 1915 25
+    person:Lieutenant Bristowe (discipline) (47,30)
+    weather:fine (41,30)
+    activity:fire (55,48)
+    person:Captain Brady (joined) (42,53)
+    person:Second Lieutenant Dowden (joined) (50,53)
+    strength:officer: 20; nco: 0; other: 886 (56,56)
+    strength:officer: 17; nco: 0; other: 787 (58,58)
+Page 245 (type other) http://wd3.herokuapp.com/pages/AWD00034ep  ----------
+  21 Jul 1915 0
+    unit:A coy. 2 bn. krrc (43,46)
+    unit:23 Field Company, Royal Engineers (55,48)
+    activity:working (39,53)
+    unit:B coy. 2 bn. krrc (43,54)
+    unit:1 (Lowland) Field Company (55,55)
+    unit:C coy. 2 bn. krrc (44,62)
+    unit:23 Field Company, Royal Engineers (55,63)
+    unit:D coy. 2 bn. krrc (44,69)
+    unit:23 Field Company, Royal Engineers (55,72)
+Page 246 (type diary) http://wd3.herokuapp.com/pages/AWD00034ee  ----------
+  22 Jul 1915 28
+    weather:fine (39,34)
+    weather:rain (58,34)
+    activity:working (42,39)
+    domestic:inspections (48,48)
+    place:Noyelles (54,51)
+    place:Vermelles (56,55)
+    activity:fire (41,56)
+    activity:attack (47,58)
+    time:0800PM (55,61)
+    activity:fire (46,64)
+    place:Souchez (43,65)
+Page 247 (type diary) http://wd3.herokuapp.com/pages/AWD00034fo  ----------
+  23 Jul 1915 28
+    weather:fine (41,34)
+    activity:working (45,39)
+  24 Jul 1915 44
+    time:0800PM (60,47)
+    weather:fine (42,48)
+    activity:working (53,49)
+    activity:fire (54,53)
+    person:Lieutenant Dubs (joined) (42,56)
+    person:Second Lieutenant Simpson (joined) (50,56)
+Page 248 (type diary) http://wd3.herokuapp.com/pages/AWD00034dg  ----------
+  25 Jul 1915 27
+    weather:fine (41,33)
+    unit:2 Sussex (58,35)
+    time:0300PM (50,37)
+    unit:1 Division: 2 guards Brigade: 2 battalion royal sussex Regiment (43,37)
+    time:0500PM (48,39)
+    unit:9 Liverpool (46,42)
+    unit:2ns Sussex (35,42)
+    unit:1 Division: loyal north lancashire Regiment (55,43)
+    place:Vermelles (56,45)
+    unit:Northampton (42,46)
+    unit:5 Sussex (57,46)
+    unit:1 Division: 2 guards Brigade: 1/5 battalion royal sussex Regiment (58,47)
+    place:Labourse (43,48)
+    activity:fire (49,49)
+    activity:enemy_activity (41,53)
+    activity:enemy_activity (55,54)
+    unit:47 Division (53,58)
+    place:Lens (41,61)
+Page 249 (type report) http://wd3.herokuapp.com/pages/AWD00034d4  ----------
+  25 Jul 1915 0
+    reference:SIGNALS (24,35)
+    person:Major J Charteris (other) (54,56)
+    date:25 Jul 1915 (30,58)
+Page 250 (type diary) http://wd3.herokuapp.com/pages/AWD00034cq  ----------
+  25 Jul 1915 0
+  26 Jul 1915 27
+    weather:fine (40,33)
+    activity:fire (44,36)
+    place:Hohenzollern (42,45)
+    activity:enemy_activity (43,45)
+    person:Lieutenant Dickerson (returned_hospital) (43,47)
+  27 Jul 1915 50
+    weather:rain (41,54)
+    place:Hohenzollern (52,59)
+    activity:enemy_activity (41,61)
+    unit:1 Division: 2 guards Brigade: 1 battalion the loyal north lancashire Regiment (45,68)
+Page 251 (type diary) http://wd3.herokuapp.com/pages/AWD00034dy  ----------
+  28 Jul 1915 27
+    weather:fine (42,32)
+    unit:2 Bn. Royal Sussex Regiment (43,35)
+    unit:Machine Gun Regiment (35,36)
+    place:Hohenzollern (52,40)
+    activity:enemy_activity (48,43)
+    place:Vermelles (49,55)
+    time:0100PM (40,58)
+    time:0200PM (45,58)
+    domestic:rations (47,60)
+    activity:repair (51,69)
+Page 252 (type diary) http://wd3.herokuapp.com/pages/AWD00034dj  ----------
+  29 Jul 1915 27
+    weather:fine (40,33)
+    unit:Belgian troops (55,35)
+    activity:enemy_activity (55,36)
+    place:Remamghe (55,37)
+    place:Ypres (48,39)
+    time:1040PM (53,39)
+    place:Calais (45,43)
+    time:1135PM (49,43)
+    activity:enemy_activity (48,46)
+    time:1115PM (56,51)
+    place:Ginchy (47,52)
+    time:0500PM (52,53)
+    activity:attack (51,56)
+    time:1045AM (43,60)
+    activity:fire (50,61)
+    activity:repair (41,68)
+    place:Hayward Heath (47,71)
+    person:Lieutenant Symington (combat) (47,73)
+    person:Sergeant Blackburn (combat) (55,73)
+    activity:attack (39,74)
+Page 253 (type diary) http://wd3.herokuapp.com/pages/AWD00034fg  ----------
+  29 Jul 1915 0
+    activity:enemy_activity (50,32)
+    place:Hohenzollern (41,32)
+Page 254 (type ) http://wd3.herokuapp.com/pages/AWD00034e3  ----------
+  29 Jul 1915 0
+Page 255 (type diary) http://wd3.herokuapp.com/pages/AWD00034e1  ----------
+  30 Jul 1915 29
+    time:0500PM (47,33)
+    weather:fine (41,34)
+    weather:rain (58,34)
+    activity:enemy_activity (56,37)
+    place:Hohenzollern (50,40)
+    activity:enemy_activity (41,40)
+    place:La Bassee (55,43)
+    place:Lens (49,44)
+    unit:115 Battalion (53,48)
+    activity:attack (54,49)
+    unit:115 Battery (6-18 pdrs) (51,50)
+    activity:repair (45,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,66)
+    unit:Saint omer cadet school (53,70)
+Page 256 (type diary) http://wd3.herokuapp.com/pages/AWD00034cw  ----------
+  31 Jul 1915 29
+    weather:fine (40,34)
+    activity:repair (45,40)
+    person:Sergeant Nevolle (38,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,46)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,48)
+    person:Second Lieutenant Wenham (promotion) (39,55)
+    person:Second Lieutenant Wenham (promotion) (57,57)
+    unit:1 Division: 3 guards Brigade (42,62)
+    unit:1 Division: 3 guards Brigade: 2 battalion welsh Regiment (57,62)
+    unit:Welch Regiment (43,63)
+    domestic:accomodation (48,65)
+    place:Verquin (53,66)
+    activity:movement (44,66)
+    time:0500PM (41,66)
+    strength:officer: 27; nco: 0; other: 997 (44,70)
+Page 257 (type diary) http://wd3.herokuapp.com/pages/AWD00034co  ----------
+  31 Jul 1915 0
+    reference:List of Officers (56,23)
+    person:Lieutenant Colonel Philips (commander) (43,33)
+    person:Lieutenant P J R Currie (other) (52,36)
+    person:Lieutenant A Robinson (other) (50,40)
+    person:Second Lieutenant T B Mahar (other) (49,42)
+    person:Lieutenant Ward (other) (45,43)
+    person:Second Lieutenant T R Reid (other) (47,46)
+Page 258 (type ) http://wd3.herokuapp.com/pages/AWD00034d0  ----------
+  31 Jul 1915 0
+    person:Lieutenant G R Dabs (commander) (54,29)
+Page 259 (type cover)
+Page 260 (type orders) http://wd3.herokuapp.com/pages/AWD00034f6  ----------
+  31 Jul 1915 0
+    date:30 Jun 1915 (62,15)
+    reference:1/40,000 and trench map (37,16)
+    reference:Operation Order No. 15 (53,8)
+Page 261 (type orders) http://wd3.herokuapp.com/pages/AWD00034dp  ----------
+  31 Jul 1915 0
+    orders:move (38,11)
+Page 262 (type orders) http://wd3.herokuapp.com/pages/AWD00034et  ----------
+  31 Jul 1915 0
+    reference:Operation Order No. 17 (52,12)
+    reference:OPERATION ORDER NO. 17 (45,13)
+    date:6 Jul 1915 (62,20)
+    reference:1/40000; Trench Maps (36,26)
+Page 263 (type orders) http://wd3.herokuapp.com/pages/AWD00034fq  ----------
+  31 Jul 1915 0
+    person:Brigadier General G Thesiger (commander) (42,12)
+    reference:Operation Order No. 18 (52,6)
+    reference:OPERATION ORDER NO. 18 (47,9)
+Page 264 (type orders) http://wd3.herokuapp.com/pages/AWD00034cz  ----------
+  31 Jul 1915 0
+    orders:move (46,12)
+    reference:OPERATION ORDER NO. 18 PAGE TWO (50,15)
+    date:12 Jul 1915 (49,54)
+Page 265 (type orders) http://wd3.herokuapp.com/pages/AWD00034d9  ----------
+  31 Jul 1915 0
+    reference:OPERATION ORDER NO. 18 PAGE THREE (42,14)
+    reference:Operation Order No. 18 (58,20)
+    person:Major Terry (other) (49,50)
+    date:13 Jul 1915 (45,56)
+Page 266 (type orders) http://wd3.herokuapp.com/pages/AWD00034fd  ----------
+  31 Jul 1915 0
+    reference:Operation Order No. 19 (54,13)
+    person:Brigadier General G Thesiger (commander) (48,17)
+    date:18 Jul 1915 (63,22)
+    reference:1/40000; (32,23)
+Page 267 (type orders) http://wd3.herokuapp.com/pages/AWD00034dx  ----------
+  31 Jul 1915 0
+    person:Major W Terry (author) (53,49)
+    reference:No. 19. (57,5)
+    reference:OPERATION ORDER NO. 19 CONTINUATION PAGE 2 (47,9)
+Page 268 (type orders) http://wd3.herokuapp.com/pages/AWD00034df  ----------
+  31 Jul 1915 0
+    date:24 Jul 1915 (63,15)
+    reference:1/10,000  AUCHY-LENS:  TRENCH MAP  (38,17)
+    reference:C.S.c.4.10 (56,32)
+    reference:Operation Order No. 20 (60,7)
+    person:Major Terry (author) (55,75)
+    reference:OPERATION ORDER NO. 20 (53,8)
+Page 269 (type orders) http://wd3.herokuapp.com/pages/AWD00034cy  ----------
+  31 Jul 1915 0
+    date:30 Jul 1915 (62,10)
+    person:Brigadier General Thesiger (commander) (47,12)
+    reference:1/40,000  AUCHY-LENS:  TRENCH MAP  (35,17)
+    reference:Operation Order No. 21 (54,7)
+Page 270 (type orders) http://wd3.herokuapp.com/pages/AWD00034fj  ----------
+  31 Jul 1915 0
+    reference:OPERATION ORDER NO. 21 CONTINUED PAGE 2 (40,7)
+Page 271 (type orders) http://wd3.herokuapp.com/pages/AWD00034do  ----------
+  31 Jul 1915 0
+    date:11 Jul 1915 (41,58)
+    reference:RELIEF OF MACHINE GUNS (53,8)
+Page 272 (type cover)
+Page 273 (type ) http://wd3.herokuapp.com/pages/AWD00034ez  ----------
+  31 Jul 1915 0
+    person:Captain Priaulx (other) (47,39)
+    person:Captain Currie (other) (48,41)
+    person:Lieutenant Ward (other) (45,45)
+    person:Second Lieutenant T R Reid (other) (48,46)
+    person:Second Lieutenant T B Mahar (other) (50,48)
+Page 274 (type ) http://wd3.herokuapp.com/pages/AWD00034eo  ----------
+  1 Aug 1915 25
+    person:Second Lieutenant C H Dowden (other) (50,51)
+    person:Captain E Wenham (commander) (48,62)
+    person:Second Lieutenant T Howe (other) (46,67)
+Page 275 (type ) http://wd3.herokuapp.com/pages/AWD00034dd  ----------
+  1 Aug 1915 25
+    person:Second Lieutenant J Augell (other) (50,38)
+    person:Second Lieutenant J H Simpson (other) (53,40)
+Page 276 (type diary) http://wd3.herokuapp.com/pages/AWD00034ed  ----------
+  1 Aug 1915 28
+    weather:hot (40,33)
+    domestic:religion (50,33)
+    domestic:parades (53,33)
+    domestic:other (55,36)
+  2 Aug 1915 40
+    weather:hot (39,44)
+    domestic:inspections (49,45)
+    time:1030AM (45,47)
+    domestic:hygiene (52,50)
+  3 Aug 1915 53
+    weather:rain (40,58)
+    domestic:inspections (51,58)
+    domestic:sport (51,66)
+    unit:2 Division: 6 Brigade (41,67)
+    unit:6 Infantry Brigade (40,67)
+    place:Bethune (42,69)
+Page 277 (type diary) http://wd3.herokuapp.com/pages/AWD00034dz  ----------
+  4 Aug 1915 26
+    weather:fine (41,31)
+    activity:working (53,31)
+    domestic:sport (45,36)
+    domestic:sport (60,38)
+  5 Aug 1915 43
+    weather:fine (42,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (36,50)
+    place:Annezin (53,51)
+    domestic:sport (46,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,53)
+  6 Aug 1915 54
+    activity:movement (53,61)
+    unit:1 Bn. Scots Guards (43,61)
+    place:Verquin (45,62)
+    domestic:accomodation (46,73)
+    unit:Royal Engineers (41,76)
+Page 278 (type diary) http://wd3.herokuapp.com/pages/AWD00034ey  ----------
+  7 Aug 1915 26
+    weather:overcast (40,30)
+    domestic:inspections (51,31)
+Page 279 (type diary) http://wd3.herokuapp.com/pages/AWD00034e7  ----------
+  8 Aug 1915 25
+    domestic:religion (47,30)
+    weather:fine (42,30)
+    activity:reconnoitered (50,33)
+  9 Aug 1915 36
+    unit:2 guards Brigade: 2 battalion royal sussex Regiment (54,40)
+    unit:D coy. 2 bn. krrc (39,45)
+    unit:B coy. 2 bn. krrc (41,46)
+    unit:A coy. 2 bn. krrc (43,46)
+    unit:C coy. 2 bn. krrc (49,46)
+    activity:line (46,50)
+    activity:construction (50,64)
+Page 280 (type diary) http://wd3.herokuapp.com/pages/AWD00034db  ----------
+  9 Aug 1915 0
+    place:Maison Rouge (49,41)
+    unit:114 F.A. (52,49)
+    unit:114 fa (63,49)
+    unit:30 how. (46,50)
+    unit:30 Hows (34,52)
+Page 281 (type diary) http://wd3.herokuapp.com/pages/AWD00034d7  ----------
+  10 Aug 1915 28
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (40,28)
+    weather:hot (47,33)
+    activity:line (38,36)
+    activity:fire (54,36)
+    time:1200PM (42,38)
+    time:0200PM (48,38)
+    unit:30 (H.) Battery (6-4.5" howitzers) (41,41)
+    activity:attack (54,42)
+    unit:30 how. (41,42)
+    time:0300PM (51,43)
+    time:0330PM (56,43)
+    activity:enemy_activity (54,49)
+    activity:enemy_activity (56,54)
+    activity:repair (44,65)
+    activity:working (52,65)
+    unit:Royal Engineers (56,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (60,68)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 1; wounded: 6 (44,69)
+    person:Second Lieutenant Glegg (casualty_kia) (44,72)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 6 (35,75)
+    person:Second Lieutenant W H Palmer (55,77)
+Page 282 (type diary) http://wd3.herokuapp.com/pages/AWD00034eh  ----------
+  10 Aug 1915 26
+    unit:2 Brigade Signal Officer (42,34)
+Page 283 (type diary) http://wd3.herokuapp.com/pages/AWD00034e5  ----------
+  11 Aug 1915 28
+    activity:quiet (56,32)
+    weather:fine (42,34)
+    time:0100AM (49,38)
+    activity:enemy_activity (59,41)
+    activity:attack (43,46)
+    activity:enemy_activity (55,47)
+    place:La Bassee (45,49)
+    time:1200PM (39,52)
+    activity:fire (58,53)
+    place:La Bassee (59,55)
+    activity:fire (40,59)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,62)
+    activity:enemy_activity (55,62)
+    unit:Miners (53,63)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,63)
+    activity:enemy_activity (53,68)
+    unit:Royal Field Artillery (57,78)
+Page 284 (type diary) http://wd3.herokuapp.com/pages/AWD00034ei  ----------
+  11 Aug 1915 0
+    activity:other (45,34)
+    activity:repair (47,38)
+    activity:repair (37,44)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 5; wounded: 3 (43,53)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 5; wounded: 3 (33,55)
+    strength:officer: 21; nco: 0; other: 889 (58,57)
+    unit:Re, 4 cps (55,62)
+    person:Second Lieutenant J H Simpson (departed_posted) (42,63)
+Page 285 (type other) http://wd3.herokuapp.com/pages/AWD00034dt  ----------
+  11 Aug 1915 0
+    mapRef:rough sketch (44,26)
+    mapRef:36c NW (37,32)
+Page 286 (type diary) http://wd3.herokuapp.com/pages/AWD00034cp  ----------
+  12 Aug 1915 23
+    weather:fine (39,28)
+    activity:fire (44,36)
+    unit:3 Division: 30 howitzer Brigade: royal field artillery (55,36)
+    time:0800AM (45,36)
+    activity:attack (39,37)
+    unit:30 (H.) Battery (6-4.5" howitzers) (36,39)
+    time:0500PM (45,39)
+    unit:1 Division: 2 guards Brigade: 1 battalion northamptonshire Regiment (43,40)
+    activity:movement (42,44)
+    unit:1 Northamtonshire R (33,46)
+    place:Cambrin (48,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (52,60)
+Page 287 (type diary) http://wd3.herokuapp.com/pages/AWD00034ev  ----------
+  13 Aug 1915 27
+    weather:fine (42,32)
+    place:Cambrin (59,38)
+    activity:working (46,40)
+    place:Beuvry (48,40)
+    domestic:uniform (50,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (35,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (50,48)
+  14 Aug 1915 49
+    weather:fine (43,53)
+    activity:fire (55,55)
+    domestic:accomodation (51,57)
+    activity:working (46,62)
+    unit:Royal Engineers (55,62)
+Page 288 (type diary) http://wd3.herokuapp.com/pages/AWD00034d3  ----------
+  15 Aug 1915 27
+    weather:rain (39,32)
+    activity:working (47,37)
+    activity:working (40,42)
+Page 289 (type diary) http://wd3.herokuapp.com/pages/AWD00034cl  ----------
+  15 Aug 1915 24
+    domestic:uniform (45,32)
+  16 Aug 1915 35
+    weather:rain (44,40)
+    activity:fire (57,40)
+  17 Aug 1915 44
+    weather:rain (44,48)
+    activity:fire (52,49)
+    activity:attack (54,50)
+  18 Aug 1915 51
+    weather:rain (43,55)
+    weather:fine (52,55)
+    unit:1 Division: 3 Brigade: 2 battalion: the royal munster fusiliers (60,55)
+    domestic:accomodation (62,56)
+    activity:movement (50,57)
+    place:Verquin (47,59)
+    place:Cambrin (57,60)
+    activity:enemy_activity (45,62)
+    activity:fire (58,62)
+    place:Verquin (54,64)
+  19 Aug 1915 65
+    domestic:inspections (57,70)
+  20 Aug 1915 71
+    weather:overcast (44,75)
+    activity:training (48,77)
+    domestic:hygiene (45,79)
+    domestic:sport (50,79)
+Page 290 (type diary) http://wd3.herokuapp.com/pages/AWD00034d1  ----------
+  21 Aug 1915 26
+    weather:rain (41,31)
+    activity:training (46,33)
+  22 Aug 1915 40
+    weather:fine (42,44)
+    domestic:religion (40,46)
+    person:Brigadier General Thesiger (38,51)
+  23 Aug 1915 60
+    weather:hot (43,65)
+    activity:working (46,67)
+  24 Aug 1915 72
+    weather:fine (40,76)
+    unit:Northamptons (48,77)
+    unit:1 Division: 2 guards Brigade: 1 battalion northamptonshire Regiment (52,78)
+    activity:movement (44,78)
+    place:Vermelles (58,78)
+    time:0730PM (52,80)
+    unit:Northamptonshire Regiment (37,81)
+    unit:1 Bn. Northamptonshire Regiment (52,81)
+Page 291 (type diary) http://wd3.herokuapp.com/pages/AWD00034f0  ----------
+  25 Aug 1915 25
+    weather:hot (42,30)
+    unit:Royal Engineers (46,32)
+    activity:working (52,33)
+    place:Vermelles (51,48)
+    activity:fire (42,49)
+    activity:enemy_activity (57,52)
+    activity:repair (50,53)
+Page 292 (type diary) http://wd3.herokuapp.com/pages/AWD00034eq  ----------
+  26 Aug 1915 25
+    unit:Royal Engineers (49,33)
+    activity:working (42,33)
+    activity:reconnoitered (47,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 46; wounded: 0 (57,43)
+  27 Aug 1915 44
+    activity:quiet (50,49)
+    weather:fine (39,50)
+    weather:hot (43,50)
+    unit:Royal Engineers (48,53)
+    activity:working (50,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,56)
+Page 293 (type diary) http://wd3.herokuapp.com/pages/AWD00034dr  ----------
+  28 Aug 1915 25
+    weather:fine (56,30)
+    unit:Northamptonshire Regiment (35,32)
+    activity:quiet (44,32)
+    unit:1 Division: 2 guards Brigade: 1 battalion northamptonshire Regiment (59,33)
+    activity:movement (49,35)
+    place:Le Rutoire (54,36)
+    time:0650PM (55,37)
+    unit:C,b&d coys. 2 bn, krrc (45,41)
+    unit:A coy. 2 bn, krrc (50,42)
+    place:Vermelles (55,42)
+    mapRef:AUCHY-LENS (43,43)
+    unit:117 Battery: royal field artillery (48,48)
+    unit:115 & 116 Battery (6-18pdrs) (43,49)
+    unit:116 Battery: royal field artillery (43,49)
+    unit:23 Royal Engineer Field Company (49,54)
+    unit:1 Division: royal engineers: 23 field company (48,54)
+    place:Vermelles (58,54)
+    activity:enemy_activity (48,70)
+    gridRef:G_17_A_9_4 (55,73)
+    mapRef:36c NW (45,74)
+Page 294 (type diary) http://wd3.herokuapp.com/pages/AWD00034d2  ----------
+  28 Aug 1915 25
+    activity:repair (45,35)
+    unit:5 battalion royal scots fusiliers (52,43)
+    unit:Camerons (44,45)
+  29 Aug 1915 51
+    weather:fine (38,56)
+    activity:repair (41,61)
+    time:0800PM (57,63)
+    activity:working (46,64)
+    time:1230AM (50,65)
+    time:0815PM (56,67)
+    time:1200PM (44,69)
+    weather:overcast (40,71)
+    place:Bois Carre (57,74)
+    activity:enemy_activity (43,74)
+Page 295 (type diary) http://wd3.herokuapp.com/pages/AWD00034fk  ----------
+  29 Aug 1915 0
+    mapRef:rough sketch (43,23)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (44,26)
+    mapRef:36c NW (39,35)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 1; wounded: 1 (58,73)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 1; wounded: 0 (40,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (49,75)
+Page 296 (type diary) http://wd3.herokuapp.com/pages/AWD00034fi  ----------
+  29 Aug 1915 27
+    time:0500PM (40,32)
+    unit:1 Division: 2 guards Brigade: 1 battalion northamptonshire Regiment (57,33)
+    unit:1 Bn. Northamptonshire Regiment (55,33)
+    unit:1/ Northampton (43,34)
+    unit:1 Northamptonshire Regiment (34,36)
+    time:0830PM (48,39)
+    activity:repair (42,52)
+Page 297 (type diary) http://wd3.herokuapp.com/pages/AWD00034fh  ----------
+  30 Aug 1915 49
+    weather:fine (42,52)
+    activity:line (39,55)
+    activity:repair (49,58)
+    activity:enemy_activity (45,64)
+    time:1020PM (42,66)
+    activity:enemy_activity (52,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (35,80)
+Page 298 (type diary) http://wd3.herokuapp.com/pages/AWD00034ex  ----------
+  30 Aug 1915 26
+    mapRef:rough sketch (46,28)
+    mapRef:36c NW (34,31)
+    mapRef:Cuinchy-Lens trench map (45,72)
+Page 299 (type diary) http://wd3.herokuapp.com/pages/AWD00034f1  ----------
+  31 Aug 1915 27
+    weather:fine (41,31)
+    activity:repair (48,39)
+    unit:9/ Liverpools (52,45)
+    unit:1 Division: 2 guards Brigade: 1/9 battalion the kings [liverpool Regiment] (52,46)
+    unit:1 (Lowland) Royal Engineer Field Company (43,50)
+    activity:enemy_activity (51,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,60)
+    strength:officer: 18; nco: 0; other: 878 (52,65)
+Page 300 (type cover)
+Page 301 (type orders) http://wd3.herokuapp.com/pages/AWD00034fb  ----------
+  31 Aug 1915 0
+    date:4 Aug 1915 (64,12)
+    person:Brigadier General G Thesiger (commander) (44,14)
+    reference:1/40,000 (42,19)
+    reference:1/40000; Auchy-Lens Trench Map (35,20)
+    orders:other (46,6)
+    reference:RELIEF OPERATION ORDER No. 22  (47,9)
+Page 302 (type orders) http://wd3.herokuapp.com/pages/AWD00034ck  ----------
+  31 Aug 1915 0
+    reference:1/40000; Auchy-Lens Trench Map (34,16)
+    person:Major R Terry (other) (51,47)
+    reference:No. 22. (54,6)
+Page 303 (type orders) http://wd3.herokuapp.com/pages/AWD00034eu  ----------
+  31 Aug 1915 0
+    reference:1/40000; Auchy-Lens Trench Map (36,19)
+    date:11 Aug 1915 (60,6)
+    reference:Operation Order No. 25 (63,9)
+Page 304 (type orders) http://wd3.herokuapp.com/pages/AWD00034di  ----------
+  31 Aug 1915 0
+    date:8 Aug 1915 (66,15)
+    reference:1/40000; Auchy-Lens Trench Map (30,19)
+    reference:1/40,000 (36,20)
+    person:Major R Terry (other) (55,49)
+    orders:other (35,6)
+    reference:Operation Order No. 24 (68,6)
+    reference:No. 24. (69,7)
+    reference:2ND INFANTRY BRIGADE OPERATION ORDER No. 24 (56,8)
+Page 305 (type orders) http://wd3.herokuapp.com/pages/AWD00034eb  ----------
+  31 Aug 1915 0
+    reference:Operation Order No. 26 (59,10)
+    reference:No. 26. (61,11)
+    reference:2ND INFANTRY BRIGADE OPERATION ORDER No. 26 (52,12)
+    date:14 Aug 1915 (64,13)
+    reference:1/40,000 (37,16)
+    orders:move (45,17)
+    reference:1/40000; Auchy-Lens Trench Map (35,19)
+    orders:other (38,7)
+    person:Major N Terry (other) (48,76)
+    person:Major N Terry (author) (52,80)
+Page 306 (type orders) http://wd3.herokuapp.com/pages/AWD00034e4  ----------
+  31 Aug 1915 0
+    date:17 Aug 1915 (62,14)
+    person:Brigadier General G Thesiger (commander) (49,16)
+    reference:1/40000; Auchy-Lens Trench Map (36,23)
+    orders:move (51,23)
+    reference:Operation Order No. 27 (62,9)
+Page 307 (type orders) http://wd3.herokuapp.com/pages/AWD00034e9  ----------
+  31 Aug 1915 0
+    date:17 Aug 1915 (44,10)
+    person:Major Terry (other) (50,75)
+    reference:2ND INFANTRY BRIGADE OPERATION ORDER No. 27 CONTINUATION (50,8)
+    reference:No. 27. (54,8)
+    orders:move (40,9)
+Page 308 (type orders) http://wd3.herokuapp.com/pages/AWD00034cj  ----------
+  31 Aug 1915 0
+    reference:Operation Order No. 28 (63,13)
+    date:22 Aug 1915 (62,20)
+    orders:move (49,23)
+Page 309 (type orders) http://wd3.herokuapp.com/pages/AWD00034fc  ----------
+  31 Aug 1915 0
+    person:Captain Preston (author) (51,76)
+    reference:2ND INFANTRY BRIGADE OPERATION ORDER No. 28 CONTINUATION PAGE 2 (49,9)
+Page 310 (type orders) http://wd3.herokuapp.com/pages/AWD00034cx  ----------
+  31 Aug 1915 0
+    reference:2ND INFANTRY BRIGADE OPERATION ORDER No. 29 (52,11)
+    date:27 Aug 1915 (62,14)
+    reference:Trench map (43,14)
+    reference:1/40000; Auchy-Lens Trench Map (35,14)
+    orders:move (49,15)
+    person:Major W Terry (author) (51,64)
+    orders:move (47,7)
+    reference:Operation Order No. 29 (60,9)
+Page 311 (type cover)
+Page 312 (type ) http://wd3.herokuapp.com/pages/AWD00034ec  ----------
+  31 Aug 1915 0
+Page 313 (type ) http://wd3.herokuapp.com/pages/AWD00034cg  ----------
+  31 Aug 1915 0
+    person:Currie (author) (52,73)
+Page 314 (type ) http://wd3.herokuapp.com/pages/AWD00034f5  ----------
+  31 Aug 1915 0
+    orders:training (41,29)
+    person:Lieutenant P Currie (other) (54,72)
+    date:4 Aug 1915 (42,76)
+Page 315 (type ) http://wd3.herokuapp.com/pages/AWD00034eg  ----------
+  31 Aug 1915 0
+Page 316 (type ) http://wd3.herokuapp.com/pages/AWD00034e8  ----------
+  31 Aug 1915 0
+Page 317 (type other) http://wd3.herokuapp.com/pages/AWD00034f3  ----------
+  31 Aug 1915 0
+    reference:1st Division No. 138 (G). (58,13)
+Page 318 (type orders) http://wd3.herokuapp.com/pages/AWD00034er  ----------
+  31 Aug 1915 0
+    reference:1st Division 491 (57,11)
+    reference:TRACING  1/10,000 TRENCH MAP  (40,14)
+    reference:1/10000; Trench Map (36,22)
+Page 319 (type orders) http://wd3.herokuapp.com/pages/AWD00034dc  ----------
+  31 Aug 1915 0
+    person:Lieutenant Colonel R H Longridge (other) (52,30)
+    date:19 Aug 1915 (39,34)
+Page 320 (type orders) http://wd3.herokuapp.com/pages/AWD00034fa  ----------
+  31 Aug 1915 0
+    orders:training (43,27)
+    date:20 Aug 1915 (43,73)
+Page 321 (type other) http://wd3.herokuapp.com/pages/AWD00034f7  ----------
+  31 Aug 1915 0
+Page 322 (type other) http://wd3.herokuapp.com/pages/AWD00034ek  ----------
+  31 Aug 1915 0
+    reference:1st Division 491 G. Schedule 'A' (57,7)
+Page 323 (type other) http://wd3.herokuapp.com/pages/AWD00034es  ----------
+  31 Aug 1915 0
+Page 324 (type other) http://wd3.herokuapp.com/pages/AWD00034dv  ----------
+  31 Aug 1915 0
+Page 325 (type other) http://wd3.herokuapp.com/pages/AWD00034ej  ----------
+  31 Aug 1915 0
+Page 326 (type other) http://wd3.herokuapp.com/pages/AWD00034dq  ----------
+  31 Aug 1915 0
+Page 327 (type orders) http://wd3.herokuapp.com/pages/AWD00034ef  ----------
+  31 Aug 1915 0
+    person:Captain Currie (other) (59,62)
+Page 328 (type cover)
+Page 329 (type report) http://wd3.herokuapp.com/pages/AWD00034fe  ----------
+  31 Aug 1915 0
+    mapRef:36c NW (33,7)
+Page 330 (type report) http://wd3.herokuapp.com/pages/AWD00034da  ----------
+  31 Aug 1915 0
+Page 331 (type report) http://wd3.herokuapp.com/pages/AWD00034cs  ----------
+  31 Aug 1915 0
+    mapRef:36c NW (35,5)
+    person:Major V Vivian (author) (60,87)
+    date:3 Aug 1915 (42,91)
+Page 332 (type other) http://wd3.herokuapp.com/pages/AWD00034em  ----------
+  31 Aug 1915 0
+Page 333 (type blank)
+Page 334 (type report) http://wd3.herokuapp.com/pages/AWD00034f9  ----------
+  31 Aug 1915 0
+    date:29 Aug 1915 (71,85)
+Page 335 (type other) http://wd3.herokuapp.com/pages/AWD00034d8  ----------
+  31 Aug 1915 0
+Page 336 (type other) http://wd3.herokuapp.com/pages/AWD00034ci  ----------
+  31 Aug 1915 0
+Page 337 (type cover)

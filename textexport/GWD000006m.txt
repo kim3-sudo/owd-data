@@ -1,0 +1,820 @@
+GWD000006m wo/95/1266/3
+1 DIVISION: Trench Mortar Battary 
+34 pages
+
+Page 371 (type cover)
+Page 372 (type cover)
+Page 373 (type cover)
+Page 374 (type diary) http://wd3.herokuapp.com/pages/AWD000100i  ----------
+  2 Jul 1917 22
+    place:Nieuport Bains (6,27)
+    activity:attack (28,27)
+    unit:1 Battalion The Black Watch (42,30)
+    unit:1 battalion black watch (66,31)
+    unit:2 trench mortar Battery (47,32)
+  3 Jul 1917 33
+    activity:reserve (72,36)
+    place:Bador (60,37)
+    activity:movement (53,37)
+    unit:2 Trench Mortar Battery (32,38)
+  4 Jul 1917 40
+    unit:2 trench mortar Battery (44,41)
+    activity:training (24,46)
+  17 Jul 1917 49
+    place:Bray Dunes (34,54)
+    place:Bray Dunes (6,54)
+    activity:movement (23,54)
+  18 Jul 1917 60
+    place:Le Clipon (33,61)
+    activity:movement (22,61)
+  19 Jul 1917 66
+    activity:training (25,72)
+  31 Jul 1917 76
+Page 375 (type cover)
+Page 376 (type diary) http://wd3.herokuapp.com/pages/AWD0001013  ----------
+  1 Aug 1917 22
+    place:Le Clipon (6,25)
+    activity:training (26,28)
+  31 Aug 1917 36
+    person:Captain Glenister (author) (69,76)
+Page 377 (type cover)
+Page 378 (type diary) http://wd3.herokuapp.com/pages/AWD0001015  ----------
+  1 Sep 1917 20
+    activity:training (24,24)
+    place:Le Clipon (6,25)
+  30 Sep 1917 30
+Page 379 (type cover)
+Page 380 (type diary) http://wd3.herokuapp.com/pages/AWD000100o  ----------
+  1 Oct 1917 22
+  20 Oct 1917 26
+    activity:training (23,27)
+  21 Oct 1917 28
+    place:Leggers Cappel (6,31)
+    activity:movement (23,31)
+  23 Oct 1917 35
+    place:Arneke (6,36)
+    activity:movement (23,36)
+  25 Oct 1917 39
+    activity:training (23,39)
+  26 Oct 1917 41
+    place:Nouveau Monde (7,43)
+    activity:movement (23,43)
+  27 Oct 1917 44
+  31 Oct 1917 47
+    activity:training (23,48)
+Page 381 (type cover)
+Page 382 (type diary) http://wd3.herokuapp.com/pages/AWD000100v  ----------
+  1 Nov 1917 24
+    place:Nouveau Monde (6,27)
+  5 Nov 1917 30
+    activity:training (23,31)
+  6 Nov 1917 33
+    place:Schools Camp (33,36)
+    activity:movement (25,36)
+  8 Nov 1917 39
+    place:Schools Camp (8,40)
+    activity:training (25,40)
+    activity:movement (24,43)
+    place:Dambre (35,44)
+  9 Nov 1917 45
+    place:Dambre Camp (7,48)
+  14 Nov 1917 51
+    activity:training (25,52)
+  15 Nov 1917 53
+    activity:movement (24,56)
+    place:Irish Farm (41,57)
+  16 Nov 1917 58
+    place:Irish Farm (8,60)
+  19 Nov 1917 63
+    domestic:uniform (23,64)
+    activity:working (24,65)
+  20 Nov 1917 66
+    place:Dambre (33,69)
+    activity:movement (24,69)
+  21 Nov 1917 70
+    place:Dambre Camp (8,73)
+    activity:training (25,73)
+  22 Nov 1917 74
+    place:Road (33,77)
+    activity:movement (24,77)
+  23 Nov 1917 78
+    place:Road Camp (8,80)
+  26 Nov 1917 84
+    activity:training (23,85)
+  27 Nov 1917 86
+    place:Praed Camp (31,89)
+    place:Praed (34,89)
+    activity:movement (24,89)
+Page 383 (type diary) http://wd3.herokuapp.com/pages/AWD0001016  ----------
+  28 Nov 1917 24
+    place:Praed Camp (8,25)
+  30 Nov 1917 30
+    activity:training (23,31)
+Page 384 (type cover)
+Page 385 (type diary) http://wd3.herokuapp.com/pages/AWD000100q  ----------
+  30 Nov 1917 0
+  1 Jan 1918 25
+    place:Yser Canal Bank (7,25)
+    place:Canal Bank (73,27)
+    place:Yser Canal Bank (8,28)
+    activity:repair (28,29)
+    place:Delahousse (52,29)
+  29 Jan 1918 30
+    place:Herbebois (68,33)
+    place:Delahousse (29,36)
+    place:Broenbeek (58,36)
+  30 Jan 1918 38
+    mapRef:20 (69,39)
+    mapRef:20 (77,40)
+    activity:movement (30,40)
+    place:Noordhoek (35,40)
+    gridRef:S_22_D_9_5 (58,40)
+  31 Jan 1918 42
+    place:Noordhoek (7,43)
+    domestic:hygiene (27,43)
+    unit:Royal Berkshire (43,45)
+Page 386 (type diary) http://wd3.herokuapp.com/pages/AWD0001019  ----------
+  1 Feb 1918 25
+    place:Noordhoek (8,28)
+    activity:training (24,28)
+  8 Feb 1918 30
+    mapRef:20 (8,31)
+  4 Feb 1918 34
+    mapRef:20 (9,34)
+    unit:10 Gloucesters (27,37)
+  9 Feb 1918 38
+    activity:movement (25,39)
+  10 Feb 1918 47
+    place:Canal Bank (8,44)
+    unit:Lancashires (28,45)
+  19 Feb 1918 50
+    activity:training (22,52)
+  20 Feb 1918 54
+    activity:movement (26,56)
+    unit:2 Brigade (54,57)
+  21 Feb 1918 58
+    place:Hill Top Farm (8,60)
+    activity:construction (32,61)
+  28 Feb 1918 63
+Page 387 (type diary) http://wd3.herokuapp.com/pages/AWD0001012  ----------
+  1 Mar 1918 25
+    place:Hill Top Farm (6,27)
+    activity:construction (30,28)
+  4 Mar 1918 34
+    unit:3 Trench Mortar Battery (31,36)
+    unit:3 Trench Mortar Battery (59,37)
+  5 Mar 1918 38
+    activity:training (23,40)
+    place:Seige Camp (8,40)
+  7 Mar 1918 50
+    unit:Ii corps school (44,47)
+    activity:movement (31,48)
+    place:Millain (57,48)
+    activity:training (23,52)
+    place:Millain (8,52)
+  13 Mar 1918 59
+    activity:movement (36,61)
+    place:Seige Camp (57,61)
+    place:Millain (8,61)
+  15 Mar 1918 62
+    activity:training (23,65)
+    place:Seige Camp (8,65)
+  16 Mar 1918 67
+    activity:movement (33,68)
+  17 Mar 1918 71
+    place:Caddie Camp (8,73)
+  29 Mar 1918 78
+    activity:movement (29,81)
+  30 Mar 1918 83
+    place:Gournier Farm (8,85)
+  31 Mar 1918 87
+    person:Lieutenant (author) (88,89)
+Page 388 (type cover)
+Page 389 (type diary) http://wd3.herokuapp.com/pages/AWD000100m  ----------
+  1 Apr 1918 22
+    place:Gournier Camp (8,26)
+    activity:line (27,27)
+  2 Apr 1918 28
+    activity:other (47,28)
+  3 Apr 1918 31
+    activity:other (35,32)
+  6 Apr 1918 34
+    activity:clearing (28,34)
+  7 Apr 1918 37
+    unit:89 Brigade Trench Mortar Battary (29,39)
+    activity:movement (46,40)
+    place:Mortar Camp (62,40)
+  8 Apr 1918 41
+    place:Elverdinge (76,41)
+    place:Mortar Camp (6,43)
+    activity:training (23,44)
+    activity:movement (36,44)
+    activity:movement (59,44)
+    place:Peselhoek (48,44)
+    activity:movement (80,45)
+    place:Choques (69,45)
+    place:Elverdinge (8,45)
+  9 Apr 1918 48
+    place:Marles les Mines (34,48)
+  10 Apr 1918 51
+  11 Apr 1918 53
+    activity:training (23,53)
+    activity:movement (24,56)
+    place:Houchin (39,56)
+  12 Apr 1918 57
+    activity:movement (22,60)
+    place:Houchin (8,60)
+  13 Apr 1918 61
+    place:Fouquereuil (39,61)
+  15 Apr 1918 63
+    activity:training (23,64)
+    place:Fouquereuil (7,64)
+  16 Apr 1918 65
+    unit:16 Trench Mortar Battary (26,68)
+  18 Apr 1918 69
+    place:Givenchy (42,69)
+    place:Westminster Bridge (69,69)
+    time:0400AM (18,72)
+    casualties:died: 0; killed: 1; missing: 27; prisoner: 0; sick: 0; wounded: 0 (45,72)
+    casualties:died: 0; killed: 1; missing: 27; prisoner: 0; sick: 0; wounded: 0 (36,73)
+    activity:fire (25,73)
+    place:Givenchy (8,73)
+  22 Apr 1918 74
+  23 Apr 1918 77
+    unit:16 Mortar Battary (31,77)
+    activity:movement (45,77)
+    place:Houchin (64,77)
+  24 Apr 1918 81
+    activity:movement (24,81)
+    place:Houchin (8,81)
+  30 Apr 1918 84
+    activity:training (22,85)
+    place:Noeux Les Mines (7,85)
+Page 390 (type diary) http://wd3.herokuapp.com/pages/AWD000100s  ----------
+  1 May 1918 22
+    place:Noeux Les Mines (9,25)
+    activity:training (25,27)
+  2 May 1918 28
+    unit:2 tmb (30,32)
+    place:Cambrin Sector (46,32)
+    activity:line (64,33)
+  20 May 1918 35
+    place:Wimpole Street (38,37)
+    place:Cambrin (9,39)
+    unit:3 tmb (62,40)
+    unit:3 tmb (28,41)
+    place:Noeux Les Mines (78,41)
+    domestic:accomodation (51,41)
+  28 May 1918 42
+    activity:training (25,44)
+    place:Noeux Les Mines (8,44)
+    unit:2 tmb (27,48)
+    activity:line (70,49)
+    gridRef:G_3_D_30_85 (36,53)
+Page 391 (type diary) http://wd3.herokuapp.com/pages/AWD000100y  ----------
+  1 Jun 1918 21
+    place:Cannon Street (7,25)
+  13 Jun 1918 36
+    unit:3 Trench Mortar Battary (30,39)
+    unit:3 tmb (24,39)
+  14 Jun 1918 40
+    place:Braquemont Camp (75,41)
+  20 Jun 1918 45
+    place:Braquemont Camp (7,45)
+  21 Jun 1918 47
+    activity:training (23,47)
+    unit:2 Trench Mortar Battary (30,51)
+    unit:2 tmb (28,52)
+    place:Braquemont Camp (7,53)
+    gridRef:A_26_B_6_7 (24,56)
+    place:Headquarters Wimpole Street (8,60)
+    activity:construction (25,61)
+    gridRef:A_26_B_6_7 (7,65)
+Page 392 (type diary) http://wd3.herokuapp.com/pages/AWD000100t  ----------
+  21 Jun 1918 0
+  1 Jul 1918 27
+    place:Wimpole Street (8,28)
+  11 Jul 1918 38
+    place:Cambrin (8,31)
+    place:Cambrin Sector (41,32)
+    activity:line (26,32)
+    unit:3 T.M.B (25,35)
+    domestic:accomodation (53,36)
+    place:Noeux les Mines (70,36)
+    place:Wimpole Street (8,36)
+    unit:3 tmb (32,37)
+    place:Noeux Les Mines (8,40)
+  21 Jul 1918 44
+    activity:training (24,44)
+    place:Hohenzollern Sector (48,48)
+    place:Cannon Street (81,48)
+    place:Noeux Les Mines (8,48)
+    unit:2 tmb (27,48)
+    place:Hohenzollern Sector (47,53)
+    place:Cannon Street (8,53)
+    activity:line (30,53)
+  31 Jul 1918 55
+    person:Lieutenant Jos Budge (author) (77,80)
+Page 393 (type diary) http://wd3.herokuapp.com/pages/AWD000101a  ----------
+  1 Aug 1918 23
+    place:Hohenzollern Sector (8,29)
+  10 Aug 1918 30
+    activity:line (23,31)
+    domestic:accomodation (55,36)
+    unit:3 Trench Mortar Battery (21,36)
+    unit:3 tmb (31,36)
+    place:Noeux Les Mines (8,41)
+  14 Aug 1918 51
+    activity:training (23,44)
+    domestic:accomodation (31,48)
+    activity:fire (70,48)
+    activity:movement (23,48)
+    place:Noeux Les Mines (9,49)
+  19 Aug 1918 59
+    activity:training (24,56)
+    place:Noeux Les Mines (9,60)
+    activity:movement (24,60)
+    place:Quevaussart (42,61)
+  20 Aug 1918 66
+    place:Quevaussart (8,64)
+    place:Quevaussart (7,65)
+    activity:movement (24,65)
+    place:Fontaine Les Boulons (8,69)
+  31 Aug 1918 72
+    activity:training (24,72)
+    place:Arras (40,77)
+    activity:movement (24,77)
+    person:Captain Ian (81,79)
+Page 394 (type diary) http://wd3.herokuapp.com/pages/AWD000100l  ----------
+  Hashtags: #caves 
+  31 Aug 1918 0
+  1 Sep 1918 22
+    place:Arras (8,28)
+  2 Sep 1918 29
+    activity:movement (22,32)
+    place:Achicourt (46,32)
+  5 Sep 1918 34
+  6 Sep 1918 36
+    activity:movement (23,36)
+    place:Achicourt (8,36)
+    place:Achicourt (31,36)
+    place:Arras (45,37)
+  8 Sep 1918 39
+    place:Arras (30,40)
+    place:Arras (8,40)
+    activity:movement (24,43)
+    activity:movement (21,44)
+    place:Etrun (34,44)
+    place:Arras (8,44)
+  10 Sep 1918 45
+    activity:movement (23,48)
+    activity:movement (63,48)
+    place:Maroeil (32,48)
+    place:Marcelcave (54,48)
+    place:Etrun (8,48)
+    place:Morcourt (82,48)
+  11 Sep 1918 49
+    activity:resupplying (22,52)
+  12 Sep 1918 49
+    place:Morcourt (8,53)
+  13 Sep 1918 56
+    activity:movement (22,56)
+    activity:movement (68,56)
+    place:Tertry (83,56)
+    place:Morcourt (8,56)
+    place:Morcourt (32,57)
+    place:Montecourt (57,57)
+    activity:movement (22,60)
+    place:Caulincourt (52,60)
+  14 Sep 1918 61
+    place:Tertry (32,61)
+    place:Tertry (8,61)
+    unit:1 cameron highlanders (18,62)
+    activity:movement (23,64)
+    place:Caulincourt (33,64)
+    place:Caulincourt (8,64)
+  17 Sep 1918 65
+    place:Marteville (62,65)
+    unit:North lancashire reg (18,67)
+    place:Marteville (8,68)
+    unit:1 Cameron Highlanders (49,68)
+    mapRef:62b (17,72)
+    mapRef:62b (8,73)
+    unit:1 Loyal North Lancashire Regiment (33,73)
+    activity:other (32,76)
+    place:Quarry (58,77)
+  31 Aug 1918 0
+  18 Sep 1918 81
+    place:Vermand (44,81)
+Page 395 (type diary) http://wd3.herokuapp.com/pages/AWD0001014  ----------
+  18 Sep 1918 33
+    activity:support (30,31)
+    unit:1 Loyal North Lancashire Regiment (42,31)
+    unit:1 Regiment Loyal North Lancashire (36,33)
+    activity:movement (23,36)
+    time:0615AM (18,39)
+    unit:1 Loyal North Lancashire Regiment (34,40)
+    unit:1 Regiment C Co. Loyal North Lancashire (21,41)
+    activity:fire (32,44)
+    activity:attack (56,44)
+    time:0650AM (18,52)
+    unit:1 Loyal North Lancashire Regiment (37,52)
+    unit:1 Regiment A Co. Loyal North Lancashire (20,52)
+    activity:attack (51,56)
+    activity:attack (62,56)
+    unit:1 Royal north Lancs reg (39,57)
+    time:0730AM (17,69)
+    unit:1 Loyal North Lancashire Regiment (37,69)
+    unit:1 Regiment C Co. Loyal North Lancashire (20,69)
+    activity:attack (64,70)
+    activity:attack (24,73)
+    activity:withdraw (72,76)
+    time:1100PM (83,77)
+    activity:enemy_activity (39,81)
+    unit:No 1 section pow guard (63,81)
+    activity:support (32,89)
+    unit:1 Cameron Highlanders (38,89)
+Page 396 (type diary) http://wd3.herokuapp.com/pages/AWD000100f  ----------
+  18 Sep 1918 73
+    activity:movement (26,27)
+    gridRef:M_15_A_2_4 (68,32)
+    activity:movement (49,32)
+    place:Berthaucourt (24,33)
+    mapRef:M15 a 2 4 (73,33)
+    activity:attack (24,37)
+    activity:attack (36,37)
+    activity:achieved (65,37)
+    unit:1 Cameron Highlanders (63,40)
+    unit:1 Regiment A Co. Cameron Highlanders (52,40)
+  19 Sep 1918 44
+    gridRef:M_14_B_8_7 (69,45)
+    unit:1 Cameron Highlanders (28,45)
+    mapRef:M14 b8 7 (76,45)
+    activity:attack (53,48)
+    gridRef:M_15_A_1_4 (46,49)
+    place:Leduc Trench (63,49)
+    place:Fournoy Alley (35,52)
+    mapRef:M15 a (26,52)
+    gridRef:M_15_A_0_0 (46,53)
+    gridRef:M_15_B_0_0 (53,53)
+    gridRef:M_15_A_4_6 (69,57)
+    place:Quarry (60,57)
+    activity:attack (50,57)
+    gridRef:M_15_A_45_85 (74,61)
+    activity:enemy_activity (30,61)
+    place:Pontruet (29,65)
+    place:Palaric (55,65)
+    place:Brient (65,65)
+    mapRef:M9 d 7 8 (55,68)
+    gridRef:M_9_D_7_8 (49,69)
+    activity:enemy_activity (35,69)
+    activity:attack (63,69)
+    activity:attack (76,69)
+  18 Sep 1918 73
+    gridRef:M_15_C_0_0 (36,73)
+    unit:1 Black Watch (53,73)
+    unit:1 Regiment The Blacl Watch (50,73)
+    activity:attack (42,73)
+    activity:resupplying (65,77)
+    time:1200AM (53,78)
+    unit:Prisoner of War Guard (35,78)
+  23 Sep 1918 81
+    gridRef:R_23_B_55_40 (51,81)
+    place:Maissamy (39,81)
+    activity:attack (35,85)
+    activity:withdraw (79,85)
+    place:Maissamy (30,90)
+    activity:reserve (22,90)
+Page 397 (type diary) http://wd3.herokuapp.com/pages/AWD000100u  ----------
+  20 Sep 1918 23
+    activity:line (34,26)
+    activity:support (44,27)
+    unit:1 Black Watch (52,27)
+    unit:1 Regiment The Black Watch (48,27)
+    place:Villemay Trench (24,30)
+    activity:attack (46,31)
+    place:Essling Alley (59,31)
+    place:Arbousiers Wood (72,32)
+    gridRef:M_21_C_0_0 (53,34)
+    place:Villemay Trench (31,34)
+  22 Sep 1918 38
+    time:1200AM (26,38)
+    activity:withdraw (58,39)
+    activity:line (40,42)
+    unit:No3 Section (27,43)
+    activity:support (51,44)
+    unit:1 Regiment Loyal North Lancashire (56,45)
+    activity:attack (31,47)
+  23 Sep 1918 51
+    time:1200PM (40,51)
+  24 Sep 1918 50
+    activity:movement (29,54)
+    place:Vermand (40,55)
+  26 Sep 1918 57
+    activity:movement (23,59)
+    place:Vadencourt (32,60)
+    place:Vermand (6,61)
+    activity:support (46,63)
+    unit:1 Regiment Loyal North Lancashire (51,64)
+    place:Fourmi Trench (34,67)
+    activity:support (61,71)
+    unit:1 Black Watch (73,71)
+    unit:1 Regiment The Black Watch (64,72)
+    gridRef:M_9_C_3_1 (68,76)
+    place:Pontruet (43,78)
+  27 Sep 1918 79
+    activity:attack (32,79)
+    place:Palaric Trench (50,83)
+    activity:movement (21,84)
+    activity:withdraw (40,88)
+    unit:1 Regiment Loyal North Lancashire (58,88)
+Page 398 (type diary) http://wd3.herokuapp.com/pages/AWD000100c  ----------
+  27 Sep 1918 0
+    unit:Subsection of No2 Section (48,26)
+  29 Sep 1918 27
+    unit: (36,27)
+    activity:movement (21,30)
+    gridRef:M_9_D_6_8 (57,30)
+    place:Pontruet (45,31)
+    activity:movement (32,31)
+    unit:1 Regiment The Black Watch (77,34)
+    place:Forgans Trench (53,35)
+    activity:attack (38,35)
+    place:Foreats Trench (40,38)
+    gridRef:M_12_A_1_8 (81,39)
+    gridRef:M_2_B_7_4 (47,41)
+    place:Quarry (38,42)
+    activity:withdraw (30,42)
+    unit:1 Bn Loyal North Lancashire (74,42)
+    place:Pen Trench (56,45)
+    activity:movement (38,45)
+    activity:attack (71,46)
+    place:Pontruet (53,48)
+    activity:movement (23,49)
+  30 Sep 1918 51
+    place:Foreats Trench (48,52)
+    activity:movement (29,52)
+    time:0600AM (17,53)
+    unit:1 The Black Watch (71,56)
+    unit:1 Regiment The Black Watch (65,56)
+    activity:attack (31,57)
+    activity:movement (55,57)
+    time:0830AM (16,58)
+    gridRef:N_8_C_2_8 (32,62)
+    place:Foreats Trench (61,67)
+    activity:withdraw (28,67)
+    time:1000PM (17,67)
+Page 399 (type diary) http://wd3.herokuapp.com/pages/AWD000100j  ----------
+  30 Sep 1918 0
+  1 Oct 1918 23
+  4 Oct 1918 31
+    activity:reserve (24,29)
+    place:Foreats Trench (7,30)
+    mapRef:62 c (90,31)
+    time:0200PM (18,33)
+    place:Vermand (38,33)
+    place:Foreats Trench (6,33)
+    activity:movement (26,33)
+  9 Oct 1918 34
+    place:Onoto Trench (33,37)
+    place:Vermand (7,37)
+    activity:movement (25,37)
+  16 Oct 1918 39
+    place:Onoto Trench (9,40)
+    gridRef:D_21_B_0_8 (45,41)
+    place:Bohain (38,41)
+    domestic:accomodation (29,41)
+    activity:line (65,41)
+    activity:support (78,41)
+    activity:movement (23,42)
+    mapRef:Sheet 62B (89,42)
+    mapRef:62b (90,43)
+    unit:1 Cameron Highlanders (40,45)
+  17 Oct 1918 47
+    time:0400AM (18,48)
+    place:Bohain (7,48)
+    activity:movement (35,48)
+    gridRef:D_4_D_4_7 (53,49)
+  30 Sep 1918 0
+    unit:3 Inf Bgd. (55,5)
+  17 Oct 1918 47
+    mapRef: (90,50)
+    time:1200AM (18,52)
+    gridRef:W_20_C_7_9 (60,52)
+    place:Vaux Andigny (48,52)
+    activity:movement (29,52)
+    place:Angen Farm (41,55)
+  18 Oct 1918 56
+    gridRef:W_22_C_6_0 (51,56)
+    unit:1 The Black Watch (28,56)
+    place:Vaux Andigny (7,59)
+  30 Sep 1918 0
+    mapRef:62c (80,6)
+  18 Oct 1918 56
+    place:La Vallee Mulatre (50,60)
+    activity:movement (36,60)
+    gridRef:W_29_B_6_5 (66,61)
+    mapRef:Anoigny Forest Sheet (90,62)
+    activity:withdraw (29,63)
+  20 Oct 1918 66
+    place:La Vallee Mulatre (7,68)
+    activity:withdraw (34,69)
+  22 Oct 1918 72
+    gridRef:X_26_D_6_5 (45,73)
+    place:Wassigny (37,73)
+    activity:movement (28,74)
+    mapRef:Anoigny Forest Sheet (90,74)
+    place:La Vallee Mulatre (6,75)
+    unit:3 Infantry Brigade (39,77)
+    activity:attack (61,77)
+    activity:support (76,78)
+  23 Oct 1918 79
+    place:Wassigny (8,86)
+    activity:withdraw (44,87)
+Page 400 (type diary) http://wd3.herokuapp.com/pages/AWD000100z  ----------
+  24 Oct 1918 25
+    place:Wassigny (8,28)
+    activity:line (36,28)
+    activity:support (48,28)
+  25 Oct 1918 29
+    mapRef:57 bse (91,29)
+    activity:movement (27,31)
+    activity:line (75,32)
+    mapRef:87b SE (89,34)
+    activity:support (25,35)
+    unit:1 Royal North Lancashire (38,35)
+  27 Oct 1918 37
+    activity:movement (28,40)
+    domestic:accomodation (66,41)
+    place:La Vallee Mulatre (78,42)
+Page 401 (type diary) http://wd3.herokuapp.com/pages/AWD0001010  ----------
+  3 Nov 1918 26
+    activity:training (24,26)
+    place:La Vallee Mulatre (8,27)
+    activity:movement (27,30)
+    time:0800PM (18,30)
+    place:" (8,31)
+    place:Canal de la Sambre (27,33)
+    place:Catillon (49,33)
+  4 Nov 1918 34
+    place:Mazinghiem (7,34)
+    place:Mazinghiem (80,34)
+    activity:movement (62,34)
+    activity:movement (23,37)
+    activity:attack (75,37)
+    activity:withdraw (30,43)
+    time:0900PM (18,43)
+  5 Nov 1918 44
+    domestic:accomodation (57,47)
+    place:Vaux Andigny (42,47)
+    place:Vaux Andigny (8,47)
+    activity:movement (27,47)
+  7 Nov 1918 51
+    domestic:accomodation (53,51)
+    place:Fresnoy le Grand (38,51)
+    place:Fresnoy le Grand (8,51)
+    activity:movement (24,51)
+  12 Nov 1918 55
+    activity:training (25,56)
+  13 Nov 1918 58
+    place:Grand Fayt (35,60)
+    place:Grand Fayt (8,60)
+    activity:movement (24,60)
+  14 Nov 1918 62
+    place:" (8,64)
+    activity:training (24,64)
+  15 Nov 1918 66
+    domestic:accomodation (33,67)
+    place:Sars Poteries (43,67)
+    place:Sars Poteries (8,67)
+    activity:movement (24,68)
+  16 Nov 1918 69
+    activity:movement (24,71)
+    domestic:accomodation (33,72)
+    place:Hestrild (44,72)
+  18 Nov 1918 74
+    domestic:accomodation (33,76)
+    place:Castillon (44,76)
+    place:Castillon (8,76)
+    activity:movement (24,76)
+  19 Nov 1918 78
+    place:Laneffe (7,80)
+    domestic:accomodation (34,81)
+    place:Laneffe (44,81)
+    activity:movement (24,81)
+  20 Nov 1918 82
+    place:" (8,85)
+    place:Laneffe (7,85)
+  22 Nov 1918 86
+    activity:training (25,86)
+  23 Nov 1918 90
+    domestic:accomodation (33,91)
+    place:Stave (42,91)
+    activity:movement (25,91)
+    place:Stave (8,92)
+Page 402 (type diary) http://wd3.herokuapp.com/pages/AWD0001017  ----------
+  24 Nov 1918 25
+    activity:movement (27,27)
+    place:Weillen (8,27)
+  25 Nov 1918 28
+    domestic:accomodation (33,28)
+    place:Weillen (42,28)
+  30 Nov 1918 33
+    activity:training (25,34)
+    place:" (8,34)
+Page 403 (type diary) http://wd3.herokuapp.com/pages/AWD000100k  ----------
+  1 Dec 1918 24
+    activity:movement (24,27)
+    place:Weillen (8,27)
+    place:Veve (43,28)
+    domestic:accomodation (31,28)
+  2 Dec 1918 29
+    activity:movement (24,31)
+    place:Veve (9,31)
+    place:Mount Gauthier (43,32)
+    domestic:accomodation (33,32)
+  3 Dec 1918 33
+    activity:training (26,36)
+    place:Mount Gauthier (7,36)
+  6 Dec 1918 37
+    activity:training (27,39)
+  7 Dec 1918 40
+    place:Mount Gauthier (7,40)
+    place:Mount Gauthier (7,43)
+  8 Dec 1918 44
+    activity:movement (24,44)
+    place:Haversin (45,44)
+    domestic:accomodation (34,44)
+    activity:training (27,48)
+    place:Haversin (7,48)
+  9 Dec 1918 49
+    place:Haversin (7,51)
+    activity:movement (25,52)
+  10 Dec 1918 53
+    domestic:accomodation (34,53)
+    activity:movement (24,56)
+    place:Saillionville Baruaox (8,56)
+    domestic:accomodation (35,56)
+  11 Dec 1918 57
+    place:Bomal (46,57)
+    activity:movement (24,60)
+    place:Bomal (8,60)
+    domestic:accomodation (35,60)
+  12 Dec 1918 61
+    place:Bomal (7,64)
+  13 Dec 1918 65
+    activity:training (27,65)
+    activity:movement (24,68)
+    place:Bomal (7,68)
+  14 Dec 1918 69
+    domestic:accomodation (35,69)
+    activity:movement (25,72)
+    domestic:accomodation (35,72)
+  15 Dec 1918 73
+    place:Petites Tailles (49,73)
+    activity:movement (24,76)
+    place:Cierreux (48,76)
+    place:Petites Tailles (8,77)
+    domestic:accomodation (35,77)
+  16 Dec 1918 78
+    activity:movement (24,79)
+    place:Thommen (47,80)
+  17 Dec 1918 81
+    place:Cierreux (7,81)
+    activity:movement (24,84)
+    place:Amelacheid (48,85)
+    place:Thommen (8,85)
+Page 404 (type diary) http://wd3.herokuapp.com/pages/AWD000100e  ----------
+  19 Dec 1918 27
+    domestic:accomodation (34,27)
+    place:Hallschlag (46,27)
+    place:Amelacheid (9,28)
+    activity:movement (24,28)
+    domestic:accomodation (34,31)
+    activity:movement (25,31)
+  20 Dec 1918 32
+    place:Schmidtheim (46,32)
+    place:Hallschlag (7,32)
+  21 Dec 1918 36
+    place:Schmidtheim (7,36)
+    activity:training (24,36)
+  22 Dec 1918 40
+    domestic:accomodation (34,40)
+    place:Manstereifel (46,40)
+    place:Schmidtheim (8,40)
+    activity:movement (25,40)
+    domestic:accomodation (33,43)
+    place:Manstereifel (7,43)
+  23 Dec 1918 44
+    place:Kuchenheim (47,44)
+    activity:movement (25,44)
+    domestic:accomodation (33,48)
+    place:Bornheim (46,48)
+    activity:movement (24,48)
+  24 Dec 1918 49
+    place:Kuchenheim (7,49)
+    place:Bornheim (7,52)
+    activity:training (25,52)
+  31 Dec 1918 55
+    activity:training (26,56)
+    person:Second Lieutenant F James (author) (57,66)

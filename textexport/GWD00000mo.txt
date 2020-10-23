@@ -1,0 +1,985 @@
+GWD00000mo wo/95/1255/5
+1 DIVISION:  Divisional Troops: Divisional Signal Company.  
+113 pages
+
+Page 416 (type diary) http://wd3.herokuapp.com/pages/AWD00038y9  ----------
+  1 May 1917 24
+    activity:training (51,25)
+  2 May 1917 37
+    place:Peronne (45,40)
+    unit:3 Brigade (27,42)
+Page 417 (type diary) http://wd3.herokuapp.com/pages/AWD00038x6  ----------
+  3 May 1917 24
+    activity:training (59,39)
+    unit:1 & 3 detachment (37,41)
+  4 May 1917 60
+    activity:training (58,60)
+    unit:1 & 3 detachment (26,62)
+  5 May 1917 82
+    activity:training (52,83)
+Page 418 (type diary) http://wd3.herokuapp.com/pages/AWD00038x5  ----------
+  6 May 1917 25
+    domestic:inspections (72,27)
+  7 May 1917 33
+    activity:training (43,39)
+    unit:1 & 3 detachment (29,42)
+  8 May 1917 44
+    activity:training (63,44)
+    weather:rain (45,47)
+    activity:training (46,53)
+    place:Frise (73,60)
+    mapRef:Amiens (81,60)
+    unit:3 Infantry Brigade (32,61)
+    activity:movement (43,62)
+    mapRef:Amiens (30,66)
+    unit:3 Infantry Brigade (78,68)
+    person:Captain Carter (other) (30,70)
+  9 May 1917 79
+    place:Maurepas (62,85)
+    unit:No 3 detachment (38,85)
+    unit:No 1 Detachment (78,85)
+Page 419 (type diary) http://wd3.herokuapp.com/pages/AWD00038xf  ----------
+  10 May 1917 20
+    activity:training (43,28)
+  11 May 1917 39
+    activity:training (42,49)
+  12 May 1917 54
+  13 May 1917 66
+    activity:movement (36,69)
+    time:0745AM (63,72)
+    domestic:inspections (48,76)
+  14 May 1917 81
+    activity:training (31,85)
+Page 420 (type diary) http://wd3.herokuapp.com/pages/AWD00038y1  ----------
+  15 May 1917 20
+    activity:training (64,27)
+  16 May 1917 54
+    place:Mericourt-Sur-Somme (7,60)
+    activity:training (39,65)
+  17 May 1917 80
+Page 421 (type diary) http://wd3.herokuapp.com/pages/AWD00038vz  ----------
+  17 May 1917 20
+    activity:training (57,24)
+  18 May 1917 40
+    activity:other (33,44)
+  19 May 1917 61
+    mapRef:Amiens (66,92)
+Page 422 (type diary) http://wd3.herokuapp.com/pages/AWD00038w1  ----------
+  20 May 1917 20
+    activity:movement (27,25)
+    time:1100AM (22,30)
+  21 May 1917 32
+    activity:other (51,34)
+    place:Villers Bretonneux (7,40)
+    time:0130PM (54,45)
+    domestic:sport (31,46)
+  22 May 1917 66
+    activity:other (24,70)
+Page 423 (type diary) http://wd3.herokuapp.com/pages/AWD00038xz  ----------
+  23 May 1917 20
+  24 May 1917 38
+    time:0600AM (21,41)
+    domestic:inspections (47,49)
+    place:Villers Bretonneux (7,50)
+    time:0900AM (20,50)
+    domestic:sport (24,55)
+  25 May 1917 74
+    activity:training (27,76)
+  26 May 1917 84
+Page 424 (type diary) http://wd3.herokuapp.com/pages/AWD00038wy  ----------
+  27 May 1917 20
+    place:Villers Bretonneux (5,24)
+    activity:movement (24,25)
+  28 May 1917 39
+    place:Berthen (9,46)
+    activity:resting (49,51)
+  29 May 1917 54
+  30 May 1917 66
+    activity:training (25,70)
+  31 May 1917 83
+    activity:training (26,87)
+Page 425 (type other) http://wd3.herokuapp.com/pages/AWD00038w8  ----------
+  31 May 1917 0
+Page 426 (type ) http://wd3.herokuapp.com/pages/AWD00038ym  ----------
+  31 May 1917 0
+    date:17 May 1917 (36,58)
+    reference:SIGNALS (45,9)
+Page 427 (type other) http://wd3.herokuapp.com/pages/AWD00038y3  ----------
+  31 May 1917 0
+    reference:Ref Map Amiens 1/100000 (21,9)
+Page 428 (type other) http://wd3.herokuapp.com/pages/AWD00038xb  ----------
+  31 May 1917 0
+Page 429 (type other) http://wd3.herokuapp.com/pages/AWD00038xl  ----------
+  31 May 1917 0
+Page 430 (type diary) http://wd3.herokuapp.com/pages/AWD00038y0  ----------
+  31 May 1917 20
+    activity:training (47,32)
+Page 431 (type diary) http://wd3.herokuapp.com/pages/AWD00038wl  ----------
+  31 May 1917 20
+    person:Major Gilchrist (author) (59,91)
+Page 432 (type cover)
+Page 433 (type diary) http://wd3.herokuapp.com/pages/AWD00038w9  ----------
+  1 Jun 1917 17
+    mapRef:Belgium & France Sheet 27  (6,24)
+    place:Berthen (3,25)
+    activity:training (35,28)
+    mapRef:27 (6,29)
+  2 Jun 1917 36
+    activity:training (20,39)
+  3 Jun 1917 46
+    place:Berthen (5,49)
+    domestic:inspections (30,50)
+  4 Jun 1917 56
+    activity:training (36,77)
+  5 Jun 1917 80
+    activity:training (23,87)
+Page 434 (type diary) http://wd3.herokuapp.com/pages/AWD00038yn  ----------
+  6 Jun 1917 22
+    activity:training (21,28)
+  7 Jun 1917 36
+    place:Berthen (8,44)
+    activity:training (22,45)
+  8 Jun 1917 55
+    domestic:hygiene (22,55)
+    activity:training (22,60)
+  9 Jun 1917 70
+    activity:training (28,80)
+Page 435 (type diary) http://wd3.herokuapp.com/pages/AWD00038xs  ----------
+  10 Jun 1917 21
+    domestic:inspections (80,29)
+    place:Berthen (6,30)
+  11 Jun 1917 33
+    activity:movement (28,37)
+    place:Hazebrouck (5,39)
+  12 Jun 1917 44
+    activity:construction (31,49)
+  13 Jun 1917 68
+    activity:training (22,72)
+    unit:1 Northamptons (71,75)
+  14 Jun 1917 82
+    activity:training (22,86)
+    person:Captain H Cartel (other) (69,87)
+Page 436 (type diary) http://wd3.herokuapp.com/pages/AWD00038x7  ----------
+  14 Jun 1917 21
+    activity:training (24,28)
+    place:Hazebrouck (4,30)
+  15 Jun 1917 41
+    activity:training (24,45)
+    person:Captain H Carter (departed_leave) (24,56)
+  16 Jun 1917 58
+    activity:training (23,67)
+  17 Jun 1917 73
+    domestic:hygiene (22,77)
+  18 Jun 1917 82
+Page 437 (type diary) http://wd3.herokuapp.com/pages/AWD00038y5  ----------
+  18 Jun 1917 0
+    mapRef:Belgium & France Sheet 19 (68,11)
+    mapRef:Oost Dunkerque No 11 (70,16)
+  19 Jun 1917 20
+    place:Hazebrouck (5,29)
+  20 Jun 1917 50
+    person:Second Lieutenant Ewart (commander) (48,53)
+    activity:movement (22,55)
+    place:Hazebrouck (7,56)
+    place:Wormhoudt (18,58)
+    unit:1 Brigade (20,82)
+    mapRef:Dunkerque No 1a (22,86)
+    unit:No 1 C Section (20,89)
+Page 438 (type diary) http://wd3.herokuapp.com/pages/AWD00038ws  ----------
+  20 Jun 1917 0
+    mapRef:Belgium & France No 19 (63,10)
+  21 Jun 1917 21
+    mapRef:Oost Dunkerque No 11 (80,21)
+    unit:2 Brigade (20,28)
+    place:Coudekerque-Branche (5,29)
+    unit:1 Brigade (19,37)
+  22 Jun 1917 53
+    person:Second Lieutenant Ewart (commander) (41,57)
+    place:Coxyde Bains (5,61)
+    activity:construction (28,69)
+  23 Jun 1917 82
+Page 439 (type diary) http://wd3.herokuapp.com/pages/AWD00038wm  ----------
+  23 Jun 1917 18
+    activity:construction (22,26)
+    place:Coxyde Bains (6,27)
+  24 Jun 1917 33
+    activity:construction (21,38)
+  25 Jun 1917 60
+    activity:construction (21,67)
+Page 440 (type diary) http://wd3.herokuapp.com/pages/AWD00038ys  ----------
+  26 Jun 1917 21
+    place:Coxyde Bains (5,30)
+  27 Jun 1917 36
+    person:Captain H Carter (returned_leave) (22,36)
+    unit:2 Battalion of 3 Brigade (67,48)
+    mapRef:Belgium & France No 19 (62,51)
+  28 Jun 1917 52
+    place:Coxyde Bains (6,57)
+  29 Jun 1917 64
+  30 Jun 1917 75
+    unit:431 Coy Royal Engineers (65,83)
+Page 441 (type diary) http://wd3.herokuapp.com/pages/AWD00038x4  ----------
+  30 Jun 1917 23
+Page 442 (type diary) http://wd3.herokuapp.com/pages/AWD00038w5  ----------
+  30 Jun 1917 22
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,61)
+    person:Major H G Gilchrist (64,83)
+Page 443 (type diary) http://wd3.herokuapp.com/pages/AWD00038vy  ----------
+  30 Jun 1917 0
+    mapRef:28 (80,13)
+    activity:movement (25,35)
+    time:0745AM (59,36)
+    place:Edgehill (78,37)
+    time:1130AM (24,40)
+    place:Caestre (56,41)
+    place:Borre (73,44)
+    time:0130PM (24,44)
+    time:0500PM (25,47)
+    unit:25 Brigade Royal Field Artillery. (39,63)
+    unit:39 Brigade Royal Field Artillery. (39,67)
+    place:Reninghelst (46,83)
+    unit:41 Division (31,87)
+    mapRef:Belgium & France No 28 (58,9)
+Page 444 (type diary) http://wd3.herokuapp.com/pages/AWD00038x8  ----------
+  30 Jun 1917 0
+    unit:41 Division (52,58)
+    time:0310AM (69,75)
+    place:Messines (45,75)
+    unit:41 Division (64,87)
+Page 445 (type diary) http://wd3.herokuapp.com/pages/AWD00038wo  ----------
+  30 Jun 1917 0
+    place:Messines (69,55)
+  13 Jun 1917 56
+    activity:movement (25,59)
+    place:Berthen (44,60)
+    place:Hazebrouck (67,60)
+Page 446 (type other) http://wd3.herokuapp.com/pages/AWD00038vv  ----------
+  13 Jun 1917 0
+Page 447 (type other) http://wd3.herokuapp.com/pages/AWD00038y4  ----------
+  13 Jun 1917 0
+    reference:1st division circuits 6-23-17 (39,12)
+Page 448 (type cover)
+Page 449 (type signals) http://wd3.herokuapp.com/pages/AWD00038xu  ----------
+  13 Jun 1917 0
+Page 450 (type diary) http://wd3.herokuapp.com/pages/AWD00038z2  ----------
+  1 Jul 1917 17
+    place:Coxyde Bains (4,25)
+    place:Coxyde Bains (6,30)
+  2 Jul 1917 31
+    activity:construction (24,37)
+    unit:39 Brigade (27,55)
+    unit:25 Brigade (19,56)
+  3 Jul 1917 64
+    activity:construction (20,68)
+Page 451 (type diary) http://wd3.herokuapp.com/pages/AWD00038wd  ----------
+  3 Jul 1917 22
+    place:Coxyde Bains (5,27)
+    activity:construction (19,28)
+  4 Jul 1917 39
+    activity:construction (21,45)
+  5 Jul 1917 59
+    activity:construction (21,64)
+  6 Jul 1917 78
+    activity:construction (21,84)
+Page 452 (type diary) http://wd3.herokuapp.com/pages/AWD00038yo  ----------
+  6 Jul 1917 23
+    place:Coxyde Bains (5,29)
+  7 Jul 1917 35
+  8 Jul 1917 77
+    activity:construction (22,82)
+Page 453 (type diary) http://wd3.herokuapp.com/pages/AWD00038wt  ----------
+  8 Jul 1917 21
+    activity:construction (22,28)
+  9 Jul 1917 32
+    activity:other (20,35)
+  10 Jul 1917 40
+    activity:fire (21,44)
+Page 454 (type diary) http://wd3.herokuapp.com/pages/AWD00038wa  ----------
+  11 Jul 1917 24
+Page 455 (type diary) http://wd3.herokuapp.com/pages/AWD00038wv  ----------
+  11 Jul 1917 22
+    person:Lieutenant Evans (other) (23,27)
+    casualties:died: 0; killed: 4; missing: 7; prisoner: 0; sick: 0; wounded: 3 (26,37)
+    casualties:died: 0; killed: 4; missing: 7; prisoner: 0; sick: 0; wounded: 3 (79,48)
+    casualties:died: 0; killed: 4; missing: 7; prisoner: 0; sick: 0; wounded: 3 (70,48)
+    casualties:died: 0; killed: 4; missing: 7; prisoner: 0; sick: 0; wounded: 3 (33,53)
+  12 Jul 1917 61
+  13 Jul 1917 83
+Page 456 (type diary) http://wd3.herokuapp.com/pages/AWD00038xv  ----------
+  13 Jul 1917 21
+    place:Saint Idesbalde (6,29)
+  14 Jul 1917 32
+    activity:construction (23,37)
+    person:Captain Carter (other) (70,44)
+  15 Jul 1917 53
+  16 Jul 1917 70
+    person:Captain Carter (other) (52,74)
+  17 Jul 1917 88
+    activity:movement (23,91)
+Page 457 (type diary) http://wd3.herokuapp.com/pages/AWD00038wb  ----------
+  17 Jul 1917 22
+    place:Rosendael (5,25)
+    activity:movement (25,27)
+  18 Jul 1917 28
+    activity:movement (49,41)
+    activity:construction (27,48)
+  19 Jul 1917 52
+    activity:construction (23,58)
+    place:Le Clipon (6,60)
+    person:Lieutenant G E Haynes (joined) (22,65)
+  21 Jul 1917 70
+    activity:construction (22,70)
+    activity:construction (22,74)
+  22 Jul 1917 83
+    activity:construction (22,87)
+Page 458 (type diary) http://wd3.herokuapp.com/pages/AWD00038w7  ----------
+  23 Jul 1917 22
+    place:Le Clipon (6,30)
+  24 Jul 1917 37
+  25 Jul 1917 45
+    activity:training (24,49)
+    place:Le Clipon (7,53)
+    person:Second Lieutenant Haynes (other) (24,54)
+    person:Lieutenant Ewart (other) (73,57)
+    activity:training (27,62)
+  26 Jul 1917 66
+    activity:training (23,71)
+    person:Second Lieutenant Ewart (other) (31,78)
+  27 Jul 1917 79
+    activity:training (27,84)
+Page 459 (type diary) http://wd3.herokuapp.com/pages/AWD00038yy  ----------
+  27 Jul 1917 0
+  28 Jul 1917 24
+    place:Le Clipon (5,28)
+    activity:training (24,28)
+  29 Jul 1917 29
+    activity:training (23,32)
+  30 Jul 1917 33
+    activity:training (23,36)
+  31 Jul 1917 41
+    activity:training (50,49)
+Page 460 (type diary) http://wd3.herokuapp.com/pages/AWD00038wp  ----------
+  31 Jul 1917 0
+Page 461 (type diary) http://wd3.herokuapp.com/pages/AWD00038z5  ----------
+  31 Jul 1917 23
+    person:Lieutenant Colonel Abadie (commander) (60,40)
+Page 462 (type diary) http://wd3.herokuapp.com/pages/AWD00038yb  ----------
+  31 Jul 1917 24
+    person:Second Lieutenant T J Evans (76,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (39,78)
+Page 463 (type diary) http://wd3.herokuapp.com/pages/AWD00038xx  ----------
+  31 Jul 1917 29
+    casualties:died: 0; killed: 4; missing: 7; prisoner: 0; sick: 0; wounded: 9 (11,36)
+    casualties:died: 0; killed: 4; missing: 7; prisoner: 0; sick: 6; wounded: 3 (48,39)
+    casualties:died: 0; killed: 4; missing: 7; prisoner: 0; sick: 6; wounded: 3 (32,42)
+    person:Major H G Gilchrist (commander) (63,78)
+Page 464 (type cover)
+Page 465 (type diary) http://wd3.herokuapp.com/pages/AWD00038y2  ----------
+  1 Aug 1917 22
+    activity:other (19,29)
+    mapRef:Dunkerque (8,34)
+    person:Second Lieutenant Evans (returned_leave) (17,36)
+  2 Aug 1917 41
+    domestic:parades (31,48)
+    activity:training (64,49)
+    person:Captain R W Newman (returned_leave) (22,56)
+  3 Aug 1917 60
+    time:0800AM (14,64)
+    activity:training (28,65)
+    time:0900AM (14,69)
+Page 466 (type diary) http://wd3.herokuapp.com/pages/AWD00038x1  ----------
+  4 Aug 1917 21
+    mapRef:Dunkerque (8,26)
+    activity:training (31,27)
+    place:Le Clipon (4,30)
+  5 Aug 1917 53
+    activity:training (23,58)
+  6 Aug 1917 76
+    activity:training (23,82)
+Page 467 (type diary) http://wd3.herokuapp.com/pages/AWD00038vu  ----------
+  6 Aug 1917 22
+    activity:training (20,28)
+    mapRef:Dunkerque (8,29)
+  7 Aug 1917 40
+    activity:training (18,45)
+  8 Aug 1917 70
+    activity:training (20,75)
+Page 468 (type diary) http://wd3.herokuapp.com/pages/AWD00038yg  ----------
+  8 Aug 1917 22
+    mapRef:Dunkerque (8,25)
+  9 Aug 1917 35
+    activity:training (23,39)
+  10 Aug 1917 59
+    activity:training (21,64)
+  11 Aug 1917 83
+    activity:training (20,87)
+Page 469 (type diary) http://wd3.herokuapp.com/pages/AWD00038vw  ----------
+  11 Aug 1917 20
+    mapRef:Dunkerque (9,22)
+    activity:training (20,27)
+    domestic:hygiene (22,39)
+  12 Aug 1917 43
+    activity:training (20,47)
+  13 Aug 1917 65
+    activity:training (21,71)
+Page 470 (type diary) http://wd3.herokuapp.com/pages/AWD00038yj  ----------
+  14 Aug 1917 21
+    mapRef:Dunkerque (7,21)
+    activity:training (21,27)
+  15 Aug 1917 42
+    activity:training (21,47)
+  16 Aug 1917 61
+    activity:training (20,65)
+  17 Aug 1917 68
+    activity:training (23,74)
+Page 471 (type diary) http://wd3.herokuapp.com/pages/AWD00038ye  ----------
+  18 Aug 1917 23
+    mapRef:Dunkerque (9,24)
+    activity:training (20,25)
+    activity:training (48,28)
+    place:Le Clipon (5,32)
+  19 Aug 1917 47
+    activity:training (22,52)
+  20 Aug 1917 64
+    activity:training (22,68)
+    mapRef:Dunkerque (10,76)
+Page 472 (type diary) http://wd3.herokuapp.com/pages/AWD00038xn  ----------
+  20 Aug 1917 0
+    mapRef:Dunkerque (9,23)
+  21 Aug 1917 24
+    mapRef:Dunkerque (9,28)
+    activity:training (24,29)
+  22 Aug 1917 51
+    activity:training (24,56)
+    domestic:parades (22,60)
+  23 Aug 1917 75
+    activity:training (23,80)
+Page 473 (type diary) http://wd3.herokuapp.com/pages/AWD00038wg  ----------
+  24 Aug 1917 24
+    mapRef:Dunkerque (9,25)
+    time:0800AM (16,28)
+    domestic:inspections (47,28)
+    domestic:sport (19,32)
+    place:Le Clipon (5,32)
+  25 Aug 1917 36
+    person:General H Rowlinson (commander) (67,40)
+    domestic:inspections (18,40)
+    domestic:inspections (50,41)
+    domestic:parades (36,45)
+    person:Second Lieutenant Evans (award) (58,48)
+    person:Corporal Dolbear (award) (73,48)
+    person:Private King (award) (30,52)
+  26 Aug 1917 55
+    domestic:inspections (28,60)
+    domestic:inspections (43,60)
+  27 Aug 1917 64
+    activity:training (24,66)
+  28 Aug 1917 71
+    activity:training (26,74)
+    time:0800AM (15,75)
+    time:0930AM (15,80)
+Page 474 (type diary) http://wd3.herokuapp.com/pages/AWD00038wr  ----------
+  29 Aug 1917 28
+    place:Le Clipon (5,30)
+    weather:rain (23,32)
+  30 Aug 1917 35
+    activity:training (23,41)
+  31 Aug 1917 60
+    activity:training (22,64)
+Page 475 (type diary) http://wd3.herokuapp.com/pages/AWD00038y7  ----------
+  31 Aug 1917 24
+    unit:25 Brigade Royal Field Artillery (24,79)
+Page 476 (type diary) http://wd3.herokuapp.com/pages/AWD00038wz  ----------
+  31 Aug 1917 22
+    mapRef:Dunkerque (6,26)
+Page 477 (type cover)
+Page 478 (type cover)
+Page 479 (type diary) http://wd3.herokuapp.com/pages/AWD00038wf  ----------
+  1 Sep 1917 24
+    activity:training (21,28)
+    place:Le Clipon (5,30)
+    domestic:medical (49,36)
+  2 Sep 1917 37
+    domestic:inspections (21,40)
+  3 Sep 1917 44
+    activity:training (21,48)
+  4 Sep 1917 67
+    activity:training (22,71)
+Page 480 (type diary) http://wd3.herokuapp.com/pages/AWD00038yr  ----------
+  5 Sep 1917 22
+    activity:training (22,30)
+Page 481 (type diary) http://wd3.herokuapp.com/pages/AWD00038y6  ----------
+  5 Sep 1917 0
+    mapRef:Dunkerque (7,23)
+  6 Sep 1917 25
+    mapRef:Dunkerque (7,27)
+    activity:training (20,28)
+    activity:training (46,30)
+Page 482 (type diary) http://wd3.herokuapp.com/pages/AWD00038yq  ----------
+  7 Sep 1917 23
+    activity:training (47,36)
+  8 Sep 1917 41
+    activity:training (20,49)
+  9 Sep 1917 59
+    domestic:inspections (61,64)
+    domestic:inspections (20,64)
+    person:Major H G Gilchrist (returned_leave) (23,68)
+  10 Sep 1917 72
+    activity:training (23,77)
+Page 483 (type diary) http://wd3.herokuapp.com/pages/AWD00038xw  ----------
+  11 Sep 1917 22
+    activity:training (22,29)
+    place:Le Clipon (5,31)
+  12 Sep 1917 40
+    activity:training (22,45)
+  13 Sep 1917 48
+    activity:training (19,52)
+  14 Sep 1917 75
+    unit:3 Inf Brigade (50,79)
+Page 484 (type diary) http://wd3.herokuapp.com/pages/AWD00038yi  ----------
+  15 Sep 1917 22
+    activity:training (47,33)
+  16 Sep 1917 36
+  17 Sep 1917 48
+    activity:training (32,52)
+    unit:Navy (31,55)
+  18 Sep 1917 65
+    activity:training (31,67)
+    unit:3 Inf Brigade (53,68)
+  19 Sep 1917 75
+    unit:1 Inf Brigade (52,79)
+Page 485 (type diary) http://wd3.herokuapp.com/pages/AWD00038ya  ----------
+  20 Sep 1917 23
+    mapRef:Dunkerque (8,24)
+    activity:training (23,28)
+    mapRef:Dunkerque (5,28)
+  21 Sep 1917 47
+    activity:training (19,52)
+  22 Sep 1917 67
+    activity:training (23,71)
+  23 Sep 1917 75
+    activity:training (24,80)
+Page 486 (type diary) http://wd3.herokuapp.com/pages/AWD00038wi  ----------
+  24 Sep 1917 24
+    domestic:inspections (33,28)
+    domestic:inspections (22,29)
+    activity:training (44,29)
+  25 Sep 1917 33
+    activity:training (19,37)
+  26 Sep 1917 44
+    activity:training (23,48)
+  27 Sep 1917 60
+    activity:training (24,64)
+  28 Sep 1917 72
+    unit:Navy (53,79)
+Page 487 (type diary) http://wd3.herokuapp.com/pages/AWD00038x2  ----------
+  28 Sep 1917 0
+  29 Sep 1917 25
+    activity:training (19,28)
+    place:Le Clipon (6,32)
+  30 Sep 1917 40
+    domestic:inspections (22,44)
+Page 488 (type diary) http://wd3.herokuapp.com/pages/AWD00038xh  ----------
+  30 Sep 1917 22
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (59,90)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (49,90)
+    person:Major G C Gilchrist (commander) (67,92)
+Page 489 (type cover)
+Page 490 (type diary) http://wd3.herokuapp.com/pages/AWD00038wj  ----------
+  1 Oct 1917 22
+    activity:training (25,28)
+    mapRef:Dunkerque (22,29)
+    place:Le Clipon (6,31)
+  2 Oct 1917 54
+    activity:training (25,57)
+    mapRef:Dunkerque (22,58)
+  3 Oct 1917 62
+    mapRef:Dunkerque (22,67)
+    activity:training (24,67)
+  4 Oct 1917 82
+    mapRef:Dunkerque (23,86)
+    activity:training (24,87)
+Page 491 (type diary) http://wd3.herokuapp.com/pages/AWD00038x3  ----------
+  4 Oct 1917 26
+    mapRef:Dunkerque (10,24)
+    mapRef:Dunkerque (6,29)
+  5 Oct 1917 38
+    activity:training (25,41)
+  6 Oct 1917 55
+    activity:training (24,58)
+  7 Oct 1917 75
+    activity:training (25,78)
+  8 Oct 1917 80
+    activity:training (26,82)
+Page 492 (type diary) http://wd3.herokuapp.com/pages/AWD00038w4  ----------
+  8 Oct 1917 25
+    mapRef:Dunkerque (10,24)
+    activity:training (25,27)
+    mapRef:Dunkerque (6,28)
+    place:Le Clipon (7,32)
+  9 Oct 1917 38
+    activity:training (26,41)
+  10 Oct 1917 66
+    activity:training (25,70)
+Page 493 (type diary) http://wd3.herokuapp.com/pages/AWD00038yp  ----------
+  11 Oct 1917 24
+    activity:training (24,27)
+  12 Oct 1917 45
+    activity:training (25,49)
+  13 Oct 1917 63
+    activity:training (25,65)
+  14 Oct 1917 75
+    activity:training (24,78)
+    place:Le Clipon (6,81)
+    domestic:inspections (25,82)
+  15 Oct 1917 83
+Page 494 (type diary) http://wd3.herokuapp.com/pages/AWD00038z1  ----------
+  15 Oct 1917 24
+    mapRef:Dunkerque (10,21)
+    mapRef:Dunkerque (7,26)
+    activity:training (25,29)
+Page 495 (type diary) http://wd3.herokuapp.com/pages/AWD00038xe  ----------
+  15 Oct 1917 0
+    mapRef:Dunkerque (10,22)
+  16 Oct 1917 23
+    activity:training (22,25)
+    mapRef:Dunkerque (6,27)
+    place:Le Clipon (7,33)
+  17 Oct 1917 37
+    activity:training (26,41)
+  18 Oct 1917 45
+    activity:training (23,48)
+  19 Oct 1917 62
+    activity:training (23,66)
+  20 Oct 1917 83
+    activity:training (24,86)
+    unit:3 Brigade (47,91)
+Page 496 (type diary) http://wd3.herokuapp.com/pages/AWD00038xm  ----------
+  20 Oct 1917 0
+  21 Oct 1917 25
+    activity:other (25,28)
+    unit:3 Brigade (21,36)
+    unit:1 Brigade (53,36)
+    place:Rubrouck (41,37)
+  22 Oct 1917 38
+    unit:Divl hq (21,41)
+    activity:movement (21,41)
+    place:Lederzeele (51,45)
+    unit:2 Brigade (22,49)
+    unit:1 Brigade (57,49)
+    place:Arneke (73,49)
+  23 Oct 1917 54
+  24 Oct 1917 63
+    unit:39 Brigade (21,69)
+    place:Wormhoudt (51,78)
+    unit:2 Brigade (34,83)
+  25 Oct 1917 84
+    activity:other (23,88)
+    unit:3 Brigade (22,91)
+    place:Houtkerque (44,91)
+Page 497 (type diary) http://wd3.herokuapp.com/pages/AWD00038vx  ----------
+  25 Oct 1917 0
+    mapRef:Belgium and France, Sheet 27 (11,19)
+  26 Oct 1917 22
+    place:Wormhoudt (6,22)
+    place:Wormhoudt (81,27)
+    place:Lederzeele (45,28)
+    unit:Division hq (21,29)
+    activity:movement (25,29)
+    place:Wormhoudt (5,32)
+    activity:movement (39,36)
+    place:Wormhoudt (61,36)
+    place:Hertzeele (52,44)
+    unit:1 Brigade (21,45)
+  27 Oct 1917 49
+    unit:Divl Artillery (23,54)
+    place:Wormhoudt (65,54)
+  28 Oct 1917 74
+    activity:repair (25,78)
+    unit:Divl Artillery (24,82)
+    place:Poperinghe (49,82)
+  29 Oct 1917 83
+    person:Captain Carter (25,87)
+    person:Second Lieutenant Haynes (other) (66,91)
+Page 498 (type diary) http://wd3.herokuapp.com/pages/AWD00038xa  ----------
+  30 Oct 1917 22
+    place:Wormhoudt (4,27)
+  31 Oct 1917 32
+    mapRef:Belgium and France, Sheet 27 (3,33)
+    mapRef:27 (6,42)
+Page 499 (type cover)
+Page 500 (type diary) http://wd3.herokuapp.com/pages/AWD00038xy  ----------
+  31 Oct 1917 0
+    place:Wormhoudt (5,24)
+    mapRef:Belgium and France, Sheet 27 (8,24)
+  1 Nov 1917 25
+    mapRef:Belgium, Sheet 27 (7,28)
+    activity:reserve (21,28)
+  2 Nov 1917 29
+    place:Wormhoudt (5,29)
+    activity:reserve (20,32)
+  3 Nov 1917 33
+    activity:reserve (20,36)
+  4 Nov 1917 38
+    place:Brake Camp (70,41)
+    unit:1/40000 Preparatory (70,46)
+    mapRef:28 (43,46)
+    unit:63 Division (37,48)
+  5 Nov 1917 50
+    unit:Division hq (19,52)
+    place:Ypres (72,52)
+    unit:63 Division (72,56)
+    person:Second Lieutenant Evans (other) (23,67)
+    activity:reconnoitered (51,68)
+    place:Kansas Cottage (70,71)
+  6 Nov 1917 76
+    unit:1/6 Welsh Regiment (75,79)
+    mapRef:Belgium & France, Sheet 28 (9,79)
+    place:Ypres (5,80)
+    activity:repair (25,80)
+    mapRef:Belgium and France, Sheet 28 (6,88)
+Page 501 (type diary) http://wd3.herokuapp.com/pages/AWD00038y8  ----------
+  6 Nov 1917 25
+    mapRef:Belgium and France, Sheet 28 (10,24)
+    unit:1/6 Welsh Regiment (73,27)
+    unit:1/6 Welsh (65,28)
+    unit:1/6 welsh (78,28)
+    mapRef:Belgium & France, Sheet 28 (7,28)
+    activity:fire (32,28)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 9 (25,32)
+    gridRef:C_23_C_10_2 (66,44)
+  7 Nov 1917 49
+    unit:1/6 Welsh (62,53)
+    unit:1/6 Welsh Regiment (65,53)
+    unit:1/6 welsh (71,55)
+    unit:1 Division R.A. (81,69)
+    place:Kansas Cottage (55,74)
+Page 502 (type diary) http://wd3.herokuapp.com/pages/AWD00038w3  ----------
+  7 Nov 1917 0
+  8 Nov 1917 23
+    mapRef:Belgium and France, Sheet 28 (8,23)
+    activity:repair (25,27)
+    mapRef:Belgium & France, Sheet 28 (7,28)
+    place:Ypres (6,33)
+    place:Kansas Cottage (29,36)
+    mapRef:Belgium + France Sheet 28 (7,42)
+    place:Cheddar Villa (73,86)
+    place:Kansas Cottage (27,90)
+Page 503 (type diary) http://wd3.herokuapp.com/pages/AWD00038wh  ----------
+  8 Nov 1917 23
+    place:Canal Bank (Ypres) (4,26)
+  9 Nov 1917 33
+    place:Kansas Cottage (65,41)
+    mapRef:Belgium and France (11,48)
+    place:Arbre (43,49)
+    place:Cheddar Villa (73,52)
+    place:Kansas Cottage (25,57)
+    place:Valour Farm (79,67)
+    place:Canal Bank (64,78)
+    place:Arbre (36,82)
+Page 504 (type diary) http://wd3.herokuapp.com/pages/AWD00038yl  ----------
+  10 Nov 1917 24
+    place:Cheddar Villa (47,29)
+    place:Cheddar Villa (45,41)
+    unit:19 Corps (44,53)
+  11 Nov 1917 66
+    place:Kansas Cottage (79,70)
+    activity:repair (26,71)
+  12 Nov 1917 83
+    activity:repair (25,86)
+    place:Cheddar Villa (73,90)
+Page 505 (type diary) http://wd3.herokuapp.com/pages/AWD00038yk  ----------
+  12 Nov 1917 0
+  13 Nov 1917 22
+    mapRef:Belgium and France Sheet 28 (9,22)
+    mapRef:Belgium & France, Sheet 28 (7,27)
+    place:Kansas Cottage (66,28)
+    place:Ypres (6,33)
+  14 Nov 1917 41
+    place:Kansas Cottage (60,48)
+    activity:working (31,52)
+  15 Nov 1917 75
+    place:Korek (31,86)
+    place:Strombeke Valley (64,86)
+Page 506 (type diary) http://wd3.herokuapp.com/pages/AWD00038xr  ----------
+  15 Nov 1917 23
+    mapRef:Belgium and France Sheet 28 (8,21)
+    mapRef:Belgium & France, Sheet 28 (7,27)
+    place:Bellevue Farm (51,28)
+    activity:construction (22,29)
+  16 Nov 1917 32
+    activity:repair (23,36)
+  17 Nov 1917 40
+    activity:repair (24,45)
+  18 Nov 1917 53
+  19 Nov 1917 65
+Page 507 (type diary) http://wd3.herokuapp.com/pages/AWD00038x9  ----------
+  19 Nov 1917 0
+    mapRef:Belgium and France Sheet 28 (8,21)
+  20 Nov 1917 23
+  21 Nov 1917 41
+    unit:32 D.S. (73,53)
+  22 Nov 1917 79
+    activity:repair (25,83)
+    place:Bellevue (24,87)
+Page 508 (type diary) http://wd3.herokuapp.com/pages/AWD00038xt  ----------
+  22 Nov 1917 21
+    mapRef:Belgium and France Sheet 28 (11,21)
+    mapRef:Belgium & France, Sheet 28 (7,26)
+    activity:repair (24,27)
+  23 Nov 1917 41
+    activity:repair (24,45)
+  24 Nov 1917 51
+    activity:movement (24,55)
+    place:Canal Bank (35,57)
+    place:Poperinghe (48,70)
+    time:0900AM (65,70)
+  25 Nov 1917 76
+    activity:other (22,79)
+  26 Nov 1917 82
+Page 509 (type diary) http://wd3.herokuapp.com/pages/AWD00038xi  ----------
+  26 Nov 1917 0
+  27 Nov 1917 22
+    mapRef:Belgium and France Sheet 27 (11,22)
+    mapRef:Belgium & France, Sheet SW-27 (7,26)
+    activity:movement (28,26)
+    time:1000AM (36,30)
+    gridRef:E_12_B_1_1 (52,30)
+    place:Poperinghe (28,30)
+    place:Proven (6,32)
+  28 Nov 1917 39
+    activity:other (22,42)
+  29 Nov 1917 50
+    activity:other (22,53)
+  30 Nov 1917 59
+    activity:other (22,62)
+Page 510 (type diary) http://wd3.herokuapp.com/pages/AWD00038z7  ----------
+  30 Nov 1917 22
+    person:Second Lieutenant T J Evans (other) (76,53)
+    unit:6 Welsh Regiment (39,66)
+Page 511 (type diary) http://wd3.herokuapp.com/pages/AWD00038wk  ----------
+  30 Nov 1917 24
+    person:Major General E P Strickland (commander) (26,90)
+    reference:Forms/C/2118/14 (57,93)
+Page 512 (type diary) http://wd3.herokuapp.com/pages/AWD00038wn  ----------
+  30 Nov 1917 23
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 3 (20,40)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 3 (36,41)
+    person:Major H G Gilchrist (commander) (57,65)
+Page 513 (type other) http://wd3.herokuapp.com/pages/AWD00038yd  ----------
+  30 Nov 1917 0
+Page 514 (type ) http://wd3.herokuapp.com/pages/AWD00038xj  ----------
+  30 Nov 1917 0
+    date:8 Nov 1917 (22,78)
+Page 515 (type ) http://wd3.herokuapp.com/pages/AWD00038wq  ----------
+  30 Nov 1917 0
+Page 516 (type other) http://wd3.herokuapp.com/pages/AWD00038yw  ----------
+  30 Nov 1917 0
+    date:8 Nov 1917 (34,35)
+Page 517 (type orders) http://wd3.herokuapp.com/pages/AWD00038wc  ----------
+  30 Nov 1917 0
+    reference:Signal Order in conjunction with Brgade Order No 126 (57,11)
+    date:8 Nov 1917 (54,14)
+Page 518 (type ) http://wd3.herokuapp.com/pages/AWD00038wx  ----------
+  30 Nov 1917 0
+    reference:Signal Order in conjunction with Brgade Order No 126 sheet 2 (40,6)
+Page 519 (type ) http://wd3.herokuapp.com/pages/AWD00038x0  ----------
+  30 Nov 1917 0
+    reference:Signal Order in conjunction with Brgade Order No 126 sheet 3 (49,11)
+    person:Lieutenant P Jones (author) (50,53)
+Page 520 (type other) http://wd3.herokuapp.com/pages/AWD00038xd  ----------
+  30 Nov 1917 0
+    reference:CODES (48,62)
+Page 521 (type other) http://wd3.herokuapp.com/pages/AWD00038w6  ----------
+  30 Nov 1917 0
+    reference:CODES (39,44)
+Page 522 (type cover)
+Page 523 (type diary) http://wd3.herokuapp.com/pages/AWD00038yf  ----------
+  30 Nov 1917 0
+  1 Dec 1917 23
+    place:Proven (4,23)
+    mapRef:Belgium and France Sheet 27 (7,23)
+  2 Dec 1917 26
+    activity:reserve (20,26)
+    mapRef:29 (6,30)
+  3 Dec 1917 32
+  4 Dec 1917 38
+  5 Dec 1917 48
+  6 Dec 1917 52
+    place:Woesten (5,52)
+    mapRef:Belgium and France Sheet 25 (8,52)
+  7 Dec 1917 61
+  8 Dec 1917 80
+  9 Dec 1917 83
+    domestic:inspections (21,87)
+  10 Dec 1917 88
+Page 524 (type diary) http://wd3.herokuapp.com/pages/AWD00038wu  ----------
+  10 Dec 1917 21
+    place:Woesten (5,22)
+    mapRef:Belgium and France Sheet 28 (9,23)
+    activity:repair (24,26)
+    gridRef:T_13_B_50_40 (45,28)
+    gridRef:T_20_C_70_10 (68,28)
+    place:Woesten (59,28)
+    mapRef:Belgium + France Sheet 28 (11,28)
+    place:Woesten (7,29)
+    unit:1 Division Artillery (69,31)
+  11 Dec 1917 35
+    unit:4 Belgian Division Artillery (21,35)
+    place:Woesten (21,41)
+  12 Dec 1917 43
+  13 Dec 1917 47
+    activity:repair (24,47)
+    activity:repair (25,50)
+  14 Dec 1917 53
+  15 Dec 1917 57
+    activity:repair (26,57)
+    activity:repair (25,61)
+  16 Dec 1917 71
+    domestic:inspections (21,74)
+  17 Dec 1917 75
+    activity:working (28,78)
+  18 Dec 1917 88
+Page 525 (type diary) http://wd3.herokuapp.com/pages/AWD00038xg  ----------
+  19 Dec 1917 23
+    mapRef:Belgium and France Sheet 28 (7,23)
+    activity:repair (24,27)
+  20 Dec 1917 33
+    activity:repair (26,37)
+    place:Canal Bank (54,49)
+    person:Lieutenant L S B Alder (81,52)
+    person:Lieutenant G V Hinds (commander) (26,53)
+    person:Second Corporal E E Beckett (award) (58,57)
+  21 Dec 1917 62
+    activity:repair (23,66)
+  22 Dec 1917 67
+    activity:repair (24,71)
+  23 Dec 1917 83
+    domestic:inspections (21,86)
+  24 Dec 1917 87
+    activity:repair (24,91)
+Page 526 (type diary) http://wd3.herokuapp.com/pages/AWD00038ww  ----------
+  24 Dec 1917 23
+    mapRef:Belgium and France Sheet 28 (6,22)
+  25 Dec 1917 32
+    domestic:inspections (22,34)
+    place:Woesten (7,36)
+    mapRef:28 (10,38)
+  26 Dec 1917 43
+  27 Dec 1917 47
+  28 Dec 1917 57
+  29 Dec 1917 64
+  30 Dec 1917 69
+  31 Dec 1917 73
+Page 527 (type diary) http://wd3.herokuapp.com/pages/AWD00038yc  ----------
+  31 Dec 1917 23
+    person:Captain R W Newman (departed_sick) (56,62)
+    person:Second Lieutenant G E Haynes (departed_sick) (85,63)
+    person:Captain H C Carter (departed_posted) (36,66)
+    person:Captain W J Cookson (joined) (32,72)
+    person:Second Lieutenant C D N Meares (joined) (63,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 14; wounded: 0 (34,81)
+    person:Major H G Gilchrist (70,93)
+Page 528 (type other) http://wd3.herokuapp.com/pages/AWD00038we  ----------
+  31 Dec 1917 0

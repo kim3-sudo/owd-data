@@ -1,0 +1,4618 @@
+GWD000006x wo/95/1324/4
+2 DIVISION: 34 Brigade Royal Field Artillery 
+395 pages
+
+Page 1 (type cover)
+Page 2 (type other) http://wd3.herokuapp.com/pages/AWD00010xd  ----------
+Page 3 (type cover)
+Page 4 (type cover)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD000112u  ----------
+  20 Aug 1914 25
+    place:Wassigny (17,32)
+    activity:movement (26,33)
+  23 Aug 1914 35
+    place:Givry (18,38)
+  25 Aug 1914 59
+    place:Bavaye (20,62)
+  26 Aug 1914 68
+  30 Aug 1914 79
+  31 Aug 1914 85
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD000112z  ----------
+  6 Sep 1914 26
+    activity:movement (25,31)
+  10 Sep 1914 39
+    place:Haute-Vesne (11,45)
+  13 Sep 1914 60
+    place:Veille Arcy (60,70)
+  14 Sep 1914 73
+    place:Verneuil (9,77)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD000112g  ----------
+  15 Sep 1914 26
+    place:Verneuil (18,30)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (74,45)
+    person:Lieutenant Wiseman (44,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (64,51)
+  16 Sep 1914 53
+    person:Captain Stewart (commander) (55,66)
+    place:Courtonnes (66,69)
+    activity:movement (42,72)
+  29 Sep 1914 79
+    place:Courtonnes (16,85)
+  20 Sep 1914 90
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD00010xg  ----------
+  30 Sep 1914 24
+    activity:attack (70,31)
+Page 9 (type cover)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD0001174  ----------
+  30 Sep 1914 26
+  1 Oct 1914 38
+  6 Oct 1914 45
+  12 Oct 1914 67
+    activity:movement (47,49)
+    unit:70 (38,50)
+    unit:1 army hq (57,54)
+    place:Chassemy (15,54)
+    unit:16 Infantry (60,58)
+    unit:16 Infantry Brigade (71,58)
+    place:Vailly (35,61)
+    place:Aisne (63,63)
+    place:Conde (49,66)
+    unit:French (52,72)
+    activity:movement (31,76)
+  13 Oct 1914 80
+    place:Saint Omer (47,83)
+    place:Sercus (45,86)
+  14 Oct 1914 87
+    person:Major Washington (commander) (53,90)
+    person:Captain D Stewart (promotion) (46,93)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD00010zb  ----------
+  14 Oct 1914 0
+    place:Steenvoorde (15,26)
+  17 Oct 1914 29
+  20 Oct 1914 39
+    activity:movement (29,39)
+    domestic:accomodation (53,39)
+    place:Ypres (20,40)
+  21 Oct 1914 46
+    domestic:accomodation (52,46)
+    place:Wieltje (21,48)
+  22 Oct 1914 50
+    activity:attack (36,55)
+    place:Frezenberg (20,57)
+  26 Oct 1914 58
+    activity:movement (39,61)
+    place:Westhock (70,62)
+    place:Zonnebeke (32,66)
+    unit:6 Infantry Brigade (56,74)
+  31 Oct 1914 76
+Page 12 (type cover)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD00010z0  ----------
+  1 Nov 1914 32
+    activity:fire (45,34)
+  12 Nov 1914 35
+    activity:fire (56,40)
+  15 Nov 1914 44
+    activity:fire (33,45)
+    person:Major Washington (commander) (52,45)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 4 (51,46)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,52)
+    person:Major Washington (casualty_wounded) (56,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (53,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (70,53)
+    unit:French (29,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,56)
+  16 Nov 1914 58
+    unit:French (37,59)
+    activity:movement (60,60)
+    place:Locre (36,62)
+  17 Nov 1914 64
+    person:Major D Stewart (commander) (36,66)
+  18 Nov 1914 71
+    activity:movement (31,72)
+    place:Caestre (42,72)
+  19 Nov 1914 81
+  9 Dec 1914 85
+Page 14 (type cover)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD00010y6  ----------
+  9 Dec 1914 0
+    unit:2 Division (54,28)
+    activity:movement (30,29)
+    place:Wassigny (19,30)
+    mapRef:3 (49,31)
+    unit:50 Battery (22,34)
+    unit:70 Battery (25,35)
+    place:Givry (18,40)
+    activity:attack (46,40)
+    unit:50 & 70 Battery Royal Field Artillery (32,40)
+    unit:22 Battery (25,41)
+    place:Givry (50,43)
+    activity:fire (46,46)
+    unit:70 Battery (39,49)
+    unit:70 Battery Royal Field Artillery (36,50)
+    person:Robertson (casualty_wounded) (34,55)
+    person:Durand (casualty_wounded) (45,55)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 27 (61,59)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,59)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 27 (23,59)
+    casualties:died: 0; killed: 7; missing: 0; prisoner: 0; sick: 0; wounded: 0 (71,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 27 (36,63)
+    unit:70 Battery (41,68)
+    unit:70 Battery Royal Field Artillery (41,71)
+    unit:22 Battery (61,71)
+    activity:withdraw (46,72)
+    activity:movement (60,72)
+    unit:22 Battery Royal Field Artillery (61,73)
+    unit:22 Battery (26,74)
+    unit:44 Brigade (35,74)
+    unit:47 Howitser Battery 44 Brigade (50,77)
+    unit:47 Bgd (64,79)
+    unit:47 Battery Royal Field Artillery (50,80)
+    unit:22 Battery (33,80)
+    activity:attack (39,85)
+    unit:47 Bgd (51,86)
+    activity:withdraw (49,89)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD000115e  ----------
+  9 Dec 1914 0
+    unit:50 Battery (29,22)
+    unit:Brigade (67,27)
+    unit:Brigade (44,28)
+    unit:50 Battery (43,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,39)
+    activity:withdraw (38,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (61,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (17,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (39,54)
+    unit:Rear Guard - 6 Infantry Brigade (22,60)
+    unit:22 Battery (11,62)
+    unit:6 Infantry Brigade (60,65)
+    activity:attack (41,65)
+    unit:22 Battery (31,67)
+    place:Bayaye (19,69)
+    unit:6 Inf Brgd (60,73)
+    unit:5 Infantry Brigade (18,79)
+    unit:5 Inf Brgd (46,82)
+    activity:withdraw (31,84)
+    place:Amigny (58,86)
+    unit:5 Infantry Brigade (46,89)
+    place:Pont Sur Sambre (66,93)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD000112q  ----------
+  9 Dec 1914 0
+    activity:support (30,31)
+    place:Amigny (7,32)
+    activity:withdraw (40,39)
+    unit:36 Inf Brgd (45,46)
+    unit:34 Brigade (7,79)
+Page 18 (type cover)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD000113x  ----------
+  9 Dec 1914 0
+    place:Amigny (15,29)
+    activity:support (38,31)
+    activity:reserve (21,42)
+    unit:6 Inf Brgd (54,53)
+    unit:50 Battery (24,53)
+    unit:50 Battery (67,54)
+    activity:movement (30,55)
+    place:Haute Vesne (15,55)
+    activity:movement (59,56)
+    unit:6 Infantry Brigade, 50 Battery (58,57)
+    unit:6Infantry Brigade (53,58)
+    unit:6 Infantry Brigade (15,62)
+    place:Haute-Vesne (13,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 450; sick: 0; wounded: 1 (21,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 450; sick: 0; wounded: 0 (45,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (40,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 450; sick: 0; wounded: 1 (29,72)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD0001112  ----------
+  9 Dec 1914 0
+    mapRef: (100,12)
+    unit:4 Guard Brigade (13,29)
+    unit:4 Guards Brigade (32,32)
+    place:Dhuizel (37,35)
+    place:Verneuil (13,38)
+    place:Verneuil (17,43)
+    place:Verneuil (32,45)
+    unit:6 Infantry Brigade (54,45)
+    unit:70 Battalion (51,47)
+    activity:attack (54,49)
+    unit:70 Battalion (37,49)
+    unit:22 Battalion (41,49)
+    unit:6 Infantry Brigade (18,49)
+    unit:70 Battery (13,50)
+    place:Malval Farm (53,53)
+    place:La Brosse (66,53)
+    activity:attack (23,53)
+    unit:22 Battery (15,54)
+    casualties:died: 0; killed: 14; missing: 0; prisoner: 0; sick: 0; wounded: 14 (68,56)
+    unit:50 Battalion (37,57)
+    person:Lieutenant J E L Clarke (casualty_kia) (34,65)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,67)
+    person:Quarter Master Sergeant Payne (casualty_kia) (50,68)
+    unit:50 Battery (14,70)
+    casualties:died: 0; killed: 12; missing: 0; prisoner: 0; sick: 0; wounded: 14 (20,73)
+    activity:enemy_activity (46,78)
+    place:Verneuil (13,80)
+    activity:fire (55,81)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,87)
+    person:Major Wynter (casualty_kia) (39,90)
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD00010xm  ----------
+  9 Dec 1914 0
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 13 (26,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 13 (41,35)
+    activity:attack (50,48)
+    activity:enemy_activity (35,51)
+    activity:movement (67,65)
+    unit:22 Battalion (55,65)
+    place:Courtonnes (71,69)
+    activity:movement (58,74)
+    unit:70 Battalion & Brigade hq (59,74)
+    place:Courtonnes (10,78)
+    activity:attack (46,83)
+    place:Courtonnes (19,85)
+    activity:fire (40,88)
+    unit:1 & 2 Divisions (62,90)
+    unit:1 and 2 Divisions (34,94)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD000111x  ----------
+  9 Dec 1914 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,25)
+    casualties:died: 2; killed: 23; missing: 0; prisoner: 0; sick: 0; wounded: 79 (83,27)
+    person:Lieutenant Clarke (casualty_kia) (56,34)
+    casualties:died: 0; killed: 20; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,40)
+    person:Captain Boone (casualty_wounded) (52,45)
+    person:Lieutenant Robertson (casualty_wounded) (60,45)
+    person:Lieutenant Durand (casualty_wounded) (70,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 75 (28,52)
+    place:Courtonne Hill (18,62)
+    activity:attack (37,64)
+    person:Lieutenant Colonel A G Sandilands (56,72)
+Page 23 (type cover)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD000111d  ----------
+  9 Dec 1914 0
+    unit:34 Brigade Royal Field Artillery (69,15)
+    unit:22 Battery (29,26)
+    unit:70 Battery (39,27)
+    place:Courtonne Hill (11,28)
+    unit:50 Battery (73,3)
+    activity:movement (54,33)
+    place:Verneuil Ridge (52,36)
+    unit:22 Battery (68,4)
+    unit:70 Battery (80,4)
+    place:Chivy Valley (34,41)
+    unit:50 Battery (37,47)
+    activity:fire (57,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,51)
+    activity:fire (50,53)
+    place:Courtonne Hill (68,56)
+    place:Chassemy (9,59)
+    unit:1 army hq (40,69)
+    unit:1 Army, H.Q (66,70)
+    place:Aisne River (56,72)
+    place:Conde (44,77)
+    unit:16 Infantry Brigade (40,79)
+    place:Vailly (54,80)
+    unit:16 Infantry Brigade (31,80)
+    unit:Royal Garrison Artillery (42,84)
+    unit:Rga (48,85)
+    unit:35 company rga (60,86)
+    unit:Siege Batteries Royal Garrison Artillery (36,88)
+    unit:56 Battery howitzer Royal Field Artillery (32,91)
+    unit:34 Brigade Royal Field Artillery (38,96)
+    unit:50 Battery Royal Field Artillery (61,96)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD00010zc  ----------
+  9 Dec 1914 0
+    place:Chassemy (9,27)
+    person:Lieutenant Colonel Sandilands (commander) (69,28)
+    place:Braisne (38,36)
+    activity:attack (58,38)
+    unit:16 Infantry Brigade (46,42)
+    unit:French officers (45,52)
+    unit:French officers (55,54)
+    place:Fere En Tardenois (26,58)
+    activity:withdraw (51,58)
+    place:Fere En Tardenois (42,63)
+    activity:movement (28,63)
+    place:Saint Omer (20,69)
+    activity:movement (32,70)
+    domestic:accomodation (64,71)
+    place:Sercus (16,80)
+    person:Major Washington (joined) (88,82)
+    activity:movement (34,82)
+    person:Captain D Stewart (other) (72,87)
+    person:Captain D Stewart (promotion) (89,88)
+    place:Steenvoorde (20,90)
+    activity:movement (36,90)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD000114p  ----------
+  9 Dec 1914 0
+    activity:movement (31,27)
+    place:Ypres (19,27)
+    domestic:accomodation (55,28)
+    unit:6 Infantry Brigade (33,36)
+    unit:6 Infantry Brigrade (46,36)
+    activity:reserve (54,36)
+    place:Wieltje (15,36)
+    domestic:accomodation (38,40)
+    place:Saint Jean (56,42)
+    unit:22 & 50 Batteries (31,45)
+    place:Frezenberg (17,45)
+    activity:attack (46,47)
+    unit:70 Battery (82,48)
+    place:Frezenberg (59,48)
+    unit:6 Brigade (46,51)
+    unit:6 Brigade (86,51)
+    place:Frezenberg (9,52)
+    place:Zonnebeke (33,54)
+    place:Klein Zillebeke (74,54)
+    unit:3 Division (86,57)
+    activity:support (64,57)
+    activity:support (80,58)
+    person:Lieutenant Vining (joined) (78,65)
+    unit:70 Battery (71,66)
+    unit:36 Brigade (77,67)
+    place:Halte (33,70)
+    place:Eksterneste (64,73)
+    place:Zonnebeke (21,76)
+    unit:6 Brigade (44,78)
+    unit:70 Battery (35,81)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD000111q  ----------
+  9 Dec 1914 0
+    reference:34th b (69,11)
+    activity:attack (45,27)
+    unit:22 Battery (43,30)
+    unit:50 Battery (48,31)
+    activity:enemy_activity (48,42)
+    unit:6 Brigade (54,46)
+    unit:70 Battery (28,50)
+    unit:Staffords (59,54)
+    place:Zonnebeke Ridge (28,61)
+    activity:fire (52,62)
+    person:Lieutenant Simpson (casualty_wounded) (28,69)
+    person:Second Lieutenant Moss (casualty_wounded) (57,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (66,80)
+    activity:fire (56,84)
+    place:Zonnebeke Ridge (55,92)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD0001126  ----------
+  9 Dec 1914 0
+    person:Lieutenant Maitland-Dougal (other) (37,27)
+    place:Zonnebeke (20,28)
+    activity:enemy_activity (67,31)
+    unit:50 Battery (35,31)
+    place:Zonnebeke (12,34)
+    person:Captain Stewart (combat) (53,34)
+    unit:Berkshires (43,34)
+    activity:reconnoitered (29,37)
+    person:Second Lieutenant Moss (combat) (59,38)
+    time:1000AM (45,38)
+    unit:70 Battery (44,41)
+    place:Becelaere Road (36,44)
+    activity:attack (32,48)
+    activity:attack (48,56)
+    activity:withdraw (53,64)
+Page 29 (type cover)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD00010xu  ----------
+  9 Dec 1914 0
+    place:Westhoek (7,32)
+    unit:6 infrantry Brigade (67,33)
+    place:Zonnebeke (16,37)
+    activity:enemy_activity (32,40)
+    activity:fire (37,47)
+    activity:reconnoitered (32,66)
+    activity:attack (53,86)
+    unit:50 Battery (46,92)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (68,95)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (78,96)
+Page 31 (type diary) http://wd3.herokuapp.com/pages/AWD00010xz  ----------
+  9 Dec 1914 0
+    person:Lieutenant Austin (joined) (36,30)
+    activity:enemy_activity (34,40)
+    place:Zonnebeke (47,44)
+    unit:70 Battery (27,59)
+    activity:attack (36,59)
+    unit:6 Infantry Brigade (55,73)
+    unit:70 Battery (27,75)
+    place:Westhoek (13,76)
+    activity:withdraw (37,76)
+    place:Frezenberg (42,79)
+    unit:22 Battery (71,80)
+    unit:50 Battery (28,83)
+    place:Frezenberg (13,84)
+    activity:attack (36,87)
+    unit:22 Battery (61,92)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD00010xv  ----------
+  9 Dec 1914 0
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 4 (45,31)
+    person:Major Washington (casualty_wounded) (27,34)
+    person:Major Cooper (joined) (28,41)
+    unit:French group (68,50)
+    time:0930PM (29,51)
+    place:Ypres (29,54)
+    time:0330AM (27,62)
+    unit:50 Battery (48,64)
+    activity:fire (60,66)
+    activity:fire (69,66)
+    place:Locre (40,77)
+    activity:movement (29,78)
+    place:Locre (13,79)
+    activity:movement (30,87)
+    place:Caestre (41,87)
+    place:Caestre (7,90)
+    activity:reserve (57,92)
+    person:Major D Stewart (departed_posted) (33,94)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD000110i  ----------
+  9 Dec 1914 0
+    place:Caestre (18,27)
+    person:Second Lieutenant Durand (returned_hospital) (30,27)
+    unit:70 Battery (50,27)
+    place:Givry (33,31)
+    person:Major Poston (joined) (48,31)
+    unit:22 Battery (66,32)
+    unit:34 Brigade (65,36)
+  30 Nov 1914 38
+    unit:2 Division (34,41)
+    activity:reserve (54,42)
+    place:Caestre (14,43)
+    unit:34 Brigade (28,45)
+    activity:resting (45,45)
+    activity:resupplying (33,57)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD00010y2  ----------
+  Hashtags: #horsescasualties 
+  30 Nov 1914 0
+    person:Lieutenant Clarke (casualty_kia) (42,30)
+    casualties:died: 0; killed: 33; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,34)
+    casualties:died: 2; killed: 36; missing: 3; prisoner: 0; sick: 0; wounded: 100 (87,35)
+    person:Major Washington (casualty_wounded) (29,40)
+    person:Captain Boone (casualty_wounded) (45,40)
+    person:Lieutenant Robertson (casualty_wounded) (70,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 100 (18,42)
+    person:Second Lieutenant Durand (casualty_wounded) (29,44)
+    person:Lieutenant Le Breton (casualty_wounded) (54,44)
+    person:Lieutenant Simpson (casualty_wounded) (43,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (32,55)
+    casualties:died: 0; killed: 0; missing: 3; prisoner: 0; sick: 0; wounded: 0 (20,55)
+    casualties:died: 2; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,60)
+    casualties:died: 2; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (15,61)
+Page 35 (type cover)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD00010yg  ----------
+  Hashtags: #DCM #Reinforcements #King #DSO 
+  1 Dec 1914 26
+    person:Lieutenant Corrie (joined) (67,26)
+  7 Dec 1914 27
+    activity:resting (41,27)
+    place:Caestre (12,31)
+    person:Lieutenant Maitland-Dougal (award) (65,42)
+    place:Hazebrouck (54,43)
+    person:Cook (award) (71,53)
+    person:Bombardier Cully (award) (41,57)
+    person:Captain Lanning (award) (57,60)
+    person:Captain Murphy (award) (71,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (63,61)
+    activity:movement (39,69)
+    place:Meteren (67,71)
+  5 Dec 1914 75
+    person:Captain Gildand (joined) (34,78)
+    person:Major D Stewart (commander) (48,84)
+  4 Dec 1914 85
+Page 37 (type diary) http://wd3.herokuapp.com/pages/AWD00010zw  ----------
+  Hashtags: #Christmas 
+  4 Dec 1914 0
+    activity:reserve (50,28)
+    place:Caestre (12,28)
+  7 Dec 1914 30
+  26 Dec 1914 74
+    person:Major Thornton (joined) (30,39)
+    person:Captain McDonald (joined) (27,43)
+  25 Dec 1914 49
+    unit:Brigade hq (60,67)
+    unit:70 Battery (30,71)
+    domestic:other (46,71)
+  26 Dec 1914 74
+    unit:Brigade hq (36,79)
+    unit:22 Battery (45,80)
+    unit:50 Battery (51,80)
+    activity:movement (66,80)
+    place:La Couture (14,81)
+    unit:13 Brigade (Indian Corps) (49,83)
+    unit:13 Brigade Indian Corps (69,84)
+    place:Richebourg (14,86)
+    place:Lacouture (51,87)
+    unit:22 Battery (37,90)
+    unit:50 Battery (37,93)
+    place:Rue des Chavattes (68,93)
+Page 38 (type diary) http://wd3.herokuapp.com/pages/AWD00010zi  ----------
+  Hashtags: #Commissions #groundconditions 
+  26 Dec 1914 25
+    activity:movement (37,27)
+    place:Rue du Bois (52,31)
+  27 Dec 1914 45
+    unit:70 Battery (31,37)
+    activity:movement (37,38)
+    place:La Croix Marmuse (29,40)
+    unit:70 Battery (53,45)
+  31 Dec 1914 93
+    activity:support (46,48)
+    unit:22 Battery (28,48)
+    unit:50 Battery (35,48)
+    unit:5 Infantry Brigade (65,48)
+    place:Richebourg l'Avoue (49,51)
+    place:Richebourg (60,51)
+    place:Lacouture (10,53)
+    place:Estaires-Labassee Road (27,54)
+    place:Richebourg (10,58)
+    activity:attack (49,68)
+    weather:rain (67,68)
+    weather:rain (28,72)
+    unit:22 Battery (47,82)
+    person:Second Lieutenant Coles (joined) (31,82)
+    person:Second Lieutenant Wrigley (joined) (30,86)
+  20 Dec 1914 90
+    unit:70 Battery (49,90)
+    person:Battery Sergeant Major Clayton (promotion) (38,90)
+    person:Staff Sergeant Clements (promotion) (36,92)
+  31 Dec 1914 93
+    unit:Royal Garrison Artillery (61,95)
+Page 39 (type cover)
+Page 40 (type other) http://wd3.herokuapp.com/pages/AWD0001184  ----------
+  Hashtags: #plans 
+  31 Dec 1914 0
+Page 41 (type cover)
+Page 42 (type diary) http://wd3.herokuapp.com/pages/AWD000117q  ----------
+  Hashtags: #trains #pages 
+  31 Dec 1914 0
+    time:0800PM (15,25)
+    activity:movement (46,25)
+    place:Boulogne (39,26)
+    place:Boulogne (19,29)
+    place:Boulogne (42,38)
+    activity:movement (30,38)
+    time:1046AM (16,39)
+    place:Wassigny (42,53)
+    activity:movement (68,53)
+    time:0800PM (54,54)
+    activity:movement (31,63)
+    place:Landrecies (56,64)
+    unit:34 Brigade (41,64)
+    unit:34 Brigade R7AL (41,64)
+    place:Vieux Mesnil (53,72)
+    activity:movement (32,72)
+    time:0300AM (15,79)
+    place:Givry (62,80)
+    activity:movement (33,80)
+    place:Givry (18,83)
+    place:Vellerielle-le-Sec (68,85)
+    activity:attack (52,85)
+    time:0100PM (40,88)
+Page 43 (type diary) http://wd3.herokuapp.com/pages/AWD000113t  ----------
+  31 Dec 1914 0
+    place:Vellerielle-le-Sec (38,25)
+    time:0300PM (35,32)
+    activity:fire (45,33)
+    unit:2 German Field Howitzer (51,37)
+    activity:attack (34,47)
+    activity:attack (49,49)
+    activity:fire (44,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (44,65)
+    casualties:died: 1; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 29 (69,65)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,67)
+    casualties:died: 1; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 28 (57,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 27 (42,71)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,72)
+    activity:withdraw (47,86)
+Page 44 (type diary) http://wd3.herokuapp.com/pages/AWD000117o  ----------
+  Hashtags: #Surrender 
+  31 Dec 1914 0
+    unit:34 Brigade Royal Field Artillery (65,22)
+    activity:movement (41,22)
+    place:Paris (55,26)
+    activity:fire (66,28)
+    activity:movement (36,43)
+    unit:2 Division (74,47)
+    place:River Marne (46,51)
+    place:Charly (34,55)
+    place:Hautevesnes (66,66)
+    activity:attack (57,68)
+    unit:6 Infantry Brigade (39,70)
+    unit:6 Infantry Brigade (47,71)
+    activity:achieved (30,79)
+    place:Chevillon (56,88)
+Page 45 (type diary) http://wd3.herokuapp.com/pages/AWD00010yl  ----------
+  31 Dec 1914 0
+    activity:movement (42,23)
+    place:Courcy-le-Chateau (67,23)
+    place:Braine (32,32)
+    place:Courcelles (63,33)
+    unit:4 Guards Brigade (59,40)
+    activity:support (30,41)
+    place:Chavonne (62,45)
+    place:River Aisne (43,46)
+    activity:movement (32,47)
+    place:Dhuizel (43,49)
+    unit:5 Infantry Brigade (34,63)
+    place:River Aisne (62,63)
+    unit:2 Battalion 6 Infantry Brigade (40,77)
+    unit:6 Infantry Brigade (46,78)
+    unit:2 nd Battalion of the 6 Inf Brigade (28,78)
+    place:River Aisne (63,78)
+    unit:11 field co re (28,86)
+    unit:11 field company Royal Engineers (35,87)
+    unit:11 field co re (24,90)
+    activity:quiet (61,91)
+    weather:fog (37,92)
+Page 46 (type diary) http://wd3.herokuapp.com/pages/AWD000110u  ----------
+  31 Dec 1914 0
+    activity:support (49,24)
+    place:Verneuil (62,24)
+    activity:support (59,28)
+    place:Beaulne (33,28)
+    unit:6 Infantry Brigade (36,33)
+    activity:fire (17,36)
+    activity:fire (46,38)
+    unit:6 Infantry Brigade (18,41)
+    place:Courtecon Ridge (31,42)
+    activity:fire (58,46)
+    activity:attack (45,52)
+    activity:fire (44,57)
+    activity:attack (65,72)
+    activity:attack (47,74)
+    activity:movement (43,83)
+    place:Comin (67,83)
+    place:Bourg (40,88)
+Page 47 (type diary) http://wd3.herokuapp.com/pages/AWD000112b  ----------
+  Hashtags: #aircraft 
+  31 Dec 1914 0
+    activity:reconnoitered (48,38)
+    activity:movement (57,52)
+    unit:1 Division (29,52)
+    place:Chassemy (47,57)
+    unit:34 Brigade R&A (29,58)
+    unit:32 Brigade R&A (50,61)
+    unit:32 Brigade Royal Field Artillery (46,61)
+    unit:32 Brigade Royal Field Artillery (56,62)
+    place:Ostel Valley (47,72)
+    place:Conde (46,78)
+    unit:French (62,85)
+    activity:movement (31,89)
+    place:Loupeigne (44,89)
+Page 48 (type diary) http://wd3.herokuapp.com/pages/AWD0001132  ----------
+  31 Dec 1914 0
+    time:0200PM (70,22)
+    place:Fere-En-Tardenois (45,22)
+    activity:movement (31,23)
+    activity:movement (35,31)
+    time:0513PM (47,32)
+    place:Saint Omer (42,40)
+    activity:movement (58,41)
+    time:0900PM (32,44)
+    place:Sercus (45,52)
+    activity:movement (35,53)
+    activity:movement (33,54)
+    place:Steenvoorden (44,60)
+    activity:movement (29,60)
+    activity:movement (33,62)
+    place:Ypres (43,72)
+    activity:movement (32,72)
+    place:Saint Jean (54,80)
+    activity:reserve (35,81)
+    activity:movement (50,81)
+    unit:2 battalion 6 infantry Brigade (63,84)
+    unit:2 Battalion 6 Infantry Brigade (72,84)
+    unit:6 Infantry Brigade (68,85)
+    person:Brigadier General Fanshawe (commander) (39,88)
+    place:Klein Zillebeke (63,88)
+    activity:movement (34,88)
+    unit:3 Cavalry Division (47,91)
+    activity:movement (42,95)
+Page 49 (type diary) http://wd3.herokuapp.com/pages/AWD0001122  ----------
+  31 Dec 1914 0
+    activity:resupplying (36,24)
+    place:Givry (56,28)
+    place:Aisne (71,28)
+    activity:attack (31,37)
+    place:Friesenberg (46,37)
+    activity:attack (37,43)
+    activity:support (59,44)
+    unit:6 Infantry Brigade (29,48)
+    unit:6 Infantry Brigade (41,48)
+    activity:support (67,58)
+    place:Zonnebeke (34,58)
+    place:Bercelare (50,58)
+    unit:6 Infantry Brigade (30,62)
+    person:Lieutenant Maitland-Dougal (45,79)
+    activity:enemy_activity (65,83)
+    unit:50 Battery (49,83)
+    unit:Berkshire Regiment (64,86)
+    unit:Berkshires (59,86)
+    activity:attack (39,90)
+    person:Second Lieutenant Moss (combat) (62,93)
+    time:1000AM (51,94)
+Page 50 (type diary) http://wd3.herokuapp.com/pages/AWD00010xl  ----------
+  31 Dec 1914 0
+    place:Passchendale (65,21)
+    activity:movement (41,23)
+    activity:attack (68,32)
+    activity:achieved (38,41)
+    casualties:died: 15; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,44)
+    casualties:died: 0; killed: 15; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,44)
+    casualties:died: 0; killed: 15; missing: 0; prisoner: 0; sick: 0; wounded: 0 (62,48)
+    activity:attack (60,50)
+    activity:withdraw (57,59)
+    activity:enemy_activity (32,72)
+    activity:attack (55,84)
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD0001155  ----------
+  Hashtags: #rounds 
+  31 Dec 1914 0
+    activity:enemy_activity (34,24)
+    unit:French (51,25)
+    place:Passchendale (68,27)
+    unit:6 Infantry Brigade (29,28)
+    place:Bercelare (33,32)
+    activity:attack (60,34)
+    activity:attack (31,37)
+    unit:6 Infantry Brigade (31,46)
+    activity:withdraw (70,47)
+    unit:70 Battery (31,54)
+    activity:withdraw (51,54)
+    unit:70 Battalion (32,55)
+    activity:withdraw (34,55)
+    place:Friesenberg (46,58)
+    activity:line (39,68)
+    place:Friesenberg (71,69)
+    unit:2 Division (48,74)
+    unit:French (32,76)
+    unit:34 Brigade (30,80)
+    activity:withdraw (44,81)
+    place:Brielen (68,83)
+    place:Ypres (42,85)
+    place:Locre (42,90)
+    activity:movement (30,91)
+Page 52 (type diary) http://wd3.herokuapp.com/pages/AWD000110a  ----------
+  31 Dec 1914 0
+    place:Caestre (43,22)
+    activity:movement (29,24)
+    place:Caestre (49,25)
+    unit:1 Corps (35,28)
+    place:Caestre (69,34)
+    domestic:accomodation (54,34)
+    activity:resting (53,39)
+    unit:70 Battery Royal Field Artillery (38,59)
+Page 53 (type cover)
+Page 54 (type cover)
+Page 55 (type cover)
+Page 56 (type diary) http://wd3.herokuapp.com/pages/AWD00010z5  ----------
+  Hashtags: #horsescondition 
+  31 Dec 1914 0
+  2 Jan 1915 26
+    person:Second Lieutenant Wrigley (joined) (27,27)
+  4 Jan 1915 31
+    domestic:inspections (31,32)
+    person:Major Bolton (other) (51,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,46)
+    activity:resupplying (31,50)
+    unit:34 Brigade (60,52)
+    activity:resupplying (45,55)
+  10 Jan 1915 62
+    weather:rain (65,62)
+    activity:resupplying (36,62)
+    unit:Divisional Ammunition Column (53,63)
+  12 Jan 1915 68
+    person:Second Lieutenant J Macqueen (joined) (31,71)
+  14 Jan 1915 74
+    domestic:inspections (50,77)
+    person:Major Bolton (other) (32,77)
+    person:Second Lieutenant Tc Chilton (departed_posted) (27,85)
+    person:Second Lieutenant Wrigley (departed_posted) (27,90)
+Page 57 (type diary) http://wd3.herokuapp.com/pages/AWD000115f  ----------
+  Hashtags: #horsescondition 
+  14 Jan 1915 0
+    unit:70 Battery (58,28)
+  15 Jan 1915 29
+    person:Second Lieutenant Wrigley (departed_posted) (30,29)
+    person:Second Lieutenant Wrigley (departed_posted) (24,31)
+    unit:Si rhind (78,33)
+    unit:Sirhind Infantry Brigade (48,36)
+    unit:Sirhind Inf. Brigade (72,37)
+  16 Jan 1915 38
+    mapRef:Map 7 France, Bethune (78,40)
+    place:Richebourg Saint Vaast (30,42)
+    unit:Jalandar (78,44)
+    unit:Jalandar Infantry Brigade (61,45)
+    unit:Jalandar Infantry Brigade (71,46)
+    place:Vielle Chapelle (50,51)
+    unit:Jalandar Infantry Brigade (31,52)
+    person:Second Lieutenant T C Chilton (departed_posted) (27,61)
+    unit:71 Battery (53,61)
+  17 Jan 1915 64
+    person:Brigadier General Percival (other) (47,64)
+    domestic:inspections (31,65)
+    person:Colonel Sandilands (other) (29,74)
+  18 Jan 1915 79
+    person:Major Bolton (other) (58,80)
+    weather:cold (31,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (35,85)
+Page 58 (type diary) http://wd3.herokuapp.com/pages/AWD00010yv  ----------
+  Hashtags: #lamehorseshot #salary #horsescasualties 
+  18 Jan 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (62,26)
+  19 Jan 1915 27
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,28)
+  20 Jan 1915 34
+  21 Jan 1915 40
+  22 Jan 1915 58
+    activity:repair (34,62)
+  23 Jan 1915 66
+    mapRef:FRANCE Bethune (69,66)
+    gridRef:R_19_C_8_2 (59,66)
+    activity:movement (30,67)
+    mapRef:Map 7 France, Bethune (78,68)
+    unit:7 Division (57,70)
+    person:Captain Dresser (other) (39,71)
+    unit:7 Division Ammunition Column (56,71)
+  24 Jan 1915 75
+    person:Captain Dresser (other) (28,78)
+    person:Second Lieutenant J Macqueen (other) (68,82)
+    person:Second Lieutenant J Macqueen (other) (36,88)
+Page 59 (type diary) http://wd3.herokuapp.com/pages/AWD0001162  ----------
+  Hashtags: #damages #alliedrelations #horses 
+  25 Jan 1915 24
+    activity:other (32,28)
+  26 Jan 1915 33
+    person:Lieutenant Dm Coffin (joined) (35,34)
+  27 Jan 1915 40
+    activity:other (29,41)
+    person:Captain H B Dresser (other) (28,45)
+    person:Lieutenant Dm Coffin (other) (51,45)
+  28 Jan 1915 48
+    activity:other (31,50)
+  29 Jan 1915 54
+    domestic:inspections (55,54)
+    person:Colonel Butler (other) (40,55)
+    weather:cold (28,56)
+  30 Jan 1915 58
+    domestic:other (53,58)
+    activity:other (29,59)
+  31 Jan 1915 64
+    weather:cold (32,68)
+Page 60 (type cover)
+Page 61 (type diary) http://wd3.herokuapp.com/pages/AWD0001151  ----------
+  Hashtags: #ammosupplied 
+  31 Jan 1915 0
+    place:Zelobe (12,23)
+  1 Feb 1915 24
+    domestic:inspections (52,25)
+    person:Second Lieutenant J Macqueen (other) (31,26)
+    activity:resupplying (45,29)
+    unit:B Infantry Brigade (65,30)
+    person:Lieutenant Coffin (other) (63,33)
+    unit:D D Infantry Brigade (54,33)
+    activity:resupplying (32,33)
+  2 Feb 1915 39
+    domestic:inspections (47,41)
+    person:Captain Dresser (other) (29,42)
+    place:Marais (56,45)
+    unit:116 Battery (36,46)
+    unit:117 Battery (42,46)
+    unit:3 infantry hr (58,46)
+    unit:3 Infantry Highland Division (60,46)
+    unit:113 Battery (38,50)
+    unit:115 Battery (44,50)
+    weather:rain (65,50)
+    place:Loire (28,50)
+    place:Torrbiers (56,50)
+  3 Feb 1915 53
+    activity:resupplying (29,57)
+  4 Feb 1915 61
+    unit:22 Battery (56,65)
+    activity:movement (30,65)
+    person:Lieutenant Coffin (other) (55,73)
+    activity:movement (66,73)
+    time:1145AM (38,78)
+    place:Zelobe (29,78)
+    place:Essars (67,78)
+Page 62 (type diary) http://wd3.herokuapp.com/pages/AWD0001182  ----------
+  4 Feb 1915 0
+    place:Bethune (12,22)
+  5 Feb 1915 24
+    person:Lieutenant J E Young (joined) (30,28)
+    unit:22 Battery (63,32)
+    unit:22 Battery (71,33)
+    person:Second Lieutenant C J O Wrigley (joined) (41,36)
+    activity:resupplying (67,36)
+    unit:70 Battery (60,37)
+    person:Second Lieutenant Cjo Wrigley (joined) (25,38)
+  6 Feb 1915 42
+    unit:117 Battery (42,42)
+    activity:resupplying (66,45)
+    person:Captain Dresser (other) (26,46)
+    person:Lieutenant Coffin (other) (45,46)
+    unit:117 Battery (56,50)
+    unit:116 Battery (40,51)
+    unit:117 Battery (63,51)
+  7 Feb 1915 54
+    activity:resupplying (27,56)
+    person:Captain Dresser (other) (46,57)
+    unit:Divisional Ammunition Column (58,57)
+    place:Gonnenhem (69,58)
+    activity:resupplying (51,61)
+    place:Hinjes (42,62)
+    unit:34 Brigade (28,62)
+  8 Feb 1915 65
+    person:Captain Dresser (other) (51,69)
+    domestic:sport (28,69)
+  9 Feb 1915 73
+    domestic:sport (28,77)
+    person:Bombardier Green (joined) (43,86)
+Page 63 (type diary) http://wd3.herokuapp.com/pages/AWD0001101  ----------
+  Hashtags: #closearrest #courtmartial 
+  9 Feb 1915 0
+    place:Bethune (13,23)
+  10 Feb 1915 24
+    person:Captain Dresser (other) (46,28)
+    person:Bombardier Green (67,32)
+    person:Lieutenant Coffin (author) (79,32)
+    unit:50 Battalion (28,32)
+    unit:70 Battalion (35,32)
+  11 Feb 1915 36
+  12 Feb 1915 41
+    domestic:inspections (47,43)
+    domestic:inspections (70,43)
+  13 Feb 1915 45
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,48)
+  14 Feb 1915 49
+  15 Feb 1915 54
+  16 Feb 1915 58
+    person:Captain Dresser (other) (48,61)
+  17 Feb 1915 63
+  18 Feb 1915 67
+    person:Captain Dresser (other) (48,72)
+    person:Captain Dresser (other) (52,77)
+    domestic:discipline (27,78)
+    person:Driver Evans (discipline) (50,80)
+    person:Second Lieutenant Wrigley (discipline) (67,81)
+    person:Second Lieutenant C J O Wrigley (discipline) (33,85)
+Page 64 (type diary) http://wd3.herokuapp.com/pages/AWD000116c  ----------
+  18 Feb 1915 0
+    place:Bethune (18,23)
+  19 Feb 1915 24
+    person:Captain Dresser (other) (54,28)
+    unit:2 Division (68,31)
+    person:Second Lieutenant C Wrigley (discipline) (60,36)
+    person:Lieutenant Wrigley (discipline) (72,36)
+  20 Feb 1915 38
+    person:Second Lieutenant Pg Bailey (joined) (48,40)
+    person:Lieutenant Bailey (other) (63,40)
+    domestic:inspections (61,44)
+    person:Captain Dresser (other) (72,45)
+    person:Captain Dresser (other) (33,49)
+    domestic:other (30,53)
+  21 Feb 1915 56
+    person:Captain Dresser (commander) (45,58)
+    domestic:other (31,58)
+    domestic:parades (65,64)
+  22 Feb 1915 67
+    domestic:hygiene (52,68)
+  23 Feb 1915 73
+    activity:training (57,73)
+  24 Feb 1915 80
+    domestic:other (31,83)
+  25 Feb 1915 85
+    domestic:hygiene (50,87)
+Page 65 (type diary) http://wd3.herokuapp.com/pages/AWD00010yz  ----------
+  25 Feb 1915 0
+    place:Bethune (15,24)
+    unit:70 Battery (64,26)
+  26 Feb 1915 27
+    domestic:hygiene (52,31)
+    domestic:hygiene (26,32)
+  27 Feb 1915 35
+    domestic:inspections (59,37)
+    unit:34 Brigade (44,38)
+    unit:34 Brigade (38,43)
+  28 Feb 1915 45
+    domestic:inspections (42,47)
+  1 Mar 1915 53
+    activity:training (26,58)
+    weather:cold (31,63)
+    domestic:medical (60,64)
+    domestic:medical (72,64)
+  2 Mar 1915 65
+    weather:rain (50,65)
+    activity:training (27,68)
+  3 Mar 1915 72
+    activity:training (27,76)
+Page 66 (type diary) http://wd3.herokuapp.com/pages/AWD000114v  ----------
+  Hashtags: #courtmartial #rounds 
+  3 Mar 1915 0
+    place:Bethune (16,23)
+  4 Mar 1915 24
+    person:Second Lieutenant Wrigley (discipline) (71,29)
+    activity:training (29,29)
+    person:Second Lieutenant Wrigley (discipline) (35,33)
+    person:Brigadier General Chichester (discipline) (43,37)
+    person:Brigadier General Chichester (commander) (37,39)
+  5 Mar 1915 40
+    domestic:medical (68,44)
+    activity:training (29,44)
+    activity:training (33,47)
+  6 Mar 1915 49
+    activity:training (29,54)
+    domestic:inspections (49,55)
+  7 Mar 1915 58
+    person:Captain Dresser (other) (30,58)
+    activity:training (29,62)
+  8 Mar 1915 65
+    activity:training (28,69)
+    activity:other (57,73)
+  9 Mar 1915 74
+    unit:70 Battery (68,75)
+    activity:training (28,78)
+  10 Mar 1915 79
+    unit:50 Battery (58,85)
+    unit:50 Battery (72,85)
+    activity:attack (56,89)
+    person:Lieutenant Dm Coffin (other) (28,91)
+Page 67 (type diary) http://wd3.herokuapp.com/pages/AWD000111z  ----------
+  Hashtags: #courtmartial #salaries 
+  10 Mar 1915 0
+    place:Bethune (13,22)
+  11 Mar 1915 24
+    person:Lieutenant Dm Coffin (49,28)
+    unit:4 Guards Brigade (54,31)
+    unit:2 Guards Brigade (23,31)
+  12 Mar 1915 32
+    unit:Life Guards Brigade (66,32)
+    domestic:other (31,36)
+  13 Mar 1915 37
+    person:Second Lieutenant Cjo Wrigley (discipline) (39,43)
+  14 Mar 1915 44
+    domestic:religion (42,47)
+    person:Cjo Wrigley (resigned) (58,48)
+  15 Mar 1915 53
+  16 Mar 1915 59
+  17 Mar 1915 65
+    domestic:inspections (54,69)
+    domestic:inspections (67,70)
+  18 Mar 1915 72
+    domestic:other (31,76)
+  19 Mar 1915 78
+    domestic:inspections (51,81)
+  20 Mar 1915 82
+    domestic:other (31,85)
+    domestic:inspections (48,85)
+Page 68 (type diary) http://wd3.herokuapp.com/pages/AWD000117m  ----------
+  Hashtags: #horses #draft 
+  20 Mar 1915 0
+    place:Bethune (14,23)
+  21 Mar 1915 24
+    activity:training (30,28)
+    person:Captain Dresser (departed_leave) (40,32)
+    unit:Royal Garrison Artiller (35,36)
+    unit:R.G.A (72,37)
+    unit:R.G.A (14,38)
+  22 Mar 1915 41
+    activity:training (28,46)
+    unit:6 Infantry Battalion (13,50)
+    activity:movement (43,51)
+    unit:6 Infantry Brigade (26,51)
+    unit:6 Inf. Brigade (37,51)
+  23 Mar 1915 52
+    unit:6 Infantry Brigade (63,55)
+    activity:training (27,56)
+    person:Lieutenant Dm Coffin (other) (45,57)
+    unit:6 Inf. Brigade (73,58)
+  24 Mar 1915 60
+    time:0400AM (63,60)
+    unit:50 Battery (33,60)
+    unit:50 Battery (48,61)
+    activity:movement (56,63)
+    time:0430AM (48,65)
+    unit:Section 50 Battery (29,65)
+    activity:movement (40,66)
+    activity:movement (30,66)
+    unit:50 Battery (33,66)
+    unit:50 Battery (43,66)
+    domestic:sport (63,69)
+    unit:50 Battery (41,70)
+  25 Mar 1915 71
+    activity:training (28,75)
+    person:Lieutenant Dm Coffin (other) (50,75)
+  26 Mar 1915 79
+    person:Lieutenant Dugal (joined) (38,80)
+    activity:training (28,84)
+    person:Lieutenant Dugal (departed_posted) (49,84)
+    domestic:inspections (44,88)
+    person:Second Lieutenant A Heads (joined) (32,91)
+    person:Second Lieutenant A Heads (joined) (45,91)
+Page 69 (type diary) http://wd3.herokuapp.com/pages/AWD000110n  ----------
+  26 Mar 1915 0
+    place:Bethune (13,23)
+  27 Mar 1915 24
+    person:Lieutenant Dm Coffin (other) (44,27)
+    domestic:inspections (53,27)
+    domestic:other (30,28)
+    person:Lieutenant Dm Coffin (40,31)
+    person:Gunner Bailey (discipline) (59,35)
+    unit:3 Brigade (41,35)
+    unit:3 Brigade (29,35)
+    person:other (69,36)
+  28 Mar 1915 40
+    domestic:religion (49,42)
+    domestic:religion (59,43)
+    domestic:other (31,44)
+  29 Mar 1915 47
+    person:Captain Dresser (returned_leave) (47,51)
+    person:Captain Dresser (returned_leave) (59,51)
+    domestic:other (31,52)
+  30 Mar 1915 53
+    domestic:other (31,57)
+  31 Mar 1915 58
+    person:Lieutenant J Simonds (joined) (49,63)
+    domestic:other (30,63)
+    unit:7 London In. Brigade (71,64)
+  1 Apr 1915 66
+    unit:50 Battery - Reserve Section (55,69)
+    domestic:other (30,70)
+    unit:50 Battery (68,70)
+  2 Apr 1915 71
+    domestic:other (30,75)
+  3 Apr 1915 77
+    person:Major General Horne (commander) (48,80)
+    domestic:other (32,81)
+    domestic:sport (55,88)
+  4 Apr 1915 89
+    domestic:other (31,92)
+Page 70 (type diary) http://wd3.herokuapp.com/pages/AWD000114q  ----------
+  5 Apr 1915 24
+    place:Bethune (14,24)
+    weather:rain (28,26)
+  6 Apr 1915 29
+    domestic:inspections (48,32)
+    activity:training (29,32)
+    person:Captain Callaghan (joined) (27,35)
+  7 Apr 1915 36
+    domestic:inspections (50,39)
+    activity:training (27,39)
+    domestic:other (32,40)
+  8 Apr 1915 41
+    activity:training (28,43)
+  9 Apr 1915 44
+    domestic:other (30,46)
+    activity:training (28,46)
+  10 Apr 1915 48
+    domestic:sport (47,50)
+    activity:training (27,50)
+  11 Apr 1915 51
+    unit:7 london Brigade Royal Field Artillery (73,52)
+    domestic:other (31,52)
+    activity:training (29,54)
+    unit:6 london Brigade Royal Field Artillery (9,55)
+    unit:6 London Brigade (50,56)
+    unit:7, 5 & 6 London Brigade Royal Field Artillery. (71,56)
+    unit:5 london Brigade Royal Field Artillery ac (29,57)
+    person:Lieutenant Dm Coffin (returned_leave) (47,60)
+  12 Apr 1915 61
+    domestic:other (31,64)
+    activity:training (28,65)
+  13 Apr 1915 66
+    domestic:other (33,70)
+    activity:training (27,71)
+  14 Apr 1915 72
+    activity:training (27,75)
+    domestic:other (32,76)
+  15 Apr 1915 77
+    domestic:inspections (47,79)
+    domestic:other (31,80)
+    activity:training (28,80)
+  16 Apr 1915 81
+    activity:training (28,84)
+    domestic:other (31,85)
+    domestic:parades (48,85)
+Page 71 (type diary) http://wd3.herokuapp.com/pages/AWD00010y0  ----------
+  16 Apr 1915 0
+    place:Bethune (13,23)
+  17 Apr 1915 24
+    domestic:inspections (49,28)
+    domestic:other (30,29)
+    domestic:inspections (60,29)
+  18 Apr 1915 35
+    unit:41 bac (52,39)
+    domestic:other (31,39)
+  20 Apr 1915 43
+    unit:34 Brigade (53,46)
+    domestic:other (31,48)
+    domestic:inspections (66,48)
+    person:Lieutenant Dm Coffin (other) (37,55)
+    unit:5 Company Royal Engineers (49,55)
+  21 Apr 1915 58
+  22 Apr 1915 62
+    domestic:other (31,63)
+  23 Apr 1915 66
+    domestic:other (31,66)
+  24 Apr 1915 71
+    domestic:other (31,71)
+  25 Apr 1915 75
+    domestic:other (32,76)
+  26 Apr 1915 79
+    domestic:other (31,80)
+  27 Apr 1915 83
+    person:Gunner Isden (casualty_kia) (68,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (10,87)
+    domestic:other (32,87)
+    person:Gunner Isden (casualty_kia) (49,88)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,89)
+    unit:4 Guards Brigade (55,91)
+    unit:4 Guards Brigade (69,92)
+Page 72 (type diary) http://wd3.herokuapp.com/pages/AWD00010xb  ----------
+  Hashtags: #salaries 
+  27 Apr 1915 0
+    place:Bethune (15,24)
+  28 Apr 1915 26
+    person:Lieutenant Coffin (author) (83,26)
+    activity:repair (62,28)
+    domestic:other (31,29)
+  29 Apr 1915 31
+    domestic:other (31,35)
+  30 Apr 1915 36
+    domestic:other (31,40)
+  1 May 1915 41
+    domestic:inspections (55,43)
+    domestic:other (31,44)
+    domestic:sport (42,47)
+  2 May 1915 49
+    domestic:religion (39,51)
+    domestic:religion (48,52)
+    activity:training (29,52)
+    domestic:other (30,53)
+  3 May 1915 54
+    domestic:other (31,57)
+  4 May 1915 59
+    domestic:other (31,61)
+    activity:training (29,63)
+  5 May 1915 65
+    unit:41 Brigade (35,66)
+    unit:41 Brigade (42,66)
+    time:0945AM (57,69)
+    place:Ferme du Roi (51,70)
+    activity:movement (30,70)
+    time:1055AM (35,73)
+  6 May 1915 74
+    person:Colonel Parry (commander) (45,74)
+  7 May 1915 78
+    domestic:other (31,78)
+    domestic:other (32,82)
+  8 May 1915 85
+    activity:training (30,88)
+Page 73 (type diary) http://wd3.herokuapp.com/pages/AWD0001139  ----------
+  8 May 1915 0
+    place:Bethune (14,23)
+  9 May 1915 24
+    domestic:other (28,27)
+    activity:reserve (53,27)
+  10 May 1915 28
+    domestic:other (29,31)
+  11 May 1915 33
+    domestic:other (28,36)
+  12 May 1915 37
+    domestic:other (29,39)
+    unit:4 Guards Brigade (28,44)
+    unit:4 Guards Brigade (40,44)
+  13 May 1915 48
+    unit:1 Guards Brigade (32,48)
+    unit:1 Guards Brigade (41,48)
+  14 May 1915 53
+    domestic:other (28,53)
+    domestic:other (30,56)
+  15 May 1915 57
+    domestic:other (29,61)
+    domestic:sport (49,61)
+  16 May 1915 63
+    domestic:other (29,64)
+    domestic:religion (47,66)
+  17 May 1915 70
+    activity:reserve (61,70)
+  18 May 1915 74
+    domestic:other (30,74)
+    domestic:hygiene (47,75)
+    domestic:other (30,77)
+  19 May 1915 79
+    domestic:other (29,83)
+  20 May 1915 84
+    domestic:other (30,87)
+Page 74 (type diary) http://wd3.herokuapp.com/pages/AWD000116n  ----------
+  Hashtags: #horsescasualties #rounds 
+  20 May 1915 0
+    place:Bethune (15,23)
+  21 May 1915 25
+    person:Lieutenant Coffin (author) (84,26)
+    person:Captain Dresser (other) (48,27)
+    person:Captain Dresser (other) (56,30)
+  22 May 1915 31
+    domestic:parades (65,35)
+    domestic:inspections (72,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,39)
+  23 May 1915 40
+    person:Captain Dresser (other) (49,43)
+    unit:70 Battery (44,47)
+    person:Lieutenant Robertson (casualty_kia) (36,47)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (54,47)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,48)
+    place:Beuvry (64,51)
+    activity:clearing (64,54)
+  24 May 1915 58
+    person:Lieutenant Dm Coffin (other) (40,58)
+    activity:resupplying (52,63)
+    unit:70 Battery (34,66)
+    unit:50 Battery (62,67)
+    unit:70 Battery (44,67)
+  25 May 1915 68
+    activity:resupplying (46,71)
+    unit:142 Infantry Brigade (57,72)
+  26 May 1915 75
+    activity:resupplying (39,77)
+  27 May 1915 81
+    unit:142 Infantry Brigade (35,81)
+    unit:142 Inf. Brigade (43,81)
+    time:0900AM (68,85)
+    time:1000AM (71,86)
+    time:1230PM (41,89)
+Page 75 (type diary) http://wd3.herokuapp.com/pages/AWD00010yj  ----------
+  Hashtags: #watersupply #praise 
+  28 May 1915 24
+    activity:movement (71,27)
+    time:0450PM (49,31)
+    time:1035PM (69,32)
+    activity:movement (44,34)
+    domestic:accomodation (30,34)
+    place:Choques (52,35)
+    place:Lillers (65,35)
+  29 May 1915 36
+    domestic:rations (52,39)
+  30 May 1915 41
+  31 May 1915 46
+    domestic:inspections (62,46)
+    domestic:rations (52,48)
+  1 Jul 1915 49
+  2 Jul 1915 53
+    domestic:rations (50,53)
+    domestic:inspections (37,56)
+    domestic:inspections (44,56)
+  3 Jul 1915 59
+  4 Jul 1915 63
+    person:Major General Horne (commander) (66,65)
+    domestic:inspections (34,67)
+  5 Jul 1915 73
+    person:Lieutenant Coffin (departed_posted) (37,85)
+    time:0800PM (53,90)
+Page 76 (type diary) http://wd3.herokuapp.com/pages/AWD000112j  ----------
+  Hashtags: #horsesconditions #horses 
+  5 Jul 1915 0
+    domestic:parades (41,26)
+    domestic:religion (51,26)
+    place:Ferfay (10,27)
+    time:0415PM (71,34)
+    place:Ferfay (65,34)
+    place:Haut Rieux (13,35)
+    activity:movement (54,35)
+    domestic:rations (28,36)
+    place:Burbure (73,37)
+    place:Haut Rieux (49,38)
+    place:Hurionville (59,38)
+    time:0630PM (34,41)
+    domestic:accomodation (46,45)
+    time:0200PM (70,49)
+    weather:rain (60,49)
+    weather:rain (54,50)
+    domestic:rations (29,51)
+    time:0530PM (45,54)
+    person:Second Lieutenant B Mills (joined) (49,56)
+    domestic:rations (28,58)
+    person:Captain Dresser (other) (53,60)
+    weather:rain (57,66)
+    weather:overcast (66,67)
+    domestic:rations (28,68)
+    domestic:inspections (46,75)
+    weather:rain (27,80)
+    activity:reconnoitered (29,83)
+    person:Colonel Smith (other) (65,84)
+    domestic:inspections (50,85)
+    domestic:rations (30,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (56,88)
+    domestic:inspections (30,89)
+Page 77 (type diary) http://wd3.herokuapp.com/pages/AWD0001130  ----------
+  Hashtags: #horsesrations 
+  5 Jul 1915 0
+    domestic:rations (30,26)
+    domestic:hygiene (43,27)
+    place:Haut Rieux (6,28)
+    domestic:parades (54,35)
+    domestic:rations (29,36)
+    domestic:hygiene (49,42)
+    domestic:rations (29,46)
+    domestic:hygiene (44,46)
+  17 Jun 1915 48
+    domestic:rations (30,49)
+  18 Jun 1915 52
+    domestic:rations (30,54)
+    time:1230PM (73,57)
+    domestic:rations (28,58)
+    place:Chocques (55,61)
+    place:Rue de Lille (66,61)
+    activity:movement (29,62)
+    time:0140PM (37,62)
+    time:0500PM (56,65)
+    time:0600PM (37,69)
+    unit:39 Brigade Royal Field Artillery ac (45,73)
+    unit:39 Brigade rfgac (27,74)
+    unit:39 bge rga ac (36,74)
+    domestic:rations (39,76)
+    domestic:hygiene (52,76)
+  21 Jun 1915 81
+  22 Jun 1915 86
+    domestic:hygiene (41,92)
+Page 78 (type diary) http://wd3.herokuapp.com/pages/AWD000111c  ----------
+  22 Jun 1915 0
+  23 Jun 1915 24
+    place:Rue de Lille (7,27)
+  24 Jun 1915 29
+  25 Jun 1915 33
+    weather:rain (42,36)
+  26 Jun 1915 42
+    domestic:inspections (45,45)
+    activity:enemy_activity (35,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (61,56)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (50,57)
+    person:Gunner Letch (casualty_wounded) (46,57)
+    person:Captain Hc Dresser (departed_posted) (50,63)
+    person:Second Lieutenant A Heads (commander) (65,66)
+    person:Second Lieutenant A Heads (commander) (35,70)
+  27 Jun 1915 71
+    domestic:parades (49,74)
+    domestic:inspections (32,82)
+  28 Jun 1915 83
+Page 79 (type diary) http://wd3.herokuapp.com/pages/AWD000112x  ----------
+  28 Jun 1915 0
+  29 Jun 1915 25
+    place:Rue de Lille (8,27)
+  30 Jun 1915 32
+    domestic:inspections (47,32)
+  1 Jul 1915 40
+  2 Jul 1915 48
+  3 Jul 1915 52
+  4 Jul 1915 55
+  5 Jul 1915 63
+  6 Jul 1915 70
+  7 Jul 1915 75
+  8 Jul 1915 84
+    person:Lieutenant B Miles (commander) (44,90)
+    person:Field Marshal Kitchener (commander) (55,94)
+Page 80 (type diary) http://wd3.herokuapp.com/pages/AWD0001157  ----------
+  8 Jul 1915 0
+  9 Jul 1915 25
+    place:Rue de Lille (9,27)
+  10 Jul 1915 30
+    domestic:parades (47,31)
+    domestic:inspections (59,31)
+  11 Jul 1915 36
+    domestic:religion (69,38)
+  12 Jul 1915 42
+    person:Captain H B Dresser (returned_posted) (52,43)
+    person:Lieutenant A Heads (departed_posted) (59,47)
+    unit:50 Battery (28,50)
+    unit:50 Battery (67,51)
+    person:Lieutenant Maples (departed_posted) (56,54)
+    person:Second Lieutenant B Miles (author) (80,54)
+    unit:7 Division (30,61)
+  13 Jul 1915 66
+  14 Jul 1915 74
+  15 Jul 1915 85
+    weather:rain (45,91)
+    domestic:medical (57,94)
+Page 81 (type diary) http://wd3.herokuapp.com/pages/AWD00010zs  ----------
+  16 Jul 1915 21
+    weather:rain (39,35)
+  17 Jul 1915 40
+    time:0615PM (59,40)
+    domestic:parades (55,44)
+    person:Captain H B Dresser (commander) (53,52)
+  18 Jul 1915 53
+  19 Jul 1915 70
+  20 Jul 1915 78
+    domestic:medical (41,84)
+    place:Bethune (67,86)
+    activity:fire (51,86)
+  21 Jul 1915 88
+Page 82 (type diary) http://wd3.herokuapp.com/pages/AWD000112w  ----------
+  21 Jul 1915 0
+  22 Jul 1915 24
+    domestic:other (33,27)
+    place:Rue de Lille (7,28)
+    place:Bethune (60,35)
+  23 Jul 1915 38
+    domestic:other (31,42)
+  24 Jul 1915 51
+    domestic:other (33,56)
+  25 Jul 1915 61
+    person:Captain Hb Dresser (commander) (49,62)
+    domestic:other (33,65)
+    time:1100AM (54,71)
+    person:Captain Dresser (departed_leave) (68,73)
+  26 Jul 1915 75
+    domestic:other (32,79)
+Page 83 (type diary) http://wd3.herokuapp.com/pages/AWD000115z  ----------
+  27 Jul 1915 20
+    activity:training (46,30)
+  28 Jul 1915 33
+    activity:training (46,38)
+  29 Jul 1915 44
+    person:other M Bocquet (departed_leave) (50,52)
+  30 Jul 1915 61
+    activity:training (59,69)
+  31 Jul 1915 78
+    domestic:inspections (55,87)
+Page 84 (type cover)
+Page 85 (type diary) http://wd3.herokuapp.com/pages/AWD0001125  ----------
+  1 Aug 1915 21
+    person:Second Lieutenant B Miles (author) (82,27)
+    place:Rue de Lille (8,28)
+  2 Aug 1915 36
+  3 Aug 1915 45
+    person:Captain Hb Dresser (returned_leave) (40,47)
+    person:Quarter Master Sergeant Kensitt (73,50)
+  4 Aug 1915 53
+    unit:172 Battery (30,54)
+    person:Lieutenant B Miles (departed_leave) (31,57)
+    person:Captain Dresser (author) (81,57)
+  5 Aug 1915 62
+    activity:training (81,62)
+  6 Aug 1915 68
+    activity:resupplying (61,68)
+    time:1000AM (46,74)
+  7 Aug 1915 76
+    person:General Onslow (other) (53,81)
+    person:Staff Sergeant Woods (departed_posted) (53,86)
+  8 Aug 1915 88
+Page 86 (type diary) http://wd3.herokuapp.com/pages/AWD0001105  ----------
+  9 Aug 1915 23
+    activity:training (59,25)
+    activity:training (24,29)
+    person:Major Bolton (other) (68,29)
+    time:0500PM (61,31)
+  10 Aug 1915 36
+  11 Aug 1915 44
+    domestic:other (30,48)
+    activity:training (56,48)
+  12 Aug 1915 50
+    domestic:other (32,52)
+  13 Aug 1915 56
+    unit:70 Battery (60,56)
+    domestic:other (33,59)
+    person:Lieutenant B Miles (returned_leave) (65,59)
+  14 Aug 1915 63
+    domestic:inspections (45,65)
+    domestic:other (31,66)
+    person:Lieutenant Young (returned_leave) (30,68)
+  15 Aug 1915 70
+    domestic:other (34,73)
+    place:Bethune (26,75)
+  16 Aug 1915 76
+    domestic:parades (44,76)
+    domestic:inspections (62,76)
+  17 Aug 1915 85
+    weather:rain (54,88)
+Page 87 (type diary) http://wd3.herokuapp.com/pages/AWD00010yc  ----------
+  18 Aug 1915 24
+    place:Rue de Lille (7,27)
+  19 Aug 1915 35
+    person:Major Dresser (departed_posted) (34,37)
+  20 Aug 1915 45
+  21 Aug 1915 49
+  22 Aug 1915 55
+    person:Lieutenant M W Corrie (commander) (43,55)
+    place:Bethune (62,60)
+  23 Aug 1915 63
+  24 Aug 1915 70
+    person:Corporal Coffey (commander) (59,70)
+  25 Aug 1915 76
+    activity:repair (31,76)
+    activity:repair (42,79)
+  26 Aug 1915 83
+Page 88 (type diary) http://wd3.herokuapp.com/pages/AWD000117r  ----------
+  27 Aug 1915 24
+    place:Rue de Lille (11,27)
+  28 Aug 1915 32
+  29 Aug 1915 39
+    place:Bethune (67,42)
+    domestic:religion (54,42)
+  30 Aug 1915 45
+    unit:50 Battery (45,55)
+    person:Battery Sergeant Major Connop (71,55)
+    unit:71 Battery (55,59)
+  31 Aug 1915 61
+  1 Sep 1915 68
+  2 Sep 1915 75
+  3 Sep 1915 79
+  4 Sep 1915 85
+Page 89 (type diary) http://wd3.herokuapp.com/pages/AWD0001180  ----------
+  5 Sep 1915 20
+    place:Rue de Lille (6,29)
+    time:0900AM (39,31)
+    place:Bethune (30,31)
+    time:1045AM (32,34)
+  6 Sep 1915 36
+    place:Hinges (72,38)
+  7 Sep 1915 40
+  8 Sep 1915 46
+  9 Sep 1915 53
+  10 Sep 1915 57
+    time:0700PM (42,62)
+    time:0630PM (51,62)
+  11 Sep 1915 64
+    domestic:inspections (45,67)
+  12 Sep 1915 71
+    domestic:inspections (65,73)
+  13 Sep 1915 77
+  14 Sep 1915 88
+Page 90 (type diary) http://wd3.herokuapp.com/pages/AWD00010xp  ----------
+  Hashtags: #horsesrations 
+  14 Sep 1915 0
+  15 Sep 1915 24
+    place:Rue de Lille (7,28)
+    person:Colonel Newsome (other) (33,29)
+  16 Sep 1915 33
+  17 Sep 1915 38
+    person:Lieutenant Dunlop (joined) (45,48)
+    unit:2 Division. D.A.C. (32,49)
+  18 Sep 1915 53
+  19 Sep 1915 58
+  20 Sep 1915 66
+  21 Sep 1915 79
+    activity:resupplying (58,81)
+    time:0600PM (43,86)
+    domestic:other (30,86)
+  22 Sep 1915 88
+Page 91 (type diary) http://wd3.herokuapp.com/pages/AWD000110x  ----------
+  22 Sep 1915 0
+  23 Sep 1915 23
+    place:Rue de Lille (6,27)
+    activity:resupplying (66,29)
+    activity:resupplying (30,32)
+  24 Sep 1915 35
+    unit:5 infantry Brigade (70,38)
+  25 Sep 1915 39
+  26 Sep 1915 45
+    unit:7 Division (26,48)
+    time:0400AM (45,48)
+    activity:resupplying (38,52)
+  27 Sep 1915 59
+    unit:5 infantry Brigade (43,61)
+    weather:rain (72,64)
+  28 Sep 1915 65
+    weather:cold (69,65)
+  29 Sep 1915 72
+    person:Corporal Philp (returned_posted) (66,73)
+    unit:7 Division. (63,77)
+  30 Sep 1915 79
+  1 Oct 1915 85
+    person:Sergeant Waugh (departed_posted) (46,87)
+    unit:50 Battery (34,91)
+    unit:5 Infantry Brigade (70,94)
+    unit:5 Infantry Brigade (57,94)
+Page 92 (type diary) http://wd3.herokuapp.com/pages/AWD00010xr  ----------
+  1 Oct 1915 0
+    unit:19 Division ammunition collumb (29,21)
+    unit:36,41 Brigade ammunition collumb (36,21)
+  2 Oct 1915 24
+    place:Rue de Lille (7,26)
+    unit:19 dac (64,29)
+  3 Oct 1915 31
+    activity:working (22,33)
+    unit:36 bac (54,36)
+    unit:41 bac (58,36)
+  4 Oct 1915 37
+  5 Oct 1915 42
+  6 Oct 1915 46
+  7 Oct 1915 51
+  8 Oct 1915 54
+    unit:50 Battery (24,55)
+  9 Oct 1915 63
+    unit:34 Brigade (58,67)
+  10 Oct 1915 75
+  11 Oct 1915 80
+    unit:50 Battery (35,84)
+Page 93 (type diary) http://wd3.herokuapp.com/pages/AWD000115o  ----------
+  11 Oct 1915 0
+  12 Oct 1915 24
+    place:Rue de Lille (7,26)
+  13 Oct 1915 29
+  14 Oct 1915 36
+  15 Oct 1915 40
+  16 Oct 1915 46
+  17 Oct 1915 51
+  18 Oct 1915 58
+  19 Oct 1915 66
+    person:Captain Mw Corrie (casualty_wounded) (67,67)
+  20 Oct 1915 73
+  21 Oct 1915 84
+Page 94 (type diary) http://wd3.herokuapp.com/pages/AWD0001163  ----------
+  21 Oct 1915 0
+  22 Oct 1915 24
+    place:Rue de Lille (7,28)
+  23 Oct 1915 34
+  24 Oct 1915 39
+    activity:working (44,42)
+  25 Oct 1915 45
+    domestic:other (51,51)
+  26 Oct 1915 52
+  27 Oct 1915 59
+  29 Oct 1915 70
+  30 Oct 1915 78
+    person:Second Lieutenant B Miles (commander) (58,85)
+  31 Oct 1915 86
+Page 95 (type diary) http://wd3.herokuapp.com/pages/AWD000117d  ----------
+  1 Nov 1915 25
+    place:Rue de Lille (8,30)
+    weather:rain (20,34)
+    activity:construction (25,45)
+    place:England (33,65)
+    person:Lieutenant Colonel Parry (commander) (48,81)
+    person:Captain Mwg Corrie (32,90)
+Page 96 (type diary) http://wd3.herokuapp.com/pages/AWD000113y  ----------
+  15 Nov 1915 22
+    place:Bethune (33,45)
+    person:Lieutenant Colonel Robinson (other) (46,49)
+    person:Second Lieutenant B Miles (departed_posted) (32,72)
+    person:General Sanders (other) (70,73)
+    person:Captain Buxton (other) (50,78)
+Page 97 (type diary) http://wd3.herokuapp.com/pages/AWD00010yd  ----------
+  15 Nov 1915 0
+  25 Nov 1915 23
+    place:Rue de Lille (5,26)
+  26 Nov 1915 29
+    unit:6 infantry Battalion (38,30)
+  27 Nov 1915 33
+    weather:cold (49,34)
+  28 Nov 1915 37
+  15 Nov 1915 0
+  28 Nov 1915 37
+  29 Nov 1915 41
+    unit:6 Infantry Brigade (59,41)
+  30 Nov 1915 44
+  1 Dec 1915 47
+  2 Dec 1915 50
+  3 Dec 1915 52
+    person:Second Lieutenant P Westcott (42,55)
+  4 Dec 1915 57
+  5 Dec 1915 62
+  9 Dec 1915 69
+  10 Dec 1915 72
+  11 Dec 1915 76
+    domestic:medical (42,76)
+  12 Dec 1915 79
+  13 Dec 1915 84
+Page 98 (type diary) http://wd3.herokuapp.com/pages/AWD000111s  ----------
+  13 Dec 1915 0
+  14 Dec 1915 25
+    place:Rue de Lille (8,28)
+    activity:construction (56,29)
+  15 Dec 1915 31
+    person:Second Lieutenant B Miles (commander) (46,35)
+  16 Dec 1915 38
+    activity:construction (38,40)
+    person:Captain Buxton (other) (33,43)
+    domestic:inspections (64,44)
+  17 Dec 1915 48
+    activity:construction (42,53)
+    unit:2 Division (38,56)
+    person:Second Lieutenant Wjs Baird (departed_posted) (61,60)
+    unit:70 Battery (39,63)
+  18 Dec 1915 64
+    person:Captain Maasdorp (joined) (37,68)
+  19 Dec 1915 77
+    person:Captain Maasdorp (commander) (34,79)
+    person:Second Lieutenant B Miles (departed_posted) (42,84)
+    person:Second Lieutenant Wjs Baird (departed_posted) (31,86)
+    unit:70 Battery (61,86)
+  20 Dec 1915 87
+    activity:construction (58,90)
+    unit:2 Division (58,93)
+Page 99 (type diary) http://wd3.herokuapp.com/pages/AWD0001109  ----------
+  Hashtags: #christmas 
+  21 Dec 1915 24
+    person:Lieutenant Dunlop (departed_leave) (36,26)
+    place:Rue de Lille (11,27)
+  22 Dec 1915 29
+  23 Dec 1915 33
+    weather:rain (66,34)
+  24 Dec 1915 36
+  25 Dec 1915 38
+    weather:rain (66,38)
+  26 Dec 1915 42
+    unit:33 Division (52,44)
+    person:Captain Spurling (joined) (31,44)
+    person:Lieutenant Robb (joined) (41,44)
+  29 Dec 1915 46
+    place:Vermelles (70,49)
+    person:Lieutenant P Westcott (other) (29,49)
+  30 Dec 1915 50
+    unit:50 Battery (44,50)
+    person:Captain Spurling (departed_posted) (32,52)
+    person:Lieutenant Robb (departed_posted) (41,52)
+  31 Dec 1915 54
+    unit:100 Infantry Brigade (43,55)
+    person:Lieutenant Elliot (joined) (29,57)
+  3 Jan 1916 58
+    unit:33 Division (61,58)
+  4 Jan 1916 61
+  5 Jan 1916 63
+    unit:33 Division (68,65)
+    person:Lieutenant Wengate (joined) (23,65)
+Page 100 (type ) http://wd3.herokuapp.com/pages/AWD000112c  ----------
+  5 Jan 1916 0
+    unit:50 Battery (45,45)
+Page 101 (type diary) http://wd3.herokuapp.com/pages/AWD0001133  ----------
+  5 Jan 1916 0
+    unit:17 Battery (62,27)
+    activity:line (33,28)
+    time:0900PM (8,29)
+    place:Annequin (7,33)
+    activity:attack (34,38)
+    unit:47 Henitgin Battery (61,39)
+    time:0430PM (20,40)
+    place:Hohenzollen (33,43)
+    place:Vermelles (80,44)
+    activity:attack (41,48)
+    activity:fire (36,51)
+    time:0430PM (32,55)
+    unit:46 Battery (68,59)
+    time:0900PM (31,64)
+    unit:46 Battery (31,68)
+    gridRef:F_19_D_54_ (54,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,82)
+Page 102 (type signals) http://wd3.herokuapp.com/pages/AWD000114u  ----------
+  5 Jan 1916 0
+    unit:50 Battery (50,33)
+Page 103 (type cover)
+Page 104 (type cover)
+Page 105 (type diary) http://wd3.herokuapp.com/pages/AWD00010zf  ----------
+  8 Jan 1916 26
+    domestic:inspections (20,27)
+    place:Rue de Lille (7,29)
+    domestic:inspections (34,29)
+  10 Jan 1916 30
+    domestic:sport (22,33)
+    activity:repair (26,37)
+  20 Jan 1916 73
+    activity:movement (15,77)
+    place:Essars (18,79)
+    unit:12 Division (68,84)
+  22 Jan 1916 86
+Page 106 (type diary) http://wd3.herokuapp.com/pages/AWD0001119  ----------
+  22 Jan 1916 27
+    person:Captain B Maasdorp (departed_posted) (24,28)
+    person:Lieutenant O Gaunt (61,28)
+    person:Bombardier Biggs (casualty_wounded) (54,37)
+  23 Jan 1916 45
+    person:Lieutenant Colonel C Parry (commander) (66,49)
+    person:D Jones (56,52)
+    person:D Morris (77,53)
+    person:General Sanders (other) (76,57)
+    domestic:religion (51,60)
+  24 Jan 1916 65
+    person:General Sargeant (other) (26,68)
+    domestic:inspections (23,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (42,76)
+    unit:6 Infantry Brigade (79,80)
+    unit:6 Infantry Brigade (50,88)
+Page 107 (type diary) http://wd3.herokuapp.com/pages/AWD000111i  ----------
+  24 Jan 1916 25
+    activity:working (16,29)
+  25 Jan 1916 38
+    activity:working (22,39)
+  26 Jan 1916 46
+    activity:working (23,49)
+  27 Jan 1916 53
+    person:Gunner Faithful (discipline) (78,64)
+  2 Feb 1916 77
+    place:Essars (6,78)
+    person:C Parry (commander) (23,79)
+    person:Driver Morris (77,80)
+  3 Feb 1916 85
+    person:Driver Cockerton (resigned) (27,86)
+Page 108 (type diary) http://wd3.herokuapp.com/pages/AWD00010z4  ----------
+  3 Feb 1916 25
+    person:Driver Morris (discipline) (28,28)
+    person:Lieutenant Colonel C Parry (other) (75,28)
+    place:Essars (7,28)
+  5 Feb 1916 30
+    person:Gunner Faithful (discipline) (71,33)
+    activity:construction (32,40)
+    activity:construction (50,54)
+  22 Jan 1916 58
+    domestic:inspections (73,59)
+  6 Feb 1916 73
+  7 Feb 1916 77
+    place:Nieppe (42,83)
+Page 109 (type diary) http://wd3.herokuapp.com/pages/AWD00010z3  ----------
+  7 Feb 1916 26
+    place:Essars (7,28)
+  10 Feb 1916 34
+    person:C Parry (commander) (52,36)
+    person:Lieutenant P Westcott (returned_training) (83,36)
+  11 Feb 1916 42
+    unit:6 Infantry Brigade (32,44)
+    weather:rain (84,52)
+  14 Feb 1916 53
+    person:Jones (discipline) (29,55)
+    place:United Kingdom (40,60)
+    unit:No.3 mvs (85,70)
+  15 Feb 1916 73
+    unit:121 bac (43,74)
+    person:Second Lieutenant Rimmer (other) (27,75)
+    time:0100PM (64,75)
+    unit:121 B.A.C. (45,77)
+    place:Tuning Fork (23,83)
+    unit:121 B.A.C. (45,87)
+    unit:121 bac (43,88)
+Page 110 (type diary) http://wd3.herokuapp.com/pages/AWD000112o  ----------
+  15 Feb 1916 0
+  16 Feb 1916 37
+    place:Essars (70,39)
+    time:1000AM (80,40)
+    place:Essars (44,40)
+    place:Lilette (56,40)
+    place:Lilette (7,40)
+    time:0200PM (60,44)
+    place:Norrent Fontes (43,44)
+    time:0500PM (33,48)
+    weather:rain (39,51)
+  17 Feb 1916 61
+    person:Driver Jones (discipline) (78,64)
+  18 Feb 1916 65
+  19 Feb 1916 69
+  20 Feb 1916 73
+    time:0830AM (17,75)
+    person:Lieutenant O Gaunt (other) (27,76)
+    place:Beuvry (65,76)
+  21 Feb 1916 81
+    time:1215PM (79,82)
+    time:1215PM (18,83)
+    place:Lilette (74,83)
+    person:Lieutenant P Westcott (other) (46,84)
+    place:Beuvry (61,87)
+    place:Sailly Labourse (73,87)
+    place:Beuvry (35,88)
+Page 111 (type diary) http://wd3.herokuapp.com/pages/AWD00010zz  ----------
+  22 Feb 1916 26
+    person:Lieutenant O Gaunt (commander) (50,28)
+    place:Lilette (75,28)
+    time:1230PM (17,30)
+    place:Beuvry (54,32)
+    place:Sailly Labourse (70,32)
+    activity:movement (15,34)
+    time:0530PM (46,36)
+    unit:J Battery Horse Artillery (55,37)
+    time:0600PM (78,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (20,44)
+  23 Feb 1916 46
+    domestic:hygiene (39,48)
+    unit:19 Middlesex Regiment (51,50)
+  24 Feb 1916 51
+    time:1000AM (17,51)
+    unit:12 Division Royal Artillery (32,53)
+    person:Lieutenant O Gaunt (commander) (25,56)
+    unit:34 Brigade (48,57)
+    time:0230PM (17,57)
+  25 Feb 1916 60
+    time:0900AM (72,63)
+    time:0730PM (17,64)
+    person:Captain O Gaunt (commander) (25,64)
+    time:0900AM (17,68)
+    person:Captain O Gaunt (commander) (24,68)
+    domestic:accomodation (44,72)
+  26 Feb 1916 80
+    domestic:accomodation (38,80)
+    unit:S.A.A Section 36 B.A.C (80,86)
+    unit:36 B.A.C. (87,87)
+Page 112 (type diary) http://wd3.herokuapp.com/pages/AWD000115w  ----------
+  25 Feb 1916 59
+    activity:resupplying (26,28)
+  26 Feb 1916 40
+    time:0530AM (30,40)
+    place:Beuvry (7,41)
+    time:0730AM (16,45)
+    unit:12 Division Royal Artillery (40,48)
+    person:Captain O Gaunt (commander) (23,53)
+    time:0900AM (16,53)
+    place:Beuvry (39,53)
+  25 Feb 1916 59
+    time:0900AM (55,64)
+    activity:movement (31,64)
+    place:Noeux (31,68)
+    unit:36 B.A.C. (85,72)
+    domestic:accomodation (61,72)
+  27 Feb 1916 74
+    activity:movement (33,76)
+    time:0900AM (43,77)
+    place:Jaudrie (43,87)
+    time:0545PM (73,91)
+Page 113 (type diary) http://wd3.herokuapp.com/pages/AWD000113m  ----------
+  27 Feb 1916 51
+  26 Feb 1916 26
+    domestic:accomodation (52,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (73,29)
+    time:0100PM (16,30)
+    domestic:accomodation (74,33)
+    unit:36 bac (41,33)
+    time:0100PM (62,33)
+    person:Lieutenant Lutyens (other) (26,34)
+    unit:36 B.A.C. (27,38)
+    unit:36 bac (26,38)
+    activity:resupplying (12,40)
+    time:0600PM (17,40)
+    place:Beuvry (73,45)
+    person:Second Lieutenant P Westcott (commander) (23,45)
+    time:0830AM (16,45)
+    place:Marles les Mines (65,48)
+  27 Feb 1916 51
+    person:Lieutenant B Miles (other) (22,53)
+    time:0730AM (17,53)
+    domestic:accomodation (49,57)
+    domestic:accomodation (39,60)
+    unit:Hd Qrsf Brigade (21,61)
+    time:1100AM (17,61)
+    domestic:accomodation (57,64)
+    time:1200PM (16,65)
+    unit:French (22,68)
+    unit:S A A (65,69)
+    unit:34 B A C (78,69)
+    unit:34 bac (78,69)
+    time:0200PM (17,70)
+  28 Feb 1916 75
+    activity:movement (59,76)
+    unit:S A A (71,77)
+    time:0900AM (17,77)
+    time:0200PM (86,77)
+    place:Hersin (70,81)
+    person:Captain O Gaunt (commander) (82,81)
+    unit:18pr subsections (39,81)
+    person:Battery Sergeant Major Wade (other) (36,85)
+    domestic:accomodation (27,88)
+    unit:18pr subsections (35,88)
+    place:Marle les Mines (75,89)
+Page 114 (type diary) http://wd3.herokuapp.com/pages/AWD0001118  ----------
+  28 Feb 1916 26
+    activity:movement (36,27)
+    place:Hersin (83,29)
+    time:0300PM (17,29)
+    unit:French artillery (37,33)
+    place:Noeux (52,37)
+    time:0400PM (17,40)
+    place:Noeux (72,41)
+    time:0730PM (17,45)
+    place:Hersin (31,48)
+    time:0915AM (42,48)
+  29 Feb 1916 50
+    place:Hersin (35,52)
+    time:0915AM (16,52)
+    time:0930AM (24,55)
+    place:Hersin (62,65)
+    unit:French artillery (38,68)
+    domestic:accomodation (47,76)
+    time:0400PM (16,76)
+    unit:6 Infantry Brigade (51,79)
+    time:0600PM (16,80)
+Page 115 (type diary) http://wd3.herokuapp.com/pages/AWD000114k  ----------
+  29 Feb 1916 28
+    time:0700PM (17,30)
+    time:0730PM (17,45)
+    place:Hersin (45,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,45)
+Page 116 (type diary) http://wd3.herokuapp.com/pages/AWD000116r  ----------
+  29 Feb 1916 0
+  1 Mar 1916 26
+    person:Captain O Gaunt (other) (25,29)
+    person:other Bocquet (other) (45,29)
+    time:0230PM (17,29)
+    place:Bully Grenay (83,30)
+    activity:fire (51,33)
+    unit:70 Battery (52,37)
+    time:0735PM (17,40)
+    place:Hersin (46,41)
+    time:1125PM (16,44)
+    place:Hersin (58,45)
+    activity:fire (30,45)
+    casualties:died: 1; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (10,48)
+    person:Driver A Haynes (casualty_kia) (80,48)
+    time:1135PM (16,48)
+    activity:fire (27,49)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (62,49)
+    person:Corporal J Fowler (casualty_wounded) (49,52)
+    person:Captain Swan (other) (73,53)
+    person:Captain Macgee (other) (83,53)
+    time:0200AM (62,57)
+    unit:141 st Field Ambulance (4,59)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (67,60)
+    person:Corporal J Fowler (casualty_died) (45,61)
+  2 Mar 1916 65
+    person:Chaplain Holden (other) (69,68)
+    unit:41 Brigade (29,68)
+    unit:41 Brigade Royal Field Artillery. (31,68)
+    time:0900AM (17,68)
+    activity:clearing (80,69)
+    person:Driver A Haynes (other) (25,72)
+    place:Hersin (24,80)
+    place:Cite Liautey (58,84)
+    time:0100PM (17,84)
+    activity:movement (39,85)
+    person:Haynes (casualty_kia) (25,88)
+    person:Captain O Gaunt (other) (51,88)
+    person:Battery Sergeant Major Wade (other) (73,88)
+Page 117 (type diary) http://wd3.herokuapp.com/pages/AWD00010z7  ----------
+  Hashtags: #alliedrelations 
+  2 Mar 1916 0
+    domestic:accomodation (46,22)
+    activity:movement (67,23)
+    person:Second Lieutenant P Westcott (commander) (26,27)
+  3 Mar 1916 29
+    place:Bracquencourt (82,31)
+    place:Barlin (6,32)
+    domestic:accomodation (67,32)
+  4 Mar 1916 33
+    place:Bracquencourt (34,35)
+    domestic:hygiene (24,41)
+    time:0800AM (60,45)
+  5 Mar 1916 55
+    place:Barlin (7,57)
+    domestic:religion (23,58)
+    domestic:inspections (40,59)
+  6 Mar 1916 63
+  7 Mar 1916 67
+    domestic:inspections (49,70)
+  8 Mar 1916 71
+    domestic:hygiene (31,73)
+  13 Mar 1916 77
+  14 Mar 1916 80
+Page 118 (type diary) http://wd3.herokuapp.com/pages/AWD00010zo  ----------
+  15 Mar 1916 20
+    person:Second Lieutenant P Westcott (departed_posted) (50,21)
+    unit:50 Battery (72,21)
+  16 Mar 1916 24
+    place:Barlin (6,24)
+    unit:50 Battery (73,29)
+  18 Mar 1916 33
+    person:Lieutenant E J Pott-Stevenson (joined) (41,31)
+    place:Dieval (41,34)
+    domestic:accomodation (33,35)
+  19 Mar 1916 36
+  22 Mar 1916 41
+  23 Mar 1916 44
+    time:0300PM (16,44)
+    place:Cite Liautex (51,44)
+    activity:movement (23,44)
+    place:Dieval (62,45)
+  27 Mar 1916 49
+    weather:cold (31,49)
+  29 Mar 1916 52
+Page 119 (type diary) http://wd3.herokuapp.com/pages/AWD000114a  ----------
+  3 Apr 1916 24
+    place:Dieval (6,26)
+    domestic:inspections (43,26)
+    person:General Sanders (commander) (29,28)
+    weather:fine (40,30)
+    weather:cold (67,32)
+  4 Apr 1916 33
+    domestic:inspections (81,35)
+    person:Major General Walker (commander) (55,35)
+  5 Apr 1916 37
+    weather:cold (76,39)
+    person:Second Lieutenant P Westcott (25,39)
+  6 Apr 1916 42
+  18 Apr 1916 52
+    place:Coupigny (74,53)
+    person:Second Lieutenant P Westcott (commander) (52,53)
+    place:Dieval (63,57)
+    domestic:accomodation (83,57)
+    unit:102 bac (41,58)
+    unit:Saa subsection 102 bgc (38,59)
+  19 Apr 1916 63
+    place:Coupigny (67,64)
+    place:Coupigny (38,69)
+    unit:102 bac (71,69)
+    unit:102 B.A.C. (70,69)
+  20 Apr 1916 70
+    time:0930AM (53,72)
+    place:Hersin (43,73)
+  21 Apr 1916 75
+    unit:6 Infantry Brigade (76,76)
+    unit:6 infantry (76,79)
+    unit:34 Brigade Royal Field Artillery (23,81)
+Page 120 (type diary) http://wd3.herokuapp.com/pages/AWD000116g  ----------
+  27 Apr 1916 19
+    person:Lieutenant P Westcott (31,25)
+    place:Hersin (8,25)
+    unit:No 3 mvs (6,34)
+    unit:Mobile Veterinary Section (30,38)
+Page 121 (type cover)
+Page 122 (type cover)
+Page 123 (type diary) http://wd3.herokuapp.com/pages/AWD000112v  ----------
+  27 Apr 1916 0
+    activity:fire (36,33)
+    place:La Couture (13,37)
+    unit:50 Battalion (56,37)
+    activity:attack (45,40)
+    unit:1 Division (57,44)
+    place:Guinchy (45,47)
+    unit:4 (Guards) Brigade (37,51)
+    unit:4 (guards) Brigade (46,51)
+    person:Major Thornton (departed_leave) (39,60)
+    person:Captain Hencage (departed_sick) (36,63)
+    person:Lieutenant Ejm Robertson (departed_posted) (31,66)
+    person:Lieutenant Chilton (departed_posted) (35,72)
+    person:Lieutenant Cameron (departed_posted) (35,76)
+    unit:22 Battery (44,77)
+    unit:50 Batteries (31,88)
+    activity:movement (58,89)
+    unit:50 Battery (46,89)
+    place:Mont Bernanchon (35,92)
+    unit:4 (Guards) Brigade (60,92)
+    unit:4 (Guards) Brigade (51,93)
+Page 124 (type diary) http://wd3.herokuapp.com/pages/AWD00010zj  ----------
+  27 Apr 1916 0
+    unit:Sirhind Brigade (67,26)
+    unit:Sirhind Brigade indian corps (67,27)
+    unit:Sirhind Brigade, indian Corps (24,27)
+    unit:2 Division (34,33)
+    person:Lieutenant Sloan (joined) (34,42)
+    person:Lieutenant McQueen (joined) (30,45)
+    person:Captain Farrant (joined) (34,50)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (20,60)
+    person:Second Lieutenant Austin (casualty_kia) (57,62)
+    person:Second Lieutenant Coffin (joined) (57,76)
+Page 125 (type diary) http://wd3.herokuapp.com/pages/AWD000117x  ----------
+  27 Apr 1916 0
+    person:Captain Palmer (25,37)
+    person:Captain Palmer (joined) (39,38)
+    person:Lieutenant Bather (35,46)
+    person:Lieutenant Robertson (28,57)
+Page 126 (type cover)
+Page 127 (type diary) http://wd3.herokuapp.com/pages/AWD000110k  ----------
+  27 Apr 1916 0
+    place:La Couture (16,30)
+    place:Bellerive (36,35)
+    unit:22 Battery (33,42)
+    unit:70 Battery (40,43)
+    unit:13 Brigade (Indian Corps) (23,45)
+    unit:13 Brigade (Indian Corps) (23,53)
+    activity:movement (59,58)
+    place:Hinges (30,59)
+    place:Hinges (14,65)
+    activity:movement (39,68)
+    place:Gorre (50,69)
+    place:Tourbieres (64,69)
+    place:Marais (33,71)
+    unit:26 Brigade Royal Field Artillery (57,77)
+    unit:26 Brigade (55,78)
+    unit:22 Battalion (67,82)
+    unit:28 Division (29,86)
+    place:Hinges (36,89)
+Page 128 (type diary) http://wd3.herokuapp.com/pages/AWD00010za  ----------
+  27 Apr 1916 0
+    activity:movement (34,27)
+    place:Hinges (13,30)
+    unit:26 Brigade Royal Field Artillery (67,38)
+    unit:26 Brigade Royal Field Artillery (24,39)
+    unit:1 Division (30,42)
+    place:Marais (15,44)
+    place:Tourbieres (30,59)
+    place:Givenchy (72,79)
+    unit:6 infantry Brigade (51,82)
+    place:Les Herissoirs (73,85)
+    place:Pont Fixe (54,88)
+    place:Givenchy (44,92)
+Page 129 (type diary) http://wd3.herokuapp.com/pages/AWD000116x  ----------
+  27 Apr 1916 0
+    place:Givenchy (65,27)
+    unit:4 guards Brigade (38,40)
+    place:Givenchy (71,47)
+    place:Pont Fixe (27,50)
+Page 130 (type diary) http://wd3.herokuapp.com/pages/AWD000116v  ----------
+  27 Apr 1916 0
+    activity:attack (63,30)
+    activity:fire (54,34)
+    place:Givenchy (63,48)
+    place:Givenchy (18,49)
+    unit:6 Brigade (72,52)
+    unit:6 infantry Brigade (72,52)
+    unit:1 Siege Battery (21,55)
+    unit:1 siege Battery (40,56)
+    time:0500PM (31,63)
+    activity:attack (53,67)
+    unit:17 Battery (51,70)
+    activity:attack (17,75)
+    unit:70 Battery (34,81)
+    unit:50 Battery (27,82)
+Page 131 (type diary) http://wd3.herokuapp.com/pages/AWD0001128  ----------
+  27 Apr 1916 0
+    activity:achieved (49,31)
+    weather:fog (58,45)
+    weather:fog (19,45)
+    person:Second Lieutenant Woodward (45,51)
+    person:Second Lieutenant Burnside (67,52)
+    person:Lieutenant Colonel Sandilands (21,64)
+    person:Major Clarke (commander) (21,78)
+Page 132 (type diary) http://wd3.herokuapp.com/pages/AWD000116u  ----------
+  27 Apr 1916 0
+    place:Pont Fixe (50,40)
+    person:Major Clarke (commander) (55,51)
+Page 133 (type cover)
+Page 134 (type diary) http://wd3.herokuapp.com/pages/AWD000115k  ----------
+  27 Apr 1916 0
+    place:Givenchy (28,67)
+Page 135 (type diary) http://wd3.herokuapp.com/pages/AWD0001175  ----------
+  Hashtags: #prisoners 
+  27 Apr 1916 0
+    activity:attack (20,35)
+    place:Givenchy (25,78)
+Page 136 (type diary) http://wd3.herokuapp.com/pages/AWD00010ya  ----------
+  27 Apr 1916 0
+    activity:enemy_activity (46,50)
+    activity:attack (32,58)
+    place:Neuve Chapelle (63,71)
+Page 137 (type diary) http://wd3.herokuapp.com/pages/AWD000114b  ----------
+  27 Apr 1916 0
+    unit:4 Guards Brigade (15,32)
+    unit:6 Brigade (11,33)
+    place:Scottish Trench (21,35)
+    place:Givenchy (54,47)
+    time:0200AM (47,52)
+    place:Pont Fixe (26,59)
+    place:Givenchy (39,86)
+    person:Lieutenant Colonel C F P Parry (joined) (45,95)
+Page 138 (type diary) http://wd3.herokuapp.com/pages/AWD00010xe  ----------
+  27 Apr 1916 0
+    activity:attack (32,38)
+    place:Sidbury (59,43)
+    activity:attack (39,49)
+    activity:quiet (31,60)
+    activity:quiet (33,68)
+    person:Lieutenant Colonel C Parry (commander) (85,86)
+    place:Givenchy (35,91)
+Page 139 (type cover)
+Page 140 (type diary) http://wd3.herokuapp.com/pages/AWD000114f  ----------
+  Hashtags: #ammoshortage 
+  27 Apr 1916 0
+    activity:movement (52,31)
+    gridRef:F_18_A_0_5 (48,34)
+    activity:movement (57,51)
+    gridRef:F_12_B_6_6 (30,58)
+    activity:attack (40,68)
+    activity:attack (31,79)
+Page 141 (type diary) http://wd3.herokuapp.com/pages/AWD000110b  ----------
+  27 Apr 1916 0
+    activity:enemy_activity (35,55)
+    activity:attack (57,66)
+    unit:6 London Brigade (19,76)
+    unit:6 london Brigade Royal Field Artillery (41,78)
+Page 142 (type diary) http://wd3.herokuapp.com/pages/AWD000117j  ----------
+  Hashtags: #equipmentevaluation 
+  12 Apr 1916 24
+    activity:attack (65,26)
+  14 Apr 1916 30
+    place:Canteleux (39,30)
+  15 Apr 1916 49
+    place:Pont Fixe (61,52)
+  16 Apr 1916 53
+    time:1000AM (28,59)
+Page 143 (type diary) http://wd3.herokuapp.com/pages/AWD00010ym  ----------
+  19 Apr 1916 22
+    time:0700PM (64,46)
+  20 Apr 1916 53
+    unit:16 London Battery (23,60)
+  22 Apr 1916 74
+    unit:19 London Battery (24,76)
+    unit:17 London Battery (23,80)
+    place:Givenchy (73,80)
+    place:Gorre Chateau (29,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,90)
+Page 144 (type diary) http://wd3.herokuapp.com/pages/AWD000110y  ----------
+  23 Apr 1916 23
+    place:Givenchy (47,57)
+  25 Apr 1916 66
+    time:0600PM (50,72)
+Page 145 (type diary) http://wd3.herokuapp.com/pages/AWD00010zr  ----------
+  25 Apr 1916 0
+Page 146 (type cover)
+Page 147 (type diary) http://wd3.herokuapp.com/pages/AWD000110r  ----------
+  1 May 1916 23
+    activity:movement (30,33)
+    place:Cuinchy (62,35)
+  4 May 1916 46
+  5 May 1916 59
+    place:Cuinchy (55,64)
+    place:Givenchy (67,70)
+  6 May 1916 75
+    activity:attack (53,82)
+Page 148 (type diary) http://wd3.herokuapp.com/pages/AWD000114l  ----------
+  9 May 1916 25
+    place:Richebourg (68,28)
+    unit:1 Division. (36,29)
+    unit:2 Division. (46,32)
+    unit:London Division. (59,32)
+    activity:attack (19,34)
+    unit:4 guards Brigade (48,41)
+    activity:attack (34,48)
+Page 149 (type diary) http://wd3.herokuapp.com/pages/AWD00010zm  ----------
+  9 May 1916 24
+    activity:attack (26,29)
+  10 May 1916 46
+    activity:quiet (28,49)
+  11 May 1916 56
+    time:1145AM (68,62)
+    activity:attack (25,64)
+    activity:attack (31,72)
+  14 May 1916 83
+  15 May 1916 93
+Page 150 (type diary) http://wd3.herokuapp.com/pages/AWD000117h  ----------
+  15 May 1916 0
+  16 May 1916 34
+    unit:7 Division. (67,41)
+    unit:2 Division. (59,48)
+    unit:7 Division. (51,51)
+  17 May 1916 76
+    activity:attack (32,80)
+    time:0430AM (52,83)
+Page 151 (type diary) http://wd3.herokuapp.com/pages/AWD000110t  ----------
+  17 May 1916 23
+    place:Givenchy (46,33)
+    place:Sidbury (27,38)
+    place:Orchard (71,65)
+    activity:enemy_activity (27,66)
+    activity:attack (45,72)
+  18 May 1916 84
+    activity:quiet (25,88)
+Page 152 (type diary) http://wd3.herokuapp.com/pages/AWD0001168  ----------
+  18 May 1916 24
+    activity:attack (34,41)
+    place:Givenchy (22,58)
+Page 153 (type diary) http://wd3.herokuapp.com/pages/AWD000116w  ----------
+  19 May 1916 25
+  20 May 1916 34
+    unit:Canadian Division. (52,49)
+  21 May 1916 66
+    activity:attack (35,71)
+    place:Givenchy (30,78)
+Page 154 (type diary) http://wd3.herokuapp.com/pages/AWD000117t  ----------
+  21 May 1916 23
+    time:0830PM (38,29)
+    activity:attack (45,31)
+    time:1030PM (31,45)
+  22 May 1916 46
+    time:0500AM (71,49)
+    time:0600AM (32,53)
+    time:0200PM (50,58)
+    activity:enemy_activity (63,58)
+    activity:enemy_activity (58,76)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,81)
+    person:Lieutenant Robertson (casualty_kia) (23,82)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (18,82)
+    activity:attack (41,90)
+Page 155 (type diary) http://wd3.herokuapp.com/pages/AWD0001127  ----------
+  22 May 1916 0
+    unit:39 Brigade (10,12)
+    unit:7 L Brigade (13,12)
+    unit:41 Brigade 12 sigs. (7,12)
+    unit:19 Battery. (11,19)
+    unit:5 L Brigade (14,19)
+    unit:36 Brigade O.P.s. (17,19)
+    unit:47 & 70 Bte,s (7,32)
+Page 156 (type diary) http://wd3.herokuapp.com/pages/AWD000116k  ----------
+  24 May 1916 25
+    time:1245PM (64,26)
+    time:0430PM (73,36)
+    activity:enemy_activity (32,43)
+  25 May 1916 56
+    activity:attack (30,63)
+    time:0630PM (54,67)
+    time:0200PM (44,68)
+  26 May 1916 83
+Page 157 (type diary) http://wd3.herokuapp.com/pages/AWD0001124  ----------
+  26 May 1916 24
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (54,50)
+  27 May 1916 51
+    activity:quiet (25,55)
+  28 May 1916 62
+    unit:5 London Brigade (22,67)
+    unit:5 london Brigade (45,70)
+    time:0500PM (73,71)
+    place:Lillers (60,77)
+    place:Ferfay (72,77)
+  29 May 1916 78
+    time:1100PM (46,79)
+    place:Ferfay (44,83)
+    activity:resting (25,83)
+  31 May 1916 84
+    person:Lieutenant Colonel C Parry (50,92)
+Page 158 (type cover)
+Page 159 (type diary) http://wd3.herokuapp.com/pages/AWD000117v  ----------
+  1 Jun 1916 25
+    activity:resting (28,28)
+    place:Ferfay (42,28)
+  2 Jun 1916 32
+    activity:resting (28,33)
+    place:Ferfay (41,33)
+    place:Cambrin (50,41)
+  7 Jun 1916 51
+    place:Haut Rieux (63,58)
+    activity:movement (54,61)
+    time:0400PM (67,62)
+    time:0600PM (61,64)
+  8 Jun 1916 66
+    person:Lieutenant Miles (36,68)
+    person:Lieutenant Maitland Dougal (departed_posted) (23,76)
+  9 Jun 1916 81
+    person:Lieutenant Coffin (departed_posted) (40,81)
+    activity:resting (28,85)
+    place:Haut Rieux (46,85)
+    place:Annequin (49,88)
+Page 160 (type diary) http://wd3.herokuapp.com/pages/AWD0001169  ----------
+  19 Jun 1916 23
+    time:0430AM (48,27)
+    unit:6 Brigade (30,31)
+    activity:attack (29,38)
+    unit:14 Siege Brigade (23,60)
+  21 Jun 1916 68
+  22 Jun 1916 81
+    activity:fire (42,84)
+    time:0445AM (31,87)
+    time:1245PM (54,93)
+Page 161 (type diary) http://wd3.herokuapp.com/pages/AWD00010zn  ----------
+  22 Jun 1916 23
+  26 Jun 1916 64
+Page 162 (type diary) http://wd3.herokuapp.com/pages/AWD000117s  ----------
+  28 Jun 1916 24
+    activity:attack (42,27)
+    place:Auchy (31,30)
+    time:0440PM (48,39)
+    activity:attack (43,46)
+  29 Jun 1916 51
+    activity:attack (35,65)
+    time:0530PM (56,68)
+  30 Jun 1916 81
+    activity:quiet (25,84)
+    person:Lieutenant Colonel C Parry (61,93)
+Page 163 (type cover)
+Page 164 (type diary) http://wd3.herokuapp.com/pages/AWD0001129  ----------
+  1 Jul 1916 25
+    activity:attack (58,26)
+    unit:56 Battery (34,39)
+    person:Major Crozier (casualty_wounded) (55,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (16,42)
+    unit:70 Battery (47,50)
+  5 Jul 1916 54
+    activity:reconnoitered (49,57)
+    unit:9 Battery (29,68)
+    place:Auchy (49,70)
+  6 Jul 1916 78
+    unit:50 Battery (67,80)
+    activity:fire (31,83)
+    place:Cambrin (37,86)
+    place:Canal (22,87)
+  7 Jul 1916 90
+    activity:construction (46,90)
+Page 165 (type diary) http://wd3.herokuapp.com/pages/AWD000111w  ----------
+  8 Jul 1916 22
+    activity:enemy_activity (47,31)
+    activity:attack (36,62)
+    place:Cambrin (32,73)
+    place:Cuinchy (42,74)
+  15 Jul 1916 92
+    place:Canal (73,92)
+Page 166 (type diary) http://wd3.herokuapp.com/pages/AWD00010zl  ----------
+  15 Jul 1916 0
+    gridRef:F_30_C_3_8 (53,26)
+    mapRef:New combined sheet (63,26)
+    activity:enemy_activity (36,31)
+    activity:fire (25,37)
+    gridRef:A_16_A_1_4 (36,46)
+    activity:repair (51,57)
+    unit:25 Brigade (61,63)
+    place:Canal (72,79)
+    unit:16 Battery (B Group) (62,82)
+    activity:attack (39,86)
+  22 Jul 1916 89
+    gridRef:A_21_B_8_8 (37,91)
+Page 167 (type diary) http://wd3.herokuapp.com/pages/AWD000113k  ----------
+  23 Jul 1916 25
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (44,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (36,34)
+    place:Cowl House (64,46)
+    person:Regimental Sergeant Major Davis (promotion) (28,49)
+    place:Cuinchy (27,65)
+    activity:attack (57,74)
+    activity:attack (27,88)
+    gridRef:A_9_D_4_3 (65,92)
+Page 168 (type diary) http://wd3.herokuapp.com/pages/AWD000115d  ----------
+  23 Jul 1916 0
+    gridRef:A_16_A_2_3 (66,41)
+    place:Canal (56,42)
+    unit:1 Division (39,62)
+    person:Lieutenant Colonel C Parry (commander) (49,73)
+Page 169 (type cover)
+Page 170 (type diary) http://wd3.herokuapp.com/pages/AWD00010y4  ----------
+  1 Aug 1916 25
+    unit:4 Brigade (58,41)
+    activity:repair (52,54)
+    activity:enemy_activity (27,83)
+  12 Aug 1916 89
+Page 171 (type diary) http://wd3.herokuapp.com/pages/AWD000111v  ----------
+  13 Aug 1916 25
+    activity:enemy_activity (29,28)
+  17 Aug 1916 48
+    activity:quiet (25,50)
+  18 Aug 1916 56
+    activity:movement (44,59)
+    activity:enemy_activity (29,68)
+    person:Lieutenant J H Lewis (joined) (30,78)
+    person:Lieutenant M N G Corrie (32,85)
+    person:Dresser (departed_posted) (36,88)
+Page 172 (type diary) http://wd3.herokuapp.com/pages/AWD0001131  ----------
+  20 Aug 1916 27
+    activity:attack (26,36)
+  25 Aug 1916 48
+  26 Aug 1916 56
+    activity:attack (37,58)
+    gridRef:A_21_B_8_8 (69,65)
+  29 Aug 1916 71
+    place:Mountain House (62,77)
+  31 Aug 1916 91
+    unit:50 C Battery 9 Division. (46,91)
+Page 173 (type cover)
+Page 174 (type diary) http://wd3.herokuapp.com/pages/AWD000115u  ----------
+  31 Aug 1916 0
+    unit:114, Bat. (11,11)
+  1 Sep 1916 27
+    activity:enemy_activity (13,52)
+  31 Aug 1916 0
+    unit:105 Battery 7 Division. (12,6)
+  1 Sep 1916 27
+    activity:enemy_activity (22,79)
+    unit:J Battery R.H.A. (11,80)
+    unit:11 Siege (15,81)
+    unit:J Battery Royal Horse Artillery (20,81)
+Page 175 (type diary) http://wd3.herokuapp.com/pages/AWD000110m  ----------
+  7 Sep 1916 26
+    unit:J Battery Royal Horse Artillery (72,31)
+    activity:attack (26,32)
+    unit:11 Siege Battery (63,42)
+    activity:enemy_activity (23,66)
+    gridRef:A_22_A_2_2 (42,68)
+    activity:enemy_activity (32,89)
+  17 Sep 1916 91
+Page 176 (type diary) http://wd3.herokuapp.com/pages/AWD00010xw  ----------
+  17 Sep 1916 0
+    activity:enemy_activity (24,30)
+    unit:J Battery (46,36)
+    person:Second Lieutenant E J P Stevenson (joined) (38,42)
+    person:Second Lieutenant H S Perry (joined) (59,43)
+    person:Lieutenant J Dunlop (65,49)
+    unit:2 D.A.C. (47,49)
+    place:Gun Street (62,56)
+    unit:19 Brigade (39,60)
+    gridRef:A_21_B_3_2 (27,60)
+    unit:D/106 Battery (45,83)
+  20 Sep 1916 91
+    unit:C/75 Battery (64,92)
+Page 177 (type diary) http://wd3.herokuapp.com/pages/AWD000110g  ----------
+  18 Sep 1916 25
+    unit:70 Battery (64,32)
+    unit:105 Battery (73,32)
+    unit:C/50 Battery (33,37)
+    unit:41 Brigade (49,41)
+    place:Canal (21,50)
+  21 Sep 1916 67
+    activity:attack (34,68)
+Page 178 (type diary) http://wd3.herokuapp.com/pages/AWD000112h  ----------
+  22 Sep 1916 43
+    activity:attack (37,43)
+    place:Auchy (67,50)
+  23 Sep 1916 77
+    activity:attack (31,79)
+  24 Sep 1916 91
+Page 179 (type diary) http://wd3.herokuapp.com/pages/AWD000114s  ----------
+  24 Sep 1916 27
+    activity:attack (32,28)
+  25 Sep 1916 34
+    place:Auchy (65,79)
+Page 180 (type diary) http://wd3.herokuapp.com/pages/AWD000116i  ----------
+  25 Sep 1916 26
+  26 Sep 1916 37
+  27 Sep 1916 58
+    unit:6 Brigade (43,59)
+    activity:attack (27,70)
+  28 Sep 1916 82
+  30 Sep 1916 88
+Page 181 (type cover)
+Page 182 (type diary) http://wd3.herokuapp.com/pages/AWD000113n  ----------
+  1 Oct 1916 27
+    unit:A&C btys, 75 13dl (34,32)
+    unit:75 Brigade (41,32)
+    unit:118 Battery, 28 Division (41,36)
+    unit:118 Battery (36,36)
+    unit:58 Brigade (72,38)
+    unit:6 Bdl 2 Division (59,43)
+    unit:6 Brigade (48,43)
+    unit:58 Bdl 19 Division (32,44)
+    unit:7 aw (53,47)
+  2 Oct 1916 55
+    place:Cuinchy (29,56)
+    place:Pont Fixe (43,57)
+    activity:attack (56,63)
+    unit:70 Battery (36,89)
+    unit:118 Battery (31,92)
+    unit:17 Battery (47,92)
+Page 183 (type diary) http://wd3.herokuapp.com/pages/AWD0001187  ----------
+  2 Oct 1916 26
+  3 Oct 1916 44
+  4 Oct 1916 63
+    unit:58 Brigade (40,85)
+    unit:22 Brigade (56,86)
+  7 Oct 1916 92
+Page 184 (type diary) http://wd3.herokuapp.com/pages/AWD00010yh  ----------
+  8 Oct 1916 24
+    place:Givenchy (67,26)
+    time:0515AM (43,29)
+    time:0430AM (33,30)
+    time:1000PM (45,50)
+  9 Oct 1916 52
+    place:Annequin (38,64)
+    place:Canal (47,68)
+    activity:attack (33,81)
+Page 185 (type report) http://wd3.herokuapp.com/pages/AWD000116a  ----------
+  9 Oct 1916 0
+Page 186 (type diary) http://wd3.herokuapp.com/pages/AWD000117w  ----------
+  13 Oct 1916 26
+    time:0200PM (69,26)
+    activity:attack (29,41)
+    unit:70 Battery (29,49)
+  14 Oct 1916 55
+    weather:fog (42,57)
+    unit:70 Battery (27,74)
+  17 Oct 1916 85
+    unit:83 Brigade, 28 Division (63,86)
+    unit:83 Brigade (64,86)
+    weather:fog (27,87)
+    unit:22 Brigade (62,91)
+Page 187 (type diary) http://wd3.herokuapp.com/pages/AWD0001153  ----------
+  18 Oct 1916 22
+  21 Oct 1916 49
+    unit:6 Brigade (29,50)
+    unit:83 Brigade (53,51)
+  22 Oct 1916 62
+Page 188 (type diary) http://wd3.herokuapp.com/pages/AWD0001110  ----------
+  25 Oct 1916 24
+    activity:attack (52,26)
+    time:0945PM (51,29)
+    time:0900PM (36,35)
+    casualties:died: 0; killed: 10; missing: 0; prisoner: 0; sick: 0; wounded: 0 (5,43)
+    person:Lieutenant King (casualty_kia) (67,48)
+    casualties:died: 0; killed: 10; missing: 0; prisoner: 0; sick: 0; wounded: 0 (68,49)
+    person:Lieutenant Hall (casualty_kia) (28,51)
+  27 Oct 1916 53
+    activity:enemy_activity (35,55)
+    unit:50 Baty (55,55)
+    unit:70 Baty (60,59)
+    place:Braddell Point (65,63)
+    activity:enemy_activity (49,63)
+    place:Barrier (40,66)
+    activity:attack (55,69)
+    unit:50 Baty (30,77)
+  29 Oct 1916 79
+    activity:enemy_activity (67,80)
+    activity:enemy_activity (50,91)
+Page 189 (type diary) http://wd3.herokuapp.com/pages/AWD000110l  ----------
+  30 Oct 1916 27
+    activity:enemy_activity (49,27)
+    activity:attack (44,37)
+    unit:36 Battery (33,37)
+    unit:70 Battery (28,38)
+  31 Oct 1916 46
+    activity:enemy_activity (49,47)
+    unit:50 Battery (28,54)
+    place:Berkshire Lane (58,59)
+    place:Mountain House (27,60)
+Page 190 (type cover)
+Page 191 (type diary) http://wd3.herokuapp.com/pages/AWD00010y9  ----------
+  1 Nov 1916 24
+    unit:70 Battery (54,35)
+    place:Cambrin (30,36)
+    place:Haisnes (55,38)
+    place:Auchy (43,39)
+    activity:attack (33,39)
+    unit:5 Kings (64,41)
+    place:La Bassee (38,57)
+    place:Cambrin (65,59)
+    activity:enemy_activity (43,59)
+  3 Nov 1916 75
+    unit:50 Battery (32,76)
+    activity:attack (42,76)
+    unit:70 Battery (51,82)
+    place:Culvert (31,83)
+    activity:attack (61,83)
+    time:0130PM (54,89)
+    time:0530PM (63,89)
+    time:0955AM (39,90)
+    time:1030AM (47,90)
+    unit:56 Battery (28,93)
+Page 192 (type diary) http://wd3.herokuapp.com/pages/AWD0001188  ----------
+  3 Nov 1916 27
+    activity:enemy_activity (45,33)
+    time:1000AM (48,45)
+    unit:70 Battery (28,57)
+  4 Nov 1916 67
+    weather:fog (41,68)
+Page 193 (type diary) http://wd3.herokuapp.com/pages/AWD0001116  ----------
+  4 Nov 1916 27
+    place:Culvert (71,27)
+    unit:50 Battery (28,28)
+    unit:56 Battery (32,28)
+    activity:attack (43,28)
+    place:Harley Street (69,30)
+    activity:enemy_activity (50,31)
+    place:Haisnes (49,34)
+    place:Ponte Fixe (62,34)
+    place:Auchy (43,35)
+    activity:enemy_activity (65,37)
+    unit:70 Battery (30,51)
+    unit:36 Battery (36,51)
+    activity:attack (36,51)
+    place:Cuinchy (67,52)
+    activity:enemy_activity (59,53)
+    unit:7 Mountain Blty (56,67)
+    weather:fog (32,68)
+    unit:19 Brigade (46,80)
+    unit:6 Brigade (61,80)
+  7 Nov 1916 84
+    time:1130AM (52,85)
+    activity:enemy_activity (61,89)
+Page 194 (type diary) http://wd3.herokuapp.com/pages/AWD00010z6  ----------
+  8 Nov 1916 26
+  9 Nov 1916 40
+    activity:fire (26,41)
+  10 Nov 1916 56
+    activity:attack (26,61)
+    person:Second Lieutenant Lewis (casualty_wounded) (89,67)
+    activity:attack (28,70)
+  11 Nov 1916 88
+Page 195 (type diary) http://wd3.herokuapp.com/pages/AWD00010zk  ----------
+  11 Nov 1916 26
+  12 Nov 1916 42
+    unit:22 Brigade (49,42)
+    unit:19 Brigade (27,43)
+    unit:19 Brigade (29,46)
+    unit:5 inf Brigade (46,46)
+    unit:36 inf Brigade (59,48)
+    unit:5 inf Brigade (42,49)
+  13 Nov 1916 70
+  14 Nov 1916 81
+    activity:attack (36,82)
+Page 196 (type diary) http://wd3.herokuapp.com/pages/AWD0001181  ----------
+  14 Nov 1916 0
+  15 Nov 1916 26
+    activity:attack (30,29)
+    place:Kingsclere (48,31)
+    place:Pont Fixe (28,32)
+    place:Harley Street (38,32)
+  16 Nov 1916 37
+  17 Nov 1916 57
+  18 Nov 1916 72
+    activity:attack (43,75)
+  19 Nov 1916 88
+Page 197 (type diary) http://wd3.herokuapp.com/pages/AWD000115b  ----------
+  20 Nov 1916 26
+    activity:attack (28,35)
+    casualties:died: 0; killed: 20; missing: 0; prisoner: 0; sick: 0; wounded: 0 (7,53)
+    person:Captain Kilby (30,55)
+  22 Nov 1916 84
+Page 198 (type diary) http://wd3.herokuapp.com/pages/AWD0001121  ----------
+  22 Nov 1916 0
+  23 Nov 1916 26
+    person:Lieutenant Colonel C Parry (departed_leave) (32,28)
+    person:Second Lieutenant B Miles (departed_posted) (11,34)
+    person:Second Lieutenant T Lewis (casualty_wounded) (37,35)
+    unit:50 Battery (31,39)
+    unit:70 Battery (40,39)
+    unit:36 Brigade (27,42)
+  24 Nov 1916 46
+    place:Bethune (58,47)
+    activity:resting (34,47)
+  25 Nov 1916 52
+    person:Lieutenant A A M Durand (promotion) (31,53)
+  26 Nov 1916 62
+    place:Bethune (43,82)
+    activity:resting (31,82)
+  30 Nov 1916 87
+    person:Lieutenant Colonel C Parry (commander) (82,90)
+Page 199 (type cover)
+Page 200 (type diary) http://wd3.herokuapp.com/pages/AWD00010z1  ----------
+  1 Dec 1916 27
+  2 Dec 1916 40
+    person:Regimental Sergeant Major Potter (joined) (29,42)
+  4 Dec 1916 71
+    person:C Parry (returned_leave) (63,76)
+Page 201 (type diary) http://wd3.herokuapp.com/pages/AWD00010zv  ----------
+  5 Dec 1916 27
+    activity:attack (28,32)
+    place:Kingsclere (45,33)
+    place:Canteleux (30,34)
+  6 Dec 1916 38
+    time:0415AM (61,45)
+    time:0645AM (70,45)
+    place:Canteleux (70,48)
+    activity:attack (38,50)
+    place:La Bassee (32,54)
+  7 Dec 1916 61
+    activity:attack (43,61)
+    place:Tourbiere Loop (40,65)
+    activity:repair (44,70)
+  8 Dec 1916 74
+    place:Kingsclere (31,76)
+    activity:attack (65,87)
+  9 Dec 1916 89
+Page 202 (type diary) http://wd3.herokuapp.com/pages/AWD000111t  ----------
+  10 Dec 1916 27
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,35)
+  11 Dec 1916 38
+    activity:attack (34,46)
+    place:Canteleux (31,51)
+    activity:fire (44,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,61)
+  12 Dec 1916 68
+  13 Dec 1916 81
+    activity:quiet (29,85)
+    place:Kingsclere (65,86)
+    weather:cold (32,89)
+    person:Second Lieutenant Stevenson (departed_leave) (56,89)
+  14 Dec 1916 90
+    activity:attack (42,90)
+Page 203 (type diary) http://wd3.herokuapp.com/pages/AWD000114j  ----------
+  15 Dec 1916 26
+  16 Dec 1916 54
+  17 Dec 1916 64
+  18 Dec 1916 81
+    weather:fog (33,82)
+    person:Major T M Hare (commander) (57,84)
+Page 204 (type diary) http://wd3.herokuapp.com/pages/AWD000117a  ----------
+  19 Dec 1916 27
+    activity:attack (47,27)
+    activity:quiet (21,28)
+    unit:Essex da (12,39)
+  20 Dec 1916 45
+    activity:quiet (33,47)
+    activity:enemy_activity (59,56)
+  21 Dec 1916 65
+    time:0800PM (42,68)
+    activity:attack (32,69)
+  22 Dec 1916 80
+    activity:quiet (23,82)
+    activity:enemy_activity (57,87)
+  23 Dec 1916 89
+    activity:attack (68,89)
+    place:Braddell Point (52,91)
+Page 205 (type diary) http://wd3.herokuapp.com/pages/AWD00010yk  ----------
+  24 Dec 1916 25
+    activity:attack (41,29)
+    place:Auchy (56,31)
+    place:Haisnes (63,31)
+    place:Brickstacks (71,31)
+    activity:attack (36,32)
+    place:Triangle (30,34)
+    person:H S Perry (departed_leave) (31,47)
+  25 Dec 1916 60
+    activity:attack (36,61)
+  26 Dec 1916 73
+    place:Cowl House (41,80)
+  27 Dec 1916 82
+Page 206 (type diary) http://wd3.herokuapp.com/pages/AWD0001186  ----------
+  28 Dec 1916 26
+    activity:enemy_activity (55,26)
+    activity:enemy_activity (66,27)
+    activity:attack (40,38)
+    unit:2 Division (34,42)
+    unit:33 Division (63,42)
+    place:Busnes (32,45)
+    activity:enemy_activity (65,50)
+  29 Dec 1916 51
+    activity:enemy_activity (45,58)
+  30 Dec 1916 60
+    place:Hohenzollern Redoubt (57,60)
+    activity:attack (45,72)
+  31 Dec 1916 73
+    place:Canteleux (60,74)
+    place:Kingsclere (63,77)
+    unit:33 Division arty (46,90)
+Page 207 (type cover)
+Page 208 (type diary) http://wd3.herokuapp.com/pages/AWD0001135  ----------
+  31 Dec 1916 0
+    weather:cold (30,27)
+    unit:41 Brigade (55,29)
+    activity:attack (31,54)
+    activity:attack (55,64)
+    activity:attack (54,76)
+Page 209 (type diary) http://wd3.herokuapp.com/pages/AWD000113j  ----------
+  31 Dec 1916 0
+    time:0100PM (22,28)
+    activity:attack (25,28)
+    time:1100AM (16,29)
+    time:0300PM (16,33)
+    time:0500PM (22,33)
+    activity:attack (36,37)
+    place:Auchy (53,38)
+    time:0500PM (15,40)
+    time:0545PM (20,40)
+    time:1100AM (21,50)
+    activity:attack (30,50)
+    time:0900AM (16,51)
+    unit:19 Brigade (50,62)
+    unit:Argyll & sutherland highlanders (42,64)
+    activity:attack (41,73)
+    time:0540AM (28,76)
+Page 210 (type diary) http://wd3.herokuapp.com/pages/AWD000113g  ----------
+  31 Dec 1916 0
+    activity:attack (23,38)
+    activity:attack (33,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (61,68)
+Page 211 (type diary) http://wd3.herokuapp.com/pages/AWD0001146  ----------
+  31 Dec 1916 0
+    activity:attack (28,38)
+    activity:attack (47,52)
+    activity:attack (59,62)
+    weather:rain (32,67)
+    activity:attack (47,73)
+    activity:attack (55,78)
+Page 212 (type cover)
+Page 213 (type cover)
+Page 214 (type diary) http://wd3.herokuapp.com/pages/AWD0001165  ----------
+  31 Dec 1916 0
+  1 Jan 1917 26
+    activity:attack (28,28)
+    person:Lieutenant G Lorimer (departed_leave) (27,32)
+    place:Pont Fixe (68,39)
+Page 215 (type diary) http://wd3.herokuapp.com/pages/AWD0001102  ----------
+  8 Jan 1917 23
+    activity:enemy_activity (49,28)
+    activity:attack (30,37)
+    unit:19 inf Brigade (60,40)
+    unit:98 inf Brigade (33,41)
+  9 Jan 1917 52
+  10 Jan 1917 66
+Page 216 (type diary) http://wd3.herokuapp.com/pages/AWD000111g  ----------
+  11 Jan 1917 23
+    activity:attack (65,26)
+  12 Jan 1917 27
+    activity:fire (45,35)
+  13 Jan 1917 36
+    activity:attack (39,42)
+  14 Jan 1917 51
+    activity:fire (41,51)
+  15 Jan 1917 68
+    person:Bombardier Higginson (award) (49,75)
+  16 Jan 1917 81
+    activity:attack (32,85)
+    activity:fire (52,89)
+Page 217 (type diary) http://wd3.herokuapp.com/pages/AWD000114y  ----------
+  17 Jan 1917 23
+    person:Second Lieutenant J J Sherman (departed_training) (44,26)
+    activity:reconnoitered (34,35)
+    person:Second Lieutenant L H Easton (joined) (26,45)
+    unit:2 Division arty (63,49)
+    activity:movement (28,51)
+    unit:12 Division arty (48,54)
+    unit:12 Division Arty. (39,54)
+    unit:88 Brigade Royal Field Artillery (63,59)
+    unit:36 Brigade Royal Field Artillery (39,63)
+    place:Loisne (31,78)
+    unit:65 Brigade Royal Field Artillery (41,80)
+Page 218 (type diary) http://wd3.herokuapp.com/pages/AWD00010yp  ----------
+  20 Jan 1917 23
+    person:Second Lieutenant Perry (other) (62,29)
+    unit:68 Brigade Royal Field Artillery (11,33)
+    unit:34 Brigade Royal Field Artillery (11,37)
+    place:Annequin (10,40)
+    person:White (award) (7,56)
+    person:Bombardier Hawkes (award) (15,62)
+    person:Bombardier Beckett (award) (6,62)
+    unit:22 royal fus. (44,68)
+    unit:22/R.Fus (42,69)
+    unit:1/R.Berks (41,72)
+    unit:23 royal fus. (30,73)
+    unit:1 royal berkshire (43,73)
+    unit:23/R.Fus (26,73)
+  23 Jan 1917 88
+Page 219 (type diary) http://wd3.herokuapp.com/pages/AWD00011ba  ----------
+  24 Jan 1917 22
+    person:Jones (departed_leave) (30,26)
+    weather:fine (32,34)
+    person:Lieutenant Lorimer (departed_leave) (32,40)
+    person:Lieutenant Bailey (departed_leave) (51,40)
+    unit:17 Brigade Royal Field Artillery (56,46)
+    unit:162 Brigade Royal Field Artillery (42,50)
+    unit:99 inf Brigade (54,59)
+    unit:5 inf Brigade (36,60)
+Page 220 (type diary) http://wd3.herokuapp.com/pages/AWD0001167  ----------
+  24 Jan 1917 0
+    activity:enemy_activity (39,33)
+    activity:attack (26,42)
+    person:Lieutenant Durand (departed_leave) (47,56)
+    unit:2 Ox & Bucks Light Infantry (5,75)
+    unit:2 Ox & Bucks Light Infantry (8,75)
+    unit:17 royal fus. (36,76)
+    unit:2 ox & bucks l.i. (62,76)
+    unit:17/Royal Fusiliers (26,76)
+    unit:2 Ox & Bucks Light Infantry (52,76)
+    unit:2 H.L.I. (34,80)
+    unit:24 royal fus. (60,80)
+    unit:2 hli (5,80)
+    unit:24 Royal Fusiliers (8,80)
+    unit:2 Highland Light Infantry (26,80)
+    unit:24 Royal Fusiliers (53,80)
+Page 221 (type cover)
+Page 222 (type diary) http://wd3.herokuapp.com/pages/AWD000115i  ----------
+  1 Feb 1917 29
+  2 Feb 1917 43
+  3 Feb 1917 46
+  4 Feb 1917 59
+  5 Feb 1917 66
+  6 Feb 1917 74
+  7 Feb 1917 78
+  8 Feb 1917 82
+Page 223 (type diary) http://wd3.herokuapp.com/pages/AWD00010zu  ----------
+  10 Feb 1917 23
+    activity:enemy_activity (24,28)
+    activity:attack (24,36)
+  11 Feb 1917 46
+    unit:6 Infantry Brigade (11,58)
+    unit:5 Infantry Brigade (15,58)
+    unit:6 inf. Brigade (30,60)
+    unit:5 inf. Brigade (56,60)
+  12 Feb 1917 66
+    person:Major Jones (returned_training) (27,67)
+    person:Lieutenant Moss (returned_leave) (67,67)
+  13 Feb 1917 73
+  14 Feb 1917 86
+Page 224 (type diary) http://wd3.herokuapp.com/pages/AWD000111b  ----------
+  14 Feb 1917 27
+  15 Feb 1917 31
+    person:Lieutenant Heads (departed_training) (6,38)
+    weather:rain (80,38)
+    activity:movement (24,40)
+  16 Feb 1917 42
+    person:Colonel Rudkin (commander) (73,47)
+    activity:movement (68,58)
+  17 Feb 1917 73
+    activity:resting (25,75)
+  19 Feb 1917 78
+    person:Major General Walker V.C (commander) (50,79)
+    domestic:inspections (32,79)
+  20 Feb 1917 86
+Page 225 (type diary) http://wd3.herokuapp.com/pages/AWD00010yq  ----------
+  20 Feb 1917 26
+    place:Vermelles (30,32)
+  21 Feb 1917 35
+    place:Vermelles (76,36)
+  22 Feb 1917 50
+    unit:34 Brigade Royal Field Artillery (13,55)
+    unit:7 Brigade Royal Horse Artillery (9,55)
+    unit:7 Brigade r.h.a. (48,56)
+  23 Feb 1917 82
+Page 226 (type diary) http://wd3.herokuapp.com/pages/AWD000111f  ----------
+  24 Feb 1917 28
+    unit:59 siege Battery rga (15,36)
+  25 Feb 1917 47
+    unit:2 Division arty (55,47)
+    unit:12 Division arty (28,52)
+  26 Feb 1917 67
+Page 227 (type diary) http://wd3.herokuapp.com/pages/AWD000114n  ----------
+  28 Feb 1917 27
+  1 Mar 1917 47
+Page 228 (type cover)
+Page 229 (type diary) http://wd3.herokuapp.com/pages/AWD000117y  ----------
+  1 Mar 1917 19
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (64,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,24)
+    activity:fire (28,25)
+    activity:attack (25,44)
+  2 Mar 1917 45
+    unit:10 london Battery Royal Field Artillery (18,49)
+    activity:attack (19,56)
+  3 Mar 1917 61
+    activity:enemy_activity (63,63)
+  4 Mar 1917 78
+    activity:attack (76,79)
+  5 Mar 1917 82
+    activity:repair (73,83)
+  6 Mar 1917 87
+    weather:cold (46,87)
+Page 230 (type diary) http://wd3.herokuapp.com/pages/AWD000115a  ----------
+  7 Mar 1917 24
+    activity:enemy_activity (34,27)
+  8 Mar 1917 30
+  9 Mar 1917 42
+    unit:12 london Battery Royal Field Artillery (10,43)
+    unit:18 london Battery Royal Field Artillery (6,43)
+  10 Mar 1917 49
+    person:Lieutenant Moss (promotion) (22,67)
+    person:Lieutenant Moss (75,71)
+  11 Mar 1917 73
+    activity:attack (45,74)
+  12 Mar 1917 77
+Page 231 (type diary) http://wd3.herokuapp.com/pages/AWD00010zh  ----------
+  13 Mar 1917 25
+  14 Mar 1917 42
+    unit:12 london Battery Royal Field Artillery (15,51)
+    unit:28 Division Royal Field Artillery (18,51)
+  15 Mar 1917 80
+Page 232 (type diary) http://wd3.herokuapp.com/pages/AWD000113d  ----------
+  16 Mar 1917 28
+    activity:enemy_activity (64,30)
+    gridRef:M_17_B_5_5 (54,32)
+    activity:attack (22,35)
+    activity:enemy_activity (61,36)
+  17 Mar 1917 44
+    unit:65 inf Brigade (32,53)
+    person:General Pape-Croft (commander) (29,56)
+  18 Mar 1917 66
+    activity:enemy_activity (63,73)
+  19 Mar 1917 81
+    activity:enemy_activity (35,81)
+Page 233 (type diary) http://wd3.herokuapp.com/pages/AWD00010zy  ----------
+  19 Mar 1917 28
+  20 Mar 1917 32
+    activity:enemy_activity (30,43)
+  21 Mar 1917 55
+    activity:quiet (25,57)
+    person:Lieutenant A T Sloan (departed_posted) (29,60)
+  22 Mar 1917 66
+    activity:quiet (26,68)
+    unit:23 Divl. Group (77,68)
+  23 Mar 1917 74
+    place:Dieval (85,75)
+    activity:movement (73,76)
+    person:Captain Maitland-Dougall (departed_posted) (31,81)
+  24 Mar 1917 85
+    place:Dieval (49,88)
+    domestic:accomodation (61,88)
+    activity:movement (23,88)
+    place:Dieval (11,90)
+Page 234 (type diary) http://wd3.herokuapp.com/pages/AWD00010yu  ----------
+  25 Mar 1917 23
+    person:Second Lieutenant Perry (returned_training) (30,27)
+  26 Mar 1917 38
+    activity:resting (27,40)
+  27 Mar 1917 43
+    person:Lieutenant Lorimer (departed_posted) (28,44)
+    domestic:parades (56,50)
+  28 Mar 1917 52
+    activity:resting (27,53)
+  31 Mar 1917 63
+Page 235 (type cover)
+Page 236 (type diary) http://wd3.herokuapp.com/pages/AWD0001147  ----------
+  2 Apr 1917 30
+    person:General H Wilson (commander) (28,30)
+    place:Bruay (32,30)
+    place:Carency (49,33)
+  3 Apr 1917 34
+    activity:reconnoitered (34,34)
+    place:Carency (15,34)
+    domestic:parades (65,35)
+    domestic:inspections (34,37)
+  4 Apr 1917 38
+    activity:reconnoitered (33,41)
+    unit:6 Inf. Brigade (49,42)
+  5 Apr 1917 46
+    domestic:inspections (55,48)
+    person:General Walker V.C (commander) (42,49)
+  6 Apr 1917 50
+    domestic:sport (64,50)
+    activity:resting (27,53)
+  12 Apr 1917 55
+    unit:17 Middlesex (33,55)
+    person:Captain Don (departed_posted) (36,59)
+    unit:104 Brigade, 23 Division (84,63)
+  19 Apr 1917 64
+    place:Calonne (63,64)
+    unit:104 Brigaderfa (80,65)
+    person:Lieutenant Wilkins (joined) (29,65)
+    activity:movement (32,68)
+    person:Lieutenant Bailey (commander) (71,82)
+    person:Lieutenant Scott (commander) (55,86)
+    person:Lieutenant Roberts (joined) (47,92)
+    unit:6 Inf. Brigade (59,93)
+Page 237 (type diary) http://wd3.herokuapp.com/pages/AWD0001172  ----------
+  20 Apr 1917 25
+    person:Major Maturin (commander) (35,30)
+    activity:attack (56,32)
+    activity:quiet (28,33)
+    gridRef:M_17_C_5_7 (60,34)
+    person:Lieutenant Bailey (commander) (56,37)
+  21 Apr 1917 47
+    activity:enemy_activity (38,48)
+    gridRef:M_17_C_5_7 (61,49)
+    activity:attack (67,50)
+    activity:enemy_activity (40,52)
+  22 Apr 1917 54
+    activity:enemy_activity (41,58)
+    activity:fire (66,62)
+  23 Apr 1917 66
+    activity:enemy_activity (59,70)
+    gridRef:M_16_A_6_8 (45,74)
+  24 Apr 1917 79
+    activity:attack (41,84)
+    activity:attack (46,87)
+  25 Apr 1917 89
+    activity:enemy_activity (58,93)
+Page 238 (type diary) http://wd3.herokuapp.com/pages/AWD000113o  ----------
+  25 Apr 1917 24
+    place:Lens Cathedral (28,31)
+    activity:attack (54,33)
+    activity:enemy_activity (40,34)
+    place:Noulette (71,37)
+  26 Apr 1917 38
+    activity:enemy_activity (39,40)
+    activity:fire (59,44)
+    person:Lieutenant Hoyland (other) (55,61)
+    place:Noulette (40,62)
+    place:Calonne (57,64)
+  27 Apr 1917 74
+    place:Hulluch (54,74)
+    activity:enemy_activity (33,75)
+    activity:enemy_activity (55,77)
+    activity:attack (58,84)
+    gridRef:M_21_D_2_4 (44,86)
+  28 Apr 1917 90
+    activity:enemy_activity (38,92)
+    gridRef:M_18_C_6_4 (55,95)
+Page 239 (type diary) http://wd3.herokuapp.com/pages/AWD000114t  ----------
+  29 Apr 1917 20
+    person:Lieutenant Scott (casualty_wounded) (68,27)
+  30 Apr 1917 39
+    person:Captain Plant (casualty_wounded) (27,51)
+    person:Lieutenant A Durand (author) (54,64)
+  28 Apr 1917 0
+    unit:2" T.M. Battery. Z2 (8,7)
+Page 240 (type cover)
+Page 241 (type diary) http://wd3.herokuapp.com/pages/AWD000112d  ----------
+  1 May 1917 26
+    activity:quiet (38,28)
+    time:0720AM (31,35)
+  2 May 1917 36
+    activity:fire (33,39)
+    time:0200AM (65,43)
+  3 May 1917 45
+    place:Calonne (62,56)
+  4 May 1917 59
+  5 May 1917 70
+    activity:attack (29,80)
+  6 May 1917 91
+Page 242 (type diary) http://wd3.herokuapp.com/pages/AWD0001150  ----------
+  7 May 1917 23
+    place:Calonne (60,27)
+    activity:enemy_activity (45,27)
+  8 May 1917 34
+    activity:attack (47,37)
+    place:Calonne (69,50)
+    activity:attack (37,55)
+  9 May 1917 58
+    activity:attack (61,61)
+  10 May 1917 79
+    activity:enemy_activity (55,82)
+    place:Lens (39,95)
+Page 243 (type diary) http://wd3.herokuapp.com/pages/AWD000116b  ----------
+  11 May 1917 25
+    activity:enemy_activity (47,57)
+    activity:fire (32,68)
+  12 May 1917 79
+Page 244 (type diary) http://wd3.herokuapp.com/pages/AWD000111y  ----------
+  12 May 1917 0
+    place:Lens (25,27)
+  13 May 1917 30
+    activity:attack (68,38)
+  14 May 1917 69
+    activity:attack (48,78)
+    person:Colonel Parry (returned_leave) (45,86)
+Page 245 (type diary) http://wd3.herokuapp.com/pages/AWD000111n  ----------
+  14 May 1917 0
+    unit:Z/2 Trench Morter Bat (11,13)
+    unit:6 inf Brigade (8,13)
+  15 May 1917 31
+    place:Cornailles (47,36)
+    activity:attack (31,40)
+  16 May 1917 48
+    time:0330PM (57,58)
+    time:0230PM (47,59)
+  17 May 1917 66
+    unit:26 Brigaderfa (45,66)
+    unit:26 Brigade Royal Field Artillery (16,69)
+    unit:50 Bat (10,73)
+    unit:26 Brigade, Royal Field Artillery. 1 Division. (6,73)
+    place:Hersin (14,76)
+    time:0930PM (73,77)
+    unit:70 Bat (6,78)
+    unit:48 Bat (9,78)
+    time:0800PM (59,78)
+Page 246 (type diary) http://wd3.herokuapp.com/pages/AWD000115c  ----------
+  18 May 1917 29
+    person:Colonel Hinton (commander) (74,33)
+    time:1000AM (39,35)
+    person:Colonel Hinton (commander) (22,39)
+    time:0200PM (78,39)
+    person:Colonel Hinton (commander) (74,43)
+    place:Dieval (61,46)
+    place:Dieval (10,46)
+    activity:movement (20,46)
+  19 May 1917 52
+    place:Dieval (26,58)
+  20 May 1917 67
+    place:Dieval (38,70)
+    activity:resting (19,71)
+  22 May 1917 76
+    time:0300AM (62,78)
+    place:Caucourt (67,81)
+    activity:movement (70,85)
+    place:Dieval (30,89)
+    place:Bajus (72,89)
+    place:Houvelin (80,89)
+    activity:movement (10,89)
+    time:0715AM (44,90)
+Page 247 (type diary) http://wd3.herokuapp.com/pages/AWD0001144  ----------
+  22 May 1917 27
+    place:Frevillers (21,33)
+    place:Caucourt (10,34)
+    activity:reconnoitered (75,43)
+  23 May 1917 62
+    activity:fire (65,63)
+    activity:attack (62,81)
+Page 248 (type diary) http://wd3.herokuapp.com/pages/AWD000111j  ----------
+  23 May 1917 24
+    time:0830PM (46,31)
+    time:0340AM (58,31)
+    activity:attack (24,37)
+    time:0825PM (81,42)
+    time:1250AM (47,47)
+  24 May 1917 52
+    activity:fire (61,57)
+    activity:fire (27,62)
+  25 May 1917 68
+    unit:2 Division (65,69)
+    unit:47 Division (32,75)
+    place:Gouy (18,82)
+    person:Colonel Parry (commander) (78,83)
+  26 May 1917 84
+    unit:6 Brigade 47 Division (54,85)
+    unit:6 Brigade Royal Field Artillery (8,86)
+    unit:6 Brigade 47 Division (27,86)
+    time:1000AM (74,87)
+Page 249 (type diary) http://wd3.herokuapp.com/pages/AWD000116t  ----------
+  26 May 1917 24
+    person:Lieutenant Hestcott (departed_posted) (24,39)
+  27 May 1917 50
+    activity:attack (43,50)
+    activity:enemy_activity (34,58)
+  28 May 1917 60
+    activity:attack (18,60)
+  29 May 1917 80
+Page 250 (type diary) http://wd3.herokuapp.com/pages/AWD0001161  ----------
+  29 May 1917 27
+    activity:attack (44,30)
+  30 May 1917 48
+  31 May 1917 56
+Page 251 (type cover)
+Page 252 (type diary) http://wd3.herokuapp.com/pages/AWD000117n  ----------
+  1 Jun 1917 20
+    activity:attack (69,30)
+    activity:fire (19,54)
+  2 Jun 1917 89
+    person:Sergeant Baldwin (award) (40,90)
+Page 253 (type diary) http://wd3.herokuapp.com/pages/AWD0001164  ----------
+  2 Jun 1917 0
+  3 Jun 1917 29
+    place:Carency (5,31)
+    activity:attack (30,35)
+  4 Jun 1917 45
+    place:Notre Dame (21,54)
+  5 Jun 1917 68
+    activity:attack (33,70)
+  6 Jun 1917 84
+Page 254 (type diary) http://wd3.herokuapp.com/pages/AWD000112n  ----------
+  7 Jun 1917 28
+  8 Jun 1917 51
+    activity:attack (20,64)
+  9 Jun 1917 71
+  10 Jun 1917 82
+Page 255 (type diary) http://wd3.herokuapp.com/pages/AWD000115r  ----------
+  11 Jun 1917 27
+    place:Carency (14,27)
+  12 Jun 1917 40
+  13 Jun 1917 51
+    person:Lieutenant Conyers (joined) (18,62)
+  14 Jun 1917 63
+  15 Jun 1917 75
+Page 256 (type diary) http://wd3.herokuapp.com/pages/AWD00010xs  ----------
+  15 Jun 1917 0
+  17 Jun 1917 28
+  18 Jun 1917 51
+    unit:5 Inf Brigade (10,66)
+    unit:6 Brigade Royal Field Artillery (16,66)
+  19 Jun 1917 67
+  20 Jun 1917 72
+  21 Jun 1917 79
+Page 257 (type diary) http://wd3.herokuapp.com/pages/AWD0001138  ----------
+  21 Jun 1917 0
+  22 Jun 1917 28
+    person:Lieutenant H Conyers (departed_posted) (23,31)
+    place:Carency (6,32)
+    unit:56 Battery 34 Brigade Royal Field Artillery (44,32)
+  23 Jun 1917 39
+    activity:enemy_activity (37,45)
+  24 Jun 1917 47
+  25 Jun 1917 71
+    activity:fire (24,77)
+    mapRef:Ablain Church (39,82)
+Page 258 (type diary) http://wd3.herokuapp.com/pages/AWD0001106  ----------
+  26 Jun 1917 27
+    activity:fire (50,31)
+    place:Carency (6,33)
+    person:Captain Dale (commander) (73,42)
+    person:Captain Don (other) (22,43)
+  27 Jun 1917 48
+Page 259 (type diary) http://wd3.herokuapp.com/pages/AWD000110s  ----------
+  27 Jun 1917 0
+    place:Carency (6,32)
+Page 260 (type diary) http://wd3.herokuapp.com/pages/AWD000113v  ----------
+  30 Jun 1917 20
+    activity:attack (35,32)
+    place:Carency (6,32)
+    person:Lieutenant Colonel C Parry (60,77)
+Page 261 (type cover)
+Page 262 (type diary) http://wd3.herokuapp.com/pages/AWD000116s  ----------
+  1 Jul 1917 21
+    place:Carency (5,33)
+  2 Jul 1917 46
+    activity:attack (36,52)
+    activity:fire (30,79)
+Page 263 (type diary) http://wd3.herokuapp.com/pages/AWD00010yi  ----------
+  2 Jul 1917 25
+    place:Carency (6,31)
+    activity:fire (31,36)
+  3 Jul 1917 44
+    activity:attack (40,50)
+    activity:attack (28,75)
+  4 Jul 1917 80
+    activity:attack (50,86)
+Page 264 (type diary) http://wd3.herokuapp.com/pages/AWD000117l  ----------
+  4 Jul 1917 27
+    place:Carency (5,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (15,52)
+  5 Jul 1917 56
+  6 Jul 1917 60
+    weather:rain (21,60)
+  7 Jul 1917 68
+    activity:attack (20,72)
+  8 Jul 1917 83
+Page 265 (type diary) http://wd3.herokuapp.com/pages/AWD0001156  ----------
+  8 Jul 1917 27
+    place:Carency (5,32)
+    activity:attack (31,32)
+    casualties:died: 0; killed: 0; missing: 7; prisoner: 0; sick: 0; wounded: 11 (15,50)
+    casualties:died: 0; killed: 0; missing: 7; prisoner: 0; sick: 0; wounded: 11 (40,51)
+  9 Jul 1917 52
+    casualties:died: 0; killed: 0; missing: 7; prisoner: 0; sick: 0; wounded: 11 (53,53)
+  10 Jul 1917 76
+    person:Lieutenant Kellagher (commander) (33,80)
+Page 266 (type diary) http://wd3.herokuapp.com/pages/AWD000112r  ----------
+  11 Jul 1917 25
+    place:Carency (5,30)
+  12 Jul 1917 40
+  13 Jul 1917 48
+    unit:5 Inf Brigade (12,58)
+    unit:6 Inf Brigade (15,58)
+  14 Jul 1917 60
+  15 Jul 1917 68
+    unit:140 Inf Brigade (10,79)
+    unit:99 Inf Brigade (7,79)
+  16 Jul 1917 83
+    unit:142 Inf Brigade (10,83)
+    unit:6 Inf Brigade (6,83)
+  17 Jul 1917 88
+Page 267 (type diary) http://wd3.herokuapp.com/pages/AWD00010xt  ----------
+  18 Jul 1917 27
+    place:Carency (6,31)
+    activity:movement (37,33)
+  19 Jul 1917 40
+    person:Lieutenant Stevenson (joined) (46,40)
+    place:Gauchin (5,44)
+    unit:124 Brigade (57,44)
+    person:Colonel Rouse (commander) (18,47)
+    activity:movement (38,48)
+  20 Jul 1917 52
+    activity:movement (37,55)
+    place:La Thieuloye (8,56)
+  21 Jul 1917 68
+    place:Vacquemont (6,68)
+    place:Vacquemont (5,72)
+    activity:movement (32,73)
+  22 Jul 1917 83
+  24 Jul 1917 90
+    activity:reconnoitered (24,90)
+Page 268 (type diary) http://wd3.herokuapp.com/pages/AWD000110f  ----------
+  25 Jul 1917 23
+    place:Bois des Tailles (7,25)
+    place:Bois des Tailles (5,29)
+    activity:movement (32,30)
+  26 Jul 1917 37
+  27 Jul 1917 49
+    unit:99 Brigade Royal Field Artillery (8,52)
+    activity:movement (77,60)
+  28 Jul 1917 73
+    unit:51 Brigade (72,76)
+    place:Carnoy (6,77)
+    unit:51 Brigade Royal Field Artillery (14,80)
+    unit:34 Brigade Royal Field Artillery (17,80)
+Page 269 (type diary) http://wd3.herokuapp.com/pages/AWD000116p  ----------
+  28 Jul 1917 23
+    activity:attack (52,29)
+    place:Carnoy (5,30)
+  29 Jul 1917 54
+    activity:attack (17,56)
+  30 Jul 1917 62
+    activity:attack (33,65)
+Page 270 (type diary) http://wd3.herokuapp.com/pages/AWD00010xj  ----------
+  30 Jul 1917 21
+    place:Carnoy (4,29)
+  31 Jul 1917 46
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (43,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (4,53)
+    person:Battery Sergeant Major Codling (casualty_wounded) (15,57)
+    person:Lieutenant Baird (casualty_wounded) (53,76)
+Page 271 (type cover)
+Page 272 (type diary) http://wd3.herokuapp.com/pages/AWD0001107  ----------
+  1 Aug 1917 22
+    place:Carnoy (5,29)
+    activity:attack (32,29)
+  2 Aug 1917 37
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (17,50)
+    person:Major Jones (casualty_wounded) (42,56)
+  3 Aug 1917 73
+    person:Captain Maarsdorp (joined) (18,87)
+Page 273 (type diary) http://wd3.herokuapp.com/pages/AWD000115h  ----------
+  3 Aug 1917 22
+  4 Aug 1917 49
+    person:Captain Maasdorp (departed_posted) (57,49)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (79,52)
+    person:Battery Sergeant Major Thorling (casualty_kia) (51,52)
+    casualties:died: 2; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 21 (75,55)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (39,57)
+    casualties:died: 2; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 21 (14,63)
+    casualties:died: 2; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 4 (24,65)
+    casualties:died: 2; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 21 (45,67)
+  5 Aug 1917 78
+Page 274 (type diary) http://wd3.herokuapp.com/pages/AWD000112y  ----------
+  5 Aug 1917 0
+  6 Aug 1917 26
+    place:Carnoy (6,30)
+    activity:fire (23,31)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 6 (15,36)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 7 (26,37)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,37)
+  7 Aug 1917 38
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 6 (61,39)
+  8 Aug 1917 49
+    activity:attack (18,64)
+Page 275 (type diary) http://wd3.herokuapp.com/pages/AWD0001134  ----------
+  8 Aug 1917 19
+    place:Carnoy (5,29)
+    unit:The Middlesex (31,32)
+    unit:Middlesex (32,34)
+    activity:attack (40,36)
+    activity:attack (20,44)
+  9 Aug 1917 80
+Page 276 (type diary) http://wd3.herokuapp.com/pages/AWD000114x  ----------
+  9 Aug 1917 22
+    place:Carnoy (6,28)
+    activity:attack (41,35)
+Page 277 (type diary) http://wd3.herokuapp.com/pages/AWD000112e  ----------
+  9 Aug 1917 26
+    place:Carnoy (5,27)
+  10 Aug 1917 53
+  11 Aug 1917 69
+  12 Aug 1917 86
+Page 278 (type diary) http://wd3.herokuapp.com/pages/AWD000116e  ----------
+  12 Aug 1917 22
+    unit:Rifle Brigade (79,28)
+    unit:1 & 12 R.F. (66,29)
+    unit:1 Battalion Buffs (25,32)
+    place:Carnoy (4,33)
+  13 Aug 1917 34
+    activity:quiet (23,37)
+  16 Aug 1917 57
+Page 279 (type diary) http://wd3.herokuapp.com/pages/AWD000115q  ----------
+  16 Aug 1917 23
+    activity:attack (23,31)
+  17 Aug 1917 50
+  18 Aug 1917 73
+Page 280 (type diary) http://wd3.herokuapp.com/pages/AWD000113p  ----------
+  18 Aug 1917 20
+Page 281 (type diary) http://wd3.herokuapp.com/pages/AWD0001141  ----------
+  18 Aug 1917 23
+  19 Aug 1917 60
+Page 282 (type diary) http://wd3.herokuapp.com/pages/AWD000116y  ----------
+  19 Aug 1917 27
+    person:Colonel Parry (returned_posted) (22,29)
+    place:Carnoy (6,30)
+  20 Aug 1917 35
+    person:Major W A F Jones (departed_posted) (27,37)
+    person:Lieutenant B Miles (other) (18,49)
+  21 Aug 1917 51
+    unit:Xiv corps (45,63)
+    activity:attack (27,76)
+Page 283 (type diary) http://wd3.herokuapp.com/pages/AWD000116j  ----------
+  21 Aug 1917 24
+    place:Carnoy (7,28)
+    activity:attack (39,29)
+  22 Aug 1917 73
+Page 284 (type diary) http://wd3.herokuapp.com/pages/AWD000114i  ----------
+  23 Aug 1917 24
+    unit:34 Brigade Royal Field Artillery (5,33)
+    unit:38 Brigade Royal Field Artillery (9,33)
+    activity:movement (46,38)
+    place:Bois des Tailles (7,41)
+  24 Aug 1917 47
+    activity:movement (38,49)
+  25 Aug 1917 59
+    activity:movement (29,62)
+    place:Cardonnette (6,65)
+    person:Lieutenant Wilkins (71,68)
+  26 Aug 1917 79
+    activity:movement (32,81)
+    place:Thievres (5,82)
+Page 285 (type diary) http://wd3.herokuapp.com/pages/AWD00010xo  ----------
+  26 Aug 1917 0
+    unit:75 Guards (81,23)
+  27 Aug 1917 27
+    person:Second Lieutenant G B Warren (joined) (27,48)
+    activity:movement (37,56)
+    place:Bertrancourt (5,57)
+    unit:75 Brigade (38,64)
+  28 Aug 1917 65
+    activity:movement (15,70)
+    unit:34 Brigade Royal Field Artillery (4,75)
+    unit:75 Brigade Royal Field Artillery (8,75)
+Page 286 (type diary) http://wd3.herokuapp.com/pages/AWD000112p  ----------
+  29 Aug 1917 24
+    activity:movement (43,28)
+    activity:attack (33,45)
+  30 Aug 1917 50
+  31 Aug 1917 65
+    activity:attack (18,73)
+Page 287 (type cover)
+Page 288 (type diary) http://wd3.herokuapp.com/pages/AWD00010xk  ----------
+  1 Sep 1917 21
+    unit:5 Inf. Brigade (81,40)
+    activity:quiet (27,40)
+    activity:enemy_activity (49,43)
+    activity:attack (36,46)
+  2 Sep 1917 47
+    place:Mailly-Maillet (6,51)
+    activity:attack (25,54)
+    person:Second Lieutenant Shipley (casualty_wounded) (33,62)
+  3 Sep 1917 65
+    activity:enemy_activity (33,69)
+    place:Mailly-Maillet (6,71)
+    activity:fire (24,73)
+  4 Sep 1917 77
+    activity:attack (21,83)
+Page 289 (type diary) http://wd3.herokuapp.com/pages/AWD000110z  ----------
+  4 Sep 1917 0
+  5 Sep 1917 34
+    activity:attack (42,41)
+    place:Puisieux (22,47)
+    person:Second Lieutenant Waley (27,58)
+  6 Sep 1917 63
+    activity:quiet (17,67)
+  7 Sep 1917 72
+    activity:attack (33,80)
+  8 Sep 1917 86
+    activity:quiet (18,89)
+Page 290 (type diary) http://wd3.herokuapp.com/pages/AWD000112s  ----------
+  9 Sep 1917 34
+    place:Mailly-Maillet (6,32)
+    activity:other (17,34)
+  10 Sep 1917 41
+    activity:quiet (24,44)
+    place:Mailly-Maillet (6,45)
+    activity:construction (49,47)
+    place:Vallade Trench (18,51)
+  11 Sep 1917 53
+    activity:attack (64,54)
+    place:Mailly-Maillet (7,57)
+    activity:enemy_activity (61,58)
+  12 Sep 1917 81
+    person:Colonel Parry (departed_leave) (34,82)
+    person:Captain Dale (commander) (51,86)
+    person:Second Lieutenant Anderson (joined) (43,90)
+Page 291 (type diary) http://wd3.herokuapp.com/pages/AWD0001160  ----------
+  12 Sep 1917 30
+    place:Mailly Maillet (7,31)
+  13 Sep 1917 37
+  14 Sep 1917 64
+  15 Sep 1917 80
+    activity:raid (23,84)
+Page 292 (type diary) http://wd3.herokuapp.com/pages/AWD0001120  ----------
+  15 Sep 1917 26
+    place:Mailly-Maillet (7,31)
+    activity:attack (31,43)
+  16 Sep 1917 60
+    activity:attack (30,62)
+    place:Mailly-Maillet (5,63)
+  17 Sep 1917 72
+    activity:quiet (30,74)
+    place:Mailly-Maillet (6,75)
+  18 Sep 1917 87
+    unit:5 Inf. Brigade (36,90)
+    unit:116 Inf. Brigade (73,90)
+    place:Mailly-Maillet (7,90)
+Page 293 (type diary) http://wd3.herokuapp.com/pages/AWD00011aw  ----------
+  18 Sep 1917 30
+    activity:enemy_activity (45,34)
+    activity:attack (23,40)
+  19 Sep 1917 53
+    activity:fire (30,55)
+    place:Mailly-Maillet (6,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (18,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (50,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (27,63)
+    unit:184 Brigade Royal Field Artillery (14,65)
+    person:Lieutenant Colonel Rudkin (other) (41,71)
+  20 Sep 1917 76
+    person:Colonel Rudkin (commander) (23,79)
+    place:Mailly-Maillet (6,79)
+Page 294 (type diary) http://wd3.herokuapp.com/pages/AWD000111a  ----------
+  21 Sep 1917 23
+    place:Mailly-Maillet (8,31)
+    activity:enemy_activity (25,35)
+    place:Thiepval (31,58)
+    unit:179 Brigade Royal Field Artillery. (72,73)
+  22 Sep 1917 87
+Page 295 (type diary) http://wd3.herokuapp.com/pages/AWD000113h  ----------
+  22 Sep 1917 29
+    place:Courcelles (6,32)
+    person:Captain Kellagher (departed_leave) (26,35)
+    person:Lieutenant Metge (commander) (72,35)
+    person:General Sanders (departed_leave) (66,43)
+  23 Sep 1917 44
+    person:Major Jones (departed_leave) (68,58)
+    person:Captain Dale (departed_leave) (29,62)
+  24 Sep 1917 63
+    activity:other (16,68)
+  25 Sep 1917 71
+  26 Sep 1917 76
+    activity:attack (22,76)
+Page 296 (type diary) http://wd3.herokuapp.com/pages/AWD000114m  ----------
+  26 Sep 1917 23
+  27 Sep 1917 30
+    place:Courcelles (6,32)
+    activity:fire (33,32)
+  28 Sep 1917 41
+    activity:attack (48,41)
+    activity:attack (39,44)
+    unit:184 Brigade 39 Division. (23,56)
+  29 Sep 1917 57
+    weather:rain (37,60)
+    activity:quiet (25,60)
+  30 Sep 1917 61
+    person:Lieutenant Colonel C Parry (61,78)
+Page 297 (type cover)
+Page 298 (type diary) http://wd3.herokuapp.com/pages/AWD000113b  ----------
+  30 Sep 1917 0
+  1 Oct 1917 30
+    place:Courcelles (7,32)
+    person:Colonel Parry (commander) (32,32)
+  2 Oct 1917 53
+    place:Mailly Maillet (8,63)
+  3 Oct 1917 64
+    activity:movement (31,64)
+    place:Mailly-Maillet (7,69)
+  4 Oct 1917 84
+Page 299 (type diary) http://wd3.herokuapp.com/pages/AWD00010y1  ----------
+  4 Oct 1917 25
+    place:Mailly-Maillet (7,29)
+  5 Oct 1917 43
+    activity:attack (24,47)
+    activity:fire (49,50)
+  6 Oct 1917 51
+    unit:99 Inf. Brigade (30,55)
+    unit:5 Inf. Brigade (57,55)
+    activity:attack (75,55)
+  7 Oct 1917 71
+    activity:attack (45,75)
+    activity:quiet (25,76)
+  8 Oct 1917 83
+    activity:attack (41,87)
+Page 300 (type diary) http://wd3.herokuapp.com/pages/AWD000110d  ----------
+  8 Oct 1917 25
+    place:Mailly-Maillet (7,30)
+  9 Oct 1917 37
+    unit:2 Division (25,40)
+    unit:2 Division Infantry (5,40)
+    unit:63 Division Infantry (9,40)
+    place:Mailly-Maillet (6,40)
+    unit:63 Division (75,41)
+  10 Oct 1917 44
+    place:Mailly-Maillet (6,48)
+    unit:3 Division (76,56)
+  11 Oct 1917 72
+    place:Mailly-Maillet (6,76)
+    activity:attack (37,77)
+  12 Oct 1917 81
+    place:Mailly-Maillet (6,84)
+    activity:attack (50,88)
+Page 301 (type diary) http://wd3.herokuapp.com/pages/AWD000117k  ----------
+  12 Oct 1917 23
+    place:Mailly-Maillet (6,29)
+    activity:attack (51,30)
+  13 Oct 1917 40
+  12 Oct 1917 23
+  14 Oct 1917 56
+    activity:attack (36,60)
+  15 Oct 1917 64
+  12 Oct 1917 23
+  15 Oct 1917 64
+    activity:attack (31,71)
+  16 Oct 1917 73
+  17 Oct 1917 81
+    activity:attack (16,86)
+Page 302 (type diary) http://wd3.herokuapp.com/pages/AWD0001170  ----------
+  17 Oct 1917 25
+  18 Oct 1917 37
+    activity:attack (18,44)
+  19 Oct 1917 53
+  20 Oct 1917 85
+    person:Second Lieutenant J Sherman (50,88)
+Page 303 (type diary) http://wd3.herokuapp.com/pages/AWD000112t  ----------
+  21 Oct 1917 23
+  22 Oct 1917 60
+  23 Oct 1917 83
+    activity:movement (19,83)
+Page 304 (type diary) http://wd3.herokuapp.com/pages/AWD0001108  ----------
+  23 Oct 1917 27
+    place:Mailly-Maillet (6,32)
+  24 Oct 1917 43
+    weather:fog (65,50)
+  25 Oct 1917 63
+    place:Mailly-Maillet (5,68)
+    person:Captain A A M Durand (departed_posted) (60,73)
+    activity:attack (77,78)
+  26 Oct 1917 83
+    activity:attack (62,86)
+    place:Mailly-Maillet (6,86)
+Page 305 (type diary) http://wd3.herokuapp.com/pages/AWD000113r  ----------
+  26 Oct 1917 30
+    person:Second Lieutenant Edwards (joined) (47,32)
+    place:Mailly Maillet (6,32)
+    activity:fire (49,47)
+  27 Oct 1917 57
+  28 Oct 1917 68
+  29 Oct 1917 76
+    weather:rain (24,79)
+Page 306 (type diary) http://wd3.herokuapp.com/pages/AWD000111p  ----------
+  30 Oct 1917 29
+    place:Mailly Maillet (6,31)
+  31 Oct 1917 60
+    activity:attack (17,65)
+Page 307 (type cover)
+Page 308 (type diary) http://wd3.herokuapp.com/pages/AWD00010y5  ----------
+  1 Nov 1917 23
+    weather:rain (39,38)
+  2 Nov 1917 40
+    activity:attack (25,48)
+  3 Nov 1917 54
+    activity:attack (26,62)
+  4 Nov 1917 67
+    activity:attack (21,76)
+Page 309 (type diary) http://wd3.herokuapp.com/pages/AWD000115s  ----------
+  5 Nov 1917 26
+  6 Nov 1917 83
+Page 310 (type diary) http://wd3.herokuapp.com/pages/AWD0001115  ----------
+  6 Nov 1917 20
+    place:Mailly Maillet (7,30)
+    activity:attack (63,35)
+  7 Nov 1917 48
+  8 Nov 1917 72
+Page 311 (type diary) http://wd3.herokuapp.com/pages/AWD000113q  ----------
+  9 Nov 1917 29
+    activity:attack (66,30)
+    place:Mailly Maillet (6,32)
+  10 Nov 1917 37
+  11 Nov 1917 48
+    activity:attack (21,71)
+  12 Nov 1917 80
+    activity:attack (18,85)
+Page 312 (type diary) http://wd3.herokuapp.com/pages/AWD00010yn  ----------
+  12 Nov 1917 21
+    place:Mailly Maillet (7,35)
+    person:Lieutenant Colonel C F Parry (other) (23,47)
+  13 Nov 1917 76
+    activity:attack (24,82)
+Page 313 (type diary) http://wd3.herokuapp.com/pages/AWD0001100  ----------
+  13 Nov 1917 20
+    place:Mailly Maillet (6,32)
+    unit:Aeroplanes and Artillery (34,89)
+Page 314 (type diary) http://wd3.herokuapp.com/pages/AWD000114z  ----------
+  13 Nov 1917 20
+    place:Mailly Maillet (7,26)
+Page 315 (type diary) http://wd3.herokuapp.com/pages/AWD000113c  ----------
+  13 Nov 1917 18
+    place:Mailly-Maillet (5,29)
+  14 Nov 1917 59
+    activity:attack (29,76)
+Page 316 (type diary) http://wd3.herokuapp.com/pages/AWD000116o  ----------
+  14 Nov 1917 22
+    activity:attack (37,28)
+Page 317 (type diary) http://wd3.herokuapp.com/pages/AWD000110w  ----------
+  14 Nov 1917 20
+  15 Nov 1917 49
+    activity:attack (55,51)
+Page 318 (type diary) http://wd3.herokuapp.com/pages/AWD000111l  ----------
+  15 Nov 1917 21
+  16 Nov 1917 53
+    person:Captain Reicke (70,69)
+Page 319 (type diary) http://wd3.herokuapp.com/pages/AWD0001149  ----------
+  16 Nov 1917 0
+  17 Nov 1917 24
+    person:Lieutenant F Burn-Callendar (37,28)
+    person:D W Emery (joined) (65,28)
+    activity:attack (23,48)
+Page 320 (type diary) http://wd3.herokuapp.com/pages/AWD000116d  ----------
+  17 Nov 1917 0
+  18 Nov 1917 21
+Page 321 (type diary) http://wd3.herokuapp.com/pages/AWD00010ye  ----------
+  18 Nov 1917 20
+    activity:attack (43,29)
+  19 Nov 1917 53
+    activity:attack (34,62)
+    person:Second Lieutenant Anderson (combat) (59,70)
+  20 Nov 1917 77
+Page 322 (type diary) http://wd3.herokuapp.com/pages/AWD00010zd  ----------
+  21 Nov 1917 21
+    activity:attack (48,26)
+  22 Nov 1917 35
+  23 Nov 1917 60
+    activity:attack (21,65)
+Page 323 (type diary) http://wd3.herokuapp.com/pages/AWD000115t  ----------
+  23 Nov 1917 23
+    activity:attack (28,35)
+    unit:246 Brigade Royal Field Artillery, 49 Division (11,52)
+    person:Lieutenant Colonel Whitley (commander) (50,55)
+  24 Nov 1917 68
+    activity:attack (34,74)
+    person:Second Lieutenant Waley (departed_training) (78,78)
+    unit:V Army Artillery School opened (14,79)
+Page 324 (type diary) http://wd3.herokuapp.com/pages/AWD00010zt  ----------
+  25 Nov 1917 22
+  26 Nov 1917 36
+    person:Lieutenant Colonel Elwes (commander) (77,41)
+    unit:126 Brigade Royal Field Artillery (17,43)
+    unit:34 Brigade Royal Field Artillery (14,44)
+  27 Nov 1917 62
+  28 Nov 1917 74
+    activity:attack (19,80)
+Page 325 (type diary) http://wd3.herokuapp.com/pages/AWD0001111  ----------
+  28 Nov 1917 21
+    activity:attack (21,30)
+  29 Nov 1917 37
+    weather:rain (61,43)
+  30 Nov 1917 51
+Page 326 (type cover)
+Page 327 (type diary) http://wd3.herokuapp.com/pages/AWD000113w  ----------
+  4 Dec 1917 21
+    place:Beauvoir (6,45)
+    unit:17 Middlesex Regiment (79,46)
+    unit:17 Middlesex Reg(Footballers Battalion) (15,52)
+    unit:17 Middlesex (27,59)
+    person:Lieutenant Colonel Parry (departed_leave) (23,65)
+    domestic:inspections (69,75)
+    person:Lieutenant B Miles (author) (57,87)
+Page 328 (type diary) http://wd3.herokuapp.com/pages/AWD0001123  ----------
+  1 Dec 1917 19
+    place:Louvencourt (5,28)
+  2 Dec 1917 34
+    activity:movement (28,37)
+  3 Dec 1917 44
+    activity:movement (26,47)
+  4 Dec 1917 58
+    activity:resting (24,62)
+    activity:training (17,76)
+    domestic:sport (44,80)
+Page 329 (type cover)
+Page 330 (type cover)
+Page 331 (type diary) http://wd3.herokuapp.com/pages/AWD000111h  ----------
+  4 Dec 1917 0
+    place:Wavans (6,30)
+    unit:50 Battery (77,33)
+    activity:movement (24,35)
+    place:Frohen (6,36)
+    unit:56 & D34 (77,38)
+    place:Mezerolles (18,44)
+    activity:movement (25,48)
+    place:Authieule (6,50)
+    activity:reconnoitered (49,55)
+    person:Lieutenant Colonel C F P Parry (award) (30,78)
+    person:Second Lieutenant A I Wynne-Williams (award) (24,82)
+    activity:movement (25,87)
+    place:Bouzincourt (5,88)
+Page 332 (type diary) http://wd3.herokuapp.com/pages/AWD000115l  ----------
+  4 Dec 1917 0
+    place:Bouzincourt (5,24)
+    person:Lieutenant Colonel Oldham (commander) (77,25)
+    unit:51 Division Artillery (55,25)
+    unit:51 Division Artillery (34,25)
+    unit:34 Brigade Royal Field Artillery (13,34)
+    unit:Right group of 51 Divisional Artillery (8,35)
+    unit:51 Division (32,35)
+    unit:2 Division Artillery (23,53)
+    unit:34 & 36 Brigade Royal Field Artillery (78,58)
+    person:Lieutenant Colonel C F Parry (commander) (66,63)
+    place:Courcelette (6,77)
+    activity:other (22,80)
+    activity:attack (53,84)
+    unit:51 D A (54,87)
+Page 333 (type diary) http://wd3.herokuapp.com/pages/AWD0001185  ----------
+  4 Dec 1917 0
+    place:Courcelette (6,26)
+    activity:attack (47,52)
+    weather:fog (76,68)
+    activity:attack (24,68)
+    unit:X111 Corp (62,77)
+Page 334 (type diary) http://wd3.herokuapp.com/pages/AWD0001113  ----------
+  4 Dec 1917 0
+    place:Courcelette (6,25)
+    activity:attack (34,30)
+    activity:attack (24,86)
+Page 335 (type diary) http://wd3.herokuapp.com/pages/AWD000110v  ----------
+  4 Dec 1917 0
+    place:Courcelette (5,25)
+    activity:attack (26,84)
+Page 336 (type diary) http://wd3.herokuapp.com/pages/AWD000117p  ----------
+  4 Dec 1917 0
+    activity:working (26,47)
+    weather:cold (32,80)
+Page 337 (type diary) http://wd3.herokuapp.com/pages/AWD000114c  ----------
+  4 Dec 1917 0
+    activity:attack (28,26)
+    place:Courcelette (5,27)
+    activity:attack (19,43)
+    activity:attack (65,52)
+    unit:11 Corp (42,63)
+    activity:construction (70,85)
+    activity:working (24,86)
+    activity:enemy_activity (56,93)
+Page 338 (type diary) http://wd3.herokuapp.com/pages/AWD0001171  ----------
+  4 Dec 1917 0
+    place:Courcelette (5,27)
+    activity:attack (22,28)
+Page 339 (type diary) http://wd3.herokuapp.com/pages/AWD000115y  ----------
+  4 Dec 1917 0
+    place:Courcelette (6,26)
+    person:Captain A S Plant (departed_posted) (26,42)
+    place:Courcelette (7,46)
+    person:Captain D S Cassidy (joined) (71,47)
+Page 340 (type diary) http://wd3.herokuapp.com/pages/AWD000114r  ----------
+  4 Dec 1917 0
+    place:Courcelette (4,26)
+    activity:enemy_activity (54,48)
+    activity:quiet (23,60)
+    unit:Fifth Army (80,66)
+    unit:2 Division Artillery (25,67)
+    unit:36 & 41 Brigade Royal Field Artillery (79,72)
+    unit:34 Brigade Royal Field Artillery (12,80)
+    unit:36 & 41 Brigade Royal Field Artillery (7,81)
+    unit:Fifth Army Field Artillery Brigade (39,83)
+Page 341 (type diary) http://wd3.herokuapp.com/pages/AWD00010xx  ----------
+  4 Dec 1917 0
+    place:Courcelette (5,25)
+    person:Lieutenant B Miles (other) (42,32)
+    person:E C B Dale (commander) (64,35)
+    person:Major W A F Jones (commander) (64,39)
+    person:S A Kellagher (commander) (59,48)
+    person:Captain Putnam (commander) (64,52)
+    person:Captain R H Wilson (joined) (24,65)
+    person:Captain Cassidy (departed_posted) (35,70)
+Page 342 (type diary) http://wd3.herokuapp.com/pages/AWD0001173  ----------
+  4 Dec 1917 0
+    activity:working (35,25)
+    place:Courcelette (5,25)
+    unit:11 Corp (78,32)
+    unit:15 Division (24,58)
+    activity:attack (48,68)
+Page 343 (type diary) http://wd3.herokuapp.com/pages/AWD00010yr  ----------
+  4 Dec 1917 0
+    place:Courcelette (7,25)
+    activity:attack (30,29)
+    activity:attack (27,52)
+    activity:fire (22,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (44,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (31,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (9,76)
+    person:Lieutenant Colonel C Parry (61,89)
+Page 344 (type cover)
+Page 345 (type diary) http://wd3.herokuapp.com/pages/AWD000110q  ----------
+  4 Dec 1917 0
+    place:Courcelette (6,28)
+    unit:Brigadier Royal Field Artillery (86,44)
+    unit:36 Brigade Royal Field Artillery (79,52)
+    unit:99 Inf. Brigade (24,63)
+Page 346 (type diary) http://wd3.herokuapp.com/pages/AWD000111o  ----------
+  4 Dec 1917 0
+    place:Courcelette (5,29)
+    activity:attack (53,33)
+    unit:Officer of 71 Brigade royal field artillery (10,58)
+    activity:other (18,64)
+    unit:1 Royal Berks (64,79)
+    unit:1 Royal Berks (80,80)
+    unit:1 r berks (69,82)
+    unit:1 Royal Berks (10,88)
+    activity:attack (78,89)
+    activity:attack (25,90)
+Page 347 (type diary) http://wd3.herokuapp.com/pages/AWD0001166  ----------
+  4 Dec 1917 0
+    place:Courcelette (7,22)
+    place:Courcelette (6,30)
+    activity:attack (26,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (66,57)
+    place:Courcelette (7,79)
+    unit:99 Infantry Brigade (5,79)
+    unit:5 Infantry Brigade (5,83)
+    activity:attack (32,85)
+Page 348 (type diary) http://wd3.herokuapp.com/pages/AWD00010zx  ----------
+  4 Dec 1917 0
+    activity:fire (40,26)
+    place:Courcelette (4,27)
+    activity:attack (40,30)
+    activity:other (24,64)
+    person:Captain A F M Reicke (departed_posted) (33,77)
+    domestic:inspections (39,85)
+Page 349 (type diary) http://wd3.herokuapp.com/pages/AWD00010xq  ----------
+  4 Dec 1917 0
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,11)
+    place:Courcelette (4,24)
+    person:Major E C B Dale (departed_training) (23,25)
+    place:Albert (5,38)
+    person:Lieutenant Colonel Goschen (commander) (22,39)
+    activity:movement (61,47)
+    activity:fire (32,56)
+    place:Albert (6,61)
+    weather:cold (27,61)
+    activity:enemy_activity (58,62)
+    place:Albert (6,71)
+    activity:fire (29,76)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (77,76)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (19,81)
+    place:Albert (6,86)
+    activity:other (23,87)
+Page 350 (type diary) http://wd3.herokuapp.com/pages/AWD0001176  ----------
+  4 Dec 1917 0
+    activity:other (21,26)
+    place:Albert (5,27)
+    person:Major A H Harrison (commander) (23,44)
+    person:Second Lieutenant W D Pile (commander) (33,60)
+Page 351 (type diary) http://wd3.herokuapp.com/pages/AWD0001183  ----------
+  4 Dec 1917 0
+    place:Albert (5,28)
+    activity:attack (62,32)
+    activity:resting (56,54)
+    activity:attack (64,65)
+    place:Miraumont (29,66)
+    place:Petit Miraumont (50,66)
+    activity:attack (17,69)
+    activity:attack (47,85)
+Page 352 (type diary) http://wd3.herokuapp.com/pages/AWD000113u  ----------
+  4 Dec 1917 0
+    place:Albert (8,24)
+    place:Albert (4,27)
+    activity:attack (52,27)
+    activity:attack (15,36)
+    activity:fire (26,68)
+    place:Albert (7,77)
+    activity:attack (25,78)
+    activity:attack (44,79)
+    place:Albert (6,88)
+    activity:attack (23,89)
+Page 353 (type diary) http://wd3.herokuapp.com/pages/AWD000116q  ----------
+  4 Dec 1917 0
+Page 354 (type diary) http://wd3.herokuapp.com/pages/AWD000115g  ----------
+  4 Dec 1917 0
+    place:Albert (7,24)
+    person:Second Lieutenant J N Gidley (joined) (21,37)
+    person:Second Lieutenant H J N Hadden (joined) (48,38)
+    place:Albert (7,62)
+    activity:reconnoitered (81,71)
+    place:Albert (7,83)
+    person:Lieutenant Colonel C Parry (author) (68,91)
+Page 355 (type cover)
+Page 356 (type diary) http://wd3.herokuapp.com/pages/AWD000110p  ----------
+  4 Dec 1917 0
+    activity:movement (76,27)
+    place:Albert (6,27)
+    place:Albert (49,28)
+    activity:resting (38,29)
+    place:Courcelette (48,33)
+    activity:reconnoitered (84,41)
+    activity:enemy_activity (29,42)
+    place:Le Sars (49,45)
+    activity:movement (63,48)
+    activity:movement (26,50)
+    place:Le Sars (65,57)
+    activity:repair (43,58)
+    activity:movement (22,62)
+    place:West Miraumont (77,66)
+    place:Pozieres (72,84)
+Page 357 (type diary) http://wd3.herokuapp.com/pages/AWD000114e  ----------
+  4 Dec 1917 0
+    place:Albert (8,21)
+    place:Grevillers Trench (21,25)
+    place:Albert (6,27)
+    place:Loupart Line (81,32)
+    activity:reconnoitered (41,33)
+    activity:movement (67,36)
+    place:Lady's Leg (39,45)
+    activity:construction (36,51)
+    place:Albert (7,51)
+    activity:fire (64,60)
+    place:Le Sars (40,60)
+    place:Pozieres (75,70)
+    activity:movement (37,73)
+    activity:attack (58,80)
+    place:Albert (7,80)
+    activity:enemy_activity (33,89)
+    place:Albert (7,89)
+Page 358 (type diary) http://wd3.herokuapp.com/pages/AWD00010ys  ----------
+  4 Dec 1917 0
+    activity:movement (46,27)
+    place:Albert (6,29)
+    person:Lieutenant Colonel Parry (commander) (25,30)
+    place:Bapaume (5,73)
+Page 359 (type diary) http://wd3.herokuapp.com/pages/AWD00010z2  ----------
+  4 Dec 1917 0
+    place:Bapaume (4,28)
+    person:Second Lieutenant C M McWilliams (joined) (24,29)
+    person:Second Lieutenant A S Reynolds (joined) (54,29)
+    activity:movement (29,51)
+    place:Albert (5,52)
+    place:Bouzincourt (34,55)
+Page 360 (type diary) http://wd3.herokuapp.com/pages/AWD000117c  ----------
+  4 Dec 1917 0
+    activity:resting (30,25)
+    place:Puchvillers (5,28)
+    person:Major Dale (other) (30,34)
+    person:Second Lieutenant Waley (other) (72,34)
+    place:Aubigny (65,37)
+    activity:reconnoitered (24,43)
+    activity:movement (83,47)
+    person:Lieutenant Colonel C F Parry (commander) (70,52)
+    activity:movement (40,53)
+    place:Beauval (38,58)
+    activity:movement (74,66)
+    activity:movement (18,68)
+    place:Beauval (5,69)
+    place:Frevent (62,71)
+    place:Petit Bouret (53,74)
+    place:Bouret (69,79)
+    person:Captain Baird (commander) (28,93)
+    person:Major W A F Jones (other) (59,93)
+Page 361 (type diary) http://wd3.herokuapp.com/pages/AWD00010yb  ----------
+  4 Dec 1917 0
+    activity:other (23,32)
+    activity:movement (74,37)
+    place:Frevin (5,39)
+    place:Frevin-Capelle (4,46)
+    person:Second Lieutenant Waley (joined) (56,54)
+    person:Major E C B Dale (joined) (36,55)
+    person:Major E C B Dale (joined) (22,55)
+    activity:other (27,66)
+    person:Second Lieutenant Reynolds (departed_posted) (28,77)
+    place:Frevin-Capelle (7,83)
+    activity:reconnoitered (40,86)
+Page 362 (type diary) http://wd3.herokuapp.com/pages/AWD000110o  ----------
+  4 Dec 1917 0
+    weather:rain (24,47)
+    activity:working (55,48)
+    person:Lieutenant G Horsfield (joined) (35,71)
+    person:Second Lieutenant F H Houlston (joined) (64,71)
+Page 363 (type diary) http://wd3.herokuapp.com/pages/AWD0001159  ----------
+  4 Dec 1917 0
+    place:Anzin (66,25)
+    place:Anzin (6,26)
+    activity:movement (40,26)
+    person:Lieutenant Colonel C Parry (commander) (74,74)
+    person:Lieutenant Colonel C Parry (61,76)
+Page 364 (type ) http://wd3.herokuapp.com/pages/AWD0001137  ----------
+  4 Dec 1917 0
+Page 365 (type cover)
+Page 366 (type diary) http://wd3.herokuapp.com/pages/AWD000112k  ----------
+  4 Dec 1917 0
+    place:Anzin (6,32)
+    person:Lieutenant Colonel Duncan (commander) (64,39)
+    activity:other (46,83)
+    weather:rain (25,84)
+    activity:reconnoitered (77,93)
+Page 367 (type diary) http://wd3.herokuapp.com/pages/AWD000115m  ----------
+  4 Dec 1917 0
+    place:Anzin (4,30)
+    place:Roclincourt (59,33)
+    place:Ecurie (39,34)
+    activity:reconnoitered (54,38)
+    activity:attack (63,67)
+Page 368 (type diary) http://wd3.herokuapp.com/pages/AWD000119m  ----------
+  4 Dec 1917 0
+Page 369 (type diary) http://wd3.herokuapp.com/pages/AWD000115x  ----------
+  4 Dec 1917 0
+    unit:64 Army Field Artillery Brigade (4,56)
+    unit:51 Division Ammo Column (7,56)
+    unit:64 Army Field Artillery Brigade (23,56)
+    unit:51 Division Amm Column (67,57)
+    place:Ecurie (5,67)
+    activity:movement (13,71)
+    activity:attack (15,80)
+Page 370 (type diary) http://wd3.herokuapp.com/pages/AWD0001158  ----------
+  4 Dec 1917 0
+    place:Ecurie (4,27)
+    activity:attack (32,91)
+Page 371 (type diary) http://wd3.herokuapp.com/pages/AWD000111k  ----------
+  4 Dec 1917 0
+    activity:attack (33,26)
+    place:Ecurie (6,26)
+    place:Ecurie (6,74)
+    activity:attack (35,76)
+Page 372 (type diary) http://wd3.herokuapp.com/pages/AWD000119e  ----------
+  4 Dec 1917 0
+    activity:attack (33,30)
+    activity:attack (35,69)
+Page 373 (type diary) http://wd3.herokuapp.com/pages/AWD000114h  ----------
+  4 Dec 1917 0
+    place:Ecurie (7,26)
+    domestic:rations (64,59)
+    activity:attack (31,73)
+Page 374 (type diary) http://wd3.herokuapp.com/pages/AWD00010zq  ----------
+  4 Dec 1917 0
+Page 375 (type diary) http://wd3.herokuapp.com/pages/AWD000111m  ----------
+  4 Dec 1917 0
+    place:Ecurie (5,27)
+    activity:attack (18,85)
+Page 376 (type diary) http://wd3.herokuapp.com/pages/AWD00010yx  ----------
+  4 Dec 1917 0
+    place:Ecurie (5,26)
+    activity:attack (72,35)
+Page 377 (type diary) http://wd3.herokuapp.com/pages/AWD000114g  ----------
+  4 Dec 1917 0
+    place:Ecurie (5,24)
+    time:0530AM (14,73)
+    activity:attack (42,74)
+    weather:rain (21,82)
+    activity:enemy_activity (47,83)
+    activity:fire (32,91)
+Page 378 (type diary) http://wd3.herokuapp.com/pages/AWD000110e  ----------
+  4 Dec 1917 0
+    place:Ecurie (4,27)
+    activity:fire (25,35)
+    weather:rain (22,64)
+    activity:fire (25,70)
+Page 379 (type diary) http://wd3.herokuapp.com/pages/AWD000117u  ----------
+  4 Dec 1917 0
+    place:Ecurie (4,25)
+    activity:attack (22,32)
+    activity:enemy_activity (24,71)
+Page 380 (type diary) http://wd3.herokuapp.com/pages/AWD000112a  ----------
+  4 Dec 1917 0
+    activity:reconnoitered (75,50)
+    unit:Canadians (60,62)
+Page 381 (type diary) http://wd3.herokuapp.com/pages/AWD000115v  ----------
+  4 Dec 1917 0
+    activity:movement (45,43)
+    place:Anzin (32,51)
+Page 382 (type diary) http://wd3.herokuapp.com/pages/AWD000116z  ----------
+  4 Dec 1917 0
+    place:Ecurie (6,25)
+    activity:movement (25,30)
+    activity:attack (61,43)
+    activity:attack (53,69)
+Page 383 (type diary) http://wd3.herokuapp.com/pages/AWD00010y8  ----------
+  4 Dec 1917 0
+    place:Ecurie (3,27)
+    activity:attack (75,64)
+Page 384 (type diary) http://wd3.herokuapp.com/pages/AWD0001177  ----------
+  4 Dec 1917 0
+    place:Ecurie (5,25)
+    activity:repair (51,27)
+    activity:movement (23,36)
+    activity:enemy_activity (72,59)
+Page 385 (type diary) http://wd3.herokuapp.com/pages/AWD000116h  ----------
+  4 Dec 1917 0
+    place:Ecurie (7,37)
+    activity:attack (25,66)
+    place:Ecurie (6,77)
+    activity:movement (24,78)
+Page 386 (type diary) http://wd3.herokuapp.com/pages/AWD00010yf  ----------
+  4 Dec 1917 0
+    place:Ecurie (9,23)
+    place:Ecurie (6,26)
+    activity:resupplying (22,27)
+    activity:movement (24,41)
+    activity:movement (15,55)
+    activity:fire (29,61)
+    place:Roclincourt (7,70)
+    activity:attack (26,84)
+    person:Major A H Harrison (29,92)
+Page 387 (type diary) http://wd3.herokuapp.com/pages/AWD0001154  ----------
+  4 Dec 1917 0
+    place:Roclincourt (5,26)
+    person:Captain C Putnam (departed_posted) (24,28)
+    place:Roclincourt (7,42)
+    activity:attack (24,43)
+    activity:attack (25,77)
+Page 388 (type diary) http://wd3.herokuapp.com/pages/AWD0001178  ----------
+  4 Dec 1917 0
+    place:Roclincourt (6,26)
+    activity:attack (39,59)
+    person:Second Lieutenant G H W Parkin (joined) (22,80)
+Page 389 (type diary) http://wd3.herokuapp.com/pages/AWD000115n  ----------
+  4 Dec 1917 0
+    place:Roclincourt (7,25)
+    activity:fire (40,26)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 1 (41,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (58,56)
+    person:Captain R H Wilson (casualty_wounded) (25,56)
+    person:Captain Tait (joined) (46,65)
+    activity:fire (34,78)
+    casualties:died: 0; killed: 7; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,85)
+    casualties:died: 0; killed: 7; missing: 0; prisoner: 0; sick: 0; wounded: 0 (56,86)
+    activity:attack (70,92)
+Page 390 (type diary) http://wd3.herokuapp.com/pages/AWD00010yw  ----------
+  4 Dec 1917 0
+    place:Roclincourt (4,28)
+    activity:attack (30,31)
+    place:Douai (20,81)
+Page 391 (type diary) http://wd3.herokuapp.com/pages/AWD000116m  ----------
+  4 Dec 1917 0
+    place:Roclincourt (5,27)
+    time:0435AM (46,31)
+    time:0515AM (40,34)
+    activity:attack (25,37)
+    time:0430PM (35,42)
+    time:0630PM (48,42)
+    activity:fire (55,45)
+    unit:50 Battery (50,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (34,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (46,53)
+    activity:attack (30,58)
+    activity:attack (56,59)
+    activity:attack (32,76)
+Page 392 (type diary) http://wd3.herokuapp.com/pages/AWD0001103  ----------
+  4 Dec 1917 0
+    activity:fire (42,26)
+    place:Roclincourt (5,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,43)
+    unit:Xiii corp (64,50)
+    unit:Canadians (79,51)
+    unit:Canadians & 13 corps (77,51)
+    unit:5 & 6 Infantry Brigades (68,55)
+    activity:attack (33,65)
+Page 393 (type diary) http://wd3.herokuapp.com/pages/AWD00010z8  ----------
+  4 Dec 1917 0
+    place:Roclincourt (6,28)
+    unit:Canadians (48,35)
+    activity:attack (37,43)
+    activity:attack (62,66)
+Page 394 (type diary) http://wd3.herokuapp.com/pages/AWD000119l  ----------
+  4 Dec 1917 0
+    place:Roclincourt (5,28)
+    person:Lieutenant Colonel C Parry (67,83)
+Page 395 (type ) http://wd3.herokuapp.com/pages/AWD000113a  ----------
+  4 Dec 1917 0

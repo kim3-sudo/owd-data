@@ -1,0 +1,301 @@
+GWD0000009 wo/95/1111/3
+1 CAVALRY DIVISION: `L' Battery Royal Horse Artillery 
+20 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD00001hk  ----------
+  5 Aug 1914 24
+    place:Aldershot (7,26)
+    activity:movement (42,27)
+  15 Aug 1914 31
+    time:1030PM (22,32)
+    reference:SS Rowanmore (67,37)
+  16 Aug 1914 40
+    activity:movement (30,42)
+    activity:movement (46,42)
+    time:1000AM (22,44)
+    place:Boulogne (41,47)
+    time:0830PM (22,48)
+    activity:movement (31,49)
+  17 Aug 1914 50
+    time:0800AM (21,53)
+    place:France (7,54)
+  19 Aug 1914 55
+    place:Boulogne (46,56)
+    time:0200PM (22,58)
+    activity:movement (33,58)
+  20 Aug 1914 59
+    place:Maubeuge (42,62)
+    activity:movement (54,63)
+    time:0900AM (22,64)
+    place:Aibes (35,66)
+    activity:movement (30,69)
+  21 Aug 1914 70
+    place:Givry (40,72)
+    reference:General Allenby (40,80)
+    person:General Allenby (other) (41,82)
+    place:Mons (69,88)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD00001hl  ----------
+  21 Aug 1914 22
+    place:Harmignies (33,23)
+    activity:reconnoitered (66,26)
+    place:Saint Symphorien (32,27)
+    place:Bois de Havre (49,27)
+    activity:movement (61,34)
+    place:Harmignies (31,38)
+    unit:Royal Horse Artillery (41,42)
+    unit:1 Cavalry Brigade (56,44)
+    activity:movement (49,46)
+  22 Aug 1914 47
+    unit:1 Cavalry Brigade (67,49)
+    place:Villers Saint Chislain (47,54)
+    activity:fire (37,61)
+    time:1255PM (41,61)
+    place:Harmignies (33,65)
+    activity:movement (52,65)
+    place:Quievrain (38,69)
+  23 Aug 1914 72
+    domestic:accomodation (28,73)
+    unit:I Battery (71,74)
+    unit:4 Cavalry Brigade (61,76)
+    activity:movement (71,77)
+    unit:E Battery (46,81)
+    unit:1 Cavalry Division e Battery Royal Horse Artillery (44,81)
+    time:0800PM (29,82)
+    place:Baisseux (37,86)
+    time:1200AM (54,86)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD00001hh  ----------
+  24 Aug 1914 21
+    place:Wiheries (51,21)
+    activity:movement (30,22)
+    unit:2 Cavalry Brigade (57,25)
+    person:General De Lisle (other) (43,25)
+    place:Elouges (28,30)
+    activity:attack (52,32)
+    place:Thulin (72,36)
+    activity:fire (67,47)
+    activity:withdraw (34,51)
+    unit:2 Cavalry Brigade (52,54)
+    place:Angre (61,57)
+    place:Audregnies (38,58)
+    unit:5 Infantry Division (31,65)
+    place:Elouges (68,65)
+    person:General De Lisle (other) (67,69)
+    activity:movement (28,73)
+    place:Audregnies (68,73)
+    place:Elouges (31,77)
+    person:General De Lisle (other) (39,79)
+    place:Quievrain (37,87)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD00001hv  ----------
+  24 Aug 1914 21
+    place:Audregnies (70,22)
+    activity:fire (61,26)
+    activity:attack (29,32)
+    place:Quievrain (64,32)
+    unit:9 Lancers (54,41)
+    unit:4 Dragoon Guards (65,42)
+    activity:attack (55,54)
+    person:Captain Hamilton Grace (other) (59,64)
+    activity:withdraw (28,67)
+    place:Quievrain (68,90)
+    place:Audregnies (58,94)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD00001hs  ----------
+  24 Aug 1914 0
+    casualties:died: 0; killed: 0; missing: 2; prisoner: 0; sick: 0; wounded: 8 (1,10)
+    place:Ruesnes (61,25)
+    activity:movement (48,25)
+    reference:See Map of action on next paper (84,30)
+    casualties:died: 0; killed: 0; missing: 2; prisoner: 0; sick: 0; wounded: 8 (49,33)
+    casualties:died: 0; killed: 0; missing: 2; prisoner: 0; sick: 0; wounded: 7 (59,40)
+    person:Lieutenant J E Marston (casualty_wounded) (35,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 7 (41,48)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD00001i0  ----------
+  Hashtags: #map 
+  24 Aug 1914 0
+    place:Thulin (67,27)
+    place:Quievrain (19,29)
+    mapRef:Action of 24th Aug (52,35)
+    place:Baisseux (13,47)
+    place:Audregnies (23,64)
+    place:Wiheries (56,72)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD00001hy  ----------
+  25 Aug 1914 22
+    time:0100AM (38,24)
+    activity:movement (28,24)
+    place:Wargnies-le-Petit (53,24)
+    place:Orsinval (51,27)
+    unit:2 Cavalry Brigade (48,30)
+    activity:withdraw (30,34)
+    unit:Cavalry Division (68,36)
+    time:0500PM (57,41)
+    unit:2 Cavalry Brigade (66,41)
+    unit:1 Cavalry Brigade, D, E and L Batteries (66,41)
+    place:Vertain (38,41)
+    unit:D Battery (32,45)
+    unit:E Battery (35,45)
+    unit:D E & L Batteries (33,46)
+    activity:fire (44,48)
+    unit:Royal Field Artillery (58,55)
+    unit:British Infantry (34,56)
+    unit:Transport & Royal Field Artillery (50,56)
+    place:Vertain (51,71)
+    unit:L Battery, Cavalry Division (38,76)
+    activity:movement (52,87)
+    place:Le Cateau (69,88)
+    reference:fall of british infantry (37,93)
+    unit:British Infantry (42,93)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD00001hg  ----------
+  25 Aug 1914 21
+    activity:movement (37,24)
+    unit:1 Cavalry Brigade (54,27)
+  26 Aug 1914 35
+    time:0400AM (41,38)
+    activity:movement (31,38)
+    unit:1 Army (34,54)
+    unit:1 Cavalry Brigade (56,55)
+    unit:L & E Batteries (67,55)
+    activity:fire (66,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,81)
+    unit:2 Corps (31,87)
+    weather:rain (66,89)
+    activity:movement (55,89)
+    time:0200AM (57,93)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD00001i2  ----------
+  27 Aug 1914 22
+    activity:movement (30,24)
+    activity:movement (62,24)
+    time:0400AM (35,25)
+    place:Saint Quentin (35,29)
+    reference:VDAC (81,35)
+    activity:movement (35,51)
+  28 Aug 1914 52
+    place:Saint Quentin (70,55)
+    time:0430AM (48,55)
+    activity:reconnoitered (66,60)
+    activity:movement (32,70)
+    place:Berlancourt (34,74)
+  29 Aug 1914 77
+    activity:movement (36,81)
+    unit:2 Cavalry Brigade (65,81)
+    time:1100AM (72,86)
+    activity:enemy_activity (51,90)
+    activity:fire (56,90)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD00001hi  ----------
+  29 Aug 1914 22
+    activity:attack (63,24)
+    activity:withdraw (67,28)
+    activity:withdraw (58,40)
+    place:Noyon (61,44)
+    unit:1 Cavalry Brigade (56,53)
+    unit:2 Cavalry Brigade (42,56)
+    activity:attack (32,62)
+    activity:withdraw (70,75)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD00001hm  ----------
+  29 Aug 1914 0
+    unit:1 Cavalry Brigade (54,39)
+    activity:fire (63,40)
+    reference:bailly mid way between Noyon & Choisey au Bac (48,52)
+    place:Noyon (29,52)
+    place:Bailly (47,52)
+    unit:1 Cavalry Brigade (38,56)
+  30 Aug 1914 59
+  31 Aug 1914 75
+    place:Compiegne (70,78)
+    unit:Cavalry Division (60,81)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD00001hq  ----------
+  31 Aug 1914 19
+    unit:1 Cavalry Brigade (38,25)
+    activity:movement (36,26)
+    place:Verberie (32,29)
+    place:Nery (43,32)
+  1 Sep 1914 51
+    time:0430AM (50,54)
+    time:0500AM (37,75)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD00001hp  ----------
+  1 Sep 1914 21
+    person:Major Sclater-Booth (casualty_wounded) (47,42)
+    reference:See Map on Page 15 (85,48)
+    person:Captain Bradbury (combat) (51,79)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD00001hd  ----------
+  1 Sep 1914 20
+    activity:attack (39,25)
+    person:Sergeant Nelson (combat) (58,26)
+    person:Derbyshire (combat) (33,31)
+    person:Lieutenant Mundy (combat) (66,38)
+    person:Captain Bradbury (combat) (33,39)
+    person:Lieutenant Campbell (combat) (51,39)
+    person:Captain Bradbury (casualty_kia) (59,46)
+    person:Driver Osborne (combat) (41,47)
+    reference:Map on page 15 (85,50)
+    person:Lieutenant Mundy (casualty_wounded) (67,50)
+    person:Lieutenant Campbell (casualty_kia) (34,51)
+    person:Sergeant Nelson (casualty_wounded) (40,55)
+    unit:Vth dgs (47,59)
+    unit:Bays (30,68)
+    reference:See Map on Page 15 (86,86)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD00001hf  ----------
+  1 Sep 1914 20
+    unit:Somerset Light Infantry (52,26)
+    unit:Household Cavalry (33,27)
+    unit:Middlesex Regiment (33,30)
+    person:Captain Brown (other) (55,51)
+    casualties:died: 0; killed: 22; missing: 0; prisoner: 0; sick: 0; wounded: 32 (30,67)
+    person:Captain Bradbury (casualty_kia) (38,75)
+    person:Lieutenant Giffard (casualty_wounded) (56,78)
+    person:Lieutenant Campbell (casualty_kia) (36,80)
+    person:Lieutenant Mundy (casualty_died) (59,81)
+    casualties:died: 0; killed: 20; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,84)
+Page 18 (type cover)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD00001hj  ----------
+  2 Sep 1914 17
+    activity:movement (29,21)
+    time:1000PM (71,21)
+    unit:14 Brigade Ammunition Column (45,21)
+  3 Sep 1914 23
+    time:0900PM (37,24)
+    unit:32 Brigade Royal Field Artillery (61,24)
+    activity:movement (28,26)
+  4 Sep 1914 29
+    person:Lieutenant Colonel Biddulph (other) (33,29)
+    place:Champs (58,32)
+    place:Jossigny (72,32)
+    activity:movement (30,34)
+    place:Bussy (29,38)
+    place:Torcy (40,38)
+    unit:7 Brigade Ammunition Column (50,43)
+    unit:7 Brigade Amm Col (50,44)
+    unit:D of I (68,51)
+  5 Sep 1914 57
+    place:Mormont (60,61)
+    activity:movement (32,61)
+    time:0300AM (39,61)
+    time:0900PM (29,65)
+  6 Sep 1914 66
+    place:Melun (62,70)
+    time:0330AM (70,70)
+    activity:movement (30,71)
+    time:0100AM (31,71)
+    time:1030AM (38,74)
+    place:Le Mans (60,75)
+    time:0400PM (69,76)
+    person:Colonel Eastwood (other) (69,77)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD00001hz  ----------
+  8 Sep 1914 19
+    unit:A O D Maroc (32,28)
+  12 Oct 1914 32
+    unit:D A G Base (66,33)
+    unit:R H A (35,42)
+    unit:A O D Maroc (64,44)
+  17 Oct 1914 52
+    person:Battery Sergeant Major Dorrell (other) (56,56)
+    unit:Le Mans (43,56)
+    place:Le Mans (41,56)
+  18 Oct 1914 65
+    place:Havre (36,68)
+    activity:movement (28,68)
+  19 Oct 1914 70
+    time:1000AM (48,72)
+    activity:movement (28,73)
+    place:Southampton (39,74)
+    time:0845PM (36,76)

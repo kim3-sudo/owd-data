@@ -1,0 +1,1715 @@
+GWD00000mr wo/95/1281/2
+1 DIVISION:  3 Infantry Brigade: 2 Battalion Welsh Regiment.  
+179 pages
+
+Page 100 (type cover)
+Page 101 (type cover)
+Page 102 (type cover)
+Page 103 (type signals) http://wd3.herokuapp.com/pages/AWD00039ad  ----------
+Page 104 (type cover)
+Page 105 (type diary) http://wd3.herokuapp.com/pages/AWD00039b4  ----------
+  1 Jan 1915 28
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 2 (50,50)
+    casualties:died: 0; killed: 0; missing: 1; prisoner: 0; sick: 0; wounded: 2 (35,50)
+Page 106 (type diary) http://wd3.herokuapp.com/pages/AWD000399v  ----------
+  2 Jan 1915 28
+    activity:quiet (43,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (39,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (52,36)
+    weather:rain (38,38)
+    activity:enemy_activity (48,39)
+  3 Jan 1915 43
+    activity:repair (39,47)
+    casualties:died: 0; killed: 2; missing: 1; prisoner: 0; sick: 0; wounded: 1 (39,55)
+  4 Jan 1915 57
+    activity:enemy_activity (42,65)
+Page 107 (type diary) http://wd3.herokuapp.com/pages/AWD000398m  ----------
+  5 Jan 1915 28
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,35)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (56,35)
+  6 Jan 1915 38
+    person:Lieutenant Allaway (casualty_wounded) (37,44)
+  7 Jan 1915 48
+    activity:repair (35,64)
+    unit:17 Lancers (55,72)
+    unit:Vi indian Cavalry (58,72)
+    unit:17 Lancers (34,72)
+    unit:6 Indian Cavalry (49,73)
+    unit:17 lancers & 6 indian Cavalry (37,73)
+    place:Bethune (65,75)
+    activity:movement (45,75)
+Page 108 (type diary) http://wd3.herokuapp.com/pages/AWD0003992  ----------
+  7 Jan 1915 29
+  8 Jan 1915 52
+    person:Sergeant Mack (48,67)
+    person:Sergeant Joshua (57,67)
+    person:Captain C E Smith (joined) (36,70)
+    person:Captain Smith (43,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (51,79)
+Page 109 (type diary) http://wd3.herokuapp.com/pages/AWD000398x  ----------
+  8 Jan 1915 0
+  9 Jan 1915 27
+    place:Bethune (28,30)
+    domestic:accomodation (54,32)
+  14 Jan 1915 33
+    activity:movement (55,38)
+    unit:The Gloucesters (53,44)
+    unit:1 Battalion, Queens Own Cameron Highlanders (35,45)
+    unit:Queens (56,45)
+    place:Givenchy (37,51)
+    unit:S.W.B. (60,53)
+    unit:1 Battalion, South Wales Borderers (59,54)
+  15 Jan 1915 70
+    mapRef:36C N.W. (48,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (64,70)
+    activity:line (39,76)
+    person:Second Lieutenant A R O Peck (joined) (50,76)
+    person:Second Lieutenant H T Walker (joined) (34,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,81)
+Page 110 (type diary) http://wd3.herokuapp.com/pages/AWD000398u  ----------
+  16 Jan 1915 28
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,34)
+  17 Jan 1915 35
+    activity:fire (48,39)
+    activity:repair (40,52)
+  18 Jan 1915 55
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,55)
+    weather:rain (43,59)
+    weather:cold (45,78)
+Page 111 (type diary) http://wd3.herokuapp.com/pages/AWD00039an  ----------
+  18 Jan 1915 28
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (46,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (55,32)
+    person:Private Church (combat) (49,35)
+    activity:reconnoitered (44,43)
+    person:Second Lieutenant James (combat) (59,49)
+    person:Sergeant Evans (other) (35,78)
+    person:Lance Corporal Davies (other) (48,78)
+Page 112 (type diary) http://wd3.herokuapp.com/pages/AWD0003981  ----------
+  18 Jan 1915 28
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (56,34)
+  19 Jan 1915 35
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (47,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,38)
+    weather:cold (48,46)
+  20 Jan 1915 55
+    activity:repair (52,55)
+    activity:repair (44,64)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (47,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (56,79)
+    person:Hayes (casualty_wounded) (38,79)
+    person:Private Price (discipline) (51,81)
+Page 113 (type diary) http://wd3.herokuapp.com/pages/AWD000397j  ----------
+  21 Jan 1915 26
+  22 Jan 1915 35
+    activity:quiet (52,35)
+    weather:rain (44,38)
+    activity:reconnoitered (59,61)
+Page 114 (type diary) http://wd3.herokuapp.com/pages/AWD000397f  ----------
+  23 Jan 1915 29
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (59,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (40,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (49,62)
+    unit:1 Battalion, Black Watch (51,65)
+    unit:Black Watch (48,65)
+    mapRef:36C N.W. (44,73)
+    unit:1 Battalion, Black Watch (38,73)
+Page 115 (type diary) http://wd3.herokuapp.com/pages/AWD00039c4  ----------
+  24 Jan 1915 28
+    activity:repair (37,43)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 3 (55,46)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 3 (30,47)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 3 (46,47)
+    activity:fire (44,57)
+Page 116 (type diary) http://wd3.herokuapp.com/pages/AWD00039az  ----------
+  25 Jan 1915 29
+    activity:fire (50,33)
+    activity:line (30,35)
+    activity:fire (59,40)
+Page 117 (type diary) http://wd3.herokuapp.com/pages/AWD00039at  ----------
+  25 Jan 1915 29
+    activity:fire (39,34)
+    activity:fire (41,45)
+    person:Second Lieutenant James (62,59)
+    person:Corporal W Thomas (combat) (35,78)
+Page 118 (type diary) http://wd3.herokuapp.com/pages/AWD00039b3  ----------
+  25 Jan 1915 28
+    person:Private L Rogers (combat) (44,32)
+    person:Lieutenant Robert Leycester (combat) (37,44)
+    person:Sergeant Harvey (award) (35,73)
+    person:Private Casey (award) (48,73)
+    person:Sergeant Major Scott (award) (33,75)
+    person:Sergeant Phillips (award) (44,76)
+    person:Lance Corporal Jeffries (award) (59,76)
+    person:Corporal Jones (award) (36,78)
+Page 119 (type diary) http://wd3.herokuapp.com/pages/AWD000398g  ----------
+  25 Jan 1915 29
+    person:Lance Corporal Southern (award) (35,35)
+    person:Sergeant Walsh (award) (35,41)
+    person:Corporal Finnaghen (award) (60,41)
+    person:Second Lieutenant F H S Hawkesworth (casualty_kia) (59,49)
+    person:Second Lieutenant J A G Leask (casualty_wounded) (60,55)
+    casualties:died: 0; killed: 18; missing: 0; prisoner: 0; sick: 0; wounded: 38 (38,63)
+    casualties:died: 0; killed: 18; missing: 0; prisoner: 0; sick: 0; wounded: 38 (56,64)
+Page 120 (type diary) http://wd3.herokuapp.com/pages/AWD00039am  ----------
+  26 Jan 1915 29
+    person:Second Lieutenant P A Hibbert (joined) (61,52)
+    person:Captain C R Beckeley (joined) (40,53)
+    person:Second Lieutenant J T Vincent (joined) (56,55)
+    person:Second Lieutenant P A Hibbert (joined) (34,55)
+  27 Jan 1915 58
+    activity:fire (44,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (51,78)
+Page 121 (type diary) http://wd3.herokuapp.com/pages/AWD00039ah  ----------
+  28 Jan 1915 29
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (64,32)
+  29 Jan 1915 33
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (45,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (57,36)
+  30 Jan 1915 38
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 1 (36,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (65,40)
+    person:Sergeant J Saunders (departed_leave) (38,44)
+    person:Private J Williams (departed_leave) (58,44)
+    activity:fire (56,53)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 3 (64,58)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 8 (51,61)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 8 (50,75)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 8 (66,76)
+Page 122 (type diary) http://wd3.herokuapp.com/pages/AWD00039bx  ----------
+  31 Jan 1915 28
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,32)
+    activity:fire (51,38)
+    unit:S.W.Bs (40,41)
+    unit:1 Battalion, South Wales Borderers (43,42)
+  1 Feb 1915 44
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (64,52)
+  2 Feb 1915 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (49,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (58,58)
+    activity:fire (37,60)
+    place:Givenchy (27,62)
+    person:Captain G H Stevenson (joined) (39,67)
+    person:Lieutenant Bull (casualty_wounded) (34,76)
+Page 123 (type diary) http://wd3.herokuapp.com/pages/AWD00039bz  ----------
+  3 Feb 1915 29
+    activity:quiet (39,35)
+    unit:Kings Regiment,2 Division (59,37)
+    unit:The Kings Regiment (49,38)
+    unit:1 Battalion, Kings (Liverpool) Regiment (52,39)
+    unit:1 Kings (30,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,50)
+    activity:movement (47,53)
+    place:Bethune (38,55)
+    domestic:rations (50,59)
+    activity:movement (48,62)
+    domestic:accomodation (49,65)
+  4 Feb 1915 67
+    person:Sergeant Evans (departed_leave) (39,73)
+    person:Lance Corporal T Davies (departed_leave) (51,73)
+  5 Feb 1915 75
+Page 124 (type diary) http://wd3.herokuapp.com/pages/AWD000397y  ----------
+  6 Feb 1915 28
+    person:Lieutenant Bull (joined) (35,34)
+    person:Captain Campbell (joined) (34,37)
+    person:Second Lieutenant Cupps (joined) (54,38)
+    person:Lieutenant Gilbey (departed_leave) (50,46)
+    person:Major Longcroft (other) (33,54)
+Page 125 (type diary) http://wd3.herokuapp.com/pages/AWD00039c7  ----------
+  9 Feb 1915 28
+  10 Feb 1915 32
+    person:Sergeant Allen (departed_leave) (40,32)
+    person:Second Lieutenant W B Butler (joined) (42,35)
+  14 Feb 1915 38
+    person:Private Beaumont (departed_leave) (40,41)
+  15 Feb 1915 44
+    person:Second Lieutenant Dibdin (returned_hospital) (42,44)
+    person:Lieutenant Gilbey (returned_leave) (45,47)
+    person:Lieutenant W G Hewett (returned_leave) (55,47)
+    person:Second Lieutenant K Woodroffe (returned_leave) (35,50)
+    person:Captain T P Aldworth (departed_leave) (54,52)
+    person:Lieutenant N P J Turner (departed_leave) (47,55)
+    person:Second Lieutenant L Margrave (joined) (35,64)
+    person:Second Lieutenant C T Hoare (joined) (35,67)
+Page 126 (type diary) http://wd3.herokuapp.com/pages/AWD000399n  ----------
+  16 Feb 1915 29
+    domestic:sport (54,32)
+  21 Feb 1915 41
+    person:Company Sergeant Major Scott (departed_leave) (41,44)
+    person:Driver Whiting (departed_leave) (57,44)
+  20 Feb 1915 46
+    person:Major A G Prothero (joined) (43,50)
+    person:Lieutenant F I P Wells (joined) (34,55)
+  23 Feb 1915 61
+    domestic:inspections (50,67)
+    person:General Munro (commander) (38,69)
+Page 127 (type diary) http://wd3.herokuapp.com/pages/AWD00039bk  ----------
+  23 Feb 1915 29
+    person:Major Prothero (commander) (36,35)
+Page 128 (type diary) http://wd3.herokuapp.com/pages/AWD00039ao  ----------
+  23 Feb 1915 29
+    person:Captain M M Campbell (departed_leave) (36,67)
+    person:Captain W M Hore (departed_leave) (55,67)
+    person:Second Lieutenant C E H James (departed_leave) (36,70)
+Page 129 (type cover)
+Page 130 (type diary) http://wd3.herokuapp.com/pages/AWD000397r  ----------
+  23 Feb 1915 0
+    activity:repair (45,63)
+Page 131 (type diary) http://wd3.herokuapp.com/pages/AWD000399e  ----------
+  25 Feb 1915 42
+    domestic:parades (43,46)
+    activity:movement (57,47)
+    domestic:accomodation (60,48)
+    person:Sergeant Fortune (departed_leave) (40,50)
+  27 Feb 1915 51
+    activity:movement (45,54)
+    domestic:accomodation (49,56)
+    place:Essars (56,56)
+    person:Second Lieutenant Hewett (casualty_wounded) (44,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (54,58)
+  3 Mar 1915 59
+    activity:movement (47,62)
+  7 Mar 1915 63
+    activity:movement (57,65)
+    place:Festubert (42,68)
+    unit:A Coy, 2 Bn. Welsh Regiment (55,69)
+    unit:B Coy, 2 Bn. Welsh Regiment (57,70)
+    unit:C Coy, 2 Bn. Welsh Regiment (54,71)
+    unit:South Wales Borders (35,71)
+    unit:D Coy, 2 Bn. Welsh Regiment (55,73)
+Page 132 (type diary) http://wd3.herokuapp.com/pages/AWD000397w  ----------
+  7 Mar 1915 41
+    activity:working (48,48)
+    unit:Royal Engineers (59,48)
+  8 Mar 1915 54
+    domestic:hygiene (53,54)
+  9 Mar 1915 56
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (44,56)
+  10 Mar 1915 58
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (52,58)
+    activity:fire (60,58)
+    activity:attack (48,65)
+    unit:6 Brigade (44,74)
+Page 133 (type diary) http://wd3.herokuapp.com/pages/AWD000399f  ----------
+  10 Mar 1915 40
+    place:Givenchy (38,43)
+    unit:7 Division (59,43)
+    unit:8 Division (38,47)
+    place:Aubers (40,48)
+    activity:fire (55,57)
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 2 (54,65)
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 2 (41,66)
+  11 Mar 1915 70
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (51,72)
+Page 134 (type diary) http://wd3.herokuapp.com/pages/AWD0003983  ----------
+  12 Mar 1915 39
+    activity:fire (54,41)
+  13 Mar 1915 47
+  14 Mar 1915 50
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (51,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (43,55)
+    unit:2 r sussex (48,57)
+    person:Lance Corporal Davies (award) (39,62)
+    person:Private Dudley (award) (46,62)
+    person:Private Davies (casualty_mia) (53,65)
+    person:Lieutenant C Wells (casualty_mia) (39,66)
+    person:Private Aldridge (casualty_mia) (45,68)
+    person:Sergeant Smedley (casualty_mia) (53,68)
+    person:Private Aldridge (other) (47,74)
+Page 135 (type diary) http://wd3.herokuapp.com/pages/AWD00039b9  ----------
+  14 Mar 1915 40
+    person:Private Church (other) (47,50)
+    activity:reconnoitered (40,50)
+  15 Mar 1915 61
+    domestic:accomodation (50,64)
+  16 Mar 1915 65
+    place:Locon (43,65)
+  21 Mar 1915 68
+    person:Lieutenant Wells (departed_leave) (54,71)
+Page 136 (type diary) http://wd3.herokuapp.com/pages/AWD00039a7  ----------
+  22 Mar 1915 39
+    person:Second Lieutenant E F Hirtzel (joined) (47,42)
+    person:Second Lieutenant C V Miles (joined) (40,45)
+  24 Mar 1915 47
+    activity:movement (51,49)
+    place:Neuve Chapelle (58,49)
+    unit:Unreadable (54,51)
+    time:0100PM (50,53)
+    activity:movement (44,53)
+    place:Neuve Chapelle (59,56)
+    activity:line (44,60)
+Page 137 (type diary) http://wd3.herokuapp.com/pages/AWD00039a3  ----------
+  25 Mar 1915 41
+    person:Second Lieutenant W T Wootton (returned_hospital) (50,46)
+  26 Mar 1915 49
+    activity:line (44,54)
+  27 Mar 1915 56
+    unit:1 Battalion, Gloucestershire Regiment (58,56)
+    unit:2 Battalion, Royal Munster Fusiliers (40,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (55,58)
+    activity:line (37,58)
+    activity:line (46,58)
+  28 Mar 1915 59
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 9 (40,62)
+    person:Second Lieutenant G R M Crofts (joined) (42,63)
+    activity:line (42,63)
+  29 Mar 1915 64
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 13 (49,66)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 13 (61,66)
+    activity:line (41,67)
+  30 Mar 1915 68
+    person:Lieutenant Wells (returned_leave) (46,68)
+  31 Mar 1915 70
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (51,70)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 7 (61,70)
+    activity:line (43,70)
+    activity:fire (45,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (50,72)
+    activity:fire (43,72)
+Page 138 (type cover)
+Page 139 (type diary) http://wd3.herokuapp.com/pages/AWD000399u  ----------
+  2 Apr 1915 45
+    activity:line (43,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 6 (49,45)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 9 (53,47)
+  3 Apr 1915 55
+    activity:fire (43,57)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 12 (61,58)
+    time:0440AM (44,58)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (53,61)
+  4 Apr 1915 62
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (50,64)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 7 (62,64)
+    activity:fire (42,65)
+Page 140 (type diary) http://wd3.herokuapp.com/pages/AWD000399m  ----------
+  4 Apr 1915 42
+Page 141 (type diary) http://wd3.herokuapp.com/pages/AWD00039b0  ----------
+  4 Apr 1915 40
+    casualties:died: 0; killed: 5; missing: 0; prisoner: 0; sick: 0; wounded: 59 (37,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 59 (50,43)
+Page 142 (type diary) http://wd3.herokuapp.com/pages/AWD00039bq  ----------
+  4 Apr 1915 40
+    person:Sergeant Collard (54,63)
+    person:Sergeant Powell (combat) (40,64)
+Page 143 (type diary) http://wd3.herokuapp.com/pages/AWD000397n  ----------
+  4 Apr 1915 50
+    person:Sergeant Powell (award) (52,43)
+    person:Sergeant Collard (award) (47,45)
+    person:Private Hall (award) (51,47)
+    person:Private Gamblin (award) (48,48)
+    unit:2 Battalion, Royal Munster Fusiliers (46,56)
+    activity:movement (40,58)
+    activity:reserve (46,60)
+    place:Neuve Chapelle (42,64)
+Page 144 (type diary) http://wd3.herokuapp.com/pages/AWD0003999  ----------
+  6 Apr 1915 41
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (53,41)
+    activity:reserve (43,41)
+  7 Apr 1915 43
+    activity:reserve (43,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (51,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (44,47)
+    unit:2 Brigade (49,49)
+    time:0700PM (46,51)
+    place:Hinges (54,55)
+    activity:movement (41,55)
+  8 Apr 1915 56
+    domestic:accomodation (49,59)
+  11 Apr 1915 60
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (52,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (43,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (53,66)
+Page 145 (type diary) http://wd3.herokuapp.com/pages/AWD00039bd  ----------
+  15 Apr 1915 39
+    activity:movement (51,41)
+    activity:line (61,41)
+    unit:London scottish (46,44)
+    unit:1/14 (London Scottish) Battalion, London Regiment (44,44)
+  16 Apr 1915 45
+  17 Apr 1915 48
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,48)
+    activity:quiet (49,48)
+    activity:repair (53,50)
+    activity:repair (49,51)
+  18 Apr 1915 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (52,55)
+    person:Lieutenant H G A Corder (joined) (42,57)
+    person:Second Lieutenant James (departed_posted) (42,61)
+  19 Apr 1915 64
+  20 Apr 1915 66
+    activity:quiet (54,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (52,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (61,68)
+    activity:fire (50,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (44,70)
+Page 146 (type diary) http://wd3.herokuapp.com/pages/AWD0003987  ----------
+  20 Apr 1915 39
+    activity:repair (42,44)
+  21 Apr 1915 49
+    time:0330AM (45,53)
+    activity:fire (50,54)
+  22 Apr 1915 60
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (48,60)
+  23 Apr 1915 62
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (46,63)
+    activity:fire (42,63)
+  24 Apr 1915 64
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (45,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (35,65)
+    activity:line (32,65)
+    activity:fire (42,65)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 3 (48,66)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 3 (54,66)
+    activity:fire (43,69)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 3 (51,76)
+Page 147 (type diary) http://wd3.herokuapp.com/pages/AWD00039bs  ----------
+  24 Apr 1915 41
+    unit:1/21 Battalion, London Regiment (50,51)
+    unit:21 london (41,52)
+    domestic:accomodation (55,53)
+    place:Le Cornet Malo (44,55)
+    activity:movement (45,55)
+    weather:fine (41,68)
+Page 148 (type diary) http://wd3.herokuapp.com/pages/AWD00039ac  ----------
+  25 Apr 1915 41
+    activity:resting (44,45)
+    place:Le Cornet Malo (55,45)
+    domestic:accomodation (48,45)
+  27 Apr 1915 48
+  30 Apr 1915 51
+    person:Lieutenant A C V Miles (joined) (46,54)
+  3 May 1915 55
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,59)
+    casualties:died: 0; killed: 6; missing: 0; prisoner: 0; sick: 0; wounded: 48 (44,66)
+Page 149 (type cover)
+Page 150 (type diary) http://wd3.herokuapp.com/pages/AWD00039a5  ----------
+  7 May 1915 44
+    domestic:parades (40,49)
+  8 May 1915 65
+    domestic:parades (44,70)
+  9 May 1915 73
+    unit:3 Brigade (47,76)
+Page 151 (type diary) http://wd3.herokuapp.com/pages/AWD0003989  ----------
+  9 May 1915 43
+    unit:1 Battalion, Gloucestershire Regiment (44,65)
+    unit:Gloucester Regiment (42,65)
+    unit:10 Battalion, Royal Welsh Fusiliers (46,69)
+    unit:Royal welch fusiliers (44,69)
+Page 152 (type diary) http://wd3.herokuapp.com/pages/AWD000397x  ----------
+  9 May 1915 43
+    person:Captain W M Howe (49,46)
+    person:Captain M M Campbell (commander) (44,50)
+    activity:attack (55,54)
+    time:0500AM (43,54)
+    activity:attack (56,63)
+    activity:attack (54,66)
+    casualties:died: 0; killed: 8; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,75)
+Page 153 (type diary) http://wd3.herokuapp.com/pages/AWD000399h  ----------
+  9 May 1915 41
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,52)
+    time:0200PM (43,67)
+Page 154 (type diary) http://wd3.herokuapp.com/pages/AWD000398k  ----------
+  9 May 1915 43
+    time:0700PM (44,46)
+    person:Captain A G Lyttelton (other) (51,46)
+    activity:movement (47,50)
+    time:1100PM (43,55)
+    place:Hinges (41,56)
+    casualties:died: 0; killed: 6; missing: 0; prisoner: 0; sick: 0; wounded: 4 (43,61)
+    person:Lieutenant F T P Wells (casualty_kia) (50,64)
+    person:Lieutenant Corder (casualty_kia) (43,66)
+    person:Second Lieutenant J T C Vincent (casualty_kia) (52,66)
+    person:Second Lieutenant Woodroffe (casualty_kia) (52,67)
+    person:Second Lieutenant J W Betts (casualty_kia) (44,68)
+    casualties:died: 0; killed: 65; missing: 32; prisoner: 0; sick: 0; wounded: 158 (42,72)
+    person:Captain T P Aldworth (casualty_wounded) (52,73)
+    person:Lieutenant L Margrave (casualty_wounded) (55,77)
+    casualties:died: 0; killed: 65; missing: 32; prisoner: 0; sick: 0; wounded: 158 (64,79)
+    casualties:died: 0; killed: 59; missing: 32; prisoner: 0; sick: 0; wounded: 154 (44,80)
+Page 155 (type diary) http://wd3.herokuapp.com/pages/AWD000399j  ----------
+  9 May 1915 42
+    person:Captain T P Aldworth (award) (40,52)
+    person:Captain M I M Campbell (award) (40,64)
+Page 156 (type diary) http://wd3.herokuapp.com/pages/AWD000399z  ----------
+  9 May 1915 41
+    person:Second Lieutenant B M Dunn (award) (40,45)
+    person:Second Lieutenant B U S Cripps (award) (41,58)
+Page 157 (type diary) http://wd3.herokuapp.com/pages/AWD000399q  ----------
+  9 May 1915 39
+    person:Major G H Stevenson (award) (38,43)
+    person:Second Lieutenant F G A Dibden (award) (38,49)
+    person:Lance Corporal T Earle (award) (39,56)
+Page 158 (type diary) http://wd3.herokuapp.com/pages/AWD00039as  ----------
+  9 May 1915 0
+    person:Sergeant A Evans (award) (40,44)
+    person:Private W Parry (award) (40,53)
+Page 159 (type diary) http://wd3.herokuapp.com/pages/AWD000399i  ----------
+  9 May 1915 40
+    person:Corporal A W Hampson (award) (36,57)
+Page 160 (type diary) http://wd3.herokuapp.com/pages/AWD00039c5  ----------
+  9 May 1915 40
+    person:Private Thomas (award) (39,50)
+    person:Private J Williams (award) (39,59)
+    person:Private Carr (award) (52,59)
+    person:Private R Jones (award) (49,61)
+Page 161 (type diary) http://wd3.herokuapp.com/pages/AWD000398j  ----------
+  9 May 1915 40
+    person:Private W Lamb (award) (38,44)
+Page 162 (type diary) http://wd3.herokuapp.com/pages/AWD00039b2  ----------
+  10 May 1915 40
+    place:Hinges (37,44)
+    activity:resting (48,45)
+  11 May 1915 46
+    domestic:accomodation (44,46)
+  12 May 1915 50
+    domestic:parades (53,52)
+    time:1000AM (44,53)
+    domestic:parades (44,53)
+    unit:2 Coldstream Guards (59,54)
+    activity:movement (42,54)
+    place:Cuinchy (42,54)
+    unit:2 coldstream gds (47,56)
+    place:Bethune (50,58)
+    activity:line (47,66)
+    unit:Gloucesters (42,74)
+    unit:1 Battalion, Gloucestershire Regiment (42,75)
+Page 163 (type diary) http://wd3.herokuapp.com/pages/AWD000398d  ----------
+  12 May 1915 42
+    activity:line (43,45)
+    activity:enemy_activity (49,51)
+  13 May 1915 57
+    activity:fire (46,61)
+  14 May 1915 67
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (55,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (47,68)
+Page 164 (type diary) http://wd3.herokuapp.com/pages/AWD00039bg  ----------
+  14 May 1915 40
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (50,44)
+    time:0120AM (43,47)
+    unit:1/22 Battalion, London Regimen (44,53)
+    activity:movement (41,55)
+    domestic:rations (57,57)
+    time:0500PM (41,59)
+    activity:movement (50,60)
+    place:Cambrin (50,61)
+    place:Annequin (58,61)
+  16 May 1915 65
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (50,66)
+    activity:support (45,70)
+Page 165 (type diary) http://wd3.herokuapp.com/pages/AWD00039a1  ----------
+  16 May 1915 40
+    person:Second Lieutenant H C James (joined) (40,45)
+  17 May 1915 46
+    unit:1 Battalion, Gloucestershire Regiment (41,51)
+    unit:Gloucester (53,52)
+Page 166 (type diary) http://wd3.herokuapp.com/pages/AWD000398v  ----------
+  17 May 1915 43
+    unit:1 Battalion, Gloucestershire Regiment (45,48)
+    activity:line (41,48)
+    activity:line (48,50)
+    activity:quiet (52,64)
+Page 167 (type diary) http://wd3.herokuapp.com/pages/AWD000398z  ----------
+  18 May 1915 44
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (52,46)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (33,47)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (44,48)
+    activity:line (38,49)
+    person:Sergeant A Evans (casualty_kia) (45,50)
+Page 168 (type diary) http://wd3.herokuapp.com/pages/AWD00039c3  ----------
+  18 May 1915 41
+    person:Lieutenant E I Jones (joined) (42,48)
+    person:Lieutenant A E Watkin (joined) (41,49)
+    person:Lieutenant F Jones Bateman (joined) (45,50)
+    person:Second Lieutenant N McClellan (joined) (46,53)
+    person:Second Lieutenant R R Graves (joined) (45,55)
+  20 May 1915 62
+    weather:fine (49,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (54,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (46,65)
+    unit:1 r sussex (48,70)
+    activity:movement (47,71)
+    place:Labourse (42,74)
+Page 169 (type diary) http://wd3.herokuapp.com/pages/AWD000397b  ----------
+  20 May 1915 41
+  22 May 1915 57
+    person:Second Lieutenant H M Robertson (joined) (40,61)
+    person:Second Lieutenant J O Turnbull (joined) (41,64)
+Page 170 (type diary) http://wd3.herokuapp.com/pages/AWD000399r  ----------
+  25 May 1915 39
+    place:Cuinchy (41,43)
+    activity:movement (50,43)
+    activity:line (43,46)
+    unit:2 Battalion, Royal Munster Fusiliers (54,47)
+  26 May 1915 61
+    activity:fire (52,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (53,67)
+    person:Second Lieutenant Mcclellan (departed_sick) (44,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (59,69)
+Page 171 (type diary) http://wd3.herokuapp.com/pages/AWD00039ar  ----------
+  27 May 1915 49
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,51)
+  28 May 1915 52
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,52)
+    activity:line (40,52)
+    activity:fire (44,55)
+    place:Cuinchy Church (51,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (40,62)
+  29 May 1915 63
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (47,63)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 3 (39,68)
+    time:0230PM (44,68)
+    unit:1 Battalion, Northamptonshire Regiment (54,68)
+    activity:movement (40,71)
+  31 May 1915 72
+    place:Labourse (49,72)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 3 (47,73)
+    domestic:inspections (39,76)
+    domestic:inspections (47,77)
+Page 172 (type cover)
+Page 173 (type diary) http://wd3.herokuapp.com/pages/AWD000398t  ----------
+  1 Jun 1915 16
+    unit:141 Brigade (56,22)
+    unit:141 Brigade (41,51)
+    unit:141 Brigade (42,55)
+  2 Jun 1915 56
+    place:Bethune (40,56)
+    domestic:accomodation (55,56)
+    activity:movement (40,57)
+    activity:fire (46,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (55,62)
+  4 Jun 1915 71
+    place:Bethune (40,73)
+    place:Cuinchy (51,77)
+    unit:2 Battalion, Royal Sussex Regiment (50,80)
+    place:Maison Rouge (36,83)
+    activity:line (42,84)
+Page 174 (type diary) http://wd3.herokuapp.com/pages/AWD00039cc  ----------
+  5 Jun 1915 43
+    activity:fire (46,47)
+    activity:line (39,48)
+    person:Lieutenant A E Watkin (casualty_wounded) (52,50)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 110 (42,50)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 11 (51,53)
+    person:Second Lieutenant G S Harrison (joined) (53,57)
+  6 Jun 1915 64
+    activity:fire (46,64)
+    activity:line (40,68)
+    activity:fire (49,70)
+  7 Jun 1915 72
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 3 (48,72)
+    activity:quiet (44,75)
+    activity:line (39,76)
+Page 175 (type diary) http://wd3.herokuapp.com/pages/AWD00039bt  ----------
+  7 Jun 1915 42
+    activity:fire (44,46)
+    person:Captain C E S Bull (casualty_wounded) (48,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (59,47)
+    activity:line (40,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (43,48)
+  8 Jun 1915 56
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (51,56)
+    activity:fire (50,59)
+    activity:fire (45,60)
+    activity:line (38,61)
+    time:0900PM (43,61)
+    time:1000PM (48,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (52,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (40,72)
+Page 176 (type diary) http://wd3.herokuapp.com/pages/AWD00039ai  ----------
+  9 Jun 1915 41
+    activity:fire (44,46)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 3 (49,54)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 3 (38,54)
+  10 Jun 1915 55
+    activity:line (37,59)
+    unit:1 Brigade camerons (41,61)
+    place:Beuvry (39,63)
+  13 Jun 1915 65
+    activity:reserve (44,65)
+  15 Jun 1915 70
+    activity:fire (45,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (97,93)
+Page 177 (type diary) http://wd3.herokuapp.com/pages/AWD000398i  ----------
+  24 Jun 1915 41
+    activity:movement (48,48)
+    place:Auchel (50,52)
+  25 Jun 1915 55
+    person:Second Lieutenant E F M Sim (joined) (49,58)
+  26 Jun 1915 59
+    person:Second Lieutenant Walker (departed_leave) (47,61)
+    person:Captain J Gilbey (author) (58,72)
+Page 178 (type diary) http://wd3.herokuapp.com/pages/AWD000397o  ----------
+  28 Jun 1915 41
+    unit:5 Brigade (44,46)
+    place:Vermelles (49,49)
+    gridRef:Y_1___ (50,49)
+    activity:reserve (52,53)
+    activity:movement (43,55)
+    time:0100PM (44,55)
+    place:Labourse (50,56)
+    place:Vermelles (52,58)
+    time:0900PM (40,58)
+    unit:2 Battalion, Oxfordshire & Buckinghamshire Light Infantry (41,62)
+  29 Jun 1915 65
+    time:1030PM (47,65)
+    person:Lieutenant F J A Dibdin (casualty_wounded) (44,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (42,69)
+Page 179 (type diary) http://wd3.herokuapp.com/pages/AWD00039aw  ----------
+  29 Jun 1915 49
+  30 Jun 1915 67
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (55,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (45,70)
+Page 180 (type cover)
+Page 181 (type diary) http://wd3.herokuapp.com/pages/AWD00039a9  ----------
+  4 Jul 1915 38
+    place:Vermelles (34,40)
+  5 Jul 1915 41
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (46,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (48,43)
+    place:Vermelles (34,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (40,45)
+    unit:1 Brigade, the london reg (47,47)
+    unit:1/14 (London Scottish) Battalion, London Regiment (39,48)
+Page 182 (type diary) http://wd3.herokuapp.com/pages/AWD0003990  ----------
+  5 Jul 1915 41
+    activity:fire (48,44)
+    place:Vermelles (33,47)
+    person:Captain Furber (other) (40,63)
+Page 183 (type diary) http://wd3.herokuapp.com/pages/AWD00039b6  ----------
+  5 Jul 1915 49
+    activity:repair (42,47)
+    unit:Royal Engineers (47,49)
+    activity:movement (45,54)
+    domestic:accomodation (52,55)
+    place:Verquin (43,56)
+  8 Jul 1915 57
+    unit:1 Battalion, Queens Own Cameron Highlanders (50,58)
+    domestic:inspections (57,60)
+    person:Field Marshal Lord Kitchener (other) (46,62)
+    domestic:inspections (40,62)
+  9 Jul 1915 74
+    person:Second Lieutenant L H T Walker (departed_leave) (47,75)
+    person:Lieutenant W G Hewelt (joined) (42,78)
+Page 184 (type diary) http://wd3.herokuapp.com/pages/AWD000399s  ----------
+  9 Jul 1915 0
+    person:Second Lieutenant W B Butler (departed_leave) (39,44)
+    person:Lieutenant P A Hibbert (departed_leave) (55,44)
+    person:Second Lieutenant B M Dunn (departed_leave) (45,45)
+    person:Second Lieutenant H C James (departed_leave) (38,47)
+    person:Captain J N Gilbey (departed_leave) (47,47)
+  13 Jul 1915 49
+    unit:5 r sussex (59,53)
+    activity:movement (43,53)
+    place:Verquin (38,53)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (52,73)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (43,74)
+Page 185 (type diary) http://wd3.herokuapp.com/pages/AWD000399a  ----------
+  13 Jul 1915 0
+    activity:fire (47,44)
+    activity:line (43,46)
+  19 Jul 1915 63
+    unit:S wales borderers (54,68)
+    time:0400PM (44,70)
+    domestic:accomodation (55,72)
+    place:Sailly Labourse (41,74)
+Page 186 (type diary) http://wd3.herokuapp.com/pages/AWD00039ch  ----------
+  21 Jul 1915 40
+  17 Jul 1915 49
+  21 Jul 1915 40
+    person:Major G H Stevenson (departed_leave) (54,51)
+    person:Major G H Stevenson (departed_leave) (43,51)
+    person:Captain R Dale (departed_leave) (44,53)
+    person:Second Lieutenant E Hirtzel (departed_leave) (45,55)
+    activity:repair (50,65)
+  23 Jul 1915 67
+    place:Vermelles (57,67)
+    activity:fire (47,67)
+    activity:fire (48,72)
+Page 187 (type diary) http://wd3.herokuapp.com/pages/AWD00039ax  ----------
+  23 Jul 1915 0
+  25 Jul 1915 41
+    unit:Coldsteam Guards of 1 Brigade (40,48)
+    domestic:accomodation (51,49)
+    activity:movement (43,49)
+  24 Jul 1915 50
+    place:Bethune (54,50)
+    person:Second Lieutenant C V Miles (departed_leave) (52,52)
+  28 Jul 1915 53
+    person:Second Lieutenant H N E Fielden (departed_leave) (54,55)
+    person:Second Lieutenant A C V Miles (departed_leave) (44,56)
+    place:Bethune (51,59)
+    activity:training (51,63)
+  30 Jul 1915 66
+    domestic:sport (50,69)
+    domestic:sport (42,70)
+    person:Second Lieutenant E F M Sim (other) (40,74)
+Page 188 (type diary) http://wd3.herokuapp.com/pages/AWD00039ab  ----------
+  30 Jul 1915 58
+    place:Bethune (36,57)
+    person:Second Lieutenant E W Pidduck (joined) (40,63)
+  31 Jul 1915 64
+    place:Bethune (54,67)
+    activity:movement (44,67)
+    unit:2 Battalion, Kings Royal Rifle Corps (47,70)
+    unit:K R R C second Brigade (52,70)
+    place:Vermelles (36,71)
+Page 189 (type cover)
+Page 190 (type diary) http://wd3.herokuapp.com/pages/AWD000397v  ----------
+  2 Aug 1915 37
+    person:Lieutenant Jones (departed_posted) (46,41)
+    person:Lieutenant Helenus macaulay Robertson (departed_posted) (57,42)
+    person:Second Lieutenant Graves (departed_posted) (49,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (48,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (40,52)
+    person:Captain H Furber (casualty_wounded) (40,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (55,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (38,54)
+Page 191 (type diary) http://wd3.herokuapp.com/pages/AWD0003993  ----------
+  2 Aug 1915 42
+  6 Aug 1915 52
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (53,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (43,53)
+  8 Aug 1915 54
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (53,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (41,55)
+    place:Vermelles (39,59)
+    activity:movement (49,59)
+    reference:Y3 (47,62)
+Page 192 (type diary) http://wd3.herokuapp.com/pages/AWD00039bm  ----------
+  8 Aug 1915 0
+  2 Aug 1915 49
+    activity:reconnoitered (47,51)
+    person:Corporal T Earl (award) (47,53)
+    person:Private Isaacs (other) (42,55)
+    person:Corporal T Earl (award) (39,58)
+    activity:reconnoitered (53,65)
+    mapRef:Auchy - lews (39,68)
+    person:Corporal T Earl (48,71)
+    person:Private Isaacs (combat) (55,72)
+Page 193 (type diary) http://wd3.herokuapp.com/pages/AWD00039bf  ----------
+  2 Aug 1915 0
+    mapRef:36c N.W. (37,40)
+Page 194 (type diary) http://wd3.herokuapp.com/pages/AWD0003986  ----------
+  2 Aug 1915 0
+    person:Corporal Earl (commander) (52,48)
+  8 Aug 1915 54
+    place:Vermelles (40,60)
+    activity:working (53,62)
+  12 Aug 1915 70
+    activity:fire (48,72)
+Page 195 (type diary) http://wd3.herokuapp.com/pages/AWD00039bj  ----------
+  12 Aug 1915 41
+    activity:fire (43,45)
+    time:0630PM (38,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,48)
+    time:0945PM (50,52)
+    place:Annezin (38,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,60)
+  13 Aug 1915 65
+    activity:training (43,66)
+  18 Aug 1915 73
+    person:Lieutenant J O Turnbull (departed_leave) (44,72)
+    activity:line (50,75)
+    activity:movement (45,75)
+Page 196 (type diary) http://wd3.herokuapp.com/pages/AWD000399w  ----------
+  18 Aug 1915 0
+    unit:The Loyal North Lancashire Regiment (51,44)
+    activity:fire (42,48)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 6 (46,49)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 6 (39,50)
+    activity:fire (46,54)
+Page 197 (type diary) http://wd3.herokuapp.com/pages/AWD000399x  ----------
+  18 Aug 1915 43
+    activity:fire (39,48)
+    domestic:rations (46,65)
+    unit:Swbs (58,69)
+    activity:movement (44,71)
+    unit:1 Battalion, South Wales Borderers (43,71)
+    place:Sailly Labourse (41,73)
+    activity:quiet (48,75)
+Page 198 (type diary) http://wd3.herokuapp.com/pages/AWD000397s  ----------
+  23 Aug 1915 64
+    person:Colonel A G Prothero (returned_leave) (46,48)
+  24 Aug 1915 49
+    unit:S W Bd (59,52)
+    activity:line (41,53)
+    unit:Swbs (41,54)
+    activity:fire (41,62)
+  23 Aug 1915 64
+    person:Second Lieutenant A C V Miles (casualty_kia) (55,66)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,66)
+    gridRef:Y_3___ (41,70)
+Page 199 (type diary) http://wd3.herokuapp.com/pages/AWD000397u  ----------
+  24 Aug 1915 45
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,51)
+  26 Aug 1915 56
+    person:Lieutenant W G Hewett (departed_sick) (43,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (44,61)
+  28 Aug 1915 64
+    unit:Swbs (52,69)
+    place:Sailly Labourse (53,70)
+    domestic:accomodation (46,71)
+    activity:repair (41,75)
+    activity:working (49,75)
+Page 200 (type cover)
+Page 201 (type diary) http://wd3.herokuapp.com/pages/AWD000399b  ----------
+  1 Sep 1915 43
+    unit:1 Division (44,47)
+    domestic:accomodation (57,48)
+  2 Sep 1915 49
+    activity:movement (45,50)
+    place:Annezin (40,50)
+    domestic:accomodation (54,52)
+    place:Auchel (37,54)
+    activity:resting (42,57)
+    person:Lieutenant Peck (departed_leave) (42,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (38,67)
+    person:Lieutenant Pidduck (departed_leave) (37,70)
+    person:Captain Gilbey (author) (52,78)
+Page 202 (type diary) http://wd3.herokuapp.com/pages/AWD000397i  ----------
+  3 Sep 1915 41
+    domestic:hygiene (45,47)
+Page 203 (type diary) http://wd3.herokuapp.com/pages/AWD000399p  ----------
+  4 Sep 1915 29
+    activity:training (53,44)
+    place:Auchel (42,46)
+    activity:training (43,47)
+Page 204 (type diary) http://wd3.herokuapp.com/pages/AWD00039bw  ----------
+  5 Sep 1915 29
+    domestic:religion (44,44)
+    place:Auchel (37,45)
+    activity:working (43,47)
+    domestic:hygiene (48,54)
+Page 205 (type diary) http://wd3.herokuapp.com/pages/AWD000398n  ----------
+  6 Sep 1915 29
+    place:Auchel (37,43)
+    activity:movement (45,43)
+    time:1100AM (58,43)
+    activity:movement (41,44)
+    place:Hesdigneul (39,47)
+    time:0300PM (46,52)
+    place:Labourse (39,54)
+    activity:movement (42,56)
+    time:1000PM (46,56)
+    place:Noeux-les-Mines (50,57)
+    place:Sailly-Labourse (45,59)
+    activity:line (44,61)
+    weather:cold (42,64)
+    weather:cold (49,65)
+Page 206 (type diary) http://wd3.herokuapp.com/pages/AWD000398h  ----------
+  7 Sep 1915 30
+    place:Philosophe (60,42)
+    activity:movement (49,42)
+    activity:resting (54,44)
+    unit:2 Battalion, Royal Munster Fusiliers (50,45)
+    unit:Gloucesters (45,46)
+    unit:Munsters (50,46)
+    activity:working (51,50)
+    time:0300AM (52,54)
+    activity:repair (52,55)
+  8 Sep 1915 57
+    activity:resting (43,63)
+    activity:repair (46,66)
+    place:Noyelles (52,68)
+Page 207 (type diary) http://wd3.herokuapp.com/pages/AWD00039bn  ----------
+  9 Sep 1915 40
+    activity:working (43,44)
+    time:0400AM (41,46)
+    activity:resting (50,47)
+    place:Philosophe (39,53)
+    activity:working (43,57)
+  10 Sep 1915 58
+    activity:working (40,63)
+    activity:working (45,63)
+    time:0400AM (52,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (45,66)
+  11 Sep 1915 67
+    activity:working (41,70)
+    time:0400AM (52,71)
+    activity:fire (46,72)
+Page 208 (type diary) http://wd3.herokuapp.com/pages/AWD000398p  ----------
+  11 Sep 1915 38
+    activity:working (43,42)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,42)
+    person:Lieutenant Hertzl (casualty_wounded) (57,42)
+  12 Sep 1915 46
+    activity:working (48,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (57,52)
+    person:Captain Gilbey (44,52)
+  13 Sep 1915 54
+    unit:2 Bn, Royal Munster Fusiliers (46,58)
+    unit:2 Coys, 2 Bn. Welsh Regiment (52,58)
+    unit:Munsters (53,59)
+    activity:line (45,61)
+    activity:support (50,62)
+    unit:2 Coys, 2 Bn. Welsh Regiment (48,62)
+    activity:fire (57,64)
+    mapRef:36c NW 3 LOOS (42,65)
+    unit:Hq 2 bn. welsh Regiment (40,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (58,67)
+    activity:repair (52,70)
+Page 209 (type diary) http://wd3.herokuapp.com/pages/AWD00039av  ----------
+  14 Sep 1915 39
+    activity:fire (42,44)
+    activity:repair (40,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (48,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (40,56)
+  15 Sep 1915 58
+    activity:fire (40,62)
+Page 210 (type diary) http://wd3.herokuapp.com/pages/AWD000398e  ----------
+  16 Sep 1915 42
+    unit:D&B Coys, 2 Bn. Welsh Regiment (52,45)
+    activity:line (46,45)
+    unit:A&C Coys, 2 Bn. Welsh Regiment (59,48)
+    activity:fire (54,49)
+    activity:fire (46,50)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (53,52)
+    person:Lieutenant Walker (departed_sick) (55,54)
+  17 Sep 1915 56
+    activity:fire (46,61)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (49,63)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 2 (59,63)
+Page 211 (type diary) http://wd3.herokuapp.com/pages/AWD000399o  ----------
+  18 Sep 1915 40
+    activity:quiet (42,45)
+    time:1100AM (50,45)
+    activity:enemy_activity (44,49)
+  19 Sep 1915 61
+    activity:fire (41,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (52,67)
+Page 212 (type diary) http://wd3.herokuapp.com/pages/AWD0003985  ----------
+  19 Sep 1915 0
+    activity:movement (60,43)
+    place:Philosophe (45,45)
+  24 Sep 1915 46
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (51,46)
+Page 213 (type diary) http://wd3.herokuapp.com/pages/AWD0003997  ----------
+  25 Sep 1915 39
+    activity:movement (45,45)
+    place:Vermelles (41,50)
+    activity:line (47,50)
+    activity:other (43,60)
+    time:0730AM (41,62)
+    time:0830AM (41,70)
+Page 214 (type diary) http://wd3.herokuapp.com/pages/AWD000399c  ----------
+  25 Sep 1915 39
+    activity:line (47,47)
+    time:1100AM (59,50)
+    activity:movement (44,52)
+    place:Le Rutoire Farm (49,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,64)
+Page 215 (type diary) http://wd3.herokuapp.com/pages/AWD0003998  ----------
+  25 Sep 1915 38
+    time:1230PM (39,57)
+    unit:Munsters (52,59)
+    unit:2 Bn. Royal Munster Fusiliers (49,60)
+    unit:The Munsters (52,67)
+    activity:fire (47,69)
+Page 216 (type diary) http://wd3.herokuapp.com/pages/AWD000397m  ----------
+  25 Sep 1915 37
+    place:Bois Carre (50,41)
+    activity:fire (57,48)
+    place:Hulluch (54,50)
+    activity:attack (58,55)
+    unit:The Munsters (61,57)
+    unit:Munsters (60,58)
+    activity:fire (47,63)
+    place:Hulluch (60,63)
+    time:0330PM (54,70)
+Page 217 (type diary) http://wd3.herokuapp.com/pages/AWD00039by  ----------
+  25 Sep 1915 33
+    mapRef:36c NW 3 LOOS (37,40)
+Page 218 (type diary) http://wd3.herokuapp.com/pages/AWD000397z  ----------
+  25 Sep 1915 39
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (51,56)
+Page 219 (type diary) http://wd3.herokuapp.com/pages/AWD000398a  ----------
+  25 Sep 1915 37
+    place:Hulluch (42,45)
+    time:0600PM (57,47)
+    activity:withdraw (52,49)
+    activity:withdraw (44,50)
+    unit:South Wales Borderers (48,55)
+    unit:1/14 (London Scottish) Bn. London Regiment (53,57)
+    weather:rain (42,61)
+  26 Sep 1915 64
+    activity:line (35,69)
+    activity:quiet (41,69)
+    time:0930AM (56,69)
+Page 220 (type diary) http://wd3.herokuapp.com/pages/AWD0003980  ----------
+  26 Sep 1915 37
+    place:Hill 70 (46,42)
+    mapRef:36c NW 3 LOOS (54,44)
+Page 221 (type diary) http://wd3.herokuapp.com/pages/AWD000398q  ----------
+  26 Sep 1915 39
+    time:1030AM (38,42)
+    activity:enemy_activity (45,44)
+    activity:line (39,46)
+    place:Hulluch (55,48)
+    time:1020AM (49,50)
+    place:Hulluch (51,54)
+    unit:1 Bn. Black Watch (56,56)
+    time:1055AM (37,62)
+    activity:enemy_activity (46,67)
+    time:1050AM (46,67)
+    place:Bois Hugo (48,69)
+Page 222 (type diary) http://wd3.herokuapp.com/pages/AWD000398r  ----------
+  26 Sep 1915 39
+    activity:enemy_activity (47,43)
+    time:1100AM (52,51)
+    activity:attack (47,59)
+    activity:fire (52,62)
+Page 223 (type diary) http://wd3.herokuapp.com/pages/AWD00039aq  ----------
+  26 Sep 1915 38
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,49)
+    time:1115AM (48,58)
+    activity:attack (40,63)
+Page 224 (type diary) http://wd3.herokuapp.com/pages/AWD00039be  ----------
+  26 Sep 1915 40
+    activity:enemy_activity (47,46)
+    activity:attack (46,55)
+    unit:Corp of Kitcheners Army (46,60)
+    activity:attack (53,60)
+Page 225 (type diary) http://wd3.herokuapp.com/pages/AWD00039au  ----------
+  26 Sep 1915 38
+    activity:attack (40,41)
+    unit: (55,65)
+    unit:Corp of Kitcheners Army (44,65)
+Page 226 (type diary) http://wd3.herokuapp.com/pages/AWD0003996  ----------
+  26 Sep 1915 39
+    place:Hulluch (40,51)
+    activity:withdraw (57,62)
+    activity:withdraw (53,63)
+Page 227 (type diary) http://wd3.herokuapp.com/pages/AWD000398y  ----------
+  26 Sep 1915 39
+    time:0200PM (54,42)
+    activity:casualty (41,47)
+    unit: (46,71)
+Page 228 (type diary) http://wd3.herokuapp.com/pages/AWD00039a4  ----------
+  26 Sep 1915 39
+    person:Lieutenant Colonel Prothero (casualty_pow) (48,44)
+    person:Major George herbert Stevenson (casualty_mia) (46,46)
+    person:Captain Butler (casualty_wounded) (46,48)
+    person:Captain Miles (casualty_mia) (47,50)
+    person:Second Lieutenant Sim (casualty_wounded) (44,52)
+    person:Second Lieutenant Pidduck (casualty_pow) (47,56)
+    person:Second Lieutenant Sydney randell Jenkins (casualty_kia) (51,57)
+    person:Lieutenant Peck (casualty_wounded) (48,60)
+  25 Sep 1915 61
+    person:Second Lieutenant John leslie Hartnell-Sinclair (casualty_kia) (50,65)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (55,67)
+    person:Second Lieutenant Sear (casualty_wounded) (48,67)
+Page 229 (type diary) http://wd3.herokuapp.com/pages/AWD000398f  ----------
+  27 Sep 1915 40
+    activity:line (38,46)
+    activity:fire (46,46)
+    time:0100PM (43,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 3; sick: 0; wounded: 0 (46,49)
+    person:Lieutenant C P Bayer (casualty_wounded) (47,51)
+    person:Lieutenant Hewitt (commander) (42,53)
+    person:Lieutenant Cripps (promotion) (47,54)
+    time:0800AM (38,56)
+    unit:Camerons (38,64)
+    unit:1 Battalion, Queens Own Cameron Highlanders (38,64)
+Page 230 (type diary) http://wd3.herokuapp.com/pages/AWD00039bc  ----------
+  28 Sep 1915 39
+    activity:fire (51,47)
+    activity:clearing (46,50)
+    unit:Hohenzollern (49,55)
+    place:Hohenzollern Redoubt (46,55)
+Page 231 (type diary) http://wd3.herokuapp.com/pages/AWD000398o  ----------
+  29 Sep 1915 41
+    activity:line (37,46)
+    activity:fire (44,48)
+  30 Sep 1915 52
+    weather:rain (43,57)
+    activity:quiet (45,58)
+    unit:Irish gds (50,61)
+    activity:movement (40,63)
+    place:Noeux-les-Mines (56,63)
+    domestic:accomodation (44,66)
+Page 232 (type cover)
+Page 233 (type diary) http://wd3.herokuapp.com/pages/AWD00039aj  ----------
+  1 Oct 1915 40
+    activity:resting (51,45)
+    domestic:uniform (51,50)
+    person:General Holland (other) (43,52)
+  2 Oct 1915 56
+    activity:other (44,59)
+  3 Oct 1915 65
+    domestic:religion (45,69)
+    time:1100AM (41,69)
+    person:Major Lloyd (commander) (40,71)
+    domestic:sport (54,72)
+Page 234 (type diary) http://wd3.herokuapp.com/pages/AWD00039a0  ----------
+  3 Oct 1915 41
+    place:Noeux-Les-Mines (48,43)
+  4 Oct 1915 45
+    domestic:hygiene (42,50)
+    person:General Davies (other) (54,51)
+  5 Oct 1915 55
+    weather:rain (44,61)
+    time:0500PM (44,67)
+    activity:movement (46,68)
+    place:Mazingarbe (55,68)
+    place:Grenay (56,74)
+Page 235 (type diary) http://wd3.herokuapp.com/pages/AWD0003988  ----------
+  5 Oct 1915 38
+    place:Les Brebis (46,42)
+    activity:movement (46,43)
+    activity:support (53,49)
+    place:Loos (46,51)
+    activity:repair (44,57)
+    activity:working (53,57)
+  6 Oct 1915 60
+    activity:fire (47,65)
+    place:Loos (33,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (56,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,66)
+    activity:repair (50,68)
+    activity:working (49,72)
+Page 236 (type diary) http://wd3.herokuapp.com/pages/AWD000398c  ----------
+  6 Oct 1915 38
+    activity:line (37,43)
+    activity:clearing (46,46)
+    activity:clearing (42,47)
+  7 Oct 1915 49
+    person:Lieutenant James (departed_sick) (39,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (47,50)
+    activity:repair (46,53)
+    weather:fog (47,55)
+    activity:line (37,55)
+    time:1000AM (43,58)
+    time:0700PM (45,63)
+    person:Lieutenant Whitfield (joined) (46,69)
+    person:Lieutenant Clayton (joined) (49,70)
+    person:Lieutenant Thompson (joined) (44,72)
+Page 237 (type diary) http://wd3.herokuapp.com/pages/AWD00039aa  ----------
+  7 Oct 1915 39
+    activity:movement (41,45)
+    time:0300PM (50,56)
+    activity:support (46,60)
+    activity:movement (39,65)
+    activity:line (44,65)
+    activity:line (50,69)
+    mapRef:36c NW 3 LOOS (37,75)
+    place:Puits 14 Bis (39,75)
+Page 238 (type diary) http://wd3.herokuapp.com/pages/AWD000399d  ----------
+  7 Oct 1915 39
+    person:Second Lieutenant Baggallay (joined) (44,42)
+    person:Second Lieutenant Jones-Bateman (joined) (49,44)
+    person:Second Lieutenant Cocks (joined) (45,46)
+    person:Second Lieutenant Jones (joined) (42,48)
+  8 Oct 1915 49
+    activity:line (37,54)
+    unit:Second french battalion (49,56)
+    activity:enemy_activity (44,59)
+    time:1130AM (47,67)
+    activity:fire (50,68)
+Page 239 (type diary) http://wd3.herokuapp.com/pages/AWD0003994  ----------
+  8 Oct 1915 38
+    mapRef:36c NW 3 LOOS (43,38)
+    unit:1 Bn. Gloucestershire Regiment (40,57)
+    unit:The French (54,62)
+    unit:2 Bn. Royal Munster Fusiliers (45,64)
+Page 240 (type diary) http://wd3.herokuapp.com/pages/AWD0003984  ----------
+  8 Oct 1915 39
+    time:0330PM (38,43)
+    activity:enemy_activity (43,44)
+    activity:attack (46,48)
+    activity:line (50,59)
+    person:Lieutenant Turnbull (casualty_wounded) (41,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (48,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (40,73)
+Page 241 (type diary) http://wd3.herokuapp.com/pages/AWD00039b8  ----------
+  9 Oct 1915 40
+    activity:fire (46,46)
+    person:Lieutenant Thompson (casualty_wounded) (41,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,52)
+  10 Oct 1915 53
+    person:Lieutenant Morgan (joined) (45,54)
+    activity:enemy_activity (43,64)
+Page 242 (type diary) http://wd3.herokuapp.com/pages/AWD000397l  ----------
+  10 Oct 1915 40
+  11 Oct 1915 49
+    place:Loos (54,55)
+    activity:fire (39,55)
+Page 243 (type diary) http://wd3.herokuapp.com/pages/AWD00039ay  ----------
+  11 Oct 1915 0
+    activity:line (39,42)
+    casualties:died: 0; killed: 14; missing: 0; prisoner: 0; sick: 0; wounded: 16 (47,47)
+    unit:Second munster fusiliers (44,48)
+    casualties:died: 0; killed: 14; missing: 0; prisoner: 0; sick: 0; wounded: 16 (55,48)
+  13 Oct 1915 51
+    activity:support (45,51)
+    activity:support (37,55)
+    activity:fire (43,55)
+    unit:1 and second brigades (44,58)
+    unit:1 & 2 Bgde (1 Division) (41,59)
+    unit:3 Brigade (40,63)
+    unit:1 Bn. Gloucestershire Regiment (49,67)
+Page 244 (type diary) http://wd3.herokuapp.com/pages/AWD000399t  ----------
+  11 Oct 1915 39
+    place:Lens (40,42)
+  12 Oct 1915 46
+    time:1100AM (42,49)
+    activity:fire (50,50)
+    activity:fire (42,51)
+Page 245 (type diary) http://wd3.herokuapp.com/pages/AWD00039c2  ----------
+  13 Oct 1915 39
+    unit:1 Brigade (42,43)
+    unit:2 Brigade (46,43)
+  14 Oct 1915 50
+    time:0400AM (44,53)
+    unit:2 Brigade (43,56)
+    unit:1/19 Bn. City of London (St.Pancras) Regiment (52,69)
+    activity:movement (44,72)
+    place:Mazingarbe (53,73)
+Page 246 (type diary) http://wd3.herokuapp.com/pages/AWD00039br  ----------
+  14 Oct 1915 41
+    place:Mazingarbe (32,43)
+    domestic:accomodation (55,44)
+  15 Oct 1915 45
+    place:Mazingarbe (33,49)
+    activity:movement (40,51)
+    place:Lillers (41,55)
+    place:Allouange (48,57)
+    domestic:accomodation (46,61)
+  16 Oct 1915 63
+    activity:resting (45,68)
+Page 247 (type diary) http://wd3.herokuapp.com/pages/AWD0003995  ----------
+  17 Oct 1915 38
+    domestic:parades (46,43)
+    domestic:religion (55,44)
+    place:Allouagne (36,45)
+    domestic:sport (53,51)
+    unit:1 Bn. Gloucestershire Regiment (46,51)
+  18 Oct 1915 54
+    activity:training (47,59)
+    person:Second Lieutenant Williams (joined) (42,67)
+Page 248 (type diary) http://wd3.herokuapp.com/pages/AWD00039c0  ----------
+  19 Oct 1915 39
+    activity:training (45,54)
+    person:General Holloyd (other) (44,55)
+    domestic:inspections (54,56)
+    activity:working (39,59)
+    activity:movement (51,63)
+    place:Ferfay (44,66)
+Page 249 (type diary) http://wd3.herokuapp.com/pages/AWD00039bp  ----------
+  20 Oct 1915 39
+    activity:training (47,45)
+  21 Oct 1915 47
+    activity:training (48,53)
+    domestic:sport (46,58)
+    person:Second Lieutenant Lewis (joined) (42,62)
+  22 Oct 1915 63
+    activity:training (47,68)
+    domestic:sport (55,70)
+Page 250 (type diary) http://wd3.herokuapp.com/pages/AWD00039ag  ----------
+  23 Oct 1915 38
+    activity:training (47,45)
+    unit:6 Bn. Welsh Regiment (55,48)
+    domestic:sport (41,49)
+  24 Oct 1915 54
+    domestic:religion (42,59)
+  25 Oct 1915 64
+Page 251 (type diary) http://wd3.herokuapp.com/pages/AWD00039ae  ----------
+  25 Oct 1915 38
+    weather:rain (42,42)
+    activity:other (46,43)
+  26 Oct 1915 50
+    activity:training (48,54)
+    unit:1 Bn. Gloucestershire Regiment (52,58)
+    domestic:sport (51,58)
+  27 Oct 1915 61
+    weather:rain (43,67)
+    person:Captain Dunn (other) (60,71)
+Page 252 (type diary) http://wd3.herokuapp.com/pages/AWD00039bv  ----------
+  27 Oct 1915 37
+  28 Oct 1915 43
+    time:0615AM (58,48)
+    weather:rain (39,56)
+    unit:Iv corps (49,61)
+    time:0400PM (54,67)
+    person:Second Lieutenant Barrat (joined) (39,69)
+    person:Second Lieutenant Reece (joined) (46,69)
+    person:Second Lieutenant Campion (joined) (57,69)
+    person:Captain Furber (joined) (50,71)
+Page 253 (type diary) http://wd3.herokuapp.com/pages/AWD000399k  ----------
+  29 Oct 1915 40
+    activity:training (48,45)
+    person:General Holland (other) (42,48)
+  30 Oct 1915 50
+    place:Raimbert (55,56)
+    domestic:medical (46,56)
+    unit:141 Field Ambulance (54,57)
+  31 Oct 1915 63
+    domestic:religion (46,68)
+    weather:rain (54,69)
+Page 254 (type other) http://wd3.herokuapp.com/pages/AWD00039d3  ----------
+Page 255 (type cover)
+Page 256 (type diary) http://wd3.herokuapp.com/pages/AWD00039a6  ----------
+  1 Nov 1915 42
+    domestic:accomodation (59,46)
+    domestic:inspections (45,47)
+    weather:rain (52,48)
+  2 Nov 1915 54
+    domestic:hygiene (43,58)
+    weather:rain (54,61)
+    activity:training (54,67)
+    place:Amettes (46,67)
+  3 Nov 1915 69
+    activity:training (43,75)
+Page 257 (type diary) http://wd3.herokuapp.com/pages/AWD000397c  ----------
+  3 Nov 1915 42
+    activity:training (41,45)
+  4 Nov 1915 50
+    activity:training (41,54)
+  5 Nov 1915 56
+    activity:training (43,60)
+  6 Nov 1915 61
+    activity:training (42,66)
+  7 Nov 1915 67
+    domestic:religion (42,71)
+    domestic:religion (45,72)
+Page 258 (type diary) http://wd3.herokuapp.com/pages/AWD000397d  ----------
+  8 Nov 1915 38
+    activity:training (44,43)
+  9 Nov 1915 47
+    activity:training (45,52)
+  10 Nov 1915 55
+    person:Major General H S Rawlinson (commander) (49,60)
+    place:Ferfay (34,60)
+    unit:3 Brigade (56,61)
+    domestic:inspections (44,62)
+    domestic:inspections (46,63)
+    place:Loos (48,69)
+Page 259 (type diary) http://wd3.herokuapp.com/pages/AWD00039a2  ----------
+  10 Nov 1915 38
+    activity:training (44,41)
+  11 Nov 1915 43
+    activity:training (47,49)
+  12 Nov 1915 52
+    domestic:hygiene (44,56)
+  13 Nov 1915 59
+    activity:training (45,64)
+  14 Nov 1915 65
+    domestic:religion (43,69)
+Page 260 (type diary) http://wd3.herokuapp.com/pages/AWD000398b  ----------
+  15 Nov 1915 40
+    place:Ferfay (45,44)
+    activity:movement (42,44)
+    place:Noeux-Les-Mines (42,52)
+    unit:Gloucesters (55,54)
+    unit:1 Bn. Gloucestershire Regiment (54,54)
+  16 Nov 1915 55
+    person:Lieutenant Colonel O B Pritchard (commander) (39,56)
+    activity:training (45,60)
+  17 Nov 1915 64
+    activity:working (39,71)
+Page 261 (type diary) http://wd3.herokuapp.com/pages/AWD00039b1  ----------
+  17 Nov 1915 40
+    activity:training (42,43)
+  18 Nov 1915 44
+    activity:training (44,50)
+  19 Nov 1915 54
+    person:Captain H Furber (departed_posted) (42,56)
+    domestic:accomodation (40,60)
+    activity:working (39,60)
+    time:0430PM (53,62)
+    place:Noeux-les-Mines (43,64)
+    activity:movement (42,64)
+    place:Philosophe (40,66)
+    domestic:uniform (45,67)
+    activity:reserve (41,72)
+Page 262 (type diary) http://wd3.herokuapp.com/pages/AWD00039al  ----------
+  20 Nov 1915 41
+    activity:repair (43,46)
+    weather:cold (52,47)
+    activity:working (49,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (44,61)
+    person:Second Lieutenant Williams (departed_training) (54,62)
+  21 Nov 1915 64
+    weather:fog (44,67)
+    activity:enemy_activity (48,71)
+    activity:working (46,73)
+Page 263 (type diary) http://wd3.herokuapp.com/pages/AWD00039b5  ----------
+  21 Nov 1915 39
+    place:Posen Alley (44,41)
+  22 Nov 1915 43
+    weather:fog (39,47)
+    unit:6 Bn. Welsh Regiment (49,50)
+    place:Chalk Pit (39,53)
+    unit:Gloucesters (50,55)
+    unit:1 Bn. Gloucestershire Regiment (50,55)
+    unit:2 Brigade (45,57)
+  23 Nov 1915 59
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (44,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (39,59)
+    activity:quiet (46,66)
+    activity:attack (54,67)
+    casualties:died: 0; killed: 0; missing: 4; prisoner: 0; sick: 0; wounded: 0 (47,72)
+    casualties:died: 0; killed: 0; missing: 4; prisoner: 0; sick: 0; wounded: 0 (38,72)
+Page 264 (type diary) http://wd3.herokuapp.com/pages/AWD000398l  ----------
+  23 Nov 1915 40
+    weather:fog (53,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (45,45)
+  24 Nov 1915 50
+    activity:attack (44,58)
+    activity:fire (46,64)
+    time:1100PM (40,68)
+    person:Captain Gilbey (returned_leave) (42,74)
+Page 265 (type diary) http://wd3.herokuapp.com/pages/AWD00039ap  ----------
+  24 Nov 1915 40
+    person:Second Lieutenant C G Bewicke (joined) (38,44)
+  25 Nov 1915 49
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (53,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (42,51)
+    unit:9 kings lpool (44,55)
+    unit:9 Kings Liverpool Regiment (43,55)
+    activity:reserve (43,62)
+Page 266 (type diary) http://wd3.herokuapp.com/pages/AWD000399g  ----------
+  25 Nov 1915 0
+    weather:cold (41,43)
+    person:Captain Dunn (other) (53,53)
+    unit:C Coy, 2 Bn. Welsh Regiment (43,54)
+  28 Nov 1915 59
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 2 (49,59)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 2 (42,63)
+    person:Lieutenant L H T Walker (departed_sick) (45,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,65)
+    activity:line (52,70)
+Page 267 (type diary) http://wd3.herokuapp.com/pages/AWD0003982  ----------
+  28 Nov 1915 43
+    place:Loos (38,46)
+    weather:rain (48,48)
+  29 Nov 1915 54
+    person:Second Lieutenant C E Evans (departed_sick) (43,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,58)
+    activity:quiet (42,63)
+    activity:repair (43,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,75)
+Page 268 (type cover)
+Page 269 (type diary) http://wd3.herokuapp.com/pages/AWD00039bh  ----------
+  2 Dec 1915 76
+    activity:movement (48,61)
+    place:Mazingarbe (41,63)
+    activity:training (52,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (53,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (45,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (44,78)
+    person:Second Lieutenant W Price (departed_training) (39,82)
+Page 270 (type diary) http://wd3.herokuapp.com/pages/AWD000398w  ----------
+  4 Dec 1915 42
+    person:Lieutenant D E Rees (departed_posted) (44,44)
+  5 Dec 1915 47
+    person:Lieutenant C R Lewis (departed_sick) (44,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,50)
+  6 Dec 1915 51
+    person:Lieutenant T Williams (returned_training) (50,54)
+  7 Dec 1915 57
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,62)
+    person:Lieutenant W G Hewett (departed_posted) (40,65)
+  8 Dec 1915 69
+    person:Second Lieutenant K V Barnett (departed_training) (45,71)
+Page 271 (type diary) http://wd3.herokuapp.com/pages/AWD0003991  ----------
+  8 Dec 1915 38
+    activity:movement (45,41)
+    unit:1 Bgd. (55,45)
+    place:Hulluch (38,48)
+    activity:reserve (53,51)
+    place:Philosophe (40,53)
+    domestic:accomodation (46,55)
+    unit:8 Battalion, Royal Berkshire Regiment (51,56)
+    activity:line (47,68)
+  9 Dec 1915 69
+    person:Regimental Sergeant Major C S Hampton (other) (45,72)
+Page 272 (type diary) http://wd3.herokuapp.com/pages/AWD00039bb  ----------
+  9 Dec 1915 0
+  10 Dec 1915 60
+    person:Second Lieutenant C E Evans (returned_hospital) (39,60)
+    person:Second Lieutenant C C Buckingham (joined) (54,61)
+    person:Second Lieutenant H J White (joined) (42,62)
+    person:Second Lieutenant H B Roberts (joined) (40,64)
+  13 Dec 1915 65
+  14 Dec 1915 69
+    unit:The Gloucesters (46,71)
+    activity:movement (48,72)
+    unit:1 Battalion, Gloucestershire Regiment (41,73)
+    unit:Gloucesters (56,74)
+Page 273 (type diary) http://wd3.herokuapp.com/pages/AWD000399l  ----------
+  14 Dec 1915 0
+    activity:line (40,41)
+    unit:A&C Coys. 2 Bn. Welsh Regiment (53,42)
+    activity:support (47,43)
+    unit:2 Coys, 1 Bn. Gloucestershire Regiment (44,45)
+    activity:line (43,50)
+    unit:6 Welsk (58,51)
+  15 Dec 1915 52
+    unit:6 Bn, Welsh Regiment (46,52)
+    person:Lieutenant Dryden (departed_leave) (61,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (52,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (42,56)
+    activity:quiet (52,57)
+    activity:repair (48,61)
+    activity:construction (51,71)
+Page 274 (type diary) http://wd3.herokuapp.com/pages/AWD00039ba  ----------
+  17 Dec 1915 41
+    domestic:inspections (48,45)
+    person:Second Lieutenant W G Price (departed_sick) (38,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,50)
+    unit:A&C Coys, 2 Bn. Welsh Regiment (46,53)
+    activity:line (48,54)
+    activity:line (41,56)
+    unit:1 Battalion, Gloucestershire Regiment (55,60)
+    unit:B&D Coys, 2 Bn. Welsh Regiment (38,63)
+  18 Dec 1915 66
+    unit:The Gloucesters (47,66)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,68)
+    place:Philosophe (50,68)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (56,69)
+  20 Dec 1915 70
+    place:Philosophe (35,71)
+Page 275 (type diary) http://wd3.herokuapp.com/pages/AWD00039bo  ----------
+  20 Dec 1915 40
+    unit:2 Bgd. (40,44)
+    unit:2 Royal surreys (54,44)
+    unit:2/r fus (57,45)
+    unit:2 Battalion, Royal Sussex Regiment (42,47)
+    activity:movement (43,51)
+    activity:reserve (40,54)
+    domestic:accomodation (50,57)
+Page 276 (type diary) http://wd3.herokuapp.com/pages/AWD000397k  ----------
+  22 Dec 1915 40
+    domestic:accomodation (54,43)
+    person:Captain B M Dunn (departed_training) (39,47)
+  26 Dec 1915 48
+    place:Mazingarbe (39,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,51)
+    person:Second Lieutenant Roberts (departed_sick) (42,51)
+    unit:First Brigade Welsh Regiment (53,56)
+    activity:movement (37,59)
+    place:Loos (55,60)
+    activity:line (45,62)
+    unit:1 Battalion, Queens Own Cameron Highlanders (52,63)
+    unit:The Camerons (52,64)
+    activity:quiet (48,73)
+Page 277 (type diary) http://wd3.herokuapp.com/pages/AWD000398s  ----------
+  26 Dec 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (58,43)
+  28 Dec 1915 46
+    activity:repair (41,46)
+    activity:repair (50,47)
+    person:Major Lloyd (departed_leave) (45,50)
+    person:Lieutenant Price (returned_hospital) (43,52)
+  29 Dec 1915 54
+    unit:G w bs (56,58)
+    activity:support (51,60)
+Page 278 (type diary) http://wd3.herokuapp.com/pages/AWD000399y  ----------
+  29 Dec 1915 0
+    activity:fire (43,55)
+    activity:fire (43,65)
+  30 Dec 1915 66
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (54,68)
+    person:Captain Whitfield (casualty_wounded) (42,69)

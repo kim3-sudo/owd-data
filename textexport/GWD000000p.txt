@@ -1,0 +1,3218 @@
+GWD000000p wo/95/1279/3
+1 DIVISION:  3 Infantry Brigade: 2 Battalion Royal Munster Fusiliers.  
+266 pages
+
+Page 328 (type cover)
+Page 329 (type cover)
+Page 330 (type diary) http://wd3.herokuapp.com/pages/AWD00004gn  ----------
+  1 Jan 1917 25
+    place:Becourt (7,28)
+  2 Feb 1917 35
+    activity:movement (22,36)
+    domestic:inspections (24,40)
+    place:Contay (6,41)
+  1 Jan 1917 25
+    reference:War Diary, 2nd Royal Muster Fusiliers, 3rd Batallion, 1st Division. (15,6)
+  28 Jan 1917 64
+    domestic:sport (25,68)
+  10 Jan 1917 81
+    person:Second Lieutenant A Brack (joined) (30,83)
+    person:Major Blockley (returned_training) (50,83)
+  20 Jan 1917 86
+    person:Lieutenant Boyers (other) (58,87)
+  26 Jan 1917 88
+    person:Second Lieutenant A H Middleton (joined) (26,90)
+    person:Second Lieutenant W N McFeeley (joined) (49,90)
+Page 331 (type diary) http://wd3.herokuapp.com/pages/AWD00004hm  ----------
+  26 Jan 1917 0
+  8 Jan 1917 69
+  26 Jan 1917 0
+  9 Jan 1917 78
+  10 Jan 1917 86
+  26 Jan 1917 0
+    domestic:parades (52,9)
+  10 Jan 1917 86
+Page 332 (type diary) http://wd3.herokuapp.com/pages/AWD00004gr  ----------
+  11 Jan 1917 1
+  12 Jan 1917 15
+    activity:other (46,18)
+  11 Jan 1917 1
+  13 Jan 1917 20
+    activity:training (47,25)
+    domestic:sport (44,32)
+    domestic:inspections (42,35)
+  14 Jan 1917 36
+    domestic:religion (43,39)
+    domestic:inspections (45,41)
+  15 Jan 1917 43
+  16 Jan 1917 47
+    date:16 Jan 1917 (37,50)
+  17 Jan 1917 51
+    activity:training (50,57)
+  11 Jan 1917 1
+    activity:training (43,6)
+  17 Jan 1917 51
+    person:Second Lieutenant C R Horan (award) (45,60)
+  18 Jan 1917 64
+    person:Private W Higgs (award) (52,64)
+    domestic:sport (44,69)
+  19 Jan 1917 70
+  20 Jan 1917 77
+    person:Regimental Quarter Master Sergeant R Jones (award) (50,85)
+    person:Sergeant W Dealtry (award) (50,88)
+    person:Private T Bentley (award) (48,91)
+    person:Lieutenant Colonel Monteagle-Browne (award) (49,93)
+Page 333 (type diary) http://wd3.herokuapp.com/pages/AWD00004i8  ----------
+  20 Jan 1917 2
+    person:Corporal J Coakley (award) (49,11)
+    person:Private J Frawley (award) (47,14)
+  21 Jan 1917 16
+    domestic:religion (45,19)
+  22 Jan 1917 21
+    activity:training (50,24)
+    person:Second Lieutenant Middleton (joined) (58,26)
+  23 Jan 1917 29
+    activity:training (50,32)
+  20 Jan 1917 2
+  24 Jan 1917 37
+    activity:training (49,41)
+  20 Jan 1917 2
+  25 Jan 1917 48
+    activity:training (49,54)
+  20 Jan 1917 2
+    person:Company Quarter Master Sergeant P Browne (award) (48,6)
+  26 Jan 1917 59
+    activity:training (48,64)
+    person:Second Lieutenant W N C McFeeley (joined) (57,68)
+  27 Jan 1917 70
+    person:Second Lieutenant D J Stewart (joined) (60,70)
+    activity:training (50,74)
+  28 Jan 1917 79
+    domestic:religion (48,81)
+  29 Jan 1917 84
+    activity:training (59,85)
+    activity:training (46,86)
+  30 Jan 1917 88
+  20 Jan 1917 2
+    person:Company Quarter Master Sergeant I Jacks (award) (48,9)
+  30 Jan 1917 88
+Page 334 (type report) http://wd3.herokuapp.com/pages/AWD00004kg  ----------
+  30 Jan 1917 0
+    date:1 Jan 1917 (33,11)
+    date:2 Jan 1917 (32,13)
+    date:3 Jan 1917 (32,15)
+    reference:List of Officer Casualties January 1917 (41,17)
+    date:4 Jan 1917 (32,17)
+    date:5 Jan 1917 (32,18)
+    title:Officers Casualties (43,2)
+    date:6 Jan 1917 (32,20)
+    date:7 Jan 1917 (32,22)
+    date:8 Jan 1917 (32,24)
+    date:9 Jan 1917 (32,26)
+  21 Jan 1917 45
+  22 Jan 1917 47
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (42,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (43,50)
+Page 335 (type report) http://wd3.herokuapp.com/pages/AWD00004la  ----------
+  22 Jan 1917 59
+    date:1 Jan 1917 (32,10)
+  4 Jan 1917 17
+  5 Jan 1917 19
+  6 Jan 1917 22
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (39,22)
+  7 Jan 1917 24
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (41,25)
+  8 Jan 1917 27
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (40,27)
+  9 Jan 1917 29
+  22 Jan 1917 59
+    reference:List of NCO/Men Casualties January 1917 (41,3)
+  9 Jan 1917 29
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (40,30)
+  10 Jan 1917 31
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (40,32)
+  11 Jan 1917 33
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (40,34)
+  12 Jan 1917 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (40,36)
+  13 Jan 1917 38
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (40,39)
+  14 Jan 1917 40
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (40,41)
+  16 Jan 1917 43
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (40,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (41,45)
+  17 Jan 1917 46
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (40,48)
+  18 Jan 1917 49
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (40,50)
+  19 Jan 1917 51
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 10; wounded: 0 (40,52)
+  20 Jan 1917 54
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (41,55)
+  21 Jan 1917 56
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (40,57)
+  22 Jan 1917 59
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (40,59)
+  23 Jan 1917 61
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (40,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (40,64)
+  25 Jan 1917 65
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 13; wounded: 0 (40,67)
+  27 Jan 1917 70
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (40,73)
+  29 Jan 1917 75
+  30 Jan 1917 77
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (40,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (40,81)
+Page 336 (type diary) http://wd3.herokuapp.com/pages/AWD00004fc  ----------
+  Hashtags: #CrossCountryRace 
+  30 Jan 1917 0
+    person:Sergeant Noonan (other) (39,15)
+    person:Sergeant Noonan (other) (53,16)
+    person:Private Quinn (other) (48,16)
+    person:Private McCarthy (other) (43,16)
+    person:Private McCarthy (other) (55,18)
+    person:Private Nugent (other) (55,19)
+    person:Private Hayes (other) (53,21)
+    person:Sergeant Casey (other) (52,23)
+    person:Sergeant Casey (other) (36,23)
+    person:Private O'Hara (other) (38,23)
+    person:Private O'Hara (other) (52,24)
+    person:Private Hopkins (other) (55,26)
+    person:Corporal Fitzgerald (other) (47,27)
+    person:Corporal Burke (other) (55,29)
+    person:Sergeant Sullivan (other) (52,31)
+    person:Sergeant Sullivan (other) (37,32)
+    person:Private Frawley (other) (40,32)
+    person:Private O'Connell (other) (51,33)
+    person:Private Frawley (other) (54,34)
+    person:Private Taaffe (other) (52,35)
+    person:Lance Corporal Fogarty (other) (51,37)
+    person:Lance Corporal Carroll (other) (54,40)
+    person:Lance Corporal Carroll (other) (36,40)
+    person:Private Hannigan (other) (42,40)
+    person:Private Hynes (other) (46,41)
+    person:Private Miller (other) (53,43)
+    person:Private Hannigan (other) (52,44)
+    person:Private Coates (other) (51,45)
+    person:Harrison (other) (37,47)
+    person:Company Sergeant Major Harrison (other) (53,48)
+    person:Private McDonald (other) (40,48)
+    person:Corporal Loughnene (other) (52,50)
+    person:Private McDonald (other) (54,51)
+    person:Private Goggin (other) (50,52)
+    person:Private Oates (other) (54,54)
+    unit:South Wales Borders (41,56)
+    person:Brigadier General Crawford (other) (50,65)
+Page 337 (type cover)
+Page 338 (type diary) http://wd3.herokuapp.com/pages/AWD00004kr  ----------
+  1 Feb 1917 23
+    activity:resting (43,27)
+    activity:training (58,27)
+    place:Contay (8,28)
+  2 Feb 1917 31
+    reference:Appendix 1 (83,35)
+    activity:movement (43,35)
+  3 Feb 1917 39
+    activity:training (31,42)
+    place:Morcourt (9,42)
+  4 Feb 1917 54
+    activity:other (46,58)
+    domestic:medical (40,58)
+    place:Morcourt (9,59)
+  5 Feb 1917 71
+    reference:TELEGRAPH CAMP (57,74)
+    activity:movement (39,74)
+    reference:Appendix 2 (82,76)
+    weather:cold (65,88)
+Page 339 (type diary) http://wd3.herokuapp.com/pages/AWD00004le  ----------
+  6 Feb 1917 23
+    place:Telegraph Camp (9,28)
+    activity:training (39,29)
+    weather:cold (43,33)
+  10 Feb 1917 35
+    unit:2 Welch Regiment (61,43)
+    place:Barleux (40,44)
+    weather:cold (46,49)
+  11 Feb 1917 53
+  13 Feb 1917 81
+    activity:repair (36,85)
+    time:0730PM (49,87)
+Page 340 (type diary) http://wd3.herokuapp.com/pages/AWD00004j8  ----------
+  13 Feb 1917 22
+    time:0730PM (50,35)
+    activity:reconnoitered (50,39)
+    person:Lieutenant Ardagh (other) (34,55)
+  14 Feb 1917 69
+    activity:repair (37,73)
+    unit:2 Welch Regiment (58,79)
+    unit:2 Welsh Regiment. (67,79)
+    time:0900PM (36,82)
+    place:Flaucourt (48,86)
+Page 341 (type diary) http://wd3.herokuapp.com/pages/AWD00004g9  ----------
+  14 Feb 1917 0
+  15 Feb 1917 23
+    mapRef:62c N11a.78 (51,33)
+    place:Meudon Quarry (31,34)
+    place:Flaucourt (43,39)
+    domestic:inspections (43,42)
+  16 Feb 1917 48
+    domestic:inspections (61,51)
+    domestic:hygiene (39,52)
+    mapRef:62c N14a (46,58)
+  17 Feb 1917 64
+    domestic:inspections (59,67)
+    domestic:inspections (38,68)
+    person:Captain C J D Lanktree (other) (41,75)
+  18 Feb 1917 78
+    person:Lieutenant J Vernon-Harcourt (other) (51,78)
+    activity:movement (10,84)
+    unit:2 Welsh Regiment (44,85)
+    time:0900PM (43,87)
+Page 342 (type diary) http://wd3.herokuapp.com/pages/AWD00004h9  ----------
+  18 Feb 1917 21
+    activity:reconnoitered (37,25)
+    activity:reconnoitered (44,27)
+  19 Feb 1917 33
+    place:Front Line (8,37)
+    activity:line (18,37)
+    activity:enemy_activity (37,40)
+    activity:reconnoitered (64,50)
+  20 Feb 1917 56
+    activity:reconnoitered (56,59)
+    mapRef:62c S.W. N12 C8.7 (61,73)
+    place:Pera Trench (47,74)
+    activity:attack (34,75)
+    weather:rain (68,83)
+    weather:rain (30,86)
+    activity:repair (63,92)
+    activity:repair (31,94)
+Page 343 (type diary) http://wd3.herokuapp.com/pages/AWD00004lt  ----------
+  Hashtags: #mud 
+  21 Feb 1917 22
+    activity:reconnoitered (52,25)
+    activity:line (10,25)
+    person:Second Lieutenant Kidd (combat) (32,30)
+    gridRef:N_11_D_51_0 (31,34)
+    activity:repair (33,44)
+    unit:2 Welch Regiment (47,50)
+    time:1000PM (78,50)
+    unit:2 Welsh Regiment (18,51)
+    unit:2 Welsh Regiment (62,51)
+    unit:2 Welsh Regiment (38,51)
+    reference:Appendix VII (20,55)
+    place:Telegraph Camp (36,57)
+    place:Dompierre (64,57)
+    mapRef:62C SW (37,60)
+    mapRef:62c S.W (45,61)
+    place:Sucerie (26,61)
+  22 Feb 1917 62
+    place:Telegraph Camp (51,64)
+    place:Sucerie (58,70)
+    place:Dompierre (38,71)
+    domestic:inspections (42,74)
+    activity:resting (65,77)
+  23 Feb 1917 82
+    unit:2 Royal Sussex Regiment (60,84)
+    unit:2 Royal Sussex (40,86)
+    unit:2 Royal Sussex Regiment (39,86)
+    reference:Appendix VIII (84,86)
+    place:Chuignolles (58,88)
+    reference:Appendix VIIi (72,88)
+    unit:2 Royal Sussex Regiment (17,89)
+Page 344 (type diary) http://wd3.herokuapp.com/pages/AWD00004hh  ----------
+  23 Feb 1917 22
+    place:Chuignolles (36,26)
+    activity:movement (25,26)
+    domestic:accomodation (74,28)
+  24 Feb 1917 35
+    place:Chuignes (29,37)
+    time:0900AM (60,38)
+    time:1200PM (66,38)
+    place:Chuignolles (8,39)
+    domestic:hygiene (43,39)
+    domestic:hygiene (21,40)
+    domestic:inspections (35,47)
+  25 Feb 1917 48
+    reference:Appendix IX (75,50)
+    reference:IX (72,51)
+    reference:Appendix IX (62,51)
+    place:Chuignolles (6,52)
+    domestic:parades (23,52)
+    reference:IX (89,52)
+  26 Feb 1917 53
+    reference:Appendix X (62,56)
+    reference:X (73,57)
+    reference:X (89,57)
+    reference:Appendix X (86,57)
+    place:Chuignolles (7,58)
+    domestic:parades (23,58)
+    domestic:inspections (59,59)
+    person:Major General Strickland (award) (38,60)
+  27 Feb 1917 63
+    reference:XI (76,65)
+    reference:XI (88,66)
+    domestic:parades (23,67)
+    reference:Appendix XI (79,67)
+    reference:Appendix XI (67,67)
+  28 Feb 1917 68
+    place:Chuignolles (7,68)
+    reference:XII (88,71)
+    reference:Appendix XII (78,71)
+    reference:Appendix XII (64,71)
+    time:0245PM (28,72)
+    reference:XII (76,72)
+    place:Chuignolles (7,73)
+    domestic:parades (22,73)
+    domestic:parades (48,74)
+    time:0245PM (27,76)
+    place:Chuignolles (40,77)
+    person:Lieutenant General Pultney (award) (52,83)
+    person:Lieutenant General W Pultney (award) (33,84)
+Page 345 (type diary) http://wd3.herokuapp.com/pages/AWD00004k3  ----------
+  28 Feb 1917 21
+    place:Chuignolles (7,27)
+    person:Major General E P Strickland (award) (23,27)
+    person:Brigadier General G S G Crauford (award) (29,30)
+    person:Lieutenant Colonel E Monteagle-Browne (award) (37,35)
+    person:Second Lieutenant C R Horan (award) (26,42)
+    person:Regimental Quarter Master Sergeant Jones (award) (26,44)
+    person:Sergeant W Dealtry (award) (44,47)
+    person:Sergeant M Gallivan (award) (45,49)
+    person:Private W Higgs (award) (40,51)
+    person:Private W Bentley (award) (41,54)
+    person:Major A W Blockley (departed_posted) (33,64)
+    person:Lieutenant L Bainbridge-Bell (departed_posted) (39,68)
+    person:Second Lieutenant H Darling (joined) (41,73)
+    person:Second Lieutenant A W Reynolds (joined) (52,79)
+    person:Second Lieutenant S S Frankenburg (other) (72,79)
+    person:Second Lieutenant W B Marshall (other) (34,80)
+    person:Lieutenant A Forbes (other) (22,81)
+    person:Lieutenant Colonel E Monteagle-Browne (author) (55,90)
+Page 346 (type orders) http://wd3.herokuapp.com/pages/AWD00004h8  ----------
+  28 Feb 1917 0
+    person:Lieutenant Colonel E Monteagle-Browne (author) (35,10)
+    reference:Maps 57D, 62D, 1/40000 (47,13)
+    date:1 Feb 1917 (64,16)
+    mapRef:57D (45,20)
+    mapRef:62D (50,20)
+    reference:Maps 57D 62D (40,20)
+    place:Morcourt (52,23)
+    orders:move (45,23)
+    date:2 Feb 1917 (38,24)
+    orders:move (36,32)
+    reference:Map 57D (42,44)
+    reference:bicycles (43,58)
+    place:Contay (58,59)
+    place:Cerisy (53,63)
+Page 347 (type orders) http://wd3.herokuapp.com/pages/AWD00004ez  ----------
+  28 Feb 1917 0
+    person:Lieutenant Harcourt (author) (48,36)
+Page 348 (type orders) http://wd3.herokuapp.com/pages/AWD00004hx  ----------
+  28 Feb 1917 0
+    reference:Order No 4 (47,13)
+    reference:Reference sheet 62.c. (35,16)
+    orders:move (44,19)
+    reference:Appendix III (61,2)
+    unit:2 Battallion Welsh Regiment (59,30)
+    person:Lieutenant General Dett (other) (61,37)
+    date:10 Feb 1917 (41,74)
+    person:Lieutenant J Vernon Harcourt (author) (57,75)
+Page 349 (type ) http://wd3.herokuapp.com/pages/AWD00004hr  ----------
+Page 350 (type ) http://wd3.herokuapp.com/pages/AWD00004f9  ----------
+  28 Feb 1917 0
+    reference:Silent (55,39)
+    reference:Appendix IV (58,5)
+    reference:Silent Half Hour (48,8)
+Page 351 (type ) http://wd3.herokuapp.com/pages/AWD00004ip  ----------
+  28 Feb 1917 0
+    person:Lieutenant Colonel E Monteagle-Browne (author) (47,82)
+    date:13 Feb 1917 (39,85)
+Page 352 (type orders) http://wd3.herokuapp.com/pages/AWD00004k1  ----------
+  28 Feb 1917 0
+    reference:Secret order No.5 (54,11)
+    reference:Appendix V (58,4)
+    date:14 Feb 1917 (43,59)
+    reference:Order No 5 (53,7)
+Page 353 (type orders) http://wd3.herokuapp.com/pages/AWD00004ga  ----------
+  28 Feb 1917 0
+    orders:move (45,14)
+    reference:2nd Batt  Welsh Regiment (54,14)
+    reference:Appendix VI (61,3)
+    reference:Aeroplane Photos (33,53)
+    date:18 Feb 1917 (42,64)
+    reference:2nd Batt  Royal Munster Fusiliers (64,7)
+    reference:Order No 6 (41,9)
+Page 354 (type orders) http://wd3.herokuapp.com/pages/AWD00004l8  ----------
+  28 Feb 1917 0
+    reference:Appendix VII (55,1)
+    reference:Secret order No.7 (37,14)
+    orders:move (38,16)
+    reference:Order No7 (50,17)
+    unit:2 Welsh Regiment (55,18)
+    unit:B. Coy, 2 Welsh (55,22)
+    unit:D. Coy, 2 Welsh (57,23)
+    unit:C. Coy, 2 Welsh (55,25)
+    unit:A. Coy, 2 Welsh (57,26)
+    reference:Aeroplane photos (34,35)
+    reference:L. G. Drums and trench stores (52,36)
+    reference:Petrol tins (37,41)
+    reference:Gas Flappers (37,44)
+    reference:Gum Boots (44,44)
+    date:21 Feb 1917 (43,67)
+Page 355 (type orders) http://wd3.herokuapp.com/pages/AWD00004ir  ----------
+  28 Feb 1917 0
+    reference:Appendix VIII (77,2)
+    unit:3 Infantry Brigade (26,21)
+    unit:2 Infantry Brigade (65,22)
+    date:23 Feb 1917 (33,22)
+    reference:Chuignes (68,25)
+    reference:Chuignolles (78,25)
+    unit:2 Batallion Royal Sussex Regiment (52,34)
+    reference:Chuignolles (43,37)
+    reference:Sucerie (49,47)
+    date:23 Feb 1917 (35,72)
+Page 356 (type orders) http://wd3.herokuapp.com/pages/AWD00004l4  ----------
+  28 Feb 1917 0
+    reference:Order No7 (39,23)
+Page 357 (type orders) http://wd3.herokuapp.com/pages/AWD00004kq  ----------
+  28 Feb 1917 0
+    reference:Parish Church Chuignolles (77,48)
+    reference:C A Hut Chuignolles (24,52)
+    date:25 Feb 1917 (43,8)
+    reference:Appendix IX (63,8)
+Page 358 (type orders) http://wd3.herokuapp.com/pages/AWD00004je  ----------
+  28 Feb 1917 0
+    date:26 Feb 1917 (42,11)
+    reference:Appendix X (62,13)
+    reference:Scale of Parade Appendix 10 (33,66)
+Page 359 (type ) http://wd3.herokuapp.com/pages/AWD00004g1  ----------
+  28 Feb 1917 0
+    time:0630AM (31,13)
+    reference:Appendix XI (68,5)
+    date:27 Feb 1917 (42,7)
+Page 360 (type orders) http://wd3.herokuapp.com/pages/AWD00004fo  ----------
+  28 Feb 1917 0
+    reference:Appendix XII (68,10)
+    date:28 Feb 1917 (48,12)
+    reference:2nd Royal Munster Fusiliers (49,74)
+Page 361 (type report) http://wd3.herokuapp.com/pages/AWD00004ie  ----------
+  28 Feb 1917 0
+    reference:Appendix XIII (65,27)
+    reference:Summary of Casualties Appendix 13 (63,33)
+    reference:Killed (35,55)
+    reference:Wounded (37,55)
+    reference:Missing (39,55)
+    reference:Killed (35,8)
+    reference:Wounded (38,8)
+    reference:Missing (40,9)
+Page 362 (type report) http://wd3.herokuapp.com/pages/AWD00004jc  ----------
+  28 Feb 1917 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 9; wounded: 0 (41,18)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (42,20)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (41,22)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (39,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (39,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (42,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (43,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (42,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 1 (38,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (38,38)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 4; wounded: 2 (39,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 1 (37,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 1 (37,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (38,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (39,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (36,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (41,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 7; wounded: 0 (36,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (39,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 1 (37,90)
+    reference:Cas total for the month of Feb 1917 (62,93)
+    date:28 Feb 1917 (32,93)
+Page 363 (type cover)
+Page 364 (type diary) http://wd3.herokuapp.com/pages/AWD00004gp  ----------
+  Hashtags: #badscan 
+  1 Mar 1917 22
+    place:Chuignolles (5,28)
+    reference:I (91,32)
+  2 Mar 1917 51
+    reference:II (92,55)
+    place:Chuignolles (6,56)
+  3 Mar 1917 73
+    place:Chuignolles (49,78)
+    reference:III (93,79)
+    activity:movement (15,83)
+    person:Lieutenant Colonel E Monteagle-Browne (other) (48,83)
+    person:Captain V L C Manning (other) (57,87)
+Page 365 (type diary) http://wd3.herokuapp.com/pages/AWD00004ld  ----------
+  3 Mar 1917 21
+    unit:Highlanders (70,27)
+    unit:1 Cameron Highlanders (61,28)
+  4 Mar 1917 40
+    time:1000PM (42,40)
+  5 Mar 1917 63
+  3 Mar 1917 21
+  5 Mar 1917 63
+    activity:reconnoitered (45,78)
+    person:Second Lieutenant Kelly (combat) (63,78)
+    place:Saint Eloi Wood (50,82)
+    person:Second Lieutenant O C Stokes (combat) (69,87)
+    time:0300AM (85,87)
+Page 366 (type diary) http://wd3.herokuapp.com/pages/AWD00004eq  ----------
+  5 Mar 1917 22
+    person:Second Lieutenant O C Stokes (combat) (56,27)
+    person:Second Lieutenant Stokes (68,29)
+    person:Sergeant Hawley (combat) (24,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (35,48)
+    person:Dennehy (22,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (42,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (58,62)
+    person:Second Lieutenant Stokes (casualty_mia) (40,63)
+    person:Sergeant Hawley (casualty_mia) (54,63)
+  6 Mar 1917 71
+    time:0800PM (27,71)
+    activity:repair (24,77)
+  7 Mar 1917 85
+Page 367 (type diary) http://wd3.herokuapp.com/pages/AWD00004ia  ----------
+  6 Mar 1917 24
+    person:Second Lieutenant Kidd (combat) (68,32)
+    person:Second Lieutenant Kelly (combat) (78,32)
+    activity:reconnoitered (46,32)
+  7 Mar 1917 37
+    activity:repair (31,40)
+    unit:2 Welch Regiment (33,44)
+    unit:2 Welsh Regiment (46,44)
+    unit:2 Welch Reg (38,45)
+    unit:C Coy, 2 Welch Reg (47,48)
+    unit:D Coy, 2 Welch Reg (77,52)
+    unit:B & C Coy, 2 Welch Reg (38,53)
+    unit:2 Welsh Regiment (49,59)
+  8 Mar 1917 67
+    unit:1 Gloucester Regiment (89,67)
+    unit:1 Gloucester Regiment (76,68)
+    reference:3 Strong Point each garrisoned by a platoon (24,78)
+  9 Mar 1917 79
+    domestic:hygiene (34,86)
+    unit:141 fa (65,87)
+    person:Captain R E Morehead (joined) (26,91)
+Page 368 (type diary) http://wd3.herokuapp.com/pages/AWD00004jp  ----------
+  Hashtags: #trenches 
+  10 Mar 1917 22
+    reference:Support Area Shelled (66,26)
+    activity:repair (26,27)
+    activity:fire (76,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,31)
+    place:Assevillers (78,35)
+    domestic:hygiene (50,36)
+    unit:141 fa (67,36)
+    unit:141 fa assevillers (65,36)
+    activity:movement (38,39)
+  11 Mar 1917 43
+    activity:repair (25,47)
+    unit:2 Welsh Regiment (42,51)
+    unit:2 Welsh Regiment (67,51)
+    reference:Appendix IV (79,51)
+    unit:2/Welch Regiment (36,52)
+    weather:rain (54,63)
+    weather:rain (44,64)
+  12 Mar 1917 67
+    activity:repair (29,71)
+    person:Second Lieutenant Stewart (other) (40,82)
+    activity:reconnoitered (28,83)
+    reference:Map No 5 (32,86)
+    mapRef:5 (37,87)
+    mapRef:No 5 (35,88)
+Page 369 (type diary) http://wd3.herokuapp.com/pages/AWD00004ju  ----------
+  Hashtags: #mud 
+  12 Mar 1917 23
+    activity:enemy_activity (32,27)
+    activity:line (17,28)
+    time:0950PM (78,31)
+    activity:reconnoitered (56,31)
+  13 Mar 1917 32
+    activity:repair (21,36)
+    activity:repair (30,39)
+    reference:Appendix V (92,43)
+    time:0245AM (43,48)
+    person:Second Lieutenant Cahill (combat) (32,56)
+    activity:reconnoitered (21,56)
+    time:0230AM (64,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (75,63)
+    gridRef:N_27_C_1.5_7.5 (75,67)
+    person:Second Lieutenant O'Connor (combat) (51,67)
+    activity:reconnoitered (26,67)
+    activity:fire (78,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (64,79)
+  14 Mar 1917 83
+    activity:repair (32,87)
+Page 370 (type diary) http://wd3.herokuapp.com/pages/AWD00004lp  ----------
+  14 Mar 1917 24
+    person:Second Lieutenant Cahill (combat) (43,28)
+    person:Company Sergeant Major Potter (combat) (57,28)
+    activity:line (10,28)
+    time:0200AM (44,32)
+  15 Mar 1917 52
+    time:0330AM (71,52)
+    activity:repair (27,57)
+    time:1100PM (82,64)
+    reference:Appendix VI (91,67)
+    place:Assevillers (34,75)
+    activity:resting (58,83)
+Page 371 (type diary) http://wd3.herokuapp.com/pages/AWD00004h0  ----------
+  Hashtags: #StPatrick 
+  16 Mar 1917 23
+    domestic:inspections (75,27)
+    place:Assevillers (7,27)
+    activity:raid (32,32)
+    unit:2/Welch Regiment (27,32)
+  17 Mar 1917 40
+    time:1230AM (28,44)
+    time:0500AM (55,47)
+    domestic:religion (23,52)
+    person:Chaplain E Cardiff (other) (43,56)
+    domestic:rations (73,59)
+    activity:movement (76,66)
+    time:0330PM (35,68)
+    place:Great Wood (57,70)
+    place:Boulogne Quarry (44,79)
+  18 Mar 1917 83
+    time:0530PM (22,83)
+Page 372 (type diary) http://wd3.herokuapp.com/pages/AWD00004fu  ----------
+  18 Mar 1917 22
+    place:Somme (73,28)
+    time:0100PM (80,32)
+    activity:movement (60,36)
+    place:Villers-Carbonnel (38,40)
+    unit:1 Gloucestershire Regiment (48,43)
+    unit:2 Welsh Regiment (73,44)
+    place:Brie (67,59)
+    place:Villers-Carbonnel (65,64)
+    activity:other (65,69)
+    place:Brie (31,74)
+    time:0700PM (57,83)
+    unit:Royal Engineers (28,83)
+Page 373 (type diary) http://wd3.herokuapp.com/pages/AWD00004jb  ----------
+  18 Mar 1917 22
+    place:Somme (69,31)
+    activity:line (26,35)
+    place:Brie (35,40)
+    activity:reconnoitered (23,43)
+    unit:2 Welsh (65,51)
+    place:Villers-Carbonnel (80,51)
+    place:Chateau Happlincourt (62,55)
+  19 Mar 1917 59
+    time:0500PM (71,62)
+    activity:movement (31,71)
+Page 374 (type diary) http://wd3.herokuapp.com/pages/AWD00004lk  ----------
+  19 Mar 1917 22
+    place:Athies Wood (56,36)
+    activity:reconnoitered (42,36)
+    place:Mons En Chausse (40,40)
+    unit:1 Northampton Regiment. (57,44)
+    time:0800PM (26,44)
+    place:Becquincourt (52,48)
+    place:Becquincourt (5,56)
+    time:0500AM (60,56)
+  20 Mar 1917 59
+    domestic:accomodation (31,59)
+    activity:resting (58,63)
+    domestic:hygiene (22,66)
+  21 Mar 1917 67
+    domestic:accomodation (50,71)
+    place:Chuignolles (64,71)
+    reference:Appendix VII (77,71)
+    reference:Appendix VII (92,72)
+  22 Mar 1917 78
+    domestic:inspections (44,86)
+Page 375 (type diary) http://wd3.herokuapp.com/pages/AWD00004jr  ----------
+  22 Mar 1917 0
+    reference:VII (93,26)
+  23 Mar 1917 27
+  24 Mar 1917 32
+    reference:IX (92,32)
+    person:Brigadier General R C McCalmont (other) (51,37)
+    reference:X (92,43)
+  25 Mar 1917 44
+    activity:training (24,48)
+    reference:XI (91,50)
+  26 Mar 1917 51
+    weather:rain (24,56)
+    activity:other (54,58)
+  27 Mar 1917 60
+    reference:XII (93,63)
+    domestic:inspections (29,68)
+Page 376 (type diary) http://wd3.herokuapp.com/pages/AWD00004kc  ----------
+  Hashtags: #grave 
+  28 Mar 1917 23
+    reference:XIII (92,26)
+  29 Mar 1917 28
+    reference:XIV (93,32)
+    person:Major General E P Strickland (other) (39,35)
+    activity:training (65,38)
+  31 Mar 1917 40
+  30 Mar 1917 41
+    reference:XV (89,44)
+    place:Villers-Carbonnel (82,48)
+    person:Second Lieutenant O C Stokes (casualty_kia) (39,51)
+    gridRef:N_30_C_5_8 (42,55)
+    mapRef:62c SW (34,56)
+    reference:Grave Inscription - LTN STOKES R MUNS Fus (87,59)
+    reference:Grave markings made by RMF (19,68)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,80)
+    person:Captain R A Frizell (23,82)
+    person:Captain R E Morehead (22,86)
+Page 377 (type diary) http://wd3.herokuapp.com/pages/AWD00004h2  ----------
+  30 Mar 1917 0
+    person:Captain J C R Delmege (casualty_kia) (25,27)
+    person:Second Lieutenant J O Holliday (casualty_kia) (23,31)
+    person:Captain V L C Manning (promotion) (24,49)
+    reference:XVIII (51,56)
+    reference:XVII (42,58)
+Page 378 (type orders) http://wd3.herokuapp.com/pages/AWD00004fa  ----------
+  30 Mar 1917 0
+    reference:Appendix I (75,42)
+Page 379 (type orders) http://wd3.herokuapp.com/pages/AWD00004ij  ----------
+  30 Mar 1917 0
+    reference:Appendix II (82,28)
+    date:2 Mar 1917 (41,43)
+    orders:training (23,44)
+Page 380 (type orders) http://wd3.herokuapp.com/pages/AWD00004fh  ----------
+  30 Mar 1917 0
+    reference:62.c.S.W. (39,11)
+    reference:Appendix III (54,3)
+    date:2 Mar 1917 (40,66)
+Page 381 (type orders) http://wd3.herokuapp.com/pages/AWD00004gd  ----------
+  30 Mar 1917 0
+    reference:Order No 10 (44,16)
+    orders:move (45,16)
+    orders:move (41,30)
+    reference:Appendix IV (53,4)
+    date:11 Mar 1917 (35,55)
+Page 382 (type orders) http://wd3.herokuapp.com/pages/AWD00004h1  ----------
+  30 Mar 1917 0
+    reference:Order No 11 (50,10)
+    orders:move (48,15)
+    reference:Appendix V (58,4)
+    orders:routine (44,45)
+    date:13 Mar 1917 (41,56)
+Page 383 (type orders) http://wd3.herokuapp.com/pages/AWD00004jz  ----------
+  30 Mar 1917 0
+    reference:Appendix VI (59,2)
+    orders:move (36,29)
+    date:14 Mar 1917 (43,64)
+    person:Captain Lanktree (author) (53,65)
+    orders:move (41,8)
+    reference:Order No 12 (49,8)
+Page 384 (type orders) http://wd3.herokuapp.com/pages/AWD00004fi  ----------
+  30 Mar 1917 0
+    orders:move (41,15)
+    reference:Appendix VII (59,2)
+    person:Lieutenant Morgan (other) (44,20)
+    person:Second Lieutenant McDonald (other) (39,29)
+    person:Lieutenant McDonald Morgan (other) (52,32)
+    person:Second Lieutenant McDonald (other) (52,37)
+    person:Captain Lanktree (author) (52,52)
+    date:21 Mar 1917 (36,57)
+    reference:Order No 13 (49,8)
+Page 385 (type orders) http://wd3.herokuapp.com/pages/AWD00004ej  ----------
+  30 Mar 1917 0
+    reference:Appendix IX (83,28)
+    date:23 Mar 1917 (45,33)
+    orders:training (26,35)
+Page 386 (type orders) http://wd3.herokuapp.com/pages/AWD00004g5  ----------
+  30 Mar 1917 0
+    reference:Appendix X (82,27)
+    orders:training (19,35)
+    date:24 Mar 1917 (45,37)
+    time:0900AM (12,43)
+    time:1230PM (25,43)
+    time:0200PM (12,46)
+    time:0400PM (24,47)
+Page 387 (type orders) http://wd3.herokuapp.com/pages/AWD00004er  ----------
+  30 Mar 1917 0
+    reference:Appendix XI (82,27)
+    orders:training (27,35)
+    date:25 Mar 1917 (44,35)
+    orders:training (26,41)
+Page 388 (type orders) http://wd3.herokuapp.com/pages/AWD00004l1  ----------
+  30 Mar 1917 0
+    reference:Appendix XII (76,19)
+    reference: (41,20)
+    reference:Appendix XII (84,20)
+    date:27 Mar 1917 (42,27)
+    orders:training (23,27)
+    orders:other (45,74)
+Page 389 (type orders) http://wd3.herokuapp.com/pages/AWD00004im  ----------
+  30 Mar 1917 0
+    reference:Appendix XIII (80,25)
+    date:28 Mar 1917 (39,33)
+    orders:training (23,33)
+    orders:training (47,39)
+Page 390 (type orders) http://wd3.herokuapp.com/pages/AWD00004f7  ----------
+  30 Mar 1917 0
+    orders:training (14,21)
+    date:29 Mar 1917 (25,22)
+    date:29 Mar 1917 (41,23)
+Page 391 (type orders) http://wd3.herokuapp.com/pages/AWD00004lc  ----------
+  30 Mar 1917 0
+    reference:Appendix XV (81,23)
+    orders:training (11,34)
+    date:30 Mar 1917 (36,35)
+Page 392 (type orders) http://wd3.herokuapp.com/pages/AWD00004gx  ----------
+  30 Mar 1917 0
+Page 393 (type report) http://wd3.herokuapp.com/pages/AWD00004j7  ----------
+  30 Mar 1917 0
+    reference:Appendix XVII (38,2)
+    reference:Appendix XVII (49,2)
+    date:3 Mar 1917 (31,23)
+    person:Captain R A Frizell (returned_hospital) (59,24)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,29)
+    date:5 Mar 1917 (31,29)
+    person:Captain R E Morehead (other) (61,33)
+    date:6 Mar 1917 (31,33)
+    date:11 Mar 1917 (31,48)
+    person:Captain J C R Delmege (joined) (60,54)
+    date:13 Mar 1917 (31,55)
+    person:Lieutenant J D Holliday (other) (64,59)
+    date:21 Mar 1917 (31,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (47,81)
+Page 394 (type report) http://wd3.herokuapp.com/pages/AWD00004l3  ----------
+  30 Mar 1917 0
+    date:25 Mar 1917 (31,15)
+    date:27 Mar 1917 (31,23)
+    date:30 Mar 1917 (31,33)
+    reference:Appendix XVII - Page 2 (67,5)
+Page 395 (type ) http://wd3.herokuapp.com/pages/AWD00004l9  ----------
+  30 Mar 1917 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (46,17)
+    reference:4 men to hospital (47,18)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (47,21)
+    reference:5 men to hospital (47,21)
+    reference:8 men to hospital (47,24)
+    reference:1 men to base (69,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (39,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (39,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 4 (39,36)
+    reference:2 men killed (35,37)
+    reference:1 men to hospital (47,37)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 9; wounded: 0 (39,39)
+    reference:2 men killed (35,40)
+    reference:9 men to hospital (46,40)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 4; wounded: 0 (38,42)
+    reference:2 men killed (35,43)
+    reference:4 men to hospital (47,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (39,46)
+    reference:1 men to hospital (47,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 1 (39,49)
+    reference:1 men wounded (39,49)
+    reference:5 men to hospital (47,49)
+    reference:1 men wounded (39,51)
+    reference:2 men to hospital (47,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 1 (39,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (38,56)
+    reference:1 men wounded (39,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (39,58)
+    reference:5 men wounded (39,58)
+    reference:1 men killed (35,61)
+    reference:5 men wounded (38,61)
+    casualties:died: 0; killed: 3; missing: 0; prisoner: 0; sick: 0; wounded: 5 (38,62)
+    reference:1 men wounded (39,68)
+    reference:1 men to hospital (47,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 1 (39,69)
+    reference:1 men wounded (39,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (39,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (45,87)
+    reference:9 men to hospital (47,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (45,90)
+    reference:1 men to hospital (46,90)
+Page 396 (type report) http://wd3.herokuapp.com/pages/AWD00004k9  ----------
+  30 Mar 1917 0
+    reference:2 men to base (70,18)
+    reference:5 men from hospital (50,30)
+    reference:4 men from hospital (50,33)
+    reference:1 men to hospital (47,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (47,37)
+    reference:7 men killed (35,41)
+    reference:21 men wounded (39,41)
+    reference:9 men from hospital (50,41)
+    casualties:died: 0; killed: 7; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,42)
+    casualties:died: 0; killed: 7; missing: 0; prisoner: 0; sick: 0; wounded: 21 (39,42)
+    casualties:died: 0; killed: 7; missing: 0; prisoner: 0; sick: 47; wounded: 21 (47,42)
+    reference:47 men to hospital (47,42)
+    reference:3 men to base (69,42)
+Page 397 (type cover)
+Page 398 (type diary) http://wd3.herokuapp.com/pages/AWD00004gw  ----------
+  1 Apr 1917 24
+    reference:Programme of work as per appendix I carried out (21,27)
+    reference:appendix (51,27)
+  2 Apr 1917 28
+    place:Chuignolles (6,28)
+  3 Apr 1917 32
+    reference:Programme of work as per appendix II carried out (21,32)
+    reference:appendix (53,32)
+  4 Apr 1917 36
+    reference:Programme of work as per appendix III carried out (22,36)
+    reference:appendix (55,36)
+    reference:Programme of work not carried out due to very inclement weather (22,42)
+  5 Apr 1917 52
+    reference:Programme of work as per appendix IV carried out (22,55)
+    reference:appendix (55,55)
+  6 Apr 1917 56
+  7 Apr 1917 60
+    reference:Programme of work as per appendix V carried out (22,60)
+    reference:appendix (58,60)
+  8 Apr 1917 84
+    reference:Programme of work as per appendix VI carried out (22,64)
+    reference:appendix (54,64)
+    place:Eterpigny (76,66)
+    reference:Batalions moved to a camp situated between eterpigny and Brie (24,68)
+    activity:movement (22,68)
+    mapRef:G2c5w (35,70)
+    mapRef:G2e5.w02od1.9 (38,70)
+    mapRef:62c SW (46,70)
+    domestic:rations (63,70)
+    mapRef:620 (46,71)
+    place:Brie (28,71)
+    place:Assevillers (67,75)
+    domestic:accomodation (53,82)
+    weather:fine (76,85)
+Page 399 (type diary) http://wd3.herokuapp.com/pages/AWD00004lu  ----------
+  8 Apr 1917 24
+    reference:man marched well (21,25)
+  9 Apr 1917 36
+    unit:650 ncos and men (57,40)
+    activity:other (25,40)
+    reference:a working party was found, work consisted of replacing sleepers? on the peronne-shaulnes railway (21,41)
+    place:Chaulnes (35,47)
+    place:Peronne (28,48)
+    time:0800AM (81,51)
+    time:0400PM (21,55)
+    domestic:rations (28,63)
+  10 Apr 1917 67
+    reference:A coy worked on the southern side of pont-les-brie (64,71)
+    reference:B coy worked on the bridge of pont-les-brie to happincourt chateau (42,75)
+    place:Pont-les-Brie (33,75)
+    reference:B coy worked just below the camp (28,78)
+    place:Eterpigny (76,78)
+    reference:D coy worked near eterpigny (62,79)
+    reference:Men left in camp went on  as usual training (80,81)
+    reference:the work consisted of replacing sleepers? as yesterday (21,83)
+    activity:training (72,87)
+Page 400 (type diary) http://wd3.herokuapp.com/pages/AWD00004mi  ----------
+  10 Apr 1917 24
+    activity:training (31,27)
+  11 Apr 1917 28
+    place:Brie (72,31)
+    activity:other (33,32)
+    reference:A coy found a party of 100 man for work on Brie station (22,32)
+    reference:A coy with 100 man commenced work on the new Army HdQrs near Brie (22,36)
+    place:Brie (42,37)
+    reference:C and D coys (each 100 men) work on railway line towards peronne (51,37)
+    place:Peronne (64,41)
+    reference:all coys worked from 8 am to 4 pm (74,42)
+  12 Apr 1917 43
+    time:0800AM (27,43)
+    time:0400PM (35,43)
+    reference:same as yesterday (23,48)
+    place:Brie (26,49)
+    activity:other (37,50)
+    place:Peronne (67,59)
+  13 Apr 1917 60
+    place:Brie (76,65)
+    reference:A coy: Brie station; B coy: Army HQ; C&D coy: railway (23,65)
+    place:Peronne (55,72)
+    time:0100PM (34,75)
+    unit:2/Welch Regiment (25,76)
+    time:0700PM (63,76)
+    reference:a brak was made for tea (29,80)
+    time:0730PM (61,83)
+    place:Le Mesnil (63,86)
+Page 401 (type diary) http://wd3.herokuapp.com/pages/AWD00004j5  ----------
+  Hashtags: #boobytrap 
+  13 Apr 1917 23
+    time:0700PM (72,26)
+    place:Peronne (44,29)
+  14 Apr 1917 30
+    place:Brie (53,33)
+    activity:other (26,35)
+    place:Peronne (46,40)
+    place:Le Mesnil (59,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (50,54)
+    activity:enemy_activity (42,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (59,55)
+    time:0100PM (24,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (34,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (43,58)
+  15 Apr 1917 59
+    domestic:religion (31,62)
+    weather:rain (44,75)
+    activity:resting (25,75)
+Page 402 (type diary) http://wd3.herokuapp.com/pages/AWD00004lo  ----------
+  16 Apr 1917 21
+    place:Nesle (68,25)
+    activity:movement (29,26)
+    unit:1 Brigade (32,28)
+    weather:fine (54,29)
+    reference:Appendix VIII (90,30)
+    time:0130PM (68,35)
+    place:Nesle (22,37)
+    time:0545PM (50,37)
+    place:Morlemont (76,40)
+    domestic:accomodation (51,42)
+    unit:1 Brigade (26,46)
+  17 Apr 1917 47
+    weather:rain (22,51)
+    place:Nesle (6,52)
+    activity:other (34,53)
+    place:Nesle (55,55)
+    mapRef:66d NW4 (25,61)
+  18 Apr 1917 67
+    place:Nesle (46,67)
+    activity:other (57,70)
+    unit:1 Brigade re (51,74)
+  19 Apr 1917 79
+    place:Pargny (61,87)
+    mapRef:66a NW (80,92)
+Page 403 (type diary) http://wd3.herokuapp.com/pages/AWD00004hb  ----------
+  19 Apr 1917 22
+    place:Nesle (33,25)
+    place:Voyenne (54,25)
+    place:Nesle (73,25)
+    place:Nesle Area (7,25)
+  20 Apr 1917 37
+    activity:other (24,39)
+    place:Curchy (69,43)
+    activity:other (23,45)
+    activity:training (28,49)
+    activity:training (37,49)
+    time:0900AM (61,57)
+    activity:other (28,58)
+  21 Apr 1917 61
+    activity:other (22,65)
+    time:0100PM (82,69)
+    time:0900AM (57,75)
+    activity:training (30,78)
+    place:Nesle Station (77,78)
+    activity:training (24,82)
+    time:0900AM (63,82)
+    domestic:parades (33,83)
+  22 Apr 1917 84
+    domestic:religion (25,87)
+    time:0630AM (67,87)
+    activity:other (30,89)
+  19 Apr 1917 22
+  22 Apr 1917 84
+    activity:other (39,92)
+    activity:other (63,93)
+Page 404 (type diary) http://wd3.herokuapp.com/pages/AWD00004iu  ----------
+  22 Apr 1917 23
+    time:0800PM (71,28)
+    place:Nesle (6,28)
+    activity:repair (53,31)
+    time:0900AM (66,35)
+    activity:other (25,35)
+    domestic:religion (31,40)
+    place:Nesle Station (84,43)
+    time:0900AM (30,48)
+  23 Apr 1917 49
+    place:Voyennes (30,55)
+    time:0100PM (52,56)
+    time:0700PM (58,56)
+    place:Nesle (14,56)
+    activity:other (61,58)
+    time:0700AM (48,59)
+    time:1100AM (54,63)
+    time:1230PM (62,63)
+    place:Mesnil Saint Nicaise (29,63)
+    time:0300PM (21,67)
+    time:0430PM (27,67)
+    time:0900AM (63,71)
+    activity:repair (33,73)
+    time:1115AM (51,74)
+    time:0400PM (58,74)
+    time:1145AM (39,79)
+    domestic:hygiene (29,79)
+    time:0900AM (78,82)
+    time:0400PM (53,86)
+Page 405 (type diary) http://wd3.herokuapp.com/pages/AWD00004kt  ----------
+  24 Apr 1917 21
+    place:Nesle (7,24)
+    place:Nesle Area (8,24)
+    unit:75 Sanitary Section (59,30)
+    unit:217 a>t coy re (44,33)
+    unit:Oc 217 (47,33)
+    unit:217 a t coy, re (54,37)
+    place:Mesnil Saint Nicaise (29,39)
+  23 Apr 1917 0
+  24 Apr 1917 21
+    place:Mesnil Le Petit (63,41)
+    place:Nesle (37,46)
+    reference:C/02 (90,48)
+    place:Nesle (58,50)
+    activity:training (59,57)
+  25 Apr 1917 70
+    activity:training (42,77)
+    activity:other (34,84)
+Page 406 (type diary) http://wd3.herokuapp.com/pages/AWD00004is  ----------
+  25 Apr 1917 21
+    place:Nesle (6,25)
+  26 Apr 1917 37
+    reference:D coy: Nesle station; A coy: roads; B &C coy: training programme (22,43)
+    place:Nesle (23,45)
+    unit:256 coy re (69,48)
+    unit:217 at coy re (37,52)
+    mapRef:Rosieres (15,59)
+    activity:training (50,60)
+  27 Apr 1917 71
+    activity:training (57,75)
+    reference:C coy: Nesle station; B coy: roads; A &D coy: training programme (22,76)
+  28 Apr 1917 84
+    reference:D coy: Nesle station; A coy: roads (22,86)
+Page 407 (type diary) http://wd3.herokuapp.com/pages/AWD00004gf  ----------
+  28 Apr 1917 22
+    activity:training (57,25)
+    reference:B coy: training (22,26)
+    reference:C coy: roads (22,45)
+    mapRef:Rosieres (77,47)
+    place:Bethencourt (37,48)
+    gridRef:C_21_C_5_1 (67,48)
+    mapRef:C21C51 rolieces (74,49)
+    place:Pargny (24,49)
+  29 Apr 1917 50
+    domestic:religion (30,53)
+    domestic:inspections (35,56)
+    place:Herly (46,59)
+    domestic:sport (26,60)
+    unit:5 Con Division Supply Column (76,60)
+  30 Apr 1917 68
+    activity:training (63,73)
+Page 408 (type diary) http://wd3.herokuapp.com/pages/AWD00004kx  ----------
+  30 Apr 1917 0
+    person:Second Lieutenant G W Harte (joined) (40,39)
+Page 409 (type orders) http://wd3.herokuapp.com/pages/AWD00004km  ----------
+  30 Apr 1917 0
+    date:1 Apr 1917 (46,11)
+    date:7 Apr 1917 (50,12)
+    reference:not carried out (36,73)
+    orders:training (40,8)
+Page 410 (type orders) http://wd3.herokuapp.com/pages/AWD00004kd  ----------
+  30 Apr 1917 0
+    date:6 Apr 1917 (36,14)
+    reference:Min Range Bayt Fighting (66,15)
+    orders:training (49,15)
+    reference:Appendix V (35,18)
+    reference:Min Range Bayt Fighting (66,19)
+    reference:Bombing, L.Gunny,Bayt Fighting (65,23)
+    date:7 Apr 1917 (36,24)
+    orders:training (42,24)
+    reference:min range fire control,identification of targets (66,28)
+    orders:training (38,3)
+    reference:bombing,L.Gunny,Bay fighting (67,32)
+    reference:Appendix VI (35,34)
+    reference:Lecture for all officers and 1 NCO per platoon (68,36)
+    date:1 May 1917 (42,53)
+    reference:Signalling and Methods of attack (66,8)
+Page 411 (type orders) http://wd3.herokuapp.com/pages/AWD00004i7  ----------
+  30 Apr 1917 0
+    reference:Order No 14 (49,10)
+    orders:move (42,14)
+    reference:Camp between PONT LES BRIE and ETERFIGNEY (66,14)
+    reference:Appendix VII (56,2)
+    reference:Column of march ASSEVILLERS- BARLEUX- ETERPIGNEY (45,27)
+    date:7 Apr 1917 (39,62)
+    reference:Order No.14 - Copy2 (55,9)
+Page 412 (type orders) http://wd3.herokuapp.com/pages/AWD00004g8  ----------
+  30 Apr 1917 0
+    reference:Order No 15 (41,12)
+    orders:move (44,17)
+    reference:Appendix VIII (56,2)
+    reference:blankets (38,29)
+Page 413 (type ) http://wd3.herokuapp.com/pages/AWD00004ft  ----------
+  30 Apr 1917 0
+    person:Second Lieutenant Dodd (departed_training) (47,12)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (44,13)
+    person:Second Lieutenant Dodd (61,13)
+    reference:Rel from duty (51,15)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (53,15)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (50,17)
+    person:Second Lieutenant H Darling (returned_training) (54,17)
+    person:Second Lieutenant Horan (returned_training) (58,25)
+    person:Second Lieutenant Hickey (returned_training) (55,27)
+    person:Second Lieutenant Middleton (returned_training) (61,28)
+    person:Second Lieutenant Hickey (casualty_wounded) (53,30)
+    person:Second Lieutenant Horan (casualty_wounded) (54,30)
+    reference:Appendix IX Officers Wounded (62,5)
+    reference:Appendix IX (60,6)
+    person:Second Lieutenant Middleton (departed_sick) (58,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (46,64)
+    person:Lieutenant Marks (other) (53,72)
+    person:Second Lieutenant Harte (51,75)
+    person:Second Lieutenant Dodd (returned_training) (52,77)
+    person:Second Lieutenant Kidd (departed_training) (55,79)
+    person:Second Lieutenant Stewart (departed_training) (63,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 11 (50,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,89)
+Page 414 (type report) http://wd3.herokuapp.com/pages/AWD00004k7  ----------
+  30 Apr 1917 0
+    reference:Casualties NCO's and men (54,13)
+    reference:22 men reinforcements (48,22)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 25 (52,23)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (62,25)
+    reference:2 men to hospital (55,25)
+    reference:6 men to hospital (55,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (55,30)
+    reference:5 men to hospital (55,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (62,33)
+    reference:10 men reinforcements (48,39)
+    reference:2 men to hospital (55,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (54,43)
+    reference:12 men reinforcements (47,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (40,59)
+    reference:12 men reinforcements (48,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (55,62)
+    reference:1 men to hospital (55,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (58,68)
+    reference:1 men to hospital (54,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (55,72)
+    reference:2 men to hospital (54,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (59,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (55,77)
+    reference:20 men reinforcements (47,77)
+    reference:1 men to hospital (54,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (59,80)
+    reference:4 men reinforcements (47,80)
+    reference:1 men to hospital (54,80)
+    reference:1 men reinforcements (48,83)
+    reference:3 men to hospital (54,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 30 (51,91)
+    reference:12 men reinforcements (47,91)
+Page 415 (type report) http://wd3.herokuapp.com/pages/AWD00004gg  ----------
+  30 Apr 1917 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (48,13)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (51,16)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 6 (53,19)
+    reference:4 men wounded (42,38)
+    reference:93 men reinforcement (48,38)
+    reference:24 men to hospital (54,38)
+    reference:14 men from hospital (60,38)
+    reference:Casualties NCO's and men (46,5)
+Page 416 (type orders) http://wd3.herokuapp.com/pages/AWD00004ew  ----------
+  30 Apr 1917 0
+    person:Lieutenant Colonel E Monteagle-Browne (author) (37,11)
+    date:26 Apr 1917 (59,13)
+    orders:routine (35,19)
+    person:Second Lieutenant J O Holliday (author) (48,19)
+    reference:officer 1st div wishes to express his high appreciation  (36,26)
+    reference:Appendix X (61,7)
+Page 417 (type ) http://wd3.herokuapp.com/pages/AWD00004f8  ----------
+  30 Apr 1917 0
+    reference:Appendix XI (55,2)
+    date:29 Apr 1917 (41,42)
+Page 418 (type cover)
+Page 419 (type cover)
+Page 420 (type diary) http://wd3.herokuapp.com/pages/AWD00004fk  ----------
+  Hashtags: #tugofwar #billets #drum 
+  1 May 1917 20
+    place:Nesle (56,23)
+    place:Flamicourt-Peronne (81,23)
+    activity:movement (28,24)
+    reference:Appendix I (89,25)
+    reference:Appendix I (64,26)
+    unit:R.C.E.4 (44,27)
+    unit:Rce4 royal canadian engineers (47,27)
+    domestic:accomodation (68,27)
+    time:0530PM (27,29)
+    weather:fine (53,29)
+    weather:fine (40,29)
+    domestic:accomodation (61,29)
+  2 May 1917 36
+    unit:R.C.E.4 (23,40)
+    unit:Rce4 royal canadian engineers (26,40)
+    place:Flamicourt-Peronne (6,40)
+    domestic:accomodation (35,41)
+  3 May 1917 48
+    domestic:parades (22,48)
+    reference:Appendix II (54,49)
+    reference:Appendix II (89,49)
+    reference:programme of work as per appendix  (20,51)
+  4 May 1917 52
+    reference:Appendix III (54,53)
+    reference:Appendix III (89,54)
+    reference:programme of work as per appendix  (20,55)
+  5 May 1917 56
+    reference:Appendix IV (54,57)
+    reference:Appendix IV (90,58)
+    reference:programme of work as per appendix  (21,59)
+  6 May 1917 60
+    time:1000AM (38,62)
+    place:Flamicourt (58,62)
+    domestic:religion (23,63)
+    domestic:parades (31,63)
+    domestic:inspections (65,64)
+    activity:resting (76,67)
+    place:Peronne (62,70)
+    domestic:sport (36,71)
+    person:General H S Rawlinson (other) (29,75)
+  7 May 1917 85
+    mapRef: (71,78)
+    mapRef:62c N W (62,79)
+    reference:Appendix V (88,80)
+    activity:movement (21,80)
+    domestic:accomodation (37,81)
+    domestic:accomodation (26,82)
+    domestic:sport (58,84)
+Page 421 (type diary) http://wd3.herokuapp.com/pages/AWD00004hz  ----------
+  Hashtags: #rugby #waterpolo 
+  7 May 1917 0
+  8 May 1917 20
+    domestic:accomodation (59,24)
+    place:Eclusier (5,25)
+    domestic:hygiene (31,25)
+    reference:cleaning the camp (21,25)
+    domestic:hygiene (40,27)
+  9 May 1917 31
+    activity:training (24,35)
+  10 May 1917 38
+    reference:Appendix VI (88,40)
+    activity:training (25,41)
+    reference:Appendix VI (53,41)
+    reference:programme of work as per appendix  (21,42)
+  11 May 1917 43
+    reference:Appendix VII (53,44)
+    reference:Appendix VII (89,45)
+  12 May 1917 46
+    activity:training (27,46)
+    reference:programme of work as per appendix  (21,47)
+    reference:Appendix VIII (54,48)
+    reference:Appendix VIII (90,49)
+    reference:programme of work as per appendix  (21,50)
+  14 May 1917 52
+    reference:Appendix IX (47,52)
+    domestic:parades (24,53)
+    domestic:parades (21,53)
+    reference:programme of work as per appendix  (21,53)
+    reference:Appendix IX (89,54)
+    reference:Appendix X (48,55)
+    unit:2 Welsh Regiment (56,56)
+    unit:2 Munster (75,56)
+    reference:programme of work as per appendix  (22,56)
+    reference:Appendix X (89,57)
+    domestic:sport (30,59)
+    domestic:sport (35,59)
+  15 May 1917 63
+    unit:2 Royal Munster Fusiliers (58,64)
+  16 May 1917 66
+    reference:Appendix XII (92,67)
+    reference:Appendix XI (88,68)
+  17 May 1917 69
+    domestic:parades (24,69)
+    reference:programme of work as per appendix  (26,69)
+    reference:Appendix XI to XIV (60,69)
+    domestic:parades (21,70)
+    reference:Appendix XIV (92,71)
+  18 May 1917 72
+    reference:Appendix XIII (88,73)
+  19 May 1917 74
+    reference:Appendix XV (89,76)
+    place:Warfusée-Abancourt (50,77)
+  20 May 1917 78
+    activity:movement (23,78)
+    domestic:religion (25,82)
+    domestic:inspections (69,90)
+    activity:resting (34,90)
+Page 422 (type diary) http://wd3.herokuapp.com/pages/AWD00004ka  ----------
+  21 May 1917 23
+    reference:Appendix XVI (90,25)
+    reference:programme of work as per appendix  (22,26)
+    activity:other (33,27)
+    place:Warfusée-Abancourt (6,27)
+  22 May 1917 32
+    weather:other (36,35)
+    activity:training (46,40)
+  23 May 1917 44
+    reference:Appendix XVII (90,47)
+    reference:programme of work as per appendix  (21,48)
+  24 May 1917 49
+    reference:Appendix XVIII (91,52)
+    reference:programme of work as per appendix  (21,53)
+    domestic:sport (33,57)
+    place:Villers-Bretonneaux (56,57)
+    person:Private Merner (other) (73,68)
+  25 May 1917 69
+    person:Lieutenant C Ryan (other) (37,69)
+    person:Brigadier General R M Calmont (other) (71,73)
+  26 May 1917 74
+    domestic:inspections (37,77)
+  27 May 1917 78
+    reference:inspections en cleaning up before moving (21,78)
+    activity:movement (24,82)
+    place:Berthen (44,82)
+    unit:14 Corps 2 Army (70,82)
+    unit:1 Division (58,83)
+    reference:Appendix XIX (92,85)
+  28 May 1917 90
+    domestic:religion (54,86)
+    domestic:inspections (27,90)
+    domestic:hygiene (36,90)
+    place:Berthen (6,91)
+    reference:inspections en cleaning up billets (21,91)
+Page 423 (type diary) http://wd3.herokuapp.com/pages/AWD00004f2  ----------
+  29 May 1917 25
+  30 May 1917 28
+    place:Berthen (7,28)
+    activity:training (22,28)
+    domestic:parades (34,32)
+  31 May 1917 33
+    activity:training (23,36)
+    reference:Dispatches (5,43)
+    person:Douglas Haig (award) (66,45)
+    person:Second Lieutenant A K Will (award) (46,48)
+    person:Second Lieutenant E V Twiss (award) (54,49)
+    person:Second Lieutenant J Pattison (award) (66,50)
+    person:Quarter Master Sergeant T Gallagher (22,52)
+    person:Private P Finn (award) (72,53)
+    person:Private M Higgins (award) (80,54)
+    person:Private B Ward (award) (32,58)
+    reference:London Gazette 15.V.17 (57,58)
+Page 424 (type diary) http://wd3.herokuapp.com/pages/AWD00004fq  ----------
+  31 May 1917 21
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,28)
+    place:Berthen (7,28)
+    reference:strength of batalion (22,33)
+    reference:Appendix XX (88,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (73,36)
+Page 425 (type orders) http://wd3.herokuapp.com/pages/AWD00004fn  ----------
+  31 May 1917 0
+    date:30 Apr 1917 (34,10)
+    orders:move (36,15)
+Page 426 (type orders) http://wd3.herokuapp.com/pages/AWD00004fl  ----------
+  31 May 1917 0
+    date:3 May 1917 (91,3)
+    reference:Appendix II (65,6)
+    person:Major Y L C Manning (author) (63,88)
+Page 427 (type orders) http://wd3.herokuapp.com/pages/AWD00004iw  ----------
+  31 May 1917 0
+    reference:A Company (8,22)
+    reference:Appendix III (28,26)
+    reference:B Company (6,32)
+    reference:C Company (7,45)
+    reference:D Company (6,65)
+    reference:2nd Bn Royal Munster Fusiliers (73,95)
+Page 428 (type orders) http://wd3.herokuapp.com/pages/AWD00004hi  ----------
+  31 May 1917 0
+    date:5 May 1917 (89,4)
+    reference:appendix IV (65,5)
+Page 429 (type orders) http://wd3.herokuapp.com/pages/AWD00004kl  ----------
+  31 May 1917 0
+    orders:move (35,11)
+    date:6 May 1917 (36,12)
+    reference:Order No 17 (45,14)
+    reference:Reference sheet 62C N.W. 1/200000 (53,19)
+    reference:62C N.W.  1/20000. (59,19)
+    orders:move (46,28)
+    person:Captain J F Gloster (other) (58,40)
+    date:6 May 1917 (45,56)
+Page 430 (type orders) http://wd3.herokuapp.com/pages/AWD00004ey  ----------
+  31 May 1917 0
+    date:10 May 1917 (39,7)
+    orders:training (35,8)
+Page 431 (type ) http://wd3.herokuapp.com/pages/AWD00004lb  ----------
+  Hashtags: #PlayfairCypher 
+  31 May 1917 0
+    reference:appendix VII (59,3)
+    date:11 May 1917 (51,8)
+Page 432 (type report) http://wd3.herokuapp.com/pages/AWD00004ed  ----------
+  31 May 1917 0
+    reference:appendix VIII (62,3)
+    date:12 May 1917 (54,8)
+Page 433 (type ) http://wd3.herokuapp.com/pages/AWD00004gz  ----------
+  31 May 1917 0
+Page 434 (type orders) http://wd3.herokuapp.com/pages/AWD00004k2  ----------
+  31 May 1917 0
+    reference:Appendix X (61,2)
+    date:14 May 1917 (50,8)
+Page 435 (type orders) http://wd3.herokuapp.com/pages/AWD00004ge  ----------
+  31 May 1917 0
+    date:16 May 1917 (52,10)
+    orders:training (37,14)
+    date:15 May 1917 (35,5)
+    date:15 May 1917 (49,9)
+Page 436 (type orders) http://wd3.herokuapp.com/pages/AWD00004gc  ----------
+  31 May 1917 0
+    date:17 May 1917 (58,14)
+Page 437 (type orders) http://wd3.herokuapp.com/pages/AWD00004gt  ----------
+  31 May 1917 0
+    reference:Scheme for Battalion Attack 17th May 1917 (56,10)
+    reference:Dompierre (60,12)
+    reference:3rd Brigade (38,18)
+    date:17 May 1917 (37,4)
+    person:Major Manning (author) (56,75)
+Page 438 (type orders) http://wd3.herokuapp.com/pages/AWD00004il  ----------
+  31 May 1917 0
+    orders:training (24,19)
+    date:18 May 1917 (55,20)
+Page 439 (type orders) http://wd3.herokuapp.com/pages/AWD00004kp  ----------
+  31 May 1917 0
+    orders:move (36,12)
+    reference:Order No 18 (45,15)
+    mapRef:62.d (37,16)
+    orders:move (47,22)
+    reference:appendix XV (59,4)
+    date:18 May 1917 (36,59)
+Page 440 (type orders) http://wd3.herokuapp.com/pages/AWD00004gl  ----------
+  31 May 1917 0
+    date:21 May 1917 (53,14)
+    orders:training (27,15)
+    reference:Appendix XVI (58,4)
+    reference:appendix XVI (72,7)
+    date:20 May 1917 (27,71)
+Page 441 (type orders) http://wd3.herokuapp.com/pages/AWD00004hp  ----------
+  31 May 1917 0
+    date:22 May 1917 (26,66)
+Page 442 (type orders) http://wd3.herokuapp.com/pages/AWD00004ki  ----------
+  31 May 1917 0
+    reference:Morlancourt (66,24)
+    reference:Corbie-Bray road (34,26)
+    reference:1st Division (31,29)
+Page 443 (type cover)
+Page 444 (type orders) http://wd3.herokuapp.com/pages/AWD00004k4  ----------
+  31 May 1917 0
+    reference:Map Sheet 62.d. 1:40000 (50,14)
+    orders:move (33,16)
+    reference:Appendix XIX (53,2)
+    person:Second Lieutenant A H Middleton (other) (41,40)
+    date:26 May 1917 (35,5)
+    person:Second Lieutenant E V Twiss (other) (50,51)
+    person:Sergeant Murphy (other) (38,53)
+    person:Second Lieutenant (author) (54,71)
+    date:26 May 1917 (34,73)
+    reference:Order No 19 (49,9)
+Page 445 (type report) http://wd3.herokuapp.com/pages/AWD00004jy  ----------
+  31 May 1917 0
+Page 446 (type report) http://wd3.herokuapp.com/pages/AWD00004hn  ----------
+  31 May 1917 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,13)
+Page 447 (type report) http://wd3.herokuapp.com/pages/AWD00004fe  ----------
+  31 May 1917 0
+Page 448 (type cover)
+Page 449 (type diary) http://wd3.herokuapp.com/pages/AWD00004gu  ----------
+  1 Jun 1917 24
+    place:Berthen (5,28)
+    activity:training (25,28)
+    reference:Appendix I-X (89,28)
+  10 Jun 1917 29
+    time:0230PM (32,41)
+    person:Major H Lloyd (other) (22,45)
+    person:Lieutenant Colonel E Monteagle Browne (departed_leave) (56,49)
+  11 Jun 1917 53
+    reference:Appendix XI (89,57)
+    place:Staple (47,58)
+    activity:training (22,61)
+  21 Jun 1917 62
+    reference:Appendix XII-XX (90,62)
+    reference:Appendix XXI (90,66)
+    place:Wormhoudt (24,74)
+    place:Zuydcoote (74,74)
+    reference:Appendix XXII (89,74)
+  23 Jun 1917 78
+    activity:training (21,82)
+    reference:Appendix XXIII-XXIV (89,82)
+  25 Jun 1917 83
+    place:Coxyde-Bains (44,86)
+    activity:movement (26,86)
+    place:Coxyde-Bains (50,87)
+    time:1130AM (82,88)
+    reference:Appendix XXV (89,90)
+Page 450 (type diary) http://wd3.herokuapp.com/pages/AWD00004j9  ----------
+  26 Jun 1917 23
+    activity:training (22,28)
+    reference:Appendix XXVI (90,28)
+    place:Coxyde Bains (8,29)
+    unit:2 Kings Royal Rifle (82,31)
+    activity:movement (19,32)
+    unit:2 Kings Royal Rifle Corps (65,33)
+    unit:2 kings rifle corps 2 Brigade (84,33)
+    reference:2 Platoons D Coy (63,35)
+    reference:Coast Defences (68,35)
+    unit:2 kings royal rifle corps (2 Brigade) (54,36)
+  27 Jun 1917 37
+    activity:training (23,40)
+  28 Jun 1917 41
+    reference:Appendix XXVII (89,41)
+    reference:Appendix XXVIII (89,44)
+  29 Jun 1917 51
+    reference:C Coy relieves D Coy (19,45)
+    reference:Coastal Defences (68,45)
+    activity:training (29,48)
+    activity:training (21,49)
+    reference:Appendix XXIX (90,49)
+    reference:Coast Defences (81,50)
+    place:Saint Idesbalde (42,52)
+  30 Jun 1917 54
+    activity:training (22,57)
+    reference:Appendix XXX (90,57)
+    reference:Appendix XXXI (90,61)
+    reference:Appendix XXXII (89,65)
+    person:Lieutenant A H Sullivan (joined) (69,69)
+    person:Second Lieutenant E W Thornley (joined) (54,73)
+    person:Lieutenant M Nunan (joined) (25,74)
+    person:Lieutenant Kidd (departed_leave) (79,81)
+    reference:Leave Extended by War Office (63,81)
+    person:Second Lieutenant Horan (departed_leave) (21,82)
+    person:Captain P W Newenham (departed_leave) (38,82)
+    reference:Leave Extended by War Office (48,85)
+    person:Second Lieutenant D O'Callaghan (departed_leave) (22,86)
+    person:Second Lieutenant Ardagh (departed_leave) (59,86)
+    person:Major V L C Manning (departed_leave) (23,90)
+    person:Second Lieutenant P Cahill (departed_leave) (56,90)
+Page 451 (type diary) http://wd3.herokuapp.com/pages/AWD00004hc  ----------
+  30 Jun 1917 0
+    person:Captain J H Jordeson (departed_leave) (25,26)
+    person:Lieutenant J Vernon-Harcourt (departed_leave) (26,31)
+    person:Lieutenant Jameson (departed_leave) (72,32)
+    person:Lieutenant J E Jameson (departed_leave) (61,33)
+    reference:Struck off strength (77,36)
+    person:Lieutenant Colonel E Monteagle-Browne (departed_leave) (28,40)
+    reference:on leave and struck off strength from 20.6.17 (67,45)
+    reference:AREA COMMANDANT, ST IDESBALDE from 23.6.17 (90,47)
+    person:Second Lieutenant H J Mcelnea (promotion) (29,48)
+    person:Lieutenant E O Marks (departed_posted) (30,52)
+    reference:Medical Officer to the Battalion from 26.6.17 (73,56)
+    person:Captain H F Wickens (joined) (29,56)
+    reference: Battalion Strength on 1.6.17  = 410 Officers and 1085 Other Ranks (19,63)
+    reference: Battalion Strength on 30.6.17  = 430 Officers and 1070 Other Ranks (19,69)
+    reference: Commanding in the Field (26,77)
+Page 452 (type orders) http://wd3.herokuapp.com/pages/AWD00004ik  ----------
+  1 Jul 1917 0
+    date:1 Jun 1917 (21,25)
+    reference:ROUTE MARCH - TRAINING (68,26)
+    reference:Starting Point - R.19.d.7.5 (23,40)
+    reference:ROUTE TAKEN (38,61)
+    reference:Appendix I (62,9)
+    reference: Commanding in the Field (36,96)
+Page 453 (type diary) http://wd3.herokuapp.com/pages/AWD00004jn  ----------
+  1 Jul 1917 0
+    time:0700AM (20,28)
+    reference:Range Practice (68,28)
+    reference:R.33.a. (43,37)
+    time:0700AM (55,40)
+    time:0200PM (64,40)
+    reference:Instruction in Musketry (81,45)
+    person:Lieutenant Colonel Monteagle-Browne (author) (35,70)
+    reference:Appendex II (61,8)
+Page 454 (type ) http://wd3.herokuapp.com/pages/AWD00004jx  ----------
+  1 Jul 1917 0
+    unit:1 Divisional Bombing School (37,25)
+    reference:Instruction in elementary bombing. Rifle Grenading. (45,41)
+    reference:Smoke demonstration and lectures on general principles. (45,49)
+    reference:Gas Helmet Drill. Bayonet Fighting. (42,54)
+    reference:APPENDIX iii (61,7)
+    person:other H Darling (author) (73,75)
+Page 455 (type orders) http://wd3.herokuapp.com/pages/AWD00004hs  ----------
+  1 Jul 1917 0
+    orders:training (25,21)
+    date:4 Jun 1917 (68,22)
+    person:Lieutenant Colonel E Monteagle-Browne (author) (45,66)
+Page 456 (type orders) http://wd3.herokuapp.com/pages/AWD00004gv  ----------
+  1 Jul 1917 0
+    date:5 Jun 1917 (74,16)
+    orders:training (29,16)
+    orders:training (29,27)
+    reference:Firearms Training Drills (31,31)
+    reference:Physical Training and Bayonet Fighting (31,43)
+    reference:Gas Helmet Drill. Saluting (31,55)
+    person:Second Lieutenant H Darling (author) (56,71)
+Page 457 (type orders) http://wd3.herokuapp.com/pages/AWD00004ef  ----------
+  1 Jul 1917 0
+    orders:training (28,16)
+    date:6 Jun 1917 (58,19)
+    person:Lieutenant Colonel E Monteagle-Browne (author) (42,74)
+    reference:Appendix VI (67,8)
+Page 458 (type orders) http://wd3.herokuapp.com/pages/AWD00004ht  ----------
+  1 Jul 1917 0
+    orders:training (30,19)
+    date:7 Jun 1917 (57,20)
+    reference:Appendix VII Route march (37,50)
+    reference:Appendix VII (72,9)
+    date:6 Jun 1917 (26,91)
+Page 459 (type orders) http://wd3.herokuapp.com/pages/AWD00004gj  ----------
+  1 Jul 1917 0
+    reference:Appendix VIII Inspections (70,11)
+    person:Second Lieutenant H Darling (author) (64,68)
+    date:7 Jun 1917 (24,74)
+Page 460 (type orders) http://wd3.herokuapp.com/pages/AWD00004jl  ----------
+  1 Jul 1917 0
+    reference:Appendix xix (74,12)
+    orders:training (24,20)
+    date:8 Jun 1917 (72,21)
+    orders:training (26,33)
+    person:Captain G J D Lanktree (author) (61,58)
+Page 461 (type orders) http://wd3.herokuapp.com/pages/AWD00004l5  ----------
+  1 Jul 1917 0
+    reference:Appendix x (64,12)
+    orders:training (20,18)
+    date:10 Jun 1917 (42,18)
+    reference:Appendix X (75,8)
+    person:Lieutenant Colonel (author) (69,81)
+    date:9 Jun 1917 (18,85)
+Page 462 (type orders) http://wd3.herokuapp.com/pages/AWD00004fp  ----------
+  1 Jul 1917 0
+    orders:move (37,14)
+    reference:APPENDIX XI (62,5)
+    person:Captain Dave Lanktree (author) (55,60)
+    date:11 Jun 1917 (36,62)
+    reference:Appendix XI (60,8)
+    reference:O R D E R  No. 20. (46,9)
+Page 463 (type orders) http://wd3.herokuapp.com/pages/AWD00004iz  ----------
+  1 Jul 1917 0
+    date:12 Jun 1917 (51,11)
+    orders:training (40,12)
+    reference:Appendix XII (62,4)
+    person:Captain Dave Lanktree (author) (56,74)
+Page 464 (type orders) http://wd3.herokuapp.com/pages/AWD00004iq  ----------
+  1 Jul 1917 0
+    reference:Appendix xiii (71,13)
+    reference:Appendix XIII (68,6)
+    reference:D Coy Area (37,67)
+    orders:training (39,8)
+    date:13 Jun 1917 (53,9)
+Page 465 (type orders) http://wd3.herokuapp.com/pages/AWD00004hq  ----------
+  1 Jul 1917 0
+    orders:training (36,20)
+    reference:Appendix XIII (66,6)
+Page 466 (type orders) http://wd3.herokuapp.com/pages/AWD00004if  ----------
+  1 Jul 1917 0
+    date:14 Jun 1917 (52,10)
+    orders:training (40,10)
+    reference:Map sheet 27 1/40000 (45,32)
+    reference:Page 94, Para. 6 & plate 14 Inf. Training 1914 (65,43)
+    reference:Appendix XIV (62,5)
+    person:Major Lanktree (author) (51,79)
+Page 467 (type orders) http://wd3.herokuapp.com/pages/AWD00004f0  ----------
+  1 Jul 1917 0
+    date:15 Jun 1917 (53,10)
+    orders:training (44,11)
+    orders:training (40,18)
+    reference:Appendix XV (63,4)
+    reference:Chapter 8 Page 18 Field Service Pocket book 1914 (64,68)
+Page 468 (type orders) http://wd3.herokuapp.com/pages/AWD00004g4  ----------
+  1 Jul 1917 0
+    reference:Appendix XV (53,4)
+    person:(author) (57,61)
+    date:14 Jun 1917 (36,64)
+    orders:training (46,7)
+Page 469 (type orders) http://wd3.herokuapp.com/pages/AWD00004g2  ----------
+  1 Jul 1917 0
+    orders:other (34,26)
+    person:Captain G J D Lanktree (author) (67,76)
+    reference:Appendix XVI (70,8)
+    date:15 Jun 1917 (28,81)
+Page 470 (type orders) http://wd3.herokuapp.com/pages/AWD00004jk  ----------
+  1 Jul 1917 0
+    date:17 Jun 1917 (61,13)
+    orders:training (39,14)
+    reference:Appendix XVII (78,5)
+Page 471 (type orders) http://wd3.herokuapp.com/pages/AWD00004hy  ----------
+  1 Jul 1917 0
+    reference:Route March (53,14)
+    reference:The Battalion (38,15)
+    reference:Appendix XVIII (63,2)
+    reference:Three Mile route march (45,29)
+    reference:Inspection (52,31)
+    reference:"A" and "B" company (36,32)
+    reference:"A" company (38,41)
+    reference:Musketry (53,41)
+    reference:"B" Company (36,45)
+    reference:Musketry (52,45)
+    reference:Musketry (52,49)
+    reference:C and  D Company (39,50)
+    reference:Company Drill (53,55)
+    reference:C and  D Company (38,56)
+    reference:All companies and HQ Company (37,62)
+    reference:Lecture (53,63)
+    reference:HQ units (36,77)
+    reference:Work in billet area (54,79)
+    orders:training (44,8)
+    date:18 Jun 1917 (53,8)
+    person:Major (author) (61,89)
+    date:17 Jun 1917 (38,92)
+Page 472 (type orders) http://wd3.herokuapp.com/pages/AWD00004jo  ----------
+  1 Jul 1917 0
+    orders:training (45,7)
+    date:19 Jun 1917 (52,7)
+Page 473 (type orders) http://wd3.herokuapp.com/pages/AWD00004j4  ----------
+  1 Jul 1917 0
+    date:20 Jun 1917 (59,15)
+    reference:XX (78,8)
+Page 474 (type orders) http://wd3.herokuapp.com/pages/AWD00004i4  ----------
+  1 Jul 1917 0
+    reference:ORDER  No. 21 (50,10)
+    reference:PHRT.I.GENERAL (61,10)
+    orders:move (38,10)
+    orders:move (45,13)
+    orders:move (46,16)
+    reference:0.26.b.2.o (65,19)
+    reference:APPENDIX  XXI (63,3)
+    person:Captain Lanktree (author) (57,86)
+    date:19 Jun 1917 (42,87)
+    person:Captain (author) (60,88)
+Page 475 (type orders) http://wd3.herokuapp.com/pages/AWD00004fj  ----------
+  1 Jul 1917 0
+    reference:ORDER   No. 21   Table "A" (42,26)
+    reference:Tables to accompany Order No 21 (39,34)
+    date:21 Jun 1917 (3,38)
+    reference:0.26.b.2.9 (25,41)
+    reference:I 29.b - c23.c4.6 (51,44)
+    date:22 Jun 1917 (3,53)
+Page 476 (type orders) http://wd3.herokuapp.com/pages/AWD00004in  ----------
+  1 Jul 1917 0
+    reference:V.19.c.4.3 (sheet 19 1/40,0001 (66,23)
+    reference:SHEET 19 1/40000 (42,24)
+    reference:Order No 22 (42,24)
+    reference:SHEETS 27 & 19 1/40000 (42,42)
+    person:Captain Lanktree (author) (54,57)
+    date:21 Jun 1917 (45,59)
+    person:Captain A (author) (63,60)
+    reference:ORDER   No. 22 (to be read in  conjunction with order No. 21.) (48,8)
+Page 477 (type orders) http://wd3.herokuapp.com/pages/AWD00004fx  ----------
+  1 Jul 1917 0
+    reference:MAP SHEET 19 1/40000 (19,20)
+    orders:training (32,24)
+Page 478 (type orders) http://wd3.herokuapp.com/pages/AWD00004l2  ----------
+  1 Jul 1917 0
+    date:24 Jun 1917 (41,13)
+Page 479 (type orders) http://wd3.herokuapp.com/pages/AWD00004fg  ----------
+  1 Jul 1917 0
+    orders:move (43,12)
+    reference:APPENDIX  XV (62,2)
+    person:Captain Lanktree (author) (51,61)
+    date:25 Jun 1917 (40,66)
+    reference:O R D E R   No. 23. (47,9)
+    reference:Order No 23 (48,9)
+Page 480 (type orders) http://wd3.herokuapp.com/pages/AWD00004mk  ----------
+  1 Jul 1917 0
+Page 481 (type ) http://wd3.herokuapp.com/pages/AWD00004i1  ----------
+  1 Jul 1917 0
+    date:27 Jun 1917 (53,16)
+    orders:training (45,18)
+    person:Captain C J D Lanktree (author) (54,78)
+Page 482 (type orders) http://wd3.herokuapp.com/pages/AWD00004ev  ----------
+  1 Jul 1917 0
+    date:28 Jun 1917 (54,6)
+Page 483 (type orders) http://wd3.herokuapp.com/pages/AWD00004ho  ----------
+  1 Jul 1917 0
+    orders:training (41,16)
+Page 484 (type orders) http://wd3.herokuapp.com/pages/AWD00004kf  ----------
+  1 Jul 1917 0
+Page 485 (type report) http://wd3.herokuapp.com/pages/AWD00004me  ----------
+  1 Jul 1917 0
+Page 486 (type report) http://wd3.herokuapp.com/pages/AWD00004iy  ----------
+  1 Jul 1917 0
+    person:Captain Lanktree (author) (47,42)
+    date:1 Jul 1917 (39,51)
+Page 487 (type ) http://wd3.herokuapp.com/pages/AWD00004l7  ----------
+  1 Jul 1917 0
+Page 488 (type report) http://wd3.herokuapp.com/pages/AWD00004et  ----------
+  1 Jul 1917 0
+    date:1 Jul 1917 (40,49)
+Page 489 (type cover)
+Page 490 (type diary) http://wd3.herokuapp.com/pages/AWD00004f5  ----------
+  1 Jul 1917 24
+    domestic:religion (21,27)
+    time:0700AM (51,27)
+    domestic:religion (30,28)
+    place:Saint Idesbalde (75,28)
+    time:0730AM (57,28)
+    time:0900AM (65,28)
+    place:Coxyde-Bains (6,29)
+    time:1030AM (24,32)
+    reference:cror (93,33)
+  2 Jul 1917 36
+    domestic:inspections (49,36)
+  3 Jul 1917 49
+    activity:training (20,40)
+    activity:training (43,41)
+    reference:App i (86,41)
+    reference:cror 1 (91,41)
+    reference:Brigade Scheme - acting as hostile forces (55,44)
+    reference:App iii (87,49)
+    place:Champermont (52,51)
+  4 Jul 1917 52
+    activity:movement (28,52)
+    place:Champermont Camp (59,53)
+    reference:App ii (86,53)
+    activity:training (71,57)
+    place:Champermont Camp (5,57)
+    domestic:inspections (52,58)
+  5 Jul 1917 61
+    reference:All men in the use of Lewis Guns (47,61)
+    reference:App iv (87,64)
+    activity:training (25,66)
+    activity:enemy_activity (34,69)
+    reference:Observation Balloons and aeroplanes (47,69)
+    reference:movement dangerous (65,73)
+    reference:working parties deployed (27,77)
+    unit:2 Australian Tunnelling Coy (64,81)
+    unit:2 australian (67,82)
+    unit:2de Australian Furneblury company (57,83)
+    place:Nieuport Bains (38,85)
+    time:1000PM (58,86)
+    unit:25 Brigade Royal Field Artillery (50,89)
+    unit:25 Brigade Royal Field Artillery (43,90)
+Page 491 (type diary) http://wd3.herokuapp.com/pages/AWD00004l0  ----------
+  5 Jul 1917 0
+    reference:assumed command of the battalion (66,23)
+    gridRef:R_30_A_6_9 (35,23)
+    time:0845AM (42,25)
+    unit:39 Brigade Royal Field Artillery (23,25)
+    person:Major V L C Manning (other) (50,28)
+    place:Champermont Camp (6,29)
+    person:Major H C Lloyd (departed_posted) (40,31)
+    unit:1 Dorsetshire Regiment (81,31)
+  6 Jul 1917 32
+    activity:training (25,36)
+    activity:other (59,36)
+    reference:Working Parties (64,37)
+    reference:App v (89,38)
+  7 Jul 1917 40
+    unit:R e Brigade hq (57,41)
+    activity:other (42,45)
+    person:Major R B Neill (joined) (61,45)
+    reference:Working Parties (50,45)
+  8 Jul 1917 48
+    reference:to command Battailion (57,48)
+    domestic:religion (27,53)
+    activity:other (75,53)
+  9 Jul 1917 56
+    reference:working parties (29,57)
+    activity:other (60,60)
+    reference:working parties (60,60)
+    activity:training (23,61)
+  10 Jul 1917 62
+    activity:fire (49,70)
+    reference:with 4.2" 5.9" and 8" Shells (64,71)
+    activity:fire (34,73)
+    reference:Shelling the Camp (47,73)
+    time:0910AM (17,74)
+    reference:Mainly HE but with Shrapnel and gas (55,77)
+    reference:Bn HQ finally established in house (31,82)
+    reference:telephone communications constantly cut (59,84)
+    reference:telephone communications constantly cut (45,85)
+    reference:communications re-established - Bde Line (36,90)
+Page 492 (type diary) http://wd3.herokuapp.com/pages/AWD00004ks  ----------
+  10 Jul 1917 0
+    place:Champermont Camp (8,26)
+    time:1000AM (51,27)
+    time:0130PM (29,32)
+    person:Lance Corporal Fogarty (combat) (25,60)
+    time:0830PM (24,69)
+    time:0915PM (18,74)
+    time:1130PM (88,90)
+Page 493 (type diary) http://wd3.herokuapp.com/pages/AWD00004ic  ----------
+  10 Jul 1917 0
+    reference: B Coy ,  C Coy (18,27)
+    person:Captain Gloster (other) (38,27)
+    reference:held right flank (44,30)
+    reference:2 Platoons  C Coy (20,31)
+    reference:2 Platoons  B Coy (70,31)
+    unit:A Coy 2 Sussex Regiment (66,31)
+    unit:2 Sussex Regiment (54,32)
+    activity:line (38,35)
+    unit:D Coy 2 Sussex Regiment (17,35)
+    unit:2 Sussex Regiment (71,35)
+    reference:2 Platoons  B Coy (40,36)
+    reference:2 platoons B Coy , 2 Platoons C Coy (65,36)
+    reference:7,8,11,12 Platoons C Coy (70,39)
+    mapRef:62c S W (46,47)
+    reference:Map ref Sheet 12 SW 1/2000 (63,48)
+    mapRef:12 SW (55,49)
+    person:Second Lieutenant Whelan (24,52)
+    person:Lieutenant J V Harcourt (casualty_wounded) (52,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (74,60)
+    person:Second Lieutenant C E A O'Callaghan (casualty_wounded) (36,61)
+    person:Second Lieutenant Kelly (casualty_wounded) (23,62)
+    casualties:died: 1; killed: 6; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,64)
+    person:Private J Madigan (casualty_kia) (25,66)
+    casualties:died: 1; killed: 6; missing: 0; prisoner: 0; sick: 0; wounded: 0 (67,67)
+    casualties:died: 1; killed: 6; missing: 0; prisoner: 0; sick: 0; wounded: 4 (17,68)
+    person:Private J Creed (casualty_kia) (26,70)
+    casualties:died: 0; killed: 7; missing: 0; prisoner: 0; sick: 0; wounded: 4 (26,72)
+    person:Private M Lenihan (casualty_kia) (24,73)
+    person:Private M O'Keefe (casualty_kia) (25,78)
+    person:Private S Brierly (casualty_kia) (25,85)
+    person:Private J Desmond (casualty_died) (25,89)
+Page 494 (type diary) http://wd3.herokuapp.com/pages/AWD00004ku  ----------
+  10 Jul 1917 23
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 57 (39,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 57 (30,29)
+    place:Champermont Camp (9,29)
+  11 Jul 1917 42
+    activity:movement (45,49)
+    place:Juriac Camp (8,51)
+    time:0215PM (82,53)
+Page 495 (type diary) http://wd3.herokuapp.com/pages/AWD00004f6  ----------
+  12 Jul 1917 23
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 10 (26,31)
+    place:Juriac Camp (10,31)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 8 (71,32)
+    person:Second Lieutenant A Will (casualty_wounded) (23,32)
+    person:Second Lieutenant A Sullivan (casualty_wounded) (47,32)
+    person:Second Lieutenant A H Sullivan (casualty_wounded) (43,32)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 8 (90,33)
+    person:Second Lieutenant Will (casualty_wounded) (24,33)
+    person:Major R B Neill (promotion) (25,37)
+  13 Jul 1917 59
+    reference:B Coy front line (67,64)
+    reference:C Coy returned to Battalion (20,66)
+Page 496 (type diary) http://wd3.herokuapp.com/pages/AWD00004gi  ----------
+  14 Jul 1917 23
+    reference:Working parties night and day (57,28)
+    activity:repair (27,29)
+    place:Juriac Camp (7,29)
+    reference:App vi (87,31)
+  15 Jul 1917 39
+    activity:repair (26,45)
+  16 Jul 1917 55
+    activity:training (64,61)
+    domestic:inspections (26,61)
+    reference:training carried out more freely due to activity of our aeroplanes (62,66)
+  17 Jul 1917 72
+    reference:APP vii (88,75)
+    activity:movement (23,77)
+    place:Zuydcoote (7,80)
+Page 497 (type diary) http://wd3.herokuapp.com/pages/AWD00004ko  ----------
+  18 Jul 1917 21
+    place:Dunkerque (61,25)
+    activity:movement (30,26)
+    place:Clipon (73,26)
+    place:Saint Pol (5,27)
+    reference:VIII (90,27)
+    time:1000PM (53,29)
+    domestic:accomodation (22,30)
+    weather:rain (31,32)
+  19 Jul 1917 40
+    activity:movement (42,44)
+    time:0245PM (74,44)
+    place:Clipon Camp (5,47)
+    time:0430PM (29,48)
+  20 Jul 1917 58
+    activity:training (40,61)
+  23 Jul 1917 75
+    person:Captain H R H Ireland (joined) (29,79)
+Page 498 (type diary) http://wd3.herokuapp.com/pages/AWD00004ln  ----------
+  24 Jul 1917 20
+    place:Clipon Camp (4,23)
+    activity:training (29,26)
+    place:Clipon Camp (6,27)
+  25 Jul 1917 33
+    person:Captain H R H Ireland (other) (49,38)
+    activity:training (28,38)
+    person:Captain Manning (joined) (31,42)
+    person:Second Lieutenant Middleton (60,42)
+  26 Jul 1917 48
+    activity:training (28,52)
+    person:Second Lieutenant Darling (departed_leave) (53,53)
+    place:Clipon Camp (5,54)
+  27 Jul 1917 64
+    person:Captain H F Wickens (award) (66,68)
+    activity:training (27,68)
+    place:Clipon Camp (7,71)
+    person:Private J Donovan (award) (59,72)
+  28 Jul 1917 78
+    person:Lieutenant H M Mitchell (joined) (57,82)
+    activity:training (27,82)
+    place:Clipon Camp (6,85)
+    person:Second Lieutenant H B Fisher (joined) (31,86)
+    activity:strength (62,86)
+    activity:strength (53,87)
+Page 499 (type diary) http://wd3.herokuapp.com/pages/AWD00004hw  ----------
+  29 Jul 1917 21
+    domestic:sport (35,24)
+    place:Clipon Camp (6,26)
+  30 Jul 1917 35
+    activity:training (40,37)
+  31 Jul 1917 46
+    activity:training (39,51)
+Page 500 (type other) http://wd3.herokuapp.com/pages/AWD00004ll  ----------
+  31 Jul 1917 0
+    reference:Scheme attached (78,50)
+Page 501 (type orders) http://wd3.herokuapp.com/pages/AWD00004jf  ----------
+  31 Jul 1917 0
+    date:3 Jul 1917 (56,9)
+Page 502 (type orders) http://wd3.herokuapp.com/pages/AWD00004eh  ----------
+  31 Jul 1917 0
+    reference:COXYDE Map 1/20,000 (43,11)
+    orders:move (47,13)
+    person:Second Lieutenant A H Middleton (other) (42,28)
+    person:Captain Lanktree (author) (54,44)
+    date:2 Jul 1917 (46,51)
+    reference:Order No 24 (50,8)
+Page 503 (type other) http://wd3.herokuapp.com/pages/AWD00004ji  ----------
+  31 Jul 1917 0
+Page 504 (type orders) http://wd3.herokuapp.com/pages/AWD00004fd  ----------
+  31 Jul 1917 0
+    reference:Training programme (30,16)
+    date:6 Jul 1917 (55,17)
+    person:Captain C J D Lanktree (author) (60,79)
+Page 505 (type orders) http://wd3.herokuapp.com/pages/AWD00004hk  ----------
+  31 Jul 1917 0
+    reference:2ND BN ROYAL SUSSEX RGMNT (67,11)
+    reference:No 24 (50,5)
+    date:14 Jul 1917 (47,65)
+Page 506 (type orders) http://wd3.herokuapp.com/pages/AWD00004ha  ----------
+  31 Jul 1917 0
+    person:Second Lieutenant W McDonald (combat) (57,37)
+    reference:Order No 25 (38,5)
+    date:17 Jul 1917 (45,62)
+    reference:MAP SHEET 11 & 19 1/40000 (57,7)
+    reference:No 25 (48,8)
+Page 507 (type orders) http://wd3.herokuapp.com/pages/AWD00004go  ----------
+  31 Jul 1917 0
+    mapRef:19 (42,12)
+    reference:ZUDYCOOTE (63,19)
+    reference:zuydcoote (63,3)
+    date:18 Jul 1917 (40,54)
+Page 508 (type orders) http://wd3.herokuapp.com/pages/AWD00004gh  ----------
+  31 Jul 1917 0
+Page 509 (type blank)
+Page 510 (type ) http://wd3.herokuapp.com/pages/AWD00004jq  ----------
+  31 Jul 1917 0
+    date:22 Jul 1917 (57,18)
+Page 511 (type orders) http://wd3.herokuapp.com/pages/AWD00004gs  ----------
+  31 Jul 1917 0
+Page 512 (type ) http://wd3.herokuapp.com/pages/AWD00004l6  ----------
+  31 Jul 1917 0
+    person:Captain Lanktree (author) (44,71)
+Page 513 (type orders) http://wd3.herokuapp.com/pages/AWD00004jd  ----------
+  31 Jul 1917 0
+    date:25 Jul 1917 (20,8)
+Page 514 (type orders) http://wd3.herokuapp.com/pages/AWD00004it  ----------
+  31 Jul 1917 0
+    person:Captain Lanktree (author) (54,81)
+Page 515 (type ) http://wd3.herokuapp.com/pages/AWD00004g3  ----------
+Page 516 (type orders) http://wd3.herokuapp.com/pages/AWD00004gy  ----------
+  31 Jul 1917 0
+    date:27 Jul 1917 (49,10)
+    orders:training (24,18)
+    orders:training (25,9)
+    date:26 Jul 1917 (21,95)
+Page 517 (type orders) http://wd3.herokuapp.com/pages/AWD00004hv  ----------
+  31 Jul 1917 0
+    date:28 Jul 1917 (52,13)
+    orders:training (30,14)
+Page 518 (type other) http://wd3.herokuapp.com/pages/AWD00004kv  ----------
+  31 Jul 1917 0
+    mapRef: (77,44)
+    mapRef: (81,92)
+    mapRef: (76,96)
+Page 519 (type orders) http://wd3.herokuapp.com/pages/AWD00004kk  ----------
+  31 Jul 1917 0
+    orders:training (41,6)
+    date:30 Jul 1917 (54,6)
+Page 520 (type orders) http://wd3.herokuapp.com/pages/AWD00004jm  ----------
+  31 Jul 1917 0
+    orders:training (34,11)
+    reference:special attn to marching disipline (79,60)
+Page 521 (type cover)
+Page 522 (type diary) http://wd3.herokuapp.com/pages/AWD00004jw  ----------
+  Hashtags: #secrecy 
+  1 Aug 1917 21
+    person:Captain R A Frizell (departed_leave) (62,25)
+    person:Lieutenant C Roche (departed_sick) (80,25)
+    activity:training (50,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (30,28)
+    place:Le Clipon Camp (6,29)
+    activity:strength (58,30)
+  2 Aug 1917 36
+    person:Second Lieutenant E Twiss (departed_posted) (73,39)
+    person:Second Lieutenant H J McElnea (departed_sick) (51,40)
+    activity:training (26,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (47,41)
+    place:Le Clipon Camp (6,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (29,47)
+  3 Aug 1917 48
+    person:Captain J R Delmege (departed_leave) (83,49)
+    person:Captain H R H Ireland (other) (61,50)
+    person:Lieutenant Colonel R B Neill (departed_leave) (41,52)
+    activity:training (25,53)
+    person:Second Lieutenant H Purdon-Stoute (departed_leave) (47,54)
+    person:Captain A H Batten-Pooll (joined) (71,54)
+    unit:North staffords (25,56)
+  4 Aug 1917 60
+    person:Second Lieutenant W McDonald (returned_leave) (81,63)
+    person:Second Lieutenant H N McFeeley (returned_leave) (66,64)
+    person:Captain Morehead (departed_leave) (43,66)
+    activity:training (25,67)
+    person:Captain A R Harte (joined) (60,69)
+    person:Captain H F Wickens (departed_posted) (62,73)
+  5 Aug 1917 75
+    domestic:religion (48,80)
+    activity:training (28,81)
+Page 523 (type diary) http://wd3.herokuapp.com/pages/AWD00004k0  ----------
+  Hashtags: #training 
+  5 Aug 1917 0
+  6 Aug 1917 24
+    activity:training (47,27)
+    place:Le Clidon Camp (7,27)
+  7 Aug 1917 37
+    person:Lieutenant Colonel R B Neill (returned_leave) (43,40)
+    person:Lieutenant Darling (returned_leave) (29,44)
+  8 Aug 1917 50
+  9 Aug 1917 61
+  10 Aug 1917 74
+    person:Second Lieutenant J H O'Connor (returned_leave) (47,76)
+  11 Aug 1917 86
+Page 524 (type diary) http://wd3.herokuapp.com/pages/AWD00004fm  ----------
+  12 Aug 1917 22
+  13 Aug 1917 36
+    person:Captain R A Frizell (38,39)
+  14 Aug 1917 49
+    person:Second Lieutenant P M Ardagh (38,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,59)
+  15 Aug 1917 63
+  16 Aug 1917 77
+Page 525 (type diary) http://wd3.herokuapp.com/pages/AWD00004h5  ----------
+  16 Aug 1917 0
+  17 Aug 1917 20
+    place:Le Clipon (6,25)
+    activity:training (33,25)
+  18 Aug 1917 35
+    place:Le Clipon (6,40)
+    person:Captain R E Morehead (returned_leave) (56,40)
+  19 Aug 1917 49
+    domestic:religion (44,53)
+    place:Le Clipon (6,55)
+  16 Aug 1917 0
+  20 Aug 1917 64
+    place:Le Clipon (6,71)
+  21 Aug 1917 80
+    place:Le Clipon (6,84)
+Page 526 (type diary) http://wd3.herokuapp.com/pages/AWD00004ff  ----------
+  22 Aug 1917 21
+    activity:training (50,26)
+  23 Aug 1917 35
+    activity:training (34,38)
+  24 Aug 1917 46
+    activity:training (33,49)
+  25 Aug 1917 58
+    domestic:parades (70,59)
+    activity:training (32,61)
+    person:Lieutenant General Henry Rawlinson (other) (28,70)
+    person:Second Lieutenant G W Harte (returned_training) (74,71)
+  26 Aug 1917 74
+    activity:training (29,79)
+    domestic:religion (39,81)
+Page 527 (type diary) http://wd3.herokuapp.com/pages/AWD00004ix  ----------
+  Hashtags: #Fleet 
+  27 Aug 1917 22
+    place:Le Clipon (6,25)
+    activity:training (43,25)
+    place:Le Clidon Camp (7,26)
+  28 Aug 1917 34
+    person:Captain J P Harding (returned_leave) (77,36)
+  29 Aug 1917 47
+    activity:strength (49,51)
+  30 Aug 1917 62
+  31 Aug 1917 75
+    person:Lieutenant Colonel R B Neill (author) (69,92)
+Page 528 (type cover)
+Page 529 (type cover)
+Page 530 (type diary) http://wd3.herokuapp.com/pages/AWD00004lr  ----------
+  31 Aug 1917 0
+  1 Sep 1917 22
+    activity:training (38,26)
+    reference:athletic training with a view to rapid movement across country (40,29)
+    reference:Special attention to the passage of obstacles likely to be met with (57,33)
+    reference:Strength of Bn Fighting strength 40 Officers 1058 men (39,40)
+    activity:strength (65,41)
+    reference:Trench strength 36 Officers 876 men (53,44)
+    person:Second Lieutenant E V Twiss (31,47)
+    unit:Xv corps (39,48)
+    person:Second Lieutenant E V Twiss (joined) (53,48)
+  2 Sep 1917 50
+    domestic:religion (42,54)
+    activity:training (27,56)
+  3 Sep 1917 60
+    person:Captain C W Chandler (departed_leave) (71,63)
+    activity:training (25,65)
+    person:Chaplain F A Gleeson (departed_leave) (53,67)
+  4 Sep 1917 72
+    person:R B Neill (departed_leave) (72,75)
+    person:Lieutenant Colonel R B Neill (departed_leave) (48,76)
+    activity:training (24,79)
+    person:Major H R H Ireland (other) (51,79)
+  5 Sep 1917 82
+    activity:training (25,88)
+Page 531 (type diary) http://wd3.herokuapp.com/pages/AWD00004hj  ----------
+  6 Sep 1917 24
+    place:Le Clipon (6,26)
+    person:Second Lieutenant Elnea (returned_leave) (51,26)
+    person:Second Lieutenant McElnea (returned_leave) (46,27)
+  7 Sep 1917 33
+    person:Second Lieutenant Boardman (joined) (57,39)
+    person:Second Lieutenant Hodgson (joined) (57,42)
+    person:Second Lieutenant Welch (joined) (57,43)
+    person:Second Lieutenant Sheehan (joined) (59,46)
+  8 Sep 1917 48
+    person:Second Lieutenant H Stanners (joined) (63,53)
+  9 Sep 1917 60
+    domestic:religion (42,64)
+  10 Sep 1917 77
+  11 Sep 1917 84
+Page 532 (type diary) http://wd3.herokuapp.com/pages/AWD00004eu  ----------
+  11 Sep 1917 0
+  12 Sep 1917 22
+    reference:took part in a brigade full day (49,25)
+    place:Le Clipon Camp (6,26)
+    activity:training (31,27)
+    place:Le Clipon (6,28)
+    person:Quarter Master Sergeant W Egan (joined) (67,44)
+  13 Sep 1917 47
+    activity:training (42,53)
+  14 Sep 1917 54
+  15 Sep 1917 64
+    person:Lieutenant Colonel R B Neill (returned_leave) (66,68)
+    person:Captain Chandler (returned_leave) (65,70)
+    person:Captain C W Chandler (returned_leave) (76,70)
+    person:Chaplain F A Gleeson (returned_leave) (66,73)
+    person:Major H R H Ireland (other) (73,78)
+    person:Lieutenant Colonel R B Neill (other) (42,79)
+  16 Sep 1917 83
+    domestic:religion (43,88)
+Page 533 (type diary) http://wd3.herokuapp.com/pages/AWD00004h7  ----------
+  17 Sep 1917 20
+    activity:strength (56,27)
+  18 Sep 1917 32
+    activity:training (37,38)
+  19 Sep 1917 43
+    person:Lieutenant W S Kidd (departed_leave) (54,48)
+  20 Sep 1917 53
+  21 Sep 1917 62
+    person:Second Lieutenant E V Twiss (departed_leave) (70,66)
+    activity:training (36,66)
+  22 Sep 1917 72
+  23 Sep 1917 80
+    domestic:religion (40,85)
+    domestic:sport (60,85)
+Page 534 (type diary) http://wd3.herokuapp.com/pages/AWD00004k6  ----------
+  24 Sep 1917 22
+    person:Captain R E Morehead (departed_posted) (46,26)
+    place:Le Clipon Camp (6,28)
+  23 Sep 1917 0
+  24 Sep 1917 22
+  25 Sep 1917 34
+  23 Sep 1917 0
+  26 Sep 1917 48
+    person:Second Lieutenant G W Harte (departed_leave) (51,53)
+    person:General H S Rawlinson (other) (56,61)
+  27 Sep 1917 65
+    person:Second Lieutenant A Taylor (departed_leave) (66,68)
+    reference:Brigade field day (43,70)
+    activity:training (28,70)
+    person:Captain J F G Gloster (returned_hospital) (68,71)
+Page 535 (type diary) http://wd3.herokuapp.com/pages/AWD00004ei  ----------
+  28 Sep 1917 23
+    person:W Egan (departed_posted) (76,27)
+    activity:other (27,28)
+    person:Lieutenant W Egan (departed_posted) (73,32)
+  29 Sep 1917 40
+    activity:strength (56,46)
+  30 Sep 1917 60
+    person:Captain C J D Lanktree (departed_leave) (66,64)
+    domestic:religion (39,65)
+    person:Lieutenant Colonel R B Neill (author) (53,83)
+Page 536 (type cover)
+Page 537 (type diary) http://wd3.herokuapp.com/pages/AWD00004h4  ----------
+  1 Oct 1917 25
+    activity:training (28,28)
+    unit:Iii Brigade (29,45)
+    unit:Ist Division (45,45)
+    activity:strength (52,53)
+    person:Second Lieutenant P Flynn (departed_leave) (43,61)
+  2 Oct 1917 67
+    person:Second Lieutenant W O Varian (departed_leave) (43,70)
+    person:Lieutenant W S Kidd (returned_leave) (66,70)
+  3 Oct 1917 79
+Page 538 (type diary) http://wd3.herokuapp.com/pages/AWD00004j0  ----------
+  4 Oct 1917 25
+  5 Oct 1917 34
+  6 Oct 1917 41
+  7 Oct 1917 50
+  8 Oct 1917 59
+    person:Captain J Fitz G Gloster (departed_sick) (58,61)
+  9 Oct 1917 76
+    person:Second Lieutenant Doorly (joined) (53,78)
+  10 Oct 1917 83
+    person:Second Lieutenant A M Taylor (returned_leave) (67,86)
+    person:Lieutenant H Haymen (departed_leave) (60,91)
+Page 539 (type diary) http://wd3.herokuapp.com/pages/AWD00004lj  ----------
+  11 Oct 1917 22
+    place:Le Clipon Camp (9,29)
+    person:Second Lieutenant P J Dennehy (joined) (50,29)
+  12 Oct 1917 35
+    person:General Henry Rawlinson (other) (69,41)
+    person:Captain C J D Lanktree (returned_leave) (62,49)
+    person:Second Lieutenant D Welch (departed_training) (61,53)
+  13 Oct 1917 55
+    person:Second Lieutenant Flynn (returned_leave) (70,62)
+  14 Oct 1917 64
+    domestic:religion (45,70)
+  15 Oct 1917 73
+    person:Lieutenant H Darling (departed_training) (65,74)
+    reference:The 1st division now having been warned that the operation for which they were undergoing special training had been postponed , commenced training for the semi open warfare of the battle taking place near Ypres (32,77)
+    activity:training (45,83)
+    place:Ypres (77,86)
+    person:Second Lieutenant W O Varian (returned_leave) (60,90)
+Page 540 (type diary) http://wd3.herokuapp.com/pages/AWD00004ig  ----------
+  Hashtags: #accidental #gassed 
+  16 Oct 1917 23
+    person:Second Lieutenant McElnea (returned_leave) (70,28)
+    activity:training (36,29)
+    activity:strength (52,37)
+  17 Oct 1917 40
+    activity:training (28,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (50,45)
+    person:Captain J H Jordeson (other) (65,45)
+  18 Oct 1917 53
+    activity:training (24,57)
+  19 Oct 1917 65
+    activity:training (26,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 6 (52,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 6 (59,73)
+    mapRef: (64,76)
+  20 Oct 1917 77
+    mapRef:19 (93,82)
+    mapRef:19 and 27 (89,82)
+    activity:movement (22,82)
+    unit:Iii bgde (79,82)
+    reference:Reference map sheets 19 & 27 1/40000 (91,83)
+    mapRef:19 (89,86)
+Page 541 (type diary) http://wd3.herokuapp.com/pages/AWD00004id  ----------
+  21 Oct 1917 23
+    time:1005AM (18,27)
+    activity:movement (32,28)
+    place:Rubrouck (42,29)
+    place:Zeggers-Cappel (8,29)
+    reference:Operational order (91,30)
+    reference:Reference map sheet 27 1/40000 (8,37)
+  22 Oct 1917 40
+    place:Rubrouck (8,45)
+  23 Oct 1917 53
+    place:Rubrouck (7,58)
+    person:Captain V L G Manning (other) (46,58)
+  24 Oct 1917 70
+    place:Rubrouck (6,75)
+  25 Oct 1917 78
+    activity:movement (30,82)
+    place:Houtkerque (62,83)
+    place:Rubrouck (6,83)
+    mapRef:27 (90,83)
+    reference:Map sheet 27 1/40000 operational orders attached marked C (91,84)
+    person:Major H R H Ireland (promotion) (67,86)
+    person:Lieutenant Colonel R B Neill (departed_sick) (49,87)
+    person:Lieutenant Horan (departed_leave) (53,90)
+    person:Second Lieutenant M Roland (joined) (76,90)
+    person:Second Lieutenant J W Gillman (joined) (60,94)
+Page 542 (type diary) http://wd3.herokuapp.com/pages/AWD00004eo  ----------
+  26 Oct 1917 23
+    place:Houtkerque (48,28)
+    place:Houtkerque (7,29)
+    domestic:accomodation (24,32)
+    person:Captain P W Newenham (departed_training) (70,33)
+    mapRef:27 (7,34)
+    reference:Map sheet 27 1/40000  (8,35)
+    mapRef:17 (9,38)
+  27 Oct 1917 44
+    place:Houtkerque (8,49)
+  28 Oct 1917 53
+    person:Lieutenant Whelan (departed_leave) (62,57)
+    person:Second Lieutenant Nunan (departed_leave) (82,57)
+    place:Houtkerque (6,59)
+    person:Second Lieutenant Thornley (departed_leave) (62,61)
+    person:Second Lieutenant Thornley (departed_leave) (77,62)
+  29 Oct 1917 74
+    person:Second Lieutenant P M Ardagh (departed_leave) (66,77)
+    place:Houtkerque (6,81)
+    person:Lieutenant H Darling (departed_posted) (51,83)
+    activity:training (25,87)
+Page 543 (type diary) http://wd3.herokuapp.com/pages/AWD00004es  ----------
+  30 Oct 1917 24
+    activity:training (54,27)
+    place:Houtkerque (6,29)
+    mapRef:87? (10,31)
+    person:Captain J F Gloster (returned_hospital) (77,31)
+  31 Oct 1917 35
+    mapRef:27 (7,35)
+    domestic:inspections (56,40)
+Page 544 (type orders) http://wd3.herokuapp.com/pages/AWD00004ls  ----------
+  31 Oct 1917 0
+    orders:move (35,12)
+    person:Second Lieutenant McDonald (other) (61,26)
+    person:Lieutenant Davis (other) (53,28)
+    person:Second Lieutenant McDonald (combat) (37,29)
+    person:Second Lieutenant McElnea (other) (62,38)
+    person:Second Lieutenant McElnea (author) (37,40)
+    person:Private O'Donovan (other) (57,40)
+    person:Private Moore (other) (39,43)
+    person:Private O'Shea (other) (43,43)
+    person:Private Butcher (other) (53,47)
+    date:19 Oct 1917 (35,5)
+    person:Major Ireland (other) (46,52)
+    date:19 Oct 1917 (38,68)
+    reference:Map Sheet 19 and 27 1/40,000 (58,7)
+    date:19 Oct 1917 (50,73)
+    orders:move (34,8)
+Page 545 (type orders) http://wd3.herokuapp.com/pages/AWD00004j1  ----------
+  31 Oct 1917 0
+    orders:move (36,11)
+    mapRef:27 (53,16)
+    date:21 Oct 1917 (34,2)
+    date:21 Oct 1917 (37,90)
+Page 546 (type orders) http://wd3.herokuapp.com/pages/AWD00004ii  ----------
+  31 Oct 1917 0
+    reference:Operation Order No 3 (36,12)
+    date:24 Oct 1917 (48,57)
+    reference:sheet 27.1.40,000 (36,6)
+Page 547 (type cover)
+Page 548 (type diary) http://wd3.herokuapp.com/pages/AWD00004i0  ----------
+  1 Nov 1917 23
+    activity:training (51,28)
+    mapRef:27 (7,35)
+  2 Nov 1917 40
+    activity:training (42,45)
+  3 Nov 1917 52
+    activity:training (36,58)
+  4 Nov 1917 65
+    activity:training (28,70)
+    domestic:religion (43,70)
+    domestic:religion (54,70)
+  5 Nov 1917 75
+    activity:training (27,79)
+  6 Nov 1917 82
+    place:Dambre Camp (6,86)
+    activity:movement (27,87)
+    place:Houterque (62,90)
+    mapRef:28 (10,93)
+    unit:63 Division (Naval Division) (24,95)
+Page 549 (type diary) http://wd3.herokuapp.com/pages/AWD00004hg  ----------
+  7 Nov 1917 23
+    place:Dambre Camp (5,27)
+    activity:strength (26,31)
+    activity:enemy_activity (73,32)
+  8 Nov 1917 40
+    mapRef:28 (80,43)
+    place:Dambre Camp (5,43)
+    activity:movement (21,44)
+    place:Irish Farm (67,44)
+    place:Ypres (40,47)
+    place:Irish Farm (4,48)
+    mapRef:28 (77,51)
+    gridRef:B_19_D_2_2 (62,51)
+    place:Hospital Farm (51,53)
+    place:Hospital Farm (4,53)
+    person:Lieutenant Colonel H Ireland (combat) (19,65)
+    person:Captain A Frizell (combat) (56,65)
+    person:Captain Lanktree (combat) (22,70)
+    person:Lieutenant M O'Connor (combat) (52,70)
+    person:Lieutenant C Horan (combat) (56,72)
+    person:Lieutenant H M Mitchell (combat) (28,73)
+    person:Second Lieutenant D J O'Brien (combat) (77,73)
+    person:Second Lieutenant W O Varian (combat) (22,76)
+    person:Second Lieutenant J McFeeley (combat) (52,76)
+    person:Captain Hart (combat) (26,81)
+    person:Chaplain Gleeson (combat) (24,85)
+Page 550 (type diary) http://wd3.herokuapp.com/pages/AWD00004fs  ----------
+  8 Nov 1917 29
+    place:Hospital Farm (5,30)
+    person:Second Lieutenant P Flynn (combat) (71,42)
+    person:Second Lieutenant Sheehan (combat) (25,43)
+  9 Nov 1917 49
+    domestic:rations (59,52)
+    place:Hospital Farm (5,54)
+    place:Mouse Trap Track (71,56)
+    time:0120PM (32,57)
+    time:0200AM (78,61)
+    place:Source Farm (60,62)
+  10 Nov 1917 70
+    place:Tournant Farm (51,78)
+    time:0605AM (43,85)
+Page 551 (type diary) http://wd3.herokuapp.com/pages/AWD00004kw  ----------
+  Hashtags: #aeroplanes #casualties 
+  10 Nov 1917 24
+    gridRef:V_28_D_7_7 (5,25)
+    place:Void Farm (65,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (60,41)
+    unit:North staffords (73,47)
+    activity:withdraw (36,49)
+    unit:North staffords (27,61)
+    unit:North staffords (89,71)
+    place:Tournant Farm (58,77)
+    unit:1 Gloucester Regiment (74,80)
+    unit:1 Gloucester Regiment (60,82)
+    unit:North staffords (69,85)
+Page 552 (type diary) http://wd3.herokuapp.com/pages/AWD00004k5  ----------
+  Hashtags: #prisoners #Canadians 
+  10 Nov 1917 24
+    unit:1 South Wales (31,25)
+    gridRef:V_28_D_7_7 (4,25)
+    unit:Loyal North Lancs (20,27)
+    unit:1 South Wales Borderers (36,28)
+    unit:The First South Wales Borderers (27,29)
+    unit:Canadians (76,31)
+    unit:The Canadians (71,33)
+    activity:withdraw (52,34)
+    activity:line (6,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 150; sick: 0; wounded: 0 (36,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (19,46)
+  11 Nov 1917 49
+    time:0400AM (54,54)
+    place:Irish Farm (5,55)
+    person:Captain J Delmedge (casualty_mia) (65,69)
+    person:Captain J Delmedge (casualty_wounded) (57,70)
+    person:Captain A Frizell (casualty_kia) (22,71)
+    person:Lieutenant O'Connor (casualty_kia) (21,75)
+    person:Second Lieutenant H Purdon Stoute (casualty_kia) (59,75)
+    person:Lieutenant C Horan (casualty_kia) (22,79)
+    person:Second Lieutenant O'Brien (casualty_kia) (59,79)
+    person:Second Lieutenant O'Brien (casualty_kia) (73,79)
+    person:Second Lieutenant McFeeley (casualty_wounded) (22,83)
+    casualties:died: 0; killed: 5; missing: 1; prisoner: 0; sick: 0; wounded: 1 (63,85)
+Page 553 (type diary) http://wd3.herokuapp.com/pages/AWD00004gm  ----------
+  Hashtags: #casualties #CasualtyClearingStations 
+  11 Nov 1917 75
+    place:Irish Farm (7,24)
+    person:Captain U P Harding (casualty_mia) (68,27)
+    person:Captain U P Harding (casualty_wounded) (72,27)
+    person:Captain A H Batten-Pooll (casualty_mia) (24,27)
+    place:Irish Farm (7,28)
+    person:Lieutenant H B Fisher (casualty_mia) (24,31)
+    person:Lieutenant H B Fisher (32,31)
+    person:Second Lieutenant P Flynn (casualty_kia) (69,31)
+    casualties:died: 0; killed: 2; missing: 3; prisoner: 0; sick: 0; wounded: 1 (33,33)
+    person:Second Lieutenant A M C Taylor (casualty_kia) (21,35)
+    person:Second Lieutenant L McDonald (casualty_wounded) (69,36)
+    casualties:died: 0; killed: 400; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,40)
+    casualties:died: 0; killed: 400; missing: 0; prisoner: 0; sick: 0; wounded:  (44,41)
+  12 Nov 1917 79
+    place:Irish Farm (5,55)
+    activity:movement (22,56)
+    place:Irish Farm (40,57)
+    place:Saint Jean (80,57)
+    place:Brielen (23,61)
+    place:Dirty Bucket Camp (46,61)
+    place:Dirty Bucket Camp (7,61)
+    time:0930AM (70,61)
+    place:Hospital Farm (46,65)
+    reference:Sheet 28 (7,69)
+  10 Nov 1917 70
+    person:Lieutenant H Whelan (returned_leave) (57,73)
+  11 Nov 1917 75
+    person:Second Lieutenant E W Thornley (returned_leave) (59,77)
+  12 Nov 1917 79
+    person:Second Lieutenant M Nunan (returned_leave) (57,82)
+Page 554 (type diary) http://wd3.herokuapp.com/pages/AWD00004i6  ----------
+  12 Nov 1917 0
+  13 Nov 1917 24
+    place:Dirty Bucket (5,27)
+    activity:resting (25,27)
+    domestic:hygiene (50,28)
+    person:Captain Newenham (returned_training) (61,31)
+    domestic:uniform (22,33)
+    person:Captain P Newenham (returned_training) (84,33)
+    person:Second Lieutenant D Welch (returned_training) (71,36)
+  14 Nov 1917 40
+    place:Houterque (61,45)
+    activity:strength (33,50)
+    person:Lieutenant Kidd (departed_training) (62,61)
+    person:Lieutenant Kidd (departed_training) (40,62)
+  15 Nov 1917 65
+    person:Major R R Kane (joined) (45,71)
+    activity:training (23,79)
+  16 Nov 1917 83
+    person:Second Lieutenant C F Boardman (returned_leave) (77,90)
+    person:Lieutenant H Hayman (other) (50,91)
+    person:Second Lieutenant C F Boardman (author) (62,91)
+Page 555 (type diary) http://wd3.herokuapp.com/pages/AWD00004h3  ----------
+  16 Nov 1917 0
+    activity:training (44,28)
+    time:0400AM (27,45)
+    person:Lieutenant H M Mitchell (departed_leave) (73,49)
+    activity:training (45,62)
+Page 556 (type diary) http://wd3.herokuapp.com/pages/AWD00004ih  ----------
+  16 Nov 1917 0
+  20 Nov 1917 27
+    person:Second Lieutenant H Stanners (author) (52,29)
+    place:Dirty Bucket Camp (8,31)
+    person:Second Lieutenant Sheehan (other) (51,33)
+    place:Dirty Bucket Camp (6,41)
+  21 Nov 1917 43
+    activity:training (71,45)
+  22 Nov 1917 55
+    place:Dirty Bucket Camp (5,56)
+    activity:repair (53,62)
+    person:Brigadier General Barker (other) (76,66)
+    person:Captain P Newenham (departed_leave) (88,70)
+    person:Lieutenant C O'Callaghan (departed_leave) (73,74)
+  23 Nov 1917 83
+    mapRef:Central Sheet 27 (71,86)
+    place:Schools Camp (52,87)
+    place:Dirty Bucket Camp (7,87)
+    activity:movement (43,87)
+Page 557 (type diary) http://wd3.herokuapp.com/pages/AWD00004lq  ----------
+  Hashtags: #tugofwar 
+  23 Nov 1917 26
+    domestic:accomodation (28,29)
+    place:Schools Camp (7,31)
+  24 Nov 1917 39
+    activity:training (43,41)
+    person:Lieutenant H Whelan (returned_training) (57,46)
+    person:Lieutenant H Darling (other) (47,50)
+    place:Irish Farm (26,51)
+    place:Irish Farm (34,55)
+  25 Nov 1917 59
+    person:Lieutenant Colonel H Ireland (71,66)
+    person:Brigadier General Barker (award) (29,67)
+    person:Lieutenant Colonel H Ireland (departed_leave) (88,67)
+    person:Captain Jordeson (departed_leave) (88,71)
+  26 Nov 1917 77
+    activity:training (48,80)
+    place:Proven (55,84)
+    reference:L.4.13.7.3 (79,88)
+  27 Nov 1917 90
+    place:Portsdown (56,92)
+    activity:movement (27,92)
+Page 558 (type diary) http://wd3.herokuapp.com/pages/AWD00004fb  ----------
+  27 Nov 1917 24
+    gridRef:X_25_B__ (7,26)
+    place:Proven (23,28)
+    place:Privett Camp (56,28)
+    mapRef:1g (8,33)
+    place:Portsdown Camp (52,33)
+    person:Second Lieutenant Thornley (47,41)
+    person:Second Lieutenant Thornley (returned_training) (63,41)
+  28 Nov 1917 44
+    activity:training (48,49)
+    domestic:hygiene (25,52)
+    person:Second Lieutenant Gillman (departed_training) (69,57)
+    person:Second Lieutenant Gillman (77,57)
+    person:Second Lieutenant Walsh (departed_training) (49,58)
+  29 Nov 1917 61
+    domestic:parades (26,85)
+    person:Private Moriaty (award) (45,89)
+Page 559 (type diary) http://wd3.herokuapp.com/pages/AWD00004fy  ----------
+  Hashtags: #MilitaryMedal 
+  29 Nov 1917 23
+    gridRef:X_25_B__ (8,27)
+    person:Lance Corporal M Mahony (award) (35,28)
+    person:Private J Curtain (award) (35,32)
+    person:Private M Higgins (award) (65,32)
+    person:Private Higgins (award) (81,33)
+    place:Portsdown Camp (6,35)
+    person:Private S Merry (award) (64,36)
+    person:Private A Townsend (award) (72,41)
+  30 Nov 1917 52
+Page 560 (type orders) http://wd3.herokuapp.com/pages/AWD00004f3  ----------
+  30 Nov 1917 0
+    orders:move (45,12)
+    reference:Map Sheets 27 and 28 1/40 (43,9)
+    reference:Operation Order No 4 (51,9)
+Page 561 (type other) http://wd3.herokuapp.com/pages/AWD00004fv  ----------
+Page 562 (type orders) http://wd3.herokuapp.com/pages/AWD00004hl  ----------
+  30 Nov 1917 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,50)
+    date:8 Nov 1917 (36,65)
+Page 563 (type orders) http://wd3.herokuapp.com/pages/AWD00004iv  ----------
+  30 Nov 1917 0
+Page 564 (type orders) http://wd3.herokuapp.com/pages/AWD00004ja  ----------
+  30 Nov 1917 0
+    orders:move (34,13)
+    reference:Instructions for move to "Forming Up" Position Operation Order No 126 (39,22)
+    reference:2nd Welsh Reg (35,27)
+    reference:1st Gloucester Reg (35,32)
+    reference:Meetcheele (58,44)
+    reference:1st South Wales Borderers (32,45)
+    reference:6th Welsh Reg (32,53)
+    reference:2nd Royal Munster Fus (32,58)
+    reference:Wallenmolen (46,60)
+Page 565 (type orders) http://wd3.herokuapp.com/pages/AWD00004f4  ----------
+  Hashtags: #14 
+  30 Nov 1917 0
+    date:8 Nov 1917 (40,56)
+Page 566 (type orders) http://wd3.herokuapp.com/pages/AWD00004hd  ----------
+  30 Nov 1917 0
+    reference:map Spriet 1/10000 (35,10)
+    reference:3rd (Imperial) Infantry Brigade Order No 126 (47,18)
+    date:10 Nov 1917 (38,18)
+    reference:V 30 a   1 6 (62,74)
+    reference:V 30 a   1/2   7   1/2 (47,77)
+    reference:V 29 b 0 4 (60,81)
+    reference:V 23 L 1  1/4 (47,83)
+Page 567 (type orders) http://wd3.herokuapp.com/pages/AWD00004fr  ----------
+  30 Nov 1917 0
+    orders:attack (39,4)
+    date:8 Nov 1917 (35,54)
+Page 568 (type orders) http://wd3.herokuapp.com/pages/AWD00004ke  ----------
+  30 Nov 1917 0
+    reference:map sheets 27 and 28 1/40000 (40,10)
+    reference:G 5 d 1 3 (46,18)
+    reference:G 5 d 1 3 (54,23)
+    person:Second Lieutenant E V Twiss (other) (44,38)
+    person:Corporal Merner (other) (56,42)
+    person:Major R R G Kane (other) (65,53)
+    date:22 Nov 1917 (47,63)
+Page 569 (type orders) http://wd3.herokuapp.com/pages/AWD00004hu  ----------
+  30 Nov 1917 0
+    person:Corporal Merner (other) (38,35)
+    person:Second Lieutenant E V Twiss (other) (40,42)
+    reference:Operation Order No 9 (40,8)
+Page 570 (type report) http://wd3.herokuapp.com/pages/AWD00004hf  ----------
+  Hashtags: #SOS #casualties 
+  30 Nov 1917 0
+    date:10 Nov 1917 (56,6)
+    unit:South Wales Borderers (38,7)
+    date:10 Nov 1917 (61,7)
+    reference:Details of attack by 2nd R. Munster Fusiliers and 1st South Wales Borderers on morning of 10 Nov 1917 (48,8)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,82)
+    unit:1 South Wales Borderers (41,86)
+    reference:1st South Wales Borderers. Formed up succesfully on line "XY" (see map). (41,88)
+Page 571 (type report) http://wd3.herokuapp.com/pages/AWD00004he  ----------
+  Hashtags: #muddyrifles #barrage #dudshells 
+  30 Nov 1917 0
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,29)
+Page 572 (type report) http://wd3.herokuapp.com/pages/AWD00004lf  ----------
+  30 Nov 1917 0
+    reference:V.23.d.2.1. (45,15)
+Page 573 (type other) http://wd3.herokuapp.com/pages/AWD00004fz  ----------
+  Hashtags: #map 
+Page 574 (type cover)
+Page 575 (type diary) http://wd3.herokuapp.com/pages/AWD00004i9  ----------
+  1 Dec 1917 21
+    activity:training (55,27)
+    place:Portsdown Camp (7,29)
+    person:Lieutenant H Darling (departed_leave) (47,32)
+    person:Lieutenant H Darling (departed_leave) (61,33)
+  2 Dec 1917 36
+    reference:Strength - 30 Officers 750 other ranks (30,36)
+    activity:strength (38,36)
+    domestic:inspections (77,40)
+    place:Portsdown Camp (5,41)
+    domestic:religion (57,41)
+    domestic:religion (44,42)
+  3 Dec 1917 44
+    reference:Usual Sunday services and inspections (61,44)
+    activity:training (44,49)
+    place:Portsdown Camp (5,50)
+    reference:Night Operations. Marching by compass on certain points, silence etc (77,53)
+    person:Second Lieutenant O'Brien (joined) (53,61)
+    person:Lieutenant W W McKeown (joined) (28,62)
+    person:Lieutenant H J Shadbolt (joined) (21,65)
+    person:Second Lieutenant R D Boyd (joined) (56,65)
+    person:Captain D Hall (joined) (26,70)
+    person:Lieutenant P A Eynaud (joined) (58,70)
+    person:Lieutenant P A Eynaud (joined) (64,70)
+    person:Second Lieutenant J T Sheffield (joined) (24,74)
+    person:Second Lieutenant J P O'Connor (joined) (59,74)
+  4 Dec 1917 78
+    activity:training (43,82)
+    place:Portsdown Camp (5,82)
+    reference:Bn congratulated by Brigadier (63,93)
+Page 576 (type diary) http://wd3.herokuapp.com/pages/AWD00004gq  ----------
+  Hashtags: #lightrailway 
+  5 Dec 1917 23
+    reference:in Dug outs etc (65,26)
+    place:Portsdown Camp (6,26)
+    reference:APP i (92,27)
+    gridRef:B_3_A__ (83,27)
+    activity:movement (23,28)
+    place:Noordhoek (44,29)
+    place:Portsdown Camp (7,30)
+    mapRef:28 (20,32)
+    reference:Sheet 28 (18,33)
+    reference:Sector of line (from grids) (74,36)
+    unit:1 Division (20,36)
+    unit:2 Trench Division (48,36)
+    gridRef:U_5_B_0_5 (20,40)
+    reference:in Reserve (85,41)
+    unit:3 Brigade (82,41)
+    person:Second Lieutenant Cahill (departed_leave) (40,45)
+    person:Lieutenant Cahill (departed_leave) (63,46)
+  6 Dec 1917 48
+    reference:Working Party of 300 men (52,52)
+    gridRef:B_3_A__ (5,54)
+    reference:Making new light railway (65,57)
+    unit:R E (32,58)
+    mapRef:28 (3,58)
+    mapRef:Sheet 28 (5,58)
+    reference:linking French and English systems (75,62)
+    activity:training (25,66)
+    reference:Training Signallers and Lewis gunners (39,68)
+  7 Dec 1917 69
+    reference:Working Party of 250 men (41,73)
+    reference:continue work on light railway (78,73)
+    reference:CO Company commanders visit area held by Reserve Company in line. (62,82)
+  8 Dec 1917 86
+    reference:Working party of 250 men continue to work on light railway. (64,89)
+Page 577 (type diary) http://wd3.herokuapp.com/pages/AWD00004li  ----------
+  8 Dec 1917 23
+    mapRef:28 (4,27)
+  9 Dec 1917 34
+    person:Second Lieutenant Harte (42,44)
+    person:Second Lieutenant Twiss (59,44)
+    person:Second Lieutenant E O'Callaghan (returned_leave) (61,49)
+  8 Dec 1917 23
+  9 Dec 1917 34
+    person:Captain P W Newenham (returned_leave) (41,50)
+  10 Dec 1917 53
+    person:Captain J F Gloster (returned_leave) (57,65)
+  11 Dec 1917 70
+    person:Lieutenant Colonel H R H Ireland (returned_leave) (33,82)
+    person:Captain J H Jordeson (returned_leave) (34,86)
+Page 578 (type diary) http://wd3.herokuapp.com/pages/AWD00004fw  ----------
+  Hashtags: #feintscan #faint 
+  12 Dec 1917 24
+    mapRef:28 (4,24)
+    unit:1 Gloucestershire Regiment (44,33)
+    place:Housten (46,37)
+    person:Second Lieutenant U Clair (joined) (21,40)
+  13 Dec 1917 45
+  14 Dec 1917 57
+    unit:1 Gloucestershire Regiment (34,57)
+    unit:5 Welch Regiment (46,57)
+  16 Dec 1917 74
+    person:Captain C W Chandler (other) (45,74)
+    unit:1/Glosters (25,79)
+Page 579 (type diary) http://wd3.herokuapp.com/pages/AWD00004j3  ----------
+  Hashtags: #feintscan 
+  16 Dec 1917 26
+    place:Houchard (67,28)
+    place:Mangelare (33,29)
+    place:Papegoed Farm (35,41)
+    place:Gourbi (24,45)
+  17 Dec 1917 59
+    person:Second Lieutenant O'Brien (casualty_kia) (61,60)
+    mapRef:Bixschoote (89,65)
+  18 Dec 1917 67
+  19 Dec 1917 71
+    person:Lieutenant W S Kidd (67,72)
+  20 Dec 1917 79
+    unit:1/L N Lancs (30,82)
+    unit:1 Bn L N Lancs Regiment (24,82)
+    person:Lieutenant H Darling (returned_leave) (57,86)
+  21 Dec 1917 87
+Page 580 (type diary) http://wd3.herokuapp.com/pages/AWD00004gk  ----------
+  22 Dec 1917 23
+    person:Second Lieutenant P L Cahill (returned_leave) (26,25)
+    person:Second Lieutenant J P O'Connor (returned_training) (47,25)
+    domestic:hygiene (81,32)
+  23 Dec 1917 36
+    domestic:religion (26,40)
+  24 Dec 1917 41
+    domestic:sport (45,41)
+    activity:training (27,44)
+    person:Lieutenant C O'Callaghan (returned_training) (29,48)
+  25 Dec 1917 50
+    weather:cold (47,52)
+  26 Dec 1917 62
+    weather:cold (34,65)
+    activity:training (46,69)
+  27 Dec 1917 71
+    activity:training (23,71)
+  28 Dec 1917 79
+    person:Major Kane (other) (75,82)
+Page 581 (type diary) http://wd3.herokuapp.com/pages/AWD00004kz  ----------
+  29 Dec 1917 23
+    unit:3 Brigade (25,27)
+    unit:2 Brigade (36,28)
+    mapRef:19 (91,28)
+    mapRef:20 (93,28)
+    unit:Northants (72,32)
+    unit:The northants (58,33)
+    weather:cold (25,35)
+  30 Dec 1917 39
+    domestic:religion (22,43)
+    place:Woesten (57,43)
+    person:Captain Newenham (other) (71,48)
+  28 Dec 1917 0
+  31 Dec 1917 52
+    activity:training (23,56)
+    person:Captain Jordeson (other) (23,65)
+  28 Dec 1917 0
+  31 Dec 1917 52
+    person:Lieutenant J P Quinn (joined) (68,78)
+    person:Captain R H Crichton (joined) (31,82)
+    person:Second Lieutenant G Cosgrove (joined) (65,84)
+    activity:enemy_activity (28,91)
+Page 582 (type orders) http://wd3.herokuapp.com/pages/AWD00004i5  ----------
+  31 Dec 1917 0
+    orders:move (34,13)
+    reference:u.3.b.4.0 (63,17)
+    reference:u.3.b.4.0 (46,26)
+    person:Captain Chandler (other) (49,52)
+    date:4 Dec 1917 (47,73)
+    reference:Operation Order No 10 (41,9)
+Page 583 (type orders) http://wd3.herokuapp.com/pages/AWD00004lg  ----------
+  31 Dec 1917 0
+    reference: (48,10)
+    reference: (50,13)
+    reference: (64,16)
+    orders:move (49,18)
+    orders:move (35,18)
+    orders:move (46,23)
+    orders:move (50,30)
+    orders:move (50,37)
+    orders:move (51,41)
+    date:11 Dec 1917 (36,5)
+    orders:routine (48,53)
+    reference:U.13.d.3.3 (47,65)
+    reference:T.24.c.9.3 (54,66)
+    date:11 Dec 1917 (39,77)
+Page 584 (type orders) http://wd3.herokuapp.com/pages/AWD00004ib  ----------
+  31 Dec 1917 0
+    reference: (39,10)
+    orders:move (37,14)
+    date:28 Dec 1917 (36,4)
+    reference: (61,40)
+    person:Second Lieutenant W O Varian (other) (56,44)
+    reference:2nd Battalion the Royal Munster Fusiliers Operation Orders (46,5)
+    reference: (56,58)
+    person:Lieutenant O'Callaghan (author) (53,68)
+    date:28 Dec 1917 (36,70)
+    reference: (56,73)
+    person:Lieutenant C O'Callaghan (author) (47,73)
+Page 585 (type cover)
+Page 586 (type cover)
+Page 587 (type diary) http://wd3.herokuapp.com/pages/AWD00004kn  ----------
+  Hashtags: #pow 
+  31 Dec 1917 0
+  1 Jan 1918 24
+    domestic:religion (59,31)
+    activity:other (28,35)
+    person:Lieutenant Colonel Ireland (44,38)
+    person:Lieutenant Colonel Ireland (returned_training) (32,39)
+    weather:cold (59,43)
+    weather:cold (41,43)
+  2 Jan 1918 44
+    activity:training (26,48)
+    person:Captain Newenham (other) (46,51)
+    unit:10 Glosters (33,55)
+    person:Captain Batten Poole (casualty_pow) (28,62)
+    person:Captain C R Hall (casualty_pow) (46,66)
+    person:Captain Hall (casualty_pow) (31,66)
+  3 Jan 1918 71
+    activity:training (26,75)
+  4 Jan 1918 77
+  5 Jan 1918 82
+    activity:line (28,87)
+    time:0545PM (27,89)
+    place:Tilleul Wood (72,91)
+Page 588 (type diary) http://wd3.herokuapp.com/pages/AWD00004g0  ----------
+  Hashtags: #AlbertMedal #MilitaryCross 
+  5 Jan 1918 22
+    person:Captain G Stoker (award) (38,25)
+  6 Jan 1918 33
+    weather:other (25,36)
+    activity:repair (26,42)
+    unit:1 Glosters (44,47)
+    person:Drury (casualty_pow) (23,50)
+  7 Jan 1918 62
+    unit:1 Glosters (63,67)
+    person:Major Kane (returned_leave) (26,78)
+  8 Jan 1918 80
+    weather:cold (29,83)
+  9 Jan 1918 89
+    person:Second Lieutenant Sheffield (returned_training) (23,89)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,92)
+    unit:1 Glosters (23,92)
+Page 589 (type diary) http://wd3.herokuapp.com/pages/AWD00004gb  ----------
+  Hashtags: #camp 
+  9 Jan 1918 23
+  10 Jan 1918 34
+    person:Lieutenant E V Twiss (returned_training) (65,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (29,41)
+  11 Jan 1918 45
+    person:Second Lieutenant Boyd (departed_sick) (26,51)
+  12 Jan 1918 53
+    activity:reconnoitered (24,56)
+  13 Jan 1918 58
+    unit:1 Loyal North Lancashire Regiment (41,61)
+    unit:1 royal north lancashire Regiment (26,62)
+    mapRef:20  (45,66)
+  14 Jan 1918 69
+    unit:1 Black Watch (38,75)
+  15 Jan 1918 77
+    weather:rain (30,82)
+  16 Jan 1918 85
+    activity:training (50,89)
+Page 590 (type diary) http://wd3.herokuapp.com/pages/AWD00004kb  ----------
+  16 Jan 1918 0
+  17 Jan 1918 23
+    activity:training (51,27)
+    person:Second Lieutenant Treacy (joined) (50,31)
+  18 Jan 1918 55
+    activity:resting (26,60)
+  19 Jan 1918 75
+  20 Jan 1918 86
+    domestic:religion (50,90)
+Page 591 (type diary) http://wd3.herokuapp.com/pages/AWD00004jt  ----------
+  20 Jan 1918 0
+    place:Eykhoek Camp (9,28)
+  21 Jan 1918 32
+    person:Captain G W Nightingale (joined) (35,34)
+    person:Captain G W Nightingale (joined) (53,35)
+    person:Captain F S Waldegrave (joined) (37,39)
+    mapRef:20 S W (6,40)
+  22 Jan 1918 48
+    place:Reninghoe Camp (45,49)
+    activity:movement (34,50)
+    person:Captain F S Waldegrave (other) (35,58)
+    person:Captain C J D Lanktree (other) (54,61)
+    person:Lieutenant J P Flood (other) (39,63)
+    person:Captain A P Harte (other) (42,67)
+  23 Jan 1918 77
+    place:Reninghoe Camp (8,80)
+  24 Jan 1918 90
+    person:Captain D P Hall (returned_training) (67,90)
+    person:Brigadier General Barnet-Barker (other) (37,93)
+Page 592 (type diary) http://wd3.herokuapp.com/pages/AWD00004kj  ----------
+  24 Jan 1918 0
+    place:Reninghoe Camp (8,27)
+    mapRef:28 (10,3)
+    mapRef:28 Belgium (28,31)
+  26 Jan 1918 40
+    place:Canal Bank (5,43)
+    person:Captain C J D Lanktree (24,46)
+    mapRef:28 (5,46)
+    person:Second Lieutenant W O Varian (departed_leave) (54,49)
+  24 Jan 1918 0
+  26 Jan 1918 40
+    person:Captain C J D Lanktree (departed_leave) (34,50)
+  27 Jan 1918 52
+    person:Second Lieutenant M Clair (66,57)
+    place:Canal Bank (4,60)
+    unit:Ii army school (60,62)
+    person:Captain J H Jordeson (departed_posted) (25,62)
+  28 Jan 1918 78
+    person:Lieutenant E V Twiss (40,82)
+Page 593 (type diary) http://wd3.herokuapp.com/pages/AWD00004jj  ----------
+  29 Jan 1918 30
+    place:Canal Bank (6,27)
+    unit:1 Division (63,28)
+    mapRef:28 Belgium (6,31)
+    unit:16 Irish Division (37,34)
+    person:Second Lieutenant P J Denahy (joined) (30,39)
+    person:Major R R G Kane (returned_leave) (27,43)
+  30 Jan 1918 51
+    person:Second Lieutenant J P D O'Connor (joined) (51,52)
+    person:Second Lieutenant J P D O'Connor (joined) (69,52)
+    person:Second Lieutenant D J O'Brien (joined) (42,55)
+    person:Second Lieutenant D J O'Brien (joined) (70,55)
+    person:Second Lieutenant D Welch (returned_leave) (66,58)
+    person:Second Lieutenant D Welch (51,60)
+  31 Jan 1918 65
+    person:Second Lieutenant W T Philips (joined) (72,66)
+    person:Second Lieutenant P J Denahy (departed_leave) (63,69)
+    person:P J Denahy (departed_leave) (46,70)

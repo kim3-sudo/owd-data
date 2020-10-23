@@ -1,0 +1,2734 @@
+GWD0000003 wo/95/1104/1
+1 CAVALRY DIVISION: 8 Light Armoured Battery 
+104 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type cover)
+Page 4 (type cover)
+Page 5 (type cover)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD00000ju  ----------
+  11 Mar 1916 27
+    time:0800PM (17,30)
+    place:Bisley (7,30)
+    activity:movement (30,30)
+  12 Mar 1916 31
+    time:0700PM (17,34)
+    place:Winchester (7,34)
+    activity:movement (22,34)
+  13 Mar 1916 35
+    place:Southampton (6,37)
+    time:0600PM (17,38)
+    activity:movement (23,39)
+  14 Mar 1916 42
+    time:1000PM (17,46)
+    activity:movement (26,46)
+    weather:other (48,49)
+  15 Mar 1916 50
+    time:0800PM (17,53)
+    place:Le Havre (7,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (22,56)
+    person:Tutin (departed_sick) (24,56)
+  16 Mar 1916 58
+    place:Neufchatel (7,61)
+    activity:movement (26,61)
+  17 Mar 1916 62
+    time:0900PM (17,62)
+    time:0800PM (17,65)
+    place:Abbeville (6,65)
+  18 Mar 1916 66
+    time:0900PM (17,69)
+    place:Menty (6,69)
+    activity:movement (23,69)
+    place:Menty (66,73)
+    place:Samer (77,73)
+    unit:1 Cavalry Division (48,76)
+  19 Mar 1916 78
+    activity:resting (24,80)
+  20 Mar 1916 81
+    time:0800PM (16,81)
+    place:Menty (6,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (34,85)
+    person:Gunner Kiff (departed_sick) (42,85)
+    person:Gunner Turner (departed_sick) (52,85)
+    time:0800PM (16,85)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD00000if  ----------
+  21 Mar 1916 27
+    place:Menty (7,29)
+  22 Mar 1916 30
+    time:0900PM (16,30)
+    activity:training (25,30)
+    time:0900PM (16,34)
+    person:Second Lieutenant E H Harvey (departed_sick) (34,34)
+    place:Menty (7,34)
+  23 Mar 1916 35
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (50,35)
+    place:Menty (7,37)
+  24 Mar 1916 38
+    time:0900PM (16,38)
+    activity:training (26,38)
+    domestic:other (40,41)
+  25 Mar 1916 42
+    time:0700PM (16,42)
+    activity:training (24,42)
+    place:Menty (6,42)
+  26 Mar 1916 46
+    time:0700PM (17,46)
+    activity:training (27,46)
+    place:Menty (7,46)
+    place:Menty (6,49)
+    domestic:parades (22,49)
+    domestic:parades (26,49)
+  27 Mar 1916 50
+    time:0800PM (17,50)
+    person:Driver Davies (departed_sick) (59,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (76,53)
+  28 Mar 1916 54
+    time:0800PM (16,54)
+    person:Gunner Kiff (returned_hospital) (26,54)
+    place:Menty (6,54)
+    time:0800PM (17,57)
+    place:Menty (7,57)
+  29 Mar 1916 58
+    time:0900PM (16,61)
+    place:Menty (6,61)
+  30 Mar 1916 62
+    activity:training (26,62)
+    time:0900PM (16,65)
+    activity:training (26,65)
+    place:Menty (6,65)
+  31 Mar 1916 66
+    time:0800PM (17,69)
+    person:Gunner Turner (returned_hospital) (27,69)
+    person:Corporal Tidman (departed_sick) (54,69)
+    place:Menty (6,69)
+    domestic:other (29,73)
+Page 8 (type cover)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD00000lf  ----------
+  1 Apr 1916 26
+    place:Aire (55,29)
+    time:0800PM (16,29)
+    time:0200PM (65,29)
+    place:Menty (7,30)
+    unit:2 Armoured Battery (27,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (71,34)
+  2 Apr 1916 43
+    unit:No. 1 Cavalry (46,44)
+  3 Apr 1916 46
+    activity:training (32,46)
+    place:Menty (7,46)
+    time:0800PM (17,46)
+    activity:training (72,49)
+    time:0700PM (16,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (48,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (38,49)
+  4 Apr 1916 50
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (29,50)
+    activity:training (22,53)
+    domestic:parades (43,53)
+    time:0800PM (17,53)
+    activity:other (44,54)
+  5 Apr 1916 55
+    time:0700PM (16,56)
+    domestic:parades (52,57)
+  6 Apr 1916 59
+    activity:training (29,61)
+    domestic:parades (49,61)
+    time:0800PM (16,61)
+  7 Apr 1916 63
+    activity:other (28,65)
+    place:Hardelot Plage (55,65)
+    domestic:parades (29,65)
+    time:0900PM (16,65)
+    place:Menty (41,69)
+    place:Nesles (75,69)
+    place:Claire Eau (23,69)
+    domestic:parades (58,73)
+    unit:1,3,4 lab (72,73)
+    domestic:inspections (71,83)
+    person:Major General Mullens (other) (51,84)
+    place:Menty (28,88)
+    domestic:other (53,88)
+    time:1230PM (38,88)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD00000j7  ----------
+  7 Apr 1916 0
+  8 Apr 1916 27
+    activity:training (26,29)
+    time:0900PM (17,29)
+    place:Menty (6,29)
+    domestic:parades (27,37)
+  10 Apr 1916 38
+    time:0800PM (17,38)
+  7 Apr 1916 0
+  10 Apr 1916 38
+    time:0900PM (17,41)
+    domestic:parades (77,41)
+    activity:training (24,42)
+  11 Apr 1916 47
+    activity:training (25,49)
+    time:1000PM (17,49)
+  12 Apr 1916 51
+    activity:training (30,53)
+    time:0800PM (17,53)
+    domestic:inspections (44,53)
+  13 Apr 1916 55
+    activity:training (23,55)
+    activity:training (75,57)
+    time:1000PM (17,57)
+  14 Apr 1916 63
+    unit:Mounted Troops (56,63)
+    activity:training (30,65)
+    time:0900PM (16,65)
+    unit:9 Brigade (27,69)
+    place:Verlincthun (70,69)
+    place:Desvre (23,73)
+    time:1130AM (23,80)
+  15 Apr 1916 82
+    domestic:inspections (57,84)
+    activity:training (32,85)
+    time:0900PM (17,85)
+  16 Apr 1916 86
+    activity:training (27,89)
+    time:0900PM (16,89)
+  7 Apr 1916 0
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD00000im  ----------
+  17 Apr 1916 27
+    place:Menty (8,29)
+    time:0900PM (16,29)
+    person:Lieutenant General Munro (other) (60,29)
+    domestic:parades (21,30)
+    domestic:inspections (45,30)
+    person:Munro (author) (57,30)
+    activity:other (25,31)
+    time:1130AM (22,33)
+  18 Apr 1916 43
+    activity:training (25,45)
+    time:0930PM (16,45)
+  19 Apr 1916 47
+    activity:training (26,49)
+    time:0900PM (17,49)
+  20 Apr 1916 50
+    time:0900PM (17,52)
+    activity:training (26,53)
+  21 Apr 1916 54
+    activity:training (24,57)
+    time:0900PM (16,57)
+    unit:Mounted Troops (28,61)
+  22 Apr 1916 62
+    time:0845AM (71,64)
+    time:1000PM (17,65)
+    person:Captain York (other) (80,65)
+    place:Calais (32,69)
+  23 Apr 1916 70
+    time:1000PM (17,72)
+    time:1030AM (38,72)
+    domestic:parades (23,73)
+    person:Second Lieutenant Harvey (24,77)
+  24 Apr 1916 78
+    time:0900PM (17,80)
+    activity:training (23,81)
+    unit:Mounted Troops (33,81)
+  25 Apr 1916 82
+    time:0900PM (16,84)
+    person:Second Lieutenant Harvey (returned_leave) (64,84)
+    activity:training (22,85)
+    unit:Mounted Troops (31,85)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD00000ia  ----------
+  26 Apr 1916 27
+    place:Menty (7,29)
+    unit:Mounted Troops (34,30)
+    time:0900PM (17,30)
+    activity:training (22,30)
+    reference:FWP (88,34)
+    activity:training (30,34)
+  27 Apr 1916 36
+    place:Hardelot Plage (73,37)
+    time:0900PM (17,38)
+    activity:training (25,38)
+    place:Calais (60,42)
+    reference:FWP (88,49)
+    person:Captain York (other) (21,49)
+    place:Calais (34,49)
+  28 Apr 1916 55
+    place:Samer (71,56)
+    time:0900PM (17,57)
+    activity:training (22,57)
+    reference:FWP (88,61)
+  29 Apr 1916 63
+    unit:Mounted Troops (38,65)
+    unit:Cyclists (50,65)
+    time:0900PM (17,65)
+    activity:training (22,65)
+    place:Carly (73,65)
+  30 Apr 1916 67
+    reference:FWP (88,69)
+    time:0600PM (17,69)
+    domestic:parades (24,69)
+    place:Samer (50,69)
+Page 13 (type cover)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD00000ku  ----------
+  1 May 1916 27
+    place:Samer (75,29)
+    place:Menty (7,29)
+    time:0900PM (17,30)
+    activity:movement (24,30)
+    place:Marquise (55,34)
+    reference:FWP (89,37)
+  2 May 1916 39
+    time:0900PM (17,41)
+    person:Captain York (other) (23,41)
+    place:Calais (35,42)
+Page 15 (type cover)
+Page 16 (type cover)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD00000kk  ----------
+  2 May 1916 38
+  1 May 1916 26
+    time:0900PM (17,29)
+    place:Samer (74,29)
+    place:Menty (7,29)
+    reference:FWP (90,33)
+    place:Marquise (56,34)
+    activity:enemy_activity (24,34)
+  2 May 1916 38
+    person:Captain York (other) (23,41)
+    time:0900PM (16,41)
+    place:Calais (35,41)
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD00000l8  ----------
+  2 May 1916 27
+    place:Menty (6,30)
+    time:0900PM (17,30)
+    reference:FWP (88,48)
+  3 May 1916 51
+    activity:training (27,51)
+    activity:training (36,53)
+    time:0900PM (16,53)
+    reference:FWP (89,53)
+  4 May 1916 54
+    activity:training (37,57)
+    time:0900PM (17,57)
+  5 May 1916 58
+    reference:FWP (89,58)
+    place:Samer (72,61)
+    activity:training (25,61)
+    time:0900PM (17,61)
+    unit:Divisonal Mounted Troops (38,61)
+    activity:movement (24,62)
+    reference:FWP (88,69)
+  6 May 1916 70
+    place:Calais (72,73)
+    person:Captain York (other) (58,73)
+    time:0900PM (16,73)
+    activity:training (74,77)
+    reference:FWP (88,80)
+    place:Saint Michael Au Mont (28,81)
+  7 May 1916 82
+    domestic:parades (25,85)
+    time:0900PM (17,85)
+    reference:A straggler who lost his memory appeared. Handed over to Provost Marshal. (42,85)
+    reference:FWP (88,89)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD00000ka  ----------
+  8 May 1916 27
+    place:Menty (7,29)
+    time:0900PM (17,30)
+    weather:rain (22,33)
+    activity:training (39,34)
+  9 May 1916 35
+    weather:rain (20,37)
+    place:Menty (8,37)
+    activity:training (36,37)
+    time:0900PM (17,37)
+  10 May 1916 39
+    time:0900PM (16,41)
+    activity:training (33,42)
+  11 May 1916 46
+    activity:training (35,49)
+    activity:training (45,49)
+    time:0900PM (16,49)
+    unit:Mounted Troops School (28,57)
+  12 May 1916 58
+    place:Hesdigneul l'Abbe (56,61)
+    activity:training (28,61)
+    time:0900PM (16,61)
+    unit:Divisonal Mounted Troops (36,62)
+  13 May 1916 66
+    domestic:inspections (54,69)
+    activity:training (68,69)
+    time:0600PM (16,69)
+  14 May 1916 70
+    domestic:religion (24,73)
+    place:Menty (35,73)
+    time:0900PM (16,73)
+  15 May 1916 74
+    place:Permes Conteville (71,77)
+    activity:reconnoitered (25,77)
+    unit:Mounted Troops School (43,77)
+    unit:Divisonal Mounted Troops (39,77)
+    time:0900PM (17,77)
+  16 May 1916 79
+    activity:training (32,80)
+    activity:training (26,81)
+    unit:Mounted Troops School (46,81)
+    unit:Divisonal Mounted Troops (45,81)
+    time:0800PM (17,81)
+  17 May 1916 82
+    time:0900PM (17,84)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD00000kv  ----------
+  18 May 1916 27
+    place:Menty (7,29)
+    time:0900PM (17,29)
+    unit:Mounted Troops School (43,29)
+    unit:Divisonal Mounted Troops (42,29)
+    activity:training (23,30)
+    activity:training (58,33)
+  19 May 1916 34
+    reference:FWP (87,35)
+    place:Bois de Tingry (65,37)
+    place:La Houssoye (79,37)
+    activity:training (25,37)
+    time:0900PM (17,37)
+    unit:Mounted Troops School (43,37)
+    unit:Divisonal Mounted Troops (42,37)
+  20 May 1916 38
+    activity:training (23,38)
+    reference:FWP (88,38)
+    time:0900PM (17,41)
+    reference:FWP (88,42)
+    place:London (52,44)
+  21 May 1916 46
+    domestic:religion (25,49)
+    reference:FWP (88,49)
+    time:0900PM (16,49)
+  22 May 1916 51
+    domestic:hygiene (24,53)
+    place:Samer (42,53)
+    time:0800PM (17,53)
+    unit:Mounted Troops School (77,53)
+    reference:FWP (88,56)
+  23 May 1916 58
+    activity:training (27,61)
+    time:0900PM (17,61)
+    reference:FWP (89,63)
+  24 May 1916 65
+    time:0900PM (17,69)
+    place:La Houssoye (34,76)
+    activity:training (33,76)
+    reference:FWP (88,76)
+  25 May 1916 78
+    activity:training (41,80)
+    time:0900PM (16,80)
+  26 May 1916 81
+    reference:FWP (88,82)
+    activity:training (31,84)
+    activity:training (41,85)
+    reference:FWP (88,85)
+    time:0800PM (17,85)
+  27 May 1916 86
+    unit:Mounted Troops School (42,88)
+    place:Saint Etienne Au Mont (66,89)
+    activity:training (25,89)
+    reference:FWP (88,89)
+    time:0900PM (17,89)
+    unit:Divisonal Mounted Troops (37,89)
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD00000iw  ----------
+  28 May 1916 27
+    place:Menty (37,29)
+    place:Menty (7,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (74,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (62,29)
+    reference:FWP (89,29)
+    time:0900PM (17,29)
+    time:0830AM (48,29)
+  29 May 1916 30
+    domestic:religion (25,30)
+    activity:training (25,34)
+    time:0900PM (16,34)
+    reference:FWP (88,36)
+  30 May 1916 38
+    time:0900PM (16,41)
+  31 May 1916 42
+    activity:training (26,42)
+    reference:FWP (88,42)
+    activity:training (29,45)
+    time:0900PM (17,45)
+    reference:FWP (88,46)
+    reference:Problems with armoured cars. (45,54)
+    reference:Supply problems. (57,61)
+    reference:FWP (89,69)
+    person:Captain York (author) (77,76)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD00000ii  ----------
+  1 Jun 1916 25
+    place:Menty (8,29)
+    activity:training (31,29)
+    reference:FWP (88,29)
+    time:0900PM (17,29)
+    activity:training (30,30)
+  2 Jun 1916 34
+    activity:training (30,37)
+    person:Captain York (departed_sick) (51,37)
+    time:0900PM (16,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (63,38)
+    place:Boulogne (45,41)
+  3 Jun 1916 42
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (31,42)
+    reference:FWP (89,42)
+    time:0900PM (16,45)
+    activity:training (23,46)
+    reference:FWP (88,49)
+  4 Jun 1916 51
+    time:1000PM (16,52)
+    domestic:religion (61,53)
+    activity:training (28,53)
+    place:Calais (69,58)
+    place:Boulogne (58,61)
+    person:Lieutenant Poate (other) (38,61)
+    person:Captain York (departed_sick) (24,65)
+    reference:Captain York sent back to England. (38,66)
+    place:England (32,68)
+  5 Jun 1916 70
+    reference:FWP (88,70)
+    domestic:hygiene (42,73)
+    place:Samer (53,73)
+    activity:training (23,73)
+    time:0900PM (16,73)
+    reference:Received 2 Hotchkiss guns for armoured cars. (27,77)
+    place:Calais (72,81)
+    reference:FWP (88,85)
+  6 Jun 1916 86
+    time:0900PM (17,88)
+    place:Samer (63,89)
+    reference:Armoured car sent to workshop. (30,89)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD00000ij  ----------
+  6 Jun 1916 26
+    time:0900PM (17,29)
+    activity:training (44,29)
+    place:Menty (7,29)
+    person:Gunner Blackford (returned_hospital) (33,33)
+    reference:FWP (89,34)
+  7 Jun 1916 35
+    time:0900PM (16,37)
+    activity:training (25,38)
+    reference:FWP (88,41)
+    activity:training (32,41)
+  8 Jun 1916 42
+    time:0900PM (16,45)
+    reference:FWP (88,45)
+    activity:training (25,45)
+  9 Jun 1916 46
+    reference:Divisional field day. (74,48)
+    time:0900PM (16,49)
+    reference:FWP (88,49)
+    person:Lieutenant Poate (other) (56,49)
+    activity:training (27,49)
+  10 Jun 1916 50
+    domestic:inspections (25,52)
+  11 Jun 1916 53
+    time:0900PM (16,53)
+    reference:FWP (88,53)
+    time:0900PM (16,57)
+    place:Samer (50,57)
+    reference:Armoured car came back fitted for trailer. Problems with this. (52,69)
+  12 Jun 1916 77
+    reference:FWP (88,77)
+    time:0900PM (17,80)
+    activity:other (38,81)
+    reference:Trying out armoured car with trailer.r trailer. Problems with this. (35,82)
+    domestic:inspections (42,83)
+    reference:FWP (89,84)
+  13 Jun 1916 85
+    time:0900PM (16,88)
+    reference:Armoured cars to workshop. (29,89)
+    activity:other (29,89)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD00000jp  ----------
+  13 Jun 1916 26
+    reference:FWP (88,29)
+    time:0900PM (17,29)
+    place:Menty (7,29)
+  14 Jun 1916 30
+    time:0900PM (17,33)
+    reference:FWP (88,45)
+  15 Jun 1916 46
+    time:0900PM (16,49)
+    person:Captain P E Bowden-Smith (joined) (30,49)
+    activity:training (40,52)
+    reference:FWP (88,53)
+  16 Jun 1916 54
+    activity:training (27,56)
+    time:0900PM (16,57)
+    reference:FWP (87,61)
+    activity:training (72,61)
+    place:Hesdigneul (26,61)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD00000lb  ----------
+  17 Jun 1916 27
+    place:Menty (7,29)
+    activity:training (49,29)
+    reference:FWP (88,29)
+  18 Jun 1916 31
+    activity:training (52,32)
+    place:Menty (7,33)
+    reference:FWP (88,33)
+  19 Jun 1916 35
+    place:Menty (7,37)
+    place:Samer (63,37)
+    domestic:religion (78,37)
+    person:other Kitchener (other) (28,41)
+    reference:FWP (87,41)
+  20 Jun 1916 42
+    place:Menty (6,45)
+    activity:training (49,45)
+  21 Jun 1916 46
+    person:Captain Bowden-Smith (other) (73,49)
+    reference:Went to buy (iron bars?) to fit in front of observation slits of armoured cars. (42,52)
+    place:Boulogne (25,53)
+    place:Samer (70,57)
+    person:Major Akstby (other) (67,61)
+    person:Captain Osborne (joined) (29,65)
+    person:Lieutenant Johnson (joined) (63,65)
+    reference:PEBS (89,65)
+    reference:Arrives to discuss use of Hotchkiss guns and methods of transport. (39,69)
+  22 Jun 1916 70
+    place:Menty (7,72)
+    activity:training (46,73)
+    person:Captain Osborne (other) (74,76)
+    person:Lieutenant Poate (other) (22,80)
+    person:Captain Bowden-Smith (departed_training) (69,80)
+    reference:Lt Poate and Captain Bowden-Smith are looking for the new wheels for the armoured cars - first in Calais. They find they may be in Abbeville. (40,81)
+    place:Calais (56,84)
+    person:Lieutenant Poate (other) (21,84)
+    place:Abbeville (66,91)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD00000il  ----------
+  23 Jun 1916 22
+    domestic:accomodation (40,24)
+    person:Lieutenant Poate (other) (49,24)
+    place:Abbeville (71,25)
+    place:Menty (8,25)
+    time:1000PM (17,25)
+    person:Captain Bowden-Smith (other) (52,26)
+    person:Lieutenant Freeth (joined) (55,28)
+    reference:FWP (89,30)
+    reference:Captain Bowden-Smith returned from Abbeville with tyres. (31,30)
+  24 Jun 1916 31
+    reference:FWP (89,32)
+    domestic:accomodation (41,33)
+    person:Lieutenant Freeth (other) (51,33)
+  25 Jun 1916 34
+    time:1200PM (61,37)
+    time:0800PM (70,37)
+    reference:3 ton lorry joined ammunition park. (26,37)
+    person:Lieutenant Freeth (other) (83,38)
+    activity:movement (30,40)
+    time:0930PM (60,41)
+    place:Montreuil (48,42)
+  26 Jun 1916 44
+    place:Hesdin (44,44)
+    reference:FWP (89,44)
+    place:Villers l'Hopital (37,47)
+    domestic:accomodation (73,47)
+    time:0100AM (54,47)
+    time:0200AM (84,47)
+  27 Jun 1916 48
+    reference:FWP (89,48)
+    activity:resting (25,49)
+    weather:rain (55,50)
+    activity:movement (75,50)
+    place:Surcamps (83,51)
+    activity:movement (32,51)
+    time:1130PM (66,51)
+    reference:Roads very bad, (23,52)
+    place:Surcamps (47,53)
+    time:0330AM (56,53)
+    place:Candas (26,55)
+    activity:movement (75,57)
+    reference:FWP (89,57)
+    time:0600PM (61,58)
+  28 Jun 1916 59
+    place:Domart (25,60)
+    activity:movement (34,60)
+    place:Querrieu (73,62)
+    activity:movement (57,62)
+    time:0500AM (83,62)
+    reference:FWP (89,62)
+    time:0130AM (29,63)
+  29 Jun 1916 65
+    time:0800AM (52,65)
+    domestic:rations (41,66)
+    reference:FWP (89,66)
+    place:Querrieu (35,68)
+  30 Jun 1916 69
+    person:Captain Bowden-Smith (other) (61,70)
+    person:Lieutenant Poate (other) (76,71)
+    time:1100AM (47,71)
+    reference:FWP (89,71)
+    activity:reconnoitered (24,75)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD00000iq  ----------
+  30 Jun 1916 0
+  1 Jul 1916 21
+    place:Bresle (51,23)
+    activity:movement (40,23)
+    activity:movement (50,24)
+    time:0900PM (17,24)
+    time:0430AM (25,24)
+    place:Querrieu (6,25)
+    reference:FWP (88,25)
+  2 Jul 1916 26
+    place:Querrieu (50,26)
+    place:Querrieu (45,28)
+    reference:FWP (89,28)
+  3 Jul 1916 29
+    activity:resting (28,29)
+    reference:FWP (89,30)
+    activity:resting (35,31)
+  4 Jul 1916 32
+    place:Querrieu (47,32)
+    reference:FWP (89,33)
+  5 Jul 1916 34
+    place:Querrieu (45,35)
+    place:Querrieu (38,37)
+    place:Amiens (52,37)
+    place:Picquigny (65,37)
+    activity:movement (30,37)
+    time:0600AM (22,37)
+  6 Jul 1916 39
+    time:0730AM (35,39)
+    domestic:accomodation (36,42)
+    place:Quesnoy (46,42)
+    activity:training (68,43)
+    activity:training (64,46)
+    unit:No7 Battery (73,49)
+    reference:FWP (89,50)
+  7 Jul 1916 51
+    place:Hallencourt (40,52)
+  8 Jul 1916 54
+    activity:other (32,55)
+    reference:FWP (89,55)
+    time:0700AM (66,55)
+    domestic:accomodation (42,57)
+    person:Captain Bowden-Smith (other) (56,57)
+  9 Jul 1916 59
+    place:Toutencourt (37,59)
+    person:General Gough (other) (24,59)
+    person:General Gouen (other) (25,59)
+  30 Jun 1916 0
+    reference:8th Battery Light Armoured Cars (67,6)
+  9 Jul 1916 59
+    person:General Malcolm (other) (79,61)
+    person:Captain Bowden-Smith (other) (23,62)
+    person:General Gough (other) (37,62)
+    time:1230AM (55,62)
+    activity:reconnoitered (53,64)
+    time:0500AM (23,64)
+    reference:FWP (90,65)
+    time:0830AM (74,66)
+  10 Jul 1916 67
+    unit:1 Cavalry Division. (52,68)
+    time:0230PM (61,68)
+    person:General Gough (other) (29,69)
+    domestic:accomodation (30,71)
+  11 Jul 1916 72
+    activity:movement (36,73)
+    reference:FWP (89,73)
+    place:Allonville (49,74)
+  12 Jul 1916 75
+    time:0600PM (26,75)
+    time:0800PM (71,75)
+    place:Allonville (42,78)
+    time:0830AM (84,78)
+    person:Captain Smith (other) (56,79)
+    place:Hemencourt (48,80)
+    unit:25 Division. (35,81)
+    place:Pozieres (67,84)
+    time:0500PM (77,84)
+  13 Jul 1916 85
+    time:0300PM (75,85)
+    place:Harponville (59,86)
+    activity:movement (55,86)
+    reference:FWP (90,86)
+    activity:movement (38,88)
+    place:Harponville (69,89)
+    unit:1 Cavalry Division. (45,89)
+    time:0200PM (24,89)
+    reference:Unit moved to 10 Corps. (31,91)
+    time:0930PM (57,91)
+    reference:FWP (90,92)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD00000jb  ----------
+  13 Jul 1916 22
+    activity:reconnoitered (81,24)
+  14 Jul 1916 26
+    place:Pozieres Road (29,27)
+    time:0130AM (27,30)
+    person:Lieutenant Poate (combat) (47,30)
+    activity:reconnoitered (70,30)
+    place:Albert (8,30)
+    unit:25 Division. (82,31)
+    reference:Road unfit for armoured cars. (37,32)
+    unit:X Corps (25,35)
+    unit:Reserve Army (36,35)
+    unit:10 Corps (83,38)
+    place:Senlis (56,38)
+    time:1000AM (23,39)
+    activity:movement (36,41)
+    place:Albert (75,42)
+    place:Senlis (36,43)
+    time:1130AM (23,44)
+    time:0100PM (74,45)
+    person:Captain Smith (other) (83,45)
+    unit:25 Division. (48,46)
+    person:Captain Smith (other) (25,47)
+    activity:fire (71,48)
+    place:Albert (59,48)
+    unit:25 Division. (47,54)
+    time:0215PM (24,54)
+    time:1030PM (60,54)
+  15 Jul 1916 56
+    unit:Reserve Army (37,57)
+    reference:Being questioned at HQ about road. (67,57)
+    activity:reconnoitered (63,59)
+    person:Lieutenant Poate (other) (38,60)
+    place:Albert (7,60)
+    time:0220PM (35,62)
+    time:0330PM (34,65)
+    reference:Road passible at very slow pace. Reported to Division and X Corps. (38,74)
+    person:Lieutenant Poate (combat) (23,74)
+  16 Jul 1916 77
+    unit:25 Division (29,77)
+    unit:Reserve Army (77,80)
+    person:Captain Smith (other) (58,80)
+    place:Albert (8,80)
+    time:0930AM (24,81)
+    place:Pozieres (41,87)
+    unit:25 Division (57,89)
+    place:Bouzincourt (42,90)
+    person:Lieutenant Freeth (other) (26,93)
+    person:Lieutenant Harvey (other) (36,93)
+    activity:reconnoitered (45,93)
+    place:Pozieres Road (60,93)
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD00000ke  ----------
+  17 Jul 1916 21
+    place:Bapaume Road (70,24)
+    person:Lieutenant Poate (combat) (24,25)
+    person:Lieutenant Freeth (combat) (35,25)
+    place:Albert (5,25)
+    activity:reconnoitered (53,25)
+    time:0630PM (26,30)
+    place:Pozieres (52,34)
+    time:0800PM (67,38)
+    person:Lieutenant Poate (combat) (26,42)
+    time:0754PM (50,46)
+    reference:Armoured car stuck in shell hole. (65,48)
+    time:0758PM (25,52)
+    person:Second Lieutenant Harvey (combat) (51,65)
+    reference:Armoured car towed out. (36,65)
+    time:0915PM (27,65)
+    time:1030PM (63,70)
+    person:Captain Bowden Smith (departed_sick) (30,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (78,76)
+    unit:48 Division (50,77)
+    time:1100PM (66,79)
+    person:Lieutenant Poate (other) (78,80)
+    place:Bouzincourt (72,83)
+    time:0330AM (42,85)
+  18 Jul 1916 87
+    place:Albert (7,91)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD00000k8  ----------
+  19 Jul 1916 23
+    time:0230AM (70,25)
+    person:Lieutenant Poate (other) (23,25)
+    place:Albert (6,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (42,34)
+    person:Sergeant Trotman (other) (29,35)
+  20 Jul 1916 36
+    activity:fire (31,39)
+    place:Albert (7,40)
+    time:0300AM (43,41)
+    place:Lealvillers (76,46)
+  21 Jul 1916 53
+    place:Albert (6,56)
+    place:Treux (76,58)
+    place:Albert (24,61)
+    time:0400PM (37,62)
+  22 Jul 1916 67
+    place:Treux (7,69)
+    person:Lieutenant Poate (other) (25,71)
+    place:Allonville (45,71)
+    time:0700PM (55,76)
+    person:Colonel Fisher (other) (43,76)
+  23 Jul 1916 78
+    domestic:parades (26,81)
+    place:Treux (7,81)
+    time:1000AM (44,82)
+  24 Jul 1916 83
+    activity:movement (29,87)
+    place:Allonville (7,87)
+    place:Allonville (79,88)
+    time:0900AM (24,91)
+Page 31 (type diary) http://wd3.herokuapp.com/pages/AWD00000kq  ----------
+  25 Jul 1916 22
+    activity:training (23,24)
+    place:Allonville (7,25)
+  26 Jul 1916 28
+    activity:training (23,30)
+  27 Jul 1916 33
+    activity:training (26,35)
+  28 Jul 1916 36
+    activity:training (23,40)
+  29 Jul 1916 41
+  30 Jul 1916 45
+    activity:training (23,45)
+    domestic:inspections (50,45)
+    place:Allonville (7,45)
+    person:Captain Haslam (joined) (50,49)
+    place:Allonville (8,50)
+  31 Jul 1916 54
+    activity:training (23,58)
+    place:Allonville (8,58)
+Page 32 (type cover)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD00000j5  ----------
+  1 Aug 1916 22
+    person:Captain L C Haslam (joined) (24,24)
+    place:Allonville (5,25)
+    person:Captain Bowden Smith (departed_sick) (34,28)
+    person:Captain Bowden Smith (departed_sick) (23,28)
+  2 Aug 1916 30
+    activity:training (23,33)
+  3 Aug 1916 38
+    activity:training (23,41)
+  4 Aug 1916 46
+    activity:training (22,48)
+    domestic:inspections (52,49)
+    activity:training (51,51)
+  5 Aug 1916 55
+    domestic:inspections (52,59)
+    activity:training (22,59)
+  6 Aug 1916 66
+  31 Jul 1916 0
+    reference:Volume 6 (72,7)
+  6 Aug 1916 66
+  7 Aug 1916 72
+    activity:training (22,74)
+    domestic:inspections (51,76)
+  8 Aug 1916 83
+    activity:training (31,83)
+    domestic:parades (21,86)
+    domestic:parades (38,87)
+    domestic:inspections (77,87)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD00000lk  ----------
+  8 Aug 1916 21
+    place:Allonville (7,24)
+    activity:other (24,25)
+    activity:training (47,27)
+  9 Aug 1916 28
+    activity:movement (39,31)
+    place:Allonville (65,31)
+    time:0300PM (25,32)
+    time:0700PM (70,34)
+    domestic:accomodation (81,35)
+    place:Woincourt (58,35)
+  10 Aug 1916 38
+    place:Woincourt (7,40)
+  11 Aug 1916 42
+    domestic:accomodation (68,42)
+    domestic:hygiene (79,42)
+    activity:training (28,45)
+    domestic:inspections (62,46)
+    domestic:inspections (47,46)
+    place:Woincourt (6,46)
+  12 Aug 1916 49
+    place:Woincourt (6,51)
+    domestic:hygiene (58,52)
+    activity:training (80,53)
+    domestic:hygiene (50,53)
+  13 Aug 1916 55
+    place:Woincourt (6,58)
+    place:Calais (55,59)
+  14 Aug 1916 62
+    activity:training (57,65)
+    place:Woincourt (6,65)
+    time:0900AM (42,66)
+    time:1000AM (69,66)
+    activity:training (28,66)
+  15 Aug 1916 68
+    domestic:other (38,68)
+    place:Woincourt (6,71)
+    activity:training (27,72)
+    time:0900AM (41,73)
+    activity:training (49,75)
+  16 Aug 1916 79
+    activity:training (27,82)
+    domestic:inspections (53,82)
+    place:Woincourt (6,82)
+    time:0830AM (68,83)
+    time:1000AM (77,83)
+    activity:training (43,85)
+  8 Aug 1916 21
+    reference:Volume 6 - page 2 (78,9)
+Page 35 (type diary) http://wd3.herokuapp.com/pages/AWD00000jq  ----------
+  17 Aug 1916 21
+    time:0845AM (77,24)
+    place:Woincourt (6,24)
+    activity:training (27,24)
+    activity:training (45,25)
+    time:1000AM (50,27)
+  18 Aug 1916 28
+    unit:H.Q. Royal Artillery (21,32)
+    place:Woincourt (6,32)
+  19 Aug 1916 33
+    domestic:sport (25,33)
+    domestic:accomodation (41,37)
+    place:Woincourt (56,37)
+    place:Woincourt (6,37)
+    place:Embreville (72,37)
+    activity:movement (30,37)
+  20 Aug 1916 39
+    place:Embreville (6,43)
+  21 Aug 1916 44
+    activity:resting (21,44)
+    activity:training (26,47)
+    place:Embreville (6,48)
+  22 Aug 1916 50
+    reference:Maintaining armoured cars. (45,50)
+    activity:training (23,54)
+    domestic:inspections (51,55)
+    place:Embreville (7,55)
+    activity:training (36,55)
+    domestic:inspections (63,56)
+  23 Aug 1916 58
+    activity:training (22,62)
+    place:Embreville (6,63)
+    activity:other (37,66)
+    reference:Maintaining armoured cars. (54,67)
+    domestic:inspections (60,69)
+  24 Aug 1916 71
+    activity:training (26,75)
+    place:Embreville (6,77)
+    reference:Maintaining armoured cars. (41,78)
+  16 Aug 1916 0
+  25 Aug 1916 80
+    activity:training (25,84)
+    place:Embreville (7,85)
+    domestic:inspections (69,86)
+    person:Lieutenant Poate (other) (39,87)
+    place:Calais (63,88)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD00000k4  ----------
+  25 Aug 1916 0
+    reference:Volume 6 (75,10)
+  26 Aug 1916 27
+    activity:training (21,27)
+    reference:Maintaining armoured cars. (56,29)
+    activity:training (25,29)
+    place:Embreville (7,29)
+  27 Aug 1916 30
+    time:0630PM (49,33)
+    person:Lieutenant Poate (other) (78,33)
+    domestic:parades (22,33)
+    place:Embreville (7,34)
+    place:Calais (36,36)
+    reference:Brought back armoured car following modifications. (44,50)
+  28 Aug 1916 57
+    place:Embreville (6,60)
+    activity:training (22,61)
+    domestic:inspections (71,61)
+  29 Aug 1916 65
+    activity:training (25,68)
+    place:Embreville (6,68)
+  30 Aug 1916 72
+    weather:rain (60,76)
+    place:Embreville (7,77)
+    reference:Vehicle maintainance. (28,80)
+    person:Lieutenant Harvey (other) (40,80)
+    place:Calais (65,81)
+  31 Aug 1916 84
+    activity:training (23,88)
+    place:Embreville (6,88)
+Page 37 (type cover)
+Page 38 (type diary) http://wd3.herokuapp.com/pages/AWD00000it  ----------
+  31 Aug 1916 0
+    reference:Volume 6 (77,11)
+  1 Sep 1916 24
+    place:Embreville (7,28)
+    time:0730AM (38,29)
+    activity:training (23,29)
+    time:0845AM (71,30)
+    activity:training (69,33)
+    reference:Vehicle maintainance. (44,34)
+  2 Sep 1916 37
+    place:Embreville (7,40)
+    time:0845AM (37,41)
+    activity:training (23,41)
+    reference:Vehicle maintainance. (62,44)
+    time:1100AM (20,45)
+    place:Calais (78,45)
+    domestic:inspections (44,45)
+  3 Sep 1916 48
+  4 Sep 1916 52
+    time:1100AM (45,52)
+    place:Embreville (6,52)
+    time:1030AM (68,56)
+    place:Embreville (7,56)
+    activity:training (21,56)
+  6 Sep 1916 57
+    activity:training (23,57)
+    unit:1 Cavalry Division. (20,60)
+    place:Embreville (7,60)
+    time:0345AM (79,61)
+    unit:1 Cavalry Division (59,61)
+    domestic:parades (72,61)
+    activity:movement (25,63)
+  7 Sep 1916 64
+    time:0900AM (65,64)
+    place:Le Quesnoy (37,64)
+    place:La Quesnoy (8,64)
+    place:La Quesnoy (5,68)
+    time:0200PM (64,69)
+    place:La Neuville (42,69)
+    activity:movement (23,69)
+    place:La Neuville (5,72)
+    domestic:accomodation (64,72)
+    time:0830AM (71,73)
+    place:La Neuville (8,73)
+  8 Sep 1916 76
+    place:La Neuville (6,79)
+  9 Sep 1916 80
+    domestic:accomodation (41,80)
+    activity:resting (24,83)
+  10 Sep 1916 84
+    place:La Neuville (7,84)
+    reference:No. 4 car broken. (41,88)
+    place:La Neuville (7,88)
+Page 39 (type diary) http://wd3.herokuapp.com/pages/AWD00000jx  ----------
+  11 Sep 1916 24
+    reference:Vehicle maintenance. (62,32)
+    place:La Neuville (6,33)
+  13 Sep 1916 35
+    place:La Neuville (7,37)
+    place:Saint Omer (44,38)
+    reference:Vehicle maintenance. (51,38)
+  14 Sep 1916 42
+    activity:movement (70,45)
+    place:La Neuville (6,45)
+    time:0600AM (23,45)
+    unit:1 Cavalry Division (52,45)
+    place:Carnoy Valley (25,49)
+    time:1000AM (62,49)
+    place:Maricourt (46,52)
+  15 Sep 1916 53
+    place:Carnoy (6,56)
+    activity:other (33,57)
+    place:Bapaume (58,61)
+    place:Sapignies (77,64)
+    unit:4 Army (28,64)
+    place:Achiet le Grand (26,68)
+    unit:Cavalery (62,68)
+    place:Miraumont (49,69)
+  10 Sep 1916 0
+    reference:Volume 6 (77,7)
+  15 Sep 1916 53
+    place:Fleurs (43,80)
+    place:Morval (23,84)
+    unit:Infantery (58,84)
+    place:Rocquigny (56,88)
+Page 40 (type diary) http://wd3.herokuapp.com/pages/AWD00000kj  ----------
+  15 Sep 1916 26
+    reference:Volume 6 (79,12)
+    place:Bapaume (53,29)
+    place:Carnoy (7,30)
+    unit:1 Cavalry Brigade (29,45)
+    place:Rocquigny (48,45)
+    person:Lieutenant Poate (other) (39,56)
+    place:Guillimont (72,56)
+    activity:reconnoitered (25,60)
+    reference:Roads impassible. (57,64)
+    unit:1 Cavalry Division (61,68)
+    place:Leuze Wood (73,71)
+  16 Sep 1916 72
+    place:Maricourt (46,72)
+    place:Leuze (70,73)
+    place:Carnoy (7,76)
+    reference:Stood to (42,77)
+    time:1000AM (47,77)
+    activity:other (32,78)
+    activity:reconnoitered (47,80)
+    place:Fleurs (73,80)
+    person:Lieutenant Poate (other) (35,81)
+    place:Longuevalle (27,84)
+    reference:road passible (56,85)
+Page 41 (type diary) http://wd3.herokuapp.com/pages/AWD00000jj  ----------
+  16 Sep 1916 0
+    reference:Volume 6 (76,12)
+  17 Sep 1916 24
+    place:Carnoy (7,29)
+    unit:1 Cavalry Division (26,29)
+    place:La Neuville (77,30)
+    activity:movement (40,30)
+    domestic:accomodation (81,34)
+    time:1250PM (45,34)
+  18 Sep 1916 37
+    time:0330PM (35,37)
+    activity:other (36,40)
+    place:La Neuville (8,41)
+    reference:Vehicle maintenance. (53,42)
+  19 Sep 1916 44
+    weather:rain (28,48)
+  20 Sep 1916 49
+    place:La Neuville (7,49)
+    weather:rain (53,50)
+    weather:rain (26,52)
+  21 Sep 1916 53
+    place:La Neuville (7,53)
+    reference:Vehicle maintenance. (59,56)
+    place:La Neuville (5,57)
+    activity:training (23,57)
+  22 Sep 1916 58
+    activity:training (32,58)
+    place:La Neuville (8,60)
+    activity:training (51,63)
+    unit:Aeroplanes (26,66)
+  23 Sep 1916 73
+    reference:Aeroplanes (39,73)
+    place:La Neuville (7,76)
+    place:Saint Pol (83,78)
+    activity:movement (49,78)
+    place:Hesdin (27,81)
+    time:0430AM (68,81)
+    place:La Quesnoy (6,85)
+Page 42 (type diary) http://wd3.herokuapp.com/pages/AWD00000jc  ----------
+  24 Sep 1916 25
+    activity:movement (60,29)
+    time:0530AM (46,29)
+    place:Villiers l'Hopital (77,30)
+    place:La Quesnoy (7,30)
+  25 Sep 1916 32
+    time:0930AM (39,33)
+    place:Eclimeux (64,37)
+    domestic:accomodation (51,37)
+    activity:movement (35,37)
+    place:Villiers l'Hopital (6,38)
+  26 Sep 1916 41
+    time:0530AM (22,41)
+    place:Eclimeux (7,45)
+    activity:training (25,45)
+    reference:Vehicle maintenance. (51,49)
+    domestic:inspections (44,52)
+  27 Sep 1916 53
+    place:Eclimeux (8,57)
+    activity:training (25,57)
+    reference:Vehicle maintenance. (66,57)
+  28 Sep 1916 61
+    place:Eclimeux (8,65)
+    domestic:inspections (70,65)
+    weather:rain (24,65)
+    reference:Vehicle maintenance. (59,69)
+  29 Sep 1916 73
+    place:Eclimeux (8,77)
+    weather:rain (23,77)
+    reference:Vehicle maintenance. (72,77)
+  30 Sep 1916 81
+    domestic:inspections (63,84)
+    reference:Vehicle maintenance. (50,84)
+    place:Eclimeux (8,85)
+    activity:training (28,85)
+  23 Sep 1916 0
+    reference:Volume 6 (77,9)
+  30 Sep 1916 81
+    person:Captain J Haslam (author) (71,91)
+Page 43 (type cover)
+Page 44 (type diary) http://wd3.herokuapp.com/pages/AWD00000km  ----------
+  1 Oct 1916 24
+    domestic:religion (48,28)
+  2 Oct 1916 29
+    time:1145AM (63,29)
+    place:Eclimeux (7,29)
+    time:0830AM (27,33)
+    place:Eclimeux (6,33)
+    activity:training (42,33)
+    time:1000AM (27,41)
+    reference:Vehicle maintenance. (44,42)
+  3 Oct 1916 44
+    weather:rain (52,44)
+    place:Eclimeux (6,49)
+    weather:rain (37,50)
+  4 Oct 1916 52
+    time:0830AM (27,57)
+    place:Eclimeux (7,57)
+    activity:training (44,57)
+    time:0945AM (42,61)
+    time:0215PM (78,61)
+    activity:training (37,62)
+  5 Oct 1916 64
+    reference:Vehicle maintenance. (58,69)
+    place:Eclimeux (6,69)
+    activity:training (33,69)
+  6 Oct 1916 72
+    place:Eclimeux (7,76)
+    time:0830AM (42,77)
+    time:0900AM (77,77)
+    time:0930AM (80,77)
+    activity:training (31,77)
+    domestic:inspections (37,82)
+  7 Oct 1916 84
+    place:Eclimeux (7,88)
+    activity:other (41,88)
+    reference:Vehicle maintenance. (47,89)
+    domestic:inspections (72,90)
+    time:1100AM (60,92)
+Page 45 (type diary) http://wd3.herokuapp.com/pages/AWD00000k3  ----------
+  7 Oct 1916 0
+  8 Oct 1916 24
+  9 Oct 1916 29
+    time:0630PM (74,29)
+    place:Eclimeux (8,29)
+    domestic:religion (24,29)
+    domestic:religion (35,29)
+    reference:Vehicle maintenance. (60,33)
+    place:Eclimeux (9,34)
+    activity:training (29,35)
+    time:1200PM (42,37)
+    domestic:inspections (28,37)
+    time:0200PM (40,40)
+  10 Oct 1916 41
+    time:0830AM (22,45)
+    reference:Vehicle maintenance. (61,45)
+    place:Eclimeux (6,45)
+    activity:other (42,45)
+    time:0900AM (70,46)
+  11 Oct 1916 48
+    time:0200PM (22,49)
+    place:Eclimeux (7,52)
+    activity:training (34,52)
+  12 Oct 1916 53
+    time:0800AM (23,57)
+    activity:other (43,57)
+    time:0900AM (70,58)
+    place:Eclimeux (7,58)
+    time:0200PM (22,60)
+    domestic:inspections (55,60)
+    activity:training (35,60)
+  13 Oct 1916 61
+    place:Eclimeux (7,64)
+    activity:training (40,66)
+  14 Oct 1916 68
+    place:Eclimeux (6,72)
+    activity:training (34,72)
+  16 Oct 1916 76
+    place:Eclimeux (7,76)
+    time:0915AM (66,77)
+    place:Eclimeux (8,77)
+    domestic:religion (45,77)
+    domestic:religion (51,77)
+    reference:Vehicle maintenance. (51,80)
+    activity:training (64,81)
+    place:Eclimeux (7,82)
+  17 Oct 1916 84
+    place:Eclimeux (7,88)
+    reference:Vehicle maintenance. (40,89)
+    activity:other (38,89)
+    activity:training (62,90)
+    domestic:inspections (54,92)
+Page 46 (type diary) http://wd3.herokuapp.com/pages/AWD00000kb  ----------
+  18 Oct 1916 24
+    place:Eclimeux (7,29)
+    weather:rain (82,30)
+  19 Oct 1916 32
+    weather:rain (22,32)
+    time:0130PM (56,37)
+    place:Eclimeux (5,37)
+    domestic:accomodation (50,38)
+    activity:movement (34,38)
+  20 Oct 1916 40
+    place:Villiers l'Hospital (31,41)
+    place:Halloy (74,44)
+    time:0800AM (57,45)
+    place:Villiers l'Hopital (7,45)
+    activity:movement (41,47)
+    place:Villiers l'Hospital (9,48)
+    time:1030AM (57,49)
+  21 Oct 1916 52
+    domestic:accomodation (24,52)
+    place:Halloy (8,56)
+    domestic:inspections (35,57)
+    activity:other (36,57)
+  22 Oct 1916 60
+    domestic:inspections (24,60)
+  23 Oct 1916 64
+    time:1100AM (67,64)
+    domestic:religion (43,64)
+    domestic:religion (49,64)
+    domestic:religion (46,66)
+    activity:training (30,70)
+    domestic:parades (22,72)
+    domestic:inspections (47,72)
+    person:Lieutenant Salter (other) (78,73)
+    activity:reconnoitered (25,76)
+    place:Thiepval (55,77)
+  24 Oct 1916 80
+    weather:rain (28,84)
+Page 47 (type diary) http://wd3.herokuapp.com/pages/AWD00000jt  ----------
+  25 Oct 1916 23
+    activity:training (27,28)
+    place:Halloy (6,29)
+    activity:training (36,31)
+    weather:rain (57,31)
+  26 Oct 1916 32
+  27 Oct 1916 36
+    time:0930AM (25,37)
+    domestic:inspections (56,37)
+    activity:training (33,38)
+    reference:Vehicle maintenance. (58,40)
+  28 Oct 1916 44
+  29 Oct 1916 48
+    domestic:inspections (51,48)
+    activity:training (29,49)
+  30 Oct 1916 52
+    time:1100AM (43,53)
+    domestic:religion (29,53)
+    activity:training (32,57)
+    activity:other (61,57)
+  31 Oct 1916 60
+    activity:training (38,65)
+    person:Captain L Harlam (author) (72,81)
+Page 48 (type cover)
+Page 49 (type diary) http://wd3.herokuapp.com/pages/AWD00000j6  ----------
+  31 Oct 1916 0
+    reference:Volume 9 (73,10)
+  1 Nov 1916 23
+    activity:training (28,28)
+    place:Halloy (7,29)
+    domestic:inspections (20,31)
+    domestic:inspections (31,32)
+  2 Nov 1916 33
+    place:Halloy (7,36)
+    activity:training (26,37)
+    activity:training (45,38)
+  3 Nov 1916 41
+    place:Halloy (5,43)
+    activity:training (71,45)
+  4 Nov 1916 48
+    place:Halloy (6,51)
+  5 Nov 1916 52
+    activity:other (65,52)
+  6 Nov 1916 56
+    place:Halloy (5,56)
+    domestic:religion (29,56)
+    time:1100AM (44,56)
+    place:Halloy (6,60)
+  7 Nov 1916 61
+    activity:training (57,61)
+    place:Pernois (81,64)
+    place:Pernois (7,64)
+    domestic:accomodation (46,64)
+    activity:movement (36,64)
+  8 Nov 1916 65
+    activity:movement (36,70)
+    place:Hautvillers (79,72)
+    time:0630AM (48,72)
+    activity:movement (62,72)
+    place:Hautvillers (7,73)
+  9 Nov 1916 77
+    activity:movement (31,79)
+    place:Menty (82,80)
+    time:0700AM (48,80)
+    activity:movement (37,81)
+    place:Hautvillers (41,88)
+    place:Abbeville (27,91)
+Page 50 (type diary) http://wd3.herokuapp.com/pages/AWD00000jl  ----------
+  9 Nov 1916 0
+  11 Nov 1916 29
+    place:Menty (7,29)
+    domestic:accomodation (53,29)
+    activity:other (40,31)
+  12 Nov 1916 41
+    place:Menty (7,44)
+  13 Nov 1916 45
+    activity:other (38,45)
+    place:Wimereux (44,49)
+    place:Menty (8,49)
+    activity:other (28,52)
+  15 Nov 1916 56
+    place:Menty (8,56)
+    domestic:accomodation (37,57)
+    place:Menty (8,60)
+    activity:training (64,60)
+  16 Nov 1916 61
+    domestic:accomodation (50,61)
+    place:Menty (7,63)
+  17 Nov 1916 65
+    activity:training (45,65)
+    place:Menty (7,67)
+  18 Nov 1916 68
+    place:Menty (8,71)
+    activity:training (34,72)
+  19 Nov 1916 73
+    place:Wimereux (67,73)
+    place:Menty (5,74)
+  20 Nov 1916 77
+    place:Menty (8,79)
+    person:Captain P L C Haslam (departed_posted) (31,80)
+    person:Captain P L C Haslam (departed_posted) (23,82)
+    person:Captain R F Gunn (joined) (42,84)
+    activity:training (28,88)
+  9 Nov 1916 0
+    reference:Volume 9 (70,9)
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD00000jv  ----------
+  20 Nov 1916 0
+    reference:Volume 9 (71,11)
+  21 Nov 1916 25
+    place:Menty (8,29)
+  22 Nov 1916 30
+    activity:training (26,30)
+    activity:training (29,30)
+    place:Menty (6,33)
+  23 Nov 1916 34
+    activity:other (47,34)
+    place:Menty (6,37)
+    activity:training (26,38)
+    domestic:inspections (45,38)
+    domestic:inspections (51,38)
+  24 Nov 1916 42
+    place:Wimereux (50,45)
+    place:Menty (7,45)
+  25 Nov 1916 49
+  26 Nov 1916 53
+    place:Menty (7,53)
+  27 Nov 1916 57
+    place:Menty (8,57)
+  28 Nov 1916 61
+    activity:training (25,61)
+    place:Menty (8,61)
+    place:Menty (8,64)
+  29 Nov 1916 65
+    activity:training (23,65)
+    activity:training (55,68)
+  30 Nov 1916 69
+    activity:training (29,69)
+    place:Menty (7,69)
+    activity:training (25,73)
+    place:Menty (8,73)
+Page 52 (type cover)
+Page 53 (type diary) http://wd3.herokuapp.com/pages/AWD00000ki  ----------
+  30 Nov 1916 0
+    reference:Volume 10 (70,12)
+  2 Dec 1916 29
+    activity:training (27,29)
+    place:Menty (7,29)
+    domestic:inspections (20,32)
+    domestic:inspections (26,33)
+    place:Menty (8,33)
+  4 Dec 1916 37
+    activity:other (30,37)
+  5 Dec 1916 41
+    activity:training (28,42)
+  6 Dec 1916 45
+    activity:training (27,45)
+  7 Dec 1916 49
+    activity:training (25,49)
+    activity:training (53,50)
+  8 Dec 1916 53
+    activity:training (30,53)
+    person:Captain R Gunn (departed_leave) (59,56)
+    place:Menty (8,56)
+  9 Dec 1916 57
+    activity:training (36,57)
+    domestic:hygiene (32,57)
+    place:Menty (7,60)
+  10 Dec 1916 61
+    domestic:inspections (25,61)
+    domestic:inspections (33,61)
+    domestic:inspections (39,64)
+  11 Dec 1916 65
+    activity:training (51,68)
+    domestic:inspections (30,68)
+  12 Dec 1916 73
+    unit:Crha (66,76)
+    activity:training (28,76)
+    activity:other (58,76)
+    activity:other (60,79)
+Page 54 (type diary) http://wd3.herokuapp.com/pages/AWD00000jz  ----------
+  13 Dec 1916 26
+    place:Menty (7,28)
+    activity:training (33,29)
+  14 Dec 1916 37
+    place:Menty (7,40)
+    activity:training (30,41)
+    person:other O'Sullivan (departed_leave) (72,41)
+  15 Dec 1916 45
+    place:Samer (47,48)
+    place:Menty (6,48)
+  16 Dec 1916 49
+    domestic:hygiene (59,49)
+    activity:movement (33,49)
+    place:Menty (8,52)
+    domestic:inspections (33,53)
+  17 Dec 1916 57
+    place:Menty (7,60)
+    domestic:religion (35,61)
+  18 Dec 1916 62
+    activity:training (28,65)
+    person:Captain Gunn (returned_leave) (67,65)
+  19 Dec 1916 69
+    place:Menty (7,72)
+    activity:training (31,72)
+  20 Dec 1916 74
+    activity:training (40,77)
+  21 Dec 1916 78
+    activity:training (29,78)
+    activity:training (60,81)
+  22 Dec 1916 82
+    domestic:hygiene (24,85)
+  23 Dec 1916 86
+    place:Menty (9,87)
+    domestic:inspections (42,89)
+    person:Lieutenant Harvey (departed_leave) (56,89)
+  12 Dec 1916 0
+    reference:Volume 10 (70,9)
+  23 Dec 1916 86
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD00000jr  ----------
+  24 Dec 1916 24
+    place:Menty (7,28)
+  25 Dec 1916 30
+    domestic:sport (79,38)
+  27 Dec 1916 45
+    activity:training (27,46)
+    activity:training (60,47)
+    place:Menty (7,49)
+    activity:training (24,50)
+  28 Dec 1916 52
+    person:other O'Sullivan (returned_leave) (29,53)
+    activity:training (32,58)
+    activity:training (63,58)
+  29 Dec 1916 65
+  23 Dec 1916 0
+    reference:Volume 10 (74,7)
+  29 Dec 1916 65
+    unit:1 Machine Gun Squadron (27,73)
+  30 Dec 1916 76
+    domestic:inspections (45,80)
+  31 Dec 1916 81
+    place:Menty (8,84)
+Page 56 (type cover)
+Page 57 (type diary) http://wd3.herokuapp.com/pages/AWD00000kf  ----------
+  1 Jan 1917 25
+    activity:training (26,28)
+  2 Jan 1917 29
+    place:Menty (7,29)
+    activity:training (27,33)
+    person:Lieutenant Harvey (returned_leave) (57,33)
+  4 Jan 1917 37
+    activity:training (34,37)
+    place:Samer (82,41)
+  5 Jan 1917 46
+    activity:training (24,49)
+    place:Samer (39,49)
+  6 Jan 1917 50
+    activity:other (25,53)
+    activity:other (40,53)
+    place:Samer (37,53)
+  20 Jan 1917 57
+    activity:training (30,61)
+    unit:9 Signal Troop (47,63)
+  21 Jan 1917 65
+  22 Jan 1917 69
+    domestic:religion (26,69)
+    activity:training (38,73)
+  23 Jan 1917 77
+    activity:training (25,81)
+    unit:9 Machine Gun Squadron (27,84)
+Page 58 (type diary) http://wd3.herokuapp.com/pages/AWD00000kt  ----------
+  24 Jan 1917 26
+    place:Menty (7,29)
+    activity:training (33,29)
+  25 Jan 1917 31
+    activity:training (26,33)
+  26 Jan 1917 34
+    domestic:hygiene (24,37)
+    place:Menty (7,37)
+  27 Jan 1917 39
+    activity:training (34,40)
+    place:Menty (6,41)
+    activity:training (32,44)
+  28 Jan 1917 45
+  29 Jan 1917 50
+    place:Menty (8,52)
+    activity:training (35,53)
+  30 Jan 1917 58
+    place:Menty (7,61)
+    activity:training (40,61)
+    unit:1 Field Sqdn Royal Engineers (38,64)
+    unit:1 Field Squadron Royal Engineers (25,65)
+    unit:1 field sqn re (80,65)
+  31 Jan 1917 69
+    activity:training (35,72)
+    place:Menty (7,73)
+    person:Captain R Gunn (author) (64,88)
+Page 59 (type diary) http://wd3.herokuapp.com/pages/AWD00000ih  ----------
+  1 Feb 1917 25
+    activity:training (32,29)
+    place:Menty (6,29)
+  2 Feb 1917 34
+  3 Feb 1917 38
+    place:Menty (6,40)
+    domestic:inspections (39,41)
+  4 Feb 1917 42
+    place:Menty (7,44)
+  5 Feb 1917 45
+    place:Menty (5,47)
+    reference:303 hotchkiss machine gun  (49,48)
+    activity:training (28,48)
+  6 Feb 1917 50
+    activity:training (27,52)
+  7 Feb 1917 54
+    activity:training (26,55)
+    place:Menty (6,56)
+  8 Feb 1917 58
+    place:Menty (6,59)
+    activity:training (23,60)
+  9 Feb 1917 61
+    activity:training (33,64)
+    place:Menty (6,65)
+  10 Feb 1917 66
+    activity:training (26,66)
+  11 Feb 1917 69
+    domestic:religion (31,71)
+    place:Menty (6,72)
+    domestic:discipline (45,72)
+    domestic:religion (25,72)
+  12 Feb 1917 73
+    activity:training (31,76)
+    place:Menty (8,76)
+  13 Feb 1917 81
+    domestic:inspections (30,80)
+    activity:training (28,83)
+    place:Menty (6,83)
+    reference:LECTURE GIVEN ON WAR LOAN (19,84)
+  14 Feb 1917 85
+    place:Menty (7,87)
+    activity:training (43,89)
+    person:Captain Gunn (author) (87,90)
+Page 60 (type diary) http://wd3.herokuapp.com/pages/AWD00000je  ----------
+  15 Feb 1917 26
+    place:Menty (6,28)
+    activity:training (21,28)
+  16 Feb 1917 30
+    domestic:hygiene (22,33)
+    place:Menty (8,33)
+  17 Feb 1917 34
+    domestic:inspections (25,36)
+    place:Menty (6,36)
+  18 Feb 1917 38
+    place:Menty (7,40)
+    domestic:religion (26,41)
+  19 Feb 1917 42
+    place:Menty (5,44)
+    domestic:inspections (72,45)
+  20 Feb 1917 46
+    place:Menty (7,48)
+    activity:training (37,48)
+    activity:training (69,49)
+    place:Saint Omer (29,52)
+    reference:FILLING ELECTRIC STARTERS  (72,52)
+  21 Feb 1917 53
+    place:Menty (4,57)
+  22 Feb 1917 58
+    activity:training (43,58)
+    activity:training (35,60)
+  23 Feb 1917 62
+    place:Menty (6,64)
+  24 Feb 1917 66
+    domestic:inspections (25,68)
+    place:Menty (7,68)
+  25 Feb 1917 70
+    place:Menty (6,72)
+  26 Feb 1917 73
+    place:Menty (7,76)
+    place:Saint Omer (35,77)
+    domestic:inspections (28,79)
+  27 Feb 1917 81
+    place:Menty (6,84)
+    activity:training (29,84)
+    activity:training (42,84)
+  28 Feb 1917 86
+    place:Menty (9,88)
+Page 61 (type cover)
+Page 62 (type diary) http://wd3.herokuapp.com/pages/AWD00000kg  ----------
+  Hashtags: #BathingParade 
+  28 Feb 1917 0
+    unit: (89,22)
+  2 Mar 1917 29
+    activity:training (26,29)
+    place:Menty (7,29)
+    domestic:inspections (24,32)
+  4 Mar 1917 37
+    activity:other (28,37)
+    domestic:hygiene (23,37)
+    domestic:parades (32,37)
+  5 Mar 1917 41
+    domestic:inspections (38,41)
+  6 Mar 1917 48
+    activity:training (26,50)
+  7 Mar 1917 52
+    activity:training (32,54)
+  8 Mar 1917 56
+    activity:training (29,60)
+  9 Mar 1917 61
+    person:Captain Gunn (other) (41,64)
+    domestic:inspections (26,65)
+    unit:3 Motor Machine Gun Battery. (76,66)
+    activity:training (53,67)
+  10 Mar 1917 68
+  11 Mar 1917 72
+    activity:training (28,72)
+  12 Mar 1917 76
+    person:Captain Poats (other) (31,76)
+    unit: (61,78)
+    activity:training (38,80)
+  14 Mar 1917 84
+    activity:training (58,84)
+    domestic:inspections (30,89)
+Page 63 (type diary) http://wd3.herokuapp.com/pages/AWD00000k9  ----------
+  Hashtags: #UnderArrest 
+  14 Mar 1917 26
+    place:Menty (7,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (28,29)
+  16 Mar 1917 33
+    activity:training (25,33)
+    person:Corporal Murray (other) (41,34)
+  17 Mar 1917 37
+    activity:training (26,37)
+    person:Battery Sergeant Major Cowe (returned_training) (45,42)
+    domestic:hygiene (26,42)
+  18 Mar 1917 45
+  19 Mar 1917 49
+  20 Mar 1917 57
+  21 Mar 1917 61
+  22 Mar 1917 65
+    activity:training (25,65)
+  23 Mar 1917 69
+    person:Sergeant Elliott (joined) (26,73)
+  24 Mar 1917 77
+    person:Lieutenant Harvey (departed_sick) (24,81)
+    person:Lieutenant A M Ketley (joined) (21,84)
+  25 Mar 1917 85
+    person:Sergeant Petersen (discipline) (40,88)
+    domestic:religion (20,88)
+Page 64 (type diary) http://wd3.herokuapp.com/pages/AWD00000l1  ----------
+  27 Mar 1917 29
+    activity:training (36,29)
+    place:Menty (8,29)
+    person:Sergeant Petersen (discipline) (66,36)
+  28 Mar 1917 37
+    person:Sergeant Petersen (discipline) (44,40)
+    time:1100AM (61,41)
+  30 Mar 1917 45
+    activity:training (31,45)
+    time:0900PM (15,45)
+    activity:training (30,50)
+  31 Mar 1917 56
+    place:Merlamont Plage (66,61)
+    activity:training (25,62)
+    person:Captain F W Poate (author) (77,73)
+Page 65 (type cover)
+Page 66 (type report) http://wd3.herokuapp.com/pages/AWD00000j2  ----------
+  31 Mar 1917 0
+    reference:24th Div GX 452/15 (40,8)
+    person:Major General J C Capper (author) (58,81)
+    date:11 Feb 1917 (36,87)
+Page 67 (type other) http://wd3.herokuapp.com/pages/AWD00000in  ----------
+  31 Mar 1917 0
+    date:3 Mar 1917 (60,13)
+    person:Major Alan T Powell (author) (52,66)
+Page 68 (type cover)
+Page 69 (type diary) http://wd3.herokuapp.com/pages/AWD00000jk  ----------
+  Hashtags: #PayParade 
+  1 Apr 1917 24
+    place:Merlamont Plage (43,29)
+    place:Menty (8,29)
+    place:Montreuil (66,29)
+    person:Sergeant Petersen (discipline) (75,41)
+    domestic:discipline (58,41)
+  2 Apr 1917 45
+    unit:1 Signal Squadron (49,48)
+    place:Menty (6,48)
+  4 Apr 1917 52
+    domestic:parades (45,52)
+    place:Menty (7,52)
+    activity:training (29,52)
+    activity:training (58,53)
+    place:Montreuil (42,56)
+    place:Menty (6,56)
+    person:Gunner Petersen (departed_posted) (80,57)
+    time:0700PM (24,65)
+    activity:movement (40,65)
+    place:Saint Omer (34,69)
+    weather:cold (63,72)
+    time:0900PM (21,73)
+    place:Desvres (34,73)
+    activity:strength (72,73)
+    activity:strength (76,74)
+  5 Apr 1917 76
+    unit:3 Army Service Corps (61,80)
+    place:Saint Omer (8,80)
+    time:0400AM (42,81)
+    place:Saint Omer (31,81)
+    person:Lieutenant Bellamy (joined) (51,84)
+    time:0830AM (37,84)
+    time:0200PM (30,88)
+    time:0830AM (53,88)
+    unit:No7 Battery (36,89)
+Page 70 (type diary) http://wd3.herokuapp.com/pages/AWD00000k6  ----------
+  6 Apr 1917 24
+    person:Sergeant Cowe (departed_posted) (58,29)
+    place:Saint Omer (7,29)
+    activity:other (33,32)
+    time:0830PM (72,33)
+  7 Apr 1917 37
+    place:Saint Omer (7,40)
+    time:0700PM (52,41)
+  8 Apr 1917 44
+    place:Hermaville (7,48)
+    time:0830AM (38,49)
+    unit:Division (70,49)
+    place:Saint Omer (27,49)
+    place:Fruges (52,49)
+    activity:movement (21,49)
+    activity:movement (39,51)
+    time:0245PM (41,52)
+    time:0430PM (75,53)
+    place:Wavras (27,53)
+    place:Hermaville (63,53)
+  9 Apr 1917 56
+    domestic:accomodation (31,56)
+    place:Hermaville (7,60)
+    activity:other (33,64)
+    time:0530PM (77,65)
+  10 Apr 1917 68
+    place:Hermaville (7,72)
+    place:Hermaville (40,76)
+    place:Louez (78,76)
+    activity:movement (63,76)
+    time:0100PM (47,77)
+    place:Louez (66,77)
+    person:Lieutenant Ketley (other) (78,80)
+    time:0600PM (21,80)
+    time:0700PM (48,80)
+    place:Saint Nicholas (37,80)
+    place:Fampoux (81,84)
+    activity:reconnoitered (32,84)
+Page 71 (type diary) http://wd3.herokuapp.com/pages/AWD00000ix  ----------
+  11 Apr 1917 23
+    place:Saint Lauret-Blangy (79,26)
+    activity:reconnoitered (54,26)
+    place:Saint Nicholas (7,27)
+    time:0200PM (24,30)
+    activity:fire (78,31)
+    mapRef:51 B N W Famboux (58,31)
+    place:Famboux (64,32)
+    mapRef:H14.a.28 sheet 51 (38,33)
+    mapRef:51b N.W. (52,33)
+    time:0800PM (82,34)
+  12 Apr 1917 38
+    activity:reconnoitered (62,41)
+    place:Haute Avesnes (6,42)
+    person:Lieutenant Ketley (combat) (32,42)
+    time:0600PM (23,42)
+    place:Haute Avesnes (75,43)
+    time:0700AM (46,44)
+  13 Apr 1917 48
+    activity:training (76,50)
+    place:Haute Avesnes (6,51)
+    activity:training (30,51)
+  14 Apr 1917 53
+    place:Arras (40,53)
+    activity:reconnoitered (67,53)
+  15 Apr 1917 57
+    weather:cold (23,57)
+    reference:Napier 221 (31,57)
+    place:Haute Avesnes (5,58)
+  16 Apr 1917 60
+    domestic:other (30,60)
+    activity:movement (60,62)
+    time:0800AM (49,62)
+    time:1130AM (83,62)
+    place:Haute Avesnes (34,63)
+    place:Willeman (73,63)
+    place:Willeman (6,64)
+    activity:movement (29,64)
+    time:1030PM (85,65)
+  17 Apr 1917 66
+    reference:Napier 221 (55,66)
+    place:Willeman (7,69)
+  18 Apr 1917 70
+  19 Apr 1917 74
+    place:Willeman (6,74)
+    place:Willeman (6,78)
+    unit:Ordnance Corps (45,78)
+    reference:Armoured Car Modifications (65,81)
+  21 Apr 1917 89
+    place:Willeman (8,89)
+  22 Apr 1917 92
+    place:Willeman (7,92)
+    activity:training (50,92)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (27,92)
+    domestic:inspections (26,95)
+    domestic:inspections (45,95)
+    place:Willeman (7,96)
+    activity:training (25,96)
+Page 72 (type diary) http://wd3.herokuapp.com/pages/AWD00000jw  ----------
+  23 Apr 1917 24
+    place:Willeman (8,27)
+    activity:training (24,28)
+    activity:other (60,28)
+    place:Hesdin (41,30)
+  24 Apr 1917 33
+    activity:training (46,35)
+    activity:training (73,36)
+    activity:training (84,36)
+  25 Apr 1917 37
+    activity:training (67,37)
+  26 Apr 1917 40
+    activity:training (59,40)
+  27 Apr 1917 44
+    person:Lieutenant Harvey (departed_posted) (28,45)
+  28 Apr 1917 48
+    person:Second Lieutenant J L Wood (promotion) (41,50)
+    person:Second Lieutenant Jl Wood (promotion) (53,50)
+    activity:training (24,51)
+  29 Apr 1917 55
+    domestic:religion (23,57)
+    activity:training (41,57)
+    activity:training (44,57)
+  30 Apr 1917 59
+    person:Second Lieutenant T Russel (joined) (24,61)
+    person:Brigadier General Boyce (other) (79,62)
+    place:Hesdin (40,63)
+    activity:strength (23,68)
+    activity:strength (43,70)
+Page 73 (type cover)
+Page 74 (type diary) http://wd3.herokuapp.com/pages/AWD00000js  ----------
+  1 May 1917 22
+    person:Captain Poate (other) (26,25)
+    place:Willeman (7,26)
+    place:Hesdin (48,27)
+    person:General Boyce (other) (29,31)
+    unit:Canadian Corps (35,91)
+Page 75 (type diary) http://wd3.herokuapp.com/pages/AWD00000ik  ----------
+  Hashtags: #BathingParade 
+  2 May 1917 22
+    activity:training (24,25)
+    place:Willeman (6,26)
+    place:Hesdin (63,28)
+  3 May 1917 35
+    activity:training (24,39)
+  4 May 1917 40
+    activity:training (23,43)
+    domestic:parades (28,45)
+  5 May 1917 46
+    activity:training (43,51)
+    person:Lieutenant Wood (other) (46,55)
+  6 May 1917 88
+    domestic:inspections (74,89)
+    activity:training (23,91)
+    activity:training (55,91)
+    person:Captain F W Poate (author) (91,92)
+Page 76 (type diary) http://wd3.herokuapp.com/pages/AWD00000jg  ----------
+  7 May 1917 23
+    activity:training (24,28)
+    place:Willeman (7,28)
+  8 May 1917 34
+    place:Samer (26,34)
+    activity:training (25,37)
+    place:Willeman (7,37)
+    domestic:hygiene (77,37)
+  9 May 1917 38
+    place:Willeman (7,42)
+  10 May 1917 44
+    activity:training (41,46)
+    activity:training (23,47)
+    place:Willeman (6,47)
+  11 May 1917 51
+    activity:training (24,55)
+    place:Willeman (7,55)
+    activity:training (31,56)
+  12 May 1917 58
+    place:Willeman (8,63)
+    place:Busnes (34,65)
+  13 May 1917 77
+    domestic:inspections (66,77)
+    place:Hesdin (55,78)
+    domestic:rations (29,79)
+    place:Willeman (8,81)
+  14 May 1917 82
+    activity:movement (55,86)
+    place:Willeman (7,86)
+  15 May 1917 87
+    person:Second Lieutenant Russell (other) (45,89)
+    time:0720AM (37,90)
+    activity:movement (27,90)
+    place:Willeman (28,90)
+    time:0930AM (78,91)
+    activity:movement (21,91)
+    place:Saint Pol (60,91)
+    place:Pernes (70,91)
+    place:Willeman (9,91)
+    person:Captain F W Poate (author) (91,91)
+    place:Lillers (50,92)
+Page 77 (type diary) http://wd3.herokuapp.com/pages/AWD00000kl  ----------
+  15 May 1917 23
+    domestic:accomodation (83,23)
+    place:Busnes (50,24)
+    time:1230PM (60,24)
+    activity:movement (22,25)
+    place:Lillers (27,25)
+    place:Willeman (7,27)
+  16 May 1917 29
+    domestic:inspections (41,31)
+    activity:training (25,32)
+    place:Busnes (7,33)
+  17 May 1917 36
+    activity:training (41,39)
+    place:Busnes (7,39)
+    unit:1 Field Squadron (71,40)
+    place:Ranch Court (28,45)
+  15 May 1917 23
+  18 May 1917 49
+    domestic:accomodation (44,52)
+    activity:movement (26,53)
+    place:Loisne (56,55)
+  19 May 1917 61
+    activity:training (30,64)
+  20 May 1917 66
+    domestic:inspections (49,69)
+    domestic:religion (23,70)
+  21 May 1917 76
+    domestic:hygiene (25,79)
+    place:Gorre (72,80)
+    unit:1 M.G. Sqdn (41,80)
+    unit:1 Machine Gun Squadron (41,81)
+    person:Second Lieutenant Russell (departed_posted) (53,81)
+    place:Lillers (77,85)
+  22 May 1917 86
+    person:Captain F W Poate (author) (91,91)
+    activity:training (26,92)
+Page 78 (type diary) http://wd3.herokuapp.com/pages/AWD00000is  ----------
+  Hashtags: #Innoculation 
+  22 May 1917 0
+  23 May 1917 25
+    activity:training (69,26)
+    place:Busnes (7,28)
+  24 May 1917 33
+    place:Auchel (78,37)
+    activity:training (23,38)
+    place:Divion (55,39)
+    place:Camblain l'Abbe (74,40)
+    domestic:medical (61,42)
+  25 May 1917 44
+    domestic:medical (78,48)
+    activity:training (25,48)
+  26 May 1917 53
+  27 May 1917 59
+    domestic:religion (23,62)
+    domestic:inspections (39,63)
+    place:Busnes (28,67)
+  28 May 1917 68
+    activity:training (28,70)
+    activity:training (38,70)
+  29 May 1917 72
+  30 May 1917 76
+  31 May 1917 86
+    person:Sergeant Camm (other) (61,89)
+    person:Captain F W Poate (author) (90,89)
+    activity:training (24,89)
+    place:Bermicourt (74,92)
+Page 79 (type cover)
+Page 80 (type diary) http://wd3.herokuapp.com/pages/AWD00000kp  ----------
+  31 May 1917 0
+    place:Busnes (4,26)
+    activity:training (24,28)
+    domestic:parades (51,28)
+    activity:training (40,29)
+    place:Busnes (6,29)
+  2 Jun 1917 33
+    activity:other (31,37)
+  3 Jun 1917 39
+    place:Le Preol (62,42)
+    domestic:religion (26,44)
+  4 Jun 1917 49
+    time:0745AM (43,51)
+    place:Merville (63,52)
+    activity:movement (19,53)
+    place:Busnes (36,53)
+    place:Regnier (48,54)
+    activity:movement (30,55)
+    time:0830AM (27,55)
+  5 Jun 1917 59
+    place:Merville (6,63)
+    activity:other (29,65)
+  6 Jun 1917 68
+    activity:training (24,72)
+  7 Jun 1917 74
+    activity:training (69,77)
+    unit:1 Signal Squadron (35,78)
+  8 Jun 1917 80
+    activity:training (50,83)
+    domestic:parades (34,83)
+    domestic:hygiene (21,84)
+  9 Jun 1917 85
+  10 Jun 1917 88
+    activity:training (27,88)
+    person:F W Poate (author) (90,90)
+    domestic:inspections (40,92)
+    domestic:religion (22,93)
+Page 81 (type diary) http://wd3.herokuapp.com/pages/AWD00000lh  ----------
+  10 Jun 1917 0
+    reference: (-24,0)
+  11 Jun 1917 25
+    place:Busnes (44,27)
+    place:Robecq (59,27)
+    activity:movement (32,28)
+    place:Busnes (7,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (33,32)
+    time:0800AM (27,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (43,33)
+  12 Jun 1917 37
+    activity:other (22,39)
+    time:0200PM (64,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (79,39)
+    person:Captain Poate (other) (58,42)
+    person:Lieutenant Wood (departed_posted) (75,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (31,44)
+  13 Jun 1917 51
+    time:0200PM (45,54)
+    activity:training (24,55)
+  14 Jun 1917 60
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (66,61)
+    activity:training (26,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (41,64)
+  15 Jun 1917 66
+    reference: (112,68)
+    domestic:parades (25,69)
+    domestic:hygiene (36,69)
+  16 Jun 1917 70
+    activity:training (30,73)
+  17 Jun 1917 76
+    domestic:rations (56,79)
+    domestic:religion (27,80)
+  18 Jun 1917 81
+    activity:training (53,83)
+  19 Jun 1917 85
+    activity:training (27,85)
+    activity:training (25,88)
+Page 82 (type diary) http://wd3.herokuapp.com/pages/AWD00000iy  ----------
+  20 Jun 1917 23
+    domestic:parades (64,24)
+    place:Busnes (6,28)
+    domestic:inspections (41,31)
+  21 Jun 1917 45
+    activity:training (25,49)
+  22 Jun 1917 50
+  23 Jun 1917 53
+    domestic:hygiene (27,53)
+    domestic:parades (48,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (69,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (21,55)
+    activity:training (39,57)
+  24 Jun 1917 58
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (18,58)
+    domestic:inspections (45,60)
+    domestic:religion (24,61)
+  25 Jun 1917 62
+    activity:training (38,64)
+  26 Jun 1917 66
+    activity:training (33,66)
+  27 Jun 1917 70
+    activity:training (24,70)
+    activity:training (38,73)
+  28 Jun 1917 75
+    place:Saint Omer (49,84)
+  29 Jun 1917 85
+    person:Lieutenant Wood (departed_leave) (55,89)
+    domestic:parades (42,89)
+Page 83 (type diary) http://wd3.herokuapp.com/pages/AWD00000j0  ----------
+  30 Jun 1917 24
+    activity:training (26,29)
+    reference:Napier 220 (46,29)
+    place:Busnes (8,30)
+    reference:Armoured car Modifications (40,35)
+    reference:Napier 220 (58,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (17,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (47,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (38,57)
+    person:Captain F W Poate (author) (74,69)
+Page 84 (type cover)
+Page 85 (type cover)
+Page 86 (type diary) http://wd3.herokuapp.com/pages/AWD00000kc  ----------
+  1 Jul 1917 24
+    domestic:inspections (48,28)
+    domestic:religion (22,29)
+    place:Busnes (6,29)
+  2 Jul 1917 30
+    place:Busnes (7,31)
+    activity:training (27,35)
+  3 Jul 1917 37
+    activity:training (71,41)
+    activity:training (31,42)
+    place:Saint Omer (70,44)
+  4 Jul 1917 46
+    activity:training (40,46)
+  5 Jul 1917 50
+    activity:training (24,51)
+    activity:training (66,54)
+    activity:training (59,56)
+    domestic:inspections (24,56)
+  6 Jul 1917 59
+    domestic:parades (38,61)
+    domestic:parades (50,63)
+    domestic:hygiene (29,64)
+  7 Jul 1917 66
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (38,66)
+    place:Calais (83,68)
+    unit:Army Service Corps (46,69)
+    activity:training (32,70)
+  8 Jul 1917 73
+    domestic:inspections (41,76)
+    domestic:inspections (46,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (73,80)
+  9 Jul 1917 83
+    activity:training (25,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (32,90)
+Page 87 (type diary) http://wd3.herokuapp.com/pages/AWD00000ks  ----------
+  10 Jul 1917 23
+    activity:training (32,27)
+  11 Jul 1917 28
+    place:Busnes (7,28)
+    domestic:parades (73,29)
+    activity:training (29,32)
+    place:Busnes (7,32)
+    person:Lieutenant Wood (returned_leave) (50,33)
+  12 Jul 1917 34
+    place:Camiers (81,36)
+    place:Busnes (8,38)
+    person:Lieutenant Ketley (departed_training) (45,38)
+  13 Jul 1917 41
+    domestic:hygiene (40,45)
+    domestic:parades (48,45)
+    place:Busnes (6,45)
+  14 Jul 1917 48
+    place:Saint Omer (52,48)
+    place:Busnes (8,52)
+  15 Jul 1917 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (53,53)
+  16 Jul 1917 57
+    place:Busnes (9,57)
+    place:Merville (63,59)
+    activity:movement (33,61)
+    place:Busnes (79,61)
+    place:Merville (51,62)
+    place:Merville (8,62)
+    time:0730AM (59,64)
+  17 Jul 1917 65
+    place:Robecq (24,65)
+    place:Calonne (39,65)
+  18 Jul 1917 76
+  20 Jul 1917 85
+    activity:training (34,89)
+Page 88 (type diary) http://wd3.herokuapp.com/pages/AWD00000ji  ----------
+  20 Jul 1917 24
+    place:Merville (8,26)
+  21 Jul 1917 27
+    place:Merville (7,27)
+    activity:training (60,30)
+  22 Jul 1917 38
+    domestic:inspections (61,41)
+    domestic:hygiene (42,42)
+    reference:1 officer and 9 OR's, 1 vickers MG, 5 hotchkiss rifles, one 3pd hotchkiss gun, 1 lorry, 1 armoured car and ammunition joined (52,48)
+    unit:3 Cavalry Division (83,52)
+  23 Jul 1917 53
+    activity:training (25,57)
+  24 Jul 1917 58
+    activity:training (29,61)
+  25 Jul 1917 62
+    domestic:hygiene (24,65)
+    unit:1 Cavalry Division (73,67)
+  26 Jul 1917 69
+    activity:training (31,72)
+    domestic:inspections (55,75)
+    unit:1 Cavalry Division (39,75)
+  27 Jul 1917 78
+    activity:training (28,82)
+    domestic:parades (44,85)
+    activity:training (40,85)
+    activity:training (55,88)
+Page 89 (type diary) http://wd3.herokuapp.com/pages/AWD00000kw  ----------
+  28 Jul 1917 22
+    place:Merville (7,25)
+  29 Jul 1917 33
+    domestic:hygiene (50,35)
+    domestic:inspections (67,35)
+    activity:training (28,35)
+  30 Jul 1917 40
+    unit:1 Signal Squadron (34,47)
+  31 Jul 1917 49
+    domestic:hygiene (24,53)
+    reference:Unit Strength (25,59)
+    activity:strength (27,59)
+    reference:Strength of Battery- 5 officers, 1 on leave- 33 Gunners including NCO's- 26 ASC, 6 men on leave- 1 armoured car in workshop (47,61)
+    person:Lieutenant Wood (author) (73,79)
+Page 90 (type cover)
+Page 91 (type diary) http://wd3.herokuapp.com/pages/AWD00000i4  ----------
+  1 Aug 1917 25
+    activity:training (30,28)
+    activity:training (48,28)
+    place:Merville (8,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,32)
+    activity:training (33,32)
+  2 Aug 1917 36
+    activity:training (30,40)
+  3 Aug 1917 41
+    activity:training (34,41)
+    activity:training (65,42)
+    domestic:parades (77,44)
+    unit:1 Signal Squadron (72,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (24,46)
+  4 Aug 1917 49
+  5 Aug 1917 59
+    domestic:hygiene (26,62)
+    domestic:inspections (48,62)
+  6 Aug 1917 64
+    activity:training (34,68)
+  7 Aug 1917 71
+    activity:training (69,75)
+    domestic:hygiene (24,75)
+    domestic:parades (33,75)
+    place:Calais (54,77)
+  8 Aug 1917 83
+    activity:training (73,86)
+    activity:training (31,87)
+    place:Huchin (78,89)
+Page 92 (type diary) http://wd3.herokuapp.com/pages/AWD00000k5  ----------
+  8 Aug 1917 24
+    place:Merville (7,27)
+  9 Aug 1917 30
+    place:Merville (7,33)
+    domestic:hygiene (28,35)
+    activity:training (51,35)
+  10 Aug 1917 38
+    domestic:inspections (29,40)
+    domestic:parades (78,40)
+    place:Merville (6,40)
+  11 Aug 1917 43
+    domestic:inspections (32,46)
+    activity:other (42,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (81,53)
+  12 Aug 1917 56
+    domestic:inspections (47,59)
+  13 Aug 1917 64
+    activity:training (37,67)
+  14 Aug 1917 70
+    domestic:parades (35,72)
+  15 Aug 1917 73
+  16 Aug 1917 78
+  17 Aug 1917 81
+    domestic:parades (77,83)
+    activity:training (33,83)
+  18 Aug 1917 86
+    activity:training (32,88)
+  19 Aug 1917 90
+    domestic:inspections (43,91)
+    domestic:inspections (50,91)
+Page 93 (type diary) http://wd3.herokuapp.com/pages/AWD00000ip  ----------
+  20 Aug 1917 23
+    person:Lieutenant Ketley (departed_leave) (79,25)
+    place:Merville (5,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (65,28)
+  21 Aug 1917 29
+    activity:training (46,29)
+  22 Aug 1917 33
+    activity:training (26,36)
+  23 Aug 1917 37
+    domestic:inspections (22,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (24,44)
+  24 Aug 1917 47
+    activity:training (25,50)
+  25 Aug 1917 51
+    activity:training (47,53)
+  26 Aug 1917 57
+    activity:other (43,60)
+  27 Aug 1917 61
+    domestic:religion (24,61)
+    time:0630AM (43,64)
+    place:Condette (7,64)
+    place:Aire (59,64)
+    activity:movement (27,64)
+    place:Desvres (67,65)
+  28 Aug 1917 66
+    place:Condette (42,66)
+    activity:movement (23,69)
+    place:Calais (35,75)
+    place:Merville (58,78)
+  29 Aug 1917 82
+    place:Calais (65,87)
+    place:Merville (41,90)
+Page 94 (type diary) http://wd3.herokuapp.com/pages/AWD00000ky  ----------
+  30 Aug 1917 22
+    domestic:hygiene (35,27)
+    place:Condette (4,27)
+    activity:other (21,27)
+    unit:9 Sanitary Section (24,31)
+  31 Aug 1917 32
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (29,32)
+    person:Lieutenant Ketley (returned_leave) (38,39)
+    activity:strength (21,45)
+Page 95 (type cover)
+Page 96 (type diary) http://wd3.herokuapp.com/pages/AWD00000jy  ----------
+  1 Sep 1917 22
+    place:Condette (5,25)
+  2 Sep 1917 26
+    activity:other (24,26)
+  3 Sep 1917 30
+    domestic:inspections (39,30)
+    activity:training (24,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (60,35)
+  4 Sep 1917 36
+    activity:training (52,40)
+    domestic:parades (24,40)
+  5 Sep 1917 43
+    domestic:parades (24,46)
+  6 Sep 1917 49
+    domestic:parades (24,53)
+    activity:training (42,55)
+  7 Sep 1917 59
+    domestic:parades (31,63)
+  8 Sep 1917 66
+    domestic:parades (22,69)
+  9 Sep 1917 76
+    domestic:inspections (58,80)
+  10 Sep 1917 83
+    domestic:parades (23,86)
+    person:Lieutenant Ketley (departed_sick) (71,90)
+Page 97 (type diary) http://wd3.herokuapp.com/pages/AWD00000jf  ----------
+  11 Sep 1917 22
+    place:Condette (4,25)
+  12 Sep 1917 27
+    domestic:parades (24,31)
+    place:Condette (7,32)
+  13 Sep 1917 36
+    domestic:parades (23,39)
+    domestic:sport (45,41)
+  14 Sep 1917 43
+    domestic:parades (38,44)
+    domestic:inspections (65,44)
+  15 Sep 1917 45
+    place:Calais (52,57)
+    time:0400PM (86,60)
+  16 Sep 1917 66
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (71,69)
+  17 Sep 1917 70
+    domestic:inspections (24,70)
+    domestic:parades (21,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (58,76)
+  18 Sep 1917 77
+    domestic:parades (23,80)
+  19 Sep 1917 84
+    domestic:parades (23,88)
+Page 98 (type diary) http://wd3.herokuapp.com/pages/AWD00000ie  ----------
+  19 Sep 1917 0
+  20 Sep 1917 25
+    reference:1 GR RETURNED FROM LEAVE (62,25)
+    domestic:parades (55,26)
+    domestic:parades (31,26)
+    activity:other (40,27)
+    domestic:parades (25,27)
+    reference:BATH, SEMAPHORE AND PAY PARADE (25,27)
+    place:Condette (7,28)
+    reference:2 OR RETURNED FROM WORKSHOPS (24,29)
+  21 Sep 1917 31
+    place:Hubersent (44,31)
+    reference:1ST CAV DIVISION SPORTS (47,31)
+    domestic:sport (76,32)
+    unit:1 Cavalry Division (63,32)
+    place:Condette (7,33)
+    reference:1 O.R RETURNED FROM LEAVE (26,36)
+  22 Sep 1917 38
+    domestic:parades (25,39)
+    reference:NAPIER 220 AND OR SENT TO LEYLAND NO.2 THEN PROCEEDED TO ORDINANCE WORKSHOP (53,41)
+  23 Sep 1917 42
+    activity:other (45,42)
+    domestic:inspections (27,43)
+    reference:KIT (28,43)
+    reference:Napier 220 (40,43)
+    place:Calais (56,45)
+    reference:3 PDR HOTCHKISS GUN - RETURNED SAME DAY (75,45)
+    reference:NAPIER 220 RETURNED FROM WORKSHOP WITH ? (51,49)
+    reference:Napier 220 (52,49)
+    reference:1 O.R RETURNED FROM LEAVE (24,52)
+  24 Sep 1917 53
+    place:Camiers (83,55)
+    reference:NO. 1 LEYLAND WITH OFFICER, NCOs AND 10 GUNNERS PROCEEDED TO (27,56)
+    reference:MACHINE GUN DEMO (48,57)
+    reference:NO. 2 LEYLAND (75,57)
+    activity:training (44,58)
+    reference:1 WO AND NCO ON LEAVE TO UK (64,61)
+    reference:NO. 2 M G SQUADRON (22,62)
+  25 Sep 1917 65
+    reference:MAP READING, NIGHT MARCH WITH COMPASS (46,67)
+    activity:training (37,68)
+  26 Sep 1917 70
+    reference:TACTICAL SCHEMES ETC ONGOING (46,71)
+    activity:training (62,72)
+    domestic:parades (27,72)
+  27 Sep 1917 74
+    reference:ARMOURED CAR DRIVING (25,75)
+    reference:DRILL WITH USE OF CLINOMETER AND RANGEFINDERS (69,75)
+    activity:training (54,76)
+    activity:training (37,78)
+    reference:PRACTICE BRINING REVERSE SLOPES UNDER FIRE (39,79)
+    reference:1 O.R TO WORKSHOP (71,79)
+    reference:1 O.R FROM HOSPITAL (27,81)
+  28 Sep 1917 82
+    domestic:parades (26,85)
+    domestic:parades (38,85)
+    reference:BATHING AND PAY (27,85)
+    reference:1 OFFICER AND 3 O.R ON LEAVE TO UK (56,85)
+    reference:1 DRIVER RETURNED FROM Q. 1 O.R  AND NAPIER 221 FROM WORKSHOP (22,87)
+    reference:Napier 221 (64,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (32,90)
+    reference:1 O.R TO HOSPITAL (27,91)
+Page 99 (type diary) http://wd3.herokuapp.com/pages/AWD00000jd  ----------
+  29 Sep 1917 19
+    place:Condette (5,23)
+    activity:training (32,23)
+  30 Sep 1917 25
+    domestic:inspections (27,31)
+    activity:strength (39,42)
+    person:Captain F W Poate (author) (70,68)
+Page 100 (type cover)
+Page 101 (type diary) http://wd3.herokuapp.com/pages/AWD00000j4  ----------
+  1 Oct 1917 21
+    place:Condette (6,23)
+    activity:training (23,25)
+  2 Oct 1917 26
+    place:Condette (7,27)
+    activity:training (67,29)
+  3 Oct 1917 30
+    activity:training (33,30)
+    place:Condette (5,30)
+    domestic:inspections (22,34)
+    place:Condette (4,35)
+    person:Colonel Clarke (other) (32,37)
+  4 Oct 1917 40
+    domestic:inspections (32,43)
+    place:Condette (7,43)
+    person:General Mullens (other) (63,44)
+  5 Oct 1917 50
+    place:Paris (47,53)
+    unit:5 Armoured ... (73,53)
+    unit:5 Armoured ... (80,53)
+    person:Captain Poate (departed_leave) (26,53)
+    place:Condette (6,54)
+    place:Saint Omer (66,56)
+    place:Calais (35,59)
+    place:Calais (25,72)
+    time:0600PM (37,74)
+    unit:7 L.A.C. (83,82)
+    domestic:parades (36,86)
+    domestic:parades (52,86)
+Page 102 (type diary) http://wd3.herokuapp.com/pages/AWD00000kn  ----------
+  5 Oct 1917 0
+  6 Oct 1917 22
+    place:Saint Omer (82,23)
+    place:Condette (7,25)
+    activity:other (24,26)
+    activity:movement (21,32)
+    place:Ledringhem (59,32)
+    place:Desvres (76,32)
+    place:Arques (84,32)
+    time:0730AM (41,32)
+    place:Condette (6,33)
+    activity:movement (34,34)
+    unit:O.C supply column (52,34)
+    place:Wormhoudt (24,35)
+    person:Captain F W Poate (returned_leave) (69,43)
+    place:Ledringhem (7,45)
+    place:Paris (33,46)
+    domestic:parades (26,51)
+  9 Oct 1917 55
+    place:Ledringhem (6,58)
+    place:Ledringhem (5,67)
+    domestic:parades (23,67)
+    activity:other (62,69)
+    time:0500PM (72,69)
+    person:Second Lieutenant Russell (returned_leave) (26,70)
+    place:Ledringhem (6,75)
+    place:Condette (66,80)
+    place:Bavinchove (81,80)
+    domestic:parades (27,81)
+    time:0700AM (40,81)
+    place:Ledringhem (6,82)
+    activity:movement (51,83)
+    time:1100AM (57,83)
+    place:Lumbres (23,84)
+    place:Desvres (32,84)
+    place:Samer (41,84)
+    unit:O.C supply column (20,87)
+Page 103 (type diary) http://wd3.herokuapp.com/pages/AWD00000k7  ----------
+  13 Oct 1917 22
+    domestic:parades (54,25)
+    place:Condette (5,25)
+    reference:CLEANING GUNS & 3 PDR (29,25)
+    reference:PAY (59,25)
+    domestic:other (30,26)
+    place:Condette (7,28)
+  14 Oct 1917 29
+    reference:3 O.R RETURNED FROM LEAVE (35,29)
+    domestic:inspections (25,32)
+    place:Condette (7,32)
+    reference:KIT (22,32)
+    reference:1 O.R RETURNED FROM SIGNALS WITH CYCLE, 2 O.R WITH CYCLES REPORTED TO C.R.M.A (40,32)
+    reference:4 O.R EVACUATED TO M.G BASE AS SURPLUS TO ESTABLISHMENT (35,37)
+  15 Oct 1917 41
+    reference:EXTRA PERSONNEL FROM 4TH L.A.C (36,41)
+    reference:GUNNERS ROUTE MARCH (26,44)
+    reference:LEYLAND LONG REPORTED TO SIGNAL FOR 12 HRS TO LAY FRESH LINES (75,44)
+    activity:training (23,45)
+  16 Oct 1917 47
+    domestic:hygiene (24,51)
+    reference:CYCLIST ON CYCLES, GUNNERS ON 3PDR, 1 O.R AND CYCLE RETURNED TO BATTERY FROM C.R.N.H  (35,51)
+  17 Oct 1917 53
+    reference:NAPIER 221 AND LEYLAND REPORTED TO WORKSHOPS (66,56)
+    person:Second Lieutenant Yapp (departed_leave) (82,59)
+    reference:FROM 18/10/1917 - 28/10/1917 - TO REPORT TO M.G BASE ON RETURNON EDUCATI ON OF SURPLUS TO ESTABLISHMENT SEMAPHOR. (85,59)
+  18 Oct 1917 66
+    reference:ARMOURED 229 TO WORKSHOPS (59,68)
+    activity:training (26,69)
+  19 Oct 1917 70
+    reference:ARMS INSPECTORS ROUTE MARCH GUNNERS (26,72)
+    domestic:inspections (25,73)
+  20 Oct 1917 75
+    domestic:parades (34,75)
+    reference:CLEANING  PDR (22,75)
+    reference:PAY (38,75)
+    reference:CAR 229 RETURNED FROM WORKSHOPS (50,75)
+  21 Oct 1917 81
+    reference:GAS HELMET (25,83)
+    reference:1 O.R FROM BASE (61,83)
+    domestic:parades (33,84)
+    domestic:inspections (46,84)
+    reference:KIT (48,84)
+  22 Oct 1917 86
+    reference:1 O.R RETURNED FROM LEAVE. (38,87)
+    reference:CAR SCHEME WITH 1 A. CAR & 2 GUNS COMPRISING ONE  SECTION (30,90)
+    reference:1 O.R ON LEAVE (59,92)
+Page 104 (type diary) http://wd3.herokuapp.com/pages/AWD00000kd  ----------
+  22 Oct 1917 0
+  23 Oct 1917 20
+    reference:BATTERY RECEIVED ORDERS TO GO TO G.H.S RESERVE? (59,23)
+    reference:Orders (64,23)
+    time:0900AM (27,24)
+    place:Condette (6,24)
+    reference:LEYLAND LONG RELEASED FROM WORKSHOPS (53,26)
+  24 Oct 1917 27
+    unit:G.N.S Troops (70,30)
+    reference:REPORTED TO G.H.S TROOPS (73,30)
+    place:Marcomme (50,30)
+    place:Mesopotamia (66,33)
+    reference:NEW BATTERY FORMED FOR SERVICES IN MESOPOTAMIA COMPRISED OF PERSONNEL FROM 8 & 9 BATTERIES (44,34)
+    reference:DIARY CLOSED (64,42)
+    reference:Diary Closed (63,42)
+    person:Captain F W Poate (author) (69,49)
+    person:Captain (author) (74,49)

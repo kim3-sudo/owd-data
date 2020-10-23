@@ -1,0 +1,309 @@
+GWD000000r wo/95/1324/2
+2 DIVISION: `S' Squadron South Irish Horse 
+24 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD0000515  ----------
+  1 May 1915 24
+    place:Bethune (20,26)
+    place:Horlogerie (57,27)
+  2 May 1915 28
+    domestic:accomodation (38,28)
+    activity:other (39,31)
+  10 May 1915 57
+    unit:Hq 2 Division (45,60)
+    place:Le Hamel (19,60)
+  12 May 1915 65
+    place:Lacouture (17,65)
+    activity:attack (47,67)
+  13 May 1915 68
+    place:La Bassee (61,71)
+  14 May 1915 72
+  15 May 1915 76
+    place:Richebourg (59,76)
+  16 May 1915 79
+  17 May 1915 83
+    unit:4 Guards (41,88)
+    unit:6 Infantry Brigade (57,89)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0000510  ----------
+  Hashtags: #DRAFT 
+  18 May 1915 26
+  19 May 1915 30
+    place:Lacouture (17,30)
+  20 May 1915 33
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (56,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (28,34)
+  21 May 1915 36
+    place:Labeurriere (18,39)
+  25 May 1915 51
+  28 May 1915 62
+  29 May 1915 65
+    place:Mazingarbe (56,68)
+  30 May 1915 69
+    activity:movement (37,69)
+  31 May 1915 72
+    place:Mazingarbe (60,74)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD000050m  ----------
+  1 Jun 1915 25
+    place:Hesdigneul (17,26)
+    activity:reconnoitered (46,28)
+  5 Jun 1915 40
+  6 Jun 1915 44
+  8 Jun 1915 52
+    place:Gosnay (18,54)
+  11 Jun 1915 63
+  13 Jun 1915 72
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD000051j  ----------
+  17 Jun 1915 24
+    person:Lieutenant C Stewart (joined) (42,26)
+  24 Jun 1915 49
+  28 Jun 1915 63
+    place:Bethune (17,64)
+  30 Jun 1915 70
+    activity:strength (34,70)
+    activity:strength (32,80)
+    activity:strength (43,86)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD0000518  ----------
+  Hashtags: #MEN 
+  1 Jul 1915 25
+    place:Bethune (16,26)
+  2 Jul 1915 29
+    activity:repair (46,29)
+  5 Jul 1915 38
+  9 Jul 1915 53
+  13 Jul 1915 68
+    activity:other (47,70)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD000050z  ----------
+  18 Jul 1915 24
+    place:Le Quesnoy (18,26)
+  20 Jul 1915 31
+  21 Jul 1915 34
+  22 Jul 1915 37
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (44,40)
+  24 Jul 1915 44
+  25 Jul 1915 48
+  26 Jul 1915 53
+    activity:strength (38,53)
+  27 Jul 1915 56
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,58)
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD000050l  ----------
+  Hashtags: #POLICING 
+  1 Aug 1915 27
+    domestic:religion (28,29)
+    place:Le Quesnoy (16,30)
+  2 Aug 1915 31
+  3 Aug 1915 35
+    place:Cambrin (44,36)
+    activity:repair (28,37)
+  4 Aug 1915 39
+  5 Aug 1915 42
+    activity:strength (30,43)
+  6 Aug 1915 46
+    activity:resting (28,47)
+    person:Captain Blackett (departed_posted) (50,48)
+  7 Aug 1915 49
+    domestic:inspections (33,49)
+  9 Aug 1915 55
+    person:Private Jenkins (returned_training) (32,55)
+  13 Aug 1915 66
+  14 Aug 1915 68
+  15 Aug 1915 70
+    place:Le Plantin (46,71)
+  20 Aug 1915 81
+    person:Lord Kitchener (other) (46,83)
+  23 Aug 1915 88
+  24 Aug 1915 89
+    place:Le Plantin (43,89)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD000050v  ----------
+  Hashtags: #CABLE 
+  25 Aug 1915 29
+    place:Le Quesnoy (19,30)
+  26 Aug 1915 33
+    place:Le Plantin (39,34)
+    activity:other (30,35)
+  29 Aug 1915 43
+    activity:other (28,46)
+  30 Aug 1915 47
+    unit:2 Division signals (49,47)
+  31 Aug 1915 50
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (31,54)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD000051m  ----------
+  Hashtags: #MAKING #HORSE #ESCORT 
+  2 Sep 1915 29
+    place:Le Quesnoy (16,29)
+    activity:other (29,30)
+    unit:Signals 2 Division (46,30)
+  5 Sep 1915 36
+    place:Le Quesnoy (49,36)
+    activity:repair (30,37)
+  7 Sep 1915 41
+    unit:1 corps headquarters (42,44)
+  9 Sep 1915 47
+  11 Sep 1915 53
+    reference: 1 horse died of colic (26,54)
+  13 Sep 1915 59
+    activity:other (27,59)
+  14 Sep 1915 61
+    activity:training (30,62)
+  15 Sep 1915 64
+    activity:other (26,66)
+  17 Sep 1915 69
+    unit:M.M.G. Section (58,71)
+  18 Sep 1915 72
+    activity:training (41,73)
+  20 Sep 1915 77
+  24 Sep 1915 86
+  25 Sep 1915 89
+    reference: 1 horse died of colic near canal (31,90)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD000051l  ----------
+  26 Sep 1915 30
+    time:0100AM (28,31)
+    place:Le Quesnoy (19,32)
+  27 Sep 1915 33
+  28 Sep 1915 36
+  29 Sep 1915 39
+  30 Sep 1915 42
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD0000514  ----------
+  Hashtags: #HANDED 
+  30 Sep 1915 0
+  1 Oct 1915 27
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (51,28)
+  2 Oct 1915 30
+    place:Le Quesnoy (19,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (69,31)
+    place:Beuvry (41,31)
+  4 Oct 1915 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (36,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (27,37)
+  5 Oct 1915 38
+    reference:handed over prisoners Beuvry (42,39)
+    place:Beuvry (51,39)
+  8 Oct 1915 47
+    activity:other (29,47)
+  9 Oct 1915 51
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (34,51)
+  11 Oct 1915 55
+    activity:training (27,55)
+  12 Oct 1915 57
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (58,58)
+    activity:repair (29,59)
+  14 Oct 1915 63
+  15 Oct 1915 65
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (49,65)
+    activity:reconnoitered (29,65)
+  19 Oct 1915 77
+    activity:training (29,77)
+  21 Oct 1915 83
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD000050i  ----------
+  Hashtags: #INSPECTION 
+  23 Oct 1915 30
+    place:Le Quesnoy (19,31)
+  24 Oct 1915 33
+    activity:training (28,35)
+  26 Oct 1915 41
+    person:other George H M The King (other) (36,43)
+  27 Oct 1915 44
+    reference:Inspection by His Majesty (31,44)
+    domestic:inspections (27,44)
+  28 Oct 1915 46
+  30 Oct 1915 50
+    weather:other (29,52)
+  31 Oct 1915 54
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD000050x  ----------
+  1 Nov 1915 27
+    reference:1 horse destroyed (36,27)
+    place:Le Quesnoy (17,29)
+  3 Nov 1915 32
+  5 Nov 1915 38
+    activity:other (28,38)
+  12 Nov 1915 57
+    unit:Re (48,57)
+    unit:Royal engineers (46,58)
+    activity:other (30,58)
+    place:Cambrin (37,58)
+  15 Nov 1915 65
+    unit:G.O.C. 1 Corps (42,66)
+    domestic:inspections (28,66)
+    unit:Re (51,70)
+    activity:other (30,71)
+    place:Cambrin (39,71)
+  21 Nov 1915 82
+    activity:other (30,83)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD000051d  ----------
+  25 Nov 1915 31
+    place:Le Quesnoy (17,32)
+  27 Nov 1915 37
+    activity:other (30,38)
+Page 17 (type cover)
+Page 18 (type other) http://wd3.herokuapp.com/pages/AWD000050o  ----------
+Page 19 (type cover)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD000051b  ----------
+  Hashtags: #FOOT 
+  1 Jan 1916 25
+    place:Beaurepaire (18,27)
+  3 Jan 1916 32
+  6 Jan 1916 42
+    activity:training (33,42)
+  8 Jan 1916 47
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (37,48)
+  14 Jan 1916 66
+  16 Jan 1916 72
+    activity:training (33,74)
+  19 Jan 1916 82
+    place:Le Cauroy (40,82)
+  20 Jan 1916 84
+    place:Le Cauroy (18,86)
+  21 Jan 1916 87
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD0000512  ----------
+  22 Jan 1916 26
+  23 Jan 1916 28
+    activity:strength (38,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (38,30)
+  28 Jan 1916 48
+    unit:Royal engineers 2 Division (52,48)
+    unit:Re 2 Division (50,48)
+  29 Jan 1916 53
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (38,55)
+  30 Jan 1916 57
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (60,57)
+    activity:strength (30,58)
+Page 22 (type cover)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD0000517  ----------
+  Hashtags: #HORSES #TAKING 
+  1 Feb 1916 27
+    place:Le Cauroy (19,27)
+    activity:training (34,28)
+  3 Feb 1916 33
+    place:Le Touret (36,35)
+    unit:2 Division (56,35)
+  6 Feb 1916 43
+  9 Feb 1916 53
+  10 Feb 1916 56
+    place:Le Touret (69,58)
+  12 Feb 1916 62
+    activity:training (68,65)
+  14 Feb 1916 68
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (38,69)
+  15 Feb 1916 72
+    activity:training (46,72)
+  17 Feb 1916 79
+    activity:training (67,81)
+  18 Feb 1916 82
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (30,83)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD000051h  ----------
+  20 Feb 1916 0
+    place:Le Cauroy (6,26)
+  21 Feb 1916 27
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (28,28)
+  22 Feb 1916 32
+  23 Feb 1916 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (27,37)
+  25 Feb 1916 46
+  27 Feb 1916 55
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (28,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (29,58)
+  28 Feb 1916 59
+    place:Hersin (58,60)
+  29 Feb 1916 63
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (28,63)

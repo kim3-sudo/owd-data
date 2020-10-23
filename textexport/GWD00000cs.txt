@@ -1,0 +1,698 @@
+GWD00000cs wo/95/1264/4
+1 DIVISION:  1 Infantry Brigade: 1 Battalion Cameron Highlanders.  
+96 pages
+
+Page 451 (type diary) http://wd3.herokuapp.com/pages/AWD0001xmw  ----------
+  1 Jan 1917 0
+  19 Dec 1916 22
+    activity:movement (73,26)
+    place:Eaucourt (25,28)
+  20 Dec 1916 30
+  21 Dec 1916 34
+    unit:Black Watch (53,38)
+    domestic:accomodation (78,39)
+  24 Dec 1916 42
+    activity:working (42,44)
+  25 Dec 1916 45
+    activity:reserve (46,48)
+    place:Flers (66,49)
+    unit:10 glosterd (81,50)
+    activity:movement (73,54)
+    place:Mametz Wood (38,55)
+  26 Dec 1916 58
+  28 Dec 1916 62
+    unit:8 Berks (46,65)
+    activity:line (59,66)
+  29 Dec 1916 68
+    activity:line (25,69)
+    place:Eaucourt l'Abbaye (65,70)
+    weather:rain (34,71)
+  30 Dec 1916 72
+    activity:movement (30,77)
+    domestic:accomodation (39,77)
+  31 Dec 1916 79
+    activity:movement (36,82)
+    place:Albert (57,82)
+    person:Captain S P Gordon Cumming (author) (66,91)
+    person:Captain Gordon Cumming (author) (57,93)
+Page 452 (type cover)
+Page 453 (type cover)
+Page 454 (type diary) http://wd3.herokuapp.com/pages/AWD0001xlr  ----------
+  9 Jan 1917 25
+    domestic:accomodation (23,27)
+    place:Albert (33,27)
+  10 Jan 1917 28
+    place:Albert (44,30)
+  11 Jan 1917 31
+    place:Fricourt Farm (68,31)
+    activity:movement (32,31)
+  23 Jan 1917 32
+    place:Fricourt (25,33)
+    activity:working (55,35)
+  24 Jan 1917 36
+    unit:12 Australian Regiment (51,38)
+    activity:movement (22,41)
+    place:Warloy (32,42)
+  31 Jan 1917 46
+    domestic:accomodation (24,47)
+    place:Warloy (33,47)
+    activity:training (64,48)
+Page 455 (type cover)
+Page 456 (type diary) http://wd3.herokuapp.com/pages/AWD0001xlv  ----------
+  1 Feb 1917 23
+    place:Warloy (21,25)
+  4 Feb 1917 26
+    place:Cerisy (41,28)
+    activity:movement (32,28)
+  6 Feb 1917 30
+    place:Cerisy (21,30)
+  7 Feb 1917 32
+    place:Cerisy (46,34)
+    place:Marly (54,34)
+    activity:movement (34,34)
+  8 Feb 1917 35
+    place:Chuignolles (44,38)
+    activity:movement (33,38)
+  9 Feb 1917 39
+    place:Chuignolles (23,40)
+    activity:reserve (28,40)
+  14 Feb 1917 42
+    place:Chuignolles (54,43)
+    activity:support (67,43)
+    activity:movement (22,44)
+    place:Great Wood (22,47)
+  15 Feb 1917 48
+    activity:support (24,50)
+    activity:working (54,50)
+  17 Feb 1917 51
+    activity:repair (33,52)
+    activity:repair (62,53)
+  18 Feb 1917 54
+    activity:line (77,56)
+    unit:1 Black Watch (30,56)
+    activity:reserve (34,59)
+  20 Feb 1917 62
+    activity:line (24,63)
+  22 Feb 1917 64
+    place:Assevillers (79,66)
+    domestic:accomodation (57,66)
+    activity:movement (47,66)
+    activity:reserve (67,66)
+    unit:1 Black Watch (33,66)
+  25 Feb 1917 69
+  26 Feb 1917 70
+    place:Assevillers (34,70)
+    activity:reserve (24,70)
+  27 Feb 1917 72
+    activity:line (45,74)
+    unit:1 Black Watch (31,74)
+  28 Feb 1917 76
+    activity:line (21,78)
+Page 457 (type cover)
+Page 458 (type diary) http://wd3.herokuapp.com/pages/AWD0001xm7  ----------
+  3 Mar 1917 25
+    activity:line (23,25)
+  4 Mar 1917 27
+    place:Assevillers (41,27)
+    activity:movement (20,27)
+    activity:reserve (28,27)
+  5 Mar 1917 30
+    place:Chuignes (45,30)
+    domestic:accomodation (38,30)
+    activity:movement (31,30)
+  12 Mar 1917 32
+    place:Chuignes (21,32)
+    activity:movement (30,34)
+    activity:reserve (43,34)
+  13 Mar 1917 35
+    place:Dompierre (52,35)
+  15 Mar 1917 37
+    place:Dompierre (22,37)
+    activity:working (46,37)
+    activity:line (41,39)
+    unit:1 Black Watch (30,39)
+    unit:1 black watch (21,39)
+  16 Mar 1917 40
+    unit:1 Infantry Brigade (62,40)
+    activity:line (21,41)
+    mapRef:Barleux (27,41)
+    place:Barleux (33,42)
+    time:0800PM (26,54)
+    time:0430AM (81,65)
+    unit:54 Battery R. F. A. (61,73)
+    person:Lieutenant Colonel T W Erskine (commander) (28,84)
+Page 459 (type diary) http://wd3.herokuapp.com/pages/AWD0001xnq  ----------
+  16 Mar 1917 23
+    unit:D Company (22,24)
+    place:Pera (76,28)
+    unit:D Company (33,35)
+    place:Boyeau (62,55)
+    place:Boyeau (58,60)
+    place:Boyeau (73,71)
+    person:Lieutenant Colonel Erskine (commander) (52,90)
+Page 460 (type diary) http://wd3.herokuapp.com/pages/AWD0001xmc  ----------
+  16 Mar 1917 26
+    activity:withdraw (70,29)
+    unit:D Company (44,29)
+    activity:fire (21,32)
+    activity:withdraw (74,33)
+    time:0430AM (42,40)
+    person:Lieutenant Colonel T W Erskine (commander) (48,44)
+  17 Mar 1917 46
+    time:0430AM (45,48)
+    activity:attack (43,54)
+    place:Barleux (28,60)
+    person:Second Lieutenant H W Grant (80,61)
+    place:Barleux (50,64)
+    place:Eterpigny (60,64)
+    time:0930AM (81,64)
+    place:Barleux (74,75)
+    unit:10 Glosters (79,79)
+    unit:6 Glosters (36,83)
+    place:Eterpigny (65,87)
+    place:Villers-Carbonnel (73,88)
+Page 461 (type diary) http://wd3.herokuapp.com/pages/AWD0001xm1  ----------
+  17 Mar 1917 26
+    place:Eterpigny (44,28)
+    unit:10 Glosters (72,29)
+    unit:10 ... (66,29)
+    unit:8 Royal Berkshires (38,33)
+    activity:reconnoitered (33,36)
+  18 Mar 1917 42
+    activity:repair (33,44)
+    unit:8 Royal Berkshires (61,45)
+    unit:8 ... (59,45)
+    activity:support (79,45)
+  20 Mar 1917 51
+    activity:support (23,52)
+  21 Mar 1917 54
+    domestic:accomodation (39,56)
+    place:Dompierre (48,56)
+    activity:movement (31,56)
+  22 Mar 1917 58
+    activity:working (40,59)
+    place:Dompierre (23,60)
+    place:Fay (54,60)
+  29 Mar 1917 61
+    place:Rosieres (49,64)
+    activity:movement (33,64)
+  30 Mar 1917 65
+    place:Rosieres (22,67)
+Page 462 (type signals) http://wd3.herokuapp.com/pages/AWD0001xll  ----------
+  1 Apr 1917 0
+    date:15 Mar 1917 (46,32)
+Page 463 (type signals) http://wd3.herokuapp.com/pages/AWD0001xna  ----------
+  1 Apr 1917 0
+Page 464 (type signals) http://wd3.herokuapp.com/pages/AWD0001xlj  ----------
+  1 Apr 1917 0
+    signals:request (51,43)
+    date:16 Mar 1917 (35,58)
+Page 465 (type signals) http://wd3.herokuapp.com/pages/AWD0001xni  ----------
+  1 Apr 1917 0
+    reference:ATTACK OF 16/3/17 (61,22)
+    person:Second Lieutenant Grant (other) (39,30)
+    date:16 Mar 1917 (29,90)
+    person:Second Lieutenant Macpherson (57,90)
+Page 466 (type signals) http://wd3.herokuapp.com/pages/AWD0001xne  ----------
+  1 Apr 1917 0
+    time:1018PM (64,27)
+    date:16 Mar 1917 (46,37)
+    person:Lieutenant McIntyre (other) (59,49)
+Page 467 (type signals) http://wd3.herokuapp.com/pages/AWD0001xlw  ----------
+  1 Apr 1917 0
+    time:1016PM (66,25)
+    date:16 Mar 1917 (45,34)
+Page 468 (type signals) http://wd3.herokuapp.com/pages/AWD0001xnp  ----------
+  1 Apr 1917 0
+    person:Second Lieutenant Grant (52,32)
+    mapRef:12 (65,60)
+    mapRef:12 (49,82)
+Page 469 (type signals) http://wd3.herokuapp.com/pages/AWD0001xm4  ----------
+  1 Apr 1917 0
+    signals:situation (39,22)
+    reference:ATTACK OF 16/3/17 (45,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (54,44)
+    person:Second Lieutenant Macpherson (commander) (57,63)
+    date:16 Mar 1917 (35,63)
+    time:1040PM (37,72)
+Page 470 (type signals) http://wd3.herokuapp.com/pages/AWD0001xn6  ----------
+  1 Apr 1917 0
+    time:1145PM (46,25)
+    date:16 Mar 1917 (45,39)
+    signals:situation (36,42)
+Page 471 (type signals) http://wd3.herokuapp.com/pages/AWD0001xmb  ----------
+  1 Apr 1917 0
+    date:16 Mar 1917 (44,39)
+    mapRef:12 (52,53)
+Page 472 (type signals) http://wd3.herokuapp.com/pages/AWD0001xn5  ----------
+  1 Apr 1917 0
+    unit:Royal Berkshires (40,26)
+    date:16 Mar 1917 (44,32)
+    signals:situation (33,35)
+Page 473 (type signals) http://wd3.herokuapp.com/pages/AWD0001xm5  ----------
+  1 Apr 1917 0
+    date:17 Mar 1917 (44,32)
+    signals:situation (37,36)
+    unit:6 Glosters (54,78)
+    unit:10 Glosters (35,81)
+Page 474 (type signals) http://wd3.herokuapp.com/pages/AWD0001xm8  ----------
+  1 Apr 1917 0
+    date:17 Mar 1917 (45,32)
+    signals:situation (36,36)
+Page 475 (type signals) http://wd3.herokuapp.com/pages/AWD0001xo7  ----------
+  1 Apr 1917 0
+    date:17 Mar 1917 (45,33)
+    signals:situation (35,38)
+Page 476 (type signals) http://wd3.herokuapp.com/pages/AWD0001xmt  ----------
+  1 Apr 1917 0
+    date:17 Mar 1917 (45,29)
+    signals:request (40,33)
+Page 477 (type signals) http://wd3.herokuapp.com/pages/AWD0001xnh  ----------
+  1 Apr 1917 0
+    date:17 Mar 1917 (44,28)
+    unit:10 Glosters (35,56)
+Page 478 (type signals) http://wd3.herokuapp.com/pages/AWD0001xm9  ----------
+  1 Apr 1917 0
+    date:17 Mar 1917 (44,31)
+    mapRef:Fourth Army Corps Sheet Doingt (45,64)
+Page 479 (type signals) http://wd3.herokuapp.com/pages/AWD0001xn2  ----------
+  1 Apr 1917 0
+    date:17 Mar 1917 (44,32)
+Page 480 (type signals) http://wd3.herokuapp.com/pages/AWD0001xlp  ----------
+  1 Apr 1917 0
+    date:17 Mar 1917 (45,34)
+    person:Lieutenant McPherson (commander) (56,44)
+Page 481 (type signals) http://wd3.herokuapp.com/pages/AWD0001xmi  ----------
+  1 Apr 1917 0
+    time:0545AM (49,27)
+    date:17 Mar 1917 (61,27)
+    person:Second Lieutenant Smith (combat) (63,62)
+    person:Second Lieutenant Grant (combat) (49,83)
+Page 482 (type ) http://wd3.herokuapp.com/pages/AWD0001xnr  ----------
+  1 Apr 1917 0
+    date:17 Mar 1917 (36,95)
+Page 483 (type ) http://wd3.herokuapp.com/pages/AWD0001xno  ----------
+  1 Apr 1917 0
+Page 484 (type blank)
+Page 485 (type ) http://wd3.herokuapp.com/pages/AWD0001xmh  ----------
+  1 Apr 1917 0
+    date:17 Mar 1917 (54,37)
+    time:0930AM (40,37)
+Page 486 (type signals) http://wd3.herokuapp.com/pages/AWD0001xnk  ----------
+  1 Apr 1917 0
+    date:17 Mar 1917 (64,18)
+    time:0940AM (63,23)
+    gridRef:N_12_C_6_5 (36,50)
+    person:Lieutenant Colonel T W Erskine (commander) (48,87)
+Page 487 (type signals) http://wd3.herokuapp.com/pages/AWD0001xmq  ----------
+  1 Apr 1917 0
+    date:17 Mar 1917 (44,35)
+    gridRef:N_12_D_5_5 (62,38)
+    person:Lieutenant Colonel Erskine (commander) (57,91)
+Page 488 (type signals) http://wd3.herokuapp.com/pages/AWD0001xns  ----------
+  1 Apr 1917 0
+    time:0300PM (60,17)
+Page 489 (type signals) http://wd3.herokuapp.com/pages/AWD0001xnd  ----------
+  1 Apr 1917 0
+    person:Lieutenant G R Hunter (combat) (60,63)
+    time:0315PM (59,73)
+Page 490 (type signals) http://wd3.herokuapp.com/pages/AWD0001xla  ----------
+  1 Apr 1917 0
+Page 491 (type signals) http://wd3.herokuapp.com/pages/AWD0001xme  ----------
+  1 Apr 1917 0
+    date:17 Mar 1917 (41,38)
+    time:0340PM (38,50)
+Page 492 (type signals) http://wd3.herokuapp.com/pages/AWD0001xma  ----------
+  1 Apr 1917 0
+    time:0510PM (65,23)
+Page 493 (type signals) http://wd3.herokuapp.com/pages/AWD0001xlx  ----------
+  1 Apr 1917 0
+    person:Captain Macpherson (60,32)
+    time:0520AM (37,76)
+Page 494 (type ) http://wd3.herokuapp.com/pages/AWD0001xn7  ----------
+  1 Apr 1917 0
+    mapRef:62.C S.W. 2 (Barleux) (47,23)
+    unit:6 Gloucesters (58,64)
+Page 495 (type ) http://wd3.herokuapp.com/pages/AWD0001xm0  ----------
+  1 Apr 1917 0
+    person:Second Lieutenant Macpherson (59,31)
+    date:17 Mar 1917 (37,35)
+Page 496 (type signals) http://wd3.herokuapp.com/pages/AWD0001xmf  ----------
+  1 Apr 1917 0
+    gridRef:N_12_C_6_4 (53,38)
+    date:17 Mar 1917 (38,69)
+    time:0715PM (41,77)
+Page 497 (type signals) http://wd3.herokuapp.com/pages/AWD0001xml  ----------
+  1 Apr 1917 0
+    date:17 Mar 1917 (58,15)
+    gridRef:O_14_B_3_0 (42,33)
+    gridRef:O_14_D_1_2 (48,57)
+    time:1140PM (38,75)
+Page 498 (type report) http://wd3.herokuapp.com/pages/AWD0001xlh  ----------
+  1 Apr 1917 0
+    title:General Report (45,16)
+    date:18 Mar 1917 (36,69)
+Page 499 (type report) http://wd3.herokuapp.com/pages/AWD0001xnf  ----------
+  1 Apr 1917 0
+    unit:6 Gloucesters (54,21)
+    date:18 Mar 1917 (41,50)
+    person:Second Lieutenant Macpherson (56,50)
+    mapRef:Barleux (57,9)
+Page 500 (type ) http://wd3.herokuapp.com/pages/AWD0001xnx  ----------
+  1 Apr 1917 0
+    date:18 Mar 1917 (40,82)
+Page 501 (type ) http://wd3.herokuapp.com/pages/AWD0001xmo  ----------
+  1 Apr 1917 0
+    date:18 Mar 1917 (59,18)
+Page 502 (type ) http://wd3.herokuapp.com/pages/AWD0001xlo  ----------
+  1 Apr 1917 0
+Page 503 (type ) http://wd3.herokuapp.com/pages/AWD0001xmj  ----------
+  1 Apr 1917 0
+    signals:situation (43,17)
+    date:18 Mar 1917 (60,18)
+    time:0900AM (33,61)
+Page 504 (type report) http://wd3.herokuapp.com/pages/AWD0001xm6  ----------
+  1 Apr 1917 0
+    date:18 Mar 1917 (60,20)
+    unit:10 Gloucesters (35,40)
+Page 505 (type report) http://wd3.herokuapp.com/pages/AWD0001xmz  ----------
+  1 Apr 1917 0
+    date:18 Mar 1917 (34,42)
+Page 506 (type signals) http://wd3.herokuapp.com/pages/AWD0001xmn  ----------
+  1 Apr 1917 0
+    date:18 Mar 1917 (46,34)
+    signals:situation (42,37)
+Page 507 (type orders) http://wd3.herokuapp.com/pages/AWD0001xn1  ----------
+  1 Apr 1917 0
+    date:20 Mar 1917 (40,64)
+Page 508 (type cover)
+Page 509 (type diary) http://wd3.herokuapp.com/pages/AWD0001xly  ----------
+  2 Apr 1917 29
+    place:Rosieres (23,29)
+  3 Apr 1917 35
+    domestic:accomodation (40,37)
+    place:Rouy-le-Grand (49,37)
+    activity:movement (32,37)
+  4 Apr 1917 38
+    place:Rouy-le-Grand (24,40)
+  5 Apr 1917 42
+    mapRef:Rosieres combined sheet (77,52)
+    place:Parny (65,68)
+  16 Apr 1917 70
+    place:Bethencourt (36,71)
+  17 Apr 1917 74
+    domestic:accomodation (42,76)
+    place:Rosieres (50,76)
+    activity:movement (32,76)
+  18 Apr 1917 78
+    domestic:accomodation (43,79)
+    place:Chuignolles (52,79)
+    activity:movement (32,80)
+  19 Apr 1917 81
+    domestic:hygiene (55,83)
+    place:Chuignolles (23,83)
+  30 Apr 1917 87
+    activity:training (34,87)
+Page 510 (type diary) http://wd3.herokuapp.com/pages/AWD0001xnl  ----------
+  30 Apr 1917 27
+    activity:training (24,28)
+Page 511 (type cover)
+Page 512 (type diary) http://wd3.herokuapp.com/pages/AWD0001xli  ----------
+  1 May 1917 25
+    activity:training (42,27)
+    place:Chuignolles (22,27)
+  16 May 1917 55
+    place:Chuignolles (23,57)
+    activity:reserve (76,59)
+  18 May 1917 61
+    activity:training (30,63)
+  19 May 1917 66
+    domestic:accomodation (32,67)
+    activity:movement (22,68)
+    place:Marcelcave (42,68)
+  20 May 1917 70
+    place:Marcelcave (24,72)
+    domestic:religion (33,72)
+  21 May 1917 75
+    activity:training (34,76)
+    place:Marcelcave (22,76)
+    domestic:sport (57,76)
+  22 May 1917 79
+    activity:training (32,81)
+    place:Marcelcave (22,81)
+    domestic:sport (50,82)
+Page 513 (type diary) http://wd3.herokuapp.com/pages/AWD0001xlq  ----------
+  24 May 1917 27
+    domestic:sport (57,28)
+    domestic:hygiene (36,29)
+    place:Marcelcave (21,29)
+  26 May 1917 37
+    activity:training (35,38)
+    place:Marcelcave (22,38)
+  27 May 1917 40
+    activity:movement (24,42)
+    unit:2 Army (56,43)
+  31 May 1917 47
+    activity:training (37,48)
+    place:Thieushouk (21,48)
+Page 514 (type cover)
+Page 515 (type signals) http://wd3.herokuapp.com/pages/AWD0001xng  ----------
+  1 Jun 1917 0
+    date:1 Jul 1917 (45,29)
+    time:0620PM (39,86)
+Page 516 (type diary) http://wd3.herokuapp.com/pages/AWD0001xlt  ----------
+  1 Jun 1917 21
+    place:Thieushouk (21,24)
+    domestic:hygiene (68,25)
+    activity:training (37,25)
+  11 Jun 1917 30
+    activity:movement (31,31)
+    place:Zuytpeene (51,32)
+    domestic:accomodation (42,32)
+  12 Jun 1917 33
+    place:Zuytpeene (20,36)
+    domestic:hygiene (65,36)
+    activity:training (36,37)
+  19 Jun 1917 41
+    activity:movement (35,43)
+    domestic:accomodation (44,44)
+    place:Wormhouke (55,45)
+  20 Jun 1917 46
+    activity:movement (36,48)
+    place:Leffrinck Houcke (69,50)
+    domestic:accomodation (59,50)
+  21 Jun 1917 52
+    activity:movement (36,53)
+    place:Coxyde (66,54)
+    activity:movement (23,57)
+  22 Jun 1917 60
+    place:Nieuport Bains (39,64)
+    activity:support (25,64)
+  28 Jun 1917 68
+    activity:support (23,69)
+  29 Jun 1917 71
+    unit:1 black watch (35,73)
+    activity:line (51,74)
+    unit:1 Black Watch (22,75)
+  30 Jun 1917 77
+    activity:line (22,79)
+Page 517 (type cover)
+Page 518 (type diary) http://wd3.herokuapp.com/pages/AWD0001xo5  ----------
+  1 Jul 1917 24
+    activity:line (32,27)
+  4 Jul 1917 31
+    unit:2 bn krrc (35,33)
+    unit:2 Battalion. K. R. R. Corps (41,33)
+    unit:2 battalion krr corps (22,33)
+    unit:2 Bn K R R C (30,34)
+  5 Jul 1917 35
+    domestic:accomodation (38,38)
+    activity:training (65,39)
+  16 Jul 1917 41
+    activity:training (29,41)
+    domestic:hygiene (22,42)
+  17 Jul 1917 46
+    activity:movement (37,48)
+    domestic:accomodation (65,48)
+    place:Bray Dunes (47,48)
+  18 Jul 1917 51
+    place:Le Clipon (52,53)
+    activity:movement (36,54)
+  31 Jul 1917 60
+    activity:training (53,61)
+    person:Second Lieutenant Jameson (author) (65,82)
+Page 519 (type orders) http://wd3.herokuapp.com/pages/AWD0001xlk  ----------
+  31 Jul 1917 0
+Page 520 (type orders) http://wd3.herokuapp.com/pages/AWD0001xmd  ----------
+  31 Jul 1917 0
+Page 521 (type cover)
+Page 522 (type diary) http://wd3.herokuapp.com/pages/AWD0001xlf  ----------
+  1 Aug 1917 28
+  24 Aug 1917 32
+    activity:training (52,32)
+  25 Aug 1917 35
+    person:General H S Rawlinson (commander) (46,40)
+    domestic:inspections (22,40)
+  26 Aug 1917 46
+    domestic:sport (62,48)
+  31 Aug 1917 50
+    activity:training (52,51)
+    person:Second Lieutenant Jameson (author) (65,77)
+Page 523 (type cover)
+Page 524 (type diary) http://wd3.herokuapp.com/pages/AWD0001xmy  ----------
+  1 Sep 1917 23
+    activity:training (23,28)
+  30 Sep 1917 81
+    person:Second Lieutenant Alistair Jameson (author) (58,78)
+Page 525 (type cover)
+Page 526 (type diary) http://wd3.herokuapp.com/pages/AWD0001xmr  ----------
+  1 Oct 1917 25
+  20 Oct 1917 28
+    activity:training (21,28)
+  21 Oct 1917 30
+    place:Eringhem (49,32)
+    activity:movement (35,32)
+  22 Oct 1917 35
+    place:Arneke (48,36)
+    activity:movement (35,36)
+  23 Oct 1917 39
+    domestic:accomodation (38,39)
+    place:Arneke (50,40)
+    activity:training (59,40)
+  26 Oct 1917 42
+    place:Wormhoudt (54,44)
+    activity:movement (35,44)
+  31 Oct 1917 47
+    activity:training (70,47)
+    place:Wormhoudt (52,48)
+    domestic:accomodation (39,48)
+    person:Captain J Robertson (author) (61,78)
+Page 527 (type cover)
+Page 528 (type diary) http://wd3.herokuapp.com/pages/AWD0001xlu  ----------
+  31 Oct 1917 0
+  5 Nov 1917 31
+    place:Nouveau Monde (47,31)
+    domestic:accomodation (36,31)
+    activity:training (60,31)
+  6 Nov 1917 34
+    place:School Camp (42,36)
+    activity:movement (31,36)
+  9 Nov 1917 40
+    place:School Camp (34,40)
+    place:Dirty Bucket Camp (42,43)
+    activity:movement (30,44)
+  11 Nov 1917 46
+    place:Dirty Bucket Camp (46,47)
+  12 Nov 1917 50
+    place:Irish Farm (39,51)
+  13 Nov 1917 52
+    activity:movement (30,52)
+  14 Nov 1917 54
+    place:Irish Farm (39,55)
+  15 Nov 1917 57
+    unit:2 r. sussex (44,59)
+    unit:2 Royal Sussex (33,59)
+    activity:line (68,59)
+    unit:2 Royal Sussex Regiment (41,60)
+  16 Nov 1917 61
+    activity:line (31,63)
+    unit:cANADIANS (37,72)
+    place:Virile Farm (21,75)
+    activity:fire (73,78)
+    unit:cANADIANS (61,83)
+Page 529 (type diary) http://wd3.herokuapp.com/pages/AWD0001xlg  ----------
+  16 Nov 1917 0
+    activity:attack (52,23)
+  17 Nov 1917 37
+    unit:1 Black Watch (37,39)
+    unit:1 Black Watch (24,40)
+  21 Nov 1917 43
+    place:Dambre Camp (41,44)
+  22 Nov 1917 47
+    activity:movement (35,48)
+    place:Road Camp (49,49)
+  23 Nov 1917 51
+    place:Road Camp (41,52)
+    activity:training (56,52)
+  27 Nov 1917 55
+    place:Pompey Camp (45,57)
+    activity:movement (31,57)
+  30 Nov 1917 61
+    place:Pompey Camp (37,61)
+    activity:training (50,61)
+    person:Captain J Robertson (author) (57,82)
+Page 530 (type orders) http://wd3.herokuapp.com/pages/AWD0001xmp  ----------
+  1 Dec 1917 0
+Page 531 (type orders) http://wd3.herokuapp.com/pages/AWD0001xnw  ----------
+  1 Dec 1917 0
+Page 532 (type cover)
+Page 533 (type diary) http://wd3.herokuapp.com/pages/AWD0001xmg  ----------
+  2 Dec 1917 23
+    activity:training (64,23)
+    place:Pompey Camp (48,24)
+    domestic:accomodation (40,24)
+  3 Dec 1917 27
+    place:Boesinghe (49,28)
+    activity:movement (37,29)
+  4 Dec 1917 30
+    unit: (38,32)
+    activity:line (65,32)
+    unit:French (50,33)
+  7 Dec 1917 35
+    activity:line (43,36)
+  8 Dec 1917 38
+    unit:1 Black Watch (37,40)
+  9 Dec 1917 42
+    activity:support (54,43)
+  11 Dec 1917 42
+    unit:2 South Wales (39,47)
+  12 Dec 1917 49
+    place:Crombeke (66,51)
+    domestic:accomodation (54,51)
+    activity:movement (35,51)
+  19 Dec 1917 54
+    activity:training (55,55)
+  20 Dec 1917 56
+    place:Woesten (65,58)
+    activity:movement (36,58)
+    activity:support (48,58)
+  26 Dec 1917 60
+    activity:training (71,60)
+    place:Woesten (65,61)
+    domestic:accomodation (39,61)
+  27 Dec 1917 64
+    unit:2 K. R. R. C. (75,64)
+    unit:2 krrc (77,65)
+    unit:2 krrc (62,65)
+    activity:movement (36,65)
+    activity:support (21,68)
+  31 Dec 1917 72
+    activity:line (57,73)
+    person:Captain J Robertson (author) (72,87)
+Page 534 (type other) http://wd3.herokuapp.com/pages/AWD0001xnt  ----------
+  31 Dec 1917 0
+Page 535 (type orders) http://wd3.herokuapp.com/pages/AWD0001xmk  ----------
+  31 Dec 1917 0
+    person:R Butler (author) (58,79)
+Page 536 (type ) http://wd3.herokuapp.com/pages/AWD0001xn0  ----------
+  31 Dec 1917 0
+Page 537 (type other) http://wd3.herokuapp.com/pages/AWD0001xms  ----------
+  31 Dec 1917 0
+Page 538 (type other) http://wd3.herokuapp.com/pages/AWD0001xmu  ----------
+  31 Dec 1917 0
+Page 539 (type other) http://wd3.herokuapp.com/pages/AWD0001xlm  ----------
+  31 Dec 1917 0
+Page 540 (type other) http://wd3.herokuapp.com/pages/AWD0001xn4  ----------
+  31 Dec 1917 0
+Page 541 (type ) http://wd3.herokuapp.com/pages/AWD0001xm2  ----------
+  31 Dec 1917 0
+Page 542 (type orders) http://wd3.herokuapp.com/pages/AWD0001xm3  ----------
+  31 Dec 1917 0
+Page 543 (type orders) http://wd3.herokuapp.com/pages/AWD0001xls  ----------
+  31 Dec 1917 0
+    date:24 Dec 1917 (37,81)
+Page 544 (type other) http://wd3.herokuapp.com/pages/AWD0001xnv  ----------
+Page 545 (type other) http://wd3.herokuapp.com/pages/AWD0001xln  ----------
+Page 546 (type orders) http://wd3.herokuapp.com/pages/AWD0001xld  ----------
+  31 Dec 1917 0
+    date:27 Dec 1917 (36,54)

@@ -1,0 +1,1611 @@
+GWD00000dt wo/95/1330/4
+2 DIVISION:  Divisional Troops: 5 Field Company Royal Engineers.  
+140 pages
+
+Page 394 (type cover)
+Page 395 (type cover)
+Page 396 (type diary) http://wd3.herokuapp.com/pages/AWD00022z2  ----------
+  1 Jan 1917 28
+    place:Hiermont (6,30)
+    place:Hiermont (24,34)
+    place:Gueschart (42,42)
+  2 Jan 1917 52
+  9 Jan 1917 58
+  1 Aug 1917 64
+  1 Sep 1917 70
+    place:Courcelette (64,73)
+    place:Prouville (42,89)
+    place:Agenville (34,90)
+    place:Bernaville (53,90)
+Page 397 (type diary) http://wd3.herokuapp.com/pages/AWD0002328  ----------
+  1 Sep 1917 0
+    place:Gorges (6,30)
+    person:Captain E A Robinson (departed_training) (29,35)
+    place:Beauquesne (43,42)
+    place:Gorges (7,42)
+    place:Candas (85,42)
+    unit:99 Inf. Brigade (59,42)
+    activity:movement (31,43)
+    place:Fienvillers (76,43)
+    place:Beauval (22,46)
+    place:Beauquesne (43,46)
+    place:Senlis (78,50)
+    place:Beauquesne (7,50)
+    activity:movement (69,51)
+    place:Raincheval (23,54)
+    place:Arqueves (33,54)
+    place:Lealvillers (44,54)
+    place:Varennes (55,54)
+    place:Senlis (72,54)
+    time:1230PM (78,54)
+    activity:movement (59,58)
+    place:Senlis (6,58)
+    place:Ovillers (60,65)
+    place:Bouzincourt (31,66)
+    place:Martinsart (42,66)
+    place:Aveluy (53,66)
+    unit:1/2 Highland Fd. Coy. R. E., 51 Division (52,74)
+    unit:1/2 highland fd coy re (55,75)
+    place:Wolfe Huts (7,77)
+    person:Sapper J Cundall (departed_sick) (53,82)
+    person:Sapper B Brewer (departed_sick) (36,90)
+    person:Lance Corporal R Galpin (discipline) (50,93)
+    person:other Maurice Thon (departed_posted) (41,95)
+Page 398 (type diary) http://wd3.herokuapp.com/pages/AWD000231o  ----------
+  1 Sep 1917 0
+    place:Wolfe Huts (7,31)
+    person:Driver E Cleaver (joined) (69,50)
+    person:Sapper F Godfrey (departed_sick) (71,52)
+    place:Ovillers (56,70)
+    activity:movement (45,70)
+    person:Driver H Pearsons (casualty_wounded) (70,74)
+    unit:E. A. Fd. Coy. R. E. (50,74)
+    place:Ovillers Post (5,78)
+    place:Aveluy Wood (63,81)
+    person:W Morris (departed_posted) (56,92)
+    person:Sergeant E Bowden (other) (52,95)
+Page 399 (type diary) http://wd3.herokuapp.com/pages/AWD00022zu  ----------
+  1 Sep 1917 0
+    place:Ovillers (6,30)
+    person:Corporal A E Brewer (departed_posted) (38,31)
+    person:Sergeant H Adams (joined) (74,32)
+    person:Corporal H Adams (36,38)
+    person:F G Wearn (joined) (31,45)
+    person:Sergeant C Merchant (departed_posted) (77,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (62,50)
+    person:Sapper J Carline (casualty_wounded) (37,50)
+    person:Sapper R Fowles (promotion) (37,54)
+Page 400 (type diary) http://wd3.herokuapp.com/pages/AWD000230e  ----------
+  1 Sep 1917 0
+    place:Ovillers (6,30)
+    person:Sapper J Shevill (casualty_wounded) (32,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (42,32)
+    person:Sapper G Elliott (casualty_wounded) (34,35)
+    person:Sapper W Good (promotion) (71,36)
+    person:Lance Corporal B Brian (discipline) (68,39)
+    person:Driver J Dillon (departed_posted) (36,54)
+    time:1230PM (59,58)
+    place:Ovillers (6,60)
+    activity:movement (49,62)
+    person:Driver T Starkie (casualty_wounded) (78,64)
+    unit:E. A. Fd. Coy. R. E. (54,66)
+    place:Wolfe Huts (8,70)
+    activity:construction (63,70)
+    domestic:parades (24,73)
+    time:0530PM (41,75)
+    activity:construction (58,81)
+Page 401 (type cover)
+Page 402 (type diary) http://wd3.herokuapp.com/pages/AWD000230c  ----------
+  Hashtags: #croixdeguerre 
+  1 Sep 1917 0
+    activity:construction (37,35)
+    activity:construction (29,44)
+    activity:construction (30,44)
+    person:Major E H Rooke (departed_posted) (70,45)
+    person:Captain Robinson (commander) (71,52)
+    activity:construction (28,57)
+    activity:construction (29,62)
+    person:Shackleton (award) (90,79)
+Page 403 (type diary) http://wd3.herokuapp.com/pages/AWD000230u  ----------
+  1 Sep 1917 0
+    place:Wolffe Huts (7,31)
+    person:Sergeant A Cousins (33,34)
+    person:Sergeant A Brewer (departed_posted) (35,38)
+    person:Sergeant Adams (73,38)
+    person:Sergeant C Merchant (departed_posted) (37,42)
+    person:Sergeant Wearn (72,42)
+    place:Dyke Valley (82,46)
+    activity:construction (62,46)
+    place:Ironside Lane (69,51)
+    place:Vancouver Trench (81,51)
+    activity:other (26,54)
+    person:Second Lieutenant Hame (joined) (74,62)
+    unit:10 D. C. L. I. (66,70)
+    unit:10 D. C. L. I. (36,77)
+    place:Ovillers Saw Mills (66,85)
+    person:Sapper S Cooper (joined) (92,87)
+    person:Sapper H Vickery (joined) (92,88)
+    person:Sapper Walker (joined) (92,90)
+Page 404 (type diary) http://wd3.herokuapp.com/pages/AWD0002318  ----------
+  1 Sep 1917 0
+    activity:construction (23,30)
+    place:Ovillers (6,31)
+    person:Major Robinson (80,82)
+Page 405 (type cover)
+Page 406 (type diary) http://wd3.herokuapp.com/pages/AWD000230d  ----------
+  1 Sep 1917 0
+    place:Ovillers (8,28)
+    activity:construction (24,30)
+    activity:construction (23,34)
+    activity:construction (24,37)
+    activity:construction (22,41)
+    place:Courcelette (39,47)
+    person:Sapper McKenzie (75,54)
+    activity:construction (23,56)
+    unit:45RE (25,74)
+    activity:construction (22,78)
+    activity:construction (22,85)
+Page 407 (type diary) http://wd3.herokuapp.com/pages/AWD00022zd  ----------
+  1 Sep 1917 0
+    place:Ovillers (8,33)
+    activity:construction (22,33)
+    activity:construction (24,38)
+    place:Grevillers Trench (54,42)
+    activity:attack (32,43)
+    place:Loupart Wood (44,63)
+    mapRef:Loupart Wood (28,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (93,79)
+    person:Second Corporal D Callan (casualty_wounded) (77,83)
+    person:D Callan (casualty_wounded) (63,84)
+    person:Sapper C Brown (casualty_wounded) (79,85)
+    person:Sapper C Brown (casualty_wounded) (63,86)
+    person:Sapper G Tucker (casualty_wounded) (78,88)
+    person:Sapper G Tucker (casualty_wounded) (63,89)
+Page 408 (type diary) http://wd3.herokuapp.com/pages/AWD00022yj  ----------
+  1 Sep 1917 0
+    time:0930AM (24,28)
+    activity:reconnoitered (46,31)
+    person:Second Lieutenant G H Dundon (other) (43,39)
+    person:Second Lieutenant Hame (other) (40,42)
+    time:0130PM (55,53)
+    activity:construction (71,59)
+    activity:fire (51,78)
+Page 409 (type diary) http://wd3.herokuapp.com/pages/AWD000231w  ----------
+  1 Sep 1917 0
+    activity:working (41,35)
+    person:Major E A Robinson (65,75)
+Page 410 (type diary) http://wd3.herokuapp.com/pages/AWD00022zv  ----------
+  1 Sep 1917 0
+    activity:repair (46,39)
+    person:Major Robinson (commander) (50,62)
+    activity:repair (31,77)
+    activity:construction (67,85)
+Page 411 (type diary) http://wd3.herokuapp.com/pages/AWD000230p  ----------
+  1 Sep 1917 0
+    person:Major Robinson (commander) (55,39)
+    person:Second Lieutenant Downes (other) (30,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (47,50)
+    activity:fire (34,51)
+    person:Second Lieutenant Dundon (other) (53,58)
+    person:Second Lieutenant Hame (other) (78,58)
+    activity:reconnoitered (32,59)
+    person:Brigadier General Kellett (commander) (65,87)
+Page 412 (type diary) http://wd3.herokuapp.com/pages/AWD0002307  ----------
+  Hashtags: #nominalroll 
+  1 Sep 1917 0
+    place:Ovillers (7,32)
+Page 413 (type diary) http://wd3.herokuapp.com/pages/AWD000231t  ----------
+  Hashtags: #watersupply 
+  1 Sep 1917 0
+    place:Ovillers (62,31)
+    place:Ovillers (6,31)
+    activity:construction (23,36)
+    activity:construction (22,40)
+Page 414 (type diary) http://wd3.herokuapp.com/pages/AWD0002327  ----------
+  Hashtags: #militarymedal 
+  1 Sep 1917 0
+    place:Ovillers (8,29)
+    activity:construction (40,33)
+    activity:construction (40,37)
+    activity:construction (40,40)
+    activity:construction (40,45)
+    activity:construction (40,49)
+    place:Albert (62,53)
+    activity:movement (30,53)
+    activity:resting (27,56)
+    person:Second Lieutenant W E Oliver (joined) (57,60)
+    person:Second Lieutenant A P Stonor (joined) (72,60)
+    activity:resting (28,61)
+    place:Bouzincourt (48,65)
+    place:Hedauville (62,65)
+    activity:movement (28,65)
+    place:Harponville (79,66)
+    place:Toutencourt (47,69)
+    activity:movement (27,69)
+    place:Puchevillers (59,70)
+    activity:movement (28,73)
+    activity:movement (29,76)
+    person:Major Robinson (commander) (83,79)
+    activity:resting (27,80)
+    place:Pernes (54,85)
+    place:Aumerval (68,85)
+    person:Lance Corporal F Garbett (award) (75,89)
+    person:Lance Corporal R Bell (award) (74,92)
+Page 415 (type other) http://wd3.herokuapp.com/pages/AWD000232j  ----------
+  Hashtags: #map 
+Page 416 (type cover)
+Page 417 (type diary) http://wd3.herokuapp.com/pages/AWD000230g  ----------
+  1 Sep 1917 0
+    activity:resting (26,28)
+    activity:training (49,30)
+    place:Aumerval (7,31)
+    activity:resting (23,32)
+    activity:resting (23,36)
+    activity:resting (23,40)
+    activity:resting (23,44)
+    activity:movement (31,49)
+    place:Aumerval (49,50)
+    place:Dieval (75,50)
+    activity:movement (36,50)
+    place:Dieval (6,51)
+    activity:resting (33,57)
+    place:Dieval (45,58)
+    place:Dieval (46,66)
+    activity:movement (32,66)
+    place:Anzin (41,70)
+    activity:movement (32,70)
+    place:Anzin (22,74)
+    place:Ecurie (23,78)
+    person:Sapper H Morris (joined) (67,82)
+    person:Sapper A Smith (joined) (72,85)
+    activity:construction (26,85)
+    activity:construction (46,86)
+    person:Driver Starkie (83,88)
+    person:Driver D Starkie (joined) (68,89)
+Page 418 (type diary) http://wd3.herokuapp.com/pages/AWD00022yv  ----------
+  Hashtags: #roadscondition #watersupply 
+  1 Sep 1917 0
+    place:Roclincourt (43,28)
+    activity:construction (23,29)
+    place:Ecurie (6,30)
+    place:Maison de la Cote (64,41)
+    activity:construction (37,58)
+    place:Roclincourt (30,70)
+    place:Arras (41,70)
+    place:Bailleul (51,70)
+    activity:construction (21,72)
+    activity:construction (23,85)
+Page 419 (type diary) http://wd3.herokuapp.com/pages/AWD00022yu  ----------
+  1 Sep 1917 0
+    person:Lance Corporal Coop (departed_posted) (57,26)
+    person:Lance Corporal Coop (departed_posted) (75,27)
+    activity:construction (23,29)
+    person:Sapper Dorey (departed_posted) (58,29)
+    person:Sapper Dorey (departed_posted) (74,29)
+    place:Ecurie (6,30)
+    person:Lance Corporal Good (returned_training) (78,31)
+    person:Lance Corporal Good (returned_training) (60,32)
+    activity:construction (22,34)
+    activity:construction (22,38)
+    person:Lance Corporal Gardner (71,42)
+    place:Roclincourt (47,42)
+    activity:construction (22,43)
+    activity:construction (22,50)
+    activity:construction (22,53)
+    activity:construction (21,58)
+    activity:construction (22,63)
+Page 420 (type cover)
+Page 421 (type diary) http://wd3.herokuapp.com/pages/AWD00022zz  ----------
+  1 Sep 1917 0
+    place:Ecurie (7,30)
+    unit:99 Inf. Brigade (53,32)
+    unit:226 Field Company Royal Engineers (28,32)
+    unit:226 Field Coy. R. E. (30,33)
+    gridRef:B_12_D_7_6 (74,37)
+    mapRef:Gavrelle (32,38)
+    gridRef:C_7_A_8_3 (86,39)
+    gridRef:B_11_A_0_5 (27,41)
+    gridRef:B_11_B_8_5 (42,42)
+    unit:31 Division. (43,45)
+    unit:99 Inf. Brigade (34,49)
+    time:0900PM (17,50)
+    gridRef:B_12_D_6_6 (29,61)
+    gridRef:C_7_A_7_1 (29,65)
+    activity:movement (25,73)
+    time:0200PM (17,73)
+    activity:other (27,80)
+    place:Farbus (6,84)
+    time:0830PM (15,88)
+    person:Second Lieutenant Hame (other) (66,89)
+Page 422 (type diary) http://wd3.herokuapp.com/pages/AWD0002312  ----------
+  1 Sep 1917 0
+    unit:23 R. F. (58,29)
+    place:Farbus (7,32)
+    gridRef:B_6_A_7_7 (67,34)
+    gridRef:B_6_D_7_1 (47,38)
+    gridRef:B_13_C_0_7 (7,39)
+    place:Farbus (6,54)
+    person:Second Lieutenant W F Hasted (commander) (49,58)
+    person:Second Lieutenant E Orwins (commander) (66,58)
+    time:0100PM (14,58)
+    activity:movement (76,61)
+    unit:10 D. C. L. I. (45,62)
+    gridRef:B_10_D_5_7 (84,65)
+    unit:99 Inf. Brigade (67,73)
+    unit:10 D. C. L. I. (68,89)
+    time:0715AM (14,90)
+Page 423 (type diary) http://wd3.herokuapp.com/pages/AWD000230l  ----------
+  1 Sep 1917 0
+Page 424 (type diary) http://wd3.herokuapp.com/pages/AWD0002325  ----------
+  1 Sep 1917 0
+    activity:fire (29,30)
+    unit:99 Inf. Brigade (43,45)
+    unit:10 D. C. L. I. Pioneers (56,69)
+Page 425 (type diary) http://wd3.herokuapp.com/pages/AWD00022yz  ----------
+  1 Sep 1917 0
+    activity:repair (50,40)
+    unit:99 Inf. Brigade, 2 Division. (22,78)
+    place:Ecurie (7,79)
+    unit:527 (Durham) Fd. Coy. R. E. (28,85)
+    activity:movement (55,89)
+Page 426 (type diary) http://wd3.herokuapp.com/pages/AWD00022z5  ----------
+  Hashtags: #nominalroll #watersupply 
+  1 Sep 1917 0
+    activity:movement (32,30)
+    place:Ecurie (5,31)
+    unit:Xiii corps c. e. (50,39)
+    place:Maroeuil (6,40)
+    activity:construction (23,42)
+    person:Sapper G Alcock (joined) (80,45)
+    person:Sapper A Barber (joined) (81,49)
+    person:Sapper A Cumper (joined) (81,53)
+    person:Sapper A G Domoney (joined) (79,57)
+    person:Sapper A Gough (joined) (78,61)
+    person:Sapper J Holey (joined) (81,66)
+    person:Sapper A Jopling (joined) (80,70)
+    person:Sapper F Vickers (joined) (78,74)
+    person:Second Lieutenant R E Downes (departed_posted) (70,77)
+    activity:construction (22,78)
+    activity:construction (23,81)
+    activity:construction (21,86)
+Page 427 (type diary) http://wd3.herokuapp.com/pages/AWD0002317  ----------
+  Hashtags: #nominalroll 
+  1 Sep 1917 0
+    activity:movement (39,31)
+    gridRef:F_27_A_4_6 (57,31)
+    place:Maroeuil (6,31)
+    gridRef:L_4_A_5_8 (24,34)
+    activity:construction (50,42)
+    activity:construction (24,42)
+    gridRef:F_27_A_4_6 (26,46)
+    person:Sapper B Foord (joined) (71,47)
+    person:Sapper E Brooks (joined) (84,57)
+    person:Sapper E Brooks (joined) (66,57)
+    activity:construction (27,59)
+    person:Sapper C Brown (joined) (82,60)
+    person:Sapper J Buchanan (joined) (78,62)
+    person:Sapper H Carter (joined) (83,64)
+    person:Sapper A Husband (joined) (76,66)
+    person:Sapper L Landers (joined) (83,67)
+    person:Sapper T McCambridge (joined) (84,70)
+    person:Sapper F Mortimer (joined) (81,72)
+    person:Sapper R Webb (joined) (79,74)
+    activity:construction (25,84)
+Page 428 (type diary) http://wd3.herokuapp.com/pages/AWD000231c  ----------
+  Hashtags: #nominalroll 
+  1 Sep 1917 0
+    place:Maroeuil (7,31)
+    activity:construction (22,31)
+    person:Sapper Baker (joined) (90,33)
+    activity:construction (23,34)
+    person:Sapper Hill (joined) (84,35)
+    person:Sapper Oxby (joined) (85,37)
+    activity:movement (33,39)
+    person:Sapper Pinnell (joined) (81,39)
+    person:Sapper Pinnell (joined) (93,39)
+    person:Sapper Rowntree (joined) (86,41)
+    person:Sapper Smith (joined) (81,43)
+    person:Sapper Smith (joined) (92,43)
+    person:Sapper Wells (joined) (87,44)
+    place:Ecurie (23,46)
+    person:Driver Hargreaves (joined) (86,47)
+    person:Sapper Bertram (joined) (88,53)
+    activity:repair (42,54)
+    person:Sapper Bertram Potts (joined) (88,54)
+    gridRef:A_18_D_6_8 (7,54)
+    person:Sapper Potts (joined) (92,55)
+    person:Sapper Porter (joined) (86,58)
+    person:Sapper Scotson (joined) (90,61)
+    gridRef:B_11_D_8_9 (33,62)
+    gridRef:B_12_A_6_0 (67,62)
+    gridRef:B_11_B_8_3 (30,70)
+    gridRef:B_11_B_3_8 (40,70)
+    activity:reconnoitered (24,73)
+    activity:repair (41,77)
+    activity:construction (27,89)
+Page 429 (type diary) http://wd3.herokuapp.com/pages/AWD0002300  ----------
+  1 Sep 1917 0
+    activity:construction (24,30)
+    activity:repair (21,34)
+    activity:repair (23,46)
+    gridRef:B_12_C_9_5 (34,49)
+    unit:99 Inf. Brigade (63,50)
+    activity:repair (22,54)
+    activity:repair (23,62)
+Page 430 (type orders) http://wd3.herokuapp.com/pages/AWD00022zq  ----------
+  1 Sep 1917 0
+    reference:Brigade Order No 137 (50,10)
+    date:1 May 1917 (63,14)
+Page 431 (type orders) http://wd3.herokuapp.com/pages/AWD0002315  ----------
+  1 Sep 1917 0
+    reference:Brigade Order No 137 cont (47,5)
+Page 432 (type orders) http://wd3.herokuapp.com/pages/AWD00022yk  ----------
+  1 Sep 1917 0
+    date:1 May 1917 (62,5)
+    reference:Brigade Order No 137 cont (50,6)
+Page 433 (type orders) http://wd3.herokuapp.com/pages/AWD0002316  ----------
+  1 Sep 1917 0
+    person:Major Lindsay (commander) (58,31)
+    person:Major G Lindsay (author) (55,34)
+    reference:Brigade Order No 137 cont (47,4)
+    orders:attack (41,5)
+Page 434 (type orders) http://wd3.herokuapp.com/pages/AWD00022zb  ----------
+  1 Sep 1917 0
+    reference:Addendum No. 1 to Order No. 137 of 1/5/17 (46,11)
+    date:2 May 1917 (60,14)
+    orders:attack (47,9)
+    reference:c 1 c 95 95 (50,90)
+Page 435 (type orders) http://wd3.herokuapp.com/pages/AWD00022zh  ----------
+  1 Sep 1917 0
+    reference:Addendum No. 1 to Order No. 137 of 1/5/17 (41,3)
+    person:Lieutenant Colonel Norris (commander) (45,60)
+    person:Lieutenant Colonel Vernon (commander) (45,75)
+Page 436 (type orders) http://wd3.herokuapp.com/pages/AWD00022z4  ----------
+  1 Sep 1917 0
+    unit: (45,39)
+    unit: (41,45)
+Page 437 (type orders) http://wd3.herokuapp.com/pages/AWD000231i  ----------
+  1 Sep 1917 0
+    orders:attack (37,4)
+    reference:Addendum No. 1 to Order No. 137 of 1/5/17 (43,5)
+Page 438 (type orders) http://wd3.herokuapp.com/pages/AWD000230x  ----------
+  1 Sep 1917 0
+    reference:b 12 c 95 35 (61,22)
+    reference:b 12 d 2 5 (60,25)
+    reference:b 15 c 63 (57,32)
+    reference:b 21 b 32 (34,33)
+    reference:b 19 b 39 (63,34)
+    reference:b 20 a 47 (66,37)
+    reference:b 6 d 45 65 (51,43)
+    reference:b 6 d 77 (62,44)
+    reference:b 10 b 82 (35,46)
+    reference:b 6 d 80 (33,49)
+    reference:b 12 d 15 (64,51)
+    reference:b 10 b 82 (50,53)
+    reference:B.M.(S) 874 (58,8)
+    date:1 May 1917 (35,80)
+    orders:entrench (50,9)
+Page 439 (type orders) http://wd3.herokuapp.com/pages/AWD00022zt  ----------
+  1 Sep 1917 0
+    reference:B.M.(S) 885 (59,6)
+Page 440 (type orders) http://wd3.herokuapp.com/pages/AWD000230y  ----------
+  1 Sep 1917 0
+    reference:b 7 a 4 5 (50,24)
+    reference:b 7 a 4 5 (50,32)
+    reference:B.M.(S) 885 (48,5)
+    person:Major G Lindsay (commander) (54,71)
+    date:3 May 1917 (38,76)
+Page 441 (type other) http://wd3.herokuapp.com/pages/AWD00022zs  ----------
+  Hashtags: #map 
+Page 442 (type other) http://wd3.herokuapp.com/pages/AWD000230o  ----------
+  Hashtags: #map 
+  1 Sep 1917 0
+    mapRef: (76,11)
+    mapRef: (44,16)
+    mapRef: (13,23)
+    mapRef: (43,32)
+    mapRef: (51,33)
+    mapRef: (51,42)
+    mapRef: (10,51)
+    mapRef: (29,54)
+    mapRef: (44,60)
+    mapRef: (69,65)
+    mapRef: (76,76)
+Page 443 (type cover)
+Page 444 (type diary) http://wd3.herokuapp.com/pages/AWD00022yw  ----------
+  Hashtags: #militarymedal 
+  1 Sep 1917 0
+    activity:repair (27,30)
+    gridRef:A_18_D_6_8 (8,30)
+    unit:99 T. M. B. (40,34)
+    gridRef:B_12_C_7_8 (64,35)
+    activity:repair (26,47)
+    activity:movement (31,58)
+    person:Corporal C Blackadder (award) (89,62)
+    person:C Blackadder (award) (71,62)
+    person:W Pilton (award) (71,66)
+    person:W Pilton (award) (86,67)
+    person:Sapper M Walton (award) (88,70)
+    person:Sapper M Walton (award) (72,70)
+    place:Ecurie (7,81)
+    activity:repair (23,82)
+    gridRef:B_14_A_9_5 (55,86)
+    gridRef:B_14_A_7_4 (64,86)
+    gridRef:B_14_B_0_5 (53,90)
+Page 445 (type diary) http://wd3.herokuapp.com/pages/AWD0002306  ----------
+  1 Sep 1917 0
+    place:Nine Elms (35,30)
+    activity:construction (22,30)
+    place:Ecurie (6,31)
+    place:Tommy Alley (44,33)
+    activity:repair (28,35)
+    place:Tired Alley (68,36)
+    place:Tommy Alley (60,37)
+    activity:construction (22,45)
+    person:Sapper F Browne (73,50)
+    activity:construction (21,50)
+    person:Lance Corporal E Kitchen (departed_sick) (58,52)
+    person:Lance Corporal E Kitchen (casualty_wounded) (80,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (85,54)
+    person:Driver S Reynolds (departed_sick) (58,57)
+    person:Driver S Reynolds (casualty_wounded) (74,58)
+    place:Nine Elms (55,61)
+    domestic:accomodation (42,61)
+    place:Nine Elms (6,62)
+    activity:movement (29,62)
+    place:Ecurie (5,63)
+    place:Ecurie (52,65)
+    place:Nine Elms (57,69)
+    activity:construction (22,70)
+    place:Roclincourt (50,76)
+    gridRef:T_29_D_3_9 (53,82)
+Page 446 (type diary) http://wd3.herokuapp.com/pages/AWD000230w  ----------
+  Hashtags: #nominalroll 
+  1 Sep 1917 0
+    place:Ecurie (6,30)
+    activity:construction (21,30)
+    unit:59 Field Coy. R. E. (56,50)
+    unit:59 field coy ne (53,51)
+    place:Maroeuil (8,59)
+    person:Corporal Darby (promotion) (79,61)
+    person:Corporal Darby (promotion) (65,62)
+    place:Maroeuil (38,62)
+    person:Corporal Barnet (promotion) (76,64)
+    person:Corporal Pilton (promotion) (79,65)
+    person:Campbell (promotion) (83,67)
+    person:Garbett (promotion) (74,70)
+    person:Bell (promotion) (76,73)
+    person:Morris (promotion) (76,77)
+    person:Corporal Callan (casualty_wounded) (81,79)
+Page 447 (type diary) http://wd3.herokuapp.com/pages/AWD000231x  ----------
+  1 Sep 1917 0
+    place:Maroeuil (7,30)
+    person:Sapper H Morris (departed_sick) (86,34)
+    activity:construction (24,34)
+    person:Driver W Brown (joined) (81,39)
+    activity:movement (59,47)
+    person:Lieutenant Dundon (commander) (44,50)
+    place:Bethune (44,53)
+    activity:resting (29,54)
+    activity:movement (32,58)
+    place:Gorre (7,62)
+    activity:construction (25,62)
+Page 448 (type ) http://wd3.herokuapp.com/pages/AWD000230t  ----------
+  1 Sep 1917 0
+Page 449 (type other) http://wd3.herokuapp.com/pages/AWD000231s  ----------
+  Hashtags: #map 
+Page 450 (type orders) http://wd3.herokuapp.com/pages/AWD0002302  ----------
+  1 Sep 1917 0
+    reference:Instructions for Movement (43,16)
+    date:15 Apr 1917 (35,66)
+Page 451 (type orders) http://wd3.herokuapp.com/pages/AWD00022zr  ----------
+  1 Sep 1917 0
+    date:18 Jun 1917 (59,11)
+    reference: (38,50)
+Page 452 (type orders) http://wd3.herokuapp.com/pages/AWD00022zl  ----------
+  1 Sep 1917 0
+    reference:6th Inf. Bde Order No. 288 (50,11)
+    person:Captain Wright (commander) (54,39)
+    reference:Brigade Order No 288 cont (49,7)
+    orders:move (42,9)
+Page 453 (type orders) http://wd3.herokuapp.com/pages/AWD0002311  ----------
+  1 Sep 1917 0
+    reference:Brigade Order No 288 cont (50,11)
+    date:18 Jun 1917 (59,12)
+    person:Brigadier General R M Walsh (commander) (56,51)
+    person:Brigadier General R O Kellett (commander) (56,62)
+    person:Brigadier General G M Bullen-Smith (commander) (57,75)
+Page 454 (type orders) http://wd3.herokuapp.com/pages/AWD00022yi  ----------
+  1 Sep 1917 0
+    person:Major W Wilson (53,27)
+    reference:2nd Div Order No 252 cont (50,5)
+Page 455 (type orders) http://wd3.herokuapp.com/pages/AWD0002323  ----------
+  1 Sep 1917 0
+    date:17 Jun 1917 (37,84)
+Page 456 (type orders) http://wd3.herokuapp.com/pages/AWD0002319  ----------
+  1 Sep 1917 0
+    person:Captain Wright (56,79)
+    reference:6th Inf. Brigade Order No 257 (46,8)
+    date:18 Jun 1917 (35,82)
+Page 457 (type cover)
+Page 458 (type diary) http://wd3.herokuapp.com/pages/AWD000230f  ----------
+  Hashtags: #watersupply 
+  1 Sep 1917 0
+    place:Gorre (7,29)
+    activity:repair (45,35)
+    unit:13 Essex (31,57)
+    unit:1 Kings (49,57)
+    person:Captain H K Murray (departed_posted) (71,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (81,90)
+Page 459 (type diary) http://wd3.herokuapp.com/pages/AWD000230z  ----------
+  Hashtags: #gas #watersupply 
+  1 Sep 1917 0
+    activity:repair (26,34)
+    unit:7 Pioneers (57,38)
+    person:Lance Corporal W Morris (departed_posted) (63,41)
+    activity:construction (22,49)
+    person:Sergeant P Campbell (casualty_wounded) (78,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (89,53)
+    person:Major E A Robinson (departed_training) (30,54)
+    person:Sapper A Cocking (departed_sick) (72,59)
+    person:Sapper V C Baker (casualty_wounded) (75,62)
+    activity:construction (24,62)
+    person:Lance Corporal W Morris (80,65)
+    person:D Callan (casualty_wounded) (73,68)
+    person:Lance Corporal F Garbett (promotion) (76,74)
+    activity:repair (22,75)
+    person:R Bell (promotion) (80,76)
+Page 460 (type diary) http://wd3.herokuapp.com/pages/AWD00022z6  ----------
+  Hashtags: #watersupply #alliedrelations 
+  1 Sep 1917 0
+    activity:construction (22,30)
+    place:Gorre (30,37)
+    activity:construction (22,50)
+    place:Moat Farm Redoubt (20,53)
+    place:Picadilly (52,64)
+    place:School House (65,64)
+    place:Upper Cut (59,65)
+    person:Major E A Robinson (73,70)
+    person:Driver S Reynolds (returned_posted) (72,75)
+Page 461 (type diary) http://wd3.herokuapp.com/pages/AWD00022zx  ----------
+  Hashtags: #alliedrelations #watersupply 
+  1 Sep 1917 0
+    activity:construction (24,30)
+    place:Kings Road (38,30)
+    place:Gorre (6,31)
+    person:Major E A Robinson (other) (57,33)
+    place:Herts Redoubt (34,34)
+    activity:construction (23,38)
+    person:Lance Corporal G Sinclair (promotion) (61,41)
+    place:The Avenue (23,42)
+    person:E Kitchen (departed_sick) (64,45)
+    activity:construction (22,50)
+    person:Sapper J Moss (casualty_wounded) (63,52)
+    place:Clargate St (34,54)
+    person:W Morris (returned_hospital) (60,57)
+    activity:construction (23,62)
+    unit:1 Portugese Division (83,65)
+    place:Festubert (31,65)
+    place:Epinette (39,66)
+    unit:Portuguese Field Company (24,70)
+    place:Le Plantin (73,73)
+    activity:construction (22,74)
+    place:Givenchy Keep (26,74)
+    place:Newcot (75,75)
+    place:Ware Road (38,77)
+    place:Grenadier Road (46,77)
+    place:Kilby Walk (57,77)
+    place:Half Moon Trench (64,77)
+    place:Moat Farm Redoubt (24,78)
+    gridRef:S_25_B_7_1 (51,81)
+    place:Shetland Trench (26,81)
+    place:Cailloux Keeps (34,81)
+    place:Festubert (47,81)
+    place:Picadilly (39,83)
+    place:Wolfe Road (24,85)
+    place:Pilgrim's Walk (45,85)
+    place:The Avenue (63,85)
+    unit:19 re (82,88)
+Page 462 (type diary) http://wd3.herokuapp.com/pages/AWD00022zn  ----------
+  1 Sep 1917 0
+    place:Gorre (6,30)
+    activity:construction (23,31)
+    activity:repair (24,36)
+    activity:construction (22,46)
+    place:Ware Road (46,49)
+    place:Kilby Walk (64,49)
+    person:Sapper G Dorey (83,49)
+    place:Le Plantin (38,50)
+    place:Grenadier Road (54,50)
+    place:Half Moon Trench (24,53)
+    place:New Cut (34,53)
+    place:Pilgrim's Walk (42,54)
+    activity:construction (20,57)
+    activity:construction (22,66)
+    place:Lambeth Road (63,68)
+    activity:construction (21,76)
+    person:Sapper S Wiles (departed_posted) (63,77)
+Page 463 (type diary) http://wd3.herokuapp.com/pages/AWD00022zp  ----------
+  1 Sep 1917 0
+    activity:construction (22,30)
+    place:Shetland Trench (25,33)
+    place:Festubert (35,33)
+    place:Suez Canal (22,37)
+    place:Locon (62,37)
+    place:Givenchy Keep (31,38)
+    place:Lambeth Road (46,38)
+    place:Moat Farm (24,41)
+    place:Gorre (60,41)
+    place:Picadilly (31,45)
+    place:School House (36,45)
+    place:Wolfe Road (47,45)
+    activity:construction (22,57)
+    activity:repair (22,61)
+    person:Second Corporal J Craker (casualty_wounded) (83,62)
+    activity:construction (21,70)
+    person:Driver Stanley (returned_hospital) (81,70)
+    activity:construction (22,77)
+    activity:construction (23,89)
+Page 464 (type cover)
+Page 465 (type diary) http://wd3.herokuapp.com/pages/AWD000231r  ----------
+  1 Sep 1917 0
+    place:Gorre (7,32)
+    place:Gorre (7,36)
+    place:Moat Farm (32,45)
+    place:Givenchy Keep (48,45)
+    place:Shetland Road (26,62)
+    place:Wolffe Road (23,66)
+    place:La Quinque Rue (66,68)
+Page 466 (type diary) http://wd3.herokuapp.com/pages/AWD0002304  ----------
+  1 Sep 1917 0
+    activity:construction (20,23)
+    activity:construction (25,37)
+    activity:construction (23,46)
+Page 467 (type diary) http://wd3.herokuapp.com/pages/AWD000231l  ----------
+  Hashtags: #mine 
+  1 Sep 1917 0
+    place:Duck's Bill (42,25)
+    place:Wolffe Road (75,25)
+    activity:fire (64,26)
+    activity:repair (34,31)
+    place:Festubert Keep (52,43)
+    activity:construction (26,48)
+    activity:construction (23,56)
+    activity:construction (23,68)
+    place:New Rose Trench (40,75)
+    activity:repair (26,76)
+    place:Cheshire Road (44,78)
+    activity:construction (23,87)
+Page 468 (type diary) http://wd3.herokuapp.com/pages/AWD0002321  ----------
+  Hashtags: #watersupply 
+  14 Aug 1917 22
+    activity:repair (54,26)
+    activity:construction (24,33)
+  15 Aug 1917 40
+    unit:3 field company (23,42)
+    activity:construction (26,55)
+    activity:repair (38,60)
+  16 Aug 1917 62
+    activity:construction (21,66)
+    place:Givenchy Keep (60,68)
+    place:Grenadier Road (84,69)
+    place:Moat Farm (53,72)
+    place:Shetland Road (60,76)
+    place:New Rose Street (69,80)
+Page 469 (type diary) http://wd3.herokuapp.com/pages/AWD000230b  ----------
+  Hashtags: #alliedrelations 
+  17 Aug 1917 21
+    place:Cheshire Brook (70,24)
+    place:Suez Canal (22,25)
+    unit:3 field company (62,31)
+    unit:3 Field Coy C.E.P. (57,33)
+    place:Festubert (23,33)
+  18 Aug 1917 47
+    activity:repair (25,63)
+    place:Gorre (45,63)
+  19 Aug 1917 67
+    activity:repair (59,75)
+    activity:construction (65,75)
+  20 Aug 1917 80
+    activity:construction (21,86)
+    activity:repair (25,86)
+Page 470 (type diary) http://wd3.herokuapp.com/pages/AWD0002309  ----------
+  Hashtags: #watersupply 
+  21 Aug 1917 21
+    place:Marie Redoubt (77,24)
+    activity:repair (24,26)
+    activity:construction (41,31)
+  22 Aug 1917 38
+    activity:construction (24,44)
+    domestic:inspections (72,48)
+  23 Aug 1917 56
+    activity:fire (57,63)
+    activity:repair (74,63)
+  24 Aug 1917 72
+    activity:repair (24,77)
+    place:Ware Road (42,80)
+  25 Aug 1917 83
+    activity:repair (56,87)
+Page 471 (type diary) http://wd3.herokuapp.com/pages/AWD000231e  ----------
+  Hashtags: #gas #watersupply 
+  26 Aug 1917 21
+  27 Aug 1917 29
+    place:Festubert East Keep (34,33)
+    activity:repair (26,34)
+    place:Cailloux North (38,38)
+  28 Aug 1917 43
+    activity:repair (27,44)
+    activity:construction (23,48)
+    place:Festubert (33,48)
+  29 Aug 1917 55
+    activity:repair (29,57)
+  30 Aug 1917 68
+    activity:repair (29,69)
+    activity:construction (24,73)
+    unit:483 R A Field Company (59,78)
+    unit:483 East Anglian Field Company (60,78)
+  31 Aug 1917 82
+    activity:repair (27,86)
+    place:Hatfield Road (27,89)
+Page 472 (type other) http://wd3.herokuapp.com/pages/AWD00022zo  ----------
+  Hashtags: #map 
+Page 473 (type other) http://wd3.herokuapp.com/pages/AWD0002320  ----------
+  Hashtags: #map 
+Page 474 (type other) http://wd3.herokuapp.com/pages/AWD00022ym  ----------
+  31 Aug 1917 0
+    reference:154 (21,10)
+    title:Field Return (44,11)
+    date:11 Aug 1917 (82,16)
+Page 475 (type ) http://wd3.herokuapp.com/pages/AWD00022za  ----------
+  Hashtags: #story #aeroplane #nominalroll 
+  31 Aug 1917 0
+    person:Second Lieutenant A R Stoner (departed_leave) (33,21)
+    person:Second Lieutenant Stoner (returned_leave) (42,21)
+    person:Second Lieutenant N A Coxwell Rogers (joined) (36,24)
+    person:Second Lieutenant E Downes (returned_posted) (36,29)
+    person:Lieutenant H F G Greenwood (joined) (41,32)
+    person:Lieutenant H F G Greenwood (32,32)
+    person:Second Lieutenant W E Oliver (departed_posted) (37,35)
+    person:Sapper E Saxon (casualty_wounded) (36,37)
+    person:Sapper R Webb (departed_sick) (37,40)
+    person:Sapper J Carline (joined) (39,42)
+    person:Captain H Kingstone Murray (other) (39,45)
+    person:Sapper T G Smith (40,50)
+    person:Private G Smith (other) (37,58)
+    person:Corporal C Jennings (other) (38,63)
+    person:Sapper D S Hill (casualty_wounded) (38,68)
+    person:Driver T Geoghegan (departed_sick) (37,71)
+    person:Sapper D Dennahy (joined) (38,74)
+    person:Sapper J Moss (joined) (38,78)
+    person:Sapper J Wilson (casualty_wounded) (38,81)
+    person:Driver A Gough (other) (38,84)
+Page 476 (type ) http://wd3.herokuapp.com/pages/AWD00022z7  ----------
+  Hashtags: #duplicate 
+  31 Aug 1917 0
+Page 477 (type signals) http://wd3.herokuapp.com/pages/AWD000231f  ----------
+  Hashtags: #duplicate 
+  31 Aug 1917 0
+Page 478 (type other) http://wd3.herokuapp.com/pages/AWD000231v  ----------
+  31 Aug 1917 0
+    title:Field Return (45,10)
+    date:25 Aug 1917 (78,15)
+Page 479 (type diary) http://wd3.herokuapp.com/pages/AWD00022ys  ----------
+  Hashtags: #nominalroll 
+  31 Aug 1917 0
+    person:Sapper J Nicol (departed_sick) (39,22)
+    person:Sapper F J Scotson (departed_sick) (41,24)
+    person:Driver E Ball (departed_sick) (40,27)
+    person:Major E A Robinson (departed_sick) (40,32)
+    person:Corporal C Blackburn (departed_sick) (43,34)
+    person:Driver E Ball (returned_hospital) (41,37)
+    person:Sapper A Higgins (other) (40,42)
+    person:Sapper V C Baker (joined) (41,45)
+    person:Sapper H Latham (other) (41,48)
+Page 480 (type other) http://wd3.herokuapp.com/pages/AWD000230r  ----------
+  Hashtags: #duplicate 
+  31 Aug 1917 0
+Page 481 (type report) http://wd3.herokuapp.com/pages/AWD0002314  ----------
+  Hashtags: #duplicate 
+  31 Aug 1917 0
+    date:21 Aug 1917 (54,21)
+Page 482 (type cover)
+Page 483 (type diary) http://wd3.herokuapp.com/pages/AWD00022yl  ----------
+  1 Sep 1917 22
+    place:Marie Redoubt (31,30)
+    place:Hilder Redoubt (24,31)
+    place:Gorre (6,34)
+    place:Givenchy Keep (25,39)
+    activity:repair (27,40)
+    place:Grenadier Road (25,52)
+    activity:construction (32,61)
+    place:Wolffe Road (25,75)
+    place:Hatfield Road (27,79)
+    place:Gunner Siding (24,84)
+Page 484 (type diary) http://wd3.herokuapp.com/pages/AWD0002322  ----------
+  Hashtags: #alliedrelations 
+  2 Sep 1917 22
+    unit:Portugese (54,24)
+    activity:construction (24,25)
+    place:Givenchy (5,32)
+    unit:Portugese (70,49)
+  3 Sep 1917 58
+    activity:construction (25,61)
+    activity:repair (23,67)
+  4 Sep 1917 72
+    activity:repair (24,77)
+    activity:construction (63,80)
+Page 485 (type diary) http://wd3.herokuapp.com/pages/AWD000230k  ----------
+  Hashtags: #watersupply #equipmentevaluation 
+  5 Sep 1917 20
+    activity:repair (32,26)
+    place:Shetland Trench (28,26)
+    place:Givenchy Sector (4,29)
+    place:Givenchy (5,33)
+    place:Festubert (47,35)
+    activity:construction (25,45)
+  6 Sep 1917 51
+    activity:repair (27,54)
+    activity:construction (23,57)
+  7 Sep 1917 63
+  8 Sep 1917 81
+    activity:repair (24,86)
+Page 486 (type diary) http://wd3.herokuapp.com/pages/AWD0002310  ----------
+  Hashtags: #musketrycompetition #leisure 
+  9 Sep 1917 22
+    unit:483 Field Coy Royal Engineers (84,28)
+    person:Lieutenant Stoner (commander) (41,28)
+    place:Givenchy (6,32)
+    unit:483 East Anglian Field Company (25,33)
+    activity:repair (53,36)
+  10 Sep 1917 45
+    activity:training (54,46)
+    activity:construction (26,51)
+  11 Sep 1917 62
+    place:Givenchy (6,64)
+    activity:repair (45,65)
+    domestic:sport (43,73)
+  12 Sep 1917 74
+  13 Sep 1917 81
+    activity:repair (36,85)
+    activity:construction (27,87)
+Page 487 (type diary) http://wd3.herokuapp.com/pages/AWD0002303  ----------
+  Hashtags: #musketrycompetition #leisure #watersupply 
+  14 Sep 1917 21
+    activity:construction (22,26)
+  15 Sep 1917 31
+    activity:construction (39,37)
+    activity:repair (22,42)
+  16 Sep 1917 46
+    place:Tuning Fork (54,50)
+    activity:repair (23,55)
+    activity:construction (33,55)
+    domestic:sport (46,59)
+  17 Sep 1917 65
+    gridRef:F_4_B_3_0 (52,68)
+    activity:construction (20,68)
+    activity:repair (23,72)
+    activity:construction (33,74)
+  18 Sep 1917 76
+    place:Givenchy (48,84)
+  19 Sep 1917 86
+Page 488 (type diary) http://wd3.herokuapp.com/pages/AWD00022ze  ----------
+  Hashtags: #watersupply 
+  19 Sep 1917 0
+    unit:99 infantry Brigade (44,21)
+  20 Sep 1917 23
+    unit:6 infantry Brigade (19,23)
+    place:Givenchy (7,29)
+    unit:483 East Anglian Field Company (51,30)
+    unit:483 e anglican f coy (59,30)
+    place:Givenchy Sector (6,31)
+    activity:repair (24,42)
+    place:Gorre Chateau (51,45)
+    activity:repair (27,50)
+    place:New Cut (58,50)
+    place:Grenadier Road (68,52)
+    place:New Rose St (79,53)
+    place:The Avenue (25,54)
+    place:Canal Bank (47,54)
+    place:Westminster Bridge (59,56)
+    activity:repair (31,59)
+    place:Hatfield Road (62,60)
+    place:Hitchen Road (72,60)
+    place:Upper Cut (34,61)
+    place:Wolfe Road (83,61)
+    place:Upper Cut (57,63)
+    place:Givenchy (45,65)
+    place:Shetland Road (61,69)
+    place:Pioneer Road (51,70)
+    place:Le Plantin (37,73)
+    place:Tuning Fork (69,73)
+  21 Sep 1917 75
+    place:Cheshire Road (32,78)
+    place:Ware Road (51,79)
+    place:King's Road (35,83)
+  22 Sep 1917 84
+Page 489 (type diary) http://wd3.herokuapp.com/pages/AWD00022z8  ----------
+  23 Sep 1917 23
+    place:Short Street (50,25)
+    activity:construction (20,26)
+    activity:repair (26,26)
+    place:Givenchy Sector (6,29)
+  24 Sep 1917 33
+    place:Gorre (50,38)
+    activity:construction (21,38)
+    place:Le Plantin (25,44)
+  25 Sep 1917 45
+    place:Upper Cut (34,49)
+    activity:construction (22,50)
+    activity:repair (42,50)
+  26 Sep 1917 54
+    activity:construction (22,58)
+  27 Sep 1917 60
+    activity:construction (22,64)
+  28 Sep 1917 66
+    unit:6 Brigade (40,69)
+    place:Tuning Fork (67,71)
+    activity:construction (22,71)
+  29 Sep 1917 75
+    activity:construction (22,79)
+  30 Sep 1917 83
+    activity:construction (21,86)
+    place:King's Road (26,87)
+    person:Lieutenant W Hasted (author) (83,92)
+Page 490 (type orders) http://wd3.herokuapp.com/pages/AWD000230v  ----------
+  30 Sep 1917 0
+    person:Major Robinson (commander) (52,93)
+    date:18 Sep 1917 (36,97)
+Page 491 (type other) http://wd3.herokuapp.com/pages/AWD000231p  ----------
+Page 492 (type other) http://wd3.herokuapp.com/pages/AWD00022zf  ----------
+  Hashtags: #faint 
+Page 493 (type other) http://wd3.herokuapp.com/pages/AWD000231u  ----------
+  30 Sep 1917 0
+Page 494 (type other) http://wd3.herokuapp.com/pages/AWD00022yh  ----------
+  30 Sep 1917 0
+Page 495 (type report) http://wd3.herokuapp.com/pages/AWD000230m  ----------
+  30 Sep 1917 0
+    date:8 Sep 1917 (56,11)
+    person:Sapper W Turner (other) (39,20)
+    person:Sergeant C W Barnett (other) (39,26)
+    person:Lance Corporal G Sinclair (departed_sick) (41,34)
+    person:Driver G Mann (departed_sick) (40,36)
+    person:Major E A Robinson (returned_hospital) (40,39)
+    person:Driver G Mann (returned_hospital) (40,42)
+    person:Corporal J Hinkley (joined) (41,44)
+    person:Corporal Blackburn (other) (45,44)
+    person:Major E A Robinson (promotion) (42,47)
+    person:Second Lieutenant N A Coxwell Rogers (promotion) (36,49)
+    person:Second Lieutenant W F Hasted (promotion) (35,51)
+    person:Captain H F G Greenwood (departed_leave) (36,54)
+    person:Sapper E Harlow (joined) (38,57)
+    person:Sapper W Wisbey (departed_sick) (37,60)
+    person:Sapper F J Scotson (returned_hospital) (38,62)
+    person:Company Sergeant Major A Cousins (40,65)
+    person:Sapper A Jopling (38,70)
+    person:Sapper W Wisbey (returned_hospital) (38,75)
+    person:Sapper R Rayner (departed_posted) (38,80)
+Page 496 (type other) http://wd3.herokuapp.com/pages/AWD000232i  ----------
+  Hashtags: #map 
+Page 497 (type other) http://wd3.herokuapp.com/pages/AWD00022zw  ----------
+  Hashtags: #map 
+Page 498 (type cover)
+Page 499 (type diary) http://wd3.herokuapp.com/pages/AWD000231z  ----------
+  Hashtags: #watersupply 
+  1 Oct 1917 24
+    place:Grenadier Road (69,41)
+    activity:repair (34,44)
+    place:The Avenue (35,46)
+    place:Westminster Bridge (76,46)
+    place:Pioneer Road (43,56)
+    place:Shetland Road (54,56)
+    place:Le Plantin (37,61)
+    place:Hatfield Road (53,67)
+    place:Hitchen Road (67,67)
+    place:Givenchy (75,76)
+  2 Oct 1917 82
+    activity:repair (22,86)
+  4 Oct 1917 89
+Page 500 (type diary) http://wd3.herokuapp.com/pages/AWD000231b  ----------
+  5 Oct 1917 21
+    unit:130 field co R E (49,21)
+    unit:130 Field Coy R. E., 25 Division (49,26)
+    unit:130 Field Co. R.E. 25 Division. (41,27)
+  6 Oct 1917 37
+    activity:movement (24,42)
+    person:Lieutenant Dundun (commander) (51,45)
+    person:Lieutenant Downes (commander) (43,50)
+  7 Oct 1917 51
+    domestic:accomodation (45,56)
+  8 Oct 1917 60
+    activity:training (28,63)
+    domestic:sport (79,63)
+    activity:training (58,64)
+  9 Oct 1917 74
+    activity:training (23,78)
+  10 Oct 1917 82
+    activity:training (24,87)
+    domestic:sport (51,91)
+Page 501 (type diary) http://wd3.herokuapp.com/pages/AWD000231a  ----------
+  Hashtags: #race #leisure 
+  10 Oct 1917 0
+    unit:5 Field Corps (75,14)
+  11 Oct 1917 22
+    activity:training (33,27)
+    domestic:sport (34,39)
+  12 Oct 1917 41
+    activity:training (28,46)
+    domestic:sport (83,50)
+  13 Oct 1917 57
+    activity:training (26,62)
+    domestic:sport (69,65)
+    domestic:sport (58,65)
+  14 Oct 1917 70
+    domestic:religion (33,75)
+    domestic:sport (63,75)
+    domestic:sport (55,76)
+  15 Oct 1917 80
+    domestic:sport (77,83)
+    activity:training (24,84)
+Page 502 (type diary) http://wd3.herokuapp.com/pages/AWD00022zk  ----------
+  16 Oct 1917 21
+    place:In The Field (7,26)
+    domestic:inspections (35,26)
+    activity:training (48,26)
+    domestic:sport (47,38)
+  17 Oct 1917 41
+    activity:training (25,46)
+    domestic:sport (70,47)
+    domestic:sport (60,48)
+  18 Oct 1917 53
+    activity:training (24,58)
+  19 Oct 1917 76
+    activity:training (31,81)
+Page 503 (type diary) http://wd3.herokuapp.com/pages/AWD00022zg  ----------
+  Hashtags: #leisure #riflecompetition #hockey 
+  19 Oct 1917 0
+    unit:1 Army Rifle School (83,21)
+  20 Oct 1917 22
+    activity:construction (68,25)
+    activity:movement (28,26)
+    person:Lieutenant Downes (commander) (38,40)
+    person:Lieutenant Dundun (commander) (52,40)
+    activity:training (25,45)
+  21 Oct 1917 54
+    activity:training (32,59)
+  22 Oct 1917 64
+    place:Auchel (76,64)
+    domestic:sport (61,67)
+    domestic:sport (43,69)
+  23 Oct 1917 80
+    activity:training (31,86)
+    domestic:sport (71,91)
+Page 504 (type diary) http://wd3.herokuapp.com/pages/AWD000231q  ----------
+  Hashtags: #leisure #hockey 
+  23 Oct 1917 0
+  24 Oct 1917 22
+    person:Lieutenant Hame (returned_leave) (23,27)
+    person:Captain Greenwood (returned_leave) (37,27)
+    activity:training (45,31)
+    domestic:inspections (55,36)
+    domestic:sport (26,40)
+    domestic:sport (30,43)
+  25 Oct 1917 44
+    activity:training (24,50)
+    person:Lieutenant Dundun (other) (40,59)
+    person:Lieutenant Hame (other) (22,60)
+  26 Oct 1917 64
+    unit:2 Division R A (62,70)
+    person:Lieutenant Hasted (departed_posted) (23,70)
+    activity:line (58,75)
+    activity:training (68,78)
+Page 505 (type diary) http://wd3.herokuapp.com/pages/AWD00022yq  ----------
+  Hashtags: #paperchase #leisure 
+  27 Oct 1917 21
+    person:Major Robinson (other) (53,25)
+    person:Captain Greenwood (other) (70,26)
+    domestic:sport (39,27)
+  28 Oct 1917 45
+    activity:training (24,50)
+    domestic:inspections (59,55)
+  29 Oct 1917 59
+    domestic:sport (28,66)
+    activity:training (24,78)
+  30 Oct 1917 85
+    activity:training (24,90)
+Page 506 (type diary) http://wd3.herokuapp.com/pages/AWD00022zj  ----------
+  31 Oct 1917 22
+    activity:training (38,26)
+    domestic:sport (58,37)
+Page 507 (type other) http://wd3.herokuapp.com/pages/AWD00022yo  ----------
+  31 Oct 1917 0
+Page 508 (type other) http://wd3.herokuapp.com/pages/AWD000231h  ----------
+  31 Oct 1917 0
+Page 509 (type ) http://wd3.herokuapp.com/pages/AWD0002329  ----------
+  Hashtags: #nominalroll 
+  31 Oct 1917 0
+    person:Corporal C Blackburn (returned_hospital) (36,20)
+    person:Corporal C Jenkins (joined) (36,23)
+    person:Lance Corporal D Kimber (promotion) (37,31)
+    person:Driver H Newton (departed_sick) (38,38)
+    person:Sergeant J Campbell (joined) (39,41)
+    person:Corporal E Esau (promotion) (39,44)
+    person:Sapper J Carline (departed_sick) (37,49)
+    person:Corporal W Morris (departed_sick) (38,52)
+    person:D Kimber (departed_sick) (38,54)
+    person:Sapper G W Thornton (other) (37,57)
+    person:Captain H F G Greenwood (returned_leave) (40,60)
+    person:Sapper T Bailey (departed_sick) (40,64)
+    person:Sapper A Burrows (departed_sick) (38,67)
+    person:Sapper Hatherley (departed_sick) (39,70)
+Page 510 (type cover)
+Page 511 (type diary) http://wd3.herokuapp.com/pages/AWD00022zm  ----------
+  Hashtags: #paperchase #leisure 
+  1 Nov 1917 22
+    place:Choques (6,25)
+    activity:training (28,26)
+    domestic:sport (26,27)
+    domestic:sport (73,31)
+    domestic:sport (68,31)
+  2 Nov 1917 34
+    place:Choques (6,37)
+    domestic:inspections (23,39)
+    domestic:hygiene (48,43)
+  3 Nov 1917 48
+    place:Choques (6,52)
+    domestic:inspections (53,53)
+  4 Nov 1917 61
+    place:Choques (7,65)
+    place:Poperinghe (41,66)
+    activity:movement (24,67)
+    place:Choques (74,68)
+    activity:movement (64,69)
+  5 Nov 1917 78
+    place:Choques (8,81)
+    person:Lieutenant Hame (other) (60,82)
+    place:Poperinghe (40,82)
+    place:Brielen (50,82)
+    activity:movement (33,82)
+    place:Eecke (66,88)
+Page 512 (type diary) http://wd3.herokuapp.com/pages/AWD000230a  ----------
+  6 Nov 1917 22
+    place:Brielen (6,26)
+    activity:fire (28,31)
+    place:Passchendaele (38,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,36)
+    person:Lieutenant Stoner (departed_leave) (54,46)
+  7 Nov 1917 49
+    place:Brielen (7,52)
+    activity:construction (24,54)
+  8 Nov 1917 62
+    place:Brielen (7,67)
+    activity:construction (23,67)
+  9 Nov 1917 75
+    place:Brielen (7,79)
+    activity:fire (53,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,92)
+Page 513 (type diary) http://wd3.herokuapp.com/pages/AWD000230j  ----------
+  11 Nov 1917 22
+    activity:construction (29,26)
+    place:Brielen (7,26)
+  12 Nov 1917 38
+    activity:construction (24,42)
+    place:Brielen (6,43)
+  13 Nov 1917 50
+    place:Brielen (6,54)
+    activity:construction (23,56)
+  14 Nov 1917 59
+    activity:construction (29,63)
+    place:Brielen (6,63)
+  15 Nov 1917 69
+    activity:construction (23,73)
+    place:Brielen (6,73)
+  16 Nov 1917 75
+    place:Brielen (7,79)
+    activity:construction (23,80)
+  17 Nov 1917 84
+    place:Brielen (7,87)
+    activity:construction (29,89)
+Page 514 (type diary) http://wd3.herokuapp.com/pages/AWD00022yt  ----------
+  18 Nov 1917 23
+    activity:construction (23,26)
+    place:Brielen (6,27)
+  19 Nov 1917 33
+    place:Brielen (7,37)
+    activity:other (24,38)
+  20 Nov 1917 45
+    activity:movement (23,50)
+    place:Poperinghe (5,50)
+    place:Poperinghe (36,51)
+    person:Lieutenant Hasted (other) (45,51)
+    place:Poperinghe (69,54)
+    activity:movement (24,56)
+    domestic:accomodation (27,60)
+  21 Nov 1917 62
+    person:Lieutenant Hasted (other) (68,66)
+    activity:movement (25,67)
+    place:Houtkerque (42,67)
+    place:Houtkerque (5,67)
+    domestic:accomodation (30,76)
+  22 Nov 1917 81
+    place:Houtkerque (7,86)
+    domestic:inspections (43,86)
+    domestic:sport (54,93)
+Page 515 (type diary) http://wd3.herokuapp.com/pages/AWD000230i  ----------
+  23 Nov 1917 23
+    place:Proven (53,26)
+    activity:movement (38,26)
+    place:Houtekerque (7,28)
+    person:Lieutenant Dundun (other) (46,33)
+    place:Proven (67,37)
+  24 Nov 1917 47
+    place:Rocquigny (7,51)
+    place:Rocquigny (80,53)
+    activity:movement (57,59)
+    place:Bihucourt (45,64)
+    place:Bapaume (54,64)
+    place:Rocquigny (64,64)
+    place:Doignes (61,71)
+  25 Nov 1917 79
+    place:Doignes (8,82)
+    place:Doignes (43,83)
+    activity:movement (34,83)
+    place:Doignes (74,86)
+    place:Demicourt (56,89)
+    mapRef:57.C N.E. (France Edition 7A) (51,93)
+    person:Lieutenant Downes (other) (58,96)
+Page 516 (type diary) http://wd3.herokuapp.com/pages/AWD00022yr  ----------
+  Hashtags: #roadscondition 
+  25 Nov 1917 23
+    activity:repair (65,25)
+    activity:construction (51,26)
+    place:Graincourt (40,26)
+    place:Doignes (7,28)
+    place:Doignes (36,37)
+  26 Nov 1917 40
+    activity:repair (23,45)
+  27 Nov 1917 50
+    place:Bapaume (38,54)
+    gridRef:K_1_A_10_3 (37,58)
+    gridRef:K_1_A_10_4 (21,62)
+    gridRef:K_1_B_9_6 (26,63)
+    activity:working (48,63)
+    place:Bapaume (54,63)
+    unit:252 A. T. Coy. R. E. (48,75)
+    unit:252 at coy r e (42,76)
+    unit:226 field coy re (80,78)
+    unit:220 Field Coy. R. E. (83,78)
+    place:Demicourt (84,81)
+    unit:483 Field Coy. R. E. (35,85)
+    unit:483 field coy re (27,86)
+Page 517 (type diary) http://wd3.herokuapp.com/pages/AWD00022yx  ----------
+  27 Nov 1917 0
+    place:Doignes (5,26)
+    activity:working (21,27)
+    place:Doignes (6,33)
+    place:Hermies (5,39)
+    activity:movement (22,41)
+    activity:fire (52,41)
+    unit:Guards Division. (51,46)
+Page 518 (type report) http://wd3.herokuapp.com/pages/AWD00022zy  ----------
+  27 Nov 1917 0
+    title:Field Return (45,10)
+    reference:Report 169 (8,11)
+Page 519 (type report) http://wd3.herokuapp.com/pages/AWD000231j  ----------
+  Hashtags: #nominalroll 
+  27 Nov 1917 0
+    person:Sapper T Bailey (departed_sick) (39,21)
+    person:Sapper A Burrows (departed_sick) (41,24)
+    person:Sapper A Hatherley (departed_sick) (40,27)
+    person:Lieutenant G H Dundon (casualty_wounded) (40,29)
+    person:Sergeant E Bowden (casualty_wounded) (40,32)
+    person:Sapper E Surrey (casualty_wounded) (39,34)
+    person:Sapper J Gibbons (casualty_wounded) (40,37)
+    person:Sapper J Stent (casualty_wounded) (38,39)
+    person:Sapper W B Oxby (casualty_wounded) (40,42)
+    person:Lance Corporal A Higgins (41,45)
+    person:Sapper T Bailey (returned_hospital) (40,47)
+    person:Sapper H Bertram (38,49)
+    person:Sapper H Bertram (returned_hospital) (42,50)
+    person:Sapper L Sargood (departed_posted) (39,52)
+    person:Sapper G W Thornton (returned_hospital) (42,55)
+    person:Driver A Stevenson (casualty_wounded) (39,57)
+    person:Sapper H Matthews (casualty_kia) (42,60)
+    person:Sapper C G Smith (casualty_died) (39,63)
+    person:Sapper A Smith (casualty_wounded) (41,65)
+    person:Sapper S Dimes (casualty_wounded) (39,68)
+    person:Sapper H Carter (casualty_wounded) (39,73)
+    person:Sergeant J P Campbell (43,75)
+    person:Sapper F Mortimer (41,80)
+    person:Lance Corporal G Sinclair (joined) (40,83)
+    person:Sapper G Dorey (joined) (42,86)
+    person:Sapper G Alcock (returned_hospital) (39,88)
+    person:Sapper L Sargood (returned_posted) (41,91)
+Page 520 (type cover)
+Page 521 (type diary) http://wd3.herokuapp.com/pages/AWD000232a  ----------
+  1 Dec 1917 22
+    place:Demicourt (54,26)
+    place:Demicourt (5,26)
+    place:Hermies (63,26)
+    mapRef:Demicourt (91,28)
+    activity:reconnoitered (72,29)
+    person:Lieutenant Stoner (other) (40,30)
+    person:Lieutenant Dundon (other) (49,30)
+    mapRef:Demicourt (91,32)
+    gridRef:K_2_D__ (59,35)
+    place:Cambrai (43,36)
+    gridRef:K_2_C_6_8 (63,46)
+    gridRef:K_2_D_2_3 (77,46)
+    gridRef:K_1_B_8_3 (48,47)
+    person:Lieutenant Horsted (22,55)
+    person:Lieutenant Stoner (29,56)
+  2 Dec 1917 62
+    activity:construction (23,67)
+    activity:reconnoitered (69,67)
+    place:Demicourt (6,67)
+    gridRef:E_25_B_9_4 (43,82)
+  3 Dec 1917 84
+    place:Demicourt (7,88)
+    gridRef:E_25__5_6 (65,91)
+    gridRef:E_25_D_10_7 (56,96)
+Page 522 (type diary) http://wd3.herokuapp.com/pages/AWD0002332  ----------
+  4 Dec 1917 21
+    reference:5 Field (74,21)
+    activity:withdraw (40,29)
+    unit:226 Field Company (27,61)
+    activity:repair (64,66)
+    domestic:accomodation (62,92)
+    activity:movement (54,92)
+    gridRef:O_12_A_8_9 (71,93)
+    mapRef:57.C (85,93)
+Page 523 (type diary) http://wd3.herokuapp.com/pages/AWD000231m  ----------
+  5 Dec 1917 22
+    activity:repair (50,25)
+    place:Haplincourt (8,25)
+  6 Dec 1917 34
+    activity:construction (47,39)
+  7 Dec 1917 52
+    activity:repair (34,56)
+  8 Dec 1917 67
+    activity:repair (31,72)
+    activity:construction (38,72)
+  9 Dec 1917 84
+Page 524 (type diary) http://wd3.herokuapp.com/pages/AWD00022z9  ----------
+  10 Dec 1917 22
+    activity:repair (33,26)
+    place:Haplincourt (7,26)
+  11 Dec 1917 34
+    activity:working (26,34)
+    activity:repair (44,40)
+    gridRef:K_8_B_4_0 (40,41)
+    gridRef:K_8_A_5_5 (29,42)
+    activity:working (35,49)
+  12 Dec 1917 50
+    activity:repair (33,54)
+    activity:construction (54,65)
+    gridRef:O_4_B__ (78,68)
+  13 Dec 1917 71
+    activity:reserve (42,75)
+    activity:reserve (46,75)
+    activity:working (74,75)
+    unit:Inf & Labour Battalion (24,78)
+  14 Dec 1917 83
+    activity:construction (25,88)
+Page 525 (type diary) http://wd3.herokuapp.com/pages/AWD000231g  ----------
+  15 Dec 1917 24
+    activity:repair (23,28)
+    place:Haplincourt (6,29)
+  16 Dec 1917 30
+    activity:repair (23,34)
+    activity:construction (34,34)
+  17 Dec 1917 36
+    place:Hermies (44,36)
+    place:Bertincourt (55,36)
+  18 Dec 1917 40
+    activity:repair (23,40)
+    activity:repair (22,44)
+    activity:construction (27,44)
+  19 Dec 1917 45
+    activity:repair (23,49)
+  20 Dec 1917 50
+    activity:movement (46,54)
+    activity:movement (24,55)
+    unit:6 Brigade (44,58)
+    gridRef:J_36_B_7_3 (79,59)
+    gridRef:J_36_B__ (6,60)
+  21 Dec 1917 63
+    activity:repair (64,67)
+    activity:reconnoitered (25,68)
+    activity:repair (23,72)
+    gridRef:J_36_B__ (27,86)
+  22 Dec 1917 87
+    activity:repair (23,91)
+    activity:repair (46,91)
+Page 526 (type diary) http://wd3.herokuapp.com/pages/AWD000230s  ----------
+  22 Dec 1917 21
+  23 Dec 1917 31
+  24 Dec 1917 51
+    activity:repair (24,57)
+    activity:construction (25,57)
+  25 Dec 1917 69
+    activity:fire (68,74)
+    activity:repair (23,75)
+    activity:construction (32,75)
+  26 Dec 1917 81
+    activity:repair (73,86)
+Page 527 (type diary) http://wd3.herokuapp.com/pages/AWD0002324  ----------
+  27 Dec 1917 22
+    place:Bullen Trench (78,24)
+    activity:repair (25,26)
+    unit:483 Field Coy. R. E. (47,30)
+    activity:fire (44,37)
+    unit:Naval Division (66,40)
+  28 Dec 1917 43
+    activity:repair (22,46)
+    activity:construction (29,46)
+    unit:3 Bn. (81,50)
+    unit:1 Brigade (33,56)
+  29 Dec 1917 59
+  30 Dec 1917 65
+  31 Dec 1917 74
+    person:Captain Greenwood (author) (65,94)
+Page 528 (type report) http://wd3.herokuapp.com/pages/AWD000231y  ----------
+  31 Dec 1917 0
+    reference:174 55 field co RE (12,10)
+    date:29 Dec 1917 (83,16)
+Page 529 (type ) http://wd3.herokuapp.com/pages/AWD00022yn  ----------
+  Hashtags: #shellshock #nominalroll 
+  31 Dec 1917 0
+    person:Second Lieutenant B W Hame (casualty_wounded) (38,20)
+    person:Sergeant J P Campbell (returned_hospital) (40,22)
+    person:Corporal F Chilvers (departed_sick) (39,23)
+    person:Lance Corporal N Shackleton (casualty_wounded) (42,24)
+    person:Lance Corporal C Blackburn (casualty_wounded) (38,26)
+    person:Corporal J Hinkley (casualty_wounded) (41,27)
+    person:Lance Corporal M Walton (casualty_wounded) (39,28)
+    person:Sapper C Bushell (casualty_wounded) (41,29)
+    person:Sapper A Cumper (casualty_wounded) (40,31)
+    person:Sapper J Kendall (casualty_wounded) (41,32)
+    person:Sapper H G Smith (casualty_wounded) (38,33)
+    person:Sapper C Smith (casualty_wounded) (40,34)
+    person:Pioneer E H Cann (casualty_wounded) (38,36)
+    person:F Coop (departed_posted) (39,37)
+    person:Lance Corporal W Riley (casualty_wounded) (35,40)
+    person:Lance Corporal W Riley (returned_hospital) (41,40)
+    person:Driver F Platt (casualty_wounded) (39,42)
+    person:Sapper F Rowntree (casualty_wounded) (41,44)
+    person:Second Lieutenant B W Hame (departed_sick) (37,46)
+    person:Corporal J W Pearce (joined) (40,49)
+    person:Driver C E Bowring (joined) (39,52)
+    person:Corporal E Esan (returned_hospital) (38,54)
+    person:Lance Corporal D Kimber (joined) (40,55)
+    person:Sapper A Hatherley (joined) (40,57)
+    person:Sapper F Johnson (casualty_wounded) (39,58)
+    person:Sapper H Latham (casualty_wounded) (39,59)
+    person:Sapper E Morgan (casualty_wounded) (39,60)
+    person:Sapper D Porter (casualty_wounded) (40,62)
+    person:Sapper C Smith (returned_hospital) (39,63)
+    person:Driver F Platt (returned_hospital) (39,64)
+    person:Sapper H G Smith (casualty_died) (39,66)
+    person:Lieutenant J G Hood (joined) (39,68)
+    person:Sapper J R Marshall (joined) (42,70)
+    person:Sapper H Myers (joined) (39,71)
+    person:Sapper J Parker (joined) (41,72)
+    person:Driver W Johnston (joined) (39,73)
+    person:Sergeant F Read (departed_posted) (40,75)
+    person:Sapper F Elson (36,77)
+    person:Lance Corporal A Higgins (joined) (41,80)
+Page 530 (type other) http://wd3.herokuapp.com/pages/AWD0002308  ----------
+  31 Dec 1917 0
+    reference:CONGRATULATIONARY LETTER (34,77)
+    person:Major General C E Periera (commander) (56,78)
+Page 531 (type ) http://wd3.herokuapp.com/pages/AWD000230n  ----------
+  31 Dec 1917 0
+    unit:D. C. L. I (41,20)
+    unit:400 Infantry (40,22)
+Page 532 (type orders) http://wd3.herokuapp.com/pages/AWD0002313  ----------
+  31 Dec 1917 0
+    reference:Brigade Bomb Store (61,30)
+    reference:Watson Street (56,57)
+Page 533 (type other) http://wd3.herokuapp.com/pages/AWD00022z3  ----------
+  Hashtags: #map 

@@ -1,0 +1,5501 @@
+GWD000003g wo/95/1156/5
+3 CAVALRY DIVISION: Essex Yeomanry 
+189 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type cover)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0000jll  ----------
+  Hashtags: #Interpreter #killed #Regiment 
+  29 Nov 1914 23
+    activity:movement (29,26)
+    place:Melton (10,26)
+    place:Southampton (56,26)
+    time:0300AM (5,27)
+    time:0500AM (5,31)
+    time:0700AM (4,34)
+    reference:No 1 (6,34)
+    time:0730PM (5,38)
+    activity:movement (32,38)
+    place:Southampton (12,38)
+    activity:strength (27,42)
+  1 Dec 1914 47
+    place:Le Havre (17,49)
+    time:0930AM (5,51)
+    activity:movement (27,51)
+  2 Dec 1914 53
+    place:Le Havre (17,56)
+  3 Dec 1914 60
+    activity:strength (33,60)
+    time:1200PM (21,63)
+    place:Le Havre (17,63)
+    activity:movement (28,64)
+    activity:movement (27,65)
+    time:0100PM (22,67)
+    person:P S Bidie (departed_posted) (55,68)
+    person:other Bidie (departed_posted) (58,69)
+    time:0300PM (22,70)
+  4 Dec 1914 72
+    time:0200PM (23,75)
+    place:Saint Omer (16,75)
+    place:Wardrecques (70,75)
+    activity:movement (28,76)
+    time:0300PM (22,79)
+    place:Wardrecques (69,79)
+    time:0500PM (22,82)
+    place:Wardrecques (70,82)
+  5 Dec 1914 84
+    weather:rain (33,84)
+    weather:rain (50,84)
+    place:Wardrecques (15,88)
+    weather:rain (27,89)
+    person:General Chichester (other) (43,93)
+    person:General Bulkeley Johnson (other) (44,96)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD0000jof  ----------
+  6 Dec 1914 23
+    place:Wardrecques (13,28)
+    person:Major Buston (departed_posted) (53,31)
+    unit:8 Cavalry Brigade (63,36)
+    activity:strength (41,37)
+    person:Private Hermant (joined) (41,40)
+    place:Hazebrouck (30,40)
+    person:Corporal Hannin (other) (41,43)
+  7 Dec 1914 46
+    place:Wardrecques (16,48)
+    activity:repair (27,49)
+    place:Mont d'Hiver (52,50)
+    weather:rain (27,53)
+  8 Dec 1914 54
+    place:Wardrecques (15,57)
+    place:Saint Omer (57,57)
+    activity:training (27,58)
+  9 Dec 1914 63
+    place:Wardrecques (14,65)
+    domestic:inspections (28,66)
+    unit:3 Cavalry Division. (49,67)
+  10 Dec 1914 68
+    place:Wardrecques (15,71)
+    activity:training (27,72)
+    place:Saint Omer (61,77)
+  11 Dec 1914 78
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (47,78)
+    place:Hazebrouck (32,78)
+    place:Wardrecques (14,80)
+    place:Grand Sec Bois (59,81)
+    place:Hazebrouck (36,82)
+    time:0300PM (35,85)
+  12 Dec 1914 86
+    place:Grand Sec Bois (12,87)
+    domestic:inspections (26,88)
+    unit:8 Cavalry Brigade (48,90)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD0000jm8  ----------
+  Hashtags: #artillery 
+  13 Dec 1914 23
+    time:1000AM (40,27)
+    domestic:religion (26,27)
+    place:Grand Sec Bois (15,27)
+    domestic:religion (30,28)
+    place:Bailleul (41,32)
+  14 Dec 1914 33
+    domestic:parades (27,38)
+    time:0700AM (35,39)
+    activity:movement (46,40)
+    place:Pradelles (31,43)
+    unit:10 Hussars (58,44)
+    place:Bailleul (28,47)
+    place:Dranoutre (55,49)
+    time:1030AM (35,52)
+    time:0245PM (33,56)
+    unit:R.H.G.10 Hussars (48,60)
+    place:Saint Jans Cappel (47,61)
+  15 Dec 1914 65
+    domestic:accomodation (46,65)
+    place:Saint Jans Cappel (13,67)
+    activity:other (32,69)
+    time:0700PM (49,71)
+  16 Dec 1914 76
+    domestic:parades (26,80)
+    time:0900AM (37,81)
+    person:Private Lloyd (departed_posted) (75,81)
+    place:Meteren (55,81)
+    place:Strazeele (26,85)
+    place:Grand Sec Bois (58,86)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpm  ----------
+  Hashtags: #Court 
+  17 Dec 1914 24
+    place:Grand Sec Bois (12,26)
+    place:Hazebrouck (61,28)
+    reference:Cavalry unit dismounted and put to digging trenches in new role! (50,32)
+  18 Dec 1914 33
+    place:Grand Sec Bois (16,37)
+    activity:training (26,37)
+    activity:repair (37,37)
+  19 Dec 1914 40
+    weather:rain (29,41)
+    place:Grand Sec Bois (16,45)
+    activity:training (40,46)
+    time:1130AM (69,48)
+  20 Dec 1914 51
+    activity:repair (42,51)
+    activity:repair (39,51)
+    activity:other (49,56)
+    time:1000AM (49,57)
+  21 Dec 1914 60
+    person:Hennin (other) (37,60)
+    activity:training (27,63)
+    place:Grand Sec Bois (14,64)
+    reference:Court of enquiry about death of interpreter 'Agoutin' dismounted and put to digging trenches in new role! (53,64)
+    weather:rain (57,68)
+    activity:training (26,68)
+  22 Dec 1914 69
+    place:Bois d'Aval (52,73)
+    activity:attack (28,73)
+    person:other Feildal (other) (77,73)
+  23 Dec 1914 76
+    reference:Dismounted attack under directions of the Brigadiert death of interpreter 'Agoutin' dismounted and put to digging trenches in new role! (43,77)
+    place:Grand Sec Bois (16,81)
+    activity:reconnoitered (31,81)
+  24 Dec 1914 83
+    activity:reconnoitered (38,86)
+    unit:1 Corps (71,86)
+    person:Private Rust (departed_sick) (77,88)
+    person:Private Deal (departed_sick) (85,88)
+    person:Fieldhouse (joined) (74,94)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD0000jl4  ----------
+  25 Dec 1914 24
+    time:1000AM (31,26)
+    place:Grand Sec Bois (13,27)
+  26 Dec 1914 29
+    domestic:parades (41,29)
+    activity:repair (30,34)
+    person:Private Morley (departed_sick) (77,35)
+  27 Dec 1914 37
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (79,39)
+    domestic:parades (27,41)
+  28 Dec 1914 42
+    domestic:religion (31,42)
+    activity:reconnoitered (43,46)
+  29 Dec 1914 49
+    activity:reconnoitered (29,49)
+    person:Major Gold (departed_leave) (56,49)
+    person:Major Gold (65,52)
+    activity:reconnoitered (44,54)
+  30 Dec 1914 58
+    activity:reconnoitered (44,63)
+    person:Captain Steele (departed_leave) (68,63)
+    person:Lieutenant Hine (departed_leave) (78,63)
+  31 Dec 1914 64
+    activity:training (40,71)
+    person:Captain A R Steele (author) (60,86)
+Page 9 (type cover)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD0000jph  ----------
+  1 Jan 1915 24
+    place:Sec Bois (17,28)
+    activity:training (27,29)
+  2 Jan 1915 38
+    weather:rain (62,42)
+    place:Sec Bois (17,42)
+    domestic:parades (27,42)
+    person:Private Viall (departed_sick) (77,43)
+    person:Private Keen (departed_sick) (77,45)
+    person:Private Everard (departed_sick) (76,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (28,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (41,50)
+    reference:3 men sent to Hospital Heavy rain, paradeandoned (79,51)
+  3 Jan 1915 52
+    place:Sec Bois (18,55)
+    domestic:religion (27,56)
+    time:1200PM (49,57)
+    domestic:accomodation (28,61)
+    activity:other (32,61)
+    activity:strength (29,67)
+    reference:31 horse died 2 destroyed; Interpreter replaced! (57,72)
+  4 Jan 1915 75
+    place:Sec Bois (18,79)
+    activity:training (27,80)
+  5 Jan 1915 86
+    activity:strength (30,86)
+    place:Sec Bois (18,88)
+    domestic:parades (27,90)
+    domestic:inspections (62,90)
+    domestic:parades (38,90)
+    time:0900AM (46,90)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpq  ----------
+  6 Jan 1915 23
+    activity:other (58,25)
+    activity:training (27,26)
+    domestic:accomodation (55,26)
+    person:Private Everard (returned_hospital) (77,26)
+    place:Grand Sec Bois (13,27)
+    person:Second Lieutenant Buxton (departed_leave) (29,29)
+    person:Second Lieutenant Holt (departed_leave) (35,29)
+    person:Sayer (departed_leave) (42,29)
+    person:Captain A R Steele (returned_leave) (61,29)
+    person:Second Lieutenant Hine (returned_leave) (68,29)
+  7 Jan 1915 32
+    activity:training (32,35)
+    weather:rain (27,35)
+    person:other Smith (departed_sick) (79,37)
+    activity:training (39,38)
+    activity:training (47,38)
+    place:Hazebrouck (31,38)
+  8 Jan 1915 40
+    time:0800AM (41,41)
+    time:0800AM (51,41)
+    unit:3 Cavalry Division (27,41)
+    person:Staff Sergeant Blythe (departed_sick) (75,43)
+    place:Fletre (58,44)
+  9 Jan 1915 45
+    activity:training (30,45)
+    person:Private Gerrard (departed_sick) (76,47)
+    activity:training (37,48)
+    weather:rain (27,48)
+    person:Private Appleton (departed_sick) (79,49)
+  10 Jan 1915 51
+    person:Private Miller (departed_sick) (76,51)
+    person:Private Vick (departed_sick) (83,53)
+    domestic:religion (27,55)
+    person:Private Sparrow (departed_sick) (84,55)
+  11 Jan 1915 56
+    person:Second Lieutenant Boxton (returned_leave) (40,56)
+    person:Private Mills (departed_sick) (85,57)
+  12 Jan 1915 60
+    activity:training (27,60)
+    activity:attack (39,60)
+    person:Private J S Chambers (departed_sick) (76,61)
+    activity:reconnoitered (31,64)
+    person:Private Franks (returned_hospital) (75,64)
+  13 Jan 1915 65
+    person:Major Whitmore (departed_leave) (47,68)
+    person:Major Buxton (departed_leave) (57,69)
+    person:Captain Proby (departed_leave) (63,69)
+    person:Captain Ruggles Brice (departed_leave) (48,71)
+    person:Lieutenant Gilbey (departed_leave) (60,71)
+  14 Jan 1915 72
+    person:Lieutenant Holt (returned_leave) (47,73)
+    person:Lieutenant Sayer (returned_leave) (57,73)
+    activity:training (27,76)
+    reference:5 officers went on leave, 2 returned (65,76)
+    person:Lance Corporal Seabrook (departed_sick) (76,76)
+  15 Jan 1915 77
+    activity:repair (37,77)
+    person:Private Ae Barker (departed_sick) (81,78)
+    person:Private A E Barker (departed_sick) (75,78)
+  16 Jan 1915 82
+    activity:reconnoitered (29,82)
+    place:Sercus (55,82)
+    activity:training (27,85)
+    reference:Still have enough horses for riding school exercises (59,87)
+    domestic:inspections (29,89)
+    person:Sergeant Barney (discipline) (79,89)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpx  ----------
+  17 Jan 1915 23
+    domestic:religion (28,26)
+    place:Grand Sec Bois (16,26)
+  18 Jan 1915 27
+    domestic:parades (28,30)
+    person:Private Farrar (departed_sick) (77,31)
+    place:Grand Sec Bois (19,31)
+  19 Jan 1915 32
+    weather:cold (28,33)
+    activity:training (27,36)
+    activity:strength (56,36)
+    place:Grand Sec Bois (17,36)
+  20 Jan 1915 39
+    domestic:accomodation (30,39)
+    activity:reconnoitered (28,42)
+  21 Jan 1915 43
+    person:Private G Gardiner (departed_sick) (77,43)
+    activity:reconnoitered (34,43)
+    place:Grand Sec Bois (18,43)
+    place:Sercus (64,43)
+    domestic:parades (36,47)
+    place:Hazebrouck (44,47)
+    activity:training (43,48)
+    activity:strength (79,48)
+    place:Grand Sec Bois (21,48)
+    unit:8 Cavalry Brigade (26,49)
+    unit:G.O.C. 8 Cavalry Bds (30,49)
+    activity:training (53,50)
+  22 Jan 1915 52
+    person:Private Farrar (returned_hospital) (76,52)
+    place:Grand Sec Bois (18,55)
+    activity:other (34,57)
+    place:Sercus (42,57)
+    place:Blaringhem (49,57)
+  23 Jan 1915 59
+    unit:8 Cavalry Brigade (26,59)
+    time:0600PM (62,60)
+    person:Major Hill (departed_leave) (76,61)
+    person:Lance Corporal Croxon (departed_sick) (66,62)
+    place:Grand Sec Bois (17,62)
+    activity:training (27,63)
+    person:Colonel Deacon (departed_leave) (75,65)
+  24 Jan 1915 66
+    person:Private Steward (departed_sick) (65,66)
+    person:Major Roddick (departed_leave) (83,66)
+    person:Lieutenant Edwards-Tufnell (departed_leave) (76,68)
+    person:Private Prentice (departed_sick) (67,69)
+    domestic:religion (27,69)
+    place:Grand Sec Bois (17,69)
+    domestic:inspections (44,71)
+  25 Jan 1915 72
+    domestic:inspections (51,72)
+    person:Private Martell (departed_sick) (78,73)
+    activity:strength (68,73)
+    person:Private Crook (departed_sick) (77,76)
+    place:Grand Sec Bois (17,76)
+    person:Private Gowlett (departed_sick) (81,78)
+    place:Blaringhem (57,79)
+    person:Sergeant Moody (departed_sick) (77,82)
+    domestic:accomodation (56,87)
+    place:Mont Croquet (47,90)
+    place:Lynde (67,90)
+    place:Blaringhem (42,93)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmq  ----------
+  26 Jan 1915 24
+    person:Private Ager (departed_sick) (75,26)
+    place:Grand Sec Bois (13,27)
+    activity:training (26,27)
+  27 Jan 1915 29
+    person:Private Hallett (departed_sick) (79,29)
+    domestic:inspections (34,32)
+    domestic:inspections (27,32)
+    person:Field Marshal J French (other) (48,33)
+    place:Le Souverain (67,34)
+    person:Corporal McCarthy (departed_sick) (76,34)
+    time:0230PM (38,36)
+  28 Jan 1915 40
+    person:Private Sergeant (returned_hospital) (78,40)
+    place:Grand Sec Bois (12,43)
+    activity:movement (26,43)
+    domestic:accomodation (46,44)
+    place:Lynde (26,47)
+    place:Blaringhem (33,47)
+    person:Private Banks (departed_sick) (77,47)
+    place:Renescure (47,48)
+  29 Jan 1915 50
+    place:Mont Croquet (12,53)
+    domestic:accomodation (46,53)
+    activity:resting (27,53)
+    person:Major Hill (returned_leave) (77,56)
+    activity:strength (45,57)
+    person:Second Lieutenant J C Meyer (joined) (41,57)
+  30 Jan 1915 58
+    place:Blaringhem (45,63)
+    person:Colonel Deacon (returned_leave) (75,63)
+    weather:cold (59,67)
+    place:Blaringhem (44,67)
+    activity:movement (27,67)
+    person:Major Roddick (returned_leave) (75,67)
+  31 Jan 1915 69
+    person:Lieutenant Edwards (returned_leave) (76,69)
+    place:Blaringhem (14,71)
+    activity:training (26,72)
+    weather:cold (59,73)
+    person:Second Lieutenant Tufnell (returned_leave) (75,73)
+    person:Captain A R Steele (author) (74,86)
+Page 14 (type cover)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpy  ----------
+  1 Feb 1915 22
+    place:Blaringhem (15,26)
+    activity:training (27,26)
+    person:Private Willett (departed_sick) (78,28)
+    person:Private Turner (departed_sick) (75,31)
+    place:Ypres (52,31)
+    reference:to go to Ypres 3rd Feb with the unit (46,32)
+    person:Lieutenant W Sayer (other) (32,33)
+  2 Feb 1915 34
+    time:0830AM (67,34)
+    place:Ypres (72,35)
+    person:Corporal Bateman (departed_sick) (77,36)
+    reference:wounded (77,37)
+    person:Private Saunders (departed_sick) (75,39)
+    person:Captain Ruggles Brice (other) (31,41)
+    time:1230PM (63,41)
+    person:Second Lieutenant C N Gilbey (other) (29,45)
+    person:Private Masters (departed_sick) (78,45)
+    person:Private Eve (departed_sick) (76,45)
+  3 Feb 1915 46
+    person:Corporal Pinhey (76,46)
+    reference:left (60,46)
+    reference:wounded (76,47)
+    person:Private Eve (departed_sick) (80,50)
+    activity:movement (37,51)
+    time:0200PM (57,52)
+    activity:movement (31,52)
+    person:Corporal Pinhey (departed_sick) (81,53)
+    place:Ypres (31,55)
+    unit:Rhg (67,57)
+    person:Driver Monk (returned_hospital) (79,62)
+    place:Ypres (56,63)
+  4 Feb 1915 65
+    person:Corporal Pinhey (returned_hospital) (79,65)
+    place:Menin (30,65)
+    place:Ypres (14,68)
+    activity:fire (32,70)
+    place:Hooge (28,72)
+  5 Feb 1915 73
+    place:Blaringhem (77,73)
+    person:Private T E Belsham (departed_sick) (80,77)
+    place:Ypres (16,77)
+  6 Feb 1915 79
+    person:Private Myhill (departed_sick) (79,80)
+    reference:taken to hospital (31,80)
+    reference:wounded (61,81)
+  7 Feb 1915 84
+    place:Ypres (16,84)
+    place:Ypres (16,88)
+    activity:quiet (26,88)
+    person:Lance Corporal C E Thorn (departed_sick) (80,89)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpf  ----------
+  8 Feb 1915 22
+    person:Second Lieutenant Buxton (other) (63,27)
+    person:Private Fairweather (departed_sick) (76,27)
+    time:1100AM (44,27)
+    place:Ypres (18,27)
+    person:Private Roberts (casualty_kia) (76,30)
+    place:Hooge (37,31)
+    activity:fire (58,32)
+    person:Private H Richards (casualty_wounded) (76,34)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 9 (27,35)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 9 (37,36)
+    person:Private A E Barrell (casualty_wounded) (76,37)
+    unit:A Squadron (28,39)
+    person:Private A Turner (casualty_wounded) (75,40)
+    unit:B Squadron (47,40)
+    time:0300AM (59,41)
+    person:Private H Taylor (casualty_wounded) (76,42)
+    person:Private G Foster (casualty_wounded) (76,45)
+  9 Feb 1915 47
+    person:Private A J French (casualty_wounded) (76,48)
+    person:Private H J Hughes (casualty_wounded) (76,50)
+  10 Feb 1915 51
+    place:Ypres (19,51)
+    activity:line (36,52)
+  11 Feb 1915 54
+    person:Private S F Bradd (casualty_wounded) (75,54)
+    activity:line (32,55)
+  12 Feb 1915 57
+    person:Lance Corporal J W Salmon (casualty_wounded) (77,57)
+    unit:B Squadron (28,60)
+    time:0300AM (61,60)
+    person:Private Prentice (returned_hospital) (76,61)
+    unit:C Squadron (49,61)
+    place:Ypres (18,62)
+    place:Blaringhem (62,64)
+  13 Feb 1915 65
+    time:0300AM (73,65)
+    unit:C Squadron (29,70)
+    unit:5 Lancers (58,70)
+    time:0300AM (68,70)
+    person:Private A A Wright (casualty_wounded) (75,71)
+  14 Feb 1915 74
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (42,74)
+    person:Lance Corporal L H Law (departed_sick) (76,78)
+    place:Blaringhem (17,78)
+    place:Blaringhem (48,78)
+    time:0900AM (60,79)
+  15 Feb 1915 80
+    person:Private Dick (returned_hospital) (76,81)
+    person:Lance Corporal Pinhey (returned_hospital) (76,84)
+    activity:training (26,84)
+    place:Blaringhem (15,85)
+    person:Private Smeaton (departed_posted) (76,88)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlj  ----------
+  16 Feb 1915 23
+    place:Blaringhem (15,26)
+    reference:Blaringhem (17,26)
+  17 Feb 1915 27
+    activity:training (26,27)
+  18 Feb 1915 30
+    domestic:parades (28,30)
+    domestic:parades (48,30)
+    place:Blaringhem (17,30)
+  19 Feb 1915 33
+    activity:training (27,33)
+    place:Blaringhem (13,35)
+  20 Feb 1915 37
+    place:Blaringhem (13,37)
+    activity:training (27,37)
+  21 Feb 1915 39
+    activity:training (27,40)
+    domestic:religion (34,41)
+    domestic:parades (42,41)
+    place:Blaringhem (15,41)
+    time:1000AM (49,41)
+  22 Feb 1915 42
+    domestic:religion (27,43)
+    domestic:parades (36,45)
+    domestic:parades (46,45)
+    place:Blaringhem (13,45)
+    weather:cold (68,45)
+  23 Feb 1915 46
+    weather:fog (71,46)
+    place:Blaringhem (15,49)
+    person:Second Lieutenant P N Reid (departed_posted) (32,49)
+    person:Second Lieutenant T F Buxton (departed_posted) (44,49)
+    place:Ypres (37,52)
+    unit:1 Cavalry Division (66,53)
+    activity:movement (40,54)
+    person:Corporal Pike (other) (69,55)
+    activity:strength (34,59)
+    time:0930PM (58,59)
+    weather:cold (61,61)
+  24 Feb 1915 62
+    unit:Reserve Regiment (45,62)
+    place:Blaringhem (14,64)
+    domestic:parades (26,65)
+    domestic:parades (51,65)
+  25 Feb 1915 66
+    domestic:parades (32,67)
+    place:Blaringhem (15,69)
+    domestic:parades (26,70)
+  26 Feb 1915 72
+    domestic:inspections (29,72)
+    place:Blaringhem (15,76)
+    activity:training (27,77)
+  27 Feb 1915 78
+    domestic:parades (38,82)
+    domestic:parades (26,82)
+    place:Blaringhem (16,82)
+  28 Feb 1915 83
+    place:Blaringhem (16,86)
+    domestic:religion (29,87)
+    time:1000AM (51,87)
+    person:Captain A R Steele (author) (68,93)
+Page 18 (type cover)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD0000jkl  ----------
+  Hashtags: #horses 
+  2 Mar 1915 26
+    place:Blaringhem (15,26)
+    domestic:inspections (29,27)
+    unit:D D V S Cavalry Corps (45,27)
+    reference:Blaringhem (18,27)
+    place:Blaringhem (15,29)
+    reference:the cavalry horses were inspected by the Deputy Director of Veterinary Service, based at Division nHQ, a veterinary surgeon belonging to the army veterinary corps (not RAVC yet) (63,29)
+  3 Mar 1915 30
+    domestic:parades (27,30)
+    reference:Unit cast 28 horses; result of veterinary inspection found unfit? Perhaps shot? (84,31)
+    place:Blaringhem (15,32)
+    activity:repair (33,33)
+    place:Steenbecque (46,34)
+  4 Mar 1915 36
+    place:Blaringhem (15,39)
+    activity:repair (31,40)
+    place:Steenbecque (46,40)
+    reference:200 men digging trenches (53,40)
+  5 Mar 1915 41
+  6 Mar 1915 43
+    place:Blaringhem (15,43)
+    domestic:parades (28,44)
+    place:Blaringhem (15,46)
+  7 Mar 1915 47
+    activity:repair (36,48)
+    place:Blaringhem (16,48)
+    place:Steenbecque (45,48)
+    domestic:parades (65,48)
+  8 Mar 1915 49
+    activity:repair (31,49)
+    place:Steenbecque (43,50)
+    domestic:religion (55,50)
+    time:1000AM (70,50)
+    place:Blaringhem (14,51)
+    reference:voluntary church parade (65,51)
+  9 Mar 1915 52
+    domestic:parades (28,52)
+    domestic:religion (61,52)
+  10 Mar 1915 55
+    place:Blaringhem (15,55)
+    activity:other (28,56)
+    unit:8 Cavalry Brigade (50,56)
+  11 Mar 1915 58
+    activity:other (44,58)
+    place:Blaringhem (15,58)
+    place:Blaringhem (16,61)
+    domestic:parades (27,61)
+    time:0400AM (41,61)
+    reference:Unit prepared to move at short notice all day (59,61)
+    activity:movement (52,62)
+    domestic:parades (33,62)
+    place:Sercus (64,63)
+    time:0500AM (27,63)
+    activity:movement (33,64)
+    place:La Motte (46,64)
+    time:0700AM (61,65)
+    time:0400PM (66,65)
+    domestic:accomodation (37,66)
+  12 Mar 1915 67
+    place:Grand Sec Bois (56,67)
+    place:Sercus (35,68)
+    unit:Rhg (81,68)
+    place:Grand Sec Bois (15,69)
+    activity:other (28,71)
+    domestic:accomodation (63,71)
+    time:0530AM (36,71)
+    time:0900AM (52,72)
+  13 Mar 1915 73
+    time:0430PM (38,74)
+    reference:Unit prepared to move saddled up at 4.30am until 9 am (46,74)
+    place:Grand Sec Bois (15,76)
+    activity:movement (30,77)
+    activity:movement (63,77)
+    time:0530AM (36,77)
+    time:0900AM (52,77)
+    place:Blaringhem (31,80)
+    time:0630PM (40,80)
+    time:0930PM (59,81)
+  14 Mar 1915 82
+    activity:other (41,86)
+    place:Blaringhem (13,86)
+    time:0900AM (37,86)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmc  ----------
+  15 Mar 1915 24
+    time:1000AM (59,27)
+    place:Blaringhem (12,27)
+    activity:other (28,27)
+  16 Mar 1915 30
+    time:0500PM (53,30)
+    place:Blaringhem (11,33)
+  17 Mar 1915 34
+    activity:other (30,34)
+    unit:3 Cavalry Division. (61,37)
+    domestic:inspections (29,37)
+    place:Blaringhem (11,37)
+  18 Mar 1915 39
+    activity:strength (59,39)
+    domestic:accomodation (51,42)
+    domestic:parades (27,42)
+    place:Blaringhem (11,42)
+    domestic:parades (36,43)
+  19 Mar 1915 44
+    place:Wardrecques (39,45)
+    activity:movement (28,45)
+  20 Mar 1915 48
+    weather:cold (49,48)
+    domestic:parades (35,49)
+    place:Blaringhem (11,50)
+  21 Mar 1915 52
+    domestic:parades (32,52)
+    domestic:parades (38,52)
+    place:Blaringhem (11,53)
+  22 Mar 1915 54
+    domestic:religion (31,55)
+    domestic:religion (39,55)
+    weather:fine (50,55)
+    place:Blaringhem (11,56)
+  23 Mar 1915 57
+    domestic:parades (29,58)
+  24 Mar 1915 60
+    domestic:parades (27,60)
+    domestic:parades (37,60)
+    place:Blaringhem (10,60)
+    activity:attack (46,61)
+  25 Mar 1915 63
+    domestic:parades (29,65)
+  26 Mar 1915 67
+    place:Blaringhem (10,67)
+    person:Private Barney (discipline) (78,68)
+    unit:3 Cavalry Division. (67,68)
+    domestic:parades (29,68)
+  27 Mar 1915 70
+    domestic:parades (37,70)
+    domestic:parades (29,71)
+  28 Mar 1915 74
+    domestic:parades (37,74)
+    domestic:parades (29,75)
+    weather:cold (45,75)
+  29 Mar 1915 77
+    domestic:religion (41,78)
+    domestic:religion (28,78)
+    weather:cold (50,78)
+    domestic:inspections (28,81)
+  30 Mar 1915 82
+    unit:3 Cavalry Division. (65,82)
+    domestic:inspections (40,82)
+    place:Rouen (77,82)
+    domestic:parades (30,86)
+    domestic:parades (41,86)
+  31 Mar 1915 87
+    domestic:parades (28,89)
+    person:Captain A R Steele (author) (69,90)
+Page 21 (type cover)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD0000jjr  ----------
+  1 Apr 1915 22
+    place:Blaringhem (8,27)
+    domestic:parades (28,27)
+  2 Apr 1915 30
+    domestic:inspections (58,30)
+    domestic:other (28,32)
+    place:Blaringhem (8,34)
+  3 Apr 1915 35
+    reference:Draft of 39 men and 39 horses arrived (66,37)
+  4 Apr 1915 39
+    weather:rain (55,39)
+    place:Blaringhem (8,39)
+  5 Apr 1915 42
+    weather:rain (47,43)
+    place:Blaringhem (8,43)
+    domestic:religion (29,43)
+  6 Apr 1915 45
+    place:Blaringhem (8,46)
+    domestic:parades (28,47)
+    domestic:parades (32,47)
+  7 Apr 1915 49
+    place:Mont Croquet (57,49)
+    activity:movement (49,50)
+    place:Blaringhem (8,50)
+  8 Apr 1915 53
+    place:Mont Croquet (8,53)
+    domestic:parades (29,53)
+  9 Apr 1915 56
+    domestic:parades (27,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (69,58)
+    person:Colonel Deacon (departed_sick) (56,58)
+    place:Mont Croquet (8,58)
+  10 Apr 1915 60
+    domestic:parades (34,60)
+    place:Mont Croquet (8,62)
+  11 Apr 1915 63
+    domestic:parades (29,63)
+    place:Mont Croquet (8,65)
+    domestic:religion (27,66)
+  12 Apr 1915 67
+    domestic:sport (51,67)
+  13 Apr 1915 69
+    place:Mont Croquet (7,70)
+    domestic:accomodation (38,70)
+  14 Apr 1915 72
+    reference:Draft of 1 man and 50 horses arrived (62,73)
+    place:Blaringhem (8,73)
+  15 Apr 1915 76
+    place:La Belle Hotesse (60,77)
+    place:Blaringhem (8,77)
+    person:Colonel Deacon (returned_hospital) (56,79)
+  16 Apr 1915 80
+    place:Mont Croquet (8,80)
+    domestic:parades (28,80)
+    domestic:inspections (55,80)
+  17 Apr 1915 83
+    place:Mont Croquet (8,84)
+    activity:training (52,86)
+    domestic:parades (28,86)
+  18 Apr 1915 87
+    place:Mont Croquet (8,87)
+    person:Colonel (departed_leave) (57,89)
+    place:Mont Croquet (8,90)
+    domestic:religion (27,91)
+  19 Apr 1915 92
+    domestic:sport (51,92)
+    place:Mont Croquet (8,94)
+    domestic:parades (29,95)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (98,96)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnc  ----------
+  Hashtags: #Eschelon 
+  20 Apr 1915 22
+    place:Mont Croquet (6,25)
+    domestic:inspections (27,26)
+  21 Apr 1915 27
+    place:Saint Pierre (46,27)
+    unit:3 Cavalry Division. (61,28)
+    domestic:inspections (34,28)
+    place:Mont Croquet (7,30)
+  22 Apr 1915 31
+    domestic:parades (30,31)
+    place:Mont Croquet (8,34)
+    domestic:inspections (56,34)
+    domestic:parades (27,34)
+  23 Apr 1915 35
+    place:Mont Croquet (7,39)
+    domestic:parades (29,39)
+    time:1245PM (44,40)
+    place:Abeele (70,40)
+    activity:movement (59,40)
+    time:0600PM (35,42)
+    domestic:accomodation (70,43)
+  24 Apr 1915 44
+    place:Abeele (7,47)
+    place:Boeschepe (49,47)
+    domestic:parades (29,48)
+    time:1000AM (34,49)
+    place:Boeschepe (46,49)
+    activity:movement (39,49)
+  25 Apr 1915 51
+    place:Vlamertinghe (26,51)
+    place:Vlamertinghe (25,51)
+    time:0800PM (74,52)
+    domestic:accomodation (54,52)
+    time:0130PM (56,55)
+    activity:movement (32,55)
+    activity:movement (57,55)
+    time:1000AM (49,56)
+    reference:35 (44,56)
+    reference:P (67,56)
+    place:Peselhoeck (70,56)
+    place:Poperinghe (33,57)
+  26 Apr 1915 59
+    place:Winnezeele (27,59)
+    domestic:accomodation (63,59)
+    activity:fire (46,59)
+    time:0700PM (44,60)
+    place:Winnezeele (8,61)
+    time:0630AM (50,63)
+    reference:T (36,63)
+    place:Droglandt (41,63)
+    activity:movement (31,63)
+    activity:movement (68,63)
+    time:1000AM (59,64)
+    reference:A (70,64)
+    time:1145AM (46,65)
+    place:Abeele (28,65)
+    activity:movement (58,65)
+    time:0830PM (56,66)
+    place:Poperinge (36,67)
+    time:1030PM (58,69)
+    time:1200AM (67,69)
+    person:Captain T Parker (other) (38,73)
+  27 Apr 1915 75
+    place:Vlamertinghe (30,76)
+    domestic:accomodation (45,76)
+    place:Vlamertinghe (11,79)
+    time:0430PM (69,81)
+    time:0600PM (76,81)
+  28 Apr 1915 82
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,82)
+    time:1000AM (58,86)
+    place:Vlamertinghe (10,86)
+    activity:fire (49,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (81,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (78,87)
+    domestic:parades (34,88)
+    time:1230PM (42,89)
+    time:0400PM (73,90)
+    time:0700PM (40,91)
+    domestic:parades (29,91)
+    activity:movement (48,91)
+    place:Steenwoorde (28,95)
+    time:0930PM (52,96)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD0000jl9  ----------
+  29 Apr 1915 25
+    time:0830AM (36,27)
+  30 Apr 1915 28
+    place:Steenwoorde (6,28)
+    domestic:parades (29,28)
+    place:Abeele (59,29)
+    reference:A (54,29)
+    place:Steenvoorde (6,32)
+    time:0830AM (35,32)
+    place:Abeele (57,33)
+    domestic:parades (31,33)
+  1 May 1915 34
+    reference:A (53,34)
+    person:Captain A R Steele (author) (64,72)
+Page 25 (type cover)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmn  ----------
+  Hashtags: #Yser #Limbers #bandoliers 
+  1 May 1915 22
+    place:Steenvoorde (6,26)
+    time:0830AM (63,26)
+    place:Abeele (53,27)
+    reference:A (49,28)
+    activity:other (72,29)
+    place:Steenvoorde (7,29)
+    activity:movement (30,30)
+  2 May 1915 36
+    place:Abeele (51,40)
+    place:Steenvoorde (7,40)
+    reference:A (47,40)
+    time:0830AM (60,40)
+    activity:other (72,42)
+  3 May 1915 43
+    activity:movement (45,43)
+    domestic:religion (31,43)
+    domestic:accomodation (56,43)
+    time:1000AM (40,43)
+    time:0630PM (63,44)
+    activity:training (30,48)
+    time:0400PM (49,48)
+    time:0645PM (51,52)
+    activity:movement (60,53)
+    place:Vlamertinge (36,56)
+    time:1130PM (49,58)
+  4 May 1915 59
+    activity:movement (37,61)
+    place:Ypres (65,61)
+    time:0200AM (37,63)
+    weather:rain (46,64)
+    reference:Stayed in a field near road overnight then marched back at 5 am man and 50 horses arrived (46,67)
+    time:0500AM (68,68)
+  5 May 1915 71
+    place:Houtkerque (47,71)
+    time:0130PM (69,71)
+    activity:movement (35,72)
+    place:Houtkerque (7,74)
+    activity:strength (56,75)
+    person:Captain Proby (other) (51,78)
+    place:Houtkerque (8,80)
+    place:Poperinghe (68,82)
+    place:Vlamertinghe (30,83)
+    person:Major Buxton (other) (65,87)
+    activity:movement (50,89)
+    place:Yser Canal (57,89)
+    activity:repair (39,92)
+    activity:repair (51,93)
+    time:0900PM (52,93)
+    time:0100AM (58,93)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD0000jm7  ----------
+  5 May 1915 22
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,27)
+    place:Houtkerque (4,28)
+    time:0300AM (55,29)
+  6 May 1915 31
+    time:0600AM (68,33)
+    place:Houtkerque (47,34)
+    place:Houtkerque (5,34)
+    domestic:accomodation (57,34)
+  7 May 1915 35
+    activity:movement (33,35)
+    domestic:parades (35,38)
+    time:0400PM (28,39)
+    place:Houtkerque (5,39)
+    activity:movement (54,39)
+    time:0900PM (62,40)
+    place:Le Croquet (40,42)
+    domestic:accomodation (27,42)
+    person:Private J N Reeve (promotion) (28,46)
+  8 May 1915 49
+    reference:16 other ranks and horses of the machine gun section left standing for 3 hours (52,52)
+    activity:other (32,53)
+  9 May 1915 54
+    place:Le Croquet (6,54)
+    time:1000AM (34,62)
+    place:Sercus (28,63)
+    place:Sercus (45,70)
+    place:Le Croquet (52,74)
+    person:Captain Proby (other) (30,75)
+    person:Lieutenant Wedd (other) (28,81)
+    place:Brielen (43,85)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD0000jn8  ----------
+  10 May 1915 24
+    place:Brielen (6,27)
+    place:Yperlee Canal (61,28)
+    activity:resting (33,28)
+    activity:repair (50,28)
+  11 May 1915 29
+    place:Brielen (7,32)
+    activity:resting (29,32)
+    reference:Draft of 12  horses arrived for B section (66,33)
+  12 May 1915 34
+    activity:resting (33,38)
+    place:Brielen (6,40)
+    activity:resting (60,41)
+    person:Second Lieutenant Holt (other) (44,41)
+  13 May 1915 45
+    place:Hooge (67,45)
+    activity:repair (48,45)
+    activity:strength (63,53)
+    place:Potyze (33,54)
+    activity:fire (45,56)
+    activity:fire (57,57)
+    reference:302 all ranks 17 officers : trench digging near GHQ (45,59)
+    unit:7 Brigade (43,61)
+    time:0600AM (28,62)
+    unit:8 Brigade (61,64)
+    reference:Brigade holding advanced trenches, shelled in the morning (51,65)
+    time:0215PM (69,68)
+    activity:attack (47,70)
+    unit:Blues (62,72)
+    unit:Blues (Royal Horse Guards) (65,72)
+    unit:S. Y (54,73)
+    unit:10 Hussars (36,74)
+    unit:10 (34,78)
+    activity:enemy_activity (57,80)
+    activity:fire (54,87)
+    unit:Blues (33,89)
+    activity:withdraw (60,90)
+    unit:10 (46,92)
+    time:0600AM (73,93)
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD0000jl0  ----------
+  13 May 1915 25
+    person:Lieutenant R A Thompson (combat) (48,33)
+    person:Captain R Brise (combat) (32,34)
+    reference:Cat buise, Lt Thompson and 10 men held back gGerman infantry by occupying chalk holes until after dark (46,40)
+    activity:line (42,49)
+    unit:Durham Light Infantry (57,52)
+    reference:Durham Light Infantry + Essex Yeomanry held the GHQ trenches (50,53)
+    place:Le Croquet (62,57)
+    activity:movement (45,58)
+  14 May 1915 61
+    person:Lieutenant Wedd (other) (38,61)
+    time:0900PM (66,65)
+    place:Vlamertinghe (69,69)
+    reference:Held the GHQ trenches until 9am when relieved by Canadians (42,70)
+    unit:2 Canadian Division (42,70)
+    unit:2 Cavalry Division (33,71)
+    time:1130PM (43,74)
+    casualties:died: 0; killed: 33; missing: 27; prisoner: 0; sick: 0; wounded: 100 (34,78)
+    casualties:died: 0; killed: 33; missing: 27; prisoner: 0; sick: 0; wounded: 100 (29,86)
+    casualties:died: 0; killed: 33; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,91)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 100 (50,91)
+    casualties:died: 0; killed: 0; missing: 11; prisoner: 0; sick: 0; wounded: 0 (71,91)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD0000jkj  ----------
+  14 May 1915 26
+    person:Lieutenant Colonel E Deacon (casualty_mia) (28,34)
+    person:Major F H D C Whitmore (casualty_wounded) (28,37)
+    person:Major A Roddick (casualty_kia) (28,41)
+    person:Captain Steele (casualty_wounded) (27,44)
+    person:Lieutenant R Edwards (casualty_wounded) (28,47)
+    person:Lieutenant G S Johnston (casualty_kia) (28,54)
+    person:Second Lieutenant G Reid (casualty_kia) (28,57)
+    person:Second Lieutenant P Holt (casualty_wounded) (35,60)
+  15 May 1915 63
+    person:Second Lieutenant Swire (casualty_kia) (29,63)
+    place:Vlamertinghe (17,67)
+    activity:resting (43,68)
+  16 May 1915 72
+    person:Second Lieutenant F C Meyer (other) (58,76)
+    person:Captain R G Proby (other) (33,77)
+    place:Vlamertinghe (17,78)
+    person:Captain Proby (other) (57,79)
+    person:Second Lieutenant Buxton (other) (47,83)
+    person:Second Lieutenant Meyer (promotion) (43,86)
+    domestic:inspections (45,89)
+    activity:resting (32,90)
+Page 31 (type diary) http://wd3.herokuapp.com/pages/AWD0000jq5  ----------
+  Hashtags: #GoodStory #meritorious 
+  16 May 1915 25
+    domestic:parades (61,29)
+    reference:Brigadier orders expressing great admiration etc etc for action (53,33)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD0000jms  ----------
+  Hashtags: #Roddick 
+  16 May 1915 25
+    place:Vlamertinghe (17,29)
+    reference:General Joffe CinC: great admiration etc etc for action (46,52)
+    person:General Joffre (other) (32,55)
+    unit:5 Corps (33,59)
+    person:other H R Bethell (other) (61,65)
+    person:Major A Roddick (award) (36,87)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD0000jn9  ----------
+  Hashtags: #reconnaissance #gallantry #stretcher #bravery 
+  16 May 1915 21
+    person:Captain Ruggles-Brise (award) (26,26)
+    person:Captain Ruggles-Brise (award) (27,26)
+    person:Lieutenant R H Thompson (award) (27,29)
+    person:Lieutenant R A Thompson (award) (40,29)
+    person:Sergeant Howard (award) (29,32)
+    person:Lance Corporal Wardell (award) (29,36)
+    person:Private Smy (award) (31,38)
+    person:Private Dean (award) (56,43)
+    person:Corporal Frost (award) (29,44)
+    person:Private Schwier (award) (39,44)
+    person:Private Johnson (award) (48,44)
+    person:Private Wear (award) (39,52)
+    person:Private Abbott (award) (31,53)
+    person:Private Bates (award) (40,56)
+    person:Private Holland (award) (31,57)
+    person:Sergeant Hodge (award) (31,71)
+    person:Private Connell (award) (54,72)
+    person:Sergeant Pritchard (award) (34,74)
+    person:Private Holton (award) (58,75)
+    person:Sergeant Ledger (award) (32,76)
+    person:Private Manning (award) (55,77)
+    person:Sergeant Walker (award) (36,78)
+    person:Private Middlecoat (award) (57,80)
+    person:Corporal Bird (award) (28,81)
+    person:Corporal Bosworth (award) (32,84)
+    person:Private F Smart (award) (59,84)
+    person:Lance Corporal Turnell (award) (28,86)
+    person:Private Skinner (award) (57,86)
+    person:Private Tompkins (award) (59,90)
+    person:Lance Corporal Rex (award) (38,92)
+    person:Private Anning (award) (58,94)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD0000joz  ----------
+  Hashtags: #Buxton #constitutes #Search #constituted 
+  16 May 1915 21
+    person:Major Buxton (other) (27,27)
+    reference:Maj Bicton decided not to send in any names for gallantry as was too difficult to single out any individuals in the action# (55,42)
+  17 May 1915 45
+    time:0300PM (43,48)
+    weather:rain (30,49)
+    domestic:parades (38,49)
+    person:Second Lieutenant C J Round (other) (61,49)
+    place:Vlamertinghe (7,51)
+    unit:One Battalion 151 Li_f Brigade (30,57)
+    reference:Search part sent out to look for ltCol lost in recent action, no result (64,63)
+  18 May 1915 64
+    weather:rain (29,68)
+    activity:fire (40,68)
+    time:0800AM (44,68)
+    time:0700PM (52,68)
+    place:Vlamertinghe (7,70)
+    time:1130AM (44,71)
+    domestic:parades (55,72)
+    reference:Shelled 8am to 7pm (40,72)
+    person:Second Lieutenant Gilbey (joined) (63,75)
+    person:Second Lieutenant Tufnell (joined) (32,80)
+    unit:151 Inf. Brigade (63,83)
+    time:0700PM (32,83)
+    unit:One Battalion. 151 Brigade (57,84)
+Page 35 (type diary) http://wd3.herokuapp.com/pages/AWD0000jkc  ----------
+  Hashtags: #punishment 
+  19 May 1915 24
+    place:Vlamertinghe (7,26)
+    activity:training (31,27)
+    time:0800PM (68,27)
+  20 May 1915 28
+    reference:50 men to Ypres, Brigade became 2nd Mobile reserve to mend roads (39,30)
+    place:Ypres (42,31)
+    time:1000AM (64,31)
+    time:0700AM (28,32)
+    activity:repair (62,37)
+    place:Ypres (54,38)
+    time:0700PM (39,38)
+    time:0930PM (55,41)
+    activity:enemy_activity (62,42)
+  21 May 1915 45
+    time:0800PM (32,45)
+    activity:movement (68,49)
+    place:Vlamertinghe (7,49)
+    time:0745AM (53,49)
+    time:0200PM (60,51)
+  22 May 1915 53
+    place:Le Croquet (40,53)
+  23 May 1915 57
+    domestic:accomodation (41,57)
+    place:Le Croquet (9,57)
+    domestic:religion (31,60)
+    place:Blaringhem (51,60)
+  24 May 1915 61
+    place:Le Croquet (7,61)
+    place:Le Croquet (9,65)
+    reference:Parade of horses for casting - euthanased? (42,67)
+  25 May 1915 68
+    domestic:inspections (52,71)
+    place:Le Croquet (8,72)
+  26 May 1915 77
+    place:Le Croquet (7,81)
+    time:0930AM (44,81)
+    domestic:parades (49,85)
+    time:1130AM (27,87)
+    person:Major General Briggs (other) (41,90)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD0000jjd  ----------
+  27 May 1915 22
+    time:1000AM (53,26)
+    domestic:parades (28,27)
+    place:Le Croquet (10,30)
+    time:0930PM (28,32)
+    place:Ypres (60,34)
+    reference:3rd Cavalry Division to take over trenches west of YPRES (48,37)
+  28 May 1915 38
+    person:Major G G Gold (returned_leave) (32,43)
+    activity:reconnoitered (68,45)
+    person:Lieutenant Wedd (other) (35,47)
+    person:Lieutenant C Gilby (other) (56,50)
+    place:Ypres (43,50)
+    person:Lieutenant C N Gilbey (other) (52,51)
+  29 May 1915 54
+    time:0630PM (28,55)
+    time:1130PM (53,58)
+    activity:movement (33,59)
+    person:Captain Proby (other) (41,61)
+    person:Second Lieutenant Buxton (other) (64,61)
+    person:Major Buxton (other) (29,62)
+    person:Second Lieutenant Tufnell (other) (51,62)
+    person:Lieutenant White (other) (30,66)
+    unit:7 Cavalry Brigade (40,79)
+    reference:130 men sent to joinn 7th Cavalry Brigade (37,79)
+    place:Vlamertinghe (67,79)
+    place:Ypres (43,82)
+    place:Sallyport (59,82)
+    unit:2 Life Guards (63,86)
+    place:Pont de Lille (28,86)
+    activity:movement (40,89)
+    place:Zillebeke (51,89)
+    person:Lieutenant Preston (other) (59,91)
+    unit:Yorkshire Hussars (54,92)
+    unit:Yorkshire Hussars (45,92)
+Page 37 (type diary) http://wd3.herokuapp.com/pages/AWD0000jo0  ----------
+  30 May 1915 22
+    activity:fire (28,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (50,26)
+    activity:fire (35,27)
+    place:Ypres (10,27)
+    place:Ecole de Bienfaisance (54,29)
+  31 May 1915 30
+    domestic:inspections (44,33)
+    place:Ypres (10,34)
+    domestic:inspections (31,35)
+    person:Major H F Wickham (joined) (31,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (29,45)
+    person:Second Lieutenant F C Meyer (author) (50,47)
+Page 38 (type cover)
+Page 39 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnm  ----------
+  Hashtags: #Respirators 
+  1 Jun 1915 22
+    time:0845PM (45,25)
+    place:Zouave Wood (67,26)
+    place:Ypres (8,26)
+    activity:other (41,27)
+    place:Ypres (9,30)
+    place:Blaringhem (64,32)
+    person:Major Wickham (joined) (33,33)
+  2 Jun 1915 34
+    activity:fire (31,39)
+    activity:repair (53,39)
+    place:Hooge (39,42)
+    place:Ypres (8,42)
+    time:0830PM (47,42)
+  3 Jun 1915 43
+    time:0830PM (53,46)
+    activity:other (33,47)
+    place:Hooge (47,49)
+    time:0900PM (70,49)
+    activity:fire (53,51)
+    place:Ecole de Bienfaisance (68,52)
+  4 Jun 1915 60
+    reference:Respirators put on because of GAS SHELLS (40,60)
+    time:1030AM (72,63)
+    place:Ypres (7,64)
+    reference:Inspection of YORKSHIRE HUSSARS detachment (36,64)
+    unit:Yorkshire Hussars (52,64)
+    domestic:inspections (38,65)
+    domestic:inspections (40,65)
+    time:0230PM (72,66)
+  5 Jun 1915 67
+    activity:movement (54,70)
+    reference:Relieved at 4pm by Honorable Artillery Company at Ypres (50,70)
+    unit:H A C (42,70)
+    time:0400PM (38,71)
+    unit:H. A. C. (46,71)
+    activity:resting (47,74)
+    place:Vlamertinghe (30,74)
+    domestic:inspections (40,77)
+    person:Sergeant Major Driver (departed_posted) (31,80)
+    person:Sergeant Major Archer (41,80)
+  6 Jun 1915 81
+    activity:movement (32,86)
+    domestic:other (66,86)
+    place:Ypres (7,86)
+Page 40 (type diary) http://wd3.herokuapp.com/pages/AWD0000jm4  ----------
+  7 Jun 1915 22
+    person:Major Buxton (other) (28,26)
+    place:Blaringhem (9,26)
+    person:Lieutenant Preston (other) (42,30)
+    person:Lieutenant Preston (other) (27,30)
+  8 Jun 1915 31
+    place:Blaringhem (7,31)
+    place:Blaringhem (9,34)
+  9 Jun 1915 35
+    reference:Parade of horses for casting by GOC division at Bde HQ (29,37)
+    domestic:parades (26,39)
+    place:Blaringhem (11,39)
+    person:Private F W Hallett (departed_posted) (32,42)
+  10 Jun 1915 44
+    domestic:inspections (28,48)
+    place:Blaringhem (11,48)
+  11 Jun 1915 49
+    place:La Belle Hotesse (64,53)
+    activity:repair (45,53)
+  12 Jun 1915 59
+    domestic:inspections (31,63)
+    place:Blaringhem (11,64)
+    time:0830AM (36,66)
+    time:1000AM (46,66)
+    time:1130AM (54,66)
+    person:Second Lieutenant Rose (joined) (58,69)
+    person:Second Lieutenant Chaplin (joined) (45,70)
+    reference:180 men, 2 officers, 50 horses posted (68,71)
+  14 Jun 1915 76
+    domestic:inspections (29,76)
+    place:Blaringhem (11,76)
+    place:Blaringhem (11,80)
+    activity:training (41,80)
+  15 Jun 1915 81
+    reference:Cavalry officers and men being trained in bombing and mortaring for trench warfare (58,83)
+    activity:training (30,83)
+    place:Blaringhem (12,85)
+    reference:Veterinary officer(ADVS) came to inspect the horses (58,88)
+    unit:A D V S (50,90)
+    domestic:inspections (34,90)
+Page 41 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpt  ----------
+  Hashtags: #Essex #gallant #DCM 
+  15 Jun 1915 0
+  17 Jun 1915 27
+    place:Blaringhem (7,27)
+    activity:other (30,30)
+    place:Blaringhem (8,31)
+    domestic:inspections (71,33)
+    domestic:parades (43,34)
+  18 Jun 1915 39
+    activity:other (45,39)
+    domestic:inspections (40,43)
+    place:Ypres (70,49)
+    reference:C in C inspection - gallant conduct speach (37,51)
+  19 Jun 1915 58
+    domestic:inspections (43,61)
+    person:Captain M L Yeatherd (joined) (35,67)
+    person:Second Lieutenant D Morgan (joined) (49,69)
+    person:Second Lieutenant D Morgan (joined) (35,69)
+    person:Second Lieutenant F D Balfour (joined) (43,71)
+    person:Second Lieutenant F D Balfour (joined) (54,71)
+    person:Second Lieutenant J K Swire (joined) (46,73)
+    person:Second Lieutenant E P L Pelly (joined) (45,76)
+    person:Second Lieutenant R C Weatherby (joined) (54,78)
+    person:Second Lieutenant R C Weatherby (joined) (42,79)
+  20 Jun 1915 82
+    person:Sergeant Major W C Howard (award) (52,83)
+    person:Sergeant Major W C Howard (award) (27,83)
+  21 Jun 1915 87
+    domestic:religion (36,87)
+    activity:training (31,90)
+Page 42 (type diary) http://wd3.herokuapp.com/pages/AWD0000joi  ----------
+  23 Jun 1915 26
+    activity:training (31,26)
+    place:Blaringhem (12,26)
+    activity:training (29,29)
+    place:Blaringhem (13,29)
+  24 Jun 1915 32
+    activity:training (38,32)
+    activity:training (29,36)
+    place:Blaringhem (13,36)
+  25 Jun 1915 39
+    activity:training (29,42)
+    place:Blaringhem (17,42)
+    domestic:inspections (30,45)
+    activity:other (31,49)
+    place:Guarlingham (39,49)
+  26 Jun 1915 51
+    activity:training (33,54)
+    activity:training (28,55)
+    place:Blaringhem (14,56)
+  27 Jun 1915 59
+    place:Blaringhem (52,59)
+    activity:movement (27,60)
+    place:Le Croquet (40,60)
+    place:Blaringhem (14,63)
+    domestic:religion (29,64)
+  28 Jun 1915 65
+    activity:training (28,68)
+    place:Blaringhem (14,70)
+  29 Jun 1915 72
+  30 Jun 1915 76
+    activity:training (32,76)
+    place:Blaringhem (15,76)
+    activity:training (29,81)
+    place:Blaringhem (14,81)
+    person:Captain M L Yeatherd (author) (47,87)
+Page 43 (type signals) http://wd3.herokuapp.com/pages/AWD0000jo6  ----------
+  30 Jun 1915 0
+    signals:other (36,35)
+    unit:8 Cavalry Brigade (49,80)
+Page 44 (type ) http://wd3.herokuapp.com/pages/AWD0000jkz  ----------
+  30 Jun 1915 0
+    person:Sergeant B Howard (award) (25,53)
+    person:Private Howard (award) (24,61)
+    date:13 Jun 1915 (29,84)
+Page 45 (type report) http://wd3.herokuapp.com/pages/AWD0000jny  ----------
+  30 Jun 1915 0
+    date:13 Jun 1915 (64,13)
+    person:Sergeant W C Howard (award) (9,32)
+    reference:Medal of St George Class 1 (24,38)
+    reference:attack on BRIELEN 13/5/15- gallant conduct speach (20,50)
+    person:Major H F Wickham (other) (53,82)
+Page 46 (type report) http://wd3.herokuapp.com/pages/AWD0000jmt  ----------
+  30 Jun 1915 0
+    person:Corporal G Wear (award) (9,22)
+    reference:Medal of St George Class 2 (26,23)
+    reference:8th Cavalry Brigade (49,23)
+    reference:Brielen (75,23)
+    reference:attack on BRIELEN 13/5/15- was in the trenches and bandaged wounded men etc (57,32)
+    person:Private Howard (award) (11,68)
+    reference:St George's Cross Class 4 (26,69)
+    reference:Brielen (45,71)
+    reference:attack on BRIELEN 13/5/15- was bringing in the wounded under heavy shellfire, collapsed & taken to hospital (42,83)
+    person:Major H F Wickham (68,94)
+Page 47 (type cover)
+Page 48 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmu  ----------
+  1 Jul 1915 20
+    place:Blaringhem (19,25)
+    place:Blaringhem (11,29)
+    person:Private Barrow (discipline) (44,29)
+    domestic:discipline (29,30)
+  3 Jul 1915 31
+    reference:Hot baths for whole regiment at LARDESCQUE Factory (70,31)
+    place:Wardrecques (53,33)
+  4 Jul 1915 35
+    activity:training (46,38)
+  5 Jul 1915 40
+    activity:training (32,43)
+  6 Jul 1915 45
+    domestic:parades (38,49)
+    person:Second Lieutenant Meyer (other) (28,53)
+  7 Jul 1915 64
+    person:Second Lieutenant Pelly (27,69)
+    place:Berthen (58,70)
+  8 Jul 1915 73
+  9 Jul 1915 77
+    domestic:inspections (30,83)
+Page 49 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlh  ----------
+  10 Jul 1915 22
+    place:Blaringhem (20,26)
+  11 Jul 1915 29
+    domestic:sport (45,29)
+    person:Lieutenant Wedd (other) (32,33)
+  12 Jul 1915 36
+    domestic:hygiene (52,37)
+    place:Sailly (27,37)
+    place:Wardrecques (69,37)
+    activity:repair (41,37)
+  13 Jul 1915 41
+    person:Captain M L Yeatherd (departed_sick) (28,45)
+  14 Jul 1915 46
+    place:Sailly (55,49)
+  15 Jul 1915 50
+    activity:repair (41,50)
+  16 Jul 1915 54
+  17 Jul 1915 58
+  18 Jul 1915 62
+    reference:Trench digging at Sailly then another 132 ordered for digging party (65,62)
+    activity:repair (44,62)
+  19 Jul 1915 65
+  20 Jul 1915 68
+    person:Major Gold (other) (66,73)
+    place:Neuve Eglise (49,73)
+    activity:repair (34,73)
+    place:Elverdinghe (48,76)
+    person:Major Buxton (other) (66,77)
+  22 Jul 1915 86
+    reference:Staff ride under G O C Brigade for remaing officers {Horses still ?) (42,87)
+Page 50 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmj  ----------
+  24 Jul 1915 27
+    activity:repair (52,27)
+    place:Elverdinghe (51,27)
+    place:Blaringhem (9,27)
+    place:Blaringhem (7,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (73,30)
+  25 Jul 1915 31
+    place:Neuve Eglise (51,31)
+  26 Jul 1915 34
+    person:Major Buxton (other) (27,37)
+    place:Elverdinghe (58,37)
+  27 Jul 1915 39
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (50,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (32,40)
+  28 Jul 1915 43
+    place:Wardrecques (43,43)
+    domestic:hygiene (28,44)
+  29 Jul 1915 46
+  30 Jul 1915 49
+  31 Jul 1915 52
+    person:Second Lieutenant F C Meyer (author) (55,68)
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD0000jq1  ----------
+  1 Aug 1915 23
+    place:Blaringhem (6,26)
+  2 Aug 1915 27
+  3 Aug 1915 31
+    activity:resting (34,32)
+  4 Aug 1915 35
+    activity:movement (33,39)
+    domestic:accomodation (35,43)
+    reference:Billets allocated for qwuadrons in villages along the R Lyse 'Very hilly country" (72,58)
+  5 Aug 1915 64
+    reference:No water or pasture [? for horses? ] along the R Lyse 'Very hilly country" (53,66)
+  6 Aug 1915 67
+    place:Matringhem (7,67)
+  7 Aug 1915 71
+    person:Major Wickham (promotion) (37,79)
+    person:Lieutenant Wedd (promotion) (37,83)
+  8 Aug 1915 85
+    person:Lieutenant Johnson (promotion) (39,86)
+Page 52 (type diary) http://wd3.herokuapp.com/pages/AWD0000jld  ----------
+  9 Aug 1915 23
+    activity:training (42,27)
+    place:Matringhem (10,27)
+  10 Aug 1915 30
+    place:Matringhem (8,30)
+    activity:training (32,33)
+  11 Aug 1915 37
+    activity:training (43,38)
+  12 Aug 1915 45
+    place:Armentieres (37,45)
+  13 Aug 1915 48
+    activity:repair (44,51)
+    place:Armentieres (58,52)
+    person:Captain Ruggles Brise (other) (30,55)
+  14 Aug 1915 56
+    person:Major Hill (joined) (29,59)
+  15 Aug 1915 60
+    person:Major Hill (joined) (44,60)
+  16 Aug 1915 63
+    activity:repair (48,63)
+    place:Armentieres (62,63)
+  17 Aug 1915 66
+    person:Major A B Cator (other) (37,69)
+  18 Aug 1915 74
+  19 Aug 1915 78
+  20 Aug 1915 81
+    place:Blaringhem (69,81)
+  21 Aug 1915 84
+    person:Second Lieutenant C N Gilbey (promotion) (55,87)
+    person:Second Lieutenant H P Holt (promotion) (71,87)
+    person:Second Lieutenant J C Chaplin (promotion) (37,90)
+    person:Second Lieutenant J K Swire (promotion) (59,90)
+    person:Second Lieutenant T F Buxton (promotion) (68,91)
+    person:Second Lieutenant F C Meyer (promotion) (36,93)
+Page 53 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpk  ----------
+  23 Aug 1915 28
+    unit:2 Cavalry Brigade (64,28)
+    person:Captain J Macarthur (departed_posted) (33,28)
+    place:Matringhem (12,28)
+  24 Aug 1915 30
+    reference:Suggests no longer a need for a Vet. for horses? So transferred to 2 Cav Bde that has not been dismounted?# (28,31)
+    place:Matringhem (13,31)
+    time:1200AM (70,33)
+    place:Armentieres (57,33)
+  25 Aug 1915 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,36)
+  26 Aug 1915 38
+  27 Aug 1915 41
+    activity:attack (36,41)
+    place:Lisbourg (58,41)
+    activity:attack (47,44)
+    place:Le Biez (53,44)
+    reference:Horses picqueted down on plough for practise? need for horses? So transferred to 2 Cav Bde that has not been dismounted?# (61,48)
+    person:Sergeant Smith (departed_posted) (31,49)
+  21 Aug 1915 0
+  27 Aug 1915 41
+  28 Aug 1915 51
+    person:Captain Wedd (other) (30,55)
+    activity:other (42,56)
+  29 Aug 1915 58
+    place:La Motte (30,58)
+  30 Aug 1915 61
+    person:Lieutenant White (departed_sick) (31,61)
+  31 Aug 1915 64
+    place:Lisbourg (53,64)
+    place:Crepy (46,67)
+    activity:training (34,68)
+    reference:Training: wood fighting, attack on a hill- 'very succesful day' (28,77)
+    person:Second Lieutenant F C Meyer (author) (58,80)
+Page 54 (type cover)
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnh  ----------
+  Hashtags: #2Spies 
+  1 Sep 1915 24
+    place:Lisbourg (52,29)
+    place:Matringhem (9,29)
+  2 Sep 1915 33
+    place:Matringhem (11,33)
+  3 Sep 1915 36
+    person:Captain Stork (joined) (61,38)
+    weather:rain (30,39)
+  4 Sep 1915 42
+  6 Sep 1915 49
+  7 Sep 1915 52
+    activity:training (35,53)
+    person:Major Whitmore (32,55)
+  9 Sep 1915 59
+    activity:training (35,64)
+  10 Sep 1915 66
+    reference:Training: 2 officers & 4 NCOs attended gassing demonstration (71,67)
+    person:Lieutenant Colonel Wickham (departed_posted) (29,70)
+    person:Major Whitmore (other) (46,73)
+  11 Sep 1915 76
+Page 56 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmw  ----------
+  15 Sep 1915 27
+    place:Matringhem (14,27)
+  17 Sep 1915 32
+    domestic:sport (35,35)
+    time:1130PM (30,40)
+  18 Sep 1915 45
+    time:0800AM (43,46)
+  19 Sep 1915 48
+    reference:Draft of 34 horses arrived (54,50)
+    domestic:religion (33,51)
+  20 Sep 1915 52
+  21 Sep 1915 58
+    place:Fruges (34,59)
+    domestic:parades (39,62)
+    activity:movement (36,69)
+    unit:A S C (33,86)
+Page 57 (type diary) http://wd3.herokuapp.com/pages/AWD0000jl2  ----------
+  Hashtags: #Respirators 
+  21 Sep 1915 23
+    place:Bois des Dames (64,26)
+  22 Sep 1915 30
+    place:Lapugnoy (11,35)
+  23 Sep 1915 38
+    activity:training (39,42)
+    person:Sergeant Holland (other) (62,56)
+  24 Sep 1915 60
+    weather:rain (62,60)
+    place:Vermelles (41,60)
+    person:Lieutenant Tufnell (other) (34,64)
+    person:Lieutenant Chaplin (other) (47,64)
+    reference:the use of horses still possible when cavalry routyes the woods were reconnoitered (44,69)
+    activity:reconnoitered (38,70)
+    person:Lieutenant Gilbey (other) (32,79)
+    time:0830PM (48,86)
+Page 58 (type diary) http://wd3.herokuapp.com/pages/AWD0000jn2  ----------
+  Hashtags: #Loos 
+  25 Sep 1915 23
+    place:Vermelles (12,26)
+    time:0530AM (60,27)
+    time:0830AM (32,29)
+    unit:10 Hussars (68,30)
+    reference:Saddled up at 5.30, departed 8.30 with R H Guards, 10th Hussars & Essex Yeomanry (82,31)
+    unit:R H G (57,31)
+    place:Vermelles (7,31)
+    place:Vaudricourt (56,33)
+    place:Philosophe (53,49)
+    place:Vermelles (32,54)
+    weather:rain (37,70)
+    reference:Saw woded brought back, about 700 prisoners, no shelter saddled up next morning at 5.30,  (78,71)
+    time:0530AM (33,81)
+Page 59 (type diary) http://wd3.herokuapp.com/pages/AWD0000jn1  ----------
+  26 Sep 1915 23
+    reference:Orders at 3.30am to saddle up and leave 4.30 but'nothing happened'. Road crowded with stragglers coming back 2pm demounted to go to trenches (51,26)
+    time:0330AM (40,27)
+    place:Vermelles (15,27)
+    time:0430AM (59,30)
+    time:0200PM (58,41)
+    time:0300PM (61,55)
+    reference:Horse moved back 3pm demounted troops to move up, at 6.30 pm to occupy a German trench (63,64)
+    time:0700PM (41,81)
+    person:Lieutenant Gilbey (other) (41,88)
+    reference:Heavy firing as troops went forward to a captured trench (34,95)
+Page 60 (type diary) http://wd3.herokuapp.com/pages/AWD0000jjp  ----------
+  26 Sep 1915 22
+    place:Vermelles (16,27)
+    reference:When the column was within 100 yards of the fire trenches, Brogade Major said not required so marched back again# (60,29)
+  27 Sep 1915 31
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (54,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (62,32)
+    place:Vermelles (17,35)
+    unit:R H G (62,38)
+    unit:10 Hussars (70,38)
+    activity:line (28,39)
+    unit:10 Hussars (72,39)
+    place:Loos (40,47)
+    unit:3 Dragoon Guards (31,49)
+    mapRef:G36C (65,50)
+    unit:3 Dragoon Guards (43,52)
+    activity:fire (48,62)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,63)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (73,64)
+    person:Private Squirrel (casualty_kia) (53,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (33,66)
+    unit:R H G (31,82)
+    unit:140 Brigade (34,89)
+    unit:20 London Regiment, 140 Brigade (44,89)
+    unit:3 D G (66,90)
+    reference:When they took over the trenches they were shalllow some shoulder height and had been dug by previous Dragoons during the night. poor fire points chosen (26,93)
+Page 61 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmd  ----------
+  27 Sep 1915 23
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (67,34)
+    person:Second Lieutenant Pelly (casualty_wounded) (60,34)
+    activity:line (54,39)
+    person:Captain Brise (casualty_wounded) (59,44)
+    person:Lieutenant Swire (casualty_wounded) (60,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (62,48)
+    person:Second Lieutenant Pelly (casualty_wounded) (41,49)
+    activity:fire (38,51)
+    unit:140 Brigade (68,53)
+    unit:140 Brigade (52,53)
+    activity:fire (41,60)
+    place:Loos (32,60)
+    domestic:rations (36,74)
+  28 Sep 1915 75
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,75)
+    unit:R H G (59,82)
+    domestic:rations (68,83)
+    place:Hill 70 (27,88)
+    unit:Guards Division (46,88)
+    person:Lieutenant Preston (combat) (31,90)
+    activity:repair (47,93)
+    weather:rain (34,95)
+    weather:rain (41,95)
+Page 62 (type diary) http://wd3.herokuapp.com/pages/AWD0000jo1  ----------
+  28 Sep 1915 22
+    reference:men were fatigued, trenches chalk were poor relieved at night by 9th Kings Liverpool TF succesfully. No M G so Lt Preston stayed with his 3 (24,25)
+    unit:13 Division (52,28)
+    unit:9 Kings Liverpool Regiment (32,30)
+    person:Lieutenant Preston (other) (41,34)
+    place:Loos (55,36)
+  29 Sep 1915 37
+    weather:rain (64,37)
+    place:Gosnay (17,38)
+    place:Noyelles les Vermelles (57,42)
+    reference:Horses left in rear 4 to 1 man, when trench parties returned 4 am -given hot soup & warm rum/water. immediate order to 'saddle up' (37,44)
+    time:0400AM (53,45)
+    place:Gosnay (16,47)
+    activity:movement (53,49)
+    time:0700AM (35,51)
+    place:Gosnay (52,53)
+    domestic:accomodation (28,55)
+    activity:resting (45,57)
+  30 Sep 1915 58
+    reference:Horses left in a field nearby where the men were billeted in coalminers tenements at Gosnay (45,59)
+    domestic:parades (39,62)
+    domestic:hygiene (66,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (70,70)
+    person:Lieutenant Preston (other) (56,70)
+    person:Captain Knowles Jackson (author) (39,78)
+Page 63 (type diary) http://wd3.herokuapp.com/pages/AWD0000jps  ----------
+  1 Oct 1915 24
+    place:Labeuvriere (64,26)
+    activity:movement (48,26)
+    place:Gosnay (9,28)
+    person:Captain T Knowles Jackson (joined) (36,29)
+    person:Second Lieutenant Tuczek (joined) (49,31)
+  2 Oct 1915 39
+    place:Labeuvriere (9,42)
+    activity:training (33,42)
+  3 Oct 1915 43
+    domestic:religion (26,47)
+    place:Labeuvriere (8,47)
+    place:Hurionville (69,50)
+    place:Lillers (49,50)
+    activity:movement (44,50)
+  4 Oct 1915 52
+    place:Hurionville (8,55)
+    place:Hurionville (7,58)
+  5 Oct 1915 59
+    activity:training (62,62)
+    weather:rain (27,63)
+  6 Oct 1915 64
+  7 Oct 1915 66
+    weather:fine (26,67)
+    activity:training (45,67)
+    activity:training (29,69)
+  8 Oct 1915 74
+    place:Playground (55,74)
+    activity:training (48,77)
+    activity:training (30,78)
+  9 Oct 1915 79
+    activity:training (31,83)
+  10 Oct 1915 85
+    domestic:religion (26,88)
+    weather:fine (57,92)
+Page 64 (type diary) http://wd3.herokuapp.com/pages/AWD0000jjq  ----------
+  Hashtags: #football 
+  11 Oct 1915 24
+    activity:training (37,28)
+    place:Hurionville (10,29)
+    domestic:sport (70,31)
+  12 Oct 1915 33
+    person:Second Lieutenant Windle (joined) (50,33)
+    place:Hurionville (9,35)
+    activity:training (30,36)
+  13 Oct 1915 38
+    place:Ferfay (43,40)
+    activity:training (51,41)
+  14 Oct 1915 42
+    domestic:inspections (61,44)
+    domestic:parades (33,45)
+    activity:training (53,46)
+  15 Oct 1915 47
+    weather:fog (42,49)
+  16 Oct 1915 56
+    person:Second Lieutenant Bruce (joined) (27,56)
+    person:Second Lieutenant Chaplin (joined) (33,56)
+    domestic:accomodation (52,58)
+    domestic:parades (35,59)
+    domestic:inspections (45,59)
+  17 Oct 1915 61
+    domestic:religion (30,64)
+    domestic:religion (26,64)
+    time:1145AM (41,64)
+  18 Oct 1915 66
+    activity:strength (42,66)
+    place:Rainsert (43,71)
+    unit:10 Hussars (37,73)
+    unit:Royal Horse Guards (27,73)
+    unit:Essex Regiment (53,73)
+  19 Oct 1915 74
+    place:Matringhem (64,74)
+    unit:R H G (27,74)
+    activity:movement (32,76)
+    place:Matringhem (58,77)
+    place:Vincly (66,77)
+  20 Oct 1915 78
+    domestic:inspections (57,80)
+    place:Matringhem (6,81)
+  21 Oct 1915 83
+    place:Wandonne (29,83)
+    domestic:hygiene (30,86)
+  22 Oct 1915 87
+    weather:fine (39,88)
+    weather:cold (47,88)
+  23 Oct 1915 90
+    place:Rouen (57,92)
+    activity:strength (28,93)
+Page 65 (type diary) http://wd3.herokuapp.com/pages/AWD0000joj  ----------
+  24 Oct 1915 22
+    place:Matringhem (52,27)
+    place:Matringhem (10,28)
+    place:Reclinghem (62,29)
+    place:Senlis (48,35)
+  25 Oct 1915 37
+    weather:rain (53,38)
+    domestic:religion (29,38)
+    place:Vincly (38,38)
+    unit:3 Cavalry Division (40,40)
+  26 Oct 1915 44
+  27 Oct 1915 46
+    domestic:accomodation (60,48)
+    weather:rain (41,49)
+  30 Oct 1915 51
+    domestic:hygiene (31,52)
+  31 Oct 1915 54
+    person:Captain Benson (joined) (51,56)
+    weather:rain (41,57)
+    domestic:religion (29,57)
+    person:Captain Stork (departed_sick) (52,59)
+    person:Captain T Knowles Jackson (author) (46,68)
+Page 66 (type cover)
+Page 67 (type diary) http://wd3.herokuapp.com/pages/AWD0000jq8  ----------
+  25 Nov 1915 22
+    activity:reconnoitered (55,25)
+    place:Humbert (35,28)
+    place:Hucqueliers (48,28)
+    place:Embry (9,29)
+    activity:training (34,31)
+  26 Nov 1915 32
+    person:Second Lieutenant Winter Winter Rose (other) (52,32)
+    person:Second Lieutenant J A Weatherby (other) (63,32)
+    activity:training (30,36)
+    place:Fruges (56,37)
+    place:Hucqueliers (47,38)
+  27 Nov 1915 40
+    activity:training (36,41)
+    person:Captain Colmore (other) (44,44)
+    domestic:inspections (29,47)
+    place:Saint Denoeux (27,49)
+    weather:cold (50,51)
+  28 Nov 1915 55
+    weather:cold (29,57)
+  29 Nov 1915 58
+    unit:R H G (64,59)
+    unit:10 Hussars (53,60)
+    person:Lieutenant Davis (other) (65,67)
+    place:Humbert (27,67)
+    activity:training (49,68)
+    place:Pottier (41,69)
+    place:Boubers (30,70)
+  30 Nov 1915 72
+    place:Embry (27,72)
+    place:Boubers (53,74)
+    person:Lieutenant Davis (other) (43,75)
+    reference:A veterinary corps Lt Davis gave lectures to squadron on 29th and 30th November at 2.30pm (47,78)
+    domestic:parades (36,78)
+    person:Captain T Knowles Jackson (author) (47,84)
+Page 68 (type diary) http://wd3.herokuapp.com/pages/AWD0000jl5  ----------
+  15 Nov 1915 23
+    place:Matringhem (7,26)
+    weather:cold (38,27)
+    weather:fine (61,27)
+  16 Nov 1915 30
+    reference:Accomodation seen in new billets 'fair' but for the horses 'infifferent' (64,30)
+    weather:cold (40,32)
+    weather:cold (30,33)
+  17 Nov 1915 35
+    place:Embry (62,36)
+    place:Fruges (67,36)
+    time:0830AM (45,37)
+    activity:movement (48,38)
+    time:0130PM (41,41)
+    place:Embry (56,49)
+    place:Saint Denoeux (47,52)
+  18 Nov 1915 55
+    place:Humbert (44,55)
+    place:Embry (6,59)
+    weather:cold (33,59)
+    weather:cold (61,60)
+  19 Nov 1915 63
+    domestic:inspections (66,64)
+    activity:training (30,66)
+  23 Nov 1915 75
+    place:Pottier (56,76)
+  24 Nov 1915 82
+    weather:other (26,83)
+    person:Second Lieutenant Winter Rose (other) (50,89)
+Page 69 (type diary) http://wd3.herokuapp.com/pages/AWD0000jo2  ----------
+  24 Nov 1915 0
+    person:Captain E P W Wedd (other) (49,24)
+    activity:repair (48,27)
+    place:Matringhem (8,28)
+    person:Lieutenant F C Meyer (departed_training) (26,29)
+    person:Private Ansell (departed_training) (37,29)
+    place:Lumbres (59,30)
+    person:Second Lieutenant L C Chaplin (other) (42,36)
+    person:Lieutenant N J Tufnell (other) (26,37)
+    weather:rain (50,40)
+  6 Nov 1915 46
+    activity:training (36,46)
+  7 Nov 1915 49
+  8 Nov 1915 52
+    place:Matringhem (40,52)
+    place:Laires (57,55)
+  10 Nov 1915 60
+    activity:training (34,60)
+    domestic:inspections (37,63)
+    weather:rain (50,67)
+  11 Nov 1915 68
+  12 Nov 1915 73
+    weather:rain (52,73)
+  13 Nov 1915 76
+    weather:rain (28,77)
+    weather:rain (27,80)
+  14 Nov 1915 81
+    place:Matringhem (50,86)
+    domestic:religion (28,86)
+    reference:Draft of 24 and 3 horses arrived.  A Regimental Staff Ride had been planned before the move to new billet area (35,91)
+Page 70 (type cover)
+Page 71 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnn  ----------
+  Hashtags: #gas 
+  1 Dec 1915 26
+    place:Rimboval (60,28)
+    place:Embry (11,28)
+    activity:training (28,29)
+    place:Embry (9,31)
+  2 Dec 1915 33
+  3 Dec 1915 37
+    activity:training (42,39)
+  4 Dec 1915 41
+    reference:Draft of 3 Other Ranks and 2 horses arrived.   (44,44)
+  5 Dec 1915 46
+    domestic:religion (27,49)
+    time:1100AM (56,50)
+  6 Dec 1915 52
+    activity:repair (42,54)
+    domestic:sport (66,58)
+    person:Captain J S Gibbs (other) (53,58)
+  7 Dec 1915 60
+    place:Embry (38,60)
+    time:0630PM (47,60)
+    unit:Ghq (60,61)
+    unit:Ghq (60,62)
+    activity:training (38,63)
+    unit:8 Cavalry Brigade (46,65)
+  8 Dec 1915 66
+    place:Embry (28,66)
+    time:1200PM (36,66)
+    person:Major Buxton (other) (61,68)
+    place:Boubers (33,72)
+    time:0230PM (39,72)
+  9 Dec 1915 73
+    domestic:parades (31,75)
+    activity:training (39,75)
+    person:Lieutenant Davis (other) (48,75)
+  10 Dec 1915 77
+    place:Embry (28,77)
+    time:0230PM (34,78)
+    reference:Lt Daws veterinary gave a lecture on Causes of Debility in Horses' (37,79)
+    place:Montreuil (25,83)
+  11 Dec 1915 84
+    weather:rain (42,84)
+    weather:rain (54,84)
+    weather:rain (70,84)
+    domestic:parades (28,87)
+  12 Dec 1915 88
+    place:Embry (59,90)
+    weather:cold (37,91)
+    domestic:religion (55,92)
+Page 72 (type diary) http://wd3.herokuapp.com/pages/AWD0000jiv  ----------
+  Hashtags: #Mallein 
+  13 Dec 1915 25
+  14 Dec 1915 29
+    place:Embry (6,31)
+    person:Captain Wedd (other) (51,34)
+    person:Lieutenant Preston (other) (41,38)
+    person:Lieutenant Horsfall (author) (65,38)
+  15 Dec 1915 40
+    person:Captain Grove Grove White (joined) (28,43)
+    person:Second Lieutenant Balfour (departed_training) (34,46)
+    person:Corporal Brown (departed_training) (46,46)
+  17 Dec 1915 55
+    place:Le Bouillet Ferme (51,55)
+  18 Dec 1915 58
+  19 Dec 1915 67
+    reference:10 Other Ranks & 5 horses arrived from Rouen base (38,68)
+  20 Dec 1915 72
+    reference:The horses all hasd a Mallein test by AVC since Glanders had been found at other units in France m Rouen base (58,73)
+  21 Dec 1915 76
+Page 73 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlo  ----------
+  25 Dec 1915 24
+    place:Embry (5,30)
+  26 Dec 1915 33
+    person:Captain S S Gibbs (other) (55,34)
+    domestic:religion (31,37)
+  27 Dec 1915 40
+  28 Dec 1915 45
+  30 Dec 1915 56
+    place:Montreuil (30,56)
+  31 Dec 1915 60
+    unit:Dismounted Company (60,63)
+    place:Maresquel (48,69)
+    place:Lillers (71,69)
+    place:Maresquel (41,76)
+Page 74 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnu  ----------
+  1 Jan 1916 25
+    unit:Machine Gun Section (27,26)
+    place:Embry (6,28)
+    reference:60 men (59,30)
+    place:Maresquel (28,31)
+    place:Lillers (37,31)
+    time:1216PM (48,31)
+    reference:20 men from HQ (31,33)
+    domestic:sport (59,34)
+  2 Jan 1916 36
+    unit:Supply Column Players (46,36)
+    place:Montreuil (26,37)
+    unit:Dismounted Batalion (44,40)
+  3 Jan 1916 43
+    place:Embry (52,43)
+    domestic:religion (27,43)
+    time:0630PM (58,43)
+    place:Maresquel (65,46)
+    activity:movement (52,47)
+  4 Jan 1916 49
+    place:Bethune (27,49)
+    time:1030AM (38,49)
+    time:1216PM (61,49)
+    domestic:accomodation (57,52)
+    domestic:inspections (45,53)
+    unit:B Squadron (64,53)
+  5 Jan 1916 55
+    unit:Machine Gun Section (34,56)
+    domestic:inspections (38,59)
+    person:Major General Vaughan (other) (43,62)
+    place:Embry (27,68)
+    reference:100 men not yet arrived (53,68)
+  6 Jan 1916 71
+    unit:3 Cavalry Division (46,78)
+    reference:short of 100 men as the machine gun section had been moved away, dismounted squadrons were being used from essex Yeomanry for trench warfare. HQ concerns re cavalry strength? (70,81)
+Page 75 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlm  ----------
+  9 Jan 1916 26
+    unit:Signal Cavalry Corps (52,27)
+    person:Second Lieutenant W A Tuczek (departed_training) (27,28)
+    place:Embry (7,29)
+  11 Jan 1916 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (54,42)
+    person:Private W J Bradford (casualty_wounded) (49,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (27,44)
+  12 Jan 1916 45
+    person:Lieutenant V T G Hine (joined) (39,48)
+    person:Lieutenant J K Swire (joined) (53,49)
+  8 Jan 1916 0
+    unit:Essex Yeomanry (77,5)
+  13 Jan 1916 52
+    place:Colchester (36,52)
+    reference:87 men & 2 Lieutenants arrived from Colchester as replacements, dismounted Squadron men had been placed in 8th Dismounted Battalion where first casualty was reported. (61,53)
+  14 Jan 1916 56
+  16 Jan 1916 63
+    reference:1 horse arrived from base (39,63)
+    place:Embry (43,67)
+    person:Captain J S Gibbs (other) (60,67)
+  17 Jan 1916 68
+    domestic:religion (30,68)
+    unit:8 Dismounted (60,71)
+    person:Private H Jowers (casualty_died) (25,76)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,77)
+    unit:A Squadron (57,77)
+    person:Private Eade (casualty_kia) (27,79)
+    person:Lieutenant F C Meyer (other) (31,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (77,82)
+    person:Captain W A P Stokes (other) (48,82)
+    person:Captain C E Harford (other) (62,88)
+    person:Lieutenant E J Sayer (other) (29,89)
+    person:Captain R G Proby (other) (46,91)
+    person:Captain R A Thomson (other) (32,94)
+Page 76 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmm  ----------
+  18 Jan 1916 24
+    reference:Horses inspected by CO (64,27)
+    place:Embry (8,28)
+  19 Jan 1916 32
+    place:Embry (7,32)
+    unit:C Squadron (72,34)
+    domestic:inspections (49,35)
+    reference:Billets were featured in "Regimental Gunner" magazine (55,39)
+    domestic:inspections (28,48)
+  20 Jan 1916 54
+    reference:Horses inspected (52,56)
+    unit:B Squadron (58,57)
+    domestic:inspections (31,58)
+  21 Jan 1916 60
+    person:Lieutenant Balfour (other) (70,60)
+    domestic:inspections (49,65)
+    place:Rouen (63,69)
+    reference:11 horses & 1 OR arrived from Rouen (69,69)
+  23 Jan 1916 73
+    person:Lieutenant J K Swire (59,78)
+    person:Second Lieutenant A Winter Rose (other) (62,80)
+    person:Lieutenant J K Swire (other) (55,81)
+    person:Major E Hill (other) (28,82)
+    person:Lieutenant J C Chaplin (other) (42,82)
+    reference:44 OR and 4 officers sent to Dismounted Company Essex Yeomanry (50,85)
+    weather:other (39,89)
+Page 77 (type diary) http://wd3.herokuapp.com/pages/AWD0000jm5  ----------
+  24 Jan 1916 24
+    person:Lieutenant Tufnell (other) (52,27)
+    person:Second Lieutenant Weatherby (joined) (65,27)
+    person:Major Buxton (other) (29,28)
+    person:Lieutenant Gilbey (other) (41,28)
+    place:Embry (9,30)
+    place:Bethune (43,31)
+  25 Jan 1916 34
+    reference:44 OR and 4 officers returned from Bethune front (37,34)
+  26 Jan 1916 39
+    place:Bethune (55,42)
+    person:Second Lieutenant Morgan (departed_posted) (27,43)
+  27 Jan 1916 46
+    place:Bethune (54,49)
+    person:Lieutenant Colonel Yardley (other) (27,55)
+  28 Jan 1916 58
+    person:Second Lieutenant R W Bruce (departed_posted) (26,63)
+    person:Second Lieutenant L C Chaplin (joined) (32,69)
+  29 Jan 1916 71
+    person:Captain Parker (discipline) (30,75)
+  30 Jan 1916 83
+    person:Major Gold (other) (26,87)
+    person:Captain Jackson (other) (42,87)
+    domestic:religion (57,92)
+Page 78 (type diary) http://wd3.herokuapp.com/pages/AWD0000jky  ----------
+  30 Jan 1916 22
+    place:Embry (6,25)
+    place:Embry (5,29)
+    person:Second Lieutenant L C Chaplin (joined) (37,31)
+    person:Second Lieutenant Horsfall (other) (22,32)
+  31 Jan 1916 34
+    reference:16 cavalry horses evacuated to 20th Mobile Veterinary Section under orders of assistant Director of Remounts (ADR) (27,38)
+    activity:other (27,39)
+    person:Captain J O Parker (discipline) (32,43)
+    person:Captain Parker (other) (20,44)
+    person:Lieutenant Colonel F H D C Whitmore (20,47)
+    person:Lieutenant Eden J Sayer (author) (60,81)
+Page 79 (type diary) http://wd3.herokuapp.com/pages/AWD0000jks  ----------
+  Hashtags: #band #Concert 
+  1 Feb 1916 22
+    person:Lieutenant Colonel Whitmore (departed_sick) (67,24)
+    person:Lieutenant F C Meyer (other) (22,25)
+    place:Embry (5,26)
+  2 Feb 1916 27
+    person:Lieutenant Colonel H F Wickham (59,27)
+  3 Feb 1916 30
+    domestic:inspections (24,30)
+  4 Feb 1916 32
+    place:Embry (58,32)
+    domestic:inspections (25,33)
+    place:Embry (58,34)
+    domestic:inspections (24,34)
+  5 Feb 1916 35
+    person:Major E A Ruggles Brise (joined) (55,37)
+    domestic:sport (20,38)
+    domestic:sport (38,38)
+  6 Feb 1916 39
+    place:Rouen (49,40)
+  7 Feb 1916 41
+  8 Feb 1916 45
+    domestic:inspections (24,45)
+  9 Feb 1916 48
+    domestic:inspections (26,50)
+  10 Feb 1916 51
+    person:Captain E P W Wedd (departed_posted) (24,54)
+  11 Feb 1916 56
+    place:Maresquel (71,58)
+    activity:movement (32,59)
+    unit:8 Battalion (21,59)
+  12 Feb 1916 61
+    place:Rouen (53,64)
+  13 Feb 1916 65
+    place:Embry (64,68)
+    domestic:religion (58,68)
+  14 Feb 1916 69
+    domestic:religion (23,69)
+    activity:other (51,74)
+    place:Embry (41,82)
+    domestic:sport (63,82)
+    person:Captain J S Gibbs (other) (76,82)
+    domestic:sport (33,83)
+    domestic:sport (19,83)
+    person:Major G Gold (joined) (24,89)
+Page 80 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnk  ----------
+  Hashtags: #measles 
+  14 Feb 1916 0
+  15 Feb 1916 21
+    person:Second Lieutenant B F Wilmer (joined) (73,24)
+    person:Lieutenant H P Holt (joined) (20,25)
+    place:Embry (4,26)
+    person:Second Lieutenant Richardson (joined) (37,27)
+  16 Feb 1916 28
+    person:Second Lieutenant Richardson (joined) (23,28)
+  17 Feb 1916 31
+    person:Private L H Passiful (casualty_died) (23,32)
+  18 Feb 1916 35
+  19 Feb 1916 38
+    place:Rouen (82,42)
+  20 Feb 1916 44
+    place:Embry (30,44)
+    person:Lieutenant F C Meyer (other) (57,48)
+    place:Saint Denoeux (30,51)
+    domestic:religion (20,51)
+    person:Lance Corporal L Cook (award) (25,53)
+    unit:1 Corps (51,54)
+  21 Feb 1916 58
+    reference:GOC 1st Corps sent a special message thanking the cavalry for the 5 weeks they held a section of the trenches (55,58)
+    place:Embry (43,61)
+  22 Feb 1916 62
+    domestic:sport (20,62)
+  23 Feb 1916 65
+    domestic:medical (57,67)
+  24 Feb 1916 68
+    domestic:inspections (19,69)
+  25 Feb 1916 72
+    activity:training (35,72)
+    domestic:parades (20,72)
+    reference:GOC 1st Corps sent a special message thanking the cavalry for the 5 weeks they held a section of the trenches (36,75)
+  26 Feb 1916 76
+    activity:training (34,76)
+    domestic:parades (19,76)
+  27 Feb 1916 79
+    activity:training (34,79)
+    domestic:parades (19,79)
+    place:Rouen (64,80)
+  28 Feb 1916 82
+  29 Feb 1916 85
+    domestic:parades (19,86)
+    person:Captain Knowles Jackson (author) (70,87)
+    domestic:parades (19,89)
+Page 81 (type diary) http://wd3.herokuapp.com/pages/AWD0000jn3  ----------
+  Hashtags: #Machine #DCM 
+  1 Mar 1916 21
+  2 Mar 1916 25
+    place:Embry (7,25)
+    domestic:parades (22,25)
+    domestic:inspections (38,27)
+    domestic:parades (19,27)
+    place:Embry (6,28)
+  3 Mar 1916 30
+    person:Lieutenant T Preston (departed_posted) (72,35)
+    person:Second Lieutenant W P Batters (departed_posted) (19,38)
+    domestic:parades (57,40)
+    place:Rimboval (56,44)
+    unit:1 Brigade (57,46)
+  4 Mar 1916 47
+    domestic:accomodation (36,51)
+  5 Mar 1916 54
+  6 Mar 1916 58
+    place:Embry (38,58)
+    domestic:religion (32,58)
+    domestic:religion (19,58)
+    activity:training (37,62)
+    domestic:parades (19,62)
+  7 Mar 1916 66
+    person:Sergeant A E Abbott (award) (27,66)
+    weather:cold (63,68)
+    weather:cold (51,68)
+    domestic:parades (19,69)
+    reference:Special order published of the dissolution of the Cavalry Corps "Squadron parade heavy...." (74,72)
+  8 Mar 1916 75
+    weather:cold (49,78)
+    weather:cold (35,78)
+    domestic:parades (19,79)
+  9 Mar 1916 80
+    domestic:parades (19,83)
+  10 Mar 1916 84
+    domestic:parades (19,87)
+    domestic:inspections (38,87)
+    person:Captain Davis (other) (44,89)
+Page 82 (type diary) http://wd3.herokuapp.com/pages/AWD0000jkw  ----------
+  Hashtags: #Hotchkiss #McConnell #inoculated 
+  11 Mar 1916 22
+    place:Embry (5,25)
+    domestic:parades (18,25)
+  12 Mar 1916 26
+    place:Saint Denoeux (37,29)
+    place:Embry (5,29)
+    weather:other (57,29)
+    domestic:religion (19,30)
+  13 Mar 1916 33
+    activity:training (39,34)
+    domestic:parades (42,35)
+    weather:fine (19,36)
+    place:Humbert (45,38)
+  14 Mar 1916 40
+    weather:fine (75,42)
+    domestic:inspections (27,44)
+    domestic:medical (19,46)
+  15 Mar 1916 49
+    domestic:inspections (65,51)
+    domestic:parades (18,52)
+    activity:training (40,52)
+  16 Mar 1916 55
+    place:Rimboval (72,56)
+    activity:training (32,57)
+    person:Colonel Kentish (other) (45,57)
+    domestic:parades (19,59)
+  17 Mar 1916 66
+    place:Meteren (30,66)
+    domestic:parades (18,70)
+  18 Mar 1916 71
+    domestic:parades (34,71)
+    domestic:parades (18,74)
+    domestic:parades (29,74)
+  19 Mar 1916 75
+    place:Embry (28,77)
+    domestic:religion (19,78)
+  20 Mar 1916 79
+    domestic:inspections (26,81)
+    place:Lebiez (40,83)
+    place:Torcy (47,83)
+    place:Royon (54,83)
+  21 Mar 1916 85
+    weather:rain (52,89)
+Page 83 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmk  ----------
+  Hashtags: #Hotchkiss #sniping #hotchkiss #bombing #bayonet #pioneer #WritingOrders 
+  22 Mar 1916 22
+    person:Major Campbell (other) (48,25)
+    domestic:parades (22,25)
+    activity:training (38,25)
+    place:Rimboval (19,27)
+    place:Embry (6,28)
+  23 Mar 1916 30
+    activity:repair (25,31)
+  24 Mar 1916 34
+    domestic:parades (22,34)
+  25 Mar 1916 36
+    domestic:parades (19,36)
+  26 Mar 1916 39
+    domestic:parades (20,39)
+    place:Saint Denoeux (37,41)
+    place:Embry (67,41)
+  27 Mar 1916 42
+    domestic:religion (19,42)
+    domestic:religion (25,42)
+    domestic:parades (19,44)
+    activity:training (39,44)
+    activity:training (52,44)
+    domestic:parades (27,45)
+    place:Sempy (65,49)
+    activity:training (19,49)
+    person:Second Lieutenant Morgan (other) (27,52)
+    person:Sergeant Wear (other) (39,52)
+    person:Sergeant Fenn (other) (52,52)
+    person:Sergeant Siddons (other) (63,52)
+    place:Saint Denoeux (75,53)
+    place:Tramecourt (78,58)
+    person:Second Lieutenant F Wilmer (departed_training) (22,65)
+    person:Lieutenant C N Gilbey (departed_training) (54,65)
+    person:Private T S Fairweather (departed_training) (89,65)
+    person:Sergeant H B Worts (departed_training) (42,66)
+    person:Private T S Fairweather (departed_training) (77,66)
+    person:Sergeant H B Worts (departed_training) (40,66)
+    person:Second Lieutenant F D Balfour (departed_training) (54,67)
+    person:Corporal C B Butler (departed_training) (24,68)
+    person:Private C N Ridgewell (departed_training) (42,68)
+    person:Private J A Cowell (departed_training) (78,68)
+    person:Corporal S H Tommy (departed_training) (61,69)
+    person:Private E A Wilson (departed_training) (21,70)
+    person:Private A S Rutland (departed_training) (40,70)
+    person:Private A Burch (departed_training) (78,70)
+    person:Corporal C T Halford (departed_training) (68,71)
+    person:Corporal C T Halford (departed_training) (54,71)
+    person:Private P H Pratt (departed_training) (25,72)
+    person:Lance Corporal F Brunwin (departed_training) (58,73)
+    person:Private W T Bently (departed_training) (23,74)
+    person:Private Bolleter (departed_training) (69,75)
+    person:Private H E Bolleter (departed_training) (53,75)
+  28 Mar 1916 83
+    domestic:parades (27,87)
+    domestic:parades (19,87)
+    activity:training (42,87)
+Page 84 (type diary) http://wd3.herokuapp.com/pages/AWD0000jow  ----------
+  Hashtags: #Hotchkiss 
+  28 Mar 1916 0
+  29 Mar 1916 22
+    place:Rimboval (78,24)
+    place:Embry (6,25)
+    person:Colonel Kaye (other) (46,25)
+    domestic:parades (18,25)
+    activity:training (40,25)
+  30 Mar 1916 26
+    domestic:parades (29,26)
+    activity:training (35,28)
+    domestic:parades (18,29)
+    place:Embry (5,30)
+    domestic:parades (25,30)
+    domestic:inspections (56,34)
+  31 Mar 1916 37
+    domestic:parades (21,41)
+    activity:training (35,42)
+    person:Captain T Knowles Jackson (author) (56,51)
+Page 85 (type diary) http://wd3.herokuapp.com/pages/AWD0000jq6  ----------
+  Hashtags: #sniping #Hotchkiss #pioneer #bombing 
+  1 Apr 1916 22
+    place:Embry (5,25)
+    domestic:inspections (20,25)
+  2 Apr 1916 29
+    place:Embry (7,30)
+    place:Embry (64,31)
+    place:Saint Denoeux (33,32)
+    domestic:religion (20,32)
+  3 Apr 1916 33
+    person:Corporal G Crees (departed_training) (53,42)
+    person:Private T Bye (departed_training) (21,43)
+    person:Private E W Bewers (departed_training) (37,43)
+    person:Lance Corporal A Bulling (departed_training) (71,43)
+    person:Private J Lowe (departed_training) (24,45)
+    person:Private H Digby (departed_training) (57,45)
+    person:Private F Last (departed_training) (83,45)
+    person:Private J Smith (departed_training) (42,46)
+    person:Private W K Warren (departed_training) (20,47)
+    person:Private B Smith (departed_training) (56,47)
+    person:Private A T Hall (departed_training) (75,48)
+    place:Rouen (40,50)
+    place:Brineux (60,54)
+    place:Henoville (67,54)
+    activity:repair (30,55)
+  4 Apr 1916 56
+  5 Apr 1916 59
+    domestic:inspections (19,59)
+    place:Embry (87,61)
+    person:Captain Gibbs (other) (66,61)
+    domestic:parades (20,62)
+    domestic:sport (36,62)
+    activity:training (48,63)
+  6 Apr 1916 65
+    person:Lieutenant Colonel M F Gage (other) (68,67)
+    activity:training (27,67)
+    domestic:parades (20,68)
+  7 Apr 1916 71
+    place:Rimboval (20,71)
+    activity:training (34,72)
+    domestic:parades (21,73)
+    person:Lieutenant V T G Hine (promotion) (39,73)
+    person:Second Lieutenant C N Gilbey (promotion) (27,76)
+    person:Second Lieutenant J C Chaplin (promotion) (47,76)
+    person:Second Lieutenant S J Tufnell (promotion) (56,76)
+    person:Second Lieutenant H P Holt (promotion) (40,77)
+  8 Apr 1916 79
+    person:Sergeant G Wear (promotion) (20,79)
+    place:Crequy (69,80)
+    place:Lebiez (54,81)
+    place:Royon (60,81)
+    place:Torcy (65,81)
+    domestic:parades (21,81)
+    activity:training (35,82)
+  9 Apr 1916 84
+    place:Embry (30,87)
+Page 86 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlp  ----------
+  10 Apr 1916 21
+    domestic:inspections (24,25)
+    place:Embry (5,25)
+    person:Second Lieutenant G L Horsfall (departed_training) (37,27)
+    person:Captain R A Thomson (departed_training) (20,28)
+  11 Apr 1916 30
+  12 Apr 1916 34
+    domestic:parades (22,34)
+    place:Bois de Lebiez (59,36)
+  13 Apr 1916 37
+    domestic:parades (23,37)
+    place:Rimboval (53,38)
+    activity:training (38,38)
+    person:Captain R Simon (other) (32,39)
+    activity:training (23,42)
+    place:Embry (43,45)
+  15 Apr 1916 49
+    activity:other (23,50)
+  16 Apr 1916 53
+    domestic:inspections (19,53)
+    place:Embry (77,53)
+    place:Saint Denoeux (39,55)
+  17 Apr 1916 56
+    domestic:religion (21,56)
+    domestic:inspections (38,59)
+    place:Narenla (75,61)
+  18 Apr 1916 63
+    activity:training (25,64)
+    domestic:parades (22,67)
+  19 Apr 1916 68
+    person:Corporal S S Turner (other) (24,69)
+  20 Apr 1916 72
+    person:Lieutenant Colonel Brownlow (other) (30,72)
+  21 Apr 1916 75
+    domestic:parades (22,75)
+    activity:training (34,75)
+    person:Second Lieutenant G Wear (joined) (55,76)
+    domestic:parades (20,78)
+    place:Embry (81,78)
+    activity:training (39,79)
+  22 Apr 1916 80
+  23 Apr 1916 82
+    domestic:parades (25,82)
+    domestic:religion (20,86)
+    domestic:religion (28,87)
+    place:Embry (46,87)
+    place:Boubers (47,89)
+Page 87 (type diary) http://wd3.herokuapp.com/pages/AWD0000jml  ----------
+  24 Apr 1916 25
+    person:Second Lieutenant G Wear (departed_training) (40,27)
+    person:Second Lieutenant A Richardson (departed_training) (59,27)
+    place:Embry (9,28)
+    person:Lieutenant J C Chaplin (departed_training) (27,28)
+    place:Tramecourt (40,29)
+    activity:training (27,33)
+    place:Embry (60,34)
+    time:0900AM (70,34)
+    person:Colour Sergeant A G S Edmonds (other) (28,35)
+  25 Apr 1916 42
+    domestic:parades (26,42)
+    place:Humbert (47,44)
+    time:1000AM (58,44)
+    domestic:parades (29,46)
+    place:Embry (71,49)
+  26 Apr 1916 53
+    domestic:parades (28,56)
+  27 Apr 1916 59
+    activity:training (29,61)
+    place:Saint Michel (69,62)
+    domestic:sport (58,62)
+    domestic:sport (48,63)
+  28 Apr 1916 64
+    domestic:parades (27,64)
+  29 Apr 1916 68
+    domestic:parades (27,68)
+    place:Merlimont (74,70)
+    domestic:parades (30,72)
+  30 Apr 1916 73
+    place:Merlimont (33,76)
+    domestic:religion (52,77)
+    place:Embry (54,78)
+    person:Captain T Knowles Jackson (author) (54,87)
+Page 88 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnd  ----------
+  2 May 1916 30
+    place:Embry (7,30)
+    place:Lebiez (60,30)
+    activity:training (33,30)
+    domestic:parades (29,34)
+    time:0600PM (60,35)
+    place:Embry (54,35)
+  4 May 1916 41
+    domestic:parades (26,41)
+    domestic:inspections (45,42)
+    unit:Dunmow Troop 2 Southend 3 Waltham (62,45)
+    person:Private Faulkner (other) (49,49)
+    person:Private Faulkner (award) (61,49)
+  5 May 1916 53
+    activity:training (30,53)
+  6 May 1916 57
+    activity:training (37,59)
+  7 May 1916 61
+    place:Prehebre (63,61)
+  8 May 1916 65
+    domestic:religion (33,65)
+    place:Embry (48,65)
+  9 May 1916 68
+    domestic:inspections (61,68)
+    activity:training (29,69)
+  10 May 1916 76
+    domestic:parades (34,76)
+    domestic:inspections (47,76)
+    domestic:parades (30,79)
+  11 May 1916 80
+    person:Second Lieutenant G Wear (other) (56,84)
+    activity:training (30,85)
+    place:Embry (84,87)
+    activity:training (51,89)
+    domestic:sport (72,90)
+Page 89 (type blank)
+Page 90 (type diary) http://wd3.herokuapp.com/pages/AWD0000jma  ----------
+  19 May 1916 22
+    weather:hot (37,25)
+    place:Agenvillers (9,25)
+    place:Agenvillers (10,28)
+    activity:training (31,30)
+    activity:resting (51,35)
+  20 May 1916 37
+    time:0915AM (33,38)
+    person:General Campbell (other) (80,40)
+    activity:training (41,41)
+    person:Lieutenant Colonel Lord Tweedmouth (other) (65,42)
+    unit:8 Cavalry Brigade (49,48)
+  21 May 1916 49
+    activity:movement (36,52)
+    time:0630AM (48,53)
+    time:0130PM (85,53)
+    place:Embry (57,53)
+  22 May 1916 54
+  23 May 1916 57
+    activity:other (27,57)
+    place:Embry (8,58)
+    domestic:parades (57,61)
+  24 May 1916 62
+    domestic:accomodation (48,66)
+    domestic:inspections (58,66)
+  26 May 1916 72
+    weather:rain (33,73)
+  27 May 1916 76
+    domestic:inspections (36,76)
+    domestic:inspections (29,79)
+  28 May 1916 80
+    domestic:sport (58,80)
+    place:Embry (35,83)
+  29 May 1916 84
+    domestic:religion (29,84)
+    place:Henoville (52,87)
+    activity:training (31,89)
+    activity:repair (58,89)
+    place:Henoville (26,90)
+    place:Brimeux (35,91)
+Page 91 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlu  ----------
+  30 May 1916 21
+    weather:rain (89,25)
+    domestic:inspections (29,26)
+    place:Embry (8,26)
+  31 May 1916 28
+    place:Merlimont (51,31)
+    activity:movement (35,31)
+    time:0900AM (80,34)
+    domestic:parades (61,34)
+    place:Brimeux (54,35)
+    time:0200PM (79,38)
+    place:Villiers (60,40)
+    place:Cucq (49,41)
+    place:Cucq (47,45)
+    weather:fine (69,46)
+    person:Captain T Knowles Jackson (author) (48,56)
+Page 92 (type diary) http://wd3.herokuapp.com/pages/AWD0000jq2  ----------
+  1 Jun 1916 21
+    domestic:parades (35,24)
+    time:0830AM (46,24)
+    activity:training (46,25)
+    place:Cucq (9,26)
+    domestic:hygiene (45,27)
+    time:1000AM (29,28)
+  2 Jun 1916 29
+    weather:fine (27,30)
+    weather:fine (36,30)
+  3 Jun 1916 32
+    activity:training (26,33)
+    unit:3 Dragoon Guards (54,33)
+    activity:training (30,35)
+  4 Jun 1916 36
+    place:Cucq (55,37)
+  5 Jun 1916 38
+    domestic:religion (26,38)
+    time:1100AM (61,38)
+  6 Jun 1916 40
+    activity:training (26,40)
+    activity:training (32,41)
+    weather:cold (61,41)
+    weather:rain (27,42)
+    person:Second Lieutenant R Holland (joined) (52,42)
+  8 Jun 1916 45
+  9 Jun 1916 47
+    activity:training (26,47)
+    activity:training (27,47)
+    domestic:sport (57,48)
+  10 Jun 1916 49
+    domestic:hygiene (36,50)
+    domestic:parades (34,51)
+    time:0800AM (46,52)
+    place:Embry (8,53)
+  11 Jun 1916 54
+    place:Embry (31,54)
+    place:Boubers (42,54)
+  12 Jun 1916 57
+    domestic:religion (34,57)
+    domestic:religion (46,58)
+    domestic:inspections (61,60)
+    person:Major Gold (other) (55,60)
+    activity:repair (59,63)
+  13 Jun 1916 64
+    person:Captain Hine (other) (28,64)
+    place:Henoville (23,65)
+    place:Humbert (61,66)
+  14 Jun 1916 68
+    person:Second Lieutenant W Ritchie (joined) (61,69)
+  15 Jun 1916 72
+    activity:training (27,72)
+  16 Jun 1916 74
+    domestic:parades (27,75)
+  17 Jun 1916 76
+    domestic:parades (34,77)
+  18 Jun 1916 78
+    place:Embry (44,80)
+    time:0900AM (38,80)
+  19 Jun 1916 81
+    domestic:religion (28,81)
+    person:Major Anthony Buxton (award) (49,81)
+    person:Regimental Sergeant Major C Farrell (award) (70,81)
+    domestic:parades (31,85)
+Page 93 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpw  ----------
+  20 Jun 1916 21
+    place:Embry (5,25)
+    person:Second Lieutenant G L Horsfall (other) (25,25)
+    person:Second Lieutenant W Ritchie (other) (27,27)
+    place:Embry (5,28)
+    activity:training (26,29)
+  21 Jun 1916 30
+    domestic:parades (25,32)
+  22 Jun 1916 33
+    activity:training (27,36)
+  23 Jun 1916 37
+    activity:training (25,37)
+  24 Jun 1916 40
+    person:Second Lieutenant Balfour (other) (29,41)
+    person:Second Lieutenant W Ritchie (other) (40,41)
+    domestic:parades (36,43)
+    place:Embry (65,43)
+    activity:movement (58,44)
+    place:Le Bot de Marles (41,46)
+    place:Vironchaud (68,46)
+  25 Jun 1916 47
+    place:Vironchaud (6,49)
+    activity:movement (64,51)
+  26 Jun 1916 53
+    place:Crecy (46,53)
+    place:Saint Ouen (71,53)
+    weather:fine (25,55)
+    place:Saint Ouen (6,56)
+    domestic:accomodation (39,57)
+    place:Bonnay (46,59)
+    place:Saint Ouen (28,60)
+    place:Albert (69,60)
+    activity:movement (37,60)
+    reference:3rd Cavalry Division (29,62)
+  27 Jun 1916 65
+    weather:rain (28,65)
+    place:Bonnay (7,68)
+  28 Jun 1916 69
+    weather:rain (25,70)
+    place:Bonnay (5,72)
+    place:Albert (45,74)
+  29 Jun 1916 76
+    weather:other (25,79)
+    place:Albert (84,79)
+    weather:other (35,80)
+  30 Jun 1916 84
+    activity:enemy_activity (49,85)
+    weather:other (39,87)
+    activity:quiet (28,87)
+    person:Captain T Knowles Jackson (author) (57,93)
+Page 94 (type diary) http://wd3.herokuapp.com/pages/AWD0000jil  ----------
+  1 Jul 1916 22
+    time:0730AM (55,22)
+    time:0700AM (26,26)
+    place:Bonnay (8,26)
+    time:0830AM (55,30)
+    unit:13 Corps (49,34)
+    unit:15 Corps (53,34)
+    place:Somme (53,34)
+    place:Bonnay (10,34)
+  2 Jul 1916 43
+    place:Fricourt (39,35)
+    place:Thiepval (64,36)
+    place:Serre (73,36)
+    place:La Boiselle (31,38)
+    unit:13 Corps (49,48)
+    unit:15 Corps (54,48)
+    activity:enemy_activity (33,48)
+  3 Jul 1916 54
+    place:Froges (45,56)
+    place:Fruges (46,60)
+    place:Mametz (79,60)
+    place:Fricourt (68,63)
+    place:Mametz (43,64)
+    place:La Boiselle (68,64)
+  4 Jul 1916 67
+    time:0900AM (69,67)
+    place:Abbeville (78,68)
+    time:0230AM (56,71)
+    place:Amiens (84,73)
+    place:Bellifontaine (7,73)
+    time:0500AM (51,74)
+    place:Neuville (66,74)
+    place:Amien To Abbeville Road (58,76)
+    place:Ailly Sur Somme (38,78)
+    domestic:rations (30,81)
+    place:Abbeville (83,82)
+    place:Bellifontaine (58,87)
+    domestic:accomodation (39,90)
+Page 95 (type diary) http://wd3.herokuapp.com/pages/AWD0000jns  ----------
+  Hashtags: #lines #horses 
+  23 Jul 1916 92
+  5 Jul 1916 22
+  6 Jul 1916 25
+    place:Bellifontaine (3,25)
+  7 Jul 1916 27
+    place:Bellifontaine (5,28)
+    domestic:sport (25,28)
+  8 Jul 1916 30
+    weather:rain (19,31)
+    place:Bellifontaine (5,32)
+    place:Doncq (82,32)
+    activity:movement (24,34)
+    place:Amiens (64,35)
+    place:Hangest (33,36)
+    place:Corbie (64,38)
+  9 Jul 1916 39
+    place:Camon (27,39)
+    place:Corbie (23,42)
+    place:Bonnay (76,42)
+    activity:movement (21,42)
+    place:Corbie (5,44)
+  10 Jul 1916 45
+    place:Bonnay (48,47)
+    place:Corbie (54,47)
+    place:Bonnay (4,49)
+  11 Jul 1916 51
+    place:Bonnay (6,52)
+  12 Jul 1916 55
+    domestic:parades (27,58)
+  13 Jul 1916 59
+    place:Bonnay (6,62)
+  15 Jul 1916 67
+    person:Second Lieutenant L C Chaplin (returned_hospital) (19,70)
+  16 Jul 1916 74
+    domestic:religion (19,77)
+  17 Jul 1916 78
+  18 Jul 1916 84
+    weather:rain (19,84)
+    weather:rain (26,85)
+    place:Montauban (52,86)
+    activity:reconnoitered (27,86)
+  19 Jul 1916 88
+    unit:2 Indian Cavalry Division (60,91)
+    weather:fine (35,91)
+  23 Jul 1916 92
+Page 96 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmp  ----------
+  Hashtags: #traversing #hotchkiss 
+  31 Jul 1916 78
+  24 Jul 1916 23
+    place:Bonnay (8,32)
+    person:Second Lieutenant K C Herron (joined) (22,32)
+    person:Second Lieutenant D Morgan (departed_posted) (18,34)
+  25 Jul 1916 35
+    place:Becourt (41,41)
+    person:Second Lieutenant Chaplin (other) (23,43)
+    person:Second Lieutenant Charters (other) (34,43)
+    person:Second Lieutenant L C Chaplin (other) (20,43)
+    person:Captain J O Parker (other) (53,43)
+  26 Jul 1916 45
+    person:General Harman (other) (19,47)
+  27 Jul 1916 51
+    place:Becourt (70,53)
+    place:Contalmaison (25,55)
+    person:Captain Proby (other) (46,56)
+  28 Jul 1916 57
+    person:Major Gold (other) (22,57)
+    place:Becourt (53,58)
+    activity:training (35,60)
+  29 Jul 1916 62
+    domestic:inspections (36,65)
+    weather:hot (33,67)
+  30 Jul 1916 68
+    place:Becourt (27,68)
+    weather:hot (48,68)
+    place:Becourt (72,71)
+    person:Lieutenant J K Swire (other) (37,71)
+    person:Second Lieutenant L C Chaplin (other) (34,73)
+    domestic:religion (20,75)
+    place:Contalmaison (45,77)
+  31 Jul 1916 78
+    activity:movement (53,78)
+    weather:hot (48,81)
+    weather:hot (61,81)
+    place:Contay (44,83)
+    activity:other (57,84)
+    person:Second Lieutenant Ritchie (other) (23,84)
+    place:Saint Ricquier (37,87)
+    person:Captain T Knowles Jackson (author) (45,91)
+Page 97 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnb  ----------
+  1 Aug 1916 23
+    activity:movement (35,26)
+    place:Bonnay (48,26)
+    place:Bonnay (6,27)
+    place:Somme (73,28)
+    place:Amiens (20,29)
+    place:Citadel (33,29)
+    place:Hangest-Sur-Somme (63,31)
+    place:Hangest (7,32)
+    unit:10 Royal Hussars (43,34)
+    weather:hot (65,34)
+  2 Aug 1916 35
+    place:Ailly (32,38)
+    place:Saint Riquier (43,38)
+    place:Drucat (69,38)
+    place:Hangest (5,38)
+    activity:movement (24,39)
+    place:Hangest (28,41)
+    place:Drucat (5,42)
+    domestic:accomodation (20,44)
+  3 Aug 1916 47
+    activity:movement (43,50)
+    place:Drucat (7,51)
+  4 Aug 1916 54
+    place:Crecy (59,57)
+    place:Ligescourt (70,57)
+    place:Drucat (6,57)
+    time:0615AM (33,58)
+    activity:movement (24,58)
+    place:Drucat (26,58)
+    domestic:accomodation (32,60)
+    place:Moulmel (20,61)
+    place:Moulmel (7,61)
+  5 Aug 1916 66
+    activity:movement (46,69)
+    domestic:parades (21,69)
+    place:Blangy (59,69)
+    place:Moulmel (5,69)
+    weather:hot (61,77)
+    weather:hot (49,77)
+  6 Aug 1916 79
+    place:Blangy (6,82)
+  7 Aug 1916 83
+    domestic:parades (19,86)
+    domestic:parades (32,86)
+    person:Corporal Mann (other) (41,89)
+Page 98 (type diary) http://wd3.herokuapp.com/pages/AWD0000jkb  ----------
+  Hashtags: #disinfector #Foden 
+  20 Aug 1916 82
+  8 Aug 1916 23
+    place:Blangy (6,27)
+    activity:training (54,28)
+  9 Aug 1916 29
+    activity:training (19,29)
+    place:Blangy (6,31)
+    person:Sergeant Worts (other) (24,32)
+    person:Private Stringer (departed_posted) (44,32)
+    unit:21 Division (82,32)
+    place:Arras (67,32)
+  10 Aug 1916 33
+    person:Private Boyden (departed_posted) (53,33)
+    person:Lieutenant J K Swire (other) (23,36)
+    person:Second Lieutenant A Winter Rose (other) (69,36)
+  11 Aug 1916 37
+    domestic:inspections (57,40)
+  12 Aug 1916 44
+    time:1000AM (41,44)
+  13 Aug 1916 47
+    domestic:parades (19,47)
+    domestic:parades (26,48)
+    person:Lieutenant Colonel Whitmore (other) (43,51)
+    time:1100AM (35,51)
+    place:Senlis (62,51)
+    domestic:religion (19,51)
+    person:Second Lieutenant Watuczek (other) (39,55)
+  14 Aug 1916 59
+    unit:Machine Gun Squadron (34,59)
+    domestic:parades (19,62)
+  15 Aug 1916 63
+    domestic:parades (27,63)
+    activity:training (22,64)
+    domestic:parades (62,66)
+  16 Aug 1916 67
+  17 Aug 1916 71
+    activity:training (28,71)
+  18 Aug 1916 75
+  19 Aug 1916 79
+  20 Aug 1916 82
+    domestic:inspections (54,82)
+    time:0800AM (31,86)
+    reference:21st Div (63,86)
+    unit:21 Division (59,86)
+    domestic:religion (19,86)
+    person:Major G Gold (departed_leave) (36,90)
+    person:Lieutenant E J Sayer (departed_leave) (59,90)
+Page 99 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnz  ----------
+  21 Aug 1916 22
+    domestic:parades (19,26)
+    domestic:parades (27,26)
+  22 Aug 1916 27
+    place:Blangy (6,27)
+    person:Lieutenant F C Meyer (departed_posted) (22,30)
+    place:Blangy (7,31)
+    activity:training (24,35)
+  23 Aug 1916 36
+    activity:training (25,40)
+    person:Second Lieutenant A Winter Rose (departed_posted) (21,43)
+    unit:13 Corps, Royal Flying Corps (59,44)
+    person:Lieutenant Colonel Whitmore (other) (69,48)
+    unit:3 Cavalry Division (45,48)
+  24 Aug 1916 51
+    person:Private Warren (other) (72,55)
+    person:Private Watts (other) (87,55)
+    unit:21 Division (38,55)
+    person:Private A W King (departed_posted) (27,58)
+  25 Aug 1916 59
+    person:Private King (author) (27,59)
+    activity:training (40,69)
+  26 Aug 1916 78
+    unit:47 C.C.S. (49,78)
+    activity:training (19,81)
+    person:Captain Parker (other) (78,82)
+    person:Captain Proby (other) (20,85)
+  27 Aug 1916 86
+    person:Lieutenant Colonel Francis Whitmore (other) (28,86)
+    domestic:religion (20,90)
+Page 100 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmz  ----------
+  28 Aug 1916 26
+    domestic:parades (22,30)
+  29 Aug 1916 31
+    place:Blangy (6,32)
+    domestic:parades (19,34)
+  30 Aug 1916 35
+    activity:training (37,38)
+  31 Aug 1916 43
+    person:Captain V T G Hine (other) (35,50)
+    person:Captain Brocklehurst (other) (49,55)
+    person:Captain T Knowles Jackson (author) (56,70)
+Page 101 (type diary) http://wd3.herokuapp.com/pages/AWD0000jqe  ----------
+  Hashtags: #lloydlindsay #competitions #hotchkiss 
+  8 Sep 1916 25
+    activity:training (27,31)
+    place:Blangy (7,31)
+  9 Sep 1916 35
+    place:Tramecourt (43,39)
+    person:Second Lieutenant E G Windle (39,43)
+  10 Sep 1916 47
+    activity:movement (28,50)
+    place:Blangy (43,51)
+    place:Moulinel (79,51)
+    place:Moulinel (7,53)
+  11 Sep 1916 55
+    place:Bonnay (84,55)
+  12 Sep 1916 59
+    activity:movement (28,59)
+    place:Saint Ricquier (8,59)
+    place:Saint Ricquier (70,59)
+    activity:movement (35,63)
+    place:Flixecourt (20,66)
+    place:Saint Sauveur (7,66)
+    place:Somme (63,66)
+    place:Saint Sauveur (73,66)
+  13 Sep 1916 67
+    activity:resting (53,70)
+    place:Saint Sauveur (33,71)
+    place:Saint Sauveur (8,72)
+  14 Sep 1916 78
+    place:Daours (20,78)
+    weather:other (28,78)
+    activity:movement (31,81)
+    place:Saint Sauveur (24,81)
+    place:La Motte (75,81)
+    place:Amiens (66,82)
+    time:0615AM (38,83)
+    place:Querrieu (7,86)
+    place:Querrieu (60,86)
+    place:Bussy-le-Daours (72,86)
+    unit:2 Indian Cavalry Division (41,89)
+    unit:2 Indian Cavalry Division (36,89)
+Page 102 (type diary) http://wd3.herokuapp.com/pages/AWD0000jp2  ----------
+  1 Sep 1916 22
+    person:Second Lieutenant C W Charters (returned_hospital) (19,25)
+    reference:31 OR (54,26)
+    place:Blangy (6,26)
+    person:Second Lieutenant G L Horsfall (37,27)
+    domestic:parades (18,28)
+    reference:42 OR (32,30)
+  2 Sep 1916 31
+    person:Second Lieutenant Winter Rose (other) (19,32)
+    person:Second Lieutenant W A Tuczek (returned_hospital) (19,36)
+  3 Sep 1916 47
+    unit:3 Cavalry Division Cinema (18,47)
+    person:Captain Kirk (other) (45,47)
+  4 Sep 1916 51
+    domestic:religion (41,51)
+    person:Captain J S Gibbs (other) (19,52)
+  5 Sep 1916 59
+    place:Tramecourt (54,63)
+    unit:21 Division (85,70)
+    person:Second Lieutenant Holland (other) (20,70)
+    place:Arras (39,71)
+  6 Sep 1916 74
+    domestic:parades (19,78)
+  7 Sep 1916 79
+Page 103 (type diary) http://wd3.herokuapp.com/pages/AWD0000jkx  ----------
+  Hashtags: #bivouac #bivouacs #mud 
+  14 Sep 1916 25
+    place:Albert (43,31)
+    unit:Canadian Brigade (73,31)
+    unit:8 Brigade (51,32)
+  15 Sep 1916 35
+    unit:Strathconas Horse (40,35)
+    activity:movement (32,39)
+    place:Daours (55,39)
+    place:La Neuville (14,43)
+    place:La Neuville (6,46)
+  16 Sep 1916 47
+    activity:movement (48,51)
+  17 Sep 1916 59
+    place:Vecquemont (58,59)
+    activity:movement (27,63)
+    place:Vecquemont (5,67)
+    weather:rain (72,70)
+    place:Vecquemont (7,71)
+  18 Sep 1916 74
+    activity:resting (23,78)
+    weather:rain (51,78)
+  19 Sep 1916 85
+    weather:rain (19,89)
+    weather:rain (28,90)
+Page 104 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlt  ----------
+  20 Sep 1916 26
+    weather:rain (38,32)
+    place:Vecquemont (5,33)
+  21 Sep 1916 39
+    activity:movement (19,44)
+  22 Sep 1916 47
+    activity:movement (26,51)
+    place:Daours (41,51)
+    place:Bouchon (73,51)
+    place:Bouchon (6,54)
+  23 Sep 1916 55
+    place:L'Etoile (20,55)
+    unit:10 Hussars (49,55)
+    place:Flixecourt (39,56)
+    place:Bouchon (67,56)
+    activity:movement (22,59)
+    place:Bouchon (23,59)
+    place:Auxi-le-Chateau (51,59)
+    domestic:accomodation (50,63)
+    place:Hesdin (26,63)
+    place:Fillievres (60,63)
+    place:Saint Ricquier (53,67)
+  24 Sep 1916 70
+    activity:movement (21,74)
+    place:Canche Valley (65,74)
+    place:Fillievres (23,75)
+    place:Ecquemicourt (7,75)
+  25 Sep 1916 78
+    place:Aubin Saint Vaast (77,78)
+    place:Hesdin (19,79)
+    place:Ecquemicourt (49,79)
+    place:Ecquemicourt (6,81)
+  26 Sep 1916 82
+    activity:other (26,82)
+    weather:fine (56,82)
+  27 Sep 1916 86
+Page 105 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlf  ----------
+  27 Sep 1916 24
+    domestic:sport (41,26)
+    place:Ecquenicourt (5,26)
+    unit:2 Southend Troop (45,29)
+    unit:Waltham Abbey Troop (25,30)
+    unit:3 Orsett Troop (64,30)
+    place:Aubin Saint Vaast (5,31)
+  28 Sep 1916 32
+    activity:training (28,35)
+    person:Captain V T G Hine (departed_leave) (57,36)
+  29 Sep 1916 40
+    person:Second Lieutenant W A Tuczek (other) (52,43)
+  30 Sep 1916 44
+    domestic:parades (22,47)
+    person:Corporal W Ashton (departed_posted) (24,51)
+Page 106 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnt  ----------
+  1 Oct 1916 23
+    domestic:religion (19,26)
+    place:Saint Vaast (41,26)
+    place:Ecquemicourt (7,26)
+    time:0215PM (16,30)
+  2 Oct 1916 32
+    place:Maresquel (75,32)
+    place:Ecquemicourt (7,35)
+    place:Acheux (62,36)
+    activity:movement (27,36)
+    time:0800AM (16,36)
+  30 Sep 1916 0
+  2 Oct 1916 32
+    person:Major E A Ruggles-Brise (other) (21,40)
+    person:Lieutenant C N Gilbey (other) (24,43)
+    person:Second Lieutenant G Wear (other) (42,44)
+  3 Oct 1916 47
+    weather:overcast (64,47)
+    activity:training (19,47)
+  4 Oct 1916 51
+    domestic:parades (19,55)
+  5 Oct 1916 56
+    mapRef:Abbeville (58,58)
+    place:Saint Josse (37,59)
+    activity:training (19,59)
+    reference:Abbeville 1/100,000 (60,59)
+  6 Oct 1916 60
+    mapRef:Abbeville (60,63)
+    activity:training (19,63)
+    reference:Abbeville 1/100,000 (60,63)
+  7 Oct 1916 67
+    activity:training (21,70)
+  8 Oct 1916 71
+    domestic:sport (38,74)
+  9 Oct 1916 79
+    place:Saint Josse (18,82)
+    unit:R.hg. (87,82)
+    unit:10 Hussars (68,82)
+    unit:Royal Horse Guards (88,82)
+    unit:X.R.H (68,83)
+  10 Oct 1916 86
+    activity:training (22,90)
+Page 107 (type diary) http://wd3.herokuapp.com/pages/AWD0000jq3  ----------
+  Hashtags: #rugbyfootball #competitions #football 
+  11 Oct 1916 22
+    place:Saint Vaast (6,25)
+    activity:training (25,26)
+    unit:Waltham Abbey Troop (48,28)
+    unit:Southend Troop (73,28)
+  12 Oct 1916 29
+    place:Ecquemicourt (7,31)
+    activity:training (69,32)
+    place:Ecquemicourt (7,35)
+  13 Oct 1916 36
+    person:Private W Law (casualty_wounded) (22,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (43,36)
+    place:Bloville (77,39)
+    place:Brimeux (84,39)
+  14 Oct 1916 40
+    activity:training (21,40)
+    domestic:sport (28,44)
+    unit:Colchester Troop (18,47)
+  15 Oct 1916 48
+    place:Saint Vaast (66,51)
+    domestic:religion (24,52)
+    domestic:sport (18,55)
+    unit:Queens Bays (37,55)
+    unit:3 Cavalry Division Supply Column (37,59)
+  16 Oct 1916 60
+    person:Second Lieutenant W Ritchie (departed_posted) (21,70)
+    person:Lieutenant C N Gilbey (author) (65,70)
+  17 Oct 1916 71
+  18 Oct 1916 75
+    domestic:parades (22,78)
+    place:Douriez (56,79)
+    unit:1 Cavalry Division (48,82)
+  19 Oct 1916 86
+  20 Oct 1916 90
+    domestic:parades (19,90)
+Page 108 (type diary) http://wd3.herokuapp.com/pages/AWD0000joh  ----------
+  Hashtags: #hotchkiss #rugbyfootball 
+  21 Oct 1916 22
+    activity:training (22,26)
+  22 Oct 1916 29
+    place:Ecquemicourt (6,31)
+    place:Aubin Saint Vaast (35,32)
+    domestic:religion (21,33)
+    domestic:sport (77,33)
+    place:Ecquemicourt (8,34)
+  23 Oct 1916 37
+    place:Bouzincourt (78,39)
+    activity:training (22,40)
+    person:Captain R G Proby (departed_posted) (35,40)
+    person:Lieutenant S J Tufnell (departed_posted) (47,40)
+  24 Oct 1916 44
+    person:Second Lieutenant Ritchie (other) (29,44)
+    person:Second Lieutenant Wear (other) (41,44)
+    activity:training (20,48)
+    person:Lieutenant J W Fleming (other) (60,48)
+  25 Oct 1916 52
+    domestic:accomodation (35,55)
+    place:Ecquemicourt (48,55)
+    place:Plumoison (65,55)
+  26 Oct 1916 56
+    place:Plumoison (9,56)
+    place:Plumoison (66,59)
+    place:Bouin (60,59)
+  27 Oct 1916 60
+    activity:movement (30,60)
+    place:Aubin Saint Vaast (45,60)
+  28 Oct 1916 64
+    domestic:parades (19,64)
+    domestic:parades (18,67)
+  29 Oct 1916 68
+    domestic:religion (18,71)
+    domestic:religion (47,71)
+    place:Bouin (38,71)
+    place:Aubin Saint Vaast (61,71)
+  30 Oct 1916 72
+    domestic:religion (28,72)
+    place:Plumoison (78,75)
+    domestic:inspections (38,76)
+  31 Oct 1916 79
+    domestic:parades (18,82)
+    person:Captain T Knowles Jackson (author) (59,84)
+    domestic:parades (26,84)
+Page 109 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmr  ----------
+  Hashtags: #WaterAnalysis 
+  17 Nov 1916 89
+  31 Oct 1916 0
+  1 Nov 1916 22
+    place:Plumoison (6,25)
+    domestic:parades (19,25)
+    domestic:medical (36,25)
+  2 Nov 1916 27
+    place:Bouin (6,29)
+    person:Lieutenant J W Fleming (other) (34,29)
+    domestic:parades (19,30)
+    place:Aubin Saint Vaast (7,33)
+    person:Major G Gold (other) (19,33)
+  3 Nov 1916 36
+    activity:repair (20,36)
+    domestic:parades (19,39)
+  4 Nov 1916 40
+    domestic:parades (19,43)
+  5 Nov 1916 44
+    unit:8 Machine Gun Squadron (50,44)
+  6 Nov 1916 48
+    weather:rain (63,48)
+    place:Aubin Saint Vaast (34,48)
+  7 Nov 1916 52
+    domestic:parades (19,53)
+    activity:training (30,53)
+    activity:training (32,53)
+  8 Nov 1916 56
+    person:Major Buxton (departed_training) (37,58)
+    domestic:parades (19,59)
+    person:Major Hill (departed_training) (52,59)
+    person:Major Ruggles-Brise (departed_training) (59,59)
+    activity:training (28,61)
+    place:Merlimont (45,62)
+    person:Second Lieutenant W C V Schwier (joined) (58,63)
+  9 Nov 1916 65
+    unit:4 Field Squadron (55,66)
+    person:Second Lieutenant G Wear (departed_sick) (19,68)
+  10 Nov 1916 70
+    domestic:parades (19,70)
+    domestic:accomodation (70,70)
+  11 Nov 1916 73
+    person:other Jackson (departed_sick) (44,73)
+    person:Captain T Knowles Jackson (departed_sick) (19,73)
+    person:Second Lieutenant R W Bruce (author) (54,73)
+    person:Major G Gold (departed_posted) (55,74)
+    person:Captain R G Proby (departed_posted) (66,74)
+    person:Lieutenant S J Tufnell (departed_posted) (79,75)
+    person:Second Lieutenant L Abraham (joined) (19,76)
+    person:Major G Gold (departed_posted) (60,76)
+    person:Captain R G Proby (departed_posted) (71,77)
+  12 Nov 1916 79
+    place:Aubin Saint Vaast (44,82)
+  13 Nov 1916 83
+    domestic:religion (19,83)
+    domestic:religion (28,83)
+    domestic:parades (19,87)
+    activity:training (21,88)
+  17 Nov 1916 89
+Page 110 (type diary) http://wd3.herokuapp.com/pages/AWD0000jox  ----------
+  30 Nov 1916 86
+  17 Nov 1916 0
+    place:Plumoison (8,24)
+  18 Nov 1916 27
+    domestic:parades (19,31)
+  19 Nov 1916 32
+    place:Bouin (41,35)
+    place:Aubin Saint Vaast (64,36)
+    domestic:religion (19,36)
+    person:Major E Hill (returned_training) (18,40)
+    person:Major A Buxton (returned_training) (31,40)
+    person:Major E A Ruggles-Brise (returned_training) (43,40)
+  20 Nov 1916 44
+    person:Second Lieutenant H H Newman (joined) (18,44)
+    person:Lieutenant J K Swire (other) (29,47)
+    person:Second Lieutenant R G Weatherby (other) (47,47)
+    person:Second Lieutenant L Abraham (other) (58,47)
+    person:Second Lieutenant B F Wilmer (other) (65,47)
+    person:Captain J O Parker (other) (18,48)
+    person:Second Lieutenant W Ritchie (other) (37,48)
+    person:Second Lieutenant W C V Schwier (other) (72,48)
+    place:Maresquel (71,51)
+    unit:8 British Cavalry Pioneer Battalion (39,52)
+    person:Lieutenant E J Sayer (other) (20,52)
+  21 Nov 1916 55
+    person:Lieutenant Colonel P E Hardwick (other) (31,56)
+    person:Captain R G Proby (departed_training) (18,59)
+    person:Lieutenant R A Thomson (departed_training) (44,59)
+  22 Nov 1916 60
+    person:Captain V T G Hine (departed_training) (33,60)
+    reference:Buxton (23,63)
+    person:Major A Buxton (departed_training) (18,63)
+    place:Wailly (71,63)
+  23 Nov 1916 64
+  24 Nov 1916 67
+  25 Nov 1916 70
+  26 Nov 1916 71
+    domestic:parades (18,71)
+    place:Aubin Saint Vaast (41,74)
+    person:Second Lieutenant S White (joined) (55,75)
+    domestic:religion (19,76)
+  27 Nov 1916 79
+    domestic:parades (18,82)
+  30 Nov 1916 86
+Page 111 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpr  ----------
+  Hashtags: #Rolled 
+  30 Nov 1916 0
+  1 Dec 1916 23
+  2 Dec 1916 25
+    activity:training (31,25)
+    domestic:parades (19,25)
+    place:Plumoison (6,26)
+  3 Dec 1916 28
+    unit:8 Pioneer Battalion (47,28)
+    unit:Xiii corps (70,28)
+    unit:8 Pioneers Battalion (83,28)
+    unit:Xiii corps (86,29)
+  4 Dec 1916 30
+    person:Major A Hill (departed_training) (27,30)
+  5 Dec 1916 33
+    person:Lieutenant G F Nelson (departed_posted) (26,33)
+    person:Major A Buxton (departed_posted) (25,36)
+  6 Dec 1916 37
+    person:Major A Buxton (departed_posted) (76,37)
+  7 Dec 1916 40
+  8 Dec 1916 44
+    person:Major E Hill (returned_training) (50,44)
+  9 Dec 1916 45
+  10 Dec 1916 48
+    domestic:inspections (36,51)
+    domestic:religion (68,52)
+    domestic:inspections (43,52)
+    place:Aubin Saint Vaast (35,55)
+    domestic:accomodation (64,58)
+    unit:8 Cavalry Brigade (40,59)
+  30 Nov 1916 0
+  10 Dec 1916 48
+    unit:8 cfa (34,63)
+  11 Dec 1916 64
+    domestic:parades (19,68)
+    person:Second Lieutenant Maconnachie (departed_posted) (34,69)
+  30 Nov 1916 0
+  12 Dec 1916 71
+    unit:Royal Horse Guards (83,73)
+    domestic:parades (19,74)
+  13 Dec 1916 75
+    person:Lieutenant E J Sayer (other) (34,75)
+    domestic:parades (22,78)
+  14 Dec 1916 79
+    reference:STrial of rolled toe shoes on the horses of Essex Yeomanry# (88,79)
+    domestic:parades (22,82)
+  15 Dec 1916 83
+    person:other Vernot (departed_posted) (29,83)
+    domestic:inspections (19,86)
+  16 Dec 1916 87
+    domestic:inspections (20,90)
+Page 112 (type diary) http://wd3.herokuapp.com/pages/AWD0000jna  ----------
+  Hashtags: #Foden #Disinfector 
+  16 Dec 1916 0
+  17 Dec 1916 28
+    place:Bouin (6,28)
+  18 Dec 1916 32
+    person:Major E A Ruggles-Brise (departed_training) (22,32)
+    person:Major E A Ruggles-Brise (departed_training) (65,32)
+  19 Dec 1916 36
+    domestic:parades (18,36)
+    person:Second Lieutenant Tuczek (other) (91,39)
+  20 Dec 1916 40
+    person:Second Lieutenant A W Rose (other) (32,40)
+    person:Second Lieutenant Tuczek (other) (76,40)
+    domestic:parades (19,40)
+    unit:21 8 Pioneer Battalion (30,43)
+    domestic:parades (20,43)
+  22 Dec 1916 44
+    time:0600AM (90,44)
+    place:Maresquel (70,44)
+    activity:movement (35,44)
+    unit:1 R.D. (67,47)
+    activity:movement (18,48)
+    activity:movement (31,48)
+    place:Villiers (59,51)
+    place:Saint Josse (44,52)
+    place:Le Moulinel (77,52)
+  23 Dec 1916 55
+    person:Second Lieutenant Balfour (74,55)
+    place:Saint Josse (42,55)
+    place:Capelle (58,55)
+    place:Saint Aubin (23,56)
+  24 Dec 1916 58
+    domestic:parades (18,58)
+  25 Dec 1916 59
+    domestic:parades (22,59)
+    domestic:religion (59,60)
+    domestic:religion (68,60)
+  26 Dec 1916 63
+    domestic:religion (18,63)
+    place:Saint Josse (46,63)
+    place:Le Moulinel (65,63)
+    domestic:religion (31,65)
+  27 Dec 1916 67
+    domestic:parades (19,67)
+    domestic:accomodation (46,67)
+    person:Captain Parker (departed_training) (66,71)
+    person:Lieutenant Gilbey (departed_training) (79,71)
+    domestic:parades (23,71)
+    activity:training (27,71)
+  28 Dec 1916 75
+    person:Lieutenant Tufnell (departed_training) (18,75)
+    person:Second Lieutenant Weatherby (departed_training) (28,75)
+    reference:Cpt Parker,Lte Gilby,Lte Tuffnel and 2/lteWeatherby left training (59,76)
+  29 Dec 1916 79
+    domestic:inspections (32,79)
+    place:Saint Josse Station (71,79)
+  30 Dec 1916 82
+    domestic:parades (18,82)
+  31 Dec 1916 83
+    domestic:parades (43,83)
+    domestic:religion (22,86)
+    place:Saint Josse (67,86)
+    place:Saint Aubin (36,87)
+    reference:clothing disinfected (36,91)
+Page 113 (type diary) http://wd3.herokuapp.com/pages/AWD0000jl8  ----------
+  31 Dec 1916 0
+    place:Saint Josse (6,25)
+  1 Jan 1917 28
+    place:Saint Aubin (6,28)
+    place:Le Moulinel (5,31)
+    activity:training (24,32)
+    person:Lieutenant Colonel F H D C Whitmore (award) (80,32)
+  2 Jan 1917 36
+    person:Lieutenant Sayer (award) (75,36)
+  3 Jan 1917 37
+    person:Lieutenant Colonel F H D C Whitmore (award) (24,37)
+    person:Lieutenant E J Sayer (award) (46,37)
+  4 Jan 1917 38
+    activity:training (37,39)
+  5 Jan 1917 40
+    activity:training (29,40)
+    activity:training (22,41)
+  6 Jan 1917 44
+    domestic:inspections (29,44)
+    unit:8 Cavalry Brigade (58,44)
+  7 Jan 1917 48
+    activity:training (23,48)
+  8 Jan 1917 52
+    domestic:religion (24,52)
+    place:Saint Josse (45,52)
+  9 Jan 1917 56
+    domestic:inspections (38,56)
+    activity:training (19,56)
+  11 Jan 1917 58
+    activity:training (23,58)
+    activity:training (26,59)
+  12 Jan 1917 60
+    activity:training (26,61)
+    domestic:inspections (18,63)
+  13 Jan 1917 64
+    domestic:inspections (36,64)
+  14 Jan 1917 68
+    activity:training (24,68)
+    domestic:religion (18,71)
+    place:Saint Josse (36,72)
+    person:Second Lieutenant A Winter Rose (departed_training) (51,72)
+    domestic:religion (23,74)
+  15 Jan 1917 75
+    person:Lieutenant W A Tuczek (departed_training) (43,75)
+    person:Second Lieutenant W A Tuczek (departed_training) (54,76)
+  16 Jan 1917 79
+    activity:training (19,79)
+    activity:training (27,80)
+  17 Jan 1917 83
+    activity:training (25,83)
+  18 Jan 1917 87
+    activity:training (21,87)
+    unit:8 Cavalry Brigade (57,90)
+    domestic:inspections (17,91)
+    domestic:inspections (32,91)
+Page 114 (type diary) http://wd3.herokuapp.com/pages/AWD0000jj5  ----------
+  18 Jan 1917 0
+    place:Saint Josse (7,25)
+  19 Jan 1917 28
+    place:Saint Aubin (5,28)
+  20 Jan 1917 30
+    activity:training (36,31)
+    place:Le Moulinel (7,31)
+    activity:training (19,32)
+  21 Jan 1917 33
+    activity:training (25,33)
+    domestic:religion (18,36)
+    place:Le Moulinel (37,36)
+    place:Saint Josse (53,36)
+  22 Jan 1917 37
+    activity:training (20,40)
+    place:Le Moulinel (8,40)
+    person:Sergeant F Smy (award) (51,40)
+    person:Sergeant R G Turnell (award) (64,40)
+    person:Sergeant E Walker (award) (79,40)
+    person:Private A Rolf (award) (33,43)
+  23 Jan 1917 44
+    reference:Sgts, 1555 E Smy,  806 R G Turner' 767 E Walker 1605 G Player, 895 A Rolph, 1236 A J Howard' 1655 E D Dorrington awarded MM (35,44)
+    person:Private G Player (award) (23,44)
+    person:Private A J Howard (award) (43,44)
+    person:Private E D Dorrington (award) (57,44)
+    person:Private A Rolph (award) (31,44)
+    activity:training (19,48)
+  24 Jan 1917 49
+    activity:training (25,51)
+    unit:8 Cavalry Brigade (51,51)
+  25 Jan 1917 52
+    activity:training (63,55)
+    domestic:inspections (35,55)
+  26 Jan 1917 56
+    activity:training (25,56)
+    domestic:inspections (44,57)
+    domestic:inspections (19,59)
+  27 Jan 1917 60
+    domestic:inspections (31,60)
+  28 Jan 1917 64
+    activity:training (27,64)
+    activity:training (19,64)
+    domestic:religion (20,67)
+    place:Saint Josse (43,67)
+    time:1200AM (33,67)
+    person:Second Lieutenant W C V Schweir (departed_training) (51,67)
+  29 Jan 1917 68
+    domestic:religion (43,68)
+    time:0700PM (39,68)
+    activity:training (20,71)
+  30 Jan 1917 72
+  31 Jan 1917 75
+    reference:Lt R A Thompson and 100 ORs leave to join 8th pioneer training (30,76)
+    person:Lieutenant R A Thomson (departed_posted) (25,76)
+    activity:training (24,80)
+Page 115 (type diary) http://wd3.herokuapp.com/pages/AWD0000jkp  ----------
+  31 Jan 1917 52
+    person:Second Lieutenant R C Weatherby (departed_training) (63,39)
+    person:Second Lieutenant R C Weatherby (departed_training) (80,39)
+    person:Captain J O Parker (departed_training) (18,40)
+    person:Lieutenant C N Gilbey (departed_training) (35,40)
+    person:Lieutenant S J Tufnell (departed_training) (48,40)
+    person:Second Lieutenant B F Wilmer (departed_training) (76,43)
+    person:Second Lieutenant J Flingeman (departed_training) (87,43)
+    place:Wailly (57,43)
+    person:Second Lieutenant G L Horsfall (departed_training) (63,44)
+    person:Captain R G Proby (author) (59,59)
+Page 116 (type diary) http://wd3.herokuapp.com/pages/AWD0000joo  ----------
+  31 Jan 1917 0
+  1 Feb 1917 28
+    place:Fressin (5,31)
+    place:Fressin (70,31)
+    unit:A Squadron (82,32)
+    activity:movement (25,32)
+    domestic:accomodation (26,33)
+    unit:B Squadron (30,35)
+    place:Cavron (6,35)
+    unit:C Squadron (48,36)
+    place:Cavron (20,36)
+    place:Sains (38,36)
+    place:Wambercourt (55,36)
+  2 Feb 1917 37
+    domestic:accomodation (39,39)
+    place:Sains (6,40)
+  3 Feb 1917 41
+    place:Wambercourt (5,43)
+    person:Captain Hine (departed_posted) (42,44)
+    domestic:accomodation (22,45)
+  4 Feb 1917 48
+    unit:Pioneer Battalion (50,48)
+  6 Feb 1917 50
+  7 Feb 1917 52
+    domestic:accomodation (46,52)
+    person:Lieutenant C N Gilbey (promotion) (82,55)
+    person:Captain J L Parker (promotion) (49,56)
+    person:Lieutenant J K Swire (promotion) (55,59)
+    person:Lieutenant J K Swire (promotion) (67,60)
+  8 Feb 1917 63
+    reference:London Gazette Feb. 3, 1917 (38,63)
+  10 Feb 1917 66
+    activity:other (32,67)
+  11 Feb 1917 68
+    time:0630PM (32,71)
+    place:Fressin (40,71)
+  12 Feb 1917 72
+    domestic:religion (20,72)
+  13 Feb 1917 75
+    person:Lieutenant R A Thomson (award) (50,75)
+    domestic:accomodation (25,76)
+  17 Feb 1917 78
+    domestic:accomodation (26,79)
+  19 Feb 1917 82
+    place:Fressin (76,82)
+    domestic:inspections (20,82)
+    person:Lieutenant Colonel Saddler Jackson (other) (44,83)
+    person:Lieutenant Colonel Jackson (other) (54,83)
+    time:0915AM (67,83)
+  24 Feb 1917 86
+    activity:other (31,86)
+  25 Feb 1917 88
+    place:Fressin (42,91)
+    domestic:religion (20,91)
+Page 117 (type diary) http://wd3.herokuapp.com/pages/AWD0000jm3  ----------
+  25 Feb 1917 0
+  28 Feb 1917 30
+    place:Fressin (6,31)
+    reference:Complaint that so many men had been transferred from the horse Yeeomanry to be Pioneers that trainin had practically ceased except for signallers (59,31)
+    activity:other (19,32)
+    place:Cavron (5,35)
+    unit:8 Pioneer Battalion (67,39)
+    place:Sains (7,40)
+    place:Wambercourt (7,43)
+    activity:training (57,48)
+    person:Second Lieutenant A Winter-Rose (other) (74,59)
+    person:Lieutenant Rose (other) (80,59)
+  25 Feb 1917 0
+  28 Feb 1917 30
+    place:Merlimont Plage (38,66)
+    person:Lieutenant J Chaplin (departed_training) (54,66)
+    person:Lieutenant J K Swire (departed_training) (67,66)
+    person:Second Lieutenant R W Bruce (departed_training) (79,67)
+    person:Second Lieutenant F Wilmer (other) (18,69)
+  25 Feb 1917 0
+    reference:STrial of rolled toe shoes on the horses of Essex Yeomanry# (92,7)
+  28 Feb 1917 30
+    person:Second Lieutenant F Wilmer (departed_training) (31,70)
+    place:Caumartin (48,74)
+    person:Second Lieutenant J F Lingeman (departed_training) (77,74)
+    person:Second Lieutenant J F Lingeman (other) (60,74)
+    place:Wailly (35,78)
+    person:Major G Gold (departed_training) (43,78)
+    person:Captain E Stork (departed_training) (60,78)
+    person:Lieutenant L Abrahams (departed_training) (79,79)
+    person:Second Lieutenant K C Herron (departed_training) (56,82)
+    person:Lieutenant K C Herron (departed_training) (38,83)
+    person:Captain R G Proby (author) (63,89)
+Page 118 (type diary) http://wd3.herokuapp.com/pages/AWD0000jkd  ----------
+  25 Mar 1917 85
+  28 Feb 1917 0
+  1 Mar 1917 26
+    place:Fressin (5,29)
+  3 Mar 1917 31
+    activity:other (33,31)
+  4 Mar 1917 34
+    domestic:inspections (44,34)
+    unit:3 Sig Squadron (79,35)
+  7 Mar 1917 39
+    domestic:inspections (29,45)
+  8 Mar 1917 46
+  11 Mar 1917 50
+    activity:other (27,50)
+  14 Mar 1917 54
+    person:Second Lieutenant C A Collis (joined) (44,54)
+    person:Second Lieutenant H N Long (joined) (65,54)
+    domestic:religion (27,55)
+    person:Second Lieutenant G W H Ridley (joined) (75,55)
+  19 Mar 1917 61
+    domestic:medical (48,65)
+  21 Mar 1917 66
+  23 Mar 1917 73
+  24 Mar 1917 77
+  25 Mar 1917 85
+    place:Avondance (22,85)
+    domestic:religion (34,89)
+  28 Feb 1917 0
+Page 119 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlv  ----------
+  26 Mar 1917 28
+    place:Fressin (6,32)
+  28 Mar 1917 33
+    reference:GOC 8th cavalry bde attended parade (41,36)
+    place:Cavron (6,36)
+    reference:Competition between Hotchkiss rifles & Troops. (40,40)
+    place:Sains (6,40)
+  29 Mar 1917 42
+    unit:2 lt hore (52,43)
+    person:Second Lieutenant Hore (joined) (42,43)
+  31 Mar 1917 44
+    place:Wambercourt (5,44)
+    weather:rain (74,54)
+    weather:cold (58,55)
+    person:Second Lieutenant Holland (departed_training) (20,62)
+    person:Second Lieutenant Schwier (departed_training) (45,62)
+    person:Second Lieutenant Abraham (departed_training) (57,62)
+    person:Second Lieutenant Ritchie (departed_training) (37,63)
+    person:Second Lieutenant White (departed_training) (45,67)
+    activity:training (24,77)
+    person:Captain Proby (author) (70,89)
+Page 120 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmb  ----------
+  Hashtags: #Outbreak 
+  1 Apr 1917 22
+    reference:Srength on 1stof month 34 officers and  100 ORs  591 horses (34,27)
+    reference:prepareing for move (47,28)
+  4 Apr 1917 29
+    place:Beaurainville (58,32)
+    place:Beaurainville (86,32)
+  5 Apr 1917 33
+    reference:Major L O Parker and 2/Lieut K C Heron and 40 ORs detailed to form Cavalry Brgd dismount party (59,34)
+    person:Major J O Parker (departed_posted) (58,34)
+    person:Second Lieutenant K C Heron (72,34)
+    person:Second Lieutenant H N Long (departed_posted) (18,36)
+    person:Second Lieutenant K C Heron (other) (87,36)
+    reference:2/Lieut E N Long and 25 ORs to join*th Cavalry (31,37)
+  6 Apr 1917 39
+    place:Cavron (38,40)
+    reference:conference held on Good Friday (47,45)
+    person:Second Lieutenant R D Holland (returned_hospital) (48,50)
+  7 Apr 1917 52
+    person:Second Lieutenant A Collis (departed_sick) (33,52)
+    place:Fressin (41,55)
+    place:Frevent (57,55)
+  8 Apr 1917 56
+    activity:movement (28,56)
+    activity:movement (16,58)
+  9 Apr 1917 59
+    place:Couy En Artois (41,59)
+    unit:3 Cavalry Division (92,60)
+    place:Arras (62,61)
+    activity:movement (61,66)
+    unit:10 Royal Hussars (89,67)
+    unit:10 Royal Hussars (34,67)
+    person:Captain Gordon Canning (other) (55,67)
+    person:Captain Gordon Canning (combat) (68,67)
+    person:Major Buxton (other) (37,69)
+    place:Arras (20,73)
+    activity:reconnoitered (68,74)
+    place:Orange Hill (22,75)
+    reference:Orange Hill still occupied by the Germans (40,75)
+    place:Tilloy (44,79)
+    weather:cold (59,80)
+  10 Apr 1917 87
+    time:0130AM (28,83)
+    activity:movement (77,84)
+    domestic:rations (65,85)
+    activity:movement (35,88)
+    time:1100AM (27,89)
+    person:Captain Gordon Canning (other) (35,91)
+    unit:10 Royal Hussars (93,93)
+Page 121 (type diary) http://wd3.herokuapp.com/pages/AWD0000jn6  ----------
+  10 Apr 1917 23
+    person:Lieutenant Wear (combat) (72,32)
+    person:Lieutenant Weatherby (combat) (33,36)
+    person:Lieutenant Weatherby Essex (other) (46,36)
+    weather:cold (73,38)
+    person:Major Buxton (casualty_wounded) (76,40)
+    person:Lieutenant Chaplin (combat) (51,42)
+    activity:fire (66,44)
+    unit:10 Royal Hussars (82,46)
+    unit:10 Royal Hussars (72,46)
+    unit:R H G (56,47)
+  11 Apr 1917 48
+    time:0530AM (43,50)
+    person:Lieutenant Colonel Whitmore (combat) (61,50)
+    unit:10 Royal Hussars (29,54)
+    unit:Royal Horse Guards (47,54)
+    person:Lieutenant Colonel Whitmore Whitmore (other) (53,69)
+    person:Brigadier General Harman (other) (38,71)
+    unit:3 Dragoon Guards (54,73)
+    person:Lieutenant Colonel Burt (other) (25,74)
+    unit:10 Royal Hussars (68,75)
+    person:Lieutenant Colonel Hardwich (other) (44,75)
+    person:Lieutenant Colonel Hardwich (combat) (48,75)
+    time:0830AM (56,77)
+    unit:10 Royal Hussars (28,81)
+    person:Lieutenant Chaplin (combat) (51,81)
+    activity:fire (34,86)
+Page 122 (type diary) http://wd3.herokuapp.com/pages/AWD0000jm9  ----------
+  11 Apr 1917 22
+    unit:10 Royal Hussars (88,27)
+    unit:Essex Yeomanry (26,28)
+    activity:fire (28,28)
+    reference:Orange Hill still occupied by the Germans (41,29)
+    person:Major Hill (casualty_wounded) (71,30)
+    reference:heavy artillary barrage suffered heavy casualties inc Maj Hill and 2/Lieut White Both of THE essex  YEOMONRY (36,32)
+    person:Second Lieutenant White (casualty_wounded) (23,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (89,35)
+    unit:10 Royal Hussars (62,40)
+    place:Pelves (49,40)
+    place:Monchy (42,42)
+    activity:fire (19,46)
+    reference:whole force of the German artillary seemd to be concentraded upon the villiage (49,48)
+    reference:many csualties to officers ,men and horses (34,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,50)
+    person:Colonel Hardwick (combat) (46,58)
+    person:Colonel Hardwick (casualty_wounded) (52,58)
+    unit:Royal Hussars (67,59)
+    unit:Royal Hussars (80,60)
+    unit:111 infantry Brigade (91,64)
+    person:Captain Greenwood (casualty_wounded) (83,65)
+    person:Captain Greenwood (casualty_wounded) (33,66)
+    unit:112 infantry Brigade (92,67)
+    unit:111 Inf Brigade (36,70)
+    unit:112 Inf Brigade (44,70)
+    unit:10 Royal Hussars (31,74)
+    person:Lieutenant Colonel Whitmore (combat) (25,75)
+    place:Monchy (36,78)
+    reference:further advance impossible due to casualyies (72,85)
+Page 123 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmx  ----------
+  11 Apr 1917 22
+    unit:111 infantry Brigade (92,29)
+    activity:fire (43,31)
+    reference:throughout the day shelling heavy (62,31)
+    unit:112 infantry Brigade (89,32)
+    unit:10 Royal Hussars (93,35)
+    reference:men of 111th and 118th detailed to convey the wounded to dressing station (52,37)
+    unit:111 112 Infantry Brigades (50,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (90,40)
+    unit:10 Royal Hussars (67,42)
+    unit:Essex Yeomanry (59,45)
+    person:Brigadier General C Bulkeley Johnson (casualty_kia) (66,47)
+    unit:3 Dragoon Guards (42,51)
+    unit:3 Dragoon Gaurds (90,51)
+    unit:111 Inf Brigade (67,53)
+    person:Lieutenant Colonel Lord Tweedmouth (combat) (41,56)
+    unit:63 Brigade (29,56)
+    person:Major Earl Of Pembroke (combat) (74,57)
+    unit:Royal Horse Gaurds (95,57)
+    person:Major Earl Of Pembroke (25,59)
+    person:Lieutenant Back (casualty_wounded) (67,60)
+    person:Captain Wilson (casualty_kia) (48,61)
+    reference: Killed or wounded (33,63)
+    time:0500PM (69,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (80,64)
+    person:Major Gold (casualty_wounded) (77,66)
+    reference:casualties continued to officers and men (45,66)
+    person:Captain Gosling (casualty_wounded) (36,68)
+    person:Captain Gilbey (casualty_wounded) (61,68)
+    reference:enemy aircraft fired at lead horses (43,78)
+    activity:fire (22,79)
+    activity:enemy_activity (31,82)
+    reference:enemy digging in  (44,82)
+    reference:Hill 100 (70,84)
+    unit:37 Infantry Brigade (92,85)
+    reference:about midnight 37th Infantry Brigade took over (59,86)
+    unit:37 Inf Brigade (64,88)
+    person:Lieutenant Colonel Whitmore (83,90)
+    person:Lieutenant Colonel Whitmore (combat) (62,92)
+Page 124 (type diary) http://wd3.herokuapp.com/pages/AWD0000jjt  ----------
+  11 Apr 1917 22
+    place:Monchy (39,25)
+    person:Lieutenant Colonel Dawson (other) (50,26)
+    person:Captain Palmes (other) (38,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 13 (68,38)
+    unit:Essex Yeomanry (70,39)
+    casualties:died: 0; killed: 18; missing: 10; prisoner: 0; sick: 0; wounded: 107 (29,40)
+    casualties:died: 0; killed: 18; missing: 10; prisoner: 0; sick: 0; wounded: 107 (45,40)
+Page 125 (type other) http://wd3.herokuapp.com/pages/AWD0000jpd  ----------
+  11 Apr 1917 0
+    mapRef:Monchy le Preux (67,18)
+Page 126 (type diary) http://wd3.herokuapp.com/pages/AWD0000jog  ----------
+  12 Apr 1917 23
+    activity:line (35,25)
+    place:Gouy En Artois (61,26)
+  13 Apr 1917 27
+    activity:strength (21,27)
+    domestic:inspections (20,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (81,31)
+    domestic:medical (61,32)
+    domestic:parades (48,33)
+  15 Apr 1917 37
+    place:Monchy (56,37)
+    person:Second Lieutenant B F Wilmer (joined) (26,37)
+    place:Couy En Artois (75,39)
+    person:Brigadier General C B Bulkeley-Johnson (other) (47,39)
+    person:Brigadier General C B Bulkeley-Johnson (other) (31,40)
+    person:Lieutenant Tufnell (other) (78,41)
+    time:0300PM (30,41)
+    activity:other (50,44)
+    place:Monchy (23,47)
+    person:Regimental Sergeant Major C Farrell (award) (24,51)
+    person:Sergeant F H Jenkins (award) (47,51)
+    person:Corporal L R Wheatley (award) (65,51)
+    reference:List of NCos etc showing conspicuos bravery in Monchy action (59,51)
+    person:Lance Corporal A E Perry (award) (19,53)
+    person:Private W G Gardiner (award) (52,53)
+    person:Private A D Page (award) (70,53)
+    person:Private W G Gardiner (award) (40,54)
+    person:Private C H Ridgewell (award) (19,55)
+    person:Private H Thorn (award) (40,55)
+    person:Private C H Ridgwell (award) (33,56)
+    person:Sergeant Major W W McKellar (award) (20,59)
+    person:Sergeant G C Crees (award) (51,59)
+    person:Sergeant F G Aldous (award) (62,59)
+    person:Sergeant G C Crees (award) (40,59)
+    person:Sergeant C Siddons (award) (24,61)
+    person:Sergeant R S Grant (award) (49,61)
+    person:Corporal C G H Midgley (award) (63,61)
+    person:Lance Corporal L Paton (award) (26,63)
+    person:Private F Austin (award) (45,63)
+    person:Private H Binns (award) (65,63)
+    person:Private T H Curtis (award) (81,64)
+    person:Private J Caines (award) (39,64)
+    person:Private H C Cordell (award) (24,65)
+    person:Private J Caines (award) (51,65)
+    person:Private T H Curtis (award) (62,65)
+    person:Private H Digby (award) (51,66)
+    person:Private H Digby (award) (40,66)
+    person:Private A J Claxton (award) (22,67)
+    person:Private A W Hawes (award) (64,67)
+    person:Private F Last (award) (25,68)
+    person:Private E Rampling (award) (64,68)
+    person:Private H T Moss (award) (44,69)
+    person:Private C Self (award) (22,70)
+    person:Private S E Peacock (award) (51,71)
+    person:Private B G Steward (award) (64,71)
+    person:Private S E Peacock (award) (40,71)
+    person:Private O T Sutton (award) (20,72)
+    person:Private W Watts (award) (39,72)
+    person:Private E Tompkins (award) (63,72)
+    person:Private Pryke (award) (50,73)
+    person:Private P Pryke (award) (40,74)
+    person:Private C N Redgwell (award) (31,75)
+    person:Private R P Sandbrook (award) (65,75)
+    person:Private W J Pleasant (award) (40,76)
+    person:Private A S Putland (award) (20,77)
+    person:Private W J Pleasant (award) (53,77)
+    person:Sergeant J Brown (award) (32,80)
+    person:Corporal A O Tompkins (award) (63,80)
+    person:Sergeant W Ridgwell (award) (52,81)
+    person:Sergeant J Brown (award) (16,81)
+    person:Corporal G Pettitt (award) (31,82)
+    person:Corporal C Pettitt (award) (18,82)
+    person:Lance Corporal J N Bucknell (award) (40,83)
+    person:Lance Corporal F T Kavanagh (award) (75,83)
+    person:Lance Corporal J N Bucknell (award) (60,83)
+    person:Lance Corporal W W Bunting (award) (16,84)
+    person:Private E Finch (award) (41,84)
+    person:Lance Corporal W W Bunting (award) (29,85)
+    person:Private E Finch (award) (46,85)
+    person:Private A Hazell (award) (64,85)
+    person:Private W A King (award) (24,86)
+    person:Private W Roper (award) (57,86)
+    person:Private H Shrimpton (award) (73,86)
+    person:Private E W Smith (award) (30,88)
+    person:Private D Wood (award) (63,88)
+    person:Private C E Wood (award) (43,89)
+    person:Private E W Smith (award) (17,89)
+Page 127 (type diary) http://wd3.herokuapp.com/pages/AWD0000jp0  ----------
+  15 Apr 1917 26
+    person:Sergeant W H Pennall (award) (77,29)
+    person:Sergeant L G Cook (award) (17,30)
+    person:Sergeant G S J Rex (award) (39,30)
+    person:Corporal G E Rowell (award) (34,32)
+    person:Corporal J Barbour (award) (56,32)
+    person:Sergeant G Hodge (award) (77,32)
+    person:Sergeant O W Bugg (award) (18,34)
+    person:Corporal C J Bruce (award) (38,34)
+    person:Private J A Cowell (award) (61,34)
+    person:Private G C Foster (award) (35,36)
+    person:Private D Hooper (award) (55,36)
+    person:Private D Holl (award) (74,36)
+    person:Private F Hobrough (award) (17,38)
+    person:Private W C Savill (award) (61,38)
+    person:Private F Hobrough (award) (35,38)
+    person:Private D Matthams (award) (54,38)
+    person:Private M J Whiffen (award) (35,40)
+    person:Lance Corporal W Stock (80,43)
+    person:Lance Corporal L H Law (award) (55,44)
+    person:Lance Corporal P H Leeks (award) (36,44)
+  16 Apr 1917 46
+    person:Private C F Johnson (award) (36,46)
+  17 Apr 1917 49
+    person:Major General J Vaughan (award) (21,50)
+    place:Barly (74,52)
+  18 Apr 1917 54
+    place:Doulens (22,54)
+    activity:movement (54,55)
+  19 Apr 1917 56
+    domestic:hygiene (59,56)
+    place:Bois Jean (84,57)
+  20 Apr 1917 60
+    domestic:accomodation (51,61)
+  21 Apr 1917 62
+    person:Major Parker (joined) (40,63)
+    person:Second Lieutenant K C Herron (joined) (57,63)
+    person:Second Lieutenant H N Long (joined) (67,63)
+    person:Second Lieutenant Collis (joined) (78,66)
+  23 Apr 1917 67
+    place:Echingen (64,68)
+    person:Lieutenant Chaplin (other) (42,69)
+  25 Apr 1917 72
+  28 Apr 1917 81
+  29 Apr 1917 84
+  30 Apr 1917 86
+Page 128 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlc  ----------
+  30 Apr 1917 25
+    unit:Notts Yeomanry (82,28)
+    unit:5 D. G. Dragoon Guards) (42,29)
+    unit:Derbyshire Yeomanry (54,29)
+    unit:Hampshire Carbineers (68,29)
+    unit:West Somersetshire Yeomanry (36,31)
+    unit:Notts Yeomanry (23,31)
+    person:Lieutenant (author) (57,51)
+Page 129 (type diary) http://wd3.herokuapp.com/pages/AWD0000jng  ----------
+  Hashtags: #Inoculation #MilitaryCross #DCM #MilitaryMedal #DSO 
+  1 May 1917 26
+    person:Major G Gold (casualty_wounded) (28,34)
+    person:Major E Hill (casualty_wounded) (38,35)
+    person:Lieutenant R C Weatherby (casualty_wounded) (64,35)
+    person:Lieutenant G Wear (casualty_wounded) (78,35)
+    person:Lieutenant S White (casualty_wounded) (25,37)
+  2 May 1917 38
+  3 May 1917 40
+    activity:training (29,46)
+    unit:1/4Suffolk Rgt (78,58)
+  4 May 1917 61
+    time:1045AM (16,67)
+    person:Captain E S Stork (award) (30,73)
+    person:Lieutenant J C Chaplin (award) (30,77)
+    person:Lieutenant A Winter Rose (award) (59,77)
+    person:Sergeant Major W H McKellar (award) (38,81)
+    person:Sergeant J Brown (award) (62,81)
+    person:Private A D X Page (award) (44,85)
+    person:Corporal G E Rowell (award) (54,85)
+    person:Private W Roper (award) (73,85)
+    person:Private H Thorn (award) (21,89)
+    person:Sergeant G E Crees (award) (39,89)
+    person:Sergeant L G Cook (award) (74,90)
+Page 130 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlr  ----------
+  4 May 1917 0
+    person:Private E H Finch (other) (59,32)
+    person:Private F Last (award) (76,32)
+  7 May 1917 36
+    person:Private Saville (other) (27,36)
+    person:Sergeant J R Tozer (other) (69,36)
+  8 May 1917 40
+    domestic:parades (28,40)
+    person:Major E A Ruggles-Brise (other) (68,47)
+  9 May 1917 51
+    person:Major A Buxton (other) (21,51)
+    person:Captain E Stork (other) (68,51)
+    person:Captain R A Thomson (other) (45,52)
+  12 May 1917 56
+    unit:8 Cavalry Brigade (54,56)
+    activity:movement (28,60)
+    place:Saulchoy (8,63)
+    unit:3 (83,63)
+    activity:movement (19,65)
+    place:Beaurainville (60,67)
+    person:Captain R A Thomson (other) (22,70)
+  13 May 1917 74
+    activity:movement (41,79)
+    domestic:parades (35,80)
+  14 May 1917 82
+    place:Tollent (7,83)
+  15 May 1917 87
+    place:Barly (7,87)
+    place:Havernas (6,91)
+Page 131 (type diary) http://wd3.herokuapp.com/pages/AWD0000jo9  ----------
+  15 May 1917 0
+  17 May 1917 32
+    activity:movement (34,32)
+    place:Querrieu (6,32)
+    time:0715AM (39,32)
+    place:Hamel (5,36)
+  19 May 1917 40
+    activity:resting (21,40)
+    place:Courcelles (76,43)
+    activity:movement (42,44)
+    time:0730AM (39,44)
+    place:Mericourt (19,47)
+    place:Dompierre (30,47)
+    place:Herbecourt (41,47)
+    place:Biaches (51,47)
+  20 May 1917 56
+    activity:training (21,59)
+  24 May 1917 71
+  25 May 1917 83
+    mapRef:B.M. 78 (41,90)
+    reference:B M 78 (47,91)
+Page 132 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlx  ----------
+  25 May 1917 0
+    unit:Royal Horse Guards (77,32)
+    unit:Royal Horse Guards (63,32)
+  28 May 1917 36
+    unit:10 Royal Hussars (35,36)
+    unit:Essex Yeomanry (62,36)
+    unit:10 Hussars (24,36)
+    domestic:religion (39,40)
+  29 May 1917 44
+    unit:10 Royal Hussars (28,44)
+  30 May 1917 55
+    activity:training (19,48)
+    activity:training (24,49)
+Page 133 (type diary) http://wd3.herokuapp.com/pages/AWD0000jkf  ----------
+  1 Jun 1917 28
+    time:0600PM (70,32)
+    activity:training (23,32)
+    place:Courcelles (7,32)
+    place:Courcelles (6,37)
+  2 Jun 1917 39
+    unit:3 Signal Squadron (43,40)
+    person:Major J O Parker (other) (77,44)
+  3 Jun 1917 47
+  5 Jun 1917 52
+  6 Jun 1917 56
+    person:Lieutenant Cacollis (departed_training) (70,59)
+    activity:training (40,61)
+    reference:Trench Mortar (59,62)
+    person:Captain Braithwaite (other) (32,65)
+    person:Captain Braithwaite (other) (19,66)
+    reference:Medaille Militaire (59,70)
+    person:Regimental Sergeant Major C Farrell (award) (20,70)
+  7 Jun 1917 74
+    activity:training (38,80)
+    activity:training (77,80)
+  9 Jun 1917 81
+    person:Second Lieutenant W Ritchie (joined) (18,84)
+    person:Second Lieutenant W Ritchie (joined) (28,85)
+Page 134 (type diary) http://wd3.herokuapp.com/pages/AWD0000jok  ----------
+  Hashtags: #Haymaking 
+  9 Jun 1917 0
+    unit:Labour Corps (19,30)
+  10 Jun 1917 34
+    time:0330PM (75,36)
+    place:Courcelles (6,36)
+    person:Regimental Sergeant Major Farrell (other) (22,43)
+    person:Second Lieutenant N H Newman (other) (69,43)
+    reference:Haymaking commences under 2/Liet N H Newman (39,44)
+  11 Jun 1917 45
+    activity:training (40,48)
+    person:Captain Gibbs (other) (47,51)
+    place:Dolores Wood (30,55)
+  12 Jun 1917 57
+    activity:reconnoitered (61,59)
+    person:Second Lieutenant R D Holland (other) (49,63)
+    person:Second Lieutenant W Ritchie (other) (67,63)
+    reference:recconecence By 2/Lieut W Ritchie 2/Lt R D Holland and 2/Lieut B F Wilmer (43,64)
+    person:Second Lieutenant S W Taylor (other) (28,67)
+  13 Jun 1917 68
+    person:Second Lieutenant B F Wilmer (other) (22,71)
+    unit:Intelligence Personnel (47,71)
+    reference:2/Lie B F Wilmer of Intelligence forward to trenches (36,71)
+  14 Jun 1917 76
+    activity:training (21,78)
+  15 Jun 1917 80
+    activity:training (37,81)
+    person:Lieutenant Colonel F H D C Whitmore (promotion) (39,86)
+    person:Lieutenant Colonel F H D C Whitmore (other) (24,86)
+Page 135 (type diary) http://wd3.herokuapp.com/pages/AWD0000jme  ----------
+  16 Jun 1917 30
+    place:Courcelles (3,31)
+    person:Major J O Parker (other) (51,31)
+  17 Jun 1917 44
+  22 Jun 1917 68
+    person:Lieutenant Colonel Whitmore (promotion) (21,70)
+  23 Jun 1917 79
+Page 136 (type diary) http://wd3.herokuapp.com/pages/AWD0000jk8  ----------
+  23 Jun 1917 0
+  24 Jun 1917 29
+    person:Lieutenant J C Chaplin (77,32)
+    domestic:religion (29,32)
+    place:Courcelles (6,32)
+  26 Jun 1917 36
+    reference:Town Mayor (59,40)
+    person:Second Lieutenant K C Herron (departed_posted) (22,40)
+  28 Jun 1917 47
+    person:Lieutenant A Winter Rose (departed_leave) (21,47)
+  29 Jun 1917 49
+    person:Second Lieutenant G L Horsfall (joined) (22,50)
+  30 Jun 1917 53
+    person:Second Lieutenant H H Newman (other) (74,56)
+    reference:Sniping (44,67)
+    person:Second Lieutenant G V N Ridley (departed_training) (20,67)
+    reference:2/LieutG V N Ridley sniping course 2/Lieut  C A Collis  stores mortar (31,70)
+    person:Second Lieutenant C A Collis (departed_training) (20,70)
+    reference:Stokes Mortar (44,71)
+    person:Lieutenant J C Chaplin (author) (56,85)
+    person:Lieutenant J C Chaplin (author) (70,85)
+Page 137 (type diary) http://wd3.herokuapp.com/pages/AWD0000jn4  ----------
+  30 Jun 1917 0
+    person:Lieutenant Colonel F H D C Whitmore (other) (20,37)
+    reference:Green Support Line (76,40)
+    reference:Green Line (44,43)
+    unit:Royal Horse Guards (23,43)
+    reference:Brown Line (49,47)
+    unit:10 Royal Hussars (28,48)
+    reference:Shelling (71,51)
+    weather:fine (23,51)
+    place:Tombois Valley Farm (34,55)
+    place:Catelet Valley (58,55)
+    mapRef:56 (49,59)
+    activity:repair (39,70)
+    person:Private Shaw (casualty_wounded) (27,74)
+    reference:Gun shot wound (60,75)
+    unit:10 R H (35,81)
+    weather:fine (18,91)
+Page 138 (type diary) http://wd3.herokuapp.com/pages/AWD0000jod  ----------
+  30 Jun 1917 0
+    place:Priel Farm (21,32)
+    place:Tombois Valley (50,32)
+    place:Lempire (76,32)
+    reference:v 30 c 33 (82,35)
+    time:0835AM (24,36)
+    reference:man discovered in trench bombed by us yesterday V 30 C 33 (62,37)
+    activity:enemy_activity (73,40)
+    time:1000AM (47,40)
+    time:0400PM (57,40)
+    reference:Aeroplanes (24,40)
+    reference:Our aeroplanes active from 10 AM till 4PM (35,41)
+    activity:enemy_activity (27,47)
+    mapRef:F66 (60,47)
+    reference:Sapping (29,47)
+    activity:enemy_activity (19,50)
+    person:H A Hart (75,51)
+    unit:8 Cavalry Brigade (46,52)
+    person:Captain Wooton (other) (70,55)
+    person:Lieutenant Lowther (other) (22,56)
+    weather:rain (29,59)
+    place:Birdcage (53,63)
+    activity:raid (24,63)
+    time:1120PM (67,67)
+    gridRef:X_29_B_90_0 (83,67)
+    reference:Snipers (32,67)
+    activity:enemy_activity (43,75)
+    person:Second Lieutenant R D Holland (combat) (45,78)
+    person:other O C Hart (other) (21,82)
+    time:1250AM (40,86)
+    unit: (64,87)
+    gridRef:X_30_A_2_3 (43,90)
+    mapRef:X30  (48,92)
+Page 139 (type diary) http://wd3.herokuapp.com/pages/AWD0000jjv  ----------
+  30 Jun 1917 0
+    time:0100AM (66,44)
+    reference:whole enemy party killed (33,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (78,44)
+    person:Lieutenant G Glynn (casualty_wounded) (22,48)
+    person:Second Lieutenant A Lowther (casualty_wounded) (44,48)
+    activity:reconnoitered (34,55)
+    unit:Royal Horse Guards (32,59)
+    person:Lieutenant R L Sale (other) (24,59)
+    gridRef:X_30_C_5_9 (64,63)
+    activity:raid (52,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,74)
+    weather:fine (24,78)
+    weather:rain (63,78)
+    place:Lempire (64,85)
+    reference:Artillery (30,86)
+    activity:enemy_activity (33,86)
+    place:Tombois Valley (72,86)
+    place:Catelet Valley (23,90)
+Page 140 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnq  ----------
+  30 Jun 1917 0
+    reference:Trench Mortar (37,32)
+    activity:repair (38,43)
+    unit:A Squadron X R.H. (23,51)
+    unit:2 Troop B Squadron X R.H. (46,52)
+    unit:2 Troop C Squadron X R.H. (68,52)
+    unit:A Squadron E.Y. (23,55)
+    unit:D. Squadron R.H.G. (43,55)
+    unit:A Squadron R.H.G. (55,59)
+    unit:D Squadron R.H.G. (21,60)
+    unit:B Squadron R.H.G. (33,63)
+    unit:2 Troop B Squadron X R.H. (34,67)
+    unit:2 Troop C Squadron X R.H. (51,67)
+    unit:A Squadron X R.H. (79,68)
+    unit:R.H.G. Details (49,71)
+    unit:E.Y. (68,71)
+    weather:hot (42,77)
+    person:Lieutenant Priel (other) (62,85)
+Page 141 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpn  ----------
+  30 Jun 1917 0
+    activity:repair (61,40)
+    weather:rain (24,46)
+    weather:rain (60,48)
+    activity:fire (56,52)
+    unit:8 M G S (67,55)
+    activity:enemy_activity (36,63)
+    activity:repair (73,79)
+    person:Private Porch (casualty_wounded) (64,89)
+    person:Sergeant Price (27,89)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,89)
+    person:Sergeant Price (casualty_wounded) (37,90)
+    person:Private Butcher (casualty_wounded) (31,92)
+    person:Private Butcher (17,93)
+Page 142 (type diary) http://wd3.herokuapp.com/pages/AWD0000jni  ----------
+  30 Jun 1917 0
+    unit:9 M G S (24,32)
+    unit:8 M G S (38,32)
+    reference:D 1 Sub Sector (56,32)
+    unit:L Y C (28,36)
+    reference:Intermediate Line H Q (78,36)
+    unit:X R H (56,37)
+    unit:1 Sqdron (42,37)
+    unit:1 L G (42,40)
+    unit:Essex Yeomanry (71,41)
+    reference:Brown Line (36,43)
+    unit:R H G (24,44)
+    weather:rain (25,48)
+Page 143 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlq  ----------
+  1 Jul 1917 28
+    place:Courcelles (7,31)
+  2 Jul 1917 32
+    place:Suzanne (64,34)
+    activity:movement (36,36)
+    place:Suzanne (59,36)
+  16 Jun 1917 39
+  17 Jun 1917 47
+    person:Lieutenant R A Thomson (promotion) (33,47)
+    person:Lieutenant R A Thomson (promotion) (19,47)
+    person:Second Lieutenant A Winter Rose (promotion) (22,55)
+    person:Second Lieutenant F D Balfour (promotion) (22,59)
+    person:Second Lieutenant R C Weatherby (promotion) (22,62)
+    person:Second Lieutenant R W Bruce (promotion) (20,66)
+  3 Jul 1917 67
+    unit:8 Cavalry Brigade (26,70)
+    time:0930AM (72,71)
+    activity:movement (33,71)
+    place:Morancourt (50,74)
+    place:Bray (39,75)
+    place:Heilly (22,78)
+    place:Treux (41,78)
+    place:Mericourt (84,78)
+    person:Private J Graham (award) (30,81)
+  4 Jul 1917 83
+    activity:movement (22,86)
+    place:Orville (44,86)
+    place:Heilly (73,86)
+    place:Beauquesne (50,89)
+    place:Authieulle (79,89)
+    place:Puchevillers (41,90)
+    place:Contay (22,91)
+    place:Toutencourt (30,91)
+Page 144 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnr  ----------
+  5 Jul 1917 28
+    place:Rebreuviette (43,33)
+    place:Brevillers (74,36)
+    place:Doullens (27,37)
+    place:Grouches (54,37)
+  6 Jul 1917 40
+    place:Rebreuviette (69,40)
+    unit:8 Cavalry Brigade (28,44)
+    activity:movement (23,46)
+  7 Jul 1917 53
+  8 Jul 1917 60
+  9 Jul 1917 65
+    activity:training (37,67)
+  10 Jul 1917 68
+    domestic:accomodation (58,71)
+  11 Jul 1917 73
+  12 Jul 1917 77
+    unit:Canadian Corps School Range (68,79)
+    gridRef:H_4_D_5_0 (83,79)
+    person:Lieutenant A Winter Rose (returned_leave) (23,82)
+  13 Jul 1917 84
+    person:Major G Gold (returned_leave) (45,86)
+    person:Major E Hill (returned_leave) (59,86)
+    activity:training (24,87)
+    person:Major J O Parker (other) (33,90)
+Page 145 (type diary) http://wd3.herokuapp.com/pages/AWD0000jq0  ----------
+  13 Jul 1917 28
+    unit:5 D. G. Dragoon Guards) (42,29)
+    unit:Derbyshire Yeomanry (55,29)
+    unit:Hampshire Carbineers (68,29)
+    unit:Notts Yeomanry (81,29)
+    unit:West Somerset Yeomanry (34,31)
+    person:Second Lieutenant R W Bruce (other) (58,32)
+  15 Jul 1917 40
+    mapRef:B 36 E (76,40)
+    mapRef:36d (69,40)
+  16 Jul 1917 44
+    activity:training (42,44)
+  17 Jul 1917 48
+  18 Jul 1917 52
+    domestic:accomodation (41,55)
+    place:Thiennes (6,58)
+    person:Second Lieutenant R W Bruce (departed_leave) (24,59)
+  20 Jul 1917 63
+    activity:training (23,67)
+    activity:training (35,67)
+  21 Jul 1917 69
+  22 Jul 1917 73
+    activity:other (31,76)
+    person:Captain Hine (departed_leave) (21,81)
+  23 Jul 1917 83
+    person:Major A Buxton (departed_training) (37,90)
+    person:Major Buxton (departed_training) (22,90)
+Page 146 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlz  ----------
+  23 Jul 1917 0
+  24 Jul 1917 36
+    place:Camiers (82,36)
+    place:Thiennes (7,36)
+    place:Thiennes (6,41)
+  27 Jul 1917 44
+    activity:training (22,44)
+    activity:training (33,44)
+  28 Jul 1917 48
+    activity:training (33,51)
+  29 Jul 1917 56
+    activity:training (22,60)
+  31 Jul 1917 61
+Page 147 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmf  ----------
+  7 Aug 1917 78
+  1 Aug 1917 27
+    place:Thiennes (7,28)
+    activity:training (60,30)
+    activity:training (36,32)
+    place:Thiennes (6,33)
+    person:Second Lieutenant F D Balfour (returned_leave) (19,34)
+  2 Aug 1917 35
+    person:Second Lieutenant F D Balfour (returned_leave) (31,35)
+  3 Aug 1917 36
+  4 Aug 1917 38
+    activity:training (33,39)
+  5 Aug 1917 43
+    person:Lieutenant R A Thomson (departed_leave) (26,43)
+    domestic:parades (18,46)
+    place:Ranchcourt (68,46)
+    domestic:religion (46,48)
+    person:Second Lieutenant R W Holland (departed_leave) (19,54)
+  6 Aug 1917 58
+    unit:Army Signal Service (39,58)
+    activity:training (18,61)
+    activity:training (39,63)
+    person:Second Lieutenant A D Lippet (other) (37,69)
+    person:Second Lieutenant W Ritchie (other) (61,70)
+    person:Second Lieutenant H H Newman (other) (41,74)
+    person:Second Lieutenant H H Newman (award) (54,75)
+  7 Aug 1917 78
+    activity:training (23,81)
+    domestic:sport (13,88)
+    person:Major F B Stapleton-Bretherton (other) (40,89)
+    person:Lieutenant Colonel Lord Twedmouth (other) (21,90)
+    person:Captain C Kerr (other) (62,90)
+Page 148 (type diary) http://wd3.herokuapp.com/pages/AWD0000jl3  ----------
+  7 Aug 1917 26
+    person:Second Lieutenant L Solaini (departed_training) (24,28)
+    place:Thiennes (7,29)
+    person:Second Lieutenant L Solaini (departed_training) (21,32)
+    person:Second Lieutenant L B Hore (returned_training) (80,34)
+    place:Thiennes (6,34)
+    person:Major J O Parker (returned_leave) (31,36)
+    person:Second Lieutenant L B Hore (returned_training) (68,37)
+  8 Aug 1917 39
+    person:Second Lieutenant F B Wilmer (departed_leave) (62,43)
+    activity:training (27,44)
+  9 Aug 1917 47
+    person:Lieutenant J C Chaplin (departed_leave) (42,47)
+    person:Second Lieutenant H N Long (departed_leave) (62,48)
+    activity:training (25,51)
+    person:Second Lieutenant W H Polkinghorne (departed_sick) (62,51)
+    weather:rain (50,58)
+    place:Isbergues (23,62)
+    activity:enemy_activity (67,64)
+    activity:fire (32,67)
+  10 Aug 1917 70
+    activity:movement (18,79)
+    place:Berguette (6,79)
+    person:Second Lieutenant B F Wilmer (returned_leave) (26,85)
+  11 Aug 1917 86
+    person:Second Lieutenant R W Bruce (returned_leave) (60,89)
+Page 149 (type diary) http://wd3.herokuapp.com/pages/AWD0000jly  ----------
+  12 Aug 1917 25
+    domestic:religion (21,31)
+    person:Second Lieutenant L Solaini (returned_training) (59,31)
+    place:Berguette (6,33)
+  13 Aug 1917 35
+    unit:S.o.c. 3 Cavalry Division (24,40)
+  14 Aug 1917 43
+    activity:training (23,47)
+    domestic:sport (78,51)
+    person:Captain Gibbs (other) (32,55)
+  15 Aug 1917 59
+    person:Second Lieutenant C A Collis (departed_leave) (60,59)
+  16 Aug 1917 63
+    person:Lieutenant F D Balfour (returned_leave) (58,63)
+  17 Aug 1917 74
+    person:Second Lieutenant R D Holland (returned_leave) (25,74)
+    activity:training (25,78)
+  18 Aug 1917 82
+  19 Aug 1917 86
+    activity:training (23,86)
+    domestic:religion (20,92)
+Page 150 (type diary) http://wd3.herokuapp.com/pages/AWD0000jo8  ----------
+  19 Aug 1917 26
+    person:Lieutenant Colonel Whitmore (68,29)
+  20 Aug 1917 38
+  21 Aug 1917 43
+    activity:training (47,44)
+  22 Aug 1917 47
+  23 Aug 1917 51
+    activity:training (23,51)
+  24 Aug 1917 56
+    person:Second Lieutenant W Brown (other) (25,63)
+    person:Second Lieutenant Lippett (other) (45,63)
+    person:Major J O Parker (other) (60,63)
+    person:Second Lieutenant W Ritchie (other) (70,67)
+  25 Aug 1917 75
+    person:Major A Buxton (returned_training) (47,86)
+Page 151 (type diary) http://wd3.herokuapp.com/pages/AWD0000jp6  ----------
+  26 Aug 1917 27
+    person:Lieutenant Tufnell (returned_leave) (53,31)
+    domestic:religion (22,32)
+    place:Berguette (8,35)
+  27 Aug 1917 36
+    person:Second Lieutenant L B Hore (departed_leave) (39,36)
+    person:Second Lieutenant B F Wilmer (departed_leave) (21,37)
+    person:Lieutenant E G Windle (departed_posted) (33,44)
+    reference:3RD CAV (79,44)
+  28 Aug 1917 47
+    reference:8TH CAV BDE (57,52)
+    person:Second Lieutenant G L Horsfall (departed_leave) (37,63)
+    person:Second Lieutenant L Solaini (79,63)
+    person:Second Lieutenant P R Jermyn (departed_leave) (27,66)
+  29 Aug 1917 67
+    domestic:inspections (73,71)
+  30 Aug 1917 74
+    reference:8TH CAV BDE (30,74)
+    reference:B SQ of HORSES (53,75)
+    reference:C SQ of HORSES (59,75)
+  31 Aug 1917 78
+    activity:training (24,78)
+  25 Aug 1917 0
+    reference:ESSEX YEOMANRY (70,9)
+  31 Aug 1917 78
+    weather:fine (45,90)
+Page 152 (type ) http://wd3.herokuapp.com/pages/AWD0000jli  ----------
+  31 Aug 1917 0
+    reference:ESSEX YEOMANRY (67,11)
+    date:17 Sep 1917 (70,14)
+  1 Sep 1917 28
+    reference:CALVARY           HORSE SHOW (82,32)
+    date:17 Sep 1917 (13,33)
+    reference:Berquette (5,34)
+  2 Sep 1917 36
+    place:Ramecourt (46,36)
+    date:17 Sep 1917 (14,40)
+    domestic:religion (25,40)
+  3 Sep 1917 43
+    person:Major A Buxton (departed_training) (24,43)
+    date:17 Sep 1917 (13,48)
+    activity:training (44,48)
+  4 Sep 1917 51
+    mapRef:36a (44,52)
+    date:17 Sep 1917 (13,55)
+    activity:training (45,56)
+  5 Sep 1917 62
+    person:Lieutenant Colonel E H Whitmore (departed_leave) (65,63)
+    date:17 Sep 1917 (13,66)
+    activity:training (78,70)
+  6 Sep 1917 86
+    date:17 Sep 1917 (12,89)
+    activity:training (23,89)
+Page 153 (type diary) http://wd3.herokuapp.com/pages/AWD0000jko  ----------
+  7 Sep 1917 24
+    activity:training (61,30)
+    place:Berguette (8,31)
+    unit:8 Cavalry Brigade (62,34)
+  8 Sep 1917 41
+    person:Second Lieutenant L B Hore (returned_leave) (62,41)
+    person:Second Lieutenant B F Wilmer (returned_leave) (40,42)
+    activity:training (36,46)
+    person:Second Lieutenant G Horsfall (returned_leave) (62,49)
+  9 Sep 1917 53
+    domestic:religion (32,56)
+    person:Second Lieutenant L Solaini (returned_leave) (47,60)
+  10 Sep 1917 61
+    person:Second Lieutenant P R Jermyn (returned_leave) (31,61)
+    activity:training (41,64)
+  11 Sep 1917 66
+  12 Sep 1917 69
+    activity:training (31,69)
+    person:Second Lieutenant Lippett (returned_leave) (55,69)
+    domestic:inspections (34,73)
+    person:Major A Buxton (returned_training) (31,84)
+Page 154 (type diary) http://wd3.herokuapp.com/pages/AWD0000jm1  ----------
+  13 Sep 1917 26
+    place:Berguette (11,28)
+    activity:training (33,29)
+  14 Sep 1917 30
+    activity:training (38,33)
+  15 Sep 1917 38
+    person:Second Lieutenant E K Collins (departed_posted) (38,38)
+    activity:training (34,42)
+  16 Sep 1917 44
+    domestic:religion (38,45)
+  17 Sep 1917 49
+    person:Second Lieutenant W C V Schwier (returned_leave) (43,49)
+    person:Second Lieutenant W C V Schwier (returned_leave) (31,50)
+    person:Brigadier General R B Colvin (other) (61,53)
+    domestic:inspections (32,54)
+    person:Brigadier General R B Colvin (other) (33,57)
+    unit:Essex Yeomanary Musketry (68,57)
+  18 Sep 1917 60
+    activity:training (53,60)
+    activity:training (38,65)
+    activity:training (58,69)
+  19 Sep 1917 76
+    person:Second Lieutenant S W Taylor (departed_leave) (34,76)
+  20 Sep 1917 80
+    activity:training (33,82)
+    activity:training (39,82)
+    person:Brigadier General R B Colvin (other) (45,88)
+Page 155 (type diary) http://wd3.herokuapp.com/pages/AWD0000jn7  ----------
+  20 Sep 1917 27
+    place:Berguette (11,34)
+    reference:received the thank of the countrty for their gallant  service (42,38)
+    reference:whole enemy party killed (48,38)
+  21 Sep 1917 50
+    unit:3 Cavalry Division (55,58)
+  22 Sep 1917 61
+  23 Sep 1917 66
+    activity:training (32,66)
+  24 Sep 1917 73
+    activity:training (34,78)
+    person:Captain E P W Wedd (promotion) (36,94)
+Page 156 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlk  ----------
+  25 Sep 1917 26
+    place:Berguette (11,31)
+    person:Captain V T G Hine (returned_leave) (56,31)
+    activity:training (33,31)
+  26 Sep 1917 35
+    person:Second Lieutenant G L Horsfall (departed_leave) (34,35)
+  27 Sep 1917 39
+    activity:training (32,40)
+    activity:training (29,42)
+    person:Lieutenant S J Tufnell (other) (66,47)
+  28 Sep 1917 50
+  29 Sep 1917 55
+    activity:training (26,55)
+    activity:training (29,55)
+    person:Major A Buxton (departed_leave) (44,58)
+  30 Sep 1917 59
+    person:Second Lieutenant S W Taylor (returned_leave) (35,74)
+Page 157 (type diary) http://wd3.herokuapp.com/pages/AWD0000jjy  ----------
+  1 Oct 1917 27
+    activity:training (31,31)
+    place:Berguette (14,31)
+    place:Berguette (16,34)
+  2 Oct 1917 36
+    activity:training (30,38)
+    place:Berguette (14,38)
+    activity:training (41,39)
+    person:Lieutenant R W Bruce (other) (63,46)
+    person:Second Lieutenant J Brown (other) (64,50)
+    person:Second Lieutenant W H Naish (departed_posted) (26,58)
+  3 Oct 1917 62
+    activity:training (29,66)
+    person:Lieutenant S J Tufnell (other) (50,66)
+    place:Berguette (13,66)
+  4 Oct 1917 70
+    activity:training (30,74)
+    person:Second Lieutenant L Abraham (departed_posted) (57,74)
+    person:Second Lieutenant L Abraham (departed_posted) (45,74)
+    reference:G R O 2572 (62,81)
+    person:Second Lieutenant G L Horsfall (promotion) (46,85)
+    person:Second Lieutenant W A Tuczek (promotion) (60,85)
+    person:Second Lieutenant R W Bruce (promotion) (30,89)
+    person:Second Lieutenant B F Wilmer (promotion) (47,89)
+    person:Second Lieutenant L B Hore (promotion) (57,89)
+Page 158 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmi  ----------
+  4 Oct 1917 27
+    reference:ESSEX YEOMANNRY (35,11)
+    place:Berguette (19,30)
+    person:Second Lieutenant W Ritchie (other) (47,30)
+    person:Second Lieutenant H H Newman (other) (31,31)
+    person:Second Lieutenant R D Holland (other) (59,31)
+  5 Oct 1917 32
+  6 Oct 1917 38
+    activity:training (33,38)
+  7 Oct 1917 42
+    activity:training (30,43)
+    domestic:religion (26,46)
+  8 Oct 1917 54
+    person:Lieutenant R W Bruce (other) (68,62)
+  9 Oct 1917 66
+  10 Oct 1917 70
+  11 Oct 1917 77
+    unit:8 Calvary Brigade (29,81)
+    domestic:parades (62,85)
+Page 159 (type diary) http://wd3.herokuapp.com/pages/AWD0000jm2  ----------
+  11 Oct 1917 29
+    place:Berguette (8,28)
+    activity:movement (26,31)
+    place:Saint Venant (24,32)
+    place:Berguette (6,32)
+  13 Oct 1917 36
+    place:Harte Vente (7,36)
+  14 Oct 1917 40
+    place:Bas Hamel (7,41)
+  15 Oct 1917 45
+    activity:training (51,47)
+    activity:training (41,48)
+  16 Oct 1917 49
+  17 Oct 1917 61
+    reference:8th Cavalty Brgd moved to billets in Pennes area (30,63)
+    activity:movement (37,67)
+    place:Camblain (38,70)
+  18 Oct 1917 72
+  19 Oct 1917 75
+  20 Oct 1917 80
+    person:Second Lieutenant W H Polkinghorne (other) (39,82)
+    reference:2nd Lt W H Pocklinghorne  classified as P B and struck off strength (33,83)
+  21 Oct 1917 84
+    activity:movement (77,86)
+Page 160 (type diary) http://wd3.herokuapp.com/pages/AWD0000jj8  ----------
+  22 Oct 1917 28
+    place:Canaples (44,30)
+    activity:movement (25,30)
+    activity:movement (52,31)
+    place:Rebreuviette (6,33)
+    place:Havernas (68,36)
+  23 Oct 1917 39
+    place:Havernas (6,42)
+  24 Oct 1917 44
+  25 Oct 1917 48
+  26 Oct 1917 51
+    person:Second Lieutenant E F McFadden (joined) (65,55)
+    person:Second Lieutenant Doe (joined) (77,55)
+    person:Second Lieutenant F C Doe (joined) (80,56)
+  27 Oct 1917 59
+    person:Lieutenant J K Swire (joined) (22,59)
+    person:Second Lieutenant C E Devin (joined) (35,59)
+    person:Second Lieutenant G Wear (joined) (49,59)
+    person:Lieutenant B F Wilmer (other) (41,63)
+    person:Second Lieutenant J Brown (other) (54,63)
+    reference:Lt B F Wilmer,2nd Lt J Browne and 96 ORs forward to join 3rd div Pioneer s (38,64)
+    unit:3 Cavalry Pioneer Battalionn (27,67)
+    person:Major J O Parker (other) (21,70)
+    person:Second Lieutenant E K Collins (departed_posted) (78,71)
+  28 Oct 1917 74
+    domestic:religion (29,79)
+  29 Oct 1917 82
+  31 Oct 1917 87
+Page 161 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnj  ----------
+  1 Nov 1917 28
+    place:Havernas (7,33)
+    domestic:inspections (58,36)
+    place:Wargnies (7,37)
+    domestic:religion (21,51)
+    domestic:religion (29,51)
+    activity:training (25,56)
+    domestic:inspections (43,59)
+    activity:training (75,63)
+    activity:training (33,63)
+    domestic:inspections (21,67)
+    domestic:inspections (47,78)
+    activity:training (26,78)
+    activity:training (29,87)
+Page 162 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnv  ----------
+  1 Nov 1917 0
+    reference:ESSEX YEOMANAY (69,14)
+  11 Nov 1917 28
+    domestic:religion (31,32)
+  13 Nov 1917 43
+    activity:training (30,44)
+    reference:HQ (70,48)
+    reference:HQ 8TH CAV BDE (79,48)
+  14 Nov 1917 51
+  15 Nov 1917 55
+  16 Nov 1917 59
+  17 Nov 1917 66
+  18 Nov 1917 70
+    reference:8TH CAV BGDE (27,74)
+    time:0430PM (35,78)
+    activity:movement (76,79)
+    place:Contay (30,82)
+    place:Herrisart (22,83)
+  19 Nov 1917 86
+    time:0900AM (22,90)
+Page 163 (type diary) http://wd3.herokuapp.com/pages/AWD0000jpz  ----------
+  19 Nov 1917 27
+    place:Cambrai (22,36)
+    time:1030AM (41,47)
+  22 Nov 1917 59
+    person:Major G Gold (departed_posted) (63,59)
+  23 Nov 1917 66
+    place:Contay (37,68)
+    activity:movement (20,70)
+    activity:movement (28,70)
+    domestic:accomodation (82,71)
+    place:Contay (41,71)
+    place:Allonville (14,74)
+    place:Cardonette (39,75)
+    place:Coisy (52,75)
+    place:Allonville (7,78)
+    weather:rain (66,81)
+  24 Nov 1917 82
+    place:Coisy (7,82)
+    domestic:accomodation (45,86)
+    place:Cardonette (7,87)
+    person:Major G Gold (67,87)
+    unit:2 Cavalry Division (54,90)
+Page 164 (type diary) http://wd3.herokuapp.com/pages/AWD0000jip  ----------
+  24 Nov 1917 23
+    place:Allonville (7,27)
+    activity:other (83,30)
+    place:Coisy (7,32)
+  25 Nov 1917 36
+    place:Cardonette (6,36)
+    domestic:religion (26,41)
+    domestic:medical (65,45)
+  26 Nov 1917 65
+  27 Nov 1917 70
+    activity:training (26,74)
+  28 Nov 1917 77
+    domestic:inspections (50,82)
+  29 Nov 1917 86
+    activity:training (53,87)
+    activity:training (23,90)
+Page 165 (type diary) http://wd3.herokuapp.com/pages/AWD0000jlb  ----------
+  29 Nov 1917 0
+    reference:ESSEX YEOMANNRY (73,13)
+  30 Nov 1917 25
+    place:Allonville (7,28)
+    place:Cardonette (7,33)
+    domestic:inspections (69,34)
+  26 Nov 1917 40
+    person:Lieutenant A Winter Rose (promotion) (38,44)
+Page 166 (type diary) http://wd3.herokuapp.com/pages/AWD0000jq7  ----------
+  1 Dec 1917 23
+    person:Major G G Gold (departed_posted) (25,28)
+    person:Lieutenant S J Tufnell (departed_posted) (43,28)
+    person:Lieutenant W Brown (departed_posted) (78,28)
+    place:Allonville (6,28)
+    person:Lieutenant G Wear (departed_posted) (68,29)
+    activity:movement (51,33)
+    place:Cardonette (6,33)
+  2 Dec 1917 37
+    place:Bernes (55,37)
+    place:Coisy (7,37)
+    activity:movement (31,40)
+  3 Dec 1917 41
+    place:Picquigny (61,41)
+    domestic:inspections (28,45)
+    place:Picquigny (8,46)
+    place:Requigny (7,48)
+  14 Dec 1917 57
+    domestic:inspections (32,57)
+  21 Dec 1917 62
+    domestic:inspections (31,62)
+    person:Lieutenant Swire (joined) (85,65)
+  23 Dec 1917 66
+    person:Lieutenant Hore (departed_posted) (27,66)
+    person:Lieutenant Collis (departed_posted) (36,66)
+    person:Lieutenant Tufnell (other) (74,66)
+    place:Naours (81,69)
+  26 Dec 1917 70
+    activity:movement (28,70)
+    domestic:accomodation (44,70)
+    place:Vignacourt (56,70)
+    place:Havernasi (73,70)
+    person:Lieutenant Colonel Whitmore (departed_posted) (27,74)
+    place:Vignacourt (6,74)
+    place:Vadencourt (59,74)
+    place:Naours (5,77)
+    unit:8 district Brigade (31,78)
+    place:Havernas (6,81)
+    person:Captain A W Rose (departed_posted) (86,82)
+    person:Major E Hill (departed_posted) (45,82)
+    person:Captain A W Rose (64,82)
+    person:Major E Hill (51,83)
+    person:Captain E Stork (departed_posted) (24,86)
+    person:Lieutenant F D Balfour (departed_posted) (46,86)
+    person:Second Lieutenant Solaini (departed_posted) (61,86)
+    person:Second Lieutenant E Green (departed_posted) (83,86)
+    person:Lieutenant Wear (joined) (74,90)
+    person:Lieutenant Brown (other) (84,90)
+    person:Major G G Gold (other) (50,91)
+    person:Major G G Gold (author) (76,95)
+Page 167 (type diary) http://wd3.herokuapp.com/pages/AWD0000jln  ----------
+  26 Dec 1917 0
+    weather:cold (75,28)
+    weather:cold (88,29)
+    place:Vignacourt (8,41)
+    person:Lieutenant J C Chaplin (57,43)
+    person:Lieutenant J C Chaplin (departed_training) (48,44)
+    person:Second Lieutenant C A Hall-Hall (departed_training) (69,44)
+    person:Lieutenant C A Hall (departed_training) (75,45)
+    place:Naours (8,46)
+    reference:CAV CORP EQUESTRIAN SCHOOL (44,48)
+    place:Havernas (8,50)
+    person:Lieutenant G L Horsfall (departed_training) (26,53)
+    person:Second Lieutenant W Ritchie (departed_training) (49,53)
+    person:W C V Schwier (other) (64,53)
+    reference:3RD CAV CORP EQUESTRIAN SCHOOL (35,57)
+    person:Lieutenant P R Jermyn (departed_training) (33,61)
+    reference:CAV CORPS POWER BUZZER COURSE (74,62)
+    person:Second Lieutenant P R Jermyn (departed_training) (41,63)
+    person:Second Lieutenant S W Taylor (departed_training) (33,70)
+    person:Second Lieutenant F C Doe (departed_training) (53,70)
+    reference:H.A.R. SCHOOL (74,71)
+    place:Le Touquet (23,74)
+    person:Major Guy G Gold (author) (60,87)
+    person:Major Guy G Gold (author) (76,91)
+Page 168 (type cover)
+Page 169 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmv  ----------
+  26 Dec 1917 0
+    reference:ESSEX YEOMANRY (32,11)
+  15 Jan 1918 23
+    place:Havernas (10,27)
+    person:Second Lieutenant C A Collis (joined) (34,27)
+    place:Vignacourt (7,29)
+    unit:Dismounted Party (75,29)
+  16 Jan 1918 32
+    place:Naours (5,32)
+    person:Second Lieutenant E J McFadden (other) (27,32)
+    unit:8 Dismounted Brigade (89,36)
+    unit:9 Dismounted Brigade (92,36)
+    person:Lieutenant Colonel F H D C Whitmore (other) (73,37)
+    reference:9TH  DISMOUNTED BRIGADE (59,37)
+    reference:8TH DISMOUNTED BRIGADE (28,38)
+    place:Havernas (7,39)
+    unit:15 Royal Hussars (93,40)
+    reference:15 K. HUSSARS (71,41)
+    reference:15 K. HUSSARS (45,42)
+    reference:E T TROOP OPS (75,46)
+  19 Jan 1918 49
+    reference:3RD CAVALRY DISMOUNTED PIONEER REGIMENT (36,49)
+  20 Jan 1918 54
+    person:Second Lieutenant B W Green (returned_hospital) (30,54)
+  21 Jan 1918 58
+    domestic:religion (22,58)
+    place:Havernas (75,58)
+    place:Naours (79,66)
+    person:Lieutenant W Ritchie (other) (28,70)
+    reference:DISMOUNT PARTY (46,70)
+    reference:LONDON GAZETTE (50,75)
+    person:Lieutenant Colonel F H D C Whitmore (other) (36,78)
+    reference:ORDER OF ST. MICHAEL (80,81)
+    reference:ORDER OF ST. GEORGE (43,86)
+    person:Captain R A Proby (award) (28,90)
+Page 170 (type diary) http://wd3.herokuapp.com/pages/AWD0000jot  ----------
+  21 Jan 1918 0
+    reference:ESSEX YEOMANRY (72,13)
+    place:Vignacourt (7,28)
+    weather:cold (65,28)
+    weather:cold (79,30)
+    place:Naours (5,32)
+    place:Havernas (7,37)
+  4 Jan 1918 41
+    person:Second Lieutenant E J McFadden (departed_posted) (31,41)
+    unit:81 Dismounted Brigade (77,41)
+    person:Major G G Gold (other) (24,45)
+    domestic:inspections (71,46)
+    person:Lieutenant L B Hore (departed_posted) (49,49)
+  6 Jan 1918 53
+    reference:3 C.D list 66 7447/1 (46,53)
+  8 Jan 1918 57
+    domestic:religion (24,57)
+    place:Vignacourt (56,58)
+  9 Jan 1918 62
+    person:Second Lieutenant E J McFadden (25,62)
+    reference:DISMOUNTED PARTY (63,62)
+  11 Jan 1918 65
+    domestic:parades (26,66)
+    person:Lieutenant G L Horsfall (departed_posted) (32,70)
+    person:Second Lieutenant W C V Schweir (departed_posted) (49,70)
+    person:Second Lieutenant W C V Schweir (departed_posted) (62,71)
+  12 Jan 1918 77
+    person:Second Lieutenant B W Green (departed_sick) (26,78)
+  13 Jan 1918 82
+    person:Major G G Gold (other) (24,82)
+    domestic:inspections (38,82)
+  14 Jan 1918 86
+    time:0630PM (60,86)
+    domestic:religion (23,86)
+    place:Naours (51,87)
+    domestic:parades (36,91)
+Page 171 (type diary) http://wd3.herokuapp.com/pages/AWD0000jp7  ----------
+  14 Jan 1918 0
+    reference:ESSEX YEOMANRY (37,12)
+  21 Jan 1918 23
+    place:Vignacourt (7,28)
+    person:Regimental Quarter Master Sergeant S Joscelyne (award) (26,28)
+    place:Naours (7,32)
+  22 Jan 1918 33
+    reference:Efficiency Medal (30,33)
+    domestic:inspections (25,36)
+    place:Havernas (8,36)
+  23 Jan 1918 37
+    activity:other (42,37)
+    domestic:inspections (35,37)
+    place:Havernas (72,37)
+    reference:B COMPANY (55,37)
+    activity:training (27,43)
+    person:Captain V T G Hine (departed_sick) (29,48)
+  24 Jan 1918 49
+  14 Jan 1918 0
+    reference:BRIGADE PARTY (55,5)
+  24 Jan 1918 49
+    activity:movement (47,53)
+    place:Vignacourt (70,53)
+    person:Captain R A Thomson (other) (68,57)
+    person:Captain R A Thomson (other) (85,57)
+    reference:3RD CAV PIONEER REGIMENT (54,58)
+    reference:3RD CAV PIONEER REGIMENT (55,62)
+    person:Second Lieutenant H N Long (other) (72,62)
+    reference:3.C.P. 6310/49 (23,69)
+    reference:3 C.D 6310/49 (45,69)
+  25 Jan 1918 70
+    reference:3RD CAV PIONEER REGIMENT (81,73)
+    unit:3 Cavalry Division Pioneer Regiment (93,74)
+    person:Second Lieutenant W C V Schweir (other) (24,74)
+  26 Jan 1918 78
+    activity:training (23,83)
+  27 Jan 1918 86
+    place:Lagache (28,87)
+    activity:movement (34,91)
+    activity:movement (71,91)
+    place:Proyart (54,91)
+    reference:8TH CAV BRIGADE (30,91)
+Page 172 (type diary) http://wd3.herokuapp.com/pages/AWD0000jih  ----------
+  27 Jan 1918 23
+    activity:movement (20,28)
+    place:Flesselles (33,28)
+    place:Daours (68,28)
+    place:Fouilly (77,28)
+    place:Berthicourt (47,29)
+    place:Amiens (58,29)
+    domestic:accomodation (49,32)
+    place:Abancourt (31,32)
+  28 Jan 1918 33
+    place:Marfusee (24,33)
+    place:Marcelcave (66,33)
+    activity:movement (27,36)
+    place:Merancourt (63,37)
+    place:Marcelcave (6,38)
+    place:Lamotte-En-Santerre (31,41)
+    place:Proyart (44,41)
+    place:Estrees (57,41)
+    place:Villers Carbonnel (74,41)
+  29 Jan 1918 45
+    place:Estrees En Chausse (29,45)
+    place:Merancourt (47,45)
+    place:Montecourt (74,45)
+    domestic:accomodation (61,46)
+  30 Jan 1918 49
+    domestic:accomodation (67,49)
+    domestic:hygiene (23,50)
+    domestic:hygiene (67,53)
+    domestic:accomodation (23,55)
+  31 Jan 1918 57
+    unit:8 Cavalry Brigade (71,61)
+    person:Lieutenant Colonel F H D C Whitmore (other) (25,62)
+    person:Second Lieutenant G V N Ridley (other) (73,78)
+    person:Lieutenant G Wear (other) (57,78)
+    person:Second Lieutenant C E Doe (other) (41,79)
+    person:Lieutenant B F Wilmer (other) (37,82)
+    unit:K.A.R. School (23,83)
+    person:Second Lieutenant L Solaini (returned_training) (67,86)
+    person:Second Lieutenant L Solaini (departed_training) (52,87)
+    unit:Fifth Army S.O.S. School (23,90)
+    person:Lieutenant R W Bruce (other) (50,91)
+    unit:5 army sos school (38,92)
+Page 173 (type ) http://wd3.herokuapp.com/pages/AWD0000jpj  ----------
+  31 Jan 1918 0
+    unit:Cavalry corps (25,29)
+    person:Lieutenant Swire (62,29)
+    person:Major A Buxton (author) (66,32)
+    unit:Fifth army (29,34)
+Page 174 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmy  ----------
+  31 Jan 1918 0
+  1 Feb 1918 27
+    domestic:accomodation (72,28)
+    place:Montecourt (7,29)
+  2 Feb 1918 30
+    domestic:accomodation (53,33)
+    reference:Greenshine (62,36)
+    person:Major E A Ruggles Brise (other) (30,48)
+  3 Feb 1918 49
+    domestic:religion (26,52)
+  4 Feb 1918 55
+    unit:Essex Yeomanry (52,63)
+    unit:Esssex Yeomanry (60,64)
+    reference:ESSEX YEOMANNRY (60,65)
+    activity:line (43,72)
+  5 Feb 1918 81
+  31 Jan 1918 0
+    reference:ESSEX YEOMANNRY (33,9)
+  5 Feb 1918 81
+Page 175 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmh  ----------
+  5 Feb 1918 26
+    reference:Town Mayor (54,29)
+    place:Villers Carbonnel (65,29)
+    place:Montecourt (7,29)
+    person:Lieutenant B F Wilmer (other) (29,29)
+    reference:Croix de Guerre (Belgian) (55,33)
+    person:Major J O Parker (award) (31,36)
+    person:Major J O Parker (award) (45,37)
+    person:Corporal H C Cordell (award) (32,40)
+    person:Corporal H C Cordell (award) (44,41)
+    person:Private C Wood (award) (48,44)
+    person:Private C Wood (award) (28,45)
+  6 Feb 1918 46
+    activity:other (63,48)
+    activity:other (24,49)
+    person:Major E A Ruggles Brise (other) (42,52)
+    domestic:inspections (62,60)
+    place:Vendelles (78,63)
+    reference:Town Mayor (65,64)
+    person:Second Lieutenant J Brown (other) (28,64)
+    person:Lieutenant J C Chaplin (departed_leave) (31,68)
+  7 Feb 1918 70
+  8 Feb 1918 77
+    activity:other (30,79)
+Page 176 (type diary) http://wd3.herokuapp.com/pages/AWD0000jnl  ----------
+  8 Feb 1918 25
+    reference:ESSEX YEOMAN (32,12)
+    place:Montecourt (6,29)
+    reference:ESSEX YEOMANRY (76,29)
+    activity:other (29,30)
+    place:Montecourt (6,33)
+  9 Feb 1918 37
+    reference:3RD CALVARY PIONEER REGIMENT (75,41)
+    person:Captain R A Thomson (joined) (27,41)
+    person:Lieutenant G L Horsfall (joined) (42,41)
+    person:Lieutenant G L Horsfall (joined) (44,41)
+    reference:DIVISIONAL B PIONEER PARTIES (62,48)
+    unit:8 Cavalry Brigade (29,52)
+    activity:other (27,53)
+  10 Feb 1918 68
+    domestic:religion (54,72)
+    time:0830AM (67,73)
+    domestic:religion (30,76)
+    time:0700PM (21,76)
+    person:Captain H J Lowe (joined) (25,79)
+  11 Feb 1918 80
+    domestic:inspections (55,83)
+    person:Second Lieutenant C A Hall Hall (other) (23,87)
+    person:Second Lieutenant C A Hall (promotion) (27,88)
+Page 177 (type diary) http://wd3.herokuapp.com/pages/AWD0000jm0  ----------
+  11 Feb 1918 0
+    reference:ESSEX YEOMAN (33,11)
+  8 Feb 1918 26
+    place:Montecourt (7,29)
+    place:Montecourt (6,32)
+    reference:3RD CALVARY AGRICULTURAL ORGANIZATION (57,34)
+    person:Lieutenant Colonel F H D C Whitmore (other) (51,37)
+    reference:3RD CALVARY DIVISION (61,40)
+    unit:3 Cavalry Division (58,40)
+    reference:FRENCH DIVISION (31,45)
+    reference:ESSEX YEOMANRY (30,49)
+    person:Lieutenant R D Holland (other) (33,61)
+    reference:FRENCH AGRICULTURAL AUTHORITIES (59,65)
+Page 178 (type diary) http://wd3.herokuapp.com/pages/AWD0000jle  ----------
+  8 Feb 1918 0
+    reference:ESSEX YEOMANRY (34,10)
+  12 Feb 1918 27
+    domestic:hygiene (26,29)
+    place:Montecourt (6,29)
+  13 Feb 1918 31
+    domestic:inspections (79,33)
+    person:Second Lieutenant A D Lippett (other) (23,37)
+    reference:W.0.14404612 (M.S.1.R.4) (56,40)
+    person:Lieutenant R C Weatherby (other) (30,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (41,52)
+  14 Feb 1918 54
+    person:Lieutenant F D Balfour (departed_leave) (25,60)
+  15 Feb 1918 62
+    domestic:hygiene (25,65)
+    domestic:inspections (47,67)
+    reference:8TH CAV BRIGADE (37,69)
+  17 Feb 1918 71
+    time:0730PM (48,76)
+    domestic:religion (26,76)
+  19 Feb 1918 80
+    person:Lieutenant R D Holland (departed_leave) (28,80)
+  20 Feb 1918 85
+Page 179 (type diary) http://wd3.herokuapp.com/pages/AWD0000jm6  ----------
+  20 Feb 1918 25
+    reference:258 TUNELLING COMPANY (71,28)
+    place:Jeancourt (41,29)
+    unit:258 Tunnelling Company (62,29)
+    unit:258 Tunneling Company (74,29)
+  21 Feb 1918 30
+    place:Montecourt (7,30)
+  22 Feb 1918 33
+    place:Jeancourt (78,44)
+    domestic:accomodation (79,47)
+    reference:258 TUNELLING COMPANY (57,48)
+    place:Jeancourt (32,52)
+    place:Jeancourt (60,56)
+    domestic:accomodation (32,60)
+    place:Bihecourt (58,64)
+  23 Feb 1918 68
+    domestic:accomodation (32,68)
+  24 Feb 1918 72
+    time:0930AM (68,79)
+    reference:C SQUADRON (58,79)
+  20 Feb 1918 25
+    reference:ESSEX YEOMANNRY (36,8)
+  24 Feb 1918 72
+    domestic:religion (26,80)
+  25 Feb 1918 83
+    place:Paris (76,83)
+    person:Major G G Gold (departed_leave) (29,83)
+    person:Lieutenant G L Horsfall (departed_leave) (46,83)
+Page 180 (type diary) http://wd3.herokuapp.com/pages/AWD0000jn0  ----------
+  26 Feb 1918 26
+    place:Montecourt (7,29)
+    person:Lieutenant G Wear (departed_sick) (26,33)
+  27 Feb 1918 35
+    domestic:hygiene (36,36)
+  28 Feb 1918 38
+    time:1000PM (56,49)
+    unit:7 Cavalry Brigade (80,52)
+    reference:7TH CAVALRY BRIGADE (65,52)
+    reference:7th Cavalry Brigade (63,52)
+    activity:movement (28,52)
+    place:Trefcon (32,52)
+    unit:Fifth Army Musketry Camp (49,60)
+    reference:5TH ARMY MUSKETRY CAMP (50,60)
+    reference:First Army Musketry Camp Gas School (47,60)
+    person:Major A Buxton (departed_training) (29,60)
+    unit:Gas School (43,64)
+    person:Second Lieutenant W Brown (departed_training) (27,64)
+    person:Second Lieutenant C E Devin (departed_training) (29,69)
+    person:Lieutenant G Wear (departed_training) (24,72)
+    unit:3 Cavalry Division School of Instruction (42,75)
+    person:Second Lieutenant G V N Ridley (departed_training) (19,75)
+    person:Second Lieutenant G V N Ridley (departed_training) (29,76)
+    reference:3RD CAVALARY DIVISION SCHOOL OF INSTRUCTION (57,77)
+    person:Second Lieutenant L Solaini (departed_training) (27,79)
+  25 Feb 1918 0
+    reference:ESSEX YEOMANRY (32,8)
+  28 Feb 1918 38
+    person:Second Lieutenant C A Collis (departed_training) (21,83)
+    person:Second Lieutenant S W Taylor (departed_training) (28,87)
+    person:Second Lieutenant S W Taylor (departed_training) (19,87)
+Page 181 (type diary) http://wd3.herokuapp.com/pages/AWD0000jkm  ----------
+  28 Feb 1918 26
+    activity:enemy_activity (59,27)
+    person:Second Lieutenant J Brown (departed_training) (24,29)
+    unit:Trench Mortar School (45,29)
+    activity:enemy_activity (56,31)
+    weather:fine (63,33)
+    weather:fine (31,33)
+    activity:other (34,33)
+    unit:111 Infantry Brigade (48,37)
+    unit:112 Infantry Brigade (54,37)
+    activity:enemy_activity (29,40)
+    place:Chateau (41,41)
+    unit:10 Royal Hussars (66,41)
+    place:North West Exit Of Village (31,43)
+    unit:Essex Yeomanry (69,43)
+    reference:3RD CAVALRY DIVISION AGRICULTURAL ORGANIZATION (52,45)
+    unit:3 Cavalry Division Agricultural Organisation (46,45)
+    person:Brigadier General C Bulkeley Johnson (casualty_kia) (72,47)
+    unit:3 Dragoon Guards (32,51)
+    weather:cold (42,52)
+    unit:11 Infantry Brigade (70,52)
+    person:Tweedmouth (other) (49,56)
+    unit:63 Brigade (25,57)
+    person:Major The earl of Pembroke (other) (30,59)
+    unit:Squadron of Royal Horse Guards (44,59)
+    person:Lieutenant Back (casualty_wounded) (67,60)
+    place:Monchy (42,61)
+    person:Captain Wilson (casualty_kia) (48,61)
+    time:0500PM (71,62)
+    activity:other (33,65)
+    person:Major Gold (casualty_wounded) (77,66)
+    person:Captain Gilbey (casualty_wounded) (63,68)
+    person:Captain Gosling (casualty_wounded) (38,69)
+    reference:ESSEX YEOMANRY (36,7)
+    activity:other (49,73)
+    activity:enemy_activity (41,77)
+    activity:attack (31,78)
+    place:300yds Ne Outskirts Of Village (63,82)
+    activity:enemy_activity (36,82)
+    place:Forward Crest Hill 100 (69,83)
+    time:1200AM (53,86)
+    unit:37 Infantry Brigade (66,87)
+    place:Monchy (46,88)
+    person:Lieutenant Colonel Whitmore (author) (66,90)
+Page 182 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmo  ----------
+  28 Feb 1918 0
+    reference:ESSEX YEOMANNRY (34,12)
+  1 Mar 1918 23
+    place:Trefcon (6,26)
+    activity:enemy_activity (30,29)
+    person:Major Parker (other) (44,41)
+    place:Tertry (27,42)
+    person:Lieutenant Newman (combat) (29,45)
+  2 Mar 1918 46
+    person:Captain H J Lowe (other) (62,48)
+    domestic:inspections (25,49)
+    person:Lieutenant W Ritchie (joined) (26,53)
+    unit:3 Cavalry Division (76,58)
+    unit:Cavalry Corps (42,66)
+    unit:7 Corps (71,67)
+    unit:18 Corps (36,70)
+    unit:6 Cavalry Brigade (63,78)
+  3 Mar 1918 86
+Page 183 (type diary) http://wd3.herokuapp.com/pages/AWD0000jn5  ----------
+  3 Mar 1918 0
+    orders:withdraw (46,15)
+    orders:move (41,19)
+  5 Mar 1918 25
+    unit:8 Cavalry Brigade (68,27)
+    domestic:inspections (25,28)
+    place:Trefcon (8,29)
+  6 Mar 1918 30
+    activity:training (66,33)
+    domestic:parades (36,33)
+  7 Mar 1918 34
+    domestic:parades (28,35)
+    activity:training (64,37)
+    person:Lieutenant Beale (author) (60,38)
+  9 Mar 1918 42
+    unit:8 Cavalry Brigade (59,50)
+  10 Mar 1918 59
+    domestic:religion (38,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (80,61)
+    unit:X R H (44,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,66)
+    unit:Canadian Cavalry Brigade (42,75)
+    unit:3 Cavalry Division (35,78)
+    unit:British Cavalry Brigade (71,78)
+    unit:8 Cavalry Brigade (43,86)
+    unit:Corps Cycle Regiments (53,91)
+Page 184 (type diary) http://wd3.herokuapp.com/pages/AWD0000jmg  ----------
+  13 Mar 1918 78
+  10 Mar 1918 23
+    reference:ESSEX YEOMANNRY (30,14)
+    domestic:sport (42,28)
+  11 Mar 1918 36
+    reference:ESSEX YEOMANNRY (66,46)
+    unit:10 R.H (25,57)
+  12 Mar 1918 62
+    reference:2ND CAV DIVISION (46,62)
+  13 Mar 1918 78
+    activity:movement (42,83)
+Page 185 (type ) http://wd3.herokuapp.com/pages/AWD0000jls  ----------
+  13 Mar 1918 22
+  14 Mar 1918 36
+  15 Mar 1918 57
+Page 186 (type diary) http://wd3.herokuapp.com/pages/AWD0000jig  ----------
+  15 Mar 1918 26
+    place:Liercourt (7,30)
+    place:Sorel (7,34)
+    unit:Longpre Group (58,34)
+    place:Wanel (6,37)
+    person:Brigadier General Rankin (other) (24,38)
+  17 Mar 1918 39
+    person:Lieutenant Swire (departed_posted) (71,44)
+  18 Mar 1918 47
+    domestic:inspections (62,50)
+    domestic:parades (23,51)
+    unit:Ddr canadian corps (59,56)
+  20 Mar 1918 59
+  22 Mar 1918 67
+    unit:Canadian Cavalry Brigade (52,71)
+    person:Lieutenant Ritchie (other) (45,79)
+    person:Major G G Gold (other) (23,85)
+    person:Second Lieutenant G V N Ridley (departed_sick) (40,91)
+    person:Second Lieutenant Ridley (departed_sick) (24,92)
+Page 187 (type diary) http://wd3.herokuapp.com/pages/AWD0000jqf  ----------
+  23 Mar 1918 23
+    place:Liercourt (6,28)
+    place:Sorel (6,31)
+    person:Major Parker (other) (76,32)
+    place:Wanel (7,36)
+  24 Mar 1918 37
+  25 Mar 1918 46
+    reference:10TH CORPS (66,46)
+  27 Mar 1918 49
+    person:Lieutenant Colonel J Walker (other) (68,56)
+    reference:YEOMANRY REGIMENTS (4) (59,65)
+  26 Mar 1918 71
+    reference:DEPOT (83,82)
+    activity:movement (41,82)
+    place:Abbeville (23,87)
+Page 188 (type diary) http://wd3.herokuapp.com/pages/AWD0000joa  ----------
+  27 Mar 1918 28
+    place:Longpre (8,31)
+    activity:other (30,32)
+    person:Lieutenant Colonel F H D C Whitmore (returned_leave) (64,41)
+  28 Mar 1918 45
+    person:Second Lieutenant G V N Ridley (returned_hospital) (25,49)
+    activity:movement (73,49)
+    unit:1 Cavalry Division (85,53)
+    unit:1 Cavalry Division (25,57)
+  29 Mar 1918 61
+    activity:movement (27,65)
+    place:Longpre (79,74)
+    person:Lieutenant H H Newman (other) (36,74)
+  31 Mar 1918 78
+    place:Abbeville (85,83)
+Page 189 (type cover)

@@ -1,0 +1,2738 @@
+GWD00000dx wo/95/1337/3
+2 DIVISION:  Divisional Troops: 5 Field Ambulance.  
+144 pages
+
+Page 213 (type cover)
+Page 214 (type cover)
+Page 215 (type diary) http://wd3.herokuapp.com/pages/AWD00023d4  ----------
+  1 Jan 1916 22
+    place:Bourecq (18,26)
+    activity:training (28,28)
+  2 Jan 1916 36
+    place:Bourecq (15,38)
+    weather:rain (27,40)
+    person:Major H Saint M Carter (28,43)
+    unit:14 Army Corps (26,47)
+    person:Captain T T H Robinson (commander) (26,50)
+    person:Major Carter (commander) (59,52)
+  3 Jan 1916 54
+    place:Bourecq (15,58)
+    activity:training (29,59)
+    person:Major H Saint M Carter (returned_leave) (33,69)
+  4 Jan 1916 74
+    place:Bourecq (14,77)
+    person:Major H Saint M Carter (departed_posted) (26,78)
+    unit:14 Corps (46,80)
+    activity:training (31,87)
+Page 216 (type diary) http://wd3.herokuapp.com/pages/AWD00023bf  ----------
+  5 Jan 1916 23
+    place:Bourecq (19,26)
+    activity:training (33,28)
+    person:Captain R Ellis (departed_leave) (40,34)
+    person:Captain R Ellis (52,35)
+    unit:1 Corps (57,37)
+  6 Jan 1916 38
+    place:Bourecq (18,40)
+    activity:training (35,42)
+    person:Lieutenant R H Wilson (51,52)
+  7 Jan 1916 54
+    unit:22 R.F. (41,54)
+    place:Bourecq (17,57)
+    activity:training (34,80)
+    weather:rain (48,87)
+    weather:rain (59,88)
+Page 217 (type diary) http://wd3.herokuapp.com/pages/AWD00023b5  ----------
+  7 Jan 1916 0
+    place:Bourecq (19,26)
+  8 Jan 1916 27
+    activity:training (31,27)
+  10 Jan 1916 35
+  11 Jan 1916 50
+    activity:movement (33,52)
+    person:Captain J L Wilson (commander) (40,55)
+  12 Jan 1916 62
+    activity:training (33,64)
+    unit:Royal Engineers (34,69)
+  13 Jan 1916 74
+    person:Captain R Ellis (returned_leave) (30,75)
+  14 Jan 1916 78
+    mapRef:Bethune combined sheet (64,81)
+    gridRef:E_16_B_9_8 (55,82)
+    unit:31 7 A (26,84)
+    mapRef:Bethune combined sheet (71,84)
+Page 218 (type diary) http://wd3.herokuapp.com/pages/AWD00023dj  ----------
+  15 Jan 1916 26
+    place:Bourecq (21,27)
+    person:Captain R P Ellis (commander) (66,65)
+    unit:Cjw clayton (56,81)
+    person:Captain C J W Clayton (joined) (33,82)
+Page 219 (type diary) http://wd3.herokuapp.com/pages/AWD00023dx  ----------
+  15 Jan 1916 0
+  16 Jan 1916 26
+    place:Bourecq (21,27)
+    activity:movement (29,30)
+    time:0200PM (42,31)
+    mapRef:BETHUNE combined sheet (29,34)
+    place:Ecole Jules Ferry (55,36)
+    place:Festubert (54,48)
+    place:Marais (29,51)
+    place:Bourecq (48,59)
+    time:1045AM (65,68)
+    person:Lieutenant Wilson (returned_leave) (31,91)
+Page 220 (type diary) http://wd3.herokuapp.com/pages/AWD00023c6  ----------
+  17 Jan 1916 24
+    place:Bourecq (18,27)
+    person:Captain J P Charles (commander) (31,28)
+    activity:movement (41,28)
+    place:Ecole Jules Ferry (60,34)
+    unit:37 Field Ambulance (46,38)
+    place:Bourecq (70,38)
+    unit:37 Fd. Amb. (48,39)
+    time:1230PM (32,41)
+  18 Jan 1916 44
+    time:0930AM (69,47)
+    activity:movement (43,47)
+    place:Bourecq (59,47)
+    place:Bethune (18,48)
+    time:1042AM (56,50)
+    place:Ecole Jules Ferry (54,53)
+    gridRef:E_16_B_3_8 (33,58)
+    mapRef:France B Series Bethune combined sheet (52,58)
+    mapRef:BETHUNE combined sheet (43,60)
+    domestic:hygiene (44,65)
+  19 Jan 1916 75
+    domestic:uniform (28,79)
+    place:Bethune (19,80)
+    unit:2 Division (65,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,88)
+Page 221 (type diary) http://wd3.herokuapp.com/pages/AWD00023ec  ----------
+  20 Jan 1916 24
+    place:Bethune (19,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,28)
+  21 Jan 1916 36
+    mapRef:France B Series Bethune combined sheet (54,39)
+    place:Bethune (20,39)
+    mapRef:BETHUNE combined sheet (36,41)
+    person:Lieutenant Roberts (other) (53,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 13 (48,46)
+  22 Jan 1916 47
+    domestic:inspections (35,50)
+    place:Bethune (20,51)
+    unit:2 H.L.I (64,53)
+    person:Captain J L Wilson (returned_posted) (32,53)
+    unit:2 hli (65,54)
+    person:Lieutenant R H Wilson (departed_posted) (36,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 16 (59,65)
+  23 Jan 1916 66
+    place:Bethune (20,69)
+  24 Jan 1916 81
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 11 (53,81)
+    place:Bethune (21,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,91)
+Page 222 (type diary) http://wd3.herokuapp.com/pages/AWD00023dc  ----------
+  25 Jan 1916 24
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 12 (62,27)
+    activity:casualty (48,27)
+    place:Bethune (20,28)
+  26 Jan 1916 31
+    place:Bethune (19,35)
+    activity:casualty (58,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 14 (54,43)
+  27 Jan 1916 46
+    place:Bethune (19,49)
+    activity:construction (46,52)
+    place:Festubert (60,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 9 (50,79)
+    activity:casualty (58,79)
+    person:Captain J L Wilson (departed_posted) (37,81)
+    unit:41 Brigade Royal Field Artillery (63,81)
+Page 223 (type diary) http://wd3.herokuapp.com/pages/AWD00023b8  ----------
+  31 Jan 1916 76
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,100)
+  28 Jan 1916 24
+    place:Bethune (19,28)
+    activity:casualty (59,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 13 (52,29)
+  29 Jan 1916 32
+    place:Bethune (19,35)
+    activity:casualty (60,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 7 (55,40)
+  30 Jan 1916 42
+    place:Bethune (20,45)
+    weather:fog (30,47)
+    weather:cold (37,47)
+    place:Festubert (64,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 31 (36,58)
+    activity:casualty (59,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 10 (55,59)
+    person:Captain J P Charles (departed_posted) (29,62)
+    person:Captain G D Sherwood (joined) (54,65)
+    unit:4 H.L.I (29,66)
+  31 Jan 1916 76
+    activity:casualty (54,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 10 (56,76)
+    place:Bethune (19,80)
+    activity:quiet (30,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,89)
+Page 224 (type ) http://wd3.herokuapp.com/pages/AWD00023c1  ----------
+  31 Jan 1916 0
+    person:Captain T T H Robinson (commander) (21,37)
+    person:Captain R Ellis (commander) (22,41)
+    person:Captain C J W Clayton (commander) (13,45)
+    person:Captain J L Wilson (departed_posted) (22,48)
+    unit:41 Brigade Royal Field Artillery (76,48)
+    person:Captain G D Sherwood (departed_posted) (13,52)
+    person:Lieutenant R L Williams (other) (12,56)
+    person:Lieutenant A T Roberts (other) (14,59)
+    unit:1 krr (78,61)
+    person:Lieutenant R H Wilson (departed_posted) (17,63)
+    person:Lieutenant I Flack (departed_posted) (13,66)
+    person:Lieutenant E W J Escott (departed_leave) (22,69)
+Page 225 (type cover)
+Page 226 (type cover)
+Page 227 (type diary) http://wd3.herokuapp.com/pages/AWD00023e0  ----------
+  1 Feb 1916 24
+    activity:construction (56,28)
+    place:Bethune (22,28)
+    place:Festubert (56,31)
+  2 Feb 1916 35
+    activity:quiet (29,40)
+    place:Bethune (20,40)
+    person:Lieutenant R H Wilson (returned_posted) (48,42)
+    place:Festubert (34,43)
+    person:Lieutenant Escott (returned_leave) (60,45)
+    person:Lieutenant Escott (returned_leave) (46,47)
+  3 Feb 1916 53
+    place:Bethune (19,56)
+    place:Festubert (60,57)
+    activity:quiet (30,58)
+    person:Lieutenant I Flack (departed_posted) (42,61)
+    person:Lieutenant R H Wilson (departed_posted) (65,65)
+  4 Feb 1916 72
+    activity:quiet (29,76)
+    activity:construction (57,77)
+  5 Feb 1916 83
+    activity:quiet (29,86)
+Page 228 (type diary) http://wd3.herokuapp.com/pages/AWD00023di  ----------
+  6 Feb 1916 25
+    activity:quiet (29,29)
+    place:Bethune (22,29)
+  7 Feb 1916 32
+    unit:A.D.S. (61,35)
+    activity:quiet (30,36)
+    place:Bethune (20,37)
+    place:Festubert (39,39)
+  8 Feb 1916 50
+    place:Bethune (19,54)
+    person:Captain G D Sherwood (other) (57,54)
+    activity:quiet (29,55)
+  9 Feb 1916 65
+    activity:quiet (30,69)
+    place:Bethune (19,69)
+  10 Feb 1916 74
+    unit:Advanced Nursing Station D.A.D.M.S. (43,78)
+    place:Bethune (19,78)
+    place:Festubert (30,82)
+    activity:construction (65,84)
+    place:Festubert (41,91)
+Page 229 (type diary) http://wd3.herokuapp.com/pages/AWD00023cp  ----------
+  10 Feb 1916 23
+    place:Bethune (22,30)
+  11 Feb 1916 34
+    place:Bethune (19,37)
+    activity:quiet (29,39)
+  12 Feb 1916 43
+    place:Bethune (19,47)
+    person:Captain Jh Wilson (returned_posted) (36,47)
+    person:Captain J L Wilson (returned_posted) (28,47)
+  13 Feb 1916 55
+    place:Bethune (20,59)
+    person:Lieutenant I Flack (returned_posted) (37,59)
+  14 Feb 1916 67
+    place:Bethune (20,70)
+    person:Captain J L Wilson (departed_leave) (29,71)
+    unit:2 Division (45,79)
+    unit:No. 5 Field Ambulance (31,84)
+    place:Festubert (51,91)
+Page 230 (type diary) http://wd3.herokuapp.com/pages/AWD00023f0  ----------
+  14 Feb 1916 24
+    unit:No. 5 Field Ambulance (69,17)
+    place:Marais (57,28)
+    place:Bethune (20,30)
+    place:Ecole Jules Ferry (54,62)
+    place:Oblinghem (52,70)
+    place:Gonnehem (34,71)
+  15 Feb 1916 75
+    place:Bethune (19,79)
+    activity:quiet (31,80)
+  16 Feb 1916 84
+    person:Captain J L Wilson (departed_leave) (36,84)
+    activity:quiet (31,87)
+    place:Bethune (19,88)
+Page 231 (type diary) http://wd3.herokuapp.com/pages/AWD00023d2  ----------
+  17 Feb 1916 22
+    place:Bethune (21,26)
+    activity:quiet (33,27)
+  18 Feb 1916 33
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,34)
+    place:Bethune (20,37)
+    activity:quiet (29,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,39)
+  19 Feb 1916 41
+    place:Bethune (21,45)
+    activity:quiet (29,46)
+    unit:130 F. A. (51,47)
+    place:Marais (30,51)
+    person:Captain G D Sherwood (returned_posted) (36,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,53)
+  20 Feb 1916 54
+    place:Marais (60,58)
+    activity:movement (36,58)
+    unit:130 F. A. (39,58)
+    place:Bethune (20,59)
+    activity:movement (52,61)
+    unit:C section (46,61)
+    place:Ecole Jules Ferry (46,64)
+    place:Gonnehem (63,67)
+    activity:movement (31,67)
+    mapRef:France Bethune combined sheet edition 36 (38,71)
+    gridRef:V_18_C_2_9 (27,71)
+    mapRef:FRANCE BETHUNE combined sheet (35,72)
+    person:Captain C J W Clayton (commander) (38,74)
+    domestic:inspections (44,83)
+    unit:1 Corps (34,83)
+    place:Gonnehem (65,86)
+Page 232 (type diary) http://wd3.herokuapp.com/pages/AWD00023d1  ----------
+  21 Feb 1916 23
+    person:Lieutenant I Flack (departed_leave) (31,27)
+    place:Gonnhem (20,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 7 (55,30)
+  22 Feb 1916 32
+    weather:cold (29,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (59,37)
+  23 Feb 1916 38
+  24 Feb 1916 46
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (54,46)
+    place:Gonnehem (64,49)
+    mapRef:Bethune combined sheet  (78,59)
+    unit:6 Brigade (39,63)
+    unit:2 Btn (58,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,89)
+Page 233 (type diary) http://wd3.herokuapp.com/pages/AWD00023eu  ----------
+  25 Feb 1916 23
+    place:Bethune (21,26)
+    activity:movement (61,27)
+    unit:Field Ambulance [] c secton (42,27)
+    mapRef:Bethune combined sheet 36 (49,30)
+    place:Gonnhem (29,30)
+    gridRef:V_18_C_2_9 (39,30)
+    place:Ecole Jules Ferry (50,33)
+    mapRef:Sheet 36 B 3rd edition (38,44)
+    mapRef:36 B 3rd Edition (47,45)
+    unit:2 Division (30,47)
+    unit:18 French Division (37,50)
+    place:Ecole Jules Ferry (64,53)
+    unit:No 5 Field Ambulance (35,54)
+    place:Bethune (30,57)
+    place:Fosse (62,63)
+Page 234 (type diary) http://wd3.herokuapp.com/pages/AWD00023f5  ----------
+  25 Feb 1916 23
+    place:Bethune (21,27)
+    place:Ecole Jules Ferry (68,28)
+    unit:No. 37 F. A. 12 Division (63,32)
+  26 Feb 1916 38
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 20; wounded: 0 (38,39)
+    place:Sains les Mines (22,42)
+    activity:movement (45,42)
+    gridRef:R_8___ (68,45)
+    person:Captain C J W Clayton (commander) (30,46)
+    weather:cold (55,49)
+    place:Bully Grenay (69,58)
+    person:Captain R Ellis (commander) (49,59)
+    place:Calonne Nord (55,66)
+    mapRef:France 36 C edition 6 (78,71)
+    place:Calonne (57,72)
+    mapRef:France 36C (83,72)
+    gridRef:M_14___ (62,72)
+    person:Captain Ellis (commander) (70,82)
+    place:Calonne Nord (47,83)
+    gridRef:M_1_D__ (69,85)
+    person:Captain Ellis (commander) (29,86)
+    gridRef:M_9___ (68,88)
+    mapRef:France 36C (35,89)
+    place:Fosse (57,90)
+    mapRef:36B (72,90)
+    mapRef:36 B (71,90)
+    gridRef:R_8___ (64,90)
+    gridRef:M_20_D_2_8 (28,91)
+Page 235 (type diary) http://wd3.herokuapp.com/pages/AWD00023ei  ----------
+  26 Feb 1916 22
+    place:Sains Les Mines (19,26)
+    unit:French Ambulance (45,29)
+    unit:17 Middlesex Regiment (63,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,44)
+  27 Feb 1916 45
+    activity:movement (31,51)
+    place:Bully Grenay (58,52)
+    place:Ecole de Filles Bully Grenay (41,54)
+    person:Captain R Ellis (commander) (45,56)
+    place:Bully Grenay (66,59)
+    person:Captain J L Wilson (other) (46,60)
+    unit:5 Brigade (70,65)
+    mapRef:France 36 C (68,70)
+    gridRef:M_32_A_9_7 (57,70)
+    gridRef:M_20_D_2_8 (43,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,92)
+Page 236 (type diary) http://wd3.herokuapp.com/pages/AWD00023dz  ----------
+  28 Feb 1916 23
+    place:Sains les Mines (20,27)
+    place:Calonne (55,27)
+    unit:French Ambulance (37,38)
+  29 Feb 1916 43
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,57)
+    person:Captain T T H Robinson (63,69)
+    person:Captain T T H Robinson (commander) (55,71)
+Page 237 (type report) http://wd3.herokuapp.com/pages/AWD00023ex  ----------
+  29 Feb 1916 0
+    person:Captain T T H Robinson (commander) (27,36)
+    person:Captain T T H Robinson (commander) (16,37)
+    person:Captain R Ellis (other) (20,40)
+    person:Captain C J W Clayton (joined) (28,43)
+    person:Captain C J W Clayton (other) (14,44)
+    person:Captain J L Wilson (joined) (26,48)
+    person:Captain J L Wilson (other) (15,48)
+    person:Captain G D Sherwood (joined) (15,51)
+    person:Lieutenant R L Williams (other) (20,55)
+    person:Lieutenant A T Roberts (joined) (27,58)
+    person:Lieutenant A T Roberts (14,59)
+    person:Lieutenant R H Wilson (joined) (26,62)
+    person:Lieutenant R H Wilson (other) (15,62)
+    person:Lieutenant I Flack (departed_leave) (27,66)
+    person:Lieutenant E W J Escott (other) (24,69)
+    person:Lieutenant Escott (joined) (12,69)
+    person:Chaplain Stuart (joined) (26,80)
+    person:Chaplain J Stuart (other) (13,80)
+    person:Chaplain J J Pryde (joined) (13,84)
+    person:Captain T T H Robinson (65,87)
+Page 238 (type cover)
+Page 239 (type diary) http://wd3.herokuapp.com/pages/AWD00023fe  ----------
+  1 Mar 1916 23
+    place:Sains les Mines (20,27)
+    gridRef:M_1_D__ (52,30)
+    mapRef:France 36 C (59,30)
+    place:Pont Grenay (41,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (56,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,34)
+  2 Mar 1916 37
+    person:Lieutenant I Flack (returned_leave) (38,37)
+    activity:fire (51,39)
+    place:Bully Grenay (29,41)
+    place:Fosse 10 (27,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,47)
+  3 Mar 1916 50
+    unit:No 17 Ambulance (60,55)
+    unit:No. 1 F. A. (59,55)
+    weather:rain (28,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,61)
+  4 Mar 1916 63
+    weather:cold (28,68)
+    unit:No 100 Field Ambulance (53,69)
+    unit:No. 100 F. A. (58,69)
+    unit:6 Brigade (61,75)
+    unit:5 Brigade (42,79)
+  5 Mar 1916 81
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,88)
+Page 240 (type diary) http://wd3.herokuapp.com/pages/AWD00023cu  ----------
+  6 Mar 1916 23
+    person:Lieutenant R L Williams (28,27)
+    place:Bethune (63,30)
+  7 Mar 1916 34
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,34)
+    place:Bully Grenay (65,38)
+    person:Captain Ellis (other) (69,41)
+    person:Captain Ellis (other) (28,45)
+    place:Calonne (63,45)
+    unit:5 Brigade hq (65,47)
+    place:Angres (68,50)
+    unit:5 Brigade (55,51)
+    mapRef:36 C (58,54)
+    gridRef:M_19_B_3_8 (48,55)
+    mapRef:36c (61,55)
+    place:Calonne (57,59)
+    mapRef:36c (61,65)
+    mapRef:36 C (60,65)
+    place:Bully Grenay (57,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,72)
+  8 Mar 1916 73
+    unit:2 Battalion 6 Brigade (67,77)
+    unit:6 Brigade (34,81)
+    place:Angres (48,81)
+    place:Aix Noulette (65,83)
+    unit:100 F. A. (52,84)
+    place:Boyeau Bully (34,90)
+Page 241 (type diary) http://wd3.herokuapp.com/pages/AWD00023bj  ----------
+  9 Mar 1916 22
+    gridRef:M_1_D__ (60,29)
+    activity:fire (32,30)
+    place:Fosse 10 (44,33)
+  10 Mar 1916 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (54,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,40)
+  11 Mar 1916 43
+    person:Lieutenant R L Williams (departed_posted) (30,49)
+    place:Sains les Mines (22,50)
+    person:Captain Wilson (departed_posted) (32,57)
+    person:Captain N L Joynt (62,60)
+    person:Captain N L Joynt (28,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,67)
+  12 Mar 1916 68
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,74)
+  13 Mar 1916 77
+    person:Lieutenant T McG Fletcher (joined) (30,81)
+    place:Sains les Mines (21,84)
+  14 Mar 1916 87
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,87)
+    place:Sains les Mines (21,90)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,91)
+Page 242 (type diary) http://wd3.herokuapp.com/pages/AWD00023eb  ----------
+  15 Mar 1916 23
+    place:Dieval (34,36)
+    place:Hersin (56,39)
+    unit:70 Field Ambulance (62,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,69)
+  16 Mar 1916 70
+    unit:2 Division (61,74)
+    activity:other (29,74)
+    unit:70 Field Ambulance (72,83)
+    place:Fosse 10 (69,87)
+    unit:70 Field Ambulance (28,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,94)
+Page 243 (type diary) http://wd3.herokuapp.com/pages/AWD00023e2  ----------
+  17 Mar 1916 23
+    unit:70 Field Ambulance (41,27)
+    unit:70 Field Amb (26,27)
+    place:Sains Les Mines (21,28)
+    activity:casualty (31,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,37)
+  18 Mar 1916 38
+    activity:casualty (56,38)
+    person:Captain N L Joynt (departed_posted) (28,42)
+  19 Mar 1916 66
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,66)
+    activity:casualty (57,67)
+    unit:70 Field Ambulance (41,71)
+    place:Fosse 10 (68,74)
+    place:Dieval (42,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,90)
+    activity:casualty (52,91)
+Page 244 (type diary) http://wd3.herokuapp.com/pages/AWD00023ey  ----------
+  20 Mar 1916 24
+    time:1010AM (66,27)
+    activity:movement (41,27)
+    place:Divion (20,27)
+    place:Fosse 10 (56,28)
+    gridRef:I_30_B_5_7 (19,30)
+    time:1120AM (60,31)
+    place:Hersin (50,31)
+    mapRef:France 36 B (18,34)
+    mapRef:36b (21,35)
+    place:Houdain (45,35)
+    time:0250PM (47,37)
+  21 Mar 1916 48
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,48)
+    activity:casualty (40,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,56)
+    activity:casualty (33,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,57)
+  22 Mar 1916 58
+    person:Lieutenant R H Wilson (departed_posted) (30,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,69)
+    activity:casualty (55,69)
+  23 Mar 1916 70
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,70)
+    activity:casualty (35,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,75)
+  24 Mar 1916 77
+    person:Captain N L Joynt (returned_posted) (29,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,93)
+Page 245 (type diary) http://wd3.herokuapp.com/pages/AWD00023bd  ----------
+  25 Mar 1916 22
+    unit:5 Infantry Brigade (51,26)
+    place:Divion (20,27)
+    unit:2 Division (25,34)
+    activity:reserve (54,34)
+    unit:1 army hq (50,51)
+    unit:No. 5 Field Ambulance (27,55)
+    unit:No. 5 Field Ambulance, Beaver Division (26,62)
+    gridRef:J_16_D_5_5 (28,65)
+    gridRef:I_24_D_9_9 (67,65)
+    gridRef:J_16_A_5_7 (30,70)
+    unit:No. 5 Field Ambulance, Tent Division (25,79)
+Page 246 (type diary) http://wd3.herokuapp.com/pages/AWD00023dv  ----------
+  25 Mar 1916 23
+    place:Divion (21,28)
+    unit:22 Royal Fusiliers (58,38)
+    person:Lieutenant I Flack (departed_posted) (31,39)
+  26 Mar 1916 46
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,46)
+    place:Divion (20,50)
+    unit:Beaver Division (26,57)
+    unit:2/C Forest Control (62,58)
+    place:Foret de Nieppe (27,60)
+    gridRef:J_25_A__ (64,62)
+    unit:2/C Forest Control (53,63)
+    person:Captain G D Sherwood (30,73)
+  27 Mar 1916 76
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,77)
+    place:Divion (20,80)
+    domestic:inspections (40,80)
+    domestic:inspections (25,80)
+    person:Captain G D Sherwood (commander) (27,83)
+    place:Foret de Nieppe (33,85)
+    activity:working (62,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,89)
+Page 247 (type diary) http://wd3.herokuapp.com/pages/AWD00023c8  ----------
+  28 Mar 1916 24
+    unit:French Field Ambulance (64,26)
+    domestic:inspections (38,27)
+    place:Divion (21,28)
+    place:Divion (33,30)
+    place:D'Estrayelle (60,36)
+    gridRef:I_29_C_2_8 (27,39)
+    mapRef:France 36 B (38,39)
+    unit:99 Battallion (61,44)
+    unit:99 Brigade (64,44)
+    unit:5 Brigade (32,48)
+    unit:5 Battallion (29,49)
+  29 Mar 1916 51
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,57)
+  30 Mar 1916 58
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,62)
+  31 Mar 1916 63
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,67)
+    person:Major T T H Robinson (57,77)
+Page 248 (type report) http://wd3.herokuapp.com/pages/AWD00023ev  ----------
+  31 Mar 1916 0
+    date:31 Mar 1916 (75,26)
+    person:Major T T H Robinson (commander) (25,35)
+    person:Captain R Ellis (25,39)
+    person:Captain N L Joynt (25,43)
+    person:Captain C J W Clayton (25,46)
+    person:Captain G D Sherwood (departed_posted) (25,50)
+    person:Captain A T Roberts (25,53)
+    person:Lieutenant R H Wilson (departed_posted) (23,57)
+    person:Lieutenant I Flack (departed_posted) (24,61)
+    person:Lieutenant T McG Fletcher (24,64)
+    person:Lieutenant E W J Escott (25,67)
+    person:Chaplain J Stuart (departed_leave) (24,77)
+    person:Chaplain J J Pryde (other) (24,82)
+    person:Major T T H Robinson (author) (66,86)
+Page 249 (type cover)
+Page 250 (type cover)
+Page 251 (type diary) http://wd3.herokuapp.com/pages/AWD00023bt  ----------
+  1 Apr 1916 24
+    unit:Iv corps (34,26)
+    domestic:inspections (40,27)
+    place:Divion (20,28)
+    unit:Iv corps (72,36)
+    unit:Goc ivth corps (62,36)
+    place:Bruay (51,37)
+    person:Lieutenant Wilson (returned_posted) (39,44)
+    person:Lieutenant R H Wilson (returned_posted) (26,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,46)
+  2 Apr 1916 48
+    place:Divion (19,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,64)
+  3 Apr 1916 66
+    place:Divion (20,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,70)
+  4 Apr 1916 73
+    place:Divion (19,76)
+    domestic:inspections (56,76)
+Page 252 (type diary) http://wd3.herokuapp.com/pages/AWD00023bi  ----------
+  4 Apr 1916 25
+    unit:5 Battalion (27,28)
+    place:Divion (21,29)
+    unit:5 Brigade (29,30)
+    place:Aire (41,32)
+    place:Calonne (38,39)
+    place:Aire (37,69)
+    place:Aire (57,73)
+    unit:2 Division Brigades (46,89)
+Page 253 (type diary) http://wd3.herokuapp.com/pages/AWD00023du  ----------
+  4 Apr 1916 24
+    place:Divion (20,28)
+    place:Therouanne (67,37)
+    gridRef:J_10_D__ (38,46)
+    place:Aire (57,46)
+    place:Therouanne (60,61)
+    gridRef:I_9_B_0_8 (53,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,77)
+Page 254 (type diary) http://wd3.herokuapp.com/pages/AWD00023bv  ----------
+  5 Apr 1916 25
+    place:Divion (19,28)
+    unit:5 Brigade (49,34)
+    place:Aire (71,35)
+    person:Captain A T Roberts (commander) (63,42)
+    place:Therouanne (45,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,48)
+  6 Apr 1916 50
+    place:Divion (19,54)
+    person:Captain G D Sherwood (departed_leave) (36,54)
+    person:Lieutenant T McG Fletcher (commander) (33,58)
+    place:Foret de Nieppe (44,59)
+    person:Lieutenant I Flack (departed_posted) (34,65)
+    person:Captain G W Wood (joined) (58,66)
+    place:Therouanne (52,72)
+    domestic:inspections (29,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,85)
+Page 255 (type diary) http://wd3.herokuapp.com/pages/AWD00023eo  ----------
+  7 Apr 1916 24
+    place:Divion (21,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,29)
+  8 Apr 1916 31
+    place:Divion (20,35)
+  9 Apr 1916 37
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,37)
+    place:Divion (20,40)
+    place:Therouanne (41,44)
+  10 Apr 1916 46
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,48)
+    domestic:inspections (28,50)
+    place:Divion (20,50)
+    place:Therouanne (36,50)
+  11 Apr 1916 52
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,53)
+    place:Divion (19,55)
+  12 Apr 1916 57
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,57)
+    place:Divion (20,61)
+  13 Apr 1916 63
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,63)
+    place:Divion (20,68)
+    person:Captain N L Joynt (departed_leave) (27,69)
+Page 256 (type diary) http://wd3.herokuapp.com/pages/AWD00023cw  ----------
+  13 Apr 1916 25
+    place:Divion (21,30)
+    gridRef:K_33_A_9_5 (58,32)
+    place:Barlin (48,32)
+    mapRef:36 B (80,37)
+    mapRef:Sheet 36 B (77,41)
+    unit:No. 71 Field Ambulance (46,42)
+    unit:No 71 Field Ambulance (37,42)
+    place:Barlin (26,42)
+    unit:No. 71 Field Ambulance (54,44)
+    place:Divion (39,48)
+    unit:No 5 Field Ambulance (29,52)
+    place:Barlin (42,60)
+    place:Houdain (69,63)
+    gridRef:J_25_D_2_9 (45,64)
+    place:Maisnil (27,67)
+    place:Barlin (53,70)
+    place:Divion (61,89)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,96)
+Page 257 (type diary) http://wd3.herokuapp.com/pages/AWD00023by  ----------
+  14 Apr 1916 25
+    place:Divion (19,28)
+    place:Barlin (33,28)
+    place:Foret de Nieppe (28,34)
+    place:Therouanne (49,34)
+    person:Sergeant Major Jones (departed_sick) (35,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (45,44)
+    domestic:medical (37,46)
+  15 Apr 1916 50
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,50)
+    place:Divion (18,53)
+    person:Captain G D Sherwood (returned_leave) (27,54)
+    person:Captain N L Joynt (returned_leave) (36,57)
+    place:Boulogne (65,57)
+    person:Captain N L Joynt (returned_leave) (25,58)
+    gridRef:K_33_A_9_5 (36,75)
+    place:Barlin (29,76)
+  16 Apr 1916 86
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,87)
+    place:Divion (19,89)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,90)
+    place:Foret de Nieppe (53,92)
+    unit:C Section (28,93)
+Page 258 (type diary) http://wd3.herokuapp.com/pages/AWD00023eh  ----------
+  17 Apr 1916 25
+    place:Barlin (51,28)
+    activity:movement (37,28)
+    place:Divion (20,29)
+    person:Captain R Ellis (commander) (34,31)
+    place:Divion (67,33)
+    unit:71 F. Amb. (42,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,37)
+  18 Apr 1916 39
+    place:Therouanne (58,39)
+    place:Divion (71,41)
+    place:Barlin (20,42)
+    gridRef:K_33_A_9_5 (18,45)
+    place:Barlin (61,45)
+    gridRef:I_30_B_5_7 (26,46)
+    gridRef:K_33_A_9_5 (54,48)
+  19 Apr 1916 55
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,60)
+    place:Barlin (19,60)
+  20 Apr 1916 61
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,65)
+    place:Barlin (18,65)
+  21 Apr 1916 69
+    place:Barlin (18,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,75)
+  22 Apr 1916 80
+    place:Barlin (18,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,84)
+Page 259 (type diary) http://wd3.herokuapp.com/pages/AWD00023c3  ----------
+  23 Apr 1916 25
+    place:Barlin (20,29)
+    person:Lieutenant R H Wilson (departed_posted) (32,29)
+    unit:2 H. L. I. (59,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,39)
+  24 Apr 1916 40
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,40)
+    place:Barlin (19,43)
+    unit:Iv corps (35,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,51)
+  25 Apr 1916 52
+    place:Barlin (18,55)
+    weather:fine (25,56)
+    unit:2 Division (30,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,69)
+  26 Apr 1916 71
+    weather:fine (25,74)
+    activity:other (50,74)
+    place:Barlin (19,75)
+    weather:fine (32,75)
+    person:Captain N L Joynt (25,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,82)
+  27 Apr 1916 84
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,85)
+    activity:other (50,87)
+    place:Barlin (19,88)
+    weather:fine (25,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,91)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,94)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,94)
+Page 260 (type diary) http://wd3.herokuapp.com/pages/AWD00023dr  ----------
+  28 Apr 1916 25
+    activity:other (26,28)
+    unit:2 Division (54,29)
+    place:Barlin (21,29)
+    place:Hersin (39,32)
+    activity:casualty (42,35)
+    person:Captain G D Sherwood (departed_posted) (34,37)
+    mapRef:France 36 B (59,38)
+    gridRef:Q_5_D_8_9 (48,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,44)
+  29 Apr 1916 45
+    domestic:inspections (64,48)
+    place:Barlin (20,49)
+    person:Anthony Bowlby (other) (27,50)
+    person:Lieutenant W J Escott (departed_leave) (59,54)
+    person:Captain Roberts (departed_leave) (36,55)
+    person:Captain A G T Roberts (departed_leave) (26,55)
+    person:Lieutenant E W J Escott (departed_leave) (32,58)
+    weather:fine (26,60)
+    weather:fine (38,61)
+    activity:other (51,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,63)
+  30 Apr 1916 66
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,68)
+    place:Barlin (20,70)
+    weather:fine (25,71)
+    activity:other (47,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,79)
+    person:Major T T H Robinson (author) (59,90)
+Page 261 (type report) http://wd3.herokuapp.com/pages/AWD00023cd  ----------
+  30 Apr 1916 0
+    person:Major T T H Robinson (commander) (28,37)
+    person:T T H Robinson (commander) (11,38)
+    person:Captain R Ellis (joined) (25,41)
+    person:Captain R Ellis (commander) (12,42)
+    person:Captain N L Joynt (departed_leave) (27,44)
+    person:Captain N L Joynt (departed_leave) (11,44)
+    person:Captain G W Wood (joined) (26,48)
+    person:Captain G W Wood (commander) (13,48)
+    person:Captain C J W Clayton (joined) (27,51)
+    person:Captain C J W Clayton (commander) (12,51)
+    person:Captain G D Sherwood (joined) (25,54)
+    person:Captain G D Sherwood (commander) (12,55)
+    person:Captain A T Roberts (departed_leave) (27,57)
+    person:Captain A T Roberts (departed_leave) (12,57)
+    person:Lieutenant R H Wilson (departed_posted) (25,60)
+    person:Lieutenant R H Wilson (departed_posted) (12,61)
+    person:Lieutenant T McG Fletcher (joined) (27,64)
+    person:Lieutenant Fletcher (commander) (13,64)
+    person:Lieutenant E W J Escott (departed_leave) (26,68)
+    person:Lieutenant Escott (departed_leave) (12,68)
+    person:Major T T H Robinson (author) (65,77)
+Page 262 (type cover)
+Page 263 (type diary) http://wd3.herokuapp.com/pages/AWD00023e1  ----------
+  1 May 1916 24
+    place:Barlin (20,29)
+  2 May 1916 38
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,38)
+    place:Barlin (18,41)
+    weather:fine (27,41)
+    weather:rain (39,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,45)
+  3 May 1916 50
+    place:Barlin (19,53)
+    weather:fine (27,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,59)
+    person:Captain R Ellis (commander) (31,67)
+    person:Major T T H Robinson (departed_leave) (56,71)
+  4 May 1916 72
+    place:Barlin (18,75)
+    person:Major Robinson (departed_leave) (41,81)
+    person:Captain Robert Ellis (commander) (48,88)
+Page 264 (type diary) http://wd3.herokuapp.com/pages/AWD00023do  ----------
+  4 May 1916 24
+    place:Barlin (18,28)
+    domestic:inspections (55,35)
+    unit:23 Division (33,36)
+  5 May 1916 42
+    person:Captain G W Wood (departed_posted) (39,42)
+    place:Barlin (18,46)
+    unit:4 Corps (39,46)
+    domestic:inspections (28,50)
+    unit:23 Division (36,61)
+    place:Divion (52,65)
+    unit:71 Field Ambulance (29,65)
+    unit:23 Division (62,68)
+    unit:71 Field Ambulance (65,72)
+  6 May 1916 84
+    domestic:inspections (42,86)
+    place:Barlin (17,87)
+Page 265 (type diary) http://wd3.herokuapp.com/pages/AWD00023cq  ----------
+  6 May 1916 24
+    place:Barlin (18,28)
+    place:Hersin (49,28)
+    gridRef:Q_5_D_8_9 (55,28)
+    place:Barlin (58,38)
+    unit:6 C. C. S. (35,39)
+    person:Captain N L Joynt (returned_leave) (25,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,52)
+  7 May 1916 54
+    place:Barlin (18,57)
+    gridRef:Q_2_D_8_2 (50,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,79)
+  8 May 1916 80
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,80)
+    place:Barlin (17,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,87)
+    place:Barlin (58,90)
+Page 266 (type diary) http://wd3.herokuapp.com/pages/AWD00023ce  ----------
+  8 May 1916 24
+    place:Barlin (19,28)
+    activity:other (25,35)
+    place:Barlin (30,42)
+    place:Divion (32,45)
+    unit:5 Field Ambulance (57,50)
+    place:Divion (37,53)
+    gridRef:K_26_A__ (27,57)
+    place:Bruay (56,57)
+    unit:5 Field Ambulance (50,61)
+    place:Hersin (31,69)
+    unit:5 Field Ambulance (50,73)
+    place:Divion (51,76)
+    unit:5 Field Ambulance (37,82)
+    place:Divion (39,88)
+    person:Lieutenant Escott (returned_leave) (29,92)
+Page 267 (type diary) http://wd3.herokuapp.com/pages/AWD00023ch  ----------
+  9 May 1916 24
+    place:Barlin (19,28)
+    place:Barlin (52,28)
+    activity:movement (42,28)
+  10 May 1916 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,36)
+    place:Barlin (20,39)
+  11 May 1916 40
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,42)
+    place:Barlin (20,44)
+  12 May 1916 46
+    place:Barlin (20,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,50)
+  13 May 1916 52
+    place:Barlin (19,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,58)
+  14 May 1916 64
+    place:Barlin (20,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,69)
+    place:Divion (52,72)
+    activity:reconnoitered (26,72)
+    unit:71 Field Ambulance (32,73)
+    unit:100 Field Ambulance (27,83)
+    place:Bruay (40,84)
+    unit:100 F. A. (29,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,91)
+    activity:casualty (35,91)
+Page 268 (type diary) http://wd3.herokuapp.com/pages/AWD00023d0  ----------
+  15 May 1916 24
+    place:Barlin (22,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,28)
+    person:Captain A T Roberts (returned_leave) (27,32)
+    person:Captain R Ellis (departed_leave) (28,39)
+    person:Major T T H Robinson (55,47)
+  16 May 1916 49
+    place:Barlin (20,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,53)
+    person:Captain N L Joynt (departed_posted) (27,55)
+  17 May 1916 56
+    place:Barlin (20,58)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,58)
+    place:Divion (62,59)
+    unit:71 Field Ambulance (55,65)
+    unit:71 F. A. (57,66)
+    place:Barlin (34,72)
+    place:Hersin (60,74)
+  18 May 1916 76
+    place:Barlin (69,79)
+    place:Divion (19,80)
+    activity:movement (45,80)
+    gridRef:I_30_B_5_7 (18,83)
+    place:Divion (36,86)
+    mapRef:France 36 B (15,86)
+    mapRef:France 36 B (54,88)
+    gridRef:I_30_B_5_7 (45,89)
+    person:Lieutenant R H Wilson (departed_posted) (47,93)
+    person:Lieutenant R H Wilson (36,94)
+    person:Captain L W Bain (other) (47,96)
+Page 269 (type diary) http://wd3.herokuapp.com/pages/AWD00023d6  ----------
+  19 May 1916 24
+    place:Divion (19,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,28)
+  20 May 1916 31
+    place:Divion (18,35)
+    person:Captain G W Wood (returned_posted) (27,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,37)
+  21 May 1916 38
+    place:Divion (18,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,43)
+  22 May 1916 44
+    place:Divion (19,47)
+    unit:5 Field Ambulance (26,52)
+    person:Captain C J W Clayton (departed_leave) (26,58)
+    person:Captain C J W Clayton (departed_leave) (40,58)
+    person:Captain L W Bain (joined) (27,66)
+    person:Lieutenant Wilson (other) (36,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,74)
+    unit:No. 6 F. A. (71,81)
+    unit:O. C. No 6 Field Ambulance (62,82)
+    place:Fresnicourt (36,85)
+Page 270 (type diary) http://wd3.herokuapp.com/pages/AWD00023bh  ----------
+  23 May 1916 24
+    place:Divion (20,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,33)
+  24 May 1916 34
+    place:Divion (19,38)
+    unit:2 Division ramc 00 no 42 (25,39)
+    unit:5 Field Ambulance (57,41)
+    gridRef:Q_34_A_3_8 (56,44)
+    place:Servins (50,44)
+    unit:6 London Field Ambulance (52,47)
+    activity:reconnoitered (41,50)
+    unit:6 London Field Ambulance (35,58)
+    unit:5 Field Ambulance (46,63)
+    place:Servins (62,65)
+    unit:6 London Field Ambulance (57,68)
+    person:Captain G D Sherwood (other) (38,75)
+    place:Servins (70,77)
+    place:Ablain Saint Nazaire (59,81)
+    gridRef:X_10_B_16_2 (30,84)
+    person:Captain L W Bain (commander) (63,86)
+    place:Servins (52,89)
+    activity:movement (37,90)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,94)
+Page 271 (type diary) http://wd3.herokuapp.com/pages/AWD00023ck  ----------
+  25 May 1916 24
+    activity:movement (39,27)
+    place:Divion (67,27)
+    activity:movement (53,28)
+    place:Servins (19,28)
+    place:Servins (50,31)
+    gridRef:Q_34_A_3_6 (15,31)
+    mapRef:36b (21,34)
+    mapRef:Map 36 b (17,34)
+    person:Captain R Ellis (other) (30,34)
+    place:Adlain Saint Nazaire (69,37)
+    mapRef:Map 36 C (60,53)
+    gridRef:S_13_D_7_7 (54,53)
+    place:Cabaret Rouge (38,54)
+  26 May 1916 59
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,59)
+    person:Captain R Ellis (departed_posted) (30,63)
+    activity:repair (32,68)
+  27 May 1916 71
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,76)
+  28 May 1916 77
+    person:Captain G W Wood (departed_leave) (33,78)
+  29 May 1916 80
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,80)
+    gridRef:X_12_A_2_2 (63,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,92)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 13 (60,92)
+Page 272 (type diary) http://wd3.herokuapp.com/pages/AWD00023e9  ----------
+  30 May 1916 23
+    person:Captain C J W Clayton (returned_leave) (31,29)
+    person:Captain C J W Clayton (returned_leave) (20,29)
+    place:Servins (8,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,33)
+  31 May 1916 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,41)
+    person:Major T T H Robinson (author) (55,63)
+    person:Major T T H Robinson (author) (68,63)
+Page 273 (type report) http://wd3.herokuapp.com/pages/AWD00023ez  ----------
+  31 May 1916 0
+    person:Major T T H Robinson (commander) (29,41)
+    person:Captain R Ellis (joined) (27,44)
+    person:Captain N L Joynt (joined) (27,49)
+    person:Captain G W Wood (departed_leave) (29,52)
+    person:Captain C J W Clayton (joined) (27,56)
+    person:Captain L W Bain (joined) (29,60)
+    person:Captain G D Sherwood (joined) (27,64)
+    person:Captain A T Roberts (joined) (29,68)
+    person:Lieutenant T McG Fletcher (joined) (28,72)
+    person:Lieutenant E W J Escott (joined) (29,76)
+    person:Major T T H Robinson (65,83)
+Page 274 (type cover)
+Page 275 (type diary) http://wd3.herokuapp.com/pages/AWD00023et  ----------
+  1 Jun 1916 23
+    unit:176 Tennl Coy R E (57,27)
+    place:Servins (8,28)
+    person:Captain N L Joynt (departed_posted) (22,28)
+    gridRef:Q_34_A_3_6 (6,33)
+    mapRef:36 B (8,37)
+    mapRef:Map 36 b (4,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,44)
+  2 Jun 1916 47
+    person:Captain R Ellis (commander) (50,52)
+    activity:movement (43,62)
+    mapRef:France 36 C (76,68)
+    mapRef:36c (84,68)
+    gridRef:S_8_A_6_8 (66,68)
+    unit:17 Middlesex (29,68)
+    unit:17 Middlesex (38,68)
+    mapRef:France 36 B (49,75)
+    gridRef:X_12_C_5_10 (37,76)
+    mapRef:36b (61,77)
+    place:Souchez (56,83)
+    place:Souchez (82,88)
+Page 276 (type diary) http://wd3.herokuapp.com/pages/AWD00023d3  ----------
+  2 Jun 1916 25
+    activity:fire (57,28)
+    place:Servins (7,29)
+    place:Ablain (72,36)
+    activity:casualty (65,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 26 (66,44)
+    gridRef:S_7_D_7_10 (34,44)
+    place:Souchez (25,44)
+    mapRef:France 36 C (47,44)
+    mapRef:36c (58,44)
+    place:Servins (68,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 26 (28,49)
+    activity:casualty (44,52)
+    person:Captain G D Sherwood (departed_posted) (35,59)
+    person:Captain G D Sherwood (departed_posted) (21,59)
+    person:Lieutenant Fletcher (departed_posted) (33,63)
+    person:Captain G D Sherwood (departed_posted) (71,63)
+    person:Lieutenant T Mc Fletcher (departed_posted) (21,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,68)
+  3 Jun 1916 71
+    domestic:inspections (22,76)
+    place:Servins (5,76)
+    person:Captain N L Joynt (returned_posted) (31,79)
+    person:Captain N L Joynt (returned_posted) (20,79)
+    person:Lieutenant N Navarra (joined) (37,87)
+    person:Lieutenant N Navarra (joined) (20,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,91)
+Page 277 (type diary) http://wd3.herokuapp.com/pages/AWD00023cj  ----------
+  4 Jun 1916 24
+    activity:other (22,28)
+    place:Servins (6,29)
+    person:Captain L W Bain (departed_posted) (37,33)
+    person:Captain L W Bain (departed_posted) (20,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (38,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,38)
+  5 Jun 1916 39
+    place:Servins (5,45)
+    person:Captain G W Wood (returned_leave) (34,48)
+    domestic:inspections (22,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,52)
+  6 Jun 1916 55
+    person:Lieutenant Fletcher (79,59)
+    person:Captain G W Wood (departed_posted) (23,60)
+    place:Servins (5,61)
+    person:Lieutenant Fletcher (returned_posted) (32,64)
+  7 Jun 1916 68
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,72)
+    place:Servins (6,72)
+  8 Jun 1916 73
+    person:Captain C J W Clayton (departed_posted) (23,76)
+    place:Servins (5,77)
+  9 Jun 1916 80
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,80)
+    place:Servins (5,83)
+  10 Jun 1916 84
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (21,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,88)
+    place:Servins (6,89)
+Page 278 (type diary) http://wd3.herokuapp.com/pages/AWD00023dw  ----------
+  11 Jun 1916 24
+    place:Servins (6,27)
+    weather:rain (65,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,29)
+  13 Jun 1916 33
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,33)
+    domestic:inspections (38,33)
+  14 Jun 1916 37
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,37)
+    weather:rain (61,37)
+    place:Servins (6,37)
+    person:Lieutenant N Navarra (departed_posted) (78,40)
+    person:Captain G W Wood (departed_posted) (20,41)
+    place:Servins (6,42)
+    unit:Ivth corps (82,43)
+  15 Jun 1916 48
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (68,48)
+    weather:rain (53,48)
+    person:Captain G D Sherwood (returned_posted) (34,52)
+    person:Captain G D Sherwood (returned_posted) (22,53)
+    place:Servins (6,53)
+  16 Jun 1916 56
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,56)
+    place:Servins (6,59)
+  17 Jun 1916 60
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (21,62)
+  18 Jun 1916 64
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,64)
+  19 Jun 1916 68
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,70)
+  20 Jun 1916 72
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,73)
+    place:Servins (6,73)
+  21 Jun 1916 76
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,76)
+    person:Lieutenant T McG Fletcher (departed_posted) (20,80)
+    place:Servins (6,80)
+  22 Jun 1916 83
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,83)
+    place:Servins (6,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,88)
+Page 279 (type diary) http://wd3.herokuapp.com/pages/AWD00023cc  ----------
+  23 Jun 1916 24
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,28)
+    weather:rain (25,28)
+  24 Jun 1916 29
+    place:Servins (7,29)
+    person:Captain G W Wood (returned_posted) (33,33)
+    place:Servins (6,34)
+    weather:rain (24,34)
+    person:other Lord Charnwood (other) (39,37)
+  25 Jun 1916 44
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (20,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,45)
+    person:Captain G W Wood (departed_posted) (21,48)
+    place:Servins (7,49)
+    person:N Navarra (returned_posted) (35,52)
+    person:Lieutenant N Navarra (departed_posted) (20,52)
+    weather:fine (78,52)
+    weather:fine (70,52)
+  26 Jun 1916 56
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,56)
+    place:Servins (6,59)
+    weather:rain (21,59)
+  27 Jun 1916 60
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,60)
+    weather:rain (28,60)
+    unit:1 Army (30,64)
+    place:Servins (6,64)
+    weather:rain (71,65)
+  28 Jun 1916 68
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,68)
+  29 Jun 1916 72
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,72)
+    weather:rain (21,72)
+    weather:fine (40,72)
+    place:Servins (6,75)
+  30 Jun 1916 76
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,76)
+    weather:rain (22,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,80)
+    place:Servins (6,80)
+    weather:rain (21,80)
+    person:Major T T H Robinson (61,88)
+Page 280 (type ) http://wd3.herokuapp.com/pages/AWD00023dg  ----------
+  30 Jun 1916 0
+    person:Major T T H Robinson (commander) (26,40)
+    person:Captain R Ellis (other) (25,44)
+    person:Captain G W Wood (other) (26,48)
+    person:Captain C J W Clayton (other) (25,52)
+    person:Captain L W Bain (other) (26,55)
+    person:Captain G D Sherwood (26,59)
+    person:Captain A T Roberts (other) (26,63)
+    person:Lieutenant T McG Fletcher (26,67)
+    person:Lieutenant N Navarra (other) (25,71)
+    person:Lieutenant E W J Escott (other) (25,75)
+    person:Major T T H Robinson (author) (66,84)
+Page 281 (type cover)
+Page 282 (type diary) http://wd3.herokuapp.com/pages/AWD00023dh  ----------
+  1 Jul 1916 25
+    place:Servins (7,25)
+    weather:fine (21,28)
+    weather:fine (27,28)
+    gridRef:Q_34_A_3_6 (5,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,28)
+  2 Jul 1916 30
+    mapRef:Map 36 b (5,31)
+    mapRef:France 36 B (9,32)
+    unit:1 Army (32,33)
+    mapRef:France 36 C (45,40)
+    mapRef:36c (57,41)
+    gridRef:S_8_A_6_8 (35,41)
+    person:Captain Ellis (other) (66,41)
+  3 Jul 1916 60
+    weather:fine (49,60)
+    weather:fine (60,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (66,60)
+    unit:Ivth corps (31,64)
+    domestic:inspections (24,68)
+  4 Jul 1916 72
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,72)
+  5 Jul 1916 83
+    weather:rain (34,84)
+    weather:rain (45,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (54,84)
+    weather:fine (43,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,87)
+    weather:rain (22,88)
+Page 283 (type diary) http://wd3.herokuapp.com/pages/AWD00023f4  ----------
+  6 Jul 1916 24
+    place:Servins (8,29)
+    mapRef:36c (71,32)
+    gridRef:S_8_A_6_8 (49,33)
+    mapRef:France 36 C (59,33)
+    weather:rain (82,33)
+    weather:rain (75,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,36)
+  7 Jul 1916 37
+    weather:rain (22,40)
+  8 Jul 1916 48
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 14 (50,52)
+    activity:raid (21,53)
+  9 Jul 1916 56
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,56)
+    weather:fine (50,56)
+    activity:casualty (31,58)
+    weather:fine (22,59)
+  10 Jul 1916 60
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,60)
+    activity:fire (20,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 14 (58,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 14 (20,68)
+    activity:casualty (41,70)
+  11 Jul 1916 72
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,72)
+    weather:fine (29,72)
+    weather:fine (22,72)
+  12 Jul 1916 76
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,76)
+    weather:fine (24,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (68,79)
+  13 Jul 1916 80
+    weather:rain (22,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,84)
+Page 284 (type diary) http://wd3.herokuapp.com/pages/AWD00023ef  ----------
+  14 Jul 1916 24
+    weather:fine (20,27)
+    place:Servins (8,28)
+    weather:fine (29,29)
+    unit:47 Division (54,32)
+    unit:Royal Naval Division (82,37)
+    unit:Royal Naval Division (30,40)
+    unit:No 6 London Field Ambulance (63,52)
+    place:La Thieuloye (24,68)
+    unit:Royal Naval Division (32,71)
+    unit:Royal Naval Division (20,72)
+    place:Servins (23,76)
+    place:La Thieuloye (54,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (30,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,90)
+Page 285 (type diary) http://wd3.herokuapp.com/pages/AWD00023c0  ----------
+  15 Jul 1916 25
+    weather:fine (22,29)
+    place:La Thieuloye (47,29)
+    place:Servins (6,29)
+    place:Ablain-Saint-Nazaire (66,37)
+    unit:6 London Field Ambulance (24,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,42)
+  16 Jul 1916 44
+    person:Captain Ellis (returned_posted) (27,48)
+    place:Servins (5,49)
+    person:Captain L W Bain (departed_posted) (80,52)
+    place:La Thieuloye (68,56)
+    unit:6 London Field Ambulance (78,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,60)
+  17 Jul 1916 63
+    place:Servins (44,63)
+    place:La Thieuloye (6,68)
+    activity:movement (39,68)
+    unit:Field Ambulance less B section (24,68)
+    domestic:rations (48,72)
+    place:La Thieuloye (74,72)
+    gridRef:N_30_A_7_4 (7,72)
+    gridRef:N_30_A_7_4 (84,72)
+    mapRef:36 B (8,74)
+    mapRef:France 36 B (27,75)
+    mapRef:France 36 B (4,75)
+    mapRef:36b (40,76)
+    person:Lieutenant T McG Fletcher (returned_posted) (64,76)
+  18 Jul 1916 79
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,80)
+    place:La Thieuloye (7,82)
+    gridRef:N_30_A_7_4 (5,86)
+    mapRef:France 36 B (6,89)
+    person:Lieutenant G Bottomley (joined) (22,91)
+Page 286 (type diary) http://wd3.herokuapp.com/pages/AWD00023e7  ----------
+  18 Jul 1916 25
+    place:La Thieuloye (6,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (68,34)
+  19 Jul 1916 40
+    place:La Thieuloye (5,45)
+    place:Pernes (63,48)
+    place:Dieval (72,49)
+    place:Bryas (80,49)
+    place:Bryas (64,58)
+    place:La Thieuloye (54,60)
+    gridRef:N_22_C__ (63,61)
+    unit:Ivth corps (34,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,77)
+  20 Jul 1916 80
+    person:Lieutenant E W J Escott (departed_posted) (21,80)
+    place:La Thieuloye (5,84)
+    gridRef:N_23_B__ (82,87)
+    place:Corbie (49,88)
+Page 287 (type diary) http://wd3.herokuapp.com/pages/AWD00023d7  ----------
+  20 Jul 1916 25
+    mapRef:France 36 B (21,28)
+    place:La Thieuloye (6,29)
+    place:Corbie (73,33)
+    place:Corbie (68,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 27 (52,49)
+    person:Captain L M Bain (commander) (77,51)
+    activity:movement (42,60)
+    place:Brias (74,60)
+  21 Jul 1916 68
+    place:Amiens (54,70)
+    place:Longeau (43,73)
+    place:Corbie (5,74)
+    place:Ville (23,80)
+    place:Glisy (36,80)
+    place:Mericourt (53,80)
+    place:Corbie (43,80)
+    gridRef:K_1___ (5,82)
+    activity:movement (51,84)
+    mapRef:France 62 D (5,86)
+    domestic:rations (22,88)
+Page 288 (type diary) http://wd3.herokuapp.com/pages/AWD00023da  ----------
+  21 Jul 1916 25
+    place:Ville Sur Ancre (6,28)
+    activity:movement (68,29)
+    place:Ville Sur Ancre (39,33)
+    mapRef:France 62 D (10,33)
+    gridRef:K_1___ (5,33)
+    mapRef:62D (7,37)
+    mapRef:France 62 D (4,38)
+    activity:casualty (58,41)
+    activity:casualty (67,44)
+    place:Ville Sur Ancre (30,45)
+    place:Ville Sur Ancre (65,49)
+    activity:casualty (28,58)
+    place:Corbie (78,59)
+    activity:casualty (33,68)
+    activity:casualty (35,78)
+    place:Corbie (69,83)
+    activity:casualty (30,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,88)
+Page 289 (type diary) http://wd3.herokuapp.com/pages/AWD00023ed  ----------
+  22 Jul 1916 23
+    place:Dive Copse (6,28)
+    gridRef:J_24_B__ (5,33)
+    place:Dive Copse (59,37)
+    mapRef:France 62 D (4,38)
+    place:Dive Copse (81,76)
+    activity:movement (43,77)
+    place:Dive Copse (15,79)
+    activity:casualty (66,85)
+    activity:casualty (34,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,88)
+Page 290 (type diary) http://wd3.herokuapp.com/pages/AWD00023dt  ----------
+  24 Jul 1916 25
+    place:Dive Copse (6,29)
+    place:Sand Pit Valley (84,32)
+    unit:5 Field Ambulance (45,33)
+    gridRef:F_13___ (35,36)
+    mapRef:France 62 D (40,37)
+    place:Corbie (32,52)
+    place:Trones Wood (74,67)
+    place:Longueval (45,68)
+    gridRef:S_24_C_5_0 (22,72)
+    mapRef:France 57 C (35,72)
+    mapRef:57C (48,72)
+    place:Bernafay Wood (55,79)
+    gridRef:A_4_B__ (60,83)
+    place:Briqueterie (46,83)
+Page 291 (type diary) http://wd3.herokuapp.com/pages/AWD00023bu  ----------
+  24 Jul 1916 23
+    place:Dive Copse (5,28)
+    gridRef:F_30___ (61,29)
+    place:Maricourt (36,29)
+    place:Billon Farm (49,29)
+    place:Bronfay Farm (68,29)
+    place:Sapper Corner (82,29)
+    gridRef:L_15_B__ (79,37)
+    place:Briqueterie (68,48)
+    place:Bronfay Farm (71,64)
+Page 292 (type diary) http://wd3.herokuapp.com/pages/AWD00023bb  ----------
+  24 Jul 1916 23
+    place:Dive Copse (5,28)
+    place:Caftet Wood (24,48)
+    gridRef:F_18_C__ (38,48)
+    person:Captain Ellis (other) (22,59)
+    place:Caftet Wood (28,64)
+    place:Briqueterie (46,67)
+    place:Bernafay Wood (24,72)
+    place:Briqueterie (62,75)
+    place:Maricourt (31,76)
+    activity:fire (34,88)
+Page 293 (type diary) http://wd3.herokuapp.com/pages/AWD00023dk  ----------
+  24 Jul 1916 22
+    person:Captain Wood (commander) (27,28)
+    place:Carnoy (53,29)
+    place:Dive Copse (5,29)
+    gridRef:A_13_D__ (58,29)
+    place:Bernafay (42,33)
+    place:Carnoy (42,48)
+    place:Sapper Corner (83,51)
+  25 Jul 1916 59
+    mapRef:62 D (62,62)
+    mapRef:France 62 D (61,62)
+    activity:movement (23,63)
+    place:Sapper Corner (36,64)
+    place:Dive Copse (6,64)
+    gridRef:L_15_B_5_9 (52,64)
+    unit:142 Fd. Amb. (83,64)
+    place:Carnoy (29,79)
+    gridRef:A_13_D_4_10 (36,80)
+Page 294 (type diary) http://wd3.herokuapp.com/pages/AWD00023cz  ----------
+  25 Jul 1916 23
+    place:Dive Copse (5,29)
+    unit:99 Infantry Brigade (33,41)
+    unit:142 Field Ambulance (69,44)
+    place:Sapper Corner (26,48)
+    unit:142 Field Ambulance (76,63)
+    place:Sapper Corner (27,68)
+    place:Sapper Corner (80,71)
+    person:Captain Bain (commander) (36,83)
+    person:Captain Roberts (commander) (62,83)
+    place:Carnoy (79,86)
+    place:Dives Copse (31,88)
+Page 295 (type diary) http://wd3.herokuapp.com/pages/AWD00023cs  ----------
+  25 Jul 1916 23
+    person:Captain C J W Clayton (commander) (44,29)
+    person:Captain Bain (other) (75,33)
+    place:Sapper Corner (54,34)
+    unit:142 Field Ambulance (69,37)
+    place:Sapper Corner (41,38)
+    place:Carnoy (59,41)
+    gridRef:F_36_A_6_10 (43,46)
+    mapRef:France 62 D (51,47)
+    place:Billom Farm (34,49)
+  26 Jul 1916 54
+    place:Sapper Corner (6,60)
+    place:Sapper Corner (72,60)
+    place:Dives Copse (40,60)
+    activity:movement (25,60)
+    gridRef:L_15_B_5_9 (5,67)
+    unit:142 Field Ambulance (65,69)
+    mapRef:France 62 D (4,71)
+    gridRef:K_14___ (78,76)
+    place:Delville Wood (42,77)
+    mapRef:62 D (84,77)
+  27 Jul 1916 79
+    mapRef:France 62 D (21,79)
+    mapRef:62D (24,80)
+    unit:96 F. A. (65,84)
+    place:West Peronne (79,85)
+    place:Bernafay Wood (72,89)
+Page 296 (type diary) http://wd3.herokuapp.com/pages/AWD00023bl  ----------
+  27 Jul 1916 25
+    mapRef:France 57 C (29,26)
+    mapRef:57 C (31,27)
+    gridRef:S_22_D_8_0 (21,28)
+    gridRef:_21_A_9_0 (61,28)
+    unit:96 F. Amb. (37,28)
+    mapRef:62 C (71,28)
+    mapRef:France 62 C (71,28)
+    place:West Peronne (53,28)
+    place:Sapper Corner (6,29)
+    unit:96 Fd. Amb. (22,33)
+    unit:96 Field Ambulance (24,33)
+    time:1220PM (27,38)
+    place:Bernafay Wood (42,40)
+    activity:fire (35,56)
+    place:Bernafay Wood (78,59)
+    unit:69 F. A. (79,63)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (56,64)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,64)
+    place:West Peronne (30,68)
+    place:Bernafay Wood (39,71)
+    place:Bernafay Wood (70,83)
+    time:0900PM (56,87)
+    person:Captain R Ellis (author) (72,87)
+Page 297 (type diary) http://wd3.herokuapp.com/pages/AWD00023c5  ----------
+  27 Jul 1916 25
+    place:Sapper Corner (7,27)
+    place:Bernafay Wood (55,37)
+    activity:fire (45,48)
+    place:Bernafay (83,60)
+    place:Maricourt (73,64)
+    unit:96 F. A. (84,83)
+    place:West Peronne (61,84)
+    person:Captain C J W Clayton (commander) (29,87)
+Page 298 (type diary) http://wd3.herokuapp.com/pages/AWD00023el  ----------
+  27 Jul 1916 23
+    place:Bernafay Wood (26,29)
+    place:Sapper Corner (6,30)
+    person:Lieutenant Bottomley (other) (54,33)
+    activity:reconnoitered (76,33)
+    person:Captain Clayton (other) (68,36)
+    place:Montabaun (40,37)
+    place:Bernafay Wood (48,45)
+    place:Carnoy (84,59)
+    person:Captain L W Bain (commander) (28,59)
+    activity:casualty (68,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (79,64)
+    place:Bronfay Farm (81,76)
+    place:Bernafay (39,79)
+    person:Lieutenant Bottomley (commander) (70,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,85)
+Page 299 (type diary) http://wd3.herokuapp.com/pages/AWD00023bz  ----------
+  27 Jul 1916 25
+    place:Bernafay (68,29)
+    place:Sapper Corner (7,29)
+    unit:Xiii corps (42,41)
+  28 Jul 1916 43
+    person:Captain R Ellis (commander) (57,48)
+    place:Sapper Corner (6,49)
+    unit:No. 100 F. Amb. (28,64)
+    person:Captain R Ellis (commander) (48,68)
+    unit:100 F. Amb. (32,80)
+    person:Captain R Ellis (commander) (68,83)
+Page 300 (type diary) http://wd3.herokuapp.com/pages/AWD00023e3  ----------
+  28 Jul 1916 25
+    place:Sapper Corner (7,29)
+    activity:casualty (36,30)
+    activity:fire (48,45)
+    place:Bronfay Farm (75,68)
+  29 Jul 1916 78
+    person:Captain G W Sherwood (other) (51,79)
+    person:Captain R Ellis (29,80)
+    place:Bronfay Farm (62,84)
+Page 301 (type diary) http://wd3.herokuapp.com/pages/AWD00023bp  ----------
+  29 Jul 1916 24
+    place:Sapper Corner (5,28)
+    casualties:died: 0; killed: 1; missing: 4; prisoner: 0; sick: 0; wounded: 22 (22,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 21 (35,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (69,28)
+    casualties:died: 0; killed: 0; missing: 4; prisoner: 0; sick: 0; wounded: 0 (50,29)
+    mapRef:62 C (38,36)
+    mapRef:France 62 C (32,37)
+    gridRef:A_2_D__ (26,37)
+    place:Carnoy (24,40)
+    place:Sapper Corner (56,44)
+    place:Bernafay Wood (52,48)
+    place:Bernafay Wood (71,60)
+    place:Bronfay Farm (56,72)
+    gridRef:F_29_B__ (65,72)
+    place:Bernafay Wood (33,80)
+Page 302 (type diary) http://wd3.herokuapp.com/pages/AWD00023ba  ----------
+  29 Jul 1916 24
+    place:Sapper Corner (6,29)
+    place:Bronfay Farm (73,33)
+    place:Bernafay Wood (45,36)
+    place:Carnoy (43,48)
+    gridRef:A_2_D__ (77,55)
+    place:Montauban (27,63)
+    place:Bronfay Farm (59,67)
+    place:Sapper Corner (62,74)
+    gridRef:L_9_D_9_1 (76,75)
+    place:Bernafay Wood (48,87)
+Page 303 (type diary) http://wd3.herokuapp.com/pages/AWD00023er  ----------
+  29 Jul 1916 22
+    place:Sapper Corner (6,27)
+    place:Carnoy (45,29)
+    place:Bronfay Farm (50,33)
+    place:Bernafay Wood (66,37)
+    place:Bernafay Wood (61,41)
+    place:Peronne (39,44)
+    gridRef:A_20_B_9_9 (63,45)
+    unit:96 Fd. Amb. (51,52)
+    place:Peronne (71,52)
+  30 Jul 1916 72
+    place:Sapper Corner (6,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (47,80)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (28,84)
+    place:Dives Copse (69,88)
+Page 304 (type diary) http://wd3.herokuapp.com/pages/AWD00023cm  ----------
+  30 Jul 1916 24
+    place:Sapper Corner (6,28)
+    unit:Xiii corps (31,29)
+    place:Bernafay Wood (63,37)
+  31 Jul 1916 39
+    place:Sapper Corner (5,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (67,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (51,48)
+    place:Bronfay Farm (29,49)
+    person:Major Robinson (author) (61,79)
+Page 305 (type diary) http://wd3.herokuapp.com/pages/AWD00023ee  ----------
+  31 Jul 1916 0
+    person:Major T T H Robinson (commander) (31,40)
+    person:Captain R Ellis (joined) (30,45)
+    person:Captain G W Wood (joined) (31,48)
+    person:Captain C J W Clayton (joined) (31,52)
+    person:Captain L W Bain (other) (30,55)
+    person:Captain G D Sherwood (joined) (33,59)
+    person:Captain A T Roberts (joined) (30,63)
+    person:Lieutenant T McG Fletcher (other) (31,67)
+    person:Lieutenant N Navarra (joined) (30,71)
+    person:Lieutenant G Bottomley (joined) (30,76)
+    person:Major T T H Robinson (67,82)
+Page 306 (type cover)
+Page 307 (type diary) http://wd3.herokuapp.com/pages/AWD00023ci  ----------
+  1 Aug 1916 23
+    place:Sapper Corner (8,28)
+    place:Peronne (81,32)
+    activity:fire (51,32)
+    place:Bernafay Wood (47,40)
+  2 Aug 1916 47
+    place:Sapper Corner (7,52)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (75,52)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,55)
+  3 Aug 1916 56
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 56 (26,60)
+    place:Sapper Corner (7,61)
+  4 Aug 1916 62
+    place:Sapper Corner (7,67)
+  5 Aug 1916 71
+    place:Sapper Corner (7,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 24 (26,77)
+    place:Bernafay Wood (25,87)
+Page 308 (type diary) http://wd3.herokuapp.com/pages/AWD00023em  ----------
+  5 Aug 1916 25
+    place:Bernafay Wood (77,28)
+    place:Sapper Corner (6,28)
+  6 Aug 1916 34
+    person:Captain W W Boyce (commander) (75,48)
+    place:Dive Copse (68,60)
+    gridRef:J_24_B__ (78,60)
+    place:Sapper Corner (49,64)
+    gridRef:L_15_B_3_7 (62,64)
+    place:Bernafay Wood (63,75)
+    person:Captain G W Wood (other) (34,80)
+    place:Carnoy (62,80)
+    place:Dive Copse (76,83)
+    place:Sapper Corner (25,84)
+    person:Lieutenant Fletcher (departed_posted) (33,87)
+    place:Carnoy (81,87)
+Page 309 (type diary) http://wd3.herokuapp.com/pages/AWD00023bx  ----------
+  7 Aug 1916 22
+    place:Dive Copse (60,28)
+    place:Sapper Corner (7,28)
+    person:Captain G W Wood (other) (21,28)
+    place:Carnoy (85,32)
+    place:Dive Copse (60,33)
+    person:Lieutenant T McG Fletcher (other) (25,33)
+  8 Aug 1916 42
+    place:Sapper Corner (7,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (33,48)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (22,48)
+  9 Aug 1916 50
+    place:Sapper Corner (6,56)
+    unit:24 Division. (47,58)
+    unit:55 Division. (50,63)
+    place:Happy Valley (45,75)
+    gridRef:L_2_D__ (64,75)
+  10 Aug 1916 79
+    unit:24 Division. (60,84)
+    place:Sapper Corner (66,87)
+    place:Happy Valley (7,87)
+    unit:76 Field Amb. (36,87)
+    gridRef:L_2_D__ (7,91)
+Page 310 (type diary) http://wd3.herokuapp.com/pages/AWD00023bg  ----------
+  10 Aug 1916 24
+    place:Happy Valley (8,28)
+    place:Carnoy (47,29)
+    place:Sapper Corner (56,36)
+    activity:movement (37,37)
+  11 Aug 1916 40
+    place:Happy Valley (7,47)
+    place:Meaulte (51,48)
+    unit:6 Inf. Brigade (23,48)
+    place:Daours (63,51)
+    gridRef:L_1_A_5_1 (68,55)
+    activity:movement (62,62)
+  12 Aug 1916 74
+    place:Meaulte (6,80)
+    gridRef:E_16_D__ (5,84)
+    mapRef:62D (6,89)
+Page 311 (type diary) http://wd3.herokuapp.com/pages/AWD00023bc  ----------
+  12 Aug 1916 25
+    place:Meaulte (6,29)
+    place:Meaulte (63,33)
+    activity:movement (38,37)
+    place:Meaulte (56,40)
+    place:Mericourt (65,52)
+    place:Saleux (45,60)
+    place:Crouy (52,68)
+    place:Yzeux (45,72)
+    place:Mericourt (40,88)
+    place:Saleux (68,88)
+    place:Crouy (84,88)
+Page 312 (type diary) http://wd3.herokuapp.com/pages/AWD00023dp  ----------
+  13 Aug 1916 25
+    place:Mericourt (7,29)
+    gridRef:E_16_D_4_4 (47,37)
+    place:Mericourt (79,48)
+    activity:movement (43,48)
+  14 Aug 1916 52
+    activity:movement (22,55)
+    place:Saleux (61,56)
+    place:Crouy (6,57)
+    activity:movement (27,58)
+    place:Crouy (78,63)
+    activity:movement (24,64)
+  15 Aug 1916 65
+    place:Crouy (6,69)
+    mapRef:Amiens & Lens (36,72)
+    place:Bernaville (32,88)
+Page 313 (type diary) http://wd3.herokuapp.com/pages/AWD00023c9  ----------
+  15 Aug 1916 25
+    place:Crouy (6,29)
+    place:Crouy (33,49)
+    place:Hangest (58,49)
+    place:Bourdon (67,49)
+    place:Olincourt (80,49)
+    place:Crouy (42,50)
+  16 Aug 1916 56
+    place:Vignacourt (63,56)
+    place:Crouy (48,60)
+    activity:movement (23,60)
+    place:Olincourt Farm (5,61)
+    place:Olincourt (23,64)
+    unit:6 Infantry Battalion (62,65)
+    place:Vignacourt (6,67)
+  17 Aug 1916 68
+    unit:6 Infantry Battalion (20,71)
+    place:Beaumetz (6,73)
+    unit:6 Inf. Brigade (25,76)
+Page 314 (type diary) http://wd3.herokuapp.com/pages/AWD00023d5  ----------
+  17 Aug 1916 25
+    place:Beaumetz (7,29)
+    place:Vignacourt (43,32)
+    place:Ribeaucourt (68,32)
+    place:Beaumetz (82,42)
+    place:Canaples (66,43)
+    place:Olincourt (38,44)
+    place:Olincourt (46,44)
+    place:Berneuil (73,51)
+    activity:movement (24,55)
+    domestic:rations (40,59)
+    place:Beaumetz (59,59)
+    unit:6 Infantry Battalion (19,67)
+    unit:6 Inf. Brigade (22,71)
+    place:Candas (67,83)
+    place:Beauval (77,85)
+    place:Beaumetz (37,87)
+    place:Sarton (86,87)
+    place:Beauval (72,90)
+    place:Beaumetz (49,91)
+    place:Doullens (71,92)
+    place:Amiens (80,92)
+    place:Beauquesne (67,96)
+Page 315 (type diary) http://wd3.herokuapp.com/pages/AWD00023dl  ----------
+  18 Aug 1916 20
+    unit:E. Anglian Royal Engineers (62,22)
+    place:Sarton (6,24)
+    unit:E. Anglian R. E. (67,24)
+    activity:movement (31,25)
+    place:Sarton (35,27)
+    gridRef:H_18_A_2_5 (5,28)
+    mapRef:57D (6,32)
+    unit:Guards Division. (35,35)
+    place:Authie (37,43)
+    place:Authie (35,47)
+  19 Aug 1916 64
+    place:Authie (64,65)
+    person:Captain Bain (commander) (23,69)
+    place:Sarton (6,70)
+  20 Aug 1916 77
+    place:Authie (73,78)
+    place:Authie (6,81)
+    activity:movement (27,82)
+    gridRef:I_10_C_8_8 (5,85)
+    mapRef:57D (7,89)
+    mapRef:57 D (8,90)
+Page 316 (type diary) http://wd3.herokuapp.com/pages/AWD00023bo  ----------
+  20 Aug 1916 19
+    weather:fine (20,24)
+    place:Authie (6,25)
+    activity:construction (61,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,45)
+  21 Aug 1916 46
+    person:Captain L W Bain (departed_posted) (57,50)
+    place:Authie (7,52)
+    unit:D.D.M.S 5 Corps (33,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,58)
+  22 Aug 1916 59
+    place:Authie (6,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (21,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,67)
+  23 Aug 1916 68
+    place:Authie (6,73)
+  24 Aug 1916 80
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,80)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,81)
+    place:Authie (6,84)
+Page 317 (type diary) http://wd3.herokuapp.com/pages/AWD00023dd  ----------
+  24 Aug 1916 20
+    place:Authie (7,25)
+    activity:construction (66,32)
+    activity:casualty (28,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,45)
+  25 Aug 1916 47
+    place:Authie (6,52)
+    domestic:inspections (20,52)
+    activity:casualty (39,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,64)
+  26 Aug 1916 66
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,68)
+    place:Authie (6,69)
+    activity:casualty (22,71)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,71)
+  27 Aug 1916 72
+    place:Famechon (59,75)
+    place:Authie (6,78)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (74,89)
+    activity:casualty (48,92)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,92)
+Page 318 (type diary) http://wd3.herokuapp.com/pages/AWD00023d8  ----------
+  28 Aug 1916 20
+    person:Captain G W Wood (departed_posted) (22,24)
+    place:Authie (8,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (72,27)
+    activity:casualty (26,27)
+  29 Aug 1916 33
+    place:Authie (7,37)
+    weather:rain (22,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (67,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,40)
+  30 Aug 1916 41
+    place:Authie (7,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,45)
+    weather:rain (22,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,48)
+    activity:casualty (25,49)
+  31 Aug 1916 50
+    place:Authie (6,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,56)
+    activity:casualty (24,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,60)
+    person:Major T T H Robinson (author) (63,78)
+Page 319 (type ) http://wd3.herokuapp.com/pages/AWD00023d9  ----------
+  31 Aug 1916 0
+    person:Major T T H Robinson (commander) (20,40)
+    person:Captain R Ellis (other) (20,44)
+    person:Captain G W Wood (departed_posted) (20,48)
+    person:Captain C J W Clayton (other) (20,52)
+    person:Captain L W Bain (departed_posted) (21,56)
+    person:Captain G D Sherwood (other) (20,60)
+    person:Captain A T Roberts (other) (21,64)
+    person:Lieutenant T McG Fletcher (other) (20,68)
+    person:Lieutenant N Navarra (other) (20,72)
+    person:Lieutenant G Bottomley (other) (21,76)
+    person:Major T T H Robinson (author) (64,83)
+Page 320 (type cover)
+Page 321 (type diary) http://wd3.herokuapp.com/pages/AWD00023ek  ----------
+  1 Sep 1916 22
+    activity:construction (69,24)
+    place:Authie (8,25)
+    unit:39 Division. (52,31)
+    unit:A.D.M.S 39 Division (38,32)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,39)
+  2 Sep 1916 43
+    person:Lieutenant N Navarra (departed_posted) (69,44)
+    place:Authie (6,46)
+    person:Lieutenant T McG Fletcher (departed_posted) (22,46)
+    unit:A.D.M.S 39 Division (37,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,51)
+    weather:fine (25,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,55)
+  3 Sep 1916 57
+    place:Authie (6,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,64)
+  4 Sep 1916 66
+    person:Lieutenant N Navarra (returned_posted) (63,67)
+    person:Lieutenant T McG Fletcher (returned_posted) (35,67)
+    place:Authie (6,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,78)
+  5 Sep 1916 80
+    place:Authie (7,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,82)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (54,82)
+  6 Sep 1916 85
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,86)
+    place:Authie (6,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,88)
+Page 322 (type diary) http://wd3.herokuapp.com/pages/AWD00023ct  ----------
+  7 Sep 1916 21
+    activity:casualty (39,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,25)
+    place:Authie (7,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,26)
+  8 Sep 1916 30
+    place:Authie (6,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,34)
+  9 Sep 1916 35
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,39)
+    place:Authie (6,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,41)
+    unit:5 Corps (32,42)
+  10 Sep 1916 43
+    place:Authie (6,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (21,48)
+  11 Sep 1916 49
+    domestic:inspections (24,52)
+    domestic:inspections (44,52)
+    place:Authie (6,53)
+  12 Sep 1916 55
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,56)
+    place:Authie (6,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,62)
+  13 Sep 1916 63
+    person:Lieutenant Navarra (departed_posted) (85,63)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,64)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,64)
+    person:Lieutenant N Navarra (departed_posted) (73,64)
+    place:Authie (6,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,67)
+  14 Sep 1916 68
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,71)
+  15 Sep 1916 72
+    place:Authie (6,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,75)
+    place:Authie (6,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,77)
+  16 Sep 1916 78
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,80)
+    place:Authie (6,81)
+  17 Sep 1916 82
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,82)
+    place:Authie (6,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,89)
+Page 323 (type diary) http://wd3.herokuapp.com/pages/AWD00023e8  ----------
+  18 Sep 1916 20
+    weather:rain (22,24)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,24)
+    place:Authie (7,25)
+    activity:casualty (37,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,28)
+  19 Sep 1916 29
+    weather:rain (25,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (46,34)
+    place:Authie (6,35)
+  20 Sep 1916 38
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,38)
+    weather:rain (25,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (45,43)
+    place:Authie (5,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,45)
+  21 Sep 1916 47
+    weather:rain (25,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,52)
+    place:Authie (6,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,55)
+  22 Sep 1916 56
+    weather:fine (25,60)
+    place:Authie (6,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,61)
+  23 Sep 1916 65
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,68)
+    weather:fine (25,69)
+    place:Authie (6,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (37,70)
+  24 Sep 1916 71
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (68,74)
+    place:Authie (6,74)
+  25 Sep 1916 75
+    weather:fine (25,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,76)
+    person:Lieutenant T McG Fletcher (departed_posted) (52,79)
+    person:Lieutenant T McG Fletcher (departed_posted) (34,79)
+    weather:fine (24,80)
+    place:Authie (5,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (62,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,88)
+Page 324 (type diary) http://wd3.herokuapp.com/pages/AWD00023ew  ----------
+  26 Sep 1916 22
+    place:Authie (6,26)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (27,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (58,36)
+  27 Sep 1916 40
+    place:Authie (5,45)
+    unit:39 Division. (48,47)
+    person:Captain R Ellis (departed_posted) (64,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,63)
+  28 Sep 1916 65
+    person:Captain A T Roberts (55,69)
+    place:Authie (5,70)
+    person:Captain R Ellis (returned_posted) (23,70)
+  29 Sep 1916 75
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (53,77)
+    person:Captain G D Sherwood (departed_posted) (54,79)
+    place:Authie (5,81)
+    person:Captain A T Roberts (returned_posted) (22,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (77,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,84)
+  30 Sep 1916 85
+    person:Lieutenant N Navarra (returned_posted) (83,86)
+    person:Captain G D Sherwood (returned_posted) (25,89)
+    place:Authie (5,91)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (75,91)
+    person:Lieutenant N Navarra (returned_posted) (27,91)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,94)
+    person:Major T T H Robinson (68,95)
+Page 325 (type report) http://wd3.herokuapp.com/pages/AWD00023dq  ----------
+  30 Sep 1916 0
+    person:Major T T H Robinson (commander) (14,37)
+    person:Captain R Ellis (other) (17,42)
+    person:Captain G W Wood (departed_posted) (17,46)
+    person:Captain C J W Clayton (other) (17,50)
+    person:Captain L W Bain (departed_posted) (17,53)
+    person:Captain G D Sherwood (other) (15,57)
+    person:Captain A T Roberts (other) (17,61)
+    person:Lieutenant T McG Fletcher (other) (15,65)
+    person:Lieutenant N Navarra (other) (17,69)
+    person:Lieutenant G Bottomley (other) (15,73)
+    person:Major T T H Robinson (author) (59,79)
+Page 326 (type diary) http://wd3.herokuapp.com/pages/AWD00023df  ----------
+  1 Oct 1916 23
+    weather:fine (25,25)
+    place:Authie (7,25)
+    unit:No 5 Fd Amb (22,29)
+    gridRef:I_10_C_8_8 (6,29)
+    place:Bertrancourt (24,33)
+    unit:39 Division Fd Ambulance (64,34)
+    unit:39 Division (67,34)
+    place:Colincamps (25,42)
+    place:Red House (39,45)
+    place:Brewery (51,45)
+    place:Euston Road (26,46)
+    place:Bertrancourt (33,48)
+    place:Authie (73,53)
+    place:Bois du Warnimont (55,60)
+    person:Captain R Ellis (commander) (42,68)
+    person:Captain G D Sherwood (78,69)
+    place:Colincamps (63,70)
+    gridRef:Q_1_D_2_2 (33,79)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (62,82)
+  2 Oct 1916 84
+    person:Lieutenant N Navarra (commander) (27,87)
+    place:Bertrancourt (7,87)
+    place:Colincamps (65,89)
+    mapRef:57 D (9,93)
+Page 327 (type diary) http://wd3.herokuapp.com/pages/AWD00023br  ----------
+  2 Oct 1916 23
+    person:Lieutenant Navarra (other) (79,24)
+    place:Mailly-Maillet (59,24)
+    place:Bertrancourt (6,25)
+    place:Colincamps (58,27)
+    person:Captain C J W Clayton (commander) (33,32)
+    place:Authie (45,34)
+    unit:2 Ambulance (37,41)
+    place:Bertrancourt (27,46)
+    domestic:accomodation (60,48)
+    domestic:hygiene (33,50)
+    weather:rain (37,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,72)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,73)
+  3 Oct 1916 74
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (68,77)
+    weather:rain (31,77)
+  4 Oct 1916 78
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,82)
+  5 Oct 1916 84
+    domestic:inspections (53,86)
+    gridRef:K_33_C_2_6 (21,90)
+Page 328 (type diary) http://wd3.herokuapp.com/pages/AWD00023bn  ----------
+  5 Oct 1916 21
+    domestic:inspections (51,24)
+    place:Bertrancourt (6,26)
+    gridRef:P_12_D_9_8 (32,28)
+    gridRef:P_5_C_5_7 (73,33)
+    place:Red House (62,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,45)
+  6 Oct 1916 46
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,46)
+    person:Captain C J W Clayton (73,47)
+    unit:58 Field Ambulance (70,50)
+    place:Bertrancourt (7,50)
+    unit:58 Field Amb. 19 Division. (72,51)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,52)
+    place:Authie (34,52)
+  7 Oct 1916 54
+    gridRef:K_34_C_5_9 (66,54)
+    place:Sucrerie (78,57)
+    activity:construction (28,57)
+    place:Bertrancourt (6,58)
+    place:Stirling Avenue (38,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,63)
+    place:Bertrancourt (43,72)
+    place:Euston (47,75)
+    gridRef:K_25_C_0_7 (35,76)
+    place:Colincamps (27,76)
+    unit:3 Division (31,82)
+Page 329 (type diary) http://wd3.herokuapp.com/pages/AWD00023en  ----------
+  7 Oct 1916 22
+    place:Bertrancourt (8,25)
+    place:Red House (31,27)
+    place:Sucrerie (70,27)
+    place:Brewery (31,32)
+    unit:63 Division (32,38)
+    place:Varennes (78,43)
+    unit:No 5 Field Ambulance (38,46)
+    unit:No. 6 Field Ambulance (56,47)
+    place:Brewery (81,55)
+    person:Captain Ellis (other) (51,56)
+  8 Oct 1916 62
+    unit:142 Fd. Amb. 3 Division. (53,64)
+    unit:142 Field Ambulance (52,65)
+    activity:movement (50,66)
+    place:Varennes (8,66)
+    place:Varennes (65,67)
+    unit:Field Ambulance 63 Division. (39,67)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,74)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 40 (45,74)
+    place:Mailly Maillet (59,76)
+  9 Oct 1916 78
+    place:Varennes (7,83)
+Page 330 (type diary) http://wd3.herokuapp.com/pages/AWD00023dm  ----------
+  9 Oct 1916 22
+    place:Varennes (6,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,35)
+  10 Oct 1916 37
+    person:Captain A T Roberts (other) (60,39)
+    place:Varennes (7,41)
+    unit:No. 100 Field Ambulance (79,46)
+    unit:No. 6 Field Ambulance (74,47)
+    person:Captain G W Wood (returned_posted) (57,81)
+  11 Oct 1916 84
+    place:Varennes (7,87)
+    unit:Division. Collecting Station (35,88)
+Page 331 (type diary) http://wd3.herokuapp.com/pages/AWD00023f3  ----------
+  12 Oct 1916 22
+    unit:Division. Collecting Station (36,25)
+    place:Varennes (7,26)
+  13 Oct 1916 45
+    place:Arqueures (73,48)
+    place:Varennes (6,50)
+    place:Mailly Maillet (37,53)
+  14 Oct 1916 54
+    unit:Division. Collecting Station (81,57)
+    place:Varennes (6,58)
+    activity:fire (73,60)
+    place:Bertrancourt (53,64)
+  15 Oct 1916 66
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (77,69)
+    place:Varennes (7,70)
+    activity:fire (25,71)
+    unit:Division. Collecting Station (54,71)
+  16 Oct 1916 74
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (28,74)
+    place:Mailly Maillet (37,77)
+    place:Varennes (7,78)
+    unit:2 Division (32,79)
+    unit:No 5 Field Ambulance (32,83)
+Page 332 (type diary) http://wd3.herokuapp.com/pages/AWD00023cy  ----------
+  16 Oct 1916 23
+    place:Varennes (6,26)
+  17 Oct 1916 31
+    place:Varennes (7,35)
+    unit:R. N. Division (43,37)
+  18 Oct 1916 48
+    place:Varennes (7,52)
+  19 Oct 1916 54
+    place:Beausart (60,56)
+    place:Varennes (7,59)
+    unit:51 Division (65,63)
+    place:Beausart (48,63)
+  21 Oct 1916 65
+    place:Beausart (86,65)
+    place:Varennes (7,69)
+    unit:2 Division (52,70)
+  22 Oct 1916 71
+    place:Varennes (7,75)
+    place:Varennes (25,77)
+  23 Oct 1916 78
+    place:Varennes (60,81)
+    place:Bertrancourt (6,83)
+    place:Bertrancourt (68,83)
+    activity:movement (23,84)
+Page 333 (type diary) http://wd3.herokuapp.com/pages/AWD00023bq  ----------
+  24 Oct 1916 20
+    unit:2 Division (57,22)
+    place:Bertrancourt (7,25)
+    unit:No 5 Field Ambulance (34,38)
+    person:Captain Ellis (commander) (60,41)
+    unit:No 100 Field Ambulance (31,46)
+    unit:No 50 Field Ambulance (35,60)
+Page 334 (type diary) http://wd3.herokuapp.com/pages/AWD00023dy  ----------
+  27 Oct 1916 22
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (34,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (23,25)
+    place:Bertrancourt (7,26)
+  28 Oct 1916 29
+    place:Bertrancourt (7,34)
+    unit:2 Division (74,36)
+    unit:12 Inf Brigade (40,38)
+    person:Captain R Ellis (commander) (82,40)
+    unit:100 Field Ambulance (79,52)
+    unit:2 Divisional Collecting Post (55,54)
+    unit:100 Field Ambulance (25,56)
+    unit:2 Division (28,61)
+    unit:112 Brigade (72,62)
+  29 Oct 1916 78
+    place:Bertrancourt (7,84)
+    person:Lieutenant T McG Fletcher (62,84)
+    person:Lieutenant T McG Fletcher (returned_posted) (86,86)
+    unit:No. 29 C. C. S. (27,86)
+    person:Captain G D Sherwood (other) (32,89)
+    person:Lieutenant Colonel T T H Robinson (commander) (66,95)
+Page 335 (type diary) http://wd3.herokuapp.com/pages/AWD00023dn  ----------
+  29 Oct 1916 0
+    reference:291 (88,17)
+    reference: (8,37)
+    person:T T H Robinson (commander) (20,38)
+    person:Captain R Ellis (other) (21,42)
+    person:Captain G W Wood (other) (20,46)
+    person:Captain C J W Clayton (other) (20,50)
+    person:Captain L W Bain (other) (19,53)
+    person:Captain Sherwood (other) (20,57)
+    person:Captain A T Roberts (other) (20,61)
+    person:Lieutenant T McG Fletcher (joined) (16,64)
+    person:Lieutenant N Navarra (other) (21,68)
+    reference:2118 (92,7)
+    person:Lieutenant G Bottomley (other) (21,73)
+    person:Lieutenant Colonel T T H Robinson (commander) (65,81)
+Page 336 (type cover)
+Page 337 (type diary) http://wd3.herokuapp.com/pages/AWD00023ej  ----------
+  12 Nov 1916 22
+    gridRef:Q_1_D_3_3 (36,28)
+    activity:movement (80,28)
+    gridRef:Q_1_D_3_3 (6,31)
+    unit:No. 6 F. A. (75,32)
+    gridRef:K_33_C_2_6 (39,32)
+    place:Sucrerie (28,32)
+    mapRef:57d (8,35)
+    person:Captain A T Roberts (commander) (38,43)
+  13 Nov 1916 47
+    time:0545AM (32,49)
+    place:Sucrerie (75,49)
+    activity:casualty (26,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 116 (35,76)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,78)
+  14 Nov 1916 84
+    activity:casualty (26,89)
+    person:Captain Bourne-Price (joined) (76,90)
+Page 338 (type diary) http://wd3.herokuapp.com/pages/AWD00023ds  ----------
+  14 Nov 1916 23
+    unit:100 Field Amb. (35,26)
+  15 Nov 1916 39
+    activity:casualty (27,44)
+    person:Captain Bain (other) (28,46)
+    place:Sucrerie (26,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 8 (25,56)
+    place:Beausart (28,60)
+  16 Nov 1916 61
+    person:Lieutenant T McG Fletcher (resigned) (27,65)
+    place:Beausart (83,73)
+  17 Nov 1916 78
+    unit:94 Field Ambulance (58,80)
+    unit:94 Field Ambulance (33,82)
+    place:Bertrancourt (7,83)
+    place:Bertrancourt (58,88)
+    gridRef:J_33_A_5_2 (6,90)
+    mapRef:57D (8,94)
+    mapRef:57 D (7,94)
+Page 339 (type diary) http://wd3.herokuapp.com/pages/AWD00023ca  ----------
+  18 Nov 1916 24
+    time:0930AM (52,28)
+    place:Bertrancourt (7,29)
+    activity:movement (36,30)
+    place:Bertrancourt (54,32)
+    unit:5 Inf Brigade (28,35)
+    unit:5 Inf Brigade (27,43)
+    unit:226 Field Coy (28,51)
+    unit:No 3 Division Train (64,51)
+  21 Nov 1916 57
+    place:Le Meillard (63,59)
+  23 Nov 1916 61
+  24 Nov 1916 65
+    place:Saint Riquier (55,68)
+  25 Nov 1916 69
+    place:Amplier (72,76)
+    time:0930AM (57,79)
+    place:Amplier (79,79)
+    place:Beaussart (46,80)
+    place:Bertrancourt (37,90)
+    place:Orville (46,91)
+Page 340 (type diary) http://wd3.herokuapp.com/pages/AWD00023ea  ----------
+  18 Nov 1916 22
+    place:Bertrancourt (8,26)
+    place:Bus (35,29)
+    place:Louvencourt (44,29)
+    place:Marieux (55,29)
+    place:Sarton (63,29)
+    place:Orville (71,29)
+  19 Nov 1916 55
+    activity:movement (34,60)
+    place:Orville (77,60)
+    place:Orville (7,60)
+    place:Yvrench (60,84)
+Page 341 (type diary) http://wd3.herokuapp.com/pages/AWD00023cx  ----------
+  19 Nov 1916 23
+    place:Orville (7,29)
+    place:Canaples (73,40)
+    place:Amplier (50,43)
+    place:Canaples (83,43)
+    place:Canaples (42,58)
+    time:1010AM (53,58)
+    place:Orville (33,59)
+    place:Sarton (66,66)
+    place:Doullens (75,67)
+    place:Orville (41,72)
+    place:Terramesnil (59,76)
+    place:Beauval (72,76)
+    place:Bonneville (82,76)
+Page 342 (type diary) http://wd3.herokuapp.com/pages/AWD00023e6  ----------
+  19 Nov 1916 23
+    place:Amplier (52,28)
+    place:Orville (8,28)
+  20 Nov 1916 43
+    activity:movement (33,48)
+    place:Pernois (7,49)
+    place:Beauval (27,52)
+    place:Canaples (50,55)
+    unit: (64,59)
+    place:Halloy (29,60)
+    place:Pernois (25,63)
+    person:Captain G W Wood (returned_posted) (47,67)
+Page 343 (type diary) http://wd3.herokuapp.com/pages/AWD00023de  ----------
+  20 Nov 1916 21
+    place:Pernois (7,24)
+    mapRef:Lens (6,30)
+    place:Saint Ouen (75,30)
+    place:Saint Ouen (81,36)
+    time:1000AM (60,37)
+    place:Canaples (48,37)
+    place:Halloy (34,51)
+    place:Saint Ouen (46,51)
+    time:1100AM (85,52)
+    place:Bertaucourt (76,52)
+    time:0930AM (66,53)
+    place:Halloy (59,54)
+  21 Nov 1916 81
+    place:Saint Ouen (79,81)
+    time:0930AM (56,82)
+    activity:movement (42,84)
+    place:Saint Ouen (7,84)
+    time:1030AM (26,89)
+    mapRef:Lens (6,89)
+Page 344 (type diary) http://wd3.herokuapp.com/pages/AWD00023cv  ----------
+  22 Nov 1916 21
+    place:Saint Ouen (8,26)
+    place:Domleger (34,48)
+    place:Domleger (83,49)
+    place:Saint Ouen (34,64)
+    place:Mesnil (45,64)
+    place:Domqueur (82,64)
+    place:Halte (63,71)
+  23 Nov 1916 77
+    place:Mesnil (5,80)
+    activity:movement (33,83)
+    mapRef:Lens (8,88)
+Page 345 (type diary) http://wd3.herokuapp.com/pages/AWD00023c2  ----------
+  23 Nov 1916 21
+    place:Mesnil (6,26)
+    place:Maison Ponthieu (49,44)
+    place:Domleger (55,46)
+    place:Maison Ponthieu (32,51)
+    place:Domleger (75,60)
+    place:Conteville (84,60)
+  24 Nov 1916 67
+    place:Conteville (77,71)
+    place:Conteville (6,71)
+    activity:movement (42,72)
+    place:Lens (32,82)
+    place:Abbeville (43,82)
+    mapRef:Lens (33,83)
+    mapRef:Abbeville (45,83)
+Page 346 (type diary) http://wd3.herokuapp.com/pages/AWD00023ep  ----------
+  24 Nov 1916 22
+    place:Maison Ponthieu (50,23)
+    place:Canchy (85,24)
+    place:Conteville (7,25)
+    place:Yvrench (73,39)
+    place:Neully l'Hopital (46,40)
+    place:Conteville (34,42)
+    place:Conteville (58,43)
+    place:Argenvillers (73,47)
+    unit:226 field coy re (59,50)
+  25 Nov 1916 56
+    place:Neully l'Hopital (71,57)
+    activity:movement (25,61)
+    place:Neully l'Hopital (7,67)
+    place:Chateau Triquerie (33,68)
+    weather:rain (27,72)
+  26 Nov 1916 76
+    activity:resting (37,81)
+    mapRef:Lens (38,86)
+    mapRef:Lens (38,90)
+Page 347 (type diary) http://wd3.herokuapp.com/pages/AWD00023be  ----------
+  26 Nov 1916 21
+    place:Le Boisle (37,26)
+    place:Domvast (65,26)
+    place:Marcheville (76,26)
+    place:Canchy (47,27)
+    place:Neully l'Hopital (6,36)
+    place:Maison Ponthieu (73,42)
+    time:1100AM (52,42)
+    place:Canchy (45,44)
+    place:Brailly (72,56)
+    place:Gueschart (41,57)
+    place:Neully l'Hopital (33,58)
+    place:Le Boisle (54,61)
+    place:Canchy (61,61)
+    place:Domvast (62,64)
+    place:Buleux (54,66)
+    unit:226 Field Coy Royal Engineers (52,72)
+    place:Canchy (37,78)
+    place:Le Boisle (43,87)
+    place:Canchy (51,87)
+    place:Abbeville (61,87)
+    unit:5 Inf Brigade (28,87)
+Page 348 (type diary) http://wd3.herokuapp.com/pages/AWD00023c4  ----------
+  26 Nov 1916 22
+    unit:53 Inf Bttn (77,22)
+    unit:53 Inf. Brigade (75,25)
+    unit:5 Inf Brigade (46,27)
+    place:Chateau Triquerie (7,27)
+  27 Nov 1916 43
+    place:Gueschart (71,46)
+    activity:movement (32,48)
+    place:Gueschart (6,48)
+  28 Nov 1916 57
+    unit:2 Division (24,58)
+    place:Gueschart (53,64)
+    unit:Divisional Rest Station 100 Fd Amb (73,65)
+Page 349 (type diary) http://wd3.herokuapp.com/pages/AWD00023e4  ----------
+  29 Nov 1916 23
+    place:Gueschart (7,25)
+    unit:G.O.C. 2 Division (68,25)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,26)
+  30 Nov 1916 34
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,38)
+    person:Lieutenant Colonel Robinson (author) (64,58)
+Page 350 (type diary) http://wd3.herokuapp.com/pages/AWD00023b9  ----------
+  30 Nov 1916 23
+    person:Lieutenant Colonel T T H Robinson (commander) (21,35)
+    person:Captain R Ellis (other) (21,38)
+    person:Captain G W Wood (other) (21,42)
+    person:Captain C J W Clayton (other) (21,45)
+    person:Captain L W Bain (other) (21,49)
+    person:Captain G D Sherwood (21,53)
+    person:Captain A T Roberts (other) (21,58)
+    person:Lieutenant N Navarra (other) (21,61)
+    person:Lieutenant G Bottomley (other) (21,65)
+    person:Lieutenant Colonel T T H Robinson (commander) (57,72)
+Page 351 (type cover)
+Page 352 (type diary) http://wd3.herokuapp.com/pages/AWD00023cn  ----------
+  1 Dec 1916 21
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (26,25)
+    place:Gueschart (6,26)
+    person:Captain G W Wood (departed_posted) (48,27)
+  2 Dec 1916 29
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,31)
+  3 Dec 1916 34
+    person:Captain A T Roberts (departed_leave) (25,37)
+    person:Captain At Roberts (departed_leave) (31,38)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,39)
+  4 Dec 1916 40
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,45)
+  5 Dec 1916 46
+    person:Captain L W Bain (departed_posted) (28,50)
+    person:Captain R Ellis (departed_leave) (30,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,60)
+  6 Dec 1916 62
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,66)
+  7 Dec 1916 67
+  8 Dec 1916 71
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,71)
+  9 Dec 1916 75
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (67,75)
+    person:Captain Milling (joined) (33,75)
+  10 Dec 1916 82
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (30,82)
+    domestic:inspections (27,86)
+    domestic:inspections (46,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (34,88)
+Page 353 (type diary) http://wd3.herokuapp.com/pages/AWD00023f1  ----------
+  10 Dec 1916 0
+    reference:307 (92,16)
+  11 Dec 1916 21
+    place:Gueschart (6,25)
+    person:N Navarra (resigned) (34,25)
+    person:Lieutenant N Navarra (resigned) (26,25)
+  12 Dec 1916 31
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (29,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,35)
+  13 Dec 1916 37
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,40)
+  14 Dec 1916 41
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (23,44)
+  15 Dec 1916 47
+    person:Captain A T Roberts (returned_leave) (28,53)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,56)
+  16 Dec 1916 57
+    person:Captain C J W Clayton (departed_leave) (35,61)
+    person:Captain C J W Clayton (departed_leave) (25,61)
+  17 Dec 1916 64
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (24,64)
+    person:Captain R Ellis (returned_leave) (26,68)
+  10 Dec 1916 0
+    reference:2118 (91,7)
+  18 Dec 1916 71
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,71)
+    person:Captain Milling (departed_posted) (26,75)
+    person:Captain G W Wood (returned_posted) (48,79)
+  19 Dec 1916 85
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,85)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,89)
+Page 354 (type diary) http://wd3.herokuapp.com/pages/AWD00023cl  ----------
+  20 Dec 1916 21
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (31,25)
+    place:Gueschart (7,26)
+  21 Dec 1916 29
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (22,31)
+  22 Dec 1916 33
+    person:Captain Lw Bain (returned_posted) (31,37)
+    person:Captain L W Bain (returned_posted) (25,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,40)
+  23 Dec 1916 41
+    place:Gueschart (47,49)
+    unit:100 fa (75,58)
+    unit:6 fa (63,60)
+    unit:100 Field Amb (77,68)
+    unit:No 6 Field Amb (70,69)
+  24 Dec 1916 77
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (39,88)
+Page 355 (type diary) http://wd3.herokuapp.com/pages/AWD00023co  ----------
+  25 Dec 1916 21
+    person:Captain Wood (departed_leave) (32,24)
+    person:Captain Bain (departed_leave) (57,24)
+    place:Gueschart (7,25)
+    person:Captain R Ellis (departed_posted) (49,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,34)
+  29 Dec 1916 38
+    person:Lieutenant G Bottomley (departed_leave) (41,44)
+    person:Lieutenant G Bottomley (departed_leave) (24,44)
+Page 356 (type diary) http://wd3.herokuapp.com/pages/AWD00023bw  ----------
+  31 Dec 1916 21
+    person:Lieutenant Colonel T T H Robinson (commander) (17,37)
+    person:Lieutenant Colonel Robinson (commander) (26,38)
+    person:Captain R Ellis (other) (21,43)
+    person:Captain G W Wood (other) (24,47)
+    person:Captain C J W Clayton (other) (20,51)
+    person:Captain Lw Bain (joined) (24,55)
+    person:Captain L W Bain (other) (21,56)
+    person:Captain Sherwood (other) (29,61)
+    person:Captain A T Roberts (other) (24,65)
+    person:Captain T Milling (other) (20,70)
+    person:Captain T Milling (other) (29,70)
+    person:Lieutenant G Bottomley (other) (19,74)
+    person:Lieutenant G Bottomley (other) (28,74)
+    person:Lieutenant Colonel T T H Robinson (commander) (71,83)

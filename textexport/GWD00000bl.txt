@@ -1,0 +1,93 @@
+GWD00000bl wo/95/1123/3
+2 CAVALRY DIVISION: 3 Brigade Royal Horse Artillery 
+9 pages
+
+Page 1 (type diary) http://wd3.herokuapp.com/pages/AWD0001rmf  ----------
+  12 Oct 1915 25
+    place:Norrent (4,27)
+  17 Oct 1915 31
+    activity:movement (30,33)
+  19 Oct 1915 46
+  20 Oct 1915 52
+Page 2 (type diary) http://wd3.herokuapp.com/pages/AWD0001rnc  ----------
+  20 Oct 1915 0
+    place:Thiembronne (5,26)
+  26 Nov 1915 31
+    unit:Kitcheners army (72,43)
+    unit:R M A Woolwich (61,55)
+    unit:Rma woolich (75,56)
+    person:Captain Soames (departed_posted) (27,85)
+    person:Captain M H Dendy (departed_posted) (25,94)
+Page 3 (type diary) http://wd3.herokuapp.com/pages/AWD0001rmg  ----------
+  26 Nov 1915 26
+    place:Thiembronne (6,26)
+    person:Lieutenant V Walrond (departed_posted) (24,34)
+    person:Lieutenant I R Anderson (departed_posted) (23,38)
+    person:Second Lieutenant Fuller (joined) (44,46)
+    person:Second Lieutenant Fuller (25,48)
+    person:Lieutenant Townsend (joined) (43,52)
+    person:Second Lieutenant K A Townsend (26,52)
+    person:Second Lieutenant Dewing (25,57)
+    person:Lieutenant Dewing (joined) (44,58)
+    person:Second Lieutenant N G Pring (25,65)
+    person:Lieutenant Pring (joined) (44,67)
+    person:Second Lieutenant Lutyens (25,70)
+    person:Lieutenant Lutyens (joined) (46,71)
+    person:Lieutenant R Cochrane (joined) (47,80)
+    person:Second Lieutenant R Cochrane (24,80)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD0001rmq  ----------
+  26 Nov 1915 0
+    place:Thiembronne (6,26)
+  27 Nov 1915 29
+    unit:11 Corps, 1 Army (43,36)
+  28 Nov 1915 41
+    person:Colonel Ollivant (33,43)
+    unit:Xith corps hq (26,47)
+  29 Nov 1915 54
+    place:Inghem (59,56)
+    activity:movement (38,58)
+    activity:movement (47,83)
+  30 Nov 1915 84
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD0001rmv  ----------
+  30 Nov 1915 24
+    unit:46 (nm) Division (34,36)
+    unit:7 Division (34,42)
+  1 Dec 1915 46
+  2 Dec 1915 57
+    activity:line (32,65)
+  3 Dec 1915 70
+    person:Colonel Ollivant (departed_posted) (30,71)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD0001rmp  ----------
+  Hashtags: #story 
+  3 Dec 1915 26
+    unit:46 Division (32,28)
+    unit:19 Division (48,31)
+    unit:19 Division (37,34)
+  4 Dec 1915 41
+    person:Colonel Ollivant (27,45)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD0001rmo  ----------
+  Hashtags: #ammunitionshortage 
+  5 Dec 1915 25
+    place:Lacouture (6,27)
+  17 Dec 1915 72
+    place:Locon (5,73)
+    person:Major General Philip Chetwode (other) (65,75)
+    person:Colonel Fitzgerald (other) (75,79)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD0001rms  ----------
+  Hashtags: #enemymorale 
+  18 Dec 1915 24
+    place:Locon (6,27)
+  19 Dec 1915 30
+  20 Dec 1915 34
+    person:General Bingham (commander) (25,37)
+    place:Fosse (5,37)
+  24 Dec 1915 49
+    activity:attack (41,65)
+  25 Dec 1915 85
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD0001rn8  ----------
+  25 Dec 1915 24
+    activity:fire (33,26)
+    place:Fosse (6,27)
+  26 Dec 1915 30
+    activity:fire (48,33)
+  31 Dec 1915 55

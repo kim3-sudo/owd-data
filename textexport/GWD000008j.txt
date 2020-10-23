@@ -1,0 +1,5085 @@
+GWD000008j wo/95/1126/2
+2 CAVALRY DIVISION: 8 Mobile Veterinary Section 
+411 pages
+
+Page 466 (type cover)
+Page 467 (type cover)
+Page 468 (type cover)
+Page 469 (type cover)
+Page 470 (type diary) http://wd3.herokuapp.com/pages/AWD00019t2  ----------
+  1 Oct 1914 0
+    place:Aldershot (8,29)
+    activity:movement (30,30)
+    place:Bulford (64,31)
+    time:0530PM (16,33)
+    place:Bulford (39,40)
+    place:Bulford (10,43)
+    unit:14 Hussars (37,72)
+Page 471 (type diary) http://wd3.herokuapp.com/pages/AWD00019rm  ----------
+  1 Oct 1914 0
+    place:Bulford (7,36)
+    activity:movement (44,38)
+    place:Bulford (33,38)
+    time:0810AM (17,39)
+    place:Tidworth (55,39)
+    time:1040AM (70,40)
+    place:Southampton (38,42)
+    place:Tidworth (8,45)
+    time:0930AM (16,46)
+    activity:movement (30,49)
+    time:1046AM (40,53)
+    place:Southampton (61,54)
+    place:Southampton (11,61)
+    activity:movement (31,63)
+    time:0400PM (55,65)
+    place:Southampton (31,69)
+    time:0500PM (49,71)
+    unit:2 Cavalry 131 (27,74)
+    person:General De Lisle (commander) (58,77)
+    weather:fine (49,82)
+    place:Boulogne (10,84)
+    time:0545PM (38,87)
+    activity:movement (62,88)
+    activity:movement (49,90)
+Page 472 (type diary) http://wd3.herokuapp.com/pages/AWD00019p9  ----------
+  1 Oct 1914 0
+    place:Pont-de-Bruges (8,32)
+    domestic:rations (45,34)
+    time:0400PM (17,41)
+    time:0800PM (50,47)
+    place:Boulogne (40,47)
+    activity:movement (61,51)
+    time:1200AM (71,53)
+    place:Maubluge (10,56)
+    activity:movement (33,65)
+    place:Obreiches (9,68)
+    place:Obreiches (71,70)
+    activity:movement (63,71)
+    domestic:inspections (30,75)
+    place:Obreiches (11,79)
+    place:Douzies (46,92)
+Page 473 (type diary) http://wd3.herokuapp.com/pages/AWD00019mz  ----------
+  Hashtags: #horses 
+  1 Oct 1914 0
+    place:Obreiches (10,28)
+    unit:5 Veterinary Section (31,33)
+    unit:6 Veterinary Section (35,33)
+    unit:Ii Cavalry Brigade (59,37)
+    place:Obreiches (10,45)
+    unit:Ii Cavalry Brigade (54,49)
+    activity:movement (69,50)
+    place:Douzies (33,53)
+    place:Douzies (33,63)
+    activity:movement (31,76)
+    place:Vallenciennes (59,81)
+    activity:movement (46,81)
+    place:Vallenciennes (10,87)
+    activity:movement (30,89)
+    place:Solemes (41,90)
+Page 474 (type diary) http://wd3.herokuapp.com/pages/AWD00019tm  ----------
+  1 Oct 1914 0
+    place:Solemes (11,28)
+    place:Le Cateau (43,29)
+    activity:movement (31,30)
+    weather:fine (33,34)
+    time:0400PM (62,35)
+    place:Amiens (36,38)
+    place:Le Cateau (12,41)
+    place:Amiens (52,43)
+    place:Saint Quentin (40,47)
+    activity:movement (31,48)
+    weather:cold (73,52)
+    domestic:accomodation (47,52)
+    activity:movement (30,57)
+    place:Ham (47,58)
+    place:Ham (38,63)
+    time:1000PM (46,63)
+    domestic:accomodation (53,64)
+    place:Ham (11,71)
+    activity:movement (31,76)
+    place:Sempigne (44,78)
+    domestic:accomodation (44,83)
+    place:Noyon (77,83)
+    domestic:rations (53,89)
+Page 475 (type diary) http://wd3.herokuapp.com/pages/AWD00019p0  ----------
+  1 Oct 1914 0
+    place:Sempigne (9,28)
+    unit:Iii Cavalry (68,28)
+    unit:X Section (41,36)
+    place:Les Cloyes (10,37)
+    unit:7 Mobile Veterinary Section (41,37)
+    activity:movement (31,42)
+    unit:1, 4, 9 Sections (46,43)
+    unit: (48,45)
+    domestic:accomodation (31,48)
+    activity:movement (54,57)
+    unit:4 Division (65,59)
+    activity:movement (30,61)
+    place:Tracy-le-Mont (43,62)
+    domestic:accomodation (61,63)
+    domestic:rations (39,66)
+    activity:movement (30,72)
+    place:Leon (44,73)
+    time:0900AM (19,74)
+    domestic:other (32,80)
+    activity:enemy_activity (53,84)
+Page 476 (type diary) http://wd3.herokuapp.com/pages/AWD00019oh  ----------
+  1 Oct 1914 0
+    place:Leon (11,29)
+    activity:movement (31,30)
+    activity:fire (63,30)
+    time:0500AM (40,31)
+    unit:L Battery, Royal Horse Artillery (49,34)
+    place:Leon (57,39)
+    person:General (commander) (68,39)
+    activity:reconnoitered (42,43)
+    unit:4 Division Supply Column (45,46)
+    unit:4 Division (39,47)
+    place:Baron (12,50)
+    place:Baron (42,52)
+    activity:movement (30,52)
+    domestic:accomodation (74,58)
+    time:0500PM (63,58)
+    weather:fine (68,63)
+    weather:fine (75,65)
+    activity:movement (31,67)
+    time:0230AM (49,68)
+    domestic:accomodation (30,71)
+    place:Dam-Marten (54,75)
+    place:Dam Marten (12,77)
+    place:Langy (30,82)
+    activity:movement (58,82)
+    activity:movement (61,82)
+    time:0600AM (38,84)
+    domestic:accomodation (47,85)
+    activity:resting (41,92)
+Page 477 (type diary) http://wd3.herokuapp.com/pages/AWD00019o9  ----------
+  1 Oct 1914 0
+    activity:movement (69,30)
+    place:Serrais (10,30)
+    unit:4 Hussars (48,30)
+    place:Brie-Conte-Robert (58,33)
+    time:0430AM (36,35)
+    place:Brie-Comte-Robert (62,36)
+    activity:movement (29,49)
+    time:0600AM (41,50)
+    activity:movement (52,51)
+    place:Ferrieres (64,52)
+    time:1000PM (28,59)
+    activity:movement (58,61)
+    activity:movement (40,68)
+    activity:movement (64,69)
+    time:1000AM (31,69)
+    place:Serrais (52,72)
+    activity:movement (31,75)
+    place:Crecy (41,76)
+    time:1000AM (19,76)
+    weather:fine (35,81)
+    unit:4 Division (52,83)
+    unit:4 Division (62,98)
+Page 478 (type diary) http://wd3.herokuapp.com/pages/AWD00019rx  ----------
+  Hashtags: #horses 
+  1 Oct 1914 0
+    place:Crecy (11,29)
+    activity:movement (29,30)
+    place:Rebais (39,30)
+    unit:B Echelon of 8 Cavalry Brigade horses (7,34)
+    place:Rebais (12,46)
+    time:1000AM (39,49)
+    activity:movement (29,49)
+    place:Sacey (50,49)
+    activity:movement (30,59)
+    unit:3 Cavalry Brigade (36,64)
+    unit:3 Cavalry Brigade (14,64)
+    unit:Iii Cavalry (35,64)
+    domestic:accomodation (46,65)
+    unit:3 Cavalry Brigade (62,66)
+    domestic:rations (66,66)
+    place:Marini-En-Oxois (13,70)
+    place:Marini (11,71)
+    unit:3 Cavalry Brigade (53,75)
+    unit:3 Brigade (52,76)
+    unit:3 Cavalry Brigade (19,77)
+    place:Genevrois (79,78)
+    domestic:rations (51,81)
+    activity:movement (50,86)
+    unit:3 Cavalry Brigade (10,87)
+    place:Bussiers (64,87)
+Page 479 (type diary) http://wd3.herokuapp.com/pages/AWD00019lf  ----------
+  Hashtags: #horses #roadsbad #horseinfection #roadsgood #watersupply #horsestired #no #horsescondition #roadscondition #horsesfit 
+  1 Oct 1914 0
+    unit:No. 7 Field Ambulance (61,29)
+    time:0930PM (38,29)
+    place:Boussiear (10,29)
+    activity:movement (69,32)
+    unit:7 Section (18,36)
+    place:Saint Simeon (46,36)
+    unit:No. 7 Section (35,37)
+    place:Villeneuve-la-George (49,41)
+    place:Boussiers (58,46)
+    activity:movement (47,46)
+    domestic:accomodation (46,49)
+    time:0930PM (39,50)
+  13 Sep 1914 52
+    place:Marini-En-Oxois (44,56)
+    activity:movement (30,56)
+    domestic:accomodation (29,59)
+    weather:fine (71,61)
+    weather:fine (29,64)
+  14 Sep 1914 66
+    place:Marini-En-Oxois (10,68)
+    activity:movement (30,70)
+    unit:No. 7 Section (43,71)
+    place:Breny (56,71)
+    unit:Brigade (39,75)
+    domestic:accomodation (61,75)
+  15 Sep 1914 81
+    place:Breny (10,82)
+    unit:B echelon 3 Cavalry (71,84)
+    place:Braine (52,85)
+    activity:movement (29,85)
+    domestic:accomodation (55,88)
+    weather:fine (45,93)
+Page 480 (type diary) http://wd3.herokuapp.com/pages/AWD00019n9  ----------
+  Hashtags: #ADVS 
+  16 Sep 1914 29
+    unit:Advs 2 Division (42,29)
+    unit:Ii Division (60,29)
+    place:Braine (11,29)
+    unit:Ii Division (24,30)
+    activity:other (30,31)
+    unit:3 Cavalry Brigade (52,34)
+    unit:3 Cavalry Brigade (44,34)
+    place:Lime (67,34)
+    unit:3 Cavalry Brigade (24,35)
+    activity:movement (48,44)
+    domestic:accomodation (53,48)
+  17 Sep 1914 56
+    person:Colonel Butler (other) (53,64)
+    domestic:inspections (40,64)
+  18 Sep 1914 68
+    weather:rain (33,73)
+  19 Sep 1914 75
+    person:Colonel Butler (commander) (47,79)
+    activity:movement (57,79)
+    unit:No. 7 Section (58,88)
+Page 481 (type diary) http://wd3.herokuapp.com/pages/AWD00019k2  ----------
+  Hashtags: #horses #pay 
+  20 Sep 1914 28
+    place:Chateau-Theiry (10,29)
+    weather:cold (35,34)
+  21 Sep 1914 35
+    activity:movement (29,39)
+    time:0730AM (39,40)
+    place:Braine (59,41)
+    place:Fere-En-Tendonois (29,44)
+    place:Braine (64,51)
+    activity:movement (54,51)
+  22 Sep 1914 54
+    time:0600PM (41,55)
+    person:Major (commander) (42,60)
+    unit:3 Cavalry Brigade (55,60)
+    unit:3 Cavalry Brigade (39,63)
+    place:Braine (11,63)
+  23 Sep 1914 64
+    domestic:accomodation (54,70)
+  24 Sep 1914 72
+    domestic:other (29,77)
+    unit:3 Cavalry Brigade (68,79)
+    unit:3 Cavalry Brigade (25,79)
+Page 482 (type diary) http://wd3.herokuapp.com/pages/AWD00019l4  ----------
+  Hashtags: #horses 
+  24 Sep 1914 0
+    place:Braine (8,28)
+  25 Sep 1914 29
+    domestic:rations (64,29)
+    unit:3 Cavalry Brigade (51,30)
+    unit:3 Cavalry Brigade (24,30)
+  26 Sep 1914 35
+    unit:No. 11 Section (63,40)
+  28 Sep 1914 50
+    unit:3 Cavalry Brigade (54,55)
+    unit:3 Cavalry Brigade (23,55)
+  30 Sep 1914 62
+    unit:D Battery Royal Horse Artillery (69,66)
+    unit:No. 7 Section (51,67)
+    activity:movement (43,72)
+    place:Mont-Notre-Dame (10,75)
+    domestic:accomodation (30,75)
+Page 483 (type cover)
+Page 484 (type cover)
+Page 485 (type diary) http://wd3.herokuapp.com/pages/AWD00019oy  ----------
+  Hashtags: #embarked 
+  30 Sep 1914 0
+    place:Woolwich (52,33)
+    activity:movement (52,33)
+    place:Southampton (42,34)
+    time:1230PM (48,34)
+    activity:movement (46,35)
+    time:0500PM (63,35)
+    place:Ss California (51,36)
+    place:Le Havre (53,38)
+    time:0430PM (60,38)
+    activity:movement (46,40)
+    time:1030PM (62,41)
+    place:Le Havre (56,49)
+    place:Gare des Marchandises (52,53)
+    time:0300PM (46,55)
+    activity:other (45,56)
+    activity:movement (47,62)
+    place:Busigny (53,64)
+    place:Busigny (51,68)
+    place:Maubeuge (55,70)
+    place:Wattignes (46,72)
+    activity:movement (54,72)
+    time:0330PM (47,74)
+Page 486 (type diary) http://wd3.herokuapp.com/pages/AWD00019qn  ----------
+  Hashtags: #mislabelled 
+  30 Sep 1914 0
+    place:Wattignes (47,33)
+    place:Maubeuge (62,33)
+    unit:3 Hussars (35,34)
+    place:Wattignes (51,37)
+    unit:4 Cavakry Brigade (35,38)
+    unit:3 Hussars (44,39)
+    unit:4 Cavalry (64,42)
+    unit:4 Cavalry Brigade (64,42)
+    time:1000PM (50,43)
+    time:0700AM (46,45)
+    time:0700AM (50,49)
+    place:Solre-le-Chateau (61,50)
+    place:Maubeuge (63,61)
+    place:Wattignes (46,67)
+    place:Maubeuge (59,67)
+    place:Wattignes (62,72)
+    place:Maubeuge (63,80)
+    unit:1 [Cavalry] Division (64,81)
+    unit:1 Division (60,82)
+    unit:1 Division (39,82)
+Page 487 (type diary) http://wd3.herokuapp.com/pages/AWD00019na  ----------
+  Hashtags: #ADVS 
+  30 Sep 1914 0
+    activity:movement (47,32)
+    unit:1 Division (48,33)
+    time:1100AM (44,34)
+    activity:movement (56,35)
+    unit:Cavalry Division (49,35)
+    unit:Advs Cavalry Division (59,37)
+    unit:Advs Cavalry Division (36,37)
+    place:Mons (47,37)
+    place:Quiverain (63,39)
+    place:Boussu (52,41)
+    domestic:accomodation (46,48)
+    domestic:rations (62,49)
+    activity:movement (47,52)
+    place:Valenciennes (56,52)
+    time:0700AM (51,53)
+    place:Quiverain (48,58)
+    time:1145AM (47,62)
+    activity:movement (55,64)
+    time:0130PM (63,64)
+    place:Solesmes (49,64)
+    time:0500PM (53,73)
+    domestic:accomodation (57,73)
+    place:Solesmes (47,73)
+    domestic:rations (61,75)
+    place:Le Cateau (60,78)
+    activity:movement (47,80)
+    time:1100AM (55,81)
+Page 488 (type diary) http://wd3.herokuapp.com/pages/AWD00019q9  ----------
+  Hashtags: #horses #Veterinary 
+  30 Sep 1914 0
+    domestic:accomodation (44,34)
+    person:Captain Wadley (commander) (47,36)
+    person:Captain Black (commander) (53,36)
+    person:Captain Devine (commander) (57,36)
+    person:Captain Leckie (commander) (62,36)
+    place:Le Cateau (57,40)
+    place:Saint Quentin (62,42)
+    place:Quiverain (60,46)
+    unit:Cavalry Division (46,46)
+    place:Saint Quentin (52,57)
+    activity:movement (47,57)
+    activity:movement (60,58)
+    domestic:accomodation (46,59)
+    place:Cambrai (60,68)
+    unit:4 Division (52,68)
+    unit:4 Division (36,68)
+    activity:movement (47,70)
+    time:0115PM (52,70)
+    place:Saint Quentin (54,72)
+    place:Roupy Ham (45,74)
+    place:Gare Saint Jean (60,74)
+    place:Ham (56,75)
+    time:0315PM (43,76)
+    time:1000PM (60,76)
+    weather:rain (46,78)
+Page 489 (type diary) http://wd3.herokuapp.com/pages/AWD00019jg  ----------
+  Hashtags: #maps 
+  30 Sep 1914 0
+    time:0700AM (61,33)
+    activity:movement (50,33)
+    place:Sempigny (56,34)
+    place:Noyon (47,35)
+    domestic:accomodation (55,36)
+    time:0400PM (49,37)
+    activity:resting (53,39)
+    activity:resting (47,49)
+    unit:4 Cavalry Brigade (64,49)
+    place:Sempigny (50,51)
+    time:0400PM (57,52)
+    activity:movement (46,52)
+    domestic:accomodation (54,55)
+    place:Carlepont (47,56)
+    place:Carlepont (49,59)
+    activity:movement (46,59)
+    unit:4 Division (61,59)
+    domestic:accomodation (62,62)
+    place:Montigny (55,63)
+    unit:4 Cavalry Brigade (46,63)
+    activity:movement (46,67)
+    unit:4 Division (64,67)
+    place:Forest Of Compeigne (61,68)
+    domestic:accomodation (45,70)
+    time:1100PM (50,71)
+    time:0400AM (49,78)
+    activity:fire (54,78)
+Page 490 (type cover)
+Page 491 (type diary) http://wd3.herokuapp.com/pages/AWD00019kv  ----------
+  Hashtags: #privatediary #ADVS #Mis 
+  30 Sep 1914 0
+    place:Euston (37,17)
+    time:1200PM (49,17)
+    place:Curragh (48,24)
+    time:0800PM (60,24)
+    unit:No. 8 Section (37,33)
+    unit:Advs (30,36)
+    unit:Curragh Station Veterinary Hospital (54,46)
+    person:Major W B Edwards (author) (57,5)
+    unit:Advs (32,53)
+    unit:Advs (30,73)
+    person:Captain A Edgar (commander) (63,78)
+    person:Captain A Edgar (commander) (34,83)
+Page 492 (type diary) http://wd3.herokuapp.com/pages/AWD00019jq  ----------
+  Hashtags: #ADVS #paid 
+  30 Sep 1914 0
+    activity:movement (38,42)
+    activity:movement (49,48)
+    place:Le Havre (40,48)
+    weather:rain (53,54)
+    domestic:accomodation (39,57)
+    person:Lieutenant Smith (other) (37,76)
+    place:Boulogne (50,76)
+    activity:movement (41,8)
+    place:Curragh (39,8)
+    place:North Wall (66,8)
+Page 493 (type diary) http://wd3.herokuapp.com/pages/AWD00019ie  ----------
+  Hashtags: #DVS #paid 
+  30 Sep 1914 0
+    time:0900PM (47,17)
+    place:Amiens (61,18)
+    place:Amiens (42,27)
+    time:1100PM (47,27)
+    activity:movement (35,32)
+    unit:No. 7 section avc (60,33)
+    person:Lieutenant I Smith (returned_posted) (52,36)
+    place:Boulogne (35,40)
+    time:0300PM (48,42)
+    unit:3 Division Ammunition Column (36,43)
+    unit:No. 6 Mobile Vety Sect (58,45)
+    activity:movement (46,48)
+    time:0800PM (53,48)
+    place:Rouen (66,49)
+    activity:other (50,5)
+    person:Captain Lake (other) (66,51)
+    activity:movement (36,60)
+    place:Saint Roche (43,61)
+    time:0330PM (55,61)
+    time:1045AM (58,64)
+    place:Rouen (39,70)
+    time:0100AM (45,70)
+    activity:other (36,85)
+    person:Major Arnold (other) (41,89)
+    time:1000PM (41,92)
+Page 494 (type diary) http://wd3.herokuapp.com/pages/AWD00019on  ----------
+  30 Sep 1914 0
+    place:Le Mans (61,25)
+    person:Lieutenant Smith (other) (19,39)
+    place:Le Mans (16,47)
+    place:Le Mans (61,68)
+    time:0200AM (44,75)
+Page 495 (type diary) http://wd3.herokuapp.com/pages/AWD00019rr  ----------
+  30 Sep 1914 0
+    activity:movement (32,30)
+    place:Aldershot (9,30)
+    place:Bulford (66,32)
+    time:0530PM (18,33)
+    activity:movement (31,41)
+    place:Bulford (42,42)
+    time:1030AM (51,42)
+    place:Farnborough (68,43)
+    place:Bulford (9,44)
+    time:0530PM (42,45)
+    unit:14 Hussars (39,73)
+    unit:A.S.C. (69,74)
+    unit:Army Service Corps (70,77)
+Page 496 (type diary) http://wd3.herokuapp.com/pages/AWD00019ql  ----------
+  30 Sep 1914 0
+    place:Bulford (8,37)
+    activity:movement (30,39)
+    place:Bulford (34,39)
+    time:0810AM (17,40)
+    place:Tidworth (57,40)
+    time:1040AM (71,41)
+    place:Southampton (41,44)
+    time:0930AM (16,47)
+    place:Tidworth (8,47)
+    place:Southampton (64,55)
+    time:1240PM (31,58)
+    place:Southampton (10,61)
+    activity:movement (30,62)
+    time:0400PM (56,65)
+    place:Southampton (37,70)
+    time:0514AM (49,71)
+    unit:2 Cavalry Brigade (31,73)
+    person:General De Lisle (commander) (58,77)
+    place:Boulogne (9,81)
+    weather:fine (50,81)
+    time:0545PM (38,85)
+    activity:movement (61,87)
+    place:Pont-de-Bruges (47,91)
+    domestic:accomodation (65,92)
+Page 497 (type diary) http://wd3.herokuapp.com/pages/AWD00019m7  ----------
+  30 Sep 1914 0
+    time:0400PM (17,40)
+    unit:Headquarters (26,41)
+    place:Boulogne (42,46)
+    time:0800PM (51,47)
+    time:1200AM (72,54)
+Page 498 (type diary) http://wd3.herokuapp.com/pages/AWD00019s0  ----------
+  30 Sep 1914 0
+    place:Obreiches (10,28)
+    unit:Ii Cavalry Brigade (22,38)
+    place:Obreiches (10,46)
+    unit:Ii Cavalry Brigade (24,47)
+    activity:movement (69,49)
+    place:Douzies (33,52)
+    domestic:accomodation (71,60)
+    place:Douzies (33,63)
+    unit:No. 10 Mobile Veterinary Section (62,70)
+    activity:movement (30,75)
+    activity:movement (47,80)
+    place:Vallenciennes (61,82)
+    domestic:accomodation (44,84)
+    place:Vallenciennes (8,88)
+    place:Solemes (42,90)
+    activity:movement (28,90)
+Page 499 (type diary) http://wd3.herokuapp.com/pages/AWD00019o7  ----------
+  Hashtags: #horsesfit #roadsbad #roadsgood 
+  30 Sep 1914 0
+    place:Solemes (8,30)
+    activity:movement (31,31)
+    time:0400PM (63,34)
+    weather:fine (32,34)
+    place:Le Cateau (13,42)
+    activity:movement (28,48)
+    place:Saint Quentin (43,48)
+    weather:rain (68,52)
+    activity:movement (28,58)
+    time:1000PM (46,63)
+    domestic:accomodation (53,63)
+    domestic:rations (63,68)
+    place:Ham (10,73)
+    activity:movement (29,77)
+    place:Sempigne (45,77)
+    place:Sempigne (47,81)
+    domestic:accomodation (43,83)
+    domestic:rations (54,89)
+Page 500 (type diary) http://wd3.herokuapp.com/pages/AWD00019kl  ----------
+  Hashtags: #horsesverytired #Duplicate 
+  30 Sep 1914 0
+    place:Sempigne (14,28)
+    unit:Iii Cavalry Brigade (68,29)
+    unit:Lll Cavalry (73,29)
+    place:Les Cloyes (22,38)
+    unit:9 Section (51,42)
+    unit:Iii Cavalry Brigade (65,42)
+    activity:movement (30,43)
+    unit:9 Mobile Veterinary Section (50,45)
+    domestic:accomodation (29,48)
+    unit:Iii Cavalry Brigade (42,52)
+    unit:4 Division (65,57)
+    unit:Ivth Division (28,60)
+    activity:movement (29,62)
+    place:Tracy-le-Mont (52,63)
+    domestic:accomodation (59,64)
+    domestic:rations (41,66)
+    place:Leon (44,72)
+    activity:movement (32,72)
+    time:0900AM (14,75)
+    domestic:accomodation (47,78)
+    activity:enemy_activity (59,85)
+Page 501 (type diary) http://wd3.herokuapp.com/pages/AWD00019nv  ----------
+  Hashtags: #horsestired #menverytired #Duplicate #nery #horses #horsesverytired #roadsgood 
+  30 Sep 1914 0
+    place:Leon (9,28)
+    time:0500AM (39,29)
+    activity:movement (27,30)
+    activity:fire (65,30)
+    unit:L Battery Royal Horse Artillery (48,34)
+    activity:reconnoitered (45,43)
+    unit:4 Division Supply Column (41,46)
+    place:Baron (12,49)
+    activity:movement (29,50)
+    activity:movement (54,58)
+    domestic:accomodation (73,58)
+    weather:fine (68,61)
+    activity:movement (29,67)
+    domestic:accomodation (30,71)
+    place:Dam Marten (58,75)
+    place:Dammarten (9,77)
+    activity:movement (59,81)
+    place:Langy (30,82)
+    domestic:accomodation (47,85)
+Page 502 (type diary) http://wd3.herokuapp.com/pages/AWD00019sr  ----------
+  Hashtags: #roadsgood #Duplicate #watersupply 
+  30 Sep 1914 0
+    place:Serrais (9,29)
+    activity:movement (71,29)
+    unit:4 Hussars (47,29)
+    activity:movement (29,48)
+    place:Ferrieres (62,51)
+    domestic:accomodation (40,53)
+    activity:movement (59,61)
+    activity:movement (55,67)
+    activity:movement (30,74)
+    place:Crecy (44,75)
+    time:1000AM (18,76)
+    weather:fine (34,79)
+    unit:4 Division (51,82)
+    unit:Ivth Division (28,87)
+Page 503 (type diary) http://wd3.herokuapp.com/pages/AWD00019qk  ----------
+  Hashtags: #duplicate #horsescondition 
+  30 Sep 1914 0
+    place:Crecy (11,29)
+    unit:B Echelon, 3 Cavalry Brigade (56,30)
+    unit:3 Cavalry Brigade (72,30)
+    activity:movement (30,31)
+    unit:3 Cavalry Brigade (38,40)
+    place:Rebais (10,46)
+    place:Sacey (49,48)
+    activity:movement (32,49)
+    unit:3 Cavalry Brigade (36,58)
+    activity:movement (30,60)
+    unit:3 Cavalry Brigade (21,62)
+    unit:3 Cavalry Brigade (35,64)
+    domestic:accomodation (45,65)
+    place:Marini (8,70)
+    place:Marini (8,74)
+    unit:3 Cavalry Brigade (52,78)
+    activity:movement (61,79)
+    unit:3 Cavalry Brigade (19,81)
+    domestic:rations (49,82)
+    activity:movement (50,87)
+    place:Bussiers (63,88)
+    domestic:accomodation (78,94)
+Page 504 (type diary) http://wd3.herokuapp.com/pages/AWD00019ng  ----------
+  Hashtags: #roadscondition #horsescondition 
+  12 Sep 1914 25
+    unit:No. 7 Field Ambulance (60,29)
+    activity:movement (70,33)
+    unit:No. 7 Section (35,36)
+    place:Saint Simeon (50,37)
+    domestic:accomodation (46,50)
+  13 Sep 1914 51
+    activity:movement (29,55)
+    domestic:accomodation (30,59)
+    weather:fine (28,62)
+  14 Sep 1914 65
+    unit:No. 7 Section (41,70)
+    activity:movement (29,70)
+    domestic:rations (51,76)
+    domestic:accomodation (62,76)
+  15 Sep 1914 79
+    place:Breny (10,82)
+    activity:movement (27,85)
+    unit:3 Cavalry Brigade (42,88)
+    unit:B Echelon, 3 Cavalry Brigade (30,90)
+    domestic:accomodation (55,90)
+    weather:fine (47,93)
+Page 505 (type diary) http://wd3.herokuapp.com/pages/AWD00019ll  ----------
+  Hashtags: #duplicate #horsescondition 
+  16 Sep 1914 24
+    unit:Ii Division (61,28)
+    unit:Aovs , second Division (47,28)
+    place:Braine (11,28)
+    activity:other (61,31)
+    unit:3 Cavalry Brigade (53,33)
+    place:Lime (67,34)
+    activity:movement (50,43)
+    domestic:accomodation (52,47)
+    place:Fere-En-Tendonois (34,48)
+  17 Sep 1914 52
+    place:Fere-En-Tendonois (10,56)
+    domestic:inspections (41,63)
+    person:Colonel Butler (other) (54,64)
+  18 Sep 1914 67
+    weather:rain (32,72)
+    weather:cold (39,72)
+  19 Sep 1914 73
+    person:Colonel Butler (commander) (48,78)
+    place:Chateau Theiry (69,80)
+    unit:No. 7 Mobile Veterinary Section (58,88)
+    unit:No 7 Section (59,92)
+Page 506 (type diary) http://wd3.herokuapp.com/pages/AWD00019qu  ----------
+  20 Sep 1914 31
+    place:Chateau Theiry (8,31)
+  21 Sep 1914 36
+    activity:movement (55,52)
+  22 Sep 1914 56
+    unit:3 Cavalry Brigade (54,62)
+    place:Braine (10,64)
+  23 Sep 1914 65
+  24 Sep 1914 71
+    unit:3 Brigade (66,80)
+Page 507 (type diary) http://wd3.herokuapp.com/pages/AWD00019le  ----------
+  Hashtags: #duplicate 
+  25 Sep 1914 26
+    place:Braine (12,30)
+    unit:3 Cavalry Brigade (51,31)
+  27 Sep 1914 41
+    unit:11 Section (63,41)
+  28 Sep 1914 50
+    unit:7 Section (33,50)
+    unit:6 Section (31,51)
+    unit:11 Section (36,51)
+  29 Sep 1914 56
+    unit:3 Cavalry Brigade (53,56)
+  30 Sep 1914 62
+    unit:7 Section (52,68)
+    unit:D Battery Royal Horse Artillery (70,69)
+    activity:movement (49,72)
+Page 508 (type cover)
+Page 509 (type cover)
+Page 510 (type diary) http://wd3.herokuapp.com/pages/AWD00019n3  ----------
+  Hashtags: #horsescondition #horsesrations #roadscondition #watersupply 
+  30 Sep 1914 0
+    place:Mont-Notre-Dame (14,29)
+  1 Oct 1914 31
+  2 Oct 1914 42
+    place:Mont-Notre-Dame (13,42)
+    time:0600PM (69,56)
+    activity:movement (33,57)
+    place:Verberie (57,60)
+  3 Oct 1914 63
+    activity:movement (30,68)
+    time:0630AM (53,71)
+    place:Vauciennes (65,71)
+    weather:fine (70,89)
+Page 511 (type diary) http://wd3.herokuapp.com/pages/AWD00019k6  ----------
+  3 Oct 1914 0
+  4 Oct 1914 29
+    time:0645AM (40,29)
+    place:Vaucienne (14,29)
+    activity:movement (29,30)
+    activity:movement (39,31)
+  6 Oct 1914 45
+    place:Estrees-St-Denis (11,45)
+    unit:Ii Cavalry (75,47)
+    activity:movement (33,47)
+    place:Tricot (64,51)
+    activity:movement (40,55)
+    place:Maignelay (35,60)
+    activity:movement (31,61)
+    place:Le Ployron (44,64)
+    place:Saint Just (59,73)
+    activity:movement (48,73)
+    place:St-Just (56,74)
+    unit:3 Cavalry Brigade Supply Column (66,83)
+Page 512 (type diary) http://wd3.herokuapp.com/pages/AWD00019ln  ----------
+  6 Oct 1914 29
+    activity:movement (31,29)
+    place:Saint Just (10,29)
+    place:Ailly-Sur-Noie (49,29)
+    time:0745AM (39,29)
+    activity:movement (59,31)
+    weather:fine (71,33)
+    weather:fine (29,38)
+  7 Oct 1914 43
+    activity:movement (31,44)
+    place:Amiens (57,44)
+    time:0745AM (41,45)
+    unit:3 Cavalry Brigade Supply Column (29,49)
+    unit:3 Cavalry Brigade Supply Column (47,49)
+    activity:movement (68,51)
+  8 Oct 1914 61
+    activity:movement (31,63)
+    place:Hiermont (46,64)
+    time:0800AM (38,64)
+Page 513 (type diary) http://wd3.herokuapp.com/pages/AWD00019jn  ----------
+  9 Oct 1914 28
+    domestic:other (38,30)
+    place:Hiermont (14,30)
+    place:Fleury (44,35)
+    activity:movement (33,35)
+    weather:cold (49,48)
+    weather:fine (36,49)
+  10 Oct 1914 60
+    place:Fleury (12,57)
+    time:0800AM (40,58)
+    place:Fabvin-Palvert (31,67)
+    place:Anvin (39,80)
+Page 514 (type diary) http://wd3.herokuapp.com/pages/AWD00019me  ----------
+  10 Oct 1914 0
+    unit:Ii Cavalry (50,29)
+  11 Oct 1914 30
+    unit:Ii Cavalry Division (57,30)
+    place:Fabvin (12,30)
+    activity:movement (68,30)
+    place:Anvin (30,34)
+    place:Blangy-St-Ternoise (63,43)
+  12 Oct 1914 50
+    place:Fabvin (10,50)
+    time:0500AM (38,55)
+    time:0700AM (55,58)
+    activity:movement (55,58)
+    place:Aire (68,61)
+    domestic:accomodation (40,63)
+  10 Oct 1914 0
+  12 Oct 1914 50
+    unit:Ii Division ammunition column (66,70)
+    domestic:rations (38,70)
+    place:Aire (10,72)
+  13 Oct 1914 73
+    activity:movement (36,76)
+    place:Hazebrouck (51,77)
+    domestic:accomodation (32,82)
+    weather:cold (68,89)
+    weather:rain (71,89)
+Page 515 (type diary) http://wd3.herokuapp.com/pages/AWD00019sj  ----------
+  Hashtags: #Arrest 
+  13 Oct 1914 0
+    time:0715AM (36,29)
+    place:Bethin (62,29)
+    activity:movement (34,29)
+  14 Oct 1914 30
+    place:Hazebrouck (13,30)
+    unit:B Echelon (46,37)
+    place:Kemmel (57,38)
+    domestic:rations (42,41)
+    weather:fine (64,43)
+  15 Oct 1914 44
+    place:Kemmel (13,46)
+    unit:Ii Cavalry Brigade (52,48)
+    activity:movement (31,52)
+    place:Messines (39,53)
+    domestic:rations (34,57)
+    place:Messines (13,62)
+  16 Oct 1914 63
+    unit:16 Lancers (55,70)
+    unit:A Echelon (59,86)
+Page 516 (type diary) http://wd3.herokuapp.com/pages/AWD00019j7  ----------
+  Hashtags: #Hard #Court 
+  17 Oct 1914 25
+    place:Messines (15,28)
+    domestic:discipline (45,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (57,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (38,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (54,46)
+    place:Kemmel (43,52)
+    time:0500PM (55,53)
+  18 Oct 1914 64
+    place:Kemmel (12,64)
+    place:Strazeele (54,84)
+Page 517 (type diary) http://wd3.herokuapp.com/pages/AWD00019lg  ----------
+  19 Oct 1914 24
+    place:Strazeele (15,29)
+    place:Le Havre (62,31)
+    activity:movement (29,35)
+    place:Kemmel (39,36)
+    time:0445PM (60,37)
+  20 Oct 1914 49
+    place:Kemmel (12,49)
+    activity:movement (29,52)
+    place:Wytcheate (60,52)
+    time:0715AM (39,54)
+    activity:movement (53,60)
+    place:Saint Eloi (62,61)
+    unit:B Echelon (66,67)
+    unit:B Echelon (62,74)
+Page 518 (type diary) http://wd3.herokuapp.com/pages/AWD00019lm  ----------
+  21 Oct 1914 26
+    place:Holebecke (13,30)
+    activity:movement (35,31)
+    time:0700AM (52,33)
+    place:Dickebusch (59,38)
+    unit:B Echelon (52,42)
+  22 Oct 1914 46
+    place:Dickebusch (15,49)
+  23 Oct 1914 62
+    place:Dickebusch (48,70)
+  26 Oct 1914 73
+  27 Oct 1914 79
+    place:Ypres (29,87)
+    place:Abbeville (58,91)
+Page 519 (type diary) http://wd3.herokuapp.com/pages/AWD00019ol  ----------
+  28 Oct 1914 28
+    place:Dickebusch (11,29)
+    time:0500AM (38,31)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (36,36)
+    unit:4 Field Hospital (60,38)
+  29 Oct 1914 40
+    place:Saint Eloi (38,44)
+    activity:enemy_activity (42,50)
+  30 Oct 1914 55
+    place:Holbecke (49,55)
+    place:Saint Eloi (15,58)
+    place:Dickebusch (42,63)
+    place:Ypres (60,66)
+    activity:movement (44,66)
+    place:Abbeville (47,70)
+    place:Dickebusch (28,73)
+    place:Dickebusch (10,75)
+  31 Oct 1914 76
+    place:Dickebusch (17,80)
+    place:Ypres (42,87)
+Page 520 (type cover)
+Page 521 (type cover)
+Page 522 (type diary) http://wd3.herokuapp.com/pages/AWD00019qi  ----------
+  1 Nov 1914 27
+    place:Dickebusch (16,29)
+    activity:movement (29,29)
+    domestic:accomodation (54,30)
+    place:Locre (39,31)
+    time:0730AM (47,31)
+  2 Nov 1914 37
+    place:Locre (9,40)
+    activity:movement (45,43)
+    time:0530PM (54,43)
+  3 Nov 1914 52
+    weather:rain (36,52)
+    place:Berthen (11,56)
+    activity:movement (33,57)
+    place:Berthen (45,64)
+  4 Nov 1914 65
+    place:Abbeville (38,75)
+    place:Bailleul (52,76)
+    activity:movement (31,84)
+    place:Berthen (52,87)
+Page 523 (type diary) http://wd3.herokuapp.com/pages/AWD00019tj  ----------
+  5 Nov 1914 24
+    place:Berthen (14,29)
+    activity:movement (30,44)
+    unit:B Echelon (35,50)
+  6 Nov 1914 55
+    unit:Ii Cavalry Division (36,60)
+  7 Nov 1914 71
+    unit:Iii Cavalry Brigade (44,74)
+    activity:movement (29,84)
+    place:Strazeele (38,86)
+Page 524 (type diary) http://wd3.herokuapp.com/pages/AWD00019vi  ----------
+  7 Nov 1914 26
+  8 Nov 1914 41
+    place:Hazebrouck (7,44)
+    place:Berthen (41,46)
+    weather:rain (59,47)
+    activity:resupplying (74,49)
+  9 Nov 1914 54
+    place:Berthen (11,58)
+    unit:Ii Cavalry Brigade (67,61)
+  10 Nov 1914 67
+  11 Nov 1914 73
+    unit:Divisional ambulance (51,79)
+  12 Nov 1914 80
+    activity:movement (54,88)
+Page 525 (type diary) http://wd3.herokuapp.com/pages/AWD00019qv  ----------
+  13 Nov 1914 26
+    place:Hazebrouck (9,29)
+    time:0700AM (51,30)
+    place:Berthen (39,30)
+    activity:movement (30,30)
+    unit:Cavalry Corps (32,35)
+    activity:resupplying (45,35)
+  14 Nov 1914 37
+    place:Berthen (10,40)
+    activity:movement (29,43)
+    place:Noote-Boom (37,44)
+    domestic:accomodation (37,49)
+  15 Nov 1914 51
+    place:Noote-Boom (9,54)
+  16 Nov 1914 61
+  17 Nov 1914 76
+Page 526 (type diary) http://wd3.herokuapp.com/pages/AWD00019lr  ----------
+  17 Nov 1914 25
+    place:Noote-Boom (9,30)
+    place:Bailleul (47,30)
+    activity:movement (32,30)
+    person:Private Warden (other) (81,34)
+    place:Abbeville (31,35)
+  18 Nov 1914 49
+    place:Noote-Boom (10,52)
+    unit:7, 8 & 9 Sections (53,61)
+  19 Nov 1914 67
+Page 527 (type diary) http://wd3.herokuapp.com/pages/AWD00019qg  ----------
+  20 Nov 1914 25
+    activity:movement (64,30)
+    place:Noote-Boom (11,30)
+    place:Steenewerele (32,36)
+    place:Abbeville (67,36)
+  21 Nov 1914 52
+    place:Noote-Boom (10,55)
+    unit:16 Lancers (64,64)
+    domestic:discipline (48,73)
+  22 Nov 1914 75
+    activity:training (58,87)
+Page 528 (type diary) http://wd3.herokuapp.com/pages/AWD00019pe  ----------
+  Hashtags: #watersupply 
+  23 Nov 1914 26
+    place:Noote-Boom (10,30)
+    activity:training (36,30)
+  24 Nov 1914 36
+    place:Abbeville (35,45)
+    activity:movement (30,55)
+    place:Bleu-Tour (38,56)
+  25 Nov 1914 71
+    unit:Cavalry Field Ambulance (35,82)
+Page 529 (type diary) http://wd3.herokuapp.com/pages/AWD00019mr  ----------
+  Hashtags: #horses #horsesrations #horsescondition 
+  26 Nov 1914 26
+    place:Bleu-Tour (12,30)
+    place:Bleu-Tour (8,30)
+    activity:training (59,36)
+  27 Nov 1914 41
+    activity:training (37,48)
+  28 Nov 1914 78
+    activity:training (37,83)
+Page 530 (type diary) http://wd3.herokuapp.com/pages/AWD00019vs  ----------
+  29 Nov 1914 29
+    activity:training (35,35)
+  30 Nov 1914 48
+    activity:training (38,52)
+Page 531 (type cover)
+Page 532 (type cover)
+Page 533 (type diary) http://wd3.herokuapp.com/pages/AWD00019sd  ----------
+  1 Dec 1914 25
+    activity:training (39,28)
+    place:Bleue-Tour (12,31)
+  2 Dec 1914 34
+    activity:training (39,41)
+  3 Dec 1914 47
+    unit:B Echelon (53,52)
+    unit:Iii Cavalry field ambulance (49,57)
+    unit:Ii Cavalry field ambulance (70,70)
+    unit:A Echelon (61,76)
+Page 534 (type diary) http://wd3.herokuapp.com/pages/AWD00019p5  ----------
+  3 Dec 1914 0
+    place:Bleue-Tour (10,28)
+  4 Dec 1914 29
+    unit:B Eschelon (35,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (31,38)
+    activity:casualty (34,39)
+  5 Dec 1914 49
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (70,50)
+  6 Dec 1914 52
+  7 Dec 1914 56
+    unit:A Eschelon (56,56)
+  11 Dec 1914 68
+    activity:training (39,68)
+  12 Dec 1914 73
+    weather:rain (35,74)
+    weather:cold (45,77)
+Page 535 (type diary) http://wd3.herokuapp.com/pages/AWD00019o6  ----------
+  12 Dec 1914 0
+    place:Bleue-Tour (10,29)
+  13 Dec 1914 31
+    unit:Cavalry Corps (59,31)
+    unit:Royal Horse Guards (34,34)
+  14 Dec 1914 41
+  15 Dec 1914 51
+    unit:Cavalry Brigade (64,57)
+  16 Dec 1914 68
+    unit:Ii Cavalry field ambulance (32,80)
+    unit:Ii Cavalry field ambulance (47,84)
+Page 536 (type diary) http://wd3.herokuapp.com/pages/AWD00019sw  ----------
+  16 Dec 1914 0
+    place:Bleue-Tour (13,29)
+    weather:cold (44,36)
+    weather:cold (46,36)
+    unit:B Echelon (55,49)
+  21 Dec 1914 61
+    unit:Ii Cavalry field ambulance (62,63)
+  22 Dec 1914 65
+    unit:A Echelon (27,67)
+    unit:B Echelon (30,67)
+  24 Dec 1914 76
+    unit:Iii Cavalry (69,81)
+    unit:Ii1 Cavalry Brigade (69,82)
+    place:Abbeville (45,88)
+Page 537 (type diary) http://wd3.herokuapp.com/pages/AWD00019qf  ----------
+  24 Dec 1914 0
+    place:Bleue-Tour (15,30)
+  25 Dec 1914 33
+  26 Dec 1914 40
+    weather:rain (50,50)
+  28 Dec 1914 57
+    unit:B Echelon (45,58)
+    unit:A Echelon (42,59)
+    unit:Ii Cavalry field ambulance (61,59)
+  29 Dec 1914 62
+Page 538 (type cover)
+Page 539 (type diary) http://wd3.herokuapp.com/pages/AWD00019o5  ----------
+  31 Dec 1914 0
+    place:Bleue-Tour (14,26)
+  2 Jan 1915 32
+    activity:training (43,33)
+  3 Jan 1915 37
+    unit:A Echelon (55,40)
+    unit:Cavalry Division (42,45)
+  4 Jan 1915 62
+    unit:Cavalry Division (69,67)
+  5 Jan 1915 80
+    unit:16 Lancers (43,83)
+Page 540 (type diary) http://wd3.herokuapp.com/pages/AWD00019m2  ----------
+  6 Jan 1915 30
+    unit:C Squadron 16 (39,29)
+    domestic:inspections (33,29)
+    place:Bleue-Tour (11,29)
+  7 Jan 1915 38
+    unit:A Squadron 16 (38,42)
+  8 Jan 1915 48
+    unit:D Squadron 16 (36,52)
+  9 Jan 1915 56
+    weather:rain (30,58)
+  10 Jan 1915 64
+    person:Sergeant King (departed_posted) (34,66)
+    person:Sergeant Dale (joined) (33,72)
+  11 Jan 1915 73
+Page 541 (type diary) http://wd3.herokuapp.com/pages/AWD00019tg  ----------
+  11 Jan 1915 0
+    place:Bleue-Tour (12,28)
+  12 Jan 1915 29
+    unit:D Battery (58,29)
+    weather:rain (29,30)
+  13 Jan 1915 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (73,36)
+    place:Steenwerck (39,49)
+  14 Jan 1915 57
+    activity:movement (30,60)
+    place:Aire (60,62)
+    unit:B Echelon (43,66)
+  15 Jan 1915 69
+    place:Dohem (47,74)
+    unit:Field Cavalry Ambulance (36,80)
+  16 Jan 1915 81
+    domestic:accomodation (63,88)
+Page 542 (type diary) http://wd3.herokuapp.com/pages/AWD00019r1  ----------
+  17 Jan 1915 23
+    place:Dohem (8,28)
+    activity:training (55,33)
+Page 543 (type diary) http://wd3.herokuapp.com/pages/AWD00019o3  ----------
+  23 Jan 1915 24
+    place:Dohem (10,29)
+  28 Jan 1915 69
+    weather:rain (74,70)
+Page 544 (type diary) http://wd3.herokuapp.com/pages/AWD00019ov  ----------
+  29 Jan 1915 0
+  30 Jan 1915 28
+    place:Dohem (10,29)
+    time:1100PM (43,38)
+  31 Jan 1915 43
+    activity:movement (29,45)
+    weather:rain (62,52)
+    weather:cold (68,52)
+Page 545 (type diary) http://wd3.herokuapp.com/pages/AWD00019mu  ----------
+  1 Feb 1915 27
+    activity:construction (29,29)
+  2 Feb 1915 35
+  4 Feb 1915 51
+  7 Feb 1915 83
+Page 546 (type diary) http://wd3.herokuapp.com/pages/AWD00019p2  ----------
+  8 Feb 1915 32
+    activity:training (62,32)
+  10 Feb 1915 52
+  11 Feb 1915 81
+    domestic:inspections (34,86)
+Page 547 (type diary) http://wd3.herokuapp.com/pages/AWD00019sn  ----------
+  12 Feb 1915 27
+    place:Sec Bois (11,30)
+    unit:Ii1 Cavalry Brigade (73,30)
+  13 Feb 1915 39
+  14 Feb 1915 56
+  15 Feb 1915 70
+Page 548 (type diary) http://wd3.herokuapp.com/pages/AWD00019kd  ----------
+  17 Feb 1915 32
+    place:Sec Bois (8,29)
+  18 Feb 1915 42
+    domestic:inspections (48,52)
+  19 Feb 1915 57
+    domestic:inspections (31,68)
+  20 Feb 1915 71
+    domestic:inspections (61,78)
+Page 549 (type diary) http://wd3.herokuapp.com/pages/AWD00019m5  ----------
+  21 Feb 1915 24
+    domestic:inspections (31,28)
+    place:Sec Bois (9,29)
+  22 Feb 1915 40
+    person:Sergeant Hall (departed_posted) (50,46)
+  23 Feb 1915 53
+    domestic:inspections (30,58)
+  24 Feb 1915 62
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 4; wounded: 0 (29,67)
+  25 Feb 1915 74
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (39,74)
+    activity:movement (48,80)
+    place:Strazeele (35,83)
+Page 550 (type diary) http://wd3.herokuapp.com/pages/AWD00019nu  ----------
+  25 Feb 1915 0
+  28 Feb 1915 51
+    place:Clety (30,59)
+Page 551 (type cover)
+Page 552 (type diary) http://wd3.herokuapp.com/pages/AWD00019np  ----------
+  Hashtags: #horseinfection #roadconditions #roadscondition 
+  1 Mar 1915 24
+    unit:D Battery R.H.A. (43,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (69,30)
+    place:Clety (11,34)
+  2 Mar 1915 41
+    place:Inghem (54,45)
+  3 Mar 1915 52
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (62,59)
+    unit:Hq, ii Cavalry Division (71,60)
+    place:Wizernes (51,72)
+Page 553 (type diary) http://wd3.herokuapp.com/pages/AWD00019jo  ----------
+  Hashtags: #horseinfection 
+  4 Mar 1915 25
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (29,29)
+    unit:H Echelon (40,30)
+    unit:A & B Echelons (38,34)
+    place:Inghem (12,34)
+    domestic:inspections (54,35)
+  5 Mar 1915 39
+    unit:D Battery R.H.A. (39,43)
+    unit:D Battery Royal Horse Artillery (39,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,43)
+  6 Mar 1915 58
+    place:Vieux-Berquin (74,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (27,69)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,71)
+  7 Mar 1915 79
+    domestic:inspections (30,83)
+    unit:Cavalry Field Ambulance (45,85)
+    place:Dohem (65,88)
+    unit:A & B Echelons (75,89)
+    place:Inghem (43,91)
+Page 554 (type diary) http://wd3.herokuapp.com/pages/AWD00019nc  ----------
+  Hashtags: #medical #influenza 
+  8 Mar 1915 24
+    place:Inghem (11,29)
+    unit:Ammunition Column (43,33)
+    unit:Ammunition Column (43,36)
+  9 Mar 1915 38
+    place:Wizernes (32,50)
+  10 Mar 1915 52
+    unit:5 Lancers (52,58)
+    place:Wizernes (37,63)
+  11 Mar 1915 65
+    activity:movement (36,70)
+    place:Inghem (52,72)
+    place:Sec Bois (65,73)
+    person:Sergeant Dale (departed_sick) (35,76)
+    domestic:medical (44,82)
+Page 555 (type diary) http://wd3.herokuapp.com/pages/AWD00019vk  ----------
+  12 Mar 1915 24
+    activity:movement (32,31)
+    place:Sec-Bois (15,35)
+  13 Mar 1915 39
+    place:Hazebrouck (72,46)
+  14 Mar 1915 51
+    place:Sec-Bois (53,52)
+    domestic:inspections (32,57)
+    unit:A Echelon (37,57)
+    unit:B Echelon (42,58)
+    unit:Ii Cavalry ambulance (62,58)
+  16 Mar 1915 81
+    person:Sergeant Dale (returned_hospital) (34,86)
+Page 556 (type diary) http://wd3.herokuapp.com/pages/AWD00019qq  ----------
+  17 Mar 1915 24
+    person:Private Jones (departed_sick) (30,30)
+    place:Hazebrouck (33,40)
+    domestic:parades (59,47)
+  18 Mar 1915 52
+  19 Mar 1915 65
+    domestic:rations (59,66)
+    person:Private Bridges (joined) (71,93)
+Page 557 (type diary) http://wd3.herokuapp.com/pages/AWD00019pj  ----------
+  20 Mar 1915 24
+    person:Private Hardy (promotion) (37,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (50,35)
+  21 Mar 1915 37
+    weather:fine (49,44)
+  22 Mar 1915 47
+    person:Corporal Boyd (departed_posted) (33,52)
+    place:Dieppe (68,54)
+  25 Mar 1915 76
+    unit:2 Cavalry Division ammunition column (61,84)
+Page 558 (type diary) http://wd3.herokuapp.com/pages/AWD00019jz  ----------
+  26 Mar 1915 25
+    place:Hazebrouck (55,30)
+    domestic:inspections (48,35)
+  27 Mar 1915 37
+    place:Hazebrouck (38,48)
+  28 Mar 1915 51
+    activity:other (33,55)
+  29 Mar 1915 60
+    weather:fine (74,60)
+  30 Mar 1915 70
+    domestic:inspections (62,77)
+  31 Mar 1915 79
+    domestic:inspections (45,83)
+    person:Private Clements (departed_sick) (33,91)
+Page 559 (type diary) http://wd3.herokuapp.com/pages/AWD00019jc  ----------
+  1 Apr 1915 25
+    time:0500AM (46,35)
+    domestic:inspections (57,40)
+    time:0200PM (32,44)
+  2 Apr 1915 46
+    person:Private Willis (joined) (31,56)
+  3 Apr 1915 61
+    place:Hazebrouck (71,67)
+  4 Apr 1915 73
+    domestic:inspections (35,78)
+  5 Apr 1915 82
+Page 560 (type diary) http://wd3.herokuapp.com/pages/AWD00019nw  ----------
+  6 Apr 1915 25
+    domestic:inspections (36,30)
+  7 Apr 1915 33
+  8 Apr 1915 44
+  9 Apr 1915 51
+    domestic:inspections (32,53)
+  10 Apr 1915 59
+    time:0200PM (26,69)
+    time:0300PM (33,69)
+  11 Apr 1915 72
+    activity:training (41,78)
+    time:0600AM (47,78)
+    time:0630AM (53,78)
+Page 561 (type diary) http://wd3.herokuapp.com/pages/AWD00019oz  ----------
+  11 Apr 1915 0
+  12 Apr 1915 25
+    domestic:inspections (38,30)
+  13 Apr 1915 43
+  14 Apr 1915 56
+    place:Steenwerck (63,63)
+  15 Apr 1915 75
+    unit:3 Cavalry Brigade (39,79)
+    domestic:parades (39,90)
+Page 562 (type diary) http://wd3.herokuapp.com/pages/AWD00019r5  ----------
+  15 Apr 1915 25
+    place:Hazebrouck (51,36)
+  16 Apr 1915 40
+  21 Apr 1915 63
+    unit:3 Cavalry Brigade (54,70)
+    unit:A Echelon 3 Cavalry Brigade (44,70)
+  22 Apr 1915 76
+  23 Apr 1915 82
+Page 563 (type diary) http://wd3.herokuapp.com/pages/AWD00019nh  ----------
+  23 Apr 1915 0
+  24 Apr 1915 23
+    unit:D Battery Royal Horse Artillery (42,30)
+    place:Hazebrouck (69,42)
+  25 Apr 1915 45
+    weather:fine (52,55)
+  27 Apr 1915 59
+  28 Apr 1915 68
+    person:Private Owens (promotion) (36,72)
+    person:Private Warden (promotion) (57,76)
+  29 Apr 1915 79
+  30 Apr 1915 85
+    activity:other (45,85)
+Page 564 (type diary) http://wd3.herokuapp.com/pages/AWD00019po  ----------
+  1 May 1915 26
+    place:Sec. Bois (31,31)
+    person:Sergeant Dale (other) (43,31)
+  2 May 1915 36
+    activity:other (35,40)
+  4 May 1915 48
+    activity:other (36,48)
+    activity:movement (36,52)
+  5 May 1915 62
+    activity:movement (38,66)
+  6 May 1915 73
+  7 May 1915 81
+    activity:movement (59,86)
+    place:Sec Bois (35,89)
+Page 565 (type diary) http://wd3.herokuapp.com/pages/AWD00019te  ----------
+  7 May 1915 0
+  8 May 1915 25
+    place:Sec Bois (31,29)
+  9 May 1915 36
+    person:Private Mason (departed_posted) (32,41)
+    person:Private Mason (departed_posted) (44,41)
+    place:Neufchatel (65,46)
+    person:Lance Corporal Owens (33,55)
+    person:Lance Corporal Owens (departed_posted) (52,55)
+    person:Private Briddes (departed_sick) (33,71)
+  10 May 1915 73
+    unit:5 Lancers (39,76)
+  11 May 1915 79
+    person:Private Springett (27,82)
+    person:Private Vass (34,87)
+    person:Staff Sergeant Adams (joined) (30,92)
+Page 566 (type diary) http://wd3.herokuapp.com/pages/AWD00019iw  ----------
+  12 May 1915 26
+    place:Sec Bois (29,29)
+    person:Driver A S C Kissick (discipline) (28,33)
+    person:Driver Kissick (discipline) (39,34)
+    unit:Warwickshire Artillery (49,38)
+    unit:D Battery Royal Horse Artillery (49,42)
+  13 May 1915 45
+    unit:Warwick Artillery (43,56)
+    weather:rain (32,62)
+    weather:rain (32,68)
+    person:Sergeant Dale (other) (34,82)
+  17 May 1915 86
+    unit:16 Lancers (41,90)
+Page 567 (type diary) http://wd3.herokuapp.com/pages/AWD00019ru  ----------
+  18 May 1915 27
+    unit:Signals C.C. (46,34)
+    activity:training (43,61)
+    unit:4 Hussars (68,66)
+    activity:training (37,70)
+    activity:training (40,79)
+Page 568 (type diary) http://wd3.herokuapp.com/pages/AWD00019kj  ----------
+  30 May 1915 26
+  31 May 1915 39
+    domestic:accomodation (54,42)
+    activity:movement (33,42)
+Page 569 (type cover)
+Page 570 (type diary) http://wd3.herokuapp.com/pages/AWD00019kq  ----------
+  1 Jun 1915 26
+    person:Private Dine (departed_sick) (27,33)
+  2 Jun 1915 35
+    activity:training (33,39)
+    domestic:inspections (56,39)
+  3 Jun 1915 40
+  5 Jun 1915 49
+    domestic:inspections (34,53)
+  7 Jun 1915 59
+    activity:training (45,62)
+    activity:training (34,63)
+  8 Jun 1915 64
+    person:Brigadier General Vaughan (other) (62,67)
+    domestic:inspections (37,68)
+  9 Jun 1915 70
+  10 Jun 1915 79
+    domestic:inspections (53,83)
+  11 Jun 1915 84
+    unit:3 Cavalry Brigade (65,88)
+  12 Jun 1915 89
+Page 571 (type cover)
+Page 572 (type cover)
+Page 573 (type diary) http://wd3.herokuapp.com/pages/AWD00019p1  ----------
+  8 Jul 1915 5
+    person:Lieutenant Young (departed_posted) (36,22)
+    person:Lieutenant J S Young (departed_posted) (54,23)
+    unit:Leicestershire Yeomanry (46,29)
+    person:Driver J West (joined) (32,38)
+  9 Jul 1915 42
+    unit:Vi dragoon guards (52,43)
+    person:Staff Sergeant O C Greene (joined) (33,50)
+    unit:No 1 mvs (51,56)
+    domestic:inspections (45,63)
+    domestic:inspections (37,63)
+    domestic:inspections (36,68)
+  10 Jul 1915 69
+    person:Private Springett (departed_leave) (38,89)
+Page 574 (type diary) http://wd3.herokuapp.com/pages/AWD00019lz  ----------
+  11 Jul 1915 5
+    activity:training (39,15)
+  12 Jul 1915 21
+    domestic:inspections (49,27)
+    domestic:inspections (36,28)
+  13 Jul 1915 31
+    activity:training (41,38)
+    unit:Iv Hussars (53,41)
+    unit:4 Hussars (45,41)
+    unit:6 Lancers (64,41)
+  14 Jul 1915 43
+    person:Staff Sergeant Dale (departed_posted) (31,49)
+    person:Staff Sergeant R E Dale (departed_posted) (50,50)
+    place:Woolwich (60,57)
+    person:Private G Cook (departed_training) (49,61)
+  15 Jul 1915 78
+    activity:movement (43,86)
+Page 575 (type diary) http://wd3.herokuapp.com/pages/AWD00019ja  ----------
+  15 Jul 1915 4
+    person:Lieutenant Goring (commander) (43,15)
+  17 Jul 1915 26
+    person:Private Springett (returned_leave) (38,34)
+  18 Jul 1915 37
+    unit:D Battery (60,43)
+    unit:16 Lancers (42,48)
+  19 Jul 1915 58
+    domestic:religion (40,58)
+    unit:B Echelon (62,70)
+  20 Jul 1915 71
+    person:Lieutenant T J Faithfull (returned_posted) (39,86)
+  15 Jul 1915 4
+    person:Lieutenant T J Faithfull (departed_posted) (42,9)
+  20 Jul 1915 71
+    unit:No 27 m v s (38,92)
+Page 576 (type diary) http://wd3.herokuapp.com/pages/AWD00019js  ----------
+  21 Jul 1915 5
+    unit:16 Lancers (59,12)
+    person:Lieutenant Goring (other) (36,18)
+  22 Jul 1915 21
+    person:Private Batman (discipline) (52,21)
+    person:Lieutenant Faithfull (commander) (38,22)
+    unit:Base Vet Hosp (61,28)
+  23 Jul 1915 30
+  18 Jul 1915 39
+    person:Private Springett (departed_posted) (62,42)
+    person:Private Springett (departed_posted) (51,42)
+    person:Private Willis (departed_posted) (59,46)
+  24 Jul 1915 52
+    unit:D Battery (53,61)
+    unit:A Echelon (63,61)
+  25 Jul 1915 67
+    person:Sergeant Fyffe (departed_posted) (39,83)
+Page 577 (type diary) http://wd3.herokuapp.com/pages/AWD00019o4  ----------
+  26 Jul 1915 7
+    unit:3 Cavalry (66,15)
+    person:Sergeant Fyffe (other) (38,18)
+    person:Brigadier General Vaughan (other) (38,26)
+    unit:No 3 Vet Hospital (44,29)
+    unit:3 Vet Hosp (56,29)
+    person:Colonel Martin (other) (41,34)
+  27 Jul 1915 37
+    person:Corporal Gold (other) (41,45)
+    person:Lieutenant Hobday (other) (43,55)
+  28 Jul 1915 59
+    unit:3 Cavalry (55,76)
+    unit:3Cavalry Dragoon Guards (56,78)
+Page 578 (type diary) http://wd3.herokuapp.com/pages/AWD00019jm  ----------
+  29 Jul 1915 4
+    person:Brigadier General Vaughan (other) (33,21)
+  30 Jul 1915 23
+    person:Gold (promotion) (35,32)
+    person:Lance Corporal J W Gold (promotion) (46,32)
+    activity:training (39,42)
+    activity:training (44,49)
+  31 Jul 1915 50
+    person:Private Woodruff (discipline) (38,63)
+Page 579 (type diary) http://wd3.herokuapp.com/pages/AWD00019sc  ----------
+  1 Aug 1915 4
+    person:Private Vais (returned_leave) (32,13)
+    domestic:religion (33,14)
+    person:Corporal Hardy (returned_posted) (34,23)
+    person:Private Batten (awol) (44,27)
+  2 Aug 1915 31
+    person:Private W Lucas (joined) (43,39)
+    person:Private A Osborn (joined) (57,39)
+    person:Private W Lucas (joined) (32,39)
+    person:Private E Matthews (joined) (44,47)
+    person:Private Batten (discipline) (34,55)
+    person:Corporal Hardy (departed_sick) (37,63)
+    activity:training (49,68)
+  3 Aug 1915 71
+  4 Aug 1915 80
+Page 580 (type diary) http://wd3.herokuapp.com/pages/AWD00019p4  ----------
+  Hashtags: #Court 
+  5 Aug 1915 3
+    person:Private Batten (discipline) (42,11)
+  6 Aug 1915 20
+    activity:movement (35,28)
+    place:Nieppe (38,29)
+    place:Nieppe (41,32)
+  7 Aug 1915 35
+    person:Sergeant Compton (promotion) (39,42)
+    person:Corporal Hardy (returned_hospital) (37,50)
+    unit:No 20 Clearing Hospital (64,52)
+    unit:A + B Echelon (47,59)
+  8 Aug 1915 61
+    domestic:religion (40,68)
+  9 Aug 1915 69
+    person:Sergeant Bradley (joined) (40,77)
+  10 Aug 1915 81
+    activity:training (39,90)
+    person:Staff Sergeant Compton (departed_posted) (36,95)
+Page 581 (type diary) http://wd3.herokuapp.com/pages/AWD00019l8  ----------
+  11 Aug 1915 3
+    unit:B Echelon (58,11)
+    person:Private Fairhead (departed_leave) (36,16)
+    person:Colonel Martin (other) (32,19)
+    person:Colonel Martin (other) (48,19)
+  12 Aug 1915 23
+    person:Private O T Allen (joined) (41,32)
+    unit:B EchelonNo 10 Base Vet Hosp (44,42)
+  13 Aug 1915 43
+    activity:training (37,51)
+    unit:1 Cavalry Corps (54,54)
+    unit:2 Cavalry Corps (64,54)
+    unit:A Echelon (53,58)
+  14 Aug 1915 72
+    unit:Field Reg Depot (42,82)
+Page 582 (type diary) http://wd3.herokuapp.com/pages/AWD00019ne  ----------
+  15 Aug 1915 4
+  16 Aug 1915 14
+    unit:Signal Troop 3 Battery (65,22)
+  17 Aug 1915 27
+    activity:training (39,35)
+  18 Aug 1915 37
+    person:Private Fairhead (returned_leave) (37,48)
+  19 Aug 1915 49
+  20 Aug 1915 68
+    activity:training (41,75)
+    unit:Cavalry corpe hq (41,82)
+  21 Aug 1915 84
+Page 583 (type diary) http://wd3.herokuapp.com/pages/AWD00019pw  ----------
+  22 Aug 1915 1
+    unit:4 Hussars (56,11)
+    person:Corporal Gold (returned_posted) (36,14)
+  23 Aug 1915 20
+    person:Lieutenant General Fanshawe (other) (33,28)
+    person:Brigadier General Tagart (other) (62,28)
+    person:Colonel Martin (other) (60,31)
+    unit:4 Hussars (57,39)
+    unit:Brigade hq (48,42)
+  24 Aug 1915 50
+  25 Aug 1915 58
+    person:Colonel Chance (other) (59,78)
+    unit:2 Cavalry Division (48,80)
+    person:Private Kissach (returned_leave) (33,86)
+Page 584 (type diary) http://wd3.herokuapp.com/pages/AWD00019iu  ----------
+  26 Aug 1915 1
+    unit:Vth Lancers (65,21)
+  27 Aug 1915 24
+    unit:Iv Hussars (61,25)
+  28 Aug 1915 40
+  29 Aug 1915 52
+    unit:Iv Hussars (60,64)
+  30 Aug 1915 65
+    unit:V Lancers (59,74)
+    person:Corporal Vass (35,77)
+    person:Private Chapman (departed_sick) (36,81)
+Page 585 (type diary) http://wd3.herokuapp.com/pages/AWD00019mj  ----------
+  31 Aug 1915 1
+    unit:V Lancers (55,15)
+    person:Major Musgrave (other) (44,18)
+    person:Private Batten (discipline) (38,25)
+  1 Sep 1915 29
+    person:Private Bowes (departed_leave) (35,37)
+    unit:2 Cavalry Division (54,45)
+    unit:Xv lancers (45,48)
+    unit:Iv Hussars (66,48)
+  2 Sep 1915 53
+    unit:2 Cavalry Division (60,62)
+  3 Sep 1915 74
+Page 586 (type diary) http://wd3.herokuapp.com/pages/AWD00019rv  ----------
+  4 Sep 1915 1
+    unit:V Lancers (59,15)
+  5 Sep 1915 18
+  6 Sep 1915 33
+    activity:training (39,47)
+  7 Sep 1915 52
+    person:Vass (promotion) (55,53)
+    unit:2 Cavalry Division (65,60)
+  8 Sep 1915 66
+    unit:Iv Hussars (65,74)
+  4 Sep 1915 1
+  8 Sep 1915 66
+    person:Staff Sergeant Green (departed_sick) (34,95)
+Page 587 (type diary) http://wd3.herokuapp.com/pages/AWD00019re  ----------
+  9 Sep 1915 1
+    unit:V Lancers (64,10)
+    unit:Iv Hussars (50,15)
+  10 Sep 1915 35
+    person:Private Batten (departed_posted) (37,43)
+  11 Sep 1915 49
+  12 Sep 1915 66
+    person:Private Compton (returned_leave) (36,73)
+Page 588 (type diary) http://wd3.herokuapp.com/pages/AWD00019ow  ----------
+  13 Sep 1915 3
+    person:Colonel Martin (other) (53,10)
+    activity:other (44,22)
+  14 Sep 1915 27
+    person:Brigadier General Vaughan (other) (53,37)
+  15 Sep 1915 44
+    person:Private Carter (departed_training) (44,52)
+    person:Private Fairhead (discipline) (43,58)
+    unit:Field Prison (35,61)
+  16 Sep 1915 63
+  17 Sep 1915 76
+Page 589 (type diary) http://wd3.herokuapp.com/pages/AWD00019pc  ----------
+  18 Sep 1915 3
+  19 Sep 1915 23
+  20 Sep 1915 32
+    unit:5 Cavalry Corps (57,40)
+    unit:V Lancers (48,43)
+    unit:Iv Hussars (45,48)
+  21 Sep 1915 54
+    place:Mametz (61,57)
+    place:Rocquetoir (36,77)
+    unit:2 Cavalry (40,92)
+Page 590 (type diary) http://wd3.herokuapp.com/pages/AWD00019ks  ----------
+  22 Sep 1915 3
+  23 Sep 1915 31
+  24 Sep 1915 44
+    activity:movement (52,60)
+    place:Monchy (64,66)
+    place:Blanche (39,67)
+    time:0330AM (51,69)
+  22 Sep 1915 3
+  24 Sep 1915 44
+    person:Major Leyland (commander) (39,73)
+    place:Mametz (62,79)
+Page 591 (type diary) http://wd3.herokuapp.com/pages/AWD00019kk  ----------
+  24 Sep 1915 5
+  25 Sep 1915 27
+    place:Monchy (60,32)
+    time:1200AM (29,40)
+  26 Sep 1915 47
+  27 Sep 1915 73
+Page 592 (type diary) http://wd3.herokuapp.com/pages/AWD00019mv  ----------
+  27 Sep 1915 3
+  28 Sep 1915 15
+    time:0535AM (59,25)
+  29 Sep 1915 41
+    place:Ferfay (60,43)
+    place:Ferfay (34,50)
+    place:Lozinghem (58,55)
+    person:General Chetwood (other) (42,69)
+  30 Sep 1915 75
+    place:Lozinghem (40,91)
+Page 593 (type diary) http://wd3.herokuapp.com/pages/AWD00019jb  ----------
+  30 Sep 1915 4
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (36,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (32,34)
+Page 594 (type diary) http://wd3.herokuapp.com/pages/AWD00019t1  ----------
+  1 Oct 1915 4
+    person:Colonel Martin (other) (36,12)
+    person:Major Hunt (other) (49,14)
+  2 Oct 1915 26
+    time:0330PM (31,35)
+  3 Oct 1915 39
+    time:1245PM (54,54)
+    activity:movement (42,55)
+    time:0430PM (60,65)
+  4 Oct 1915 66
+  5 Oct 1915 75
+    place:Marles (48,82)
+    person:Brigadier General Vaughan (other) (60,84)
+    person:Colonel Martin (other) (35,87)
+Page 595 (type diary) http://wd3.herokuapp.com/pages/AWD00019no  ----------
+  5 Oct 1915 0
+  8 Oct 1915 34
+    unit:V Lancers (61,40)
+    person:Colonel Martin (other) (38,46)
+    person:Major Hunt (other) (50,46)
+    unit:Field Prison No 2 (64,48)
+    person:Private Woods (discipline) (45,49)
+    unit:2 Cavalry Division (59,58)
+    unit:No 9 M V S (44,86)
+Page 596 (type diary) http://wd3.herokuapp.com/pages/AWD00019nd  ----------
+  Hashtags: #Court 
+  11 Oct 1915 2
+    unit:2 Cavalry Division (65,34)
+    unit:2 Field Signals Co (52,38)
+  12 Oct 1915 41
+    place:Berguette (64,48)
+    unit:Iv Hussars (56,56)
+  13 Oct 1915 65
+    person:Major Leyland (other) (60,75)
+    unit:7 Husars (38,80)
+Page 597 (type diary) http://wd3.herokuapp.com/pages/AWD00019tk  ----------
+  Hashtags: #Court 
+  14 Oct 1915 1
+    person:Vaughan (other) (62,11)
+  15 Oct 1915 34
+  16 Oct 1915 50
+  17 Oct 1915 62
+    activity:movement (41,69)
+    place:Rombly (36,73)
+  18 Oct 1915 76
+    person:Sergeant R Fyffe (discipline) (57,86)
+    place:Bellery (41,89)
+  14 Oct 1915 1
+  18 Oct 1915 76
+Page 598 (type diary) http://wd3.herokuapp.com/pages/AWD00019kf  ----------
+  Hashtags: #Court 
+  19 Oct 1915 3
+    activity:other (39,12)
+  20 Oct 1915 27
+    activity:other (44,37)
+  21 Oct 1915 47
+    place:Nedon (66,62)
+    person:Sergeant Fyffe (discipline) (36,82)
+Page 599 (type diary) http://wd3.herokuapp.com/pages/AWD00019ss  ----------
+  22 Oct 1915 1
+    activity:other (39,11)
+  23 Oct 1915 14
+    activity:other (41,26)
+  24 Oct 1915 30
+  25 Oct 1915 46
+    activity:other (42,55)
+  26 Oct 1915 62
+    activity:other (44,70)
+  27 Oct 1915 74
+    unit:Iv husars (65,85)
+    activity:other (42,85)
+Page 600 (type diary) http://wd3.herokuapp.com/pages/AWD00019q4  ----------
+  28 Oct 1915 2
+    person:Private Sumner (discipline) (52,10)
+    activity:other (35,11)
+  29 Oct 1915 13
+    person:Private Woodruff (discipline) (52,13)
+    person:Private Fyffe (discipline) (59,16)
+    person:Private Fyffe (discipline) (61,17)
+    unit:J Battery Royal Horse Artillery (64,30)
+    unit:G Battery R.H.A. (60,31)
+    person:Corporal R Jukes (promotion) (38,35)
+  30 Oct 1915 38
+    activity:other (36,47)
+  31 Oct 1915 49
+    domestic:religion (34,58)
+    domestic:religion (43,58)
+Page 601 (type diary) http://wd3.herokuapp.com/pages/AWD00019nm  ----------
+  1 Nov 1915 7
+    person:Corporal Hardy (other) (37,15)
+    person:Major Musgrave (other) (61,18)
+    person:Captain Leith Ross (other) (37,19)
+    unit:Xvi lancers (62,32)
+  3 Nov 1915 71
+    unit:V Lancers (46,84)
+    unit:Iv Hussars (62,87)
+  1 Nov 1915 7
+  3 Nov 1915 71
+Page 602 (type diary) http://wd3.herokuapp.com/pages/AWD00019mw  ----------
+  4 Nov 1915 2
+    activity:other (41,16)
+  5 Nov 1915 29
+    unit:5 Lancers (57,38)
+    activity:other (41,39)
+  6 Nov 1915 41
+    activity:other (39,48)
+  7 Nov 1915 51
+    activity:other (41,63)
+  8 Nov 1915 69
+    activity:other (40,79)
+    person:Sergeant Bradley (departed_sick) (42,90)
+Page 603 (type diary) http://wd3.herokuapp.com/pages/AWD00019qp  ----------
+  9 Nov 1915 1
+    person:Private Chessman (returned_leave) (36,33)
+  10 Nov 1915 34
+    unit:3 Cavalry Division (40,45)
+    activity:other (47,61)
+  11 Nov 1915 71
+    unit:16 Lancer (45,78)
+    unit:Xvi lancers (48,78)
+    activity:other (47,82)
+Page 604 (type diary) http://wd3.herokuapp.com/pages/AWD00019ta  ----------
+  12 Nov 1915 1
+    place:Morbecque (46,14)
+    activity:other (52,16)
+    person:Sergeant Bradley (returned_hospital) (36,21)
+    place:Aire (42,24)
+  13 Nov 1915 25
+    activity:other (43,38)
+  14 Nov 1915 55
+    activity:other (38,66)
+    place:Westrehem (64,68)
+    place:Robecq (47,71)
+    place:Cantraine (54,73)
+  15 Nov 1915 74
+    activity:other (49,84)
+    unit:5 Lancers (36,86)
+Page 605 (type diary) http://wd3.herokuapp.com/pages/AWD00019pd  ----------
+  16 Nov 1915 3
+    person:Lieutenant T J Faithfull (departed_leave) (33,11)
+    person:Captain J S Young (commander) (54,14)
+    activity:other (42,21)
+    unit:40 Pathans (36,24)
+  17 Nov 1915 30
+    activity:movement (40,36)
+    place:Campagnette (64,36)
+    domestic:accomodation (55,36)
+  18 Nov 1915 38
+    domestic:accomodation (56,48)
+    activity:other (52,49)
+  19 Nov 1915 54
+    person:Lance Corporal Vass (other) (38,61)
+    unit:16 L (47,65)
+  20 Nov 1915 67
+    person:Lance Corporal Vass (other) (50,74)
+    unit:1 Army (46,79)
+    unit:3 Car Brigade (59,80)
+    unit:3 Cavalry Bgde (63,80)
+    unit:3 Car Brigade (42,86)
+    unit:5 L (35,88)
+    person:Lance Corporal Jukes (promotion) (36,92)
+    person:Corporal Gold (promotion) (36,95)
+Page 606 (type diary) http://wd3.herokuapp.com/pages/AWD00019kc  ----------
+  21 Nov 1915 3
+    activity:other (41,14)
+  22 Nov 1915 24
+    activity:other (48,33)
+    domestic:accomodation (47,33)
+    unit:No9 mvs (58,36)
+  23 Nov 1915 42
+    activity:other (39,51)
+  24 Nov 1915 55
+    activity:other (39,63)
+    unit:Field Prison No 1 (66,67)
+    person:Private Fyffe (discipline) (38,67)
+    person:Private Turner (joined) (41,71)
+  25 Nov 1915 74
+    person:Lieutenant T J Faithfull (returned_leave) (34,82)
+    activity:other (38,86)
+  21 Nov 1915 3
+    activity:movement (37,9)
+    domestic:accomodation (46,9)
+    place:Grand Manillet (55,9)
+Page 607 (type diary) http://wd3.herokuapp.com/pages/AWD00019oe  ----------
+  25 Nov 1915 3
+    person:Sergeant Gold (departed_posted) (36,10)
+    person:Corporal Hardy (departed_posted) (54,10)
+    person:Private Walker (departed_posted) (52,13)
+    person:Private Chessman (departed_posted) (65,13)
+    person:Private Vass (departed_posted) (37,14)
+    person:Private Chaplin (departed_posted) (38,16)
+    person:Private Sumner (departed_posted) (54,16)
+    person:Private Fairhead (departed_posted) (67,17)
+    person:Private Fyffe (38,24)
+    person:Sergeant W Houston (joined) (35,36)
+    person:Corporal Waterton (joined) (61,36)
+    person:Private Adler (joined) (48,39)
+    person:Private Fryer (joined) (57,39)
+    person:Private Gordon (joined) (40,43)
+    person:Private Lacey (joined) (54,43)
+    person:Private Lloyd (joined) (66,43)
+    person:Private Refoy (joined) (33,45)
+    unit:V Lancers (65,50)
+    activity:other (42,50)
+  26 Nov 1915 51
+    activity:other (44,60)
+  27 Nov 1915 67
+    person:Corporal Warterton (other) (40,75)
+  28 Nov 1915 80
+    person:Private Osborne (promotion) (60,85)
+    person:Private Lucas (promotion) (41,87)
+Page 608 (type diary) http://wd3.herokuapp.com/pages/AWD00019kz  ----------
+  Hashtags: #Gas 
+  28 Nov 1915 7
+    domestic:religion (41,23)
+  29 Nov 1915 26
+  30 Nov 1915 47
+    unit:V Lancers (57,54)
+Page 609 (type diary) http://wd3.herokuapp.com/pages/AWD00019v9  ----------
+  1 Dec 1915 1
+    activity:other (40,18)
+    domestic:inspections (40,22)
+  2 Dec 1915 26
+    person:Sergeant G Bradley (departed_leave) (38,35)
+    activity:training (42,53)
+  3 Dec 1915 56
+    activity:other (38,64)
+  1 Dec 1915 1
+  4 Dec 1915 66
+    activity:other (39,76)
+  5 Dec 1915 84
+    activity:other (38,93)
+Page 610 (type diary) http://wd3.herokuapp.com/pages/AWD00019jl  ----------
+  6 Dec 1915 2
+    activity:other (44,13)
+    unit:Xvi lancers (64,20)
+    activity:training (39,25)
+  7 Dec 1915 27
+    unit:Iv Hussars (61,39)
+    unit:V Lancers (42,40)
+  8 Dec 1915 53
+    activity:other (39,61)
+    activity:training (36,64)
+  9 Dec 1915 66
+    person:Sergeant Bradley (returned_leave) (37,73)
+    activity:training (39,78)
+  10 Dec 1915 80
+    activity:other (44,88)
+Page 611 (type diary) http://wd3.herokuapp.com/pages/AWD00019qo  ----------
+  13 Dec 1915 5
+    person:Private Turner (departed_leave) (38,12)
+    place:Neufchatel (52,14)
+    activity:other (36,19)
+  14 Dec 1915 20
+    activity:other (39,31)
+    activity:training (38,40)
+  15 Dec 1915 41
+    activity:other (41,49)
+  16 Dec 1915 53
+  17 Dec 1915 81
+    activity:other (40,89)
+Page 612 (type diary) http://wd3.herokuapp.com/pages/AWD00019qe  ----------
+  18 Dec 1915 3
+    person:Private Fryer (departed_leave) (39,10)
+  19 Dec 1915 13
+    activity:other (38,21)
+  20 Dec 1915 25
+    person:Private Lucas (departed_leave) (40,43)
+  21 Dec 1915 50
+    person:Private Turner (returned_leave) (40,51)
+    activity:other (37,59)
+  22 Dec 1915 62
+    activity:other (42,69)
+  23 Dec 1915 75
+    domestic:inspections (43,83)
+Page 613 (type diary) http://wd3.herokuapp.com/pages/AWD00019iq  ----------
+  24 Dec 1915 4
+    activity:other (41,13)
+    person:Private Fryer (returned_leave) (37,23)
+    person:Private Woodruff (discipline) (38,28)
+    unit:Field Prison No 2 (58,33)
+    person:Private Lacey (discipline) (40,39)
+  25 Dec 1915 41
+    activity:other (37,52)
+  26 Dec 1915 55
+    activity:other (38,64)
+    person:Private Lucas (returned_leave) (39,68)
+    person:Private Lloyd (departed_leave) (38,71)
+  27 Dec 1915 76
+    activity:other (37,84)
+    activity:training (38,94)
+Page 614 (type diary) http://wd3.herokuapp.com/pages/AWD00019tb  ----------
+  28 Dec 1915 2
+    unit:V Lancers (49,24)
+  29 Dec 1915 30
+    person:Staff Sergeant Lambert (departed_posted) (47,38)
+    person:Benstead (joined) (38,41)
+    person:Benstead (joined) (52,41)
+  30 Dec 1915 61
+  31 Dec 1915 66
+    activity:training (38,74)
+Page 615 (type diary) http://wd3.herokuapp.com/pages/AWD00019pi  ----------
+  1 Jan 1916 4
+    place:Williametz (60,13)
+    activity:other (39,19)
+  2 Jan 1916 31
+    activity:other (41,39)
+    person:Private Lucas (other) (37,53)
+    place:Wizernes (63,54)
+  1 Jan 1916 4
+  3 Jan 1916 64
+    activity:other (37,76)
+  1 Jan 1916 4
+  3 Jan 1916 64
+Page 616 (type diary) http://wd3.herokuapp.com/pages/AWD00019t9  ----------
+  4 Jan 1916 4
+    activity:other (40,13)
+  5 Jan 1916 18
+    activity:training (41,31)
+  6 Jan 1916 35
+    activity:training (42,43)
+  7 Jan 1916 45
+  8 Jan 1916 64
+    activity:other (40,72)
+    person:Private Smith (other) (38,95)
+Page 617 (type diary) http://wd3.herokuapp.com/pages/AWD00019oo  ----------
+  9 Jan 1916 3
+    activity:other (41,10)
+  10 Jan 1916 13
+    activity:other (39,20)
+  11 Jan 1916 26
+    domestic:parades (39,33)
+  12 Jan 1916 34
+    activity:other (38,42)
+  13 Jan 1916 45
+    person:Private Compton (departed_posted) (38,52)
+  14 Jan 1916 58
+  15 Jan 1916 76
+    activity:other (40,86)
+Page 618 (type ) http://wd3.herokuapp.com/pages/AWD00019u4  ----------
+  Hashtags: #Shellshock #shellshock 
+  19 Jan 1916 6
+    person:Private Woodruff (departed_leave) (39,35)
+    person:Private Beacham (departed_leave) (54,35)
+    person:Private Smith (departed_leave) (40,51)
+    person:General Gough (other) (46,60)
+  23 Jan 1916 83
+Page 619 (type diary) http://wd3.herokuapp.com/pages/AWD00019km  ----------
+  25 Jan 1916 6
+    unit:V Lancers (60,13)
+    unit:Xvi lancers (64,18)
+    unit:3 Cavalry Brigade (54,31)
+  26 Jan 1916 36
+    person:Private Woodruff (returned_leave) (39,42)
+  27 Jan 1916 46
+    person:Private Beacham (returned_leave) (39,53)
+  28 Jan 1916 68
+    activity:other (36,82)
+  29 Jan 1916 88
+    activity:other (48,92)
+Page 620 (type diary) http://wd3.herokuapp.com/pages/AWD00019ju  ----------
+  30 Jan 1916 5
+  31 Jan 1916 15
+    person:Private Fryer (other) (36,21)
+    person:Private Compton (54,24)
+Page 621 (type diary) http://wd3.herokuapp.com/pages/AWD00019s8  ----------
+  1 Feb 1916 6
+  2 Feb 1916 18
+  3 Feb 1916 30
+  4 Feb 1916 63
+Page 622 (type diary) http://wd3.herokuapp.com/pages/AWD00019nl  ----------
+  5 Feb 1916 4
+    unit:B Echelon 3 Cavalry Brigade (48,14)
+    unit:3 Cavalry Brigade (39,15)
+  6 Feb 1916 17
+    activity:other (38,25)
+  10 Feb 1916 32
+    person:Private F Turner (discipline) (41,61)
+  11 Feb 1916 69
+    person:Private Crocker (returned_leave) (43,76)
+  12 Feb 1916 80
+    unit:4 Hussars (59,85)
+    person:Private West (departed_leave) (40,89)
+    person:Sergeant Bradley (other) (57,92)
+    place:Wizernes (40,95)
+Page 623 (type diary) http://wd3.herokuapp.com/pages/AWD00019rw  ----------
+  13 Feb 1916 4
+    activity:other (37,10)
+  15 Feb 1916 25
+    activity:other (40,31)
+  16 Feb 1916 33
+    person:Private Fryer (other) (41,41)
+  17 Feb 1916 46
+    unit:5 Hussars (62,46)
+    unit:16 Lancers (36,52)
+  20 Feb 1916 54
+    person:Sergeant Houston (departed_leave) (38,59)
+  21 Feb 1916 60
+  22 Feb 1916 71
+    activity:other (45,80)
+    unit:13 Base Vet Hosp (44,88)
+Page 624 (type diary) http://wd3.herokuapp.com/pages/AWD00019ob  ----------
+  23 Feb 1916 2
+    activity:other (40,12)
+    activity:training (35,17)
+  24 Feb 1916 18
+    unit:V Lancers (47,39)
+  25 Feb 1916 46
+    activity:other (38,55)
+  26 Feb 1916 60
+    activity:other (43,67)
+  28 Feb 1916 70
+    activity:other (42,79)
+  29 Feb 1916 83
+    activity:other (38,92)
+Page 625 (type diary) http://wd3.herokuapp.com/pages/AWD00019t6  ----------
+  1 Mar 1916 7
+    person:Sergeant W G Bradley (departed_posted) (35,16)
+    unit:V Lancers (41,46)
+    unit:Xvi lancers (56,46)
+  2 Mar 1916 67
+    activity:other (37,76)
+    unit:3 Cavalry Bgde (38,84)
+  4 Mar 1916 86
+    activity:other (36,91)
+Page 626 (type diary) http://wd3.herokuapp.com/pages/AWD00019px  ----------
+  6 Mar 1916 5
+    unit:Iv Hussars (50,11)
+    unit:3 Cavalry Bgde (38,17)
+    unit:V Lancers (39,27)
+  7 Mar 1916 40
+    activity:other (35,46)
+  8 Mar 1916 50
+    unit:Machine Gun Squadron (56,55)
+  9 Mar 1916 63
+    activity:other (41,71)
+  10 Mar 1916 77
+    activity:other (42,84)
+    unit:9 Labour Bttn (58,87)
+Page 627 (type diary) http://wd3.herokuapp.com/pages/AWD00019ly  ----------
+  11 Mar 1916 2
+    activity:other (43,11)
+  13 Mar 1916 16
+    activity:other (40,29)
+    unit:9 Labour Bttn (49,33)
+  14 Mar 1916 34
+  15 Mar 1916 64
+    activity:other (39,72)
+  16 Mar 1916 74
+    unit:3 Cavalry Bgde (55,82)
+    activity:other (41,83)
+  17 Mar 1916 86
+    activity:other (42,91)
+Page 628 (type diary) http://wd3.herokuapp.com/pages/AWD00019qy  ----------
+  22 Mar 1916 2
+  23 Mar 1916 25
+    person:Corporal R Jukes (departed_leave) (39,33)
+    person:Private Dudley (joined) (39,43)
+    person:Private Latham (joined) (56,43)
+    person:Private Whitehead (joined) (43,47)
+  28 Mar 1916 52
+    activity:other (38,61)
+    person:Captain Faithfull (returned_posted) (33,63)
+  29 Mar 1916 65
+    activity:other (40,75)
+    person:Private Sloggat (returned_leave) (42,88)
+    person:Private Matthews (promotion) (33,95)
+Page 629 (type diary) http://wd3.herokuapp.com/pages/AWD00019pq  ----------
+  1 Apr 1916 4
+    person:Corporal Waterton (departed_leave) (38,13)
+    activity:training (59,15)
+  2 Apr 1916 18
+    activity:other (39,26)
+  3 Apr 1916 29
+    unit:Xvi lancers (58,36)
+    activity:training (35,39)
+  4 Apr 1916 40
+    activity:other (41,46)
+    unit:3 Machine Gun Squadron (61,46)
+  5 Apr 1916 48
+  6 Apr 1916 82
+    activity:training (38,89)
+    unit:V Lancers (48,93)
+Page 630 (type diary) http://wd3.herokuapp.com/pages/AWD00019jr  ----------
+  7 Apr 1916 8
+    person:Private Compton (returned_training) (39,15)
+  8 Apr 1916 26
+    unit:Cyclist Squadron (52,32)
+    unit:3 Machine Gun Squadron (49,40)
+    activity:training (39,48)
+  9 Apr 1916 52
+    activity:other (40,58)
+  10 Apr 1916 62
+    activity:training (41,79)
+  11 Apr 1916 82
+    activity:other (40,88)
+    unit:3 Cavalry Brigade (59,93)
+Page 631 (type diary) http://wd3.herokuapp.com/pages/AWD00019q7  ----------
+  12 Apr 1916 6
+    activity:other (40,15)
+  13 Apr 1916 24
+    person:Private Whitehead (departed_leave) (33,32)
+    person:Private Whitehead (departed_leave) (44,32)
+  14 Apr 1916 61
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (61,62)
+    activity:other (44,67)
+    person:Corporal Lucas (other) (54,71)
+  15 Apr 1916 74
+  16 Apr 1916 83
+    activity:other (36,89)
+Page 632 (type diary) http://wd3.herokuapp.com/pages/AWD00019qa  ----------
+  17 Apr 1916 5
+    activity:other (53,10)
+    unit:Iv Hussars (57,11)
+  18 Apr 1916 18
+    unit:V Lancers (38,19)
+    activity:other (42,24)
+  19 Apr 1916 32
+    activity:training (57,37)
+  20 Apr 1916 40
+  21 Apr 1916 46
+    activity:other (40,51)
+  22 Apr 1916 55
+  23 Apr 1916 70
+    unit:3 Cavalry Bgde (35,70)
+  24 Apr 1916 77
+    activity:other (41,83)
+  25 Apr 1916 85
+    activity:other (41,92)
+    unit:Xvi lancers (40,95)
+Page 633 (type diary) http://wd3.herokuapp.com/pages/AWD00019ky  ----------
+  26 Apr 1916 6
+    activity:other (43,12)
+  27 Apr 1916 15
+    activity:training (43,26)
+  28 Apr 1916 28
+    activity:other (42,36)
+    activity:training (36,42)
+Page 634 (type blank)
+Page 635 (type diary) http://wd3.herokuapp.com/pages/AWD00019jd  ----------
+  1 May 1916 14
+    unit:Iv Hussars (39,28)
+    unit:E Battery Royal Horse Artillery (64,29)
+    person:Sergeant A B Harris (joined) (43,37)
+    person:Sergeant Houston (departed_posted) (43,46)
+    person:Private P C Woodruff (departed_posted) (42,50)
+  2 May 1916 56
+    person:Major Parks (other) (35,70)
+    unit:Glasow Yeomanry (53,74)
+    unit:V Lancers (41,77)
+    unit:3 Machine Gun Squad (60,78)
+    unit:Scots Greys (53,81)
+Page 636 (type diary) http://wd3.herokuapp.com/pages/AWD00019lu  ----------
+  3 May 1916 6
+    unit:3 Machine Gun Squadron (46,28)
+  4 May 1916 33
+    activity:other (47,42)
+    unit:V Lancers (54,45)
+  5 May 1916 46
+    domestic:parades (35,61)
+  6 May 1916 65
+Page 637 (type diary) http://wd3.herokuapp.com/pages/AWD00019sv  ----------
+  7 May 1916 5
+    activity:other (40,10)
+  8 May 1916 14
+    activity:other (41,21)
+  9 May 1916 26
+    unit:4 Hussars (49,33)
+    unit:16 Lancers (64,33)
+    unit:3 Machine Gun Squadron (38,38)
+    unit:Northants Yeomanry (60,38)
+  10 May 1916 44
+    unit:V Lancers (40,66)
+  12 May 1916 68
+    activity:other (37,76)
+  13 May 1916 81
+    activity:training (39,88)
+Page 638 (type diary) http://wd3.herokuapp.com/pages/AWD00019l0  ----------
+  15 May 1916 6
+    activity:other (36,13)
+    unit:Glasgow Yeomanry (52,21)
+    unit:2 Cavalry Division (55,26)
+  16 May 1916 29
+    unit:4 Hussars (47,36)
+    activity:other (36,36)
+    unit:5 Lancers (38,40)
+    unit:16 Lancers (55,40)
+    unit:3 Cavalry Brigade (61,44)
+  17 May 1916 54
+    activity:other (39,63)
+    unit:Iv Hussars (51,64)
+  18 May 1916 75
+    activity:other (39,83)
+Page 639 (type diary) http://wd3.herokuapp.com/pages/AWD00019rn  ----------
+  19 May 1916 5
+    person:Captain Faithfull (departed_leave) (41,11)
+    unit:3 Cavalry Division (50,15)
+  20 May 1916 18
+    activity:other (41,27)
+  21 May 1916 31
+    activity:movement (45,38)
+  22 May 1916 40
+    activity:other (45,47)
+  23 May 1916 57
+    unit:3 Machine Gun Squadron (64,63)
+    activity:other (37,63)
+    person:Shoeing Smith Binstead (departed_leave) (43,71)
+    activity:training (58,75)
+    domestic:inspections (40,76)
+  24 May 1916 77
+    activity:other (38,84)
+    unit:3 Cavalry Brigade (60,85)
+  25 May 1916 87
+    activity:other (38,92)
+    unit:Iv Hussars (51,93)
+Page 640 (type diary) http://wd3.herokuapp.com/pages/AWD00019ns  ----------
+  26 May 1916 5
+    activity:other (41,11)
+  27 May 1916 14
+    activity:other (39,20)
+  28 May 1916 24
+    place:Lumbres (38,33)
+  29 May 1916 34
+    person:Captain Faithfull (returned_leave) (36,41)
+  30 May 1916 45
+    unit:Iv Hussars (62,52)
+    activity:other (39,52)
+    unit:Xvi lancers (48,54)
+    unit:V Lancers (35,57)
+    domestic:inspections (39,60)
+  31 May 1916 64
+    activity:other (40,74)
+Page 641 (type diary) http://wd3.herokuapp.com/pages/AWD00019j6  ----------
+  1 Jun 1916 8
+    activity:other (38,15)
+    unit:39 Division Ammunition Column (60,16)
+  2 Jun 1916 20
+    activity:other (44,25)
+  3 Jun 1916 29
+    unit:V Lancers (61,35)
+    activity:other (42,37)
+    unit:Rifle Bgde (58,47)
+    activity:training (58,47)
+  31 May 1916 0
+    place:Recquebreuck (47,5)
+  4 Jun 1916 49
+    activity:other (42,56)
+  5 Jun 1916 59
+    activity:other (41,65)
+  6 Jun 1916 69
+    activity:other (38,78)
+    unit:Iv Hussars (40,89)
+Page 642 (type diary) http://wd3.herokuapp.com/pages/AWD00019rl  ----------
+  7 Jun 1916 5
+    activity:other (44,12)
+    unit:V Lancers (36,19)
+  9 Jun 1916 21
+    activity:other (45,27)
+    unit:Yorkshire Dragoons (57,27)
+  10 Jun 1916 31
+    activity:other (44,38)
+  11 Jun 1916 45
+  12 Jun 1916 66
+    activity:other (42,73)
+    unit:4 Hussars (36,76)
+  13 Jun 1916 78
+    unit:Xvi lancers (47,84)
+    activity:other (41,86)
+Page 643 (type diary) http://wd3.herokuapp.com/pages/AWD00019vg  ----------
+  14 Jun 1916 3
+    unit:Xvi lancers (36,15)
+  15 Jun 1916 22
+    unit:Wilts Yeomanry (62,28)
+    activity:other (41,31)
+  16 Jun 1916 40
+  17 Jun 1916 49
+    activity:other (38,56)
+  18 Jun 1916 61
+    activity:other (38,70)
+    person:Private Whitehead (departed_sick) (36,85)
+Page 644 (type diary) http://wd3.herokuapp.com/pages/AWD00019if  ----------
+  19 Jun 1916 3
+    time:0730PM (50,36)
+    activity:movement (38,36)
+    place:Strazeele (58,40)
+  20 Jun 1916 46
+    activity:other (37,53)
+    unit:3 Cavalry Bgde (50,55)
+  21 Jun 1916 57
+    activity:other (41,66)
+  22 Jun 1916 70
+    activity:other (40,77)
+    unit:16 Lancers (37,77)
+    unit:V Lancers (55,78)
+  23 Jun 1916 84
+    activity:other (43,91)
+Page 645 (type diary) http://wd3.herokuapp.com/pages/AWD00019t3  ----------
+  24 Jun 1916 2
+    unit:4 Hussars (45,10)
+    unit:16 Lancers (64,10)
+  25 Jun 1916 13
+    activity:other (41,20)
+    unit:V Lancers (46,20)
+  26 Jun 1916 30
+    unit:2 Cavalry Division (44,37)
+    activity:other (40,39)
+    unit:3 Cavalry Bgde (52,41)
+  24 Jun 1916 2
+  27 Jun 1916 43
+  24 Jun 1916 2
+  27 Jun 1916 43
+  30 Jun 1916 70
+    unit:Xvi lancers (61,76)
+    unit:4 Hussars (36,81)
+    person:Private Pratt (joined) (39,85)
+  24 Jun 1916 2
+    activity:other (40,9)
+Page 646 (type diary) http://wd3.herokuapp.com/pages/AWD00019l9  ----------
+  1 Jul 1916 13
+    person:Private Whitehead (returned_hospital) (34,25)
+    activity:training (60,27)
+  2 Jul 1916 30
+  3 Jul 1916 46
+  30 Jun 1916 0
+  3 Jul 1916 46
+  4 Jul 1916 61
+  5 Jul 1916 74
+    activity:training (65,80)
+  6 Jul 1916 82
+Page 647 (type diary) http://wd3.herokuapp.com/pages/AWD00019qr  ----------
+  8 Jul 1916 17
+    activity:movement (42,24)
+    place:Wallon Capel (60,25)
+  10 Jul 1916 28
+    unit:5 Lancers (48,45)
+  11 Jul 1916 54
+  12 Jul 1916 71
+  13 Jul 1916 83
+  7 Jul 1916 4
+Page 648 (type diary) http://wd3.herokuapp.com/pages/AWD00019pv  ----------
+  14 Jul 1916 4
+    unit:39 bttn Royal Horse Artillery (48,11)
+    unit:Xv! lancers (61,14)
+  15 Jul 1916 21
+    activity:movement (42,34)
+    place:Merris (36,38)
+  16 Jul 1916 40
+    unit:No 2 mvs (48,50)
+  17 Jul 1916 71
+Page 649 (type diary) http://wd3.herokuapp.com/pages/AWD00019iy  ----------
+  18 Jul 1916 4
+    unit:4 Hussars (43,16)
+  19 Jul 1916 17
+    unit:5 Lancers (61,25)
+  20 Jul 1916 38
+    unit:Xvi lancers (47,45)
+  22 Jul 1916 49
+    unit:V Lancers (38,66)
+  23 Jul 1916 67
+  18 Jul 1916 4
+  24 Jul 1916 85
+Page 650 (type diary) http://wd3.herokuapp.com/pages/AWD00019m8  ----------
+  25 Jul 1916 3
+  26 Jul 1916 12
+    unit:B Echelon 3 Cavalry Brigade (57,30)
+    unit:3 Cavalry Bgde (56,31)
+    unit:Xvi lancers (37,35)
+  27 Jul 1916 36
+  28 Jul 1916 48
+    unit:3 Signal Troop (45,56)
+    unit:Xvi lancers (36,61)
+  25 Jul 1916 3
+  29 Jul 1916 62
+  30 Jul 1916 83
+Page 651 (type diary) http://wd3.herokuapp.com/pages/AWD00019ty  ----------
+  31 Jul 1916 1
+    unit:4 Hussars (44,18)
+Page 652 (type ) http://wd3.herokuapp.com/pages/AWD00019sp  ----------
+Page 653 (type diary) http://wd3.herokuapp.com/pages/AWD00019s1  ----------
+  31 Jul 1916 26
+    person:Lieutenant T J Faithfull (57,40)
+Page 654 (type diary) http://wd3.herokuapp.com/pages/AWD00019tq  ----------
+  31 Jul 1916 0
+    place:Hondighem (18,34)
+    activity:training (35,63)
+Page 655 (type diary) http://wd3.herokuapp.com/pages/AWD00019qd  ----------
+  31 Jul 1916 0
+    person:Lieutenant T J Faithfull (commander) (37,30)
+    person:Lieutenant J S Young (other) (43,34)
+    unit:Leicestershire Yeomanry (66,38)
+    person:Driver J West (joined) (39,42)
+    unit:No. 1 M. V. S. (68,49)
+    domestic:inspections (30,54)
+    unit:No. 10 V. Hos. (53,62)
+    unit:D Battery (60,65)
+    person:Private Springett (departed_leave) (38,69)
+    activity:training (29,73)
+    domestic:inspections (36,80)
+    activity:training (53,84)
+Page 656 (type diary) http://wd3.herokuapp.com/pages/AWD00019r3  ----------
+  31 Jul 1916 0
+    person:Private V Cook (departed_training) (39,35)
+    person:Private G Cook (departed_training) (29,36)
+  15 Jul 1916 40
+    activity:movement (36,45)
+    person:Lieutenant T J Faithfull (departed_posted) (28,49)
+    place:Volkerinckhove (11,50)
+    person:Lieutenant Going (commander) (29,54)
+  18 Jul 1916 67
+    domestic:religion (32,82)
+Page 657 (type diary) http://wd3.herokuapp.com/pages/AWD00019ra  ----------
+  20 Jul 1916 25
+    person:Lieutenant T J Faithfull (27,31)
+    place:Volkerinckhove (13,32)
+  21 Jul 1916 34
+    person:Private Batman (discipline) (47,37)
+  22 Jul 1916 40
+  23 Jul 1916 45
+  24 Jul 1916 50
+  25 Jul 1916 57
+  26 Jul 1916 65
+    person:Colonel Martin (other) (28,79)
+  27 Jul 1916 80
+Page 658 (type diary) http://wd3.herokuapp.com/pages/AWD00019mf  ----------
+  27 Jul 1916 0
+    place:Volkerinckhove (10,30)
+    person:Gold (promotion) (32,49)
+    person:Lieutenant T J Faithfull (65,74)
+Page 659 (type cover)
+Page 660 (type diary) http://wd3.herokuapp.com/pages/AWD00019rc  ----------
+  8 Aug 1916 25
+    place:Saint Quentin (11,26)
+  9 Aug 1916 29
+    unit:2 Cavalry Division (48,33)
+    person:Sergeant Bradley (joined) (28,37)
+  10 Aug 1916 38
+    unit:3 Signal Troop (53,41)
+    person:Staff Sergeant Compton (departed_posted) (49,46)
+    unit:No 10 Veterinary Hospital (31,51)
+  11 Aug 1916 52
+    person:Private Fairhead (departed_leave) (53,56)
+    person:Colonel Martin (other) (28,60)
+  12 Aug 1916 66
+    person:Private Allen (joined) (25,69)
+    unit:No 6 Veterinary Hospital (63,69)
+    unit:No 11 Veterinary Hospital (61,74)
+  13 Aug 1916 77
+    unit:1 Cavalry Corp (66,80)
+    unit:2 Cavalry Division (31,84)
+Page 661 (type diary) http://wd3.herokuapp.com/pages/AWD00019qt  ----------
+  1 Aug 1916 26
+    domestic:religion (50,27)
+    person:Private Vass (returned_leave) (30,28)
+    person:Corporal Hardy (60,28)
+    person:Private Batten (awol) (40,31)
+  2 Aug 1916 33
+    person:Private W Lucas (joined) (36,36)
+    person:Private E Matthews (joined) (36,42)
+    person:Private Batten (discipline) (31,46)
+    person:Corporal Hardy (casualty_wounded) (31,50)
+  3 Aug 1916 55
+  4 Aug 1916 59
+  5 Aug 1916 65
+    person:Private Batten (discipline) (30,67)
+  6 Aug 1916 73
+    activity:movement (33,77)
+  7 Aug 1916 83
+    person:Sergeant Compton (promotion) (37,86)
+    person:Corporal Hardy (returned_hospital) (29,90)
+Page 662 (type diary) http://wd3.herokuapp.com/pages/AWD00019s5  ----------
+  7 Aug 1916 0
+    place:Saint Quentin (13,25)
+  14 Aug 1916 27
+  15 Aug 1916 35
+  16 Aug 1916 41
+  17 Aug 1916 45
+    activity:training (28,47)
+    person:Private Woods (joined) (34,51)
+  18 Aug 1916 52
+  19 Aug 1916 60
+  20 Aug 1916 70
+  21 Aug 1916 81
+Page 663 (type diary) http://wd3.herokuapp.com/pages/AWD00019j4  ----------
+  Hashtags: #duplicate 
+  22 Aug 1916 26
+    person:Corporal Gold (other) (54,27)
+    place:Saint Quentin (16,27)
+  23 Aug 1916 34
+    person:Brigadier General Tagart (other) (53,36)
+    person:Colonel Martin (other) (34,40)
+    person:Greene (departed_leave) (56,47)
+  24 Aug 1916 49
+  25 Aug 1916 54
+    person:Colonel Chance (other) (28,64)
+  26 Aug 1916 69
+  27 Aug 1916 79
+Page 664 (type diary) http://wd3.herokuapp.com/pages/AWD00019mh  ----------
+  Hashtags: #duplicate 
+  28 Aug 1916 24
+    place:Saint Quentin (20,26)
+  29 Aug 1916 30
+  30 Aug 1916 36
+    person:Private Chapman (departed_sick) (53,41)
+  31 Aug 1916 43
+    person:Private Batten (discipline) (30,54)
+Page 665 (type cover)
+Page 666 (type diary) http://wd3.herokuapp.com/pages/AWD00019qc  ----------
+  Hashtags: #duplicate 
+  1 Sep 1916 27
+    place:Saint Quentin (16,27)
+    person:Private Bowes (departed_leave) (32,30)
+  2 Sep 1916 32
+  3 Sep 1916 43
+  4 Sep 1916 62
+  5 Sep 1916 69
+  6 Sep 1916 76
+Page 667 (type diary) http://wd3.herokuapp.com/pages/AWD00019lb  ----------
+  7 Sep 1916 23
+    place:Saint Quentin (9,25)
+    unit:2 Cavalry Division (44,28)
+    unit:2 Lancier (44,36)
+    unit:4 Hussars (57,36)
+    unit:2 Cavalry Division (43,40)
+    unit:H Q Cavalry Corps (57,41)
+    unit:19 Ambulance (67,41)
+    person:Greene (departed_sick) (28,44)
+  9 Sep 1916 46
+    unit:5 Lanciers (41,50)
+    unit:4 Hussars (57,50)
+    unit:H Q Cavalry Corps (70,51)
+    unit:1 Army (54,58)
+    unit:3 Cavalry Brigade (47,61)
+    unit:3 Brigade (72,62)
+    unit:H Q Cavalry Corps (46,65)
+  10 Sep 1916 68
+    person:Private Batten (departed_posted) (28,70)
+    unit:No 10 M U S 1 Cavalry Division (52,71)
+    unit:3 Cavalry Brigade (56,75)
+    unit:H Q 3 Cavalry Brigade (43,80)
+    person:General Vaughn (other) (57,82)
+    unit:1 B Train R E (46,86)
+Page 668 (type diary) http://wd3.herokuapp.com/pages/AWD00019m1  ----------
+  12 Sep 1916 23
+    place:Saint Quentin (8,27)
+    person:Private Compton (returned_leave) (28,27)
+    unit:H Q Cavalry Corps (41,30)
+    unit:106 Brdy R F A (60,30)
+    domestic:inspections (36,34)
+    unit:H Q Cavalry Corps (42,42)
+    unit:Cavalry Corps (70,43)
+  13 Sep 1916 45
+    person:Colonel Martin (other) (27,48)
+    unit:Atvs Cavalry corps (39,49)
+    unit:Advs 2 Cavalry divison (57,49)
+    domestic:inspections (31,52)
+    unit:Division Ammunition (46,66)
+    person:Shoeing Smith Lambert (joined) (27,70)
+  14 Sep 1916 72
+    person:Brigadier General Vaughn (other) (37,80)
+    unit:7 Lanciers (48,85)
+    unit:4 Hussars (67,87)
+Page 669 (type diary) http://wd3.herokuapp.com/pages/AWD00019ka  ----------
+  15 Sep 1916 24
+    person:Private Carter (departed_training) (33,29)
+    person:Private Fairhead (discipline) (36,35)
+  17 Sep 1916 49
+    unit:76 Brigade R F A (46,54)
+    unit:1 Army (68,55)
+    unit:36 ene Corps Armée Françaises (51,66)
+    unit:5 Lanciers (41,70)
+    unit:A Echelon 3 Cavalry (58,71)
+  20 Sep 1916 77
+    unit:H Q Cavalry Corps (47,81)
+    unit:5 Lanciers (67,81)
+    unit:4 Hussars (34,84)
+    unit:3 Cavalry Brigade (50,86)
+    unit:4 Hussars (46,89)
+Page 670 (type diary) http://wd3.herokuapp.com/pages/AWD00019n7  ----------
+  21 Sep 1916 24
+    place:Mametz (14,25)
+    unit:No 9 M V S (57,28)
+    unit:A Echelon 3 Cavalry Brigade (52,36)
+    activity:movement (35,39)
+    unit:A Echelon 3 Cavalry Brigade (38,43)
+    unit:B Echelon 3 Cavalry Brigade (49,55)
+    unit:Aaqmg 2 Cavalry Division (62,61)
+  22 Sep 1916 66
+    unit:No 7 M V S (61,72)
+Page 671 (type diary) http://wd3.herokuapp.com/pages/AWD00019nz  ----------
+  23 Sep 1916 26
+    place:Mametz (14,26)
+    unit:2 Field Squadron (57,28)
+  24 Sep 1916 31
+    place:Monchy (13,32)
+    unit:B Section, 2 Cavalry Division Field Ambulance (65,32)
+    activity:movement (35,42)
+    person:Major Leyland (other) (33,55)
+    unit:7 Hussars (44,56)
+    unit:A Echelon (37,60)
+    unit:No 8 Mobile Veterinary Section (27,66)
+    unit:A Echelon (61,71)
+    unit:No 9 Mobile Veterinary Section (66,97)
+Page 672 (type diary) http://wd3.herokuapp.com/pages/AWD00019iv  ----------
+  24 Sep 1916 0
+    place:Lozingham (13,28)
+  25 Sep 1916 31
+    activity:movement (34,31)
+  26 Sep 1916 42
+  27 Sep 1916 65
+Page 673 (type diary) http://wd3.herokuapp.com/pages/AWD00019jh  ----------
+  28 Sep 1916 25
+    place:Lozingham (10,28)
+  29 Sep 1916 38
+    activity:movement (39,42)
+    place:Ferfay (9,43)
+    person:W Vass (other) (28,49)
+    person:General Chetwood (other) (26,57)
+  30 Sep 1916 62
+Page 674 (type cover)
+Page 675 (type diary) http://wd3.herokuapp.com/pages/AWD00019r9  ----------
+  30 Sep 1916 0
+Page 676 (type diary) http://wd3.herokuapp.com/pages/AWD00019pl  ----------
+  7 Oct 1916 25
+  8 Oct 1916 31
+    person:Private Woods (discipline) (67,35)
+    person:Major Hunt (other) (41,36)
+    person:Colonel Martin (other) (29,37)
+  9 Oct 1916 41
+  10 Oct 1916 56
+  11 Oct 1916 66
+Page 677 (type diary) http://wd3.herokuapp.com/pages/AWD00019n1  ----------
+  12 Oct 1916 25
+    activity:other (33,28)
+    unit:Iv Hussars (35,34)
+    person:Sergeant Fyffe (discipline) (55,37)
+    unit:2 Cavalry Division (54,41)
+  13 Oct 1916 42
+    person:Major Leyland (discipline) (46,50)
+    unit:7 Hussars (61,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 8 (33,61)
+  14 Oct 1916 67
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (34,70)
+    unit:3 Hussars (56,77)
+    unit:2 Cavalry Division (51,81)
+    unit:No7 mus (60,85)
+Page 678 (type diary) http://wd3.herokuapp.com/pages/AWD00019qm  ----------
+  15 Oct 1916 24
+  16 Oct 1916 36
+  17 Oct 1916 41
+    activity:movement (37,45)
+    place:Rombly (9,47)
+  18 Oct 1916 50
+  19 Oct 1916 59
+  20 Oct 1916 70
+Page 679 (type diary) http://wd3.herokuapp.com/pages/AWD00019q6  ----------
+  21 Oct 1916 25
+    unit:Guards Division (42,27)
+    activity:other (29,27)
+    unit:E Battery Royal Horse Artillery (38,30)
+    place:Rombly (16,31)
+    unit:G Battery Royal Horse Artillery (39,34)
+    person:Sergeant Fyffe (discipline) (30,52)
+  22 Oct 1916 57
+    activity:other (30,59)
+  23 Oct 1916 62
+    unit:Xvi lancers (32,64)
+    unit:Iv lancers (45,64)
+  24 Oct 1916 69
+    activity:movement (34,73)
+    place:Saint Quentin (17,74)
+  25 Oct 1916 77
+  26 Oct 1916 86
+Page 680 (type diary) http://wd3.herokuapp.com/pages/AWD00019nb  ----------
+  27 Oct 1916 24
+  28 Oct 1916 34
+    person:Private Sumner (discipline) (47,35)
+  29 Oct 1916 44
+  30 Oct 1916 61
+  31 Oct 1916 68
+    domestic:religion (32,73)
+Page 681 (type cover)
+Page 682 (type diary) http://wd3.herokuapp.com/pages/AWD00019io  ----------
+  Hashtags: #duplicate 
+  1 Nov 1916 22
+    person:Hardy (returned_leave) (28,26)
+    place:Saint Quentin (13,27)
+  2 Nov 1916 39
+  3 Nov 1916 52
+  4 Nov 1916 67
+  5 Nov 1916 80
+Page 683 (type diary) http://wd3.herokuapp.com/pages/AWD00019rb  ----------
+  Hashtags: #duplicate 
+  8 Nov 1916 25
+    place:Saint Quentin (13,29)
+  9 Nov 1916 35
+    person:Private Chessman (returned_leave) (32,50)
+  10 Nov 1916 52
+  12 Nov 1916 80
+    person:Sergeant Bradley (returned_hospital) (32,89)
+Page 684 (type diary) http://wd3.herokuapp.com/pages/AWD00019lt  ----------
+  Hashtags: #duplicate 
+  13 Nov 1916 24
+    place:Saint Quentin (14,28)
+  14 Nov 1916 43
+  15 Nov 1916 57
+  16 Nov 1916 69
+    person:Lieutenant T J Faithfull (departed_leave) (31,73)
+    person:Captain J S Young (commander) (53,77)
+Page 685 (type diary) http://wd3.herokuapp.com/pages/AWD00019pb  ----------
+  16 Nov 1916 0
+    place:Campaignette (16,26)
+  17 Nov 1916 27
+    activity:movement (38,29)
+  18 Nov 1916 33
+  19 Nov 1916 41
+    unit:Xvi lancers (71,45)
+  20 Nov 1916 50
+    unit:1 Army (51,57)
+    unit:18 Hussars (39,60)
+    person:Corporal Gold (promotion) (29,71)
+  21 Nov 1916 75
+    activity:movement (34,77)
+    place:Grand Manillet (9,81)
+    unit:Vth Lancers (30,81)
+Page 686 (type diary) http://wd3.herokuapp.com/pages/AWD00019sm  ----------
+  Hashtags: #duplicate 
+  22 Nov 1916 23
+    place:Grand Manilet (15,27)
+  23 Nov 1916 35
+  24 Nov 1916 38
+    person:Private Fyffe (discipline) (44,43)
+    person:Private Turner (joined) (32,47)
+  25 Nov 1916 50
+    person:Lieutenant T J Faithfull (returned_leave) (29,53)
+    person:Sergeant Gold (72,60)
+    person:Sergeant Gold (departed_posted) (65,61)
+    person:Corporal Hardy (departed_posted) (29,64)
+    person:Private Vass (departed_posted) (45,64)
+    person:Walker (departed_posted) (53,64)
+    person:Private Chessman (departed_posted) (68,65)
+    person:Private Chaplin (departed_posted) (26,67)
+    person:Private Sumner (departed_posted) (38,67)
+    person:Private Fairhead (departed_posted) (49,68)
+    person:Private Fyffe (departed_posted) (52,71)
+    person:Sergeant W Houston (joined) (26,78)
+    person:Corporal Waterton (joined) (44,78)
+    person:Private Adler (joined) (65,79)
+    person:Private Fryer (35,81)
+    person:Private Gordon (46,82)
+    person:Private Lacey (joined) (60,82)
+    person:Private Lloyd (joined) (69,83)
+    person:Private Refoy (joined) (31,86)
+    unit:Vth Lancers (62,90)
+Page 687 (type diary) http://wd3.herokuapp.com/pages/AWD00019l5  ----------
+  Hashtags: #duplicate 
+  26 Nov 1916 27
+  27 Nov 1916 33
+    person:Corporal Waterton (other) (29,35)
+  28 Nov 1916 38
+    person:Private Lucas (promotion) (32,40)
+    person:Private Osborne (promotion) (51,40)
+    activity:other (35,56)
+  29 Nov 1916 57
+    unit:11 Brigade Royal Field Artillery. (59,58)
+    unit:83 Battery (30,62)
+    unit:84 Battery (40,62)
+    unit:85 Battery (62,62)
+  30 Nov 1916 70
+    unit:2 Car F Amt (66,70)
+    unit:Vth Lancers (43,71)
+    unit:No 3 Reserve Park (50,75)
+    unit:Ivth Hussars (64,75)
+    unit:Hq 2 car brq (31,76)
+    place:Lumbres (70,78)
+    unit:2 Car F. Amt Reinforcements (64,84)
+Page 688 (type cover)
+Page 689 (type diary) http://wd3.herokuapp.com/pages/AWD00019sb  ----------
+  Hashtags: #duplicate 
+  1 Dec 1916 26
+    place:Grand Manillet (9,27)
+    unit:84 Bat Royal Field Artillery. (40,27)
+    unit:Ivth Hussars (55,27)
+    unit:H.O. Car Corp (65,27)
+    domestic:inspections (30,29)
+  2 Dec 1916 32
+    person:Sergeant G Bradley (departed_leave) (29,34)
+    unit:No. 3 Reserve Park (33,38)
+  3 Dec 1916 42
+  4 Dec 1916 47
+  5 Dec 1916 54
+    unit:Royal Field Artillery. (34,58)
+  6 Dec 1916 60
+    unit:Amm Col 2 Car Division (60,64)
+    unit:Xvi th lancers (48,67)
+  7 Dec 1916 69
+    unit:Xvi th lancers (40,72)
+    unit:V th Lancers (53,72)
+    unit:7 Hussars (65,73)
+    unit:Hq asc 2 car Division (38,76)
+  8 Dec 1916 82
+    unit:2 Car Division (67,85)
+Page 690 (type diary) http://wd3.herokuapp.com/pages/AWD00019od  ----------
+  9 Dec 1916 27
+    person:Sergeant Bradley (returned_leave) (34,28)
+    place:Grand Manillet (12,28)
+  10 Dec 1916 34
+  11 Dec 1916 37
+  13 Dec 1916 43
+    person:Private Turner (departed_leave) (30,45)
+  14 Dec 1916 53
+  15 Dec 1916 62
+  16 Dec 1916 70
+  17 Dec 1916 87
+Page 691 (type diary) http://wd3.herokuapp.com/pages/AWD00019mx  ----------
+  Hashtags: #duplicate 
+  18 Dec 1916 26
+    place:Grand Manillet (11,27)
+    person:Private Fryer (departed_leave) (34,29)
+  19 Dec 1916 31
+  20 Dec 1916 42
+    person:Private Lucas (departed_leave) (32,53)
+  22 Dec 1916 68
+  23 Dec 1916 72
+  24 Dec 1916 81
+    person:Private Fryer (returned_leave) (28,87)
+    person:Private Woodruff (discipline) (30,90)
+Page 692 (type diary) http://wd3.herokuapp.com/pages/AWD00019nk  ----------
+  Hashtags: #duplicate 
+  25 Dec 1916 27
+    place:Grand Manilles (13,28)
+  26 Dec 1916 32
+    person:Private Lucas (returned_leave) (48,32)
+  27 Dec 1916 38
+  28 Dec 1916 43
+  29 Dec 1916 60
+  31 Dec 1916 79
+Page 693 (type other) http://wd3.herokuapp.com/pages/AWD00019nj  ----------
+  31 Dec 1916 0
+    person:Lieutenant J Fisher (author) (52,64)
+Page 694 (type cover)
+Page 695 (type diary) http://wd3.herokuapp.com/pages/AWD00019ou  ----------
+  Hashtags: #duplicate 
+  1 Jan 1917 25
+    place:Grand Manillet (17,28)
+  2 Jan 1917 34
+    person:Private Refroy (other) (37,43)
+    person:Lance Corporal Lucas (other) (28,44)
+  3 Jan 1917 48
+  4 Jan 1917 63
+  5 Jan 1917 70
+  6 Jan 1917 78
+  7 Jan 1917 83
+Page 696 (type diary) http://wd3.herokuapp.com/pages/AWD00019lo  ----------
+  Hashtags: #duplicate 
+  8 Jan 1917 24
+    person:Private Smith (joined) (56,37)
+  9 Jan 1917 38
+  10 Jan 1917 43
+  11 Jan 1917 47
+  12 Jan 1917 51
+  13 Jan 1917 57
+    person:Private Compton (departed_posted) (32,61)
+  14 Jan 1917 63
+  15 Jan 1917 71
+  16 Jan 1917 77
+  19 Jan 1917 85
+Page 697 (type diary) http://wd3.herokuapp.com/pages/AWD00019n8  ----------
+  Hashtags: #duplicate 
+  20 Jan 1917 23
+    person:Private Buchan (departed_leave) (47,27)
+    person:Private Woodruff (departed_leave) (32,27)
+  21 Jan 1917 33
+    person:Private Smith (departed_leave) (27,38)
+  22 Jan 1917 44
+  23 Jan 1917 48
+  25 Jan 1917 52
+  27 Jan 1917 71
+    person:Private Woodruff (returned_leave) (26,71)
+    person:Private Buchan (returned_leave) (27,76)
+  28 Jan 1917 80
+Page 698 (type diary) http://wd3.herokuapp.com/pages/AWD00019jf  ----------
+  Hashtags: #duplicate 
+  29 Jan 1917 24
+  30 Jan 1917 30
+  31 Jan 1917 34
+    person:Private Fryer (other) (27,38)
+    person:Private Compton (departed_training) (30,42)
+    person:Captain T J Faithfull (61,53)
+Page 699 (type diary) http://wd3.herokuapp.com/pages/AWD00019p7  ----------
+  1 Feb 1917 26
+    person:Private Buchan (departed_posted) (35,29)
+    unit:No. 9 M. V. S. (52,29)
+    place:Grand Manillet (17,30)
+    unit:Vth Lancers (42,32)
+  2 Feb 1917 33
+  3 Feb 1917 37
+    person:Private Compton (returned_posted) (28,37)
+    person:Private Compton (departed_training) (32,42)
+  4 Feb 1917 52
+    unit:2 Sigl. Squadron (51,52)
+    person:Private Crocker (departed_leave) (28,56)
+    unit:34 Brigade R. F. A. (35,60)
+    unit:1 Army (64,60)
+  5 Feb 1917 64
+    unit:Xvi lancers (53,64)
+  6 Feb 1917 68
+    unit:B Echelon, 3 Cavalry Brigade (55,69)
+    unit:3 Reserve Park (52,73)
+  10 Feb 1917 74
+    unit:Iv lancers (57,77)
+    unit:Xvi lancers (43,78)
+    unit:Iv Hussars (68,78)
+    person:Private R H Sloggat (37,84)
+    person:Private F Turner (discipline) (34,90)
+Page 700 (type diary) http://wd3.herokuapp.com/pages/AWD00019os  ----------
+  Hashtags: #duplicate 
+  11 Feb 1917 26
+    place:Grand Manillet (11,28)
+    person:Private Crocker (returned_leave) (29,29)
+  12 Feb 1917 32
+    unit:Iv Hussars (52,35)
+    person:Private West (departed_leave) (34,38)
+    person:Sergeant Bradley (other) (42,42)
+  13 Feb 1917 46
+  15 Feb 1917 50
+  16 Feb 1917 55
+  17 Feb 1917 60
+    person:Private Fryer (returned_posted) (32,60)
+  20 Feb 1917 65
+    unit:Vth Lancers (44,65)
+    unit:Xvi lancers (62,65)
+    person:Sergeant Houston (departed_leave) (37,70)
+  21 Feb 1917 76
+Page 701 (type diary) http://wd3.herokuapp.com/pages/AWD00019mo  ----------
+  Hashtags: #duplicate 
+  21 Feb 1917 0
+    place:Grand Manillet (17,23)
+  22 Feb 1917 24
+    unit:Vth Lancers (39,28)
+    unit:Xvi lancers (52,28)
+    unit:Iv Hussars (66,28)
+    unit:No. 13 Base Vety. Hospital (49,31)
+  23 Feb 1917 32
+  24 Feb 1917 37
+    unit:No. 1 Reserve Park (51,42)
+    unit:V Lancers (36,49)
+    unit:No. 9 M. V. S. (64,49)
+  25 Feb 1917 53
+    unit:Iv Hussars (60,54)
+  26 Feb 1917 60
+    unit:Ammunition. Col. 2 Cavalry Division. (46,60)
+  28 Feb 1917 65
+    unit:3 Cavalry Brigade (51,66)
+    unit:Cavalry Corps (62,71)
+  1 Mar 1917 74
+    unit:D Battery (35,74)
+    unit:Iv Hussars (71,78)
+    unit:2 Cavalry Field Ambulance (49,79)
+    person:Captain T J Faithfull (58,86)
+Page 702 (type diary) http://wd3.herokuapp.com/pages/AWD00019t5  ----------
+  1 Mar 1917 23
+    unit:2 Essex Regiment, 4 Division (69,27)
+    place:Grand Manillet (17,27)
+    person:Sergeant W G Bradley (departed_posted) (37,28)
+    unit:5 Lancers (62,42)
+    unit:18 Lancers (71,42)
+    unit:Aux. #7, 2 Cavalry Division. (37,44)
+    unit:D Battery (58,45)
+  2 Mar 1917 50
+    unit:H. Q. 2 Cavalry Division. (50,50)
+    unit:Vth Lancers (47,55)
+    unit:H.Q. 3 Cavalry Brigade (31,57)
+  4 Mar 1917 59
+    unit:No. 22 Casualty Clearing Station (53,60)
+    person:Private Smith (31,60)
+  6 Mar 1917 63
+    unit:No. 7 M. V. S. (45,64)
+    unit:4 Hussars (37,67)
+    unit:H.Q. 3 Cavalry Brigade (48,67)
+    unit:Ammunition. Col. 2 Cavalry Division. (62,68)
+    unit:5 Lancers (58,70)
+    unit:H.Q. Cavalry Corps (67,71)
+    person:General Bingham (commander) (37,73)
+  8 Mar 1917 76
+    unit:H.Q. 3 Cavalry Brigade (57,80)
+  10 Mar 1917 81
+    unit:D Battery (46,81)
+  11 Mar 1917 86
+    unit:3 Machine Gun Squadron (39,86)
+    unit:9 Labour Battalion. (59,86)
+    unit:H.Q. 3 Cavalry Brigade (43,90)
+Page 703 (type diary) http://wd3.herokuapp.com/pages/AWD00019m0  ----------
+  13 Mar 1917 26
+    place:Grand Manillet (18,27)
+    unit:3 Machine Gun Squadron (42,28)
+    unit:9 Lab. Battalion. (66,28)
+  14 Mar 1917 30
+    unit:Aux. H. T. (41,34)
+    unit:Ammunition. Col. 2 Cavalry Division. (54,34)
+    unit:5 Lancers (29,37)
+    unit:H.Q. R.H.A. 2 Brigade (43,37)
+    unit:3 Reserve Park (58,37)
+    unit:Cavalry Corps Signals (69,37)
+  15 Mar 1917 39
+    unit:No. 13 Vety. Hospital (54,41)
+  16 Mar 1917 43
+  17 Mar 1917 48
+    unit:H.Q. 3 Cavalry Brigade (43,48)
+  22 Mar 1917 52
+    unit:H.Q. Cavalry Corps Signals (49,52)
+    unit:D Battery R. H. A. (40,57)
+    unit:H.Q. 3 Cavalry Brigade (67,57)
+  23 Mar 1917 60
+    person:Corporal R Jukes (departed_leave) (30,64)
+    person:Private Dudley (joined) (30,67)
+    person:Private Whitehead (joined) (54,68)
+  28 Mar 1917 70
+    unit:No. 13 Vety. Hospital (42,71)
+  29 Mar 1917 76
+    unit:3 Mach. Gun Squadron (43,76)
+    unit:H.Q. 3 Cavalry Brigade (44,80)
+    unit:4 Hussars (57,80)
+    unit:D Battery (67,80)
+    person:Captain T J Faithfull (79,83)
+    unit:Aux. H. T. (36,83)
+    person:Private Sloggat (discipline) (30,86)
+  31 Mar 1917 90
+    person:Private Matthews (promotion) (32,90)
+Page 704 (type diary) http://wd3.herokuapp.com/pages/AWD00019qz  ----------
+  1 Apr 1917 26
+    person:Corporal Waterton (departed_leave) (32,27)
+    place:Grand Manillet (15,27)
+    activity:training (31,30)
+  2 Apr 1917 31
+  3 Apr 1917 34
+    unit:18 Lancers (44,37)
+    activity:training (58,37)
+  4 Apr 1917 38
+  5 Apr 1917 42
+    unit:3 Mach. Gun Squadron (45,42)
+    unit:Aux. H. T. (43,46)
+    unit:Ammunition. Col. 2 Cavalry Division. (55,46)
+    unit:2 Field Squadron R. E. (33,49)
+    unit:3 Reserve Park (51,49)
+    unit:Cavalry Corps Signals (67,50)
+    unit:2 Cavalry Field Ambulance (45,53)
+  6 Apr 1917 56
+    unit:No. 13 V. H. (51,57)
+  7 Apr 1917 62
+    unit:18 Lancers (71,62)
+    activity:training (28,62)
+    unit:5 Lancers (60,63)
+    person:Private Compton (returned_training) (33,67)
+  8 Apr 1917 74
+    unit:No. 22 V. H. (37,71)
+    unit:Cyclist Squadron, 2 Army (49,76)
+    unit:3 Mac. Gun Squadron (34,80)
+    unit:H.Q. 3 Cavalry Brigade (55,82)
+    person:Private Refoy (departed_leave) (28,84)
+    activity:training (29,89)
+Page 705 (type diary) http://wd3.herokuapp.com/pages/AWD00019st  ----------
+  9 Apr 1917 27
+    place:Grand Manillet (15,27)
+  10 Apr 1917 31
+    unit:3 Mach. Gun Squadron (49,36)
+    unit:B Echelon, 3 Cavalry Brigade (68,39)
+    activity:training (35,40)
+  11 Apr 1917 42
+    unit:3 Mac. Gun Squad. (45,47)
+    unit:H.Q. 3 Cavalry Brigade (71,47)
+  12 Apr 1917 48
+    unit:D Battery (42,52)
+    unit:5 Lancers (53,52)
+    unit:3 Mac. G. Squad. (72,52)
+    unit:18 Lancers (63,53)
+    unit:3 Hussars (45,59)
+    unit:12 Lancers (57,59)
+  13 Apr 1917 60
+    unit:Xx Hussars (69,60)
+    person:Private Whitehead (departed_leave) (34,65)
+    unit:Sig. H.Q., 3 Cavalry Brigade (47,68)
+    unit:Ammunition. Col. 2 Cavalry Division. (42,72)
+    unit:5 Lancers (44,81)
+    unit:16 Lancers (56,82)
+  14 Apr 1917 86
+    unit:No. 22 Cas. Cl. Stat. (66,86)
+    place:Boulogne (58,91)
+    person:Corporal Lucas (other) (70,92)
+Page 706 (type diary) http://wd3.herokuapp.com/pages/AWD00019k3  ----------
+  15 Apr 1917 26
+    place:Grand Manillet (15,27)
+    unit:Ammunition. Col. 2 Cavalry Division (50,28)
+  16 Apr 1917 31
+    unit:H.Q. 3 Cavalry Brigade (43,35)
+  17 Apr 1917 38
+    activity:training (29,42)
+    unit:4 Hussars (42,45)
+    unit:D Battery (52,45)
+    unit:Ammunition. Col. (61,46)
+    unit:Mach. Gun Squad. (69,46)
+  18 Apr 1917 49
+    unit:5 Lancers (31,49)
+    unit:Aux. H. T. (45,49)
+    unit:No. 13 V. H. (64,54)
+  19 Apr 1917 59
+    activity:training (47,63)
+  20 Apr 1917 65
+  22 Apr 1917 69
+    unit:4 Hussars (44,73)
+  24 Apr 1917 77
+    unit:H.Q. 3 Cavalry Brigade (59,81)
+  25 Apr 1917 82
+  26 Apr 1917 84
+    unit:5 Lancers (51,86)
+    unit:4 Hussars (41,87)
+    unit:18 Lancers (63,87)
+    unit:2 Cavalry Field. Amb. (31,90)
+Page 707 (type diary) http://wd3.herokuapp.com/pages/AWD00019ml  ----------
+  26 Apr 1917 26
+    place:Grand Manillet (16,27)
+    unit:No. 13 Base V. H. (48,29)
+  27 Apr 1917 33
+    unit:D Battery R. H. A. (51,38)
+    activity:training (30,42)
+  28 Apr 1917 43
+    unit:Aux. H. T. (47,48)
+    unit:175 Brigade R. F. A. (64,49)
+    activity:training (29,51)
+    person:Captain T J Faithfull (58,65)
+Page 708 (type diary) http://wd3.herokuapp.com/pages/AWD00019iz  ----------
+  28 Apr 1917 0
+    place:Ouve-Wirquin (19,28)
+    unit:34 Division. Ammunition. Col. (44,33)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,33)
+    unit:16 Lancers (35,39)
+    unit:Vth Lancers (35,45)
+    unit:10 Reserve Park (43,50)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (28,52)
+    activity:training (27,56)
+    unit:3 M. G. Sq. (67,74)
+    unit:Yorkshire Dragoons (37,75)
+    unit:Ammunition. Col. (55,75)
+    unit:Wilts. Yeomanry (33,79)
+    unit:R.H.A. H.Q. (46,79)
+    unit:5 Lancers (58,80)
+    unit:16 Lancers (69,80)
+    unit:4 Hussars (29,83)
+    unit:2 F. S. Royal Engineers (42,84)
+    unit:2 Fd. Amb. (57,85)
+    unit:H.Q. A.S.C. (70,85)
+    unit:5 Lancers (36,92)
+Page 709 (type diary) http://wd3.herokuapp.com/pages/AWD00019sf  ----------
+  28 Apr 1917 0
+    place:Recquebreucq (7,28)
+    unit:Yorkshire Dragoons (38,37)
+    unit:A.P.M. 2 Cavalry Division. (56,44)
+    unit:Yorkshire Dragoons (34,46)
+    activity:training (28,50)
+    unit:Aux. H. T. (37,55)
+    unit:160 Brigade, 34 Division. (51,59)
+    unit:Yorkshire Dragoons (37,68)
+    unit:4 Hussars (58,68)
+    unit:16 Lancers (34,74)
+    unit:5 Lancers (55,75)
+    unit:4 Hussars (68,75)
+    unit:3 M. G. Squad. (27,78)
+    unit:2 Cavalry Division. Reserve Park (52,84)
+    unit:16 Lancers (26,87)
+Page 710 (type diary) http://wd3.herokuapp.com/pages/AWD00019tl  ----------
+  28 Apr 1917 0
+    place:Recquebreucq (9,28)
+    unit:Wilts. Yeomanry (41,31)
+    unit:Wilts. Yeomanry (41,34)
+    unit:No. 23 V. H. (52,38)
+    unit:Yorkshire Dragoons (51,54)
+    unit:Ammunition. Col. 2 Cavalry Division. (37,58)
+    unit:D Battery R. H. A. (39,62)
+    unit:Yorkshire Dragoons (60,63)
+    unit:H.Q. 3 Cavalry Brigade (31,66)
+    person:Private Whitehead (departed_sick) (28,70)
+    unit:Ammunition. Col. (38,76)
+    unit:2 F.S. Royal Engineers (49,76)
+    unit:D Battery (64,77)
+    unit:4 Hussars (28,79)
+    unit:Ammunition. Col. 2 Cavalry Division. (47,83)
+    activity:movement (28,93)
+Page 711 (type diary) http://wd3.herokuapp.com/pages/AWD00019mn  ----------
+  28 Apr 1917 0
+    place:Strazeele (11,27)
+    activity:movement (38,29)
+    unit:H.Q. 3 Cavalry Brigade (39,36)
+    unit:H.Q. 3 Cavalry Brigade (38,41)
+    unit:6 D. G.s (60,42)
+    unit:4 Hussars (69,42)
+    unit:16 Lancers (38,46)
+    unit:5 Lancers (49,46)
+    unit:6 D. G. (33,55)
+    unit:No. 9 M. V. S. (55,56)
+    unit:4 Hussars (37,61)
+    unit:16 Lancers (46,61)
+    unit:5 Lancers (36,68)
+    unit:16 Lancers (49,69)
+    unit:3 M. G. Squad. (61,69)
+    unit:H.Q. 2 Cavalry Division. (30,73)
+    unit:Ammunition. Col. 2 Cavalry Division. (39,85)
+    unit:H.Q. 3 Cavalry Brigade (40,91)
+Page 712 (type diary) http://wd3.herokuapp.com/pages/AWD00019pt  ----------
+  28 Apr 1917 0
+    place:Strazeele (14,27)
+    unit:J Battery (36,32)
+    unit:Ammunition. Col. (49,32)
+    unit:3 Sig. Troop (62,32)
+    unit:No. 23 V. H. (41,44)
+    activity:training (28,49)
+    unit:Ammunition. Col. (38,63)
+    unit:16 Lancers (52,63)
+    unit:4 Hussars (65,64)
+    person:Private Pratt (joined) (36,68)
+    person:Captain T J Faithfull (56,78)
+Page 713 (type cover)
+Page 714 (type diary) http://wd3.herokuapp.com/pages/AWD00019nq  ----------
+  28 Apr 1917 0
+    place:Strazeele (15,28)
+    unit:2 Sig. Squadron (38,28)
+    person:Private Whitehead (returned_hospital) (30,31)
+    activity:training (31,34)
+    unit:Ammunition. Col. 2 Cavalry Division. (36,39)
+    unit:4 Hussars (56,39)
+    person:Private Lacy (departed_posted) (31,43)
+    unit:2 Cavalry Division. (57,48)
+    unit:2 F. Sq. Royal Engineers (67,48)
+    unit:42 Bat. 7 Brigade A. Ammunition. Col. (36,49)
+    unit:16 Lancers (33,54)
+    unit:3 M. G. Squad. (49,54)
+    unit:No. 23 V. H. (39,58)
+    unit:5 Lancers (58,63)
+    activity:training (27,65)
+    unit:F. R. Section, 2 Army (37,69)
+    unit:J Battery (36,76)
+    unit:2 F. Sq. Royal Engineers (47,76)
+    activity:movement (31,81)
+Page 715 (type diary) http://wd3.herokuapp.com/pages/AWD00019nx  ----------
+  Hashtags: #duplicate 
+  28 Apr 1917 0
+    place:Wallon-Cappel (14,26)
+    unit:2 F. Sq. Royal Engineers (38,27)
+    unit:2 Sig. Squadron (49,27)
+    unit:M. M. P. 3 Cavalry Brigade (68,27)
+    unit:3 M. G. Squadron (32,30)
+    unit:Ammunition. Col. (45,31)
+    unit:5 Lancers (54,31)
+    unit:J Battery (65,31)
+    unit:3 Sig. Troop (30,35)
+    unit:H.Q. 3 Cavalry Brigade (43,35)
+    unit:1 Aust. Bat. Details (37,40)
+    unit:Xvi lancers (67,40)
+    unit:No. 23 V. H. (40,44)
+    unit:5 Lancers (37,57)
+    unit:H.Q. 3 Cavalry Division. (52,57)
+    activity:training (33,61)
+    unit:2 F. Sq. Royal Engineers (37,66)
+    unit:39 Bat. R. F. A. (34,72)
+    unit:3 Sig. Troop (41,75)
+    unit:16 Lancers (28,76)
+    unit:No. 23 V. H. (38,81)
+    activity:movement (30,85)
+Page 716 (type diary) http://wd3.herokuapp.com/pages/AWD00019ni  ----------
+  28 Apr 1917 0
+    place:Merris (15,28)
+    person:Private Compton (other) (29,65)
+    activity:training (51,72)
+    unit:4 Hussars (39,82)
+    unit:5 Lancers (53,82)
+    unit:16 Lancers (42,86)
+Page 717 (type diary) http://wd3.herokuapp.com/pages/AWD00019ph  ----------
+  28 Apr 1917 0
+    unit:16 Lancers (41,27)
+    unit:3 Mac Gun Sq (53,27)
+    unit:5 Lancers (64,28)
+    place:Merris (15,29)
+    person:Lieutenant Miles (commander) (59,79)
+    unit:Iv Hussars (48,81)
+Page 718 (type diary) http://wd3.herokuapp.com/pages/AWD00019qx  ----------
+  28 Apr 1917 0
+    place:Merris (10,26)
+    unit:5 Lancers (39,28)
+    unit:16 Lancers (52,34)
+    unit:2 Cavalry Field Ambulance (63,34)
+    person:Private Fryer (discipline) (32,45)
+    unit:4 Hussars (39,67)
+    person:Captain T J Faithfull (author) (53,75)
+Page 719 (type cover)
+Page 720 (type diary) http://wd3.herokuapp.com/pages/AWD00019lj  ----------
+  28 Apr 1917 0
+    place:Merris (13,26)
+    unit:5 Lancers (37,27)
+    unit:3 Hussars (47,36)
+    unit:3 Machine Gun Squadron (41,45)
+    person:Private Matthews (discipline) (48,70)
+    unit:No 23 Vet Hospital (46,74)
+Page 721 (type diary) http://wd3.herokuapp.com/pages/AWD00019j1  ----------
+  28 Apr 1917 0
+    place:Merris (15,28)
+    unit:5 Lancers (46,29)
+    activity:training (33,37)
+    unit:16 Lancers (44,39)
+    unit:Northumberland mvs (51,58)
+    unit:8 Lancers (48,64)
+    unit:4 Hussars (39,67)
+    person:Private G R Hall (joined) (44,70)
+    domestic:inspections (31,70)
+    person:Private Fryer (departed_posted) (50,83)
+Page 722 (type diary) http://wd3.herokuapp.com/pages/AWD00019kx  ----------
+  28 Apr 1917 0
+    unit:4 Hussars (40,27)
+    place:Merris (14,27)
+    unit:16 Lancers (44,30)
+    unit:5 Lancers (66,30)
+    unit:3 machine Gun Squadron (50,34)
+    activity:training (29,55)
+    activity:training (30,89)
+Page 723 (type diary) http://wd3.herokuapp.com/pages/AWD00019mb  ----------
+  28 Apr 1917 0
+    place:Merris (15,27)
+    unit:3 Cavalry Brigade (43,40)
+    person:Private Hall (35,45)
+    person:Private H Lucas (joined) (35,54)
+    unit:5 Lancers (41,85)
+    unit:16 Lancers (30,88)
+Page 724 (type cover)
+Page 725 (type diary) http://wd3.herokuapp.com/pages/AWD00019op  ----------
+  28 Apr 1917 0
+    place:Merris (12,26)
+    domestic:inspections (36,31)
+    unit:16 Lancers (67,45)
+    unit:4 Hussars (38,46)
+    unit:5 Lancers (52,47)
+    person:Captain Horne (other) (45,48)
+    person:Lieutenant Robertson (commander) (55,48)
+    person:Lieutenant Brooks (other) (29,52)
+    domestic:inspections (32,59)
+    person:Private Hall (returned_posted) (32,62)
+    place:Robecq (15,66)
+    activity:movement (31,69)
+    time:0930AM (58,70)
+    place:Conteville (17,77)
+    activity:movement (31,80)
+    place:Wail (14,85)
+    time:0930AM (44,90)
+    activity:movement (33,90)
+Page 726 (type diary) http://wd3.herokuapp.com/pages/AWD00019s7  ----------
+  28 Apr 1917 0
+    place:Wail (14,27)
+    place:Outrebois (16,33)
+    time:0930AM (47,35)
+    activity:movement (27,36)
+    unit:4 Hussars (39,44)
+    unit:16 Lancers (49,44)
+    place:Wargnies (16,45)
+    activity:movement (32,48)
+    unit:126 bgde Royal Field Artillery (70,51)
+    place:Bonnay (17,55)
+    activity:movement (33,59)
+    unit:5 Lancers (40,67)
+    unit:3 Machine Gun Brigade (67,68)
+    activity:movement (32,78)
+    unit:No 9 mvs (70,81)
+    activity:movement (32,86)
+Page 727 (type diary) http://wd3.herokuapp.com/pages/AWD00019s9  ----------
+  28 Apr 1917 0
+    place:Dernancourt (15,27)
+    unit:2 Cavalry Division (49,28)
+    domestic:inspections (39,51)
+    unit:Royal Horse Artillery (47,55)
+    person:Sergeant J Briars (joined) (34,65)
+    unit:Mobile Supply Column (55,69)
+Page 728 (type diary) http://wd3.herokuapp.com/pages/AWD00019q1  ----------
+  28 Apr 1917 0
+    place:Dernancourt (15,26)
+    unit:53 bat. Royal Horse Artillery (45,28)
+    unit:53 Bat R.H.A. (38,28)
+    unit:No 22 mvs (42,33)
+    unit:22 Mobile Veterinary Section (40,33)
+    unit:109 bat Royal Horse Artillery (46,43)
+    person:Captain T J Faithfull (57,55)
+Page 729 (type cover)
+Page 730 (type diary) http://wd3.herokuapp.com/pages/AWD00019to  ----------
+  28 Apr 1917 0
+    unit:Hq. 2 Cavalry Division (56,26)
+    place:Dernancourt (16,27)
+    person:Private Matthews (40,33)
+    unit:Mobile Supply Column (48,43)
+    unit:16 Lancers (44,52)
+    person:Private Matthews (returned_hospital) (32,53)
+    unit:5 Lancers (63,58)
+    unit:16 Lancers (34,62)
+    unit:4 Hussars (46,62)
+    domestic:inspections (60,77)
+Page 731 (type diary) http://wd3.herokuapp.com/pages/AWD00019lp  ----------
+  28 Apr 1917 0
+    unit:5 Lancers (40,27)
+    place:Dernancourt (10,28)
+    unit:2 Cavalry Bgde (58,28)
+    unit:3 Hussars (47,31)
+    unit:Oxford Hussars (63,32)
+    unit:No 9 mvs (44,34)
+    unit:No 7 mv (58,35)
+    unit:16 Lancers (42,50)
+    unit:4 Hussars (67,50)
+Page 732 (type diary) http://wd3.herokuapp.com/pages/AWD00019ic  ----------
+  28 Apr 1917 0
+    place:Dernancourt (14,26)
+    domestic:inspections (50,31)
+    unit:Mobile Supply Column (44,36)
+    unit:4 Hussars (42,42)
+    unit:16 Lancers (52,42)
+    unit:5 Lancers (67,42)
+    unit:1 Bttb. N.Z. F Artillery (56,46)
+    unit:3 mg squadron (32,47)
+    unit:4 Infantry Division (50,52)
+    unit:Cavalry Corps Squadron (59,73)
+    person:Captain T J Faithfull (81,83)
+Page 733 (type cover)
+Page 734 (type diary) http://wd3.herokuapp.com/pages/AWD00019so  ----------
+  28 Apr 1917 0
+    place:Dernancourt (13,28)
+    unit:Cavalry Corps Squadron (37,28)
+    unit:5 Lancers (69,28)
+    unit:3 Machine Gun Squadron (30,32)
+    unit:16 Lancers (43,32)
+    unit:4 Hussars (47,43)
+    unit:Mobile Supply Column (33,58)
+    unit:Hq 5 Cavalry Brigade (44,71)
+    place:Bussy (13,80)
+    place:Bussy (7,84)
+    activity:movement (34,85)
+Page 735 (type diary) http://wd3.herokuapp.com/pages/AWD00019j8  ----------
+  28 Apr 1917 0
+    place:Bourdon (14,28)
+    unit:2 Cavalry Field Ambulance (52,29)
+    unit:5 Lancers (66,29)
+    unit:3 Cavalry Bgde (31,32)
+    activity:movement (30,36)
+    place:Le Titre (15,40)
+    time:0745AM (58,44)
+    unit:4 Hussars (46,46)
+    time:0530PM (37,54)
+    place:Tortefontaine (14,55)
+    person:Private Dawson (departed_sick) (45,59)
+    activity:movement (30,59)
+    unit:Hq 3 Cavalry bgde (43,75)
+    person:Private Matthews (returned_posted) (30,77)
+    person:Private Turner (returned_posted) (33,77)
+    person:Private Turner (departed_sick) (31,82)
+Page 736 (type diary) http://wd3.herokuapp.com/pages/AWD00019sq  ----------
+  28 Apr 1917 0
+    unit:3 Signal Troop (41,28)
+    place:Tortefontaine (15,28)
+    person:Captain T J Faithfull (departed_leave) (32,37)
+    unit:Mmp 3 Cavalry bgde (45,52)
+    unit:16 Lancers (38,61)
+    unit:5 Lancers (51,61)
+    person:Private Turner (returned_hospital) (29,64)
+    unit:3 Cavalry Bgde (54,70)
+    person:Private Dawson (returned_leave) (30,74)
+    unit:4 Hussars (38,85)
+Page 737 (type diary) http://wd3.herokuapp.com/pages/AWD00019ny  ----------
+  28 Apr 1917 0
+    place:Tortefontaine (13,27)
+    domestic:inspections (35,33)
+    domestic:parades (30,38)
+    unit:5 Lancers (38,42)
+    unit:16 Lancers (54,45)
+    person:Colonel Harris (other) (31,65)
+    unit:4 Hussars (45,69)
+    person:Captain Faithfull (83,73)
+    person:Captain T J Faithfull (returned_leave) (30,75)
+    unit:Amm col Royal Horse Artillery (39,83)
+    person:Sergeant H B Harris (departed_training) (32,89)
+Page 738 (type cover)
+Page 739 (type diary) http://wd3.herokuapp.com/pages/AWD00019o0  ----------
+  28 Apr 1917 0
+    unit:5 Lancers (40,27)
+    place:Tortefontaine (13,27)
+    unit:4 Hussars (37,34)
+    person:Corporal W Waterton (discipline) (32,38)
+    person:Private W Lucas (discipline) (47,41)
+    unit:16 Lancers (37,53)
+    unit:3 Signal Troop (46,57)
+    domestic:inspections (33,77)
+    person:Private Hall (departed_training) (43,81)
+    domestic:medical (31,88)
+    domestic:inspections (36,88)
+Page 740 (type diary) http://wd3.herokuapp.com/pages/AWD00019tf  ----------
+  28 Apr 1917 0
+    place:Tortefontaine (15,28)
+    unit:16 Lancers (57,29)
+    unit:5 Lancers (69,29)
+    unit:Amm Col (30,34)
+    person:Sergeant R Jukes (departed_training) (30,42)
+    person:Sergeant Brian (departed_leave) (32,45)
+    person:Lance Corporal Pratt (other) (30,48)
+    person:Captain Stevenson (other) (48,49)
+    person:Private S H Hall (departed_posted) (35,52)
+    person:Private E Carden (joined) (57,58)
+    person:Corporal R Jukes (promotion) (38,70)
+    person:Private Osborne (promotion) (30,74)
+    unit:5 Hussars (40,84)
+    unit:2 Field Squadron (53,89)
+Page 741 (type diary) http://wd3.herokuapp.com/pages/AWD00019of  ----------
+  28 Apr 1917 0
+    place:Tortefontaine (13,27)
+    person:Private W Lucas (returned_leave) (32,27)
+    unit:3 Signal Troop (37,34)
+    person:Captain Alexander (commander) (47,52)
+    unit:5 Lancers (63,54)
+    unit:16 Lancers (39,65)
+    person:Sergeant Briars (returned_leave) (30,67)
+    person:Sergeant G Briars (departed_posted) (31,71)
+    unit:4 Hussars (40,75)
+    person:Captain F J Faithfull (78,88)
+Page 742 (type cover)
+Page 743 (type diary) http://wd3.herokuapp.com/pages/AWD00019j2  ----------
+  28 Apr 1917 0
+    place:Tortefontaine (10,27)
+    unit:16 Lancers (40,30)
+    unit:3 mg squadron (54,30)
+    unit:5 Lancers (40,51)
+    domestic:inspections (35,61)
+    unit:4 Hussars (39,90)
+    unit:2 Cavalry Field Ambulance (54,90)
+    person:Private R Whitehead (75,92)
+Page 744 (type diary) http://wd3.herokuapp.com/pages/AWD00019kg  ----------
+  28 Apr 1917 0
+    place:Tortefontaine (12,28)
+    unit:4 Hussars (48,67)
+    unit:5 Lancers (38,72)
+Page 745 (type diary) http://wd3.herokuapp.com/pages/AWD00019pz  ----------
+  28 Apr 1917 0
+    unit:4 Hussars (69,28)
+    place:Tortefontaine (10,28)
+    unit:5 Lancers (32,33)
+    unit:16 Lancers (39,48)
+    person:Corporal A Gordon (departed_sick) (29,55)
+    person:Corporal Cardin (departed_sick) (52,56)
+    person:E C Matthews (departed_leave) (31,62)
+    unit:Hq 3 Cavalry Brigade (42,78)
+    unit:Hq 2 Cavalry Division (54,82)
+Page 746 (type diary) http://wd3.herokuapp.com/pages/AWD00019jp  ----------
+  28 Apr 1917 0
+    place:Tortefontaine (11,28)
+    unit:5 Lancers (42,29)
+    unit:16 Lancers (42,45)
+    unit:Royal Horse Artillery (58,49)
+    unit:4 Hussars (42,78)
+    unit:3 mg squadron (57,79)
+Page 747 (type cover)
+Page 748 (type diary) http://wd3.herokuapp.com/pages/AWD00019lx  ----------
+  28 Apr 1917 0
+    place:Tortefontaine (13,26)
+    unit:5 Lancers (39,27)
+    unit:4 Hussars (67,27)
+    unit:3 mg squadron (38,47)
+    person:Private M Fry (joined) (34,60)
+    domestic:inspections (36,85)
+Page 749 (type diary) http://wd3.herokuapp.com/pages/AWD00019m3  ----------
+  28 Apr 1917 0
+    unit:5 Lancers (55,27)
+    place:Tortefontaine (11,27)
+    unit:16 Lancers (41,28)
+    activity:training (30,39)
+    domestic:inspections (34,44)
+    activity:training (30,52)
+    person:Lance Corporal W Lucas (41,62)
+    person:Private G Woods (discipline) (35,66)
+    unit:3 mg squadron (39,73)
+Page 750 (type diary) http://wd3.herokuapp.com/pages/AWD00019ke  ----------
+  Hashtags: #courtmartial 
+  28 Apr 1917 0
+    place:Tortefontaine (14,27)
+    activity:training (32,33)
+    unit:16 Lancers (43,44)
+    unit:5 Lancers (59,44)
+    unit:2 Cavalry Ambulance (33,49)
+    unit:4 Hussars (43,73)
+    unit:3 Machine Gun Squadron (60,73)
+    person:W Lucas (63,85)
+    person:W Lucas (discipline) (45,86)
+    person:Private G Woods (discipline) (38,89)
+    activity:training (48,94)
+    person:Captain Smith (author) (63,96)
+Page 751 (type cover)
+Page 752 (type diary) http://wd3.herokuapp.com/pages/AWD00019nn  ----------
+  Hashtags: #courtmartial 
+  28 Apr 1917 0
+    place:Tortefontaine (18,27)
+    unit:3 Hussars (41,34)
+    unit:6 Dragoon Guards (43,42)
+    person:Private W Lucas (discipline) (39,52)
+    person:Private G Woods (discipline) (38,56)
+    unit:4 Cavalry Bgde (45,68)
+    unit:4 Hussars (44,79)
+    unit:16 Lancers (41,82)
+    unit:12 Lancers (41,88)
+    unit:5 Lancers (38,92)
+Page 753 (type diary) http://wd3.herokuapp.com/pages/AWD00019ps  ----------
+  28 Apr 1917 0
+    place:Tortefontaine (14,26)
+    person:Captain T J Faithfull (commander) (31,45)
+    unit:5 Lancers (39,49)
+    unit:16 Lancers (50,64)
+    unit:Hq 3 Cavalry bgde (41,72)
+    domestic:medical (27,79)
+    domestic:medical (31,84)
+    unit:4 Hussars (41,90)
+Page 754 (type diary) http://wd3.herokuapp.com/pages/AWD00019sl  ----------
+  Hashtags: #courtmartial 
+  28 Apr 1917 0
+    place:Tortefontaine (13,27)
+    unit:Mmp 3 Cavalry bgde (65,33)
+    unit:4 Hussars (45,37)
+    unit:5 Lancers (30,39)
+    unit:3 Machine Gun Squadron (59,48)
+    unit:2 Cavalry Field Ambulance (41,49)
+    person:Private W Lucas (returned_posted) (32,51)
+    person:Private G Woods (returned_posted) (52,51)
+    domestic:inspections (44,78)
+    unit:16 Lancers (37,87)
+Page 755 (type diary) http://wd3.herokuapp.com/pages/AWD00019o2  ----------
+  28 Apr 1917 0
+    place:Tortefontaine (13,28)
+    unit:16 Lancers (40,29)
+    activity:training (32,32)
+    unit:Hq 3 Cavalry bgde (41,38)
+    domestic:medical (55,41)
+    domestic:inspections (36,42)
+    unit:2 Cavalry Field Amb (42,47)
+    person:Captain T J Faithfull (commander) (59,64)
+Page 756 (type cover)
+Page 757 (type diary) http://wd3.herokuapp.com/pages/AWD00019sh  ----------
+  28 Apr 1917 0
+    place:Tortefontaine (15,27)
+    unit:2 Cavalry Field Amb (35,34)
+    unit:4 Hussars (37,40)
+    place:Occoches (8,57)
+    activity:movement (33,58)
+    unit:16 Lancers (50,63)
+    unit:3 M G Sq (63,64)
+    domestic:inspections (52,67)
+    place:Gudeaumpre (15,68)
+    activity:movement (35,76)
+    place:Riviere (15,80)
+    activity:movement (31,83)
+Page 758 (type diary) http://wd3.herokuapp.com/pages/AWD00019pf  ----------
+  10 Apr 1917 25
+    activity:movement (33,27)
+    place:Ronville (15,27)
+  11 Apr 1917 33
+    unit:5 mg sq (62,38)
+  12 Apr 1917 58
+    place:Gaudiempre (16,58)
+    unit:No 27 mvs (58,63)
+    activity:movement (33,70)
+  13 Apr 1917 78
+    unit:16 Lancers (44,83)
+  14 Apr 1917 85
+    unit:5 Lancers (60,86)
+    unit:4 Hussars (43,90)
+Page 759 (type diary) http://wd3.herokuapp.com/pages/AWD00019je  ----------
+  15 Apr 1917 21
+    place:Gaudiempre (6,26)
+    unit:Hq 2 Cavalry Division (38,27)
+  16 Apr 1917 30
+    unit:5 Lancers (34,35)
+    unit:4 Hussars (47,35)
+    unit:2 Signal Squadron (60,36)
+    unit:16 Lancers (73,36)
+  17 Apr 1917 39
+  18 Apr 1917 47
+    unit:3 Cavalry Bgde (43,52)
+  19 Apr 1917 56
+    unit:Xxth Hussars (48,56)
+    place:Frohen le Grand (10,57)
+    activity:movement (23,61)
+  20 Apr 1917 66
+  21 Apr 1917 71
+    activity:movement (23,71)
+    person:Driver P Hobson (joined) (35,76)
+  22 Apr 1917 77
+  23 Apr 1917 85
+Page 760 (type diary) http://wd3.herokuapp.com/pages/AWD00019q3  ----------
+  24 Apr 1917 21
+    unit:Hq 5 Cavalry bgde (80,29)
+    unit:Xxth Hussars (52,30)
+  26 Apr 1917 39
+    unit:Royal Horse Artillery 2 (42,41)
+  27 Apr 1917 44
+    unit:3 Cavalry Bgde (37,44)
+  28 Apr 1917 48
+    person:Private P Webb (joined) (43,48)
+  29 Apr 1917 56
+    unit:5 Lancers (37,59)
+  30 Apr 1917 63
+Page 761 (type cover)
+Page 762 (type diary) http://wd3.herokuapp.com/pages/AWD00019oa  ----------
+  1 May 1917 20
+    person:Driver A E C Harris (joined) (37,28)
+    person:Driver Goodall (joined) (62,28)
+  2 May 1917 31
+  3 May 1917 43
+  4 May 1917 52
+    unit:5 Lancers (37,52)
+  5 May 1917 55
+  6 May 1917 59
+    domestic:inspections (30,59)
+  7 May 1917 63
+    unit:3 mg squadron (58,67)
+    unit:4 Hussars (67,70)
+    unit:16 Lancers (51,71)
+    unit:5 Lancers (79,72)
+    domestic:inspections (55,73)
+  8 May 1917 74
+Page 763 (type diary) http://wd3.herokuapp.com/pages/AWD00019l7  ----------
+  9 May 1917 26
+    place:Auxi Le Chateau (16,29)
+    unit:5 Lancers (44,31)
+  10 May 1917 32
+    domestic:inspections (33,36)
+    unit:16 Lancers (55,36)
+  11 May 1917 37
+  12 May 1917 44
+    person:Private Allen (departed_leave) (32,45)
+    place:Frohen Le Grand (15,46)
+    activity:movement (28,49)
+  13 May 1917 50
+    place:Warnies (13,53)
+    activity:movement (27,54)
+  14 May 1917 57
+    place:Quaerieu (14,59)
+    activity:movement (28,61)
+  15 May 1917 63
+    place:Suzanne (15,65)
+    activity:movement (28,69)
+  16 May 1917 70
+    place:Hamel (15,71)
+    place:Hamel (9,74)
+  17 May 1917 75
+    activity:movement (29,75)
+  18 May 1917 80
+  19 May 1917 87
+    place:Boucly (16,87)
+    activity:movement (29,94)
+Page 764 (type diary) http://wd3.herokuapp.com/pages/AWD00019lh  ----------
+  20 May 1917 20
+    unit:Royal Horse Artillery (50,25)
+    place:Boucly (6,25)
+  21 May 1917 33
+    unit:16 Lancers (78,37)
+    unit:4 Hussars (41,42)
+    unit:5 Lancers (22,43)
+  22 May 1917 46
+    person:Lance Corporal Pratt (departed_leave) (29,58)
+  23 May 1917 63
+  24 May 1917 68
+    activity:training (25,72)
+    domestic:inspections (38,73)
+  25 May 1917 74
+Page 765 (type diary) http://wd3.herokuapp.com/pages/AWD00019rh  ----------
+  26 May 1917 24
+    place:Boucly (16,25)
+    person:Corporal J Osborne (departed_leave) (41,30)
+    person:Driver R Hobson (returned_posted) (42,36)
+  27 May 1917 40
+    unit:Royal Horse Artillery (47,41)
+  28 May 1917 44
+    unit:5 Lancers (61,49)
+  29 May 1917 53
+    unit:4 Hussars (35,54)
+  30 May 1917 59
+  31 May 1917 65
+    activity:training (33,73)
+    person:Captain T J Faithfull (commander) (73,81)
+Page 766 (type cover)
+Page 767 (type diary) http://wd3.herokuapp.com/pages/AWD00019li  ----------
+  1 Jun 1917 21
+  2 Jun 1917 24
+    place:Boucly (6,24)
+    activity:training (40,24)
+    activity:training (26,27)
+  3 Jun 1917 28
+    person:Sergeant W H Idill (discipline) (32,32)
+    person:Private A Refoy (departed_leave) (50,43)
+  4 Jun 1917 44
+    person:Corporal Idill (departed_posted) (39,48)
+    unit:3 mg squadron (68,52)
+    unit:16 Lancers (35,53)
+    unit:5 Lancers (51,53)
+  5 Jun 1917 55
+  6 Jun 1917 64
+  7 Jun 1917 67
+  8 Jun 1917 71
+  9 Jun 1917 75
+  11 Jun 1917 80
+    unit:5 Hussars (54,82)
+    unit:Royal Horse Artillery (75,85)
+    unit:6 Lancers (69,89)
+Page 768 (type diary) http://wd3.herokuapp.com/pages/AWD00019t7  ----------
+  Hashtags: #Conference 
+  12 Jun 1917 22
+    place:Boucly (6,25)
+    person:Private A Bowes (departed_leave) (31,28)
+  13 Jun 1917 38
+  14 Jun 1917 44
+  15 Jun 1917 53
+Page 769 (type diary) http://wd3.herokuapp.com/pages/AWD00019j3  ----------
+  15 Jun 1917 22
+    place:Boucly (9,25)
+  16 Jun 1917 33
+    unit:3 mg sq (37,38)
+  17 Jun 1917 39
+  18 Jun 1917 44
+    unit:2 Cavalry Division (52,49)
+    unit:5 Lancers (79,52)
+    unit:16 Lancers (38,54)
+  19 Jun 1917 56
+  20 Jun 1917 61
+    person:A I Osborne (promotion) (39,65)
+  21 Jun 1917 70
+    unit:2 Cavalry Amb (50,76)
+    person:Private A Pyle (36,78)
+    person:Private Cross (joined) (46,79)
+  22 Jun 1917 81
+    person:Private C Penn (33,86)
+Page 770 (type diary) http://wd3.herokuapp.com/pages/AWD00019pn  ----------
+  23 Jun 1917 26
+    place:Buckley (16,27)
+    person:Private Turner (departed_posted) (40,27)
+    place:Boucly (9,28)
+  24 Jun 1917 32
+    person:Private C Adler (departed_posted) (40,36)
+    person:Captain T J Faithfull (departed_posted) (31,45)
+  25 Jun 1917 52
+    person:Private J Robinson (joined) (43,58)
+  26 Jun 1917 62
+  27 Jun 1917 67
+  28 Jun 1917 72
+    person:Private Ewbank (joined) (43,75)
+  29 Jun 1917 76
+    person:Private A Pyle (41,82)
+  30 Jun 1917 83
+    person:Private W H Crocker (departed_posted) (43,90)
+Page 771 (type cover)
+Page 772 (type diary) http://wd3.herokuapp.com/pages/AWD00019jw  ----------
+  1 Jul 1917 20
+    place:Bucley (6,23)
+  2 Jul 1917 27
+  3 Jul 1917 32
+    domestic:inspections (25,35)
+  4 Jul 1917 36
+  5 Jul 1917 41
+  6 Jul 1917 45
+  7 Jul 1917 52
+  8 Jul 1917 56
+  9 Jul 1917 60
+  10 Jul 1917 67
+  11 Jul 1917 74
+  12 Jul 1917 83
+  13 Jul 1917 88
+    activity:movement (30,91)
+Page 773 (type diary) http://wd3.herokuapp.com/pages/AWD00019mp  ----------
+  14 Jul 1917 24
+    activity:movement (30,28)
+  15 Jul 1917 31
+    activity:movement (29,35)
+    unit:16 Lancers (50,39)
+  16 Jul 1917 44
+    activity:movement (29,49)
+  18 Jul 1917 60
+  19 Jul 1917 64
+  20 Jul 1917 67
+    unit:No 7 mvs (47,68)
+  21 Jul 1917 70
+  22 Jul 1917 72
+  23 Jul 1917 75
+    person:Private Lloyd (returned_leave) (33,76)
+  24 Jul 1917 78
+  25 Jul 1917 87
+Page 774 (type diary) http://wd3.herokuapp.com/pages/AWD00019r0  ----------
+  26 Jul 1917 23
+  27 Jul 1917 28
+  28 Jul 1917 35
+  30 Jul 1917 47
+  31 Jul 1917 60
+    unit:5 Lancers (41,64)
+Page 775 (type cover)
+Page 776 (type cover)
+Page 777 (type diary) http://wd3.herokuapp.com/pages/AWD00019sk  ----------
+  1 Aug 1917 24
+    activity:other (36,26)
+    unit:5 Lancers (58,27)
+  2 Aug 1917 30
+    person:Captain Young (departed_leave) (55,32)
+    unit:Hq 3 Brigade (45,34)
+  3 Aug 1917 37
+    activity:other (41,45)
+    unit:3 Signal Corps (47,47)
+  4 Aug 1917 48
+    unit:2 Cavalry Division (29,51)
+  5 Aug 1917 57
+  6 Aug 1917 66
+  7 Aug 1917 76
+    activity:other (32,80)
+  8 Aug 1917 84
+    person:General Greenley (other) (31,93)
+Page 778 (type diary) http://wd3.herokuapp.com/pages/AWD00019jj  ----------
+  8 Aug 1917 26
+  9 Aug 1917 33
+  10 Aug 1917 37
+    unit:3 Signal Corps (42,40)
+  11 Aug 1917 46
+    unit:5 Lancers (54,46)
+  12 Aug 1917 51
+  13 Aug 1917 55
+    unit:No 18 Field Regiment (66,58)
+    person:Captain Smith (departed_leave) (39,69)
+  14 Aug 1917 70
+    person:Driver West (returned_leave) (29,74)
+  15 Aug 1917 82
+Page 779 (type diary) http://wd3.herokuapp.com/pages/AWD00019rz  ----------
+  16 Aug 1917 26
+    unit:Mobile Supply Column (43,28)
+    unit:3 Machine Gun Squadron (49,32)
+    person:Driver S Lindsay (discipline) (29,44)
+    person:Sergeant G J Carnell (30,64)
+    person:Sergeant W J Stanley (29,74)
+  23 Aug 1917 82
+    domestic:medical (30,84)
+Page 780 (type diary) http://wd3.herokuapp.com/pages/AWD00019jt  ----------
+  23 Aug 1917 0
+  24 Aug 1917 26
+    person:Private W Weeds (departed_sick) (31,29)
+  25 Aug 1917 31
+  26 Aug 1917 34
+  27 Aug 1917 38
+    unit:Hq 3 Cavalry Brigade (50,39)
+  28 Aug 1917 42
+  29 Aug 1917 54
+  30 Aug 1917 64
+    unit:5 Lancers (52,64)
+  31 Aug 1917 74
+    person:Private C Penn (departed_leave) (36,83)
+    person:Lieutenant R Clarke-Glover (59,89)
+Page 781 (type cover)
+Page 782 (type diary) http://wd3.herokuapp.com/pages/AWD00019l2  ----------
+  2 Sep 1917 27
+  3 Sep 1917 29
+    person:Driver Lindsay (departed_sick) (60,36)
+  5 Sep 1917 42
+    unit:D Battery Royal Horse Artillery (55,42)
+    person:Driver Lindsay (50,51)
+    person:Driver T Giles (joined) (60,56)
+  12 Sep 1917 86
+    person:Penn (36,89)
+Page 783 (type diary) http://wd3.herokuapp.com/pages/AWD00019j0  ----------
+  13 Sep 1917 25
+  14 Sep 1917 33
+    unit:D Battery Royal Horse Artillery (55,33)
+  15 Sep 1917 42
+  16 Sep 1917 50
+  17 Sep 1917 55
+    domestic:inspections (57,58)
+  18 Sep 1917 73
+    unit:16 Lancers (58,80)
+Page 784 (type diary) http://wd3.herokuapp.com/pages/AWD00019pm  ----------
+  19 Sep 1917 21
+    unit:2 field sq re (82,35)
+  20 Sep 1917 39
+  21 Sep 1917 44
+    person:Lieutenant R Clarke-Glover (departed_leave) (30,47)
+    person:Captain J S Young (commander) (71,47)
+    person:Private W Weeds (departed_posted) (45,51)
+  23 Sep 1917 55
+    unit:16 Lancers (60,56)
+  24 Sep 1917 59
+  25 Sep 1917 66
+  27 Sep 1917 78
+  28 Sep 1917 84
+    unit:2 Cavalry Division (70,94)
+Page 785 (type diary) http://wd3.herokuapp.com/pages/AWD00019rd  ----------
+  29 Sep 1917 23
+  30 Sep 1917 29
+    unit:2 Cavalry Division (34,29)
+Page 786 (type cover)
+Page 787 (type cover)
+Page 788 (type diary) http://wd3.herokuapp.com/pages/AWD00019n2  ----------
+  1 Oct 1917 21
+  3 Oct 1917 31
+  4 Oct 1917 47
+  5 Oct 1917 55
+  6 Oct 1917 63
+  8 Oct 1917 72
+  9 Oct 1917 75
+    place:Roellicourt (50,76)
+  11 Oct 1917 83
+    person:Brigadier General Bell-Smyth (other) (28,87)
+  12 Oct 1917 88
+Page 789 (type diary) http://wd3.herokuapp.com/pages/AWD00019la  ----------
+  13 Oct 1917 23
+    person:Private Webb (returned_leave) (23,27)
+  14 Oct 1917 28
+    person:Private G Dawson (departed_leave) (23,31)
+  15 Oct 1917 32
+  17 Oct 1917 38
+    person:Private M Fry (departed_leave) (22,42)
+  18 Oct 1917 44
+  19 Oct 1917 48
+  20 Oct 1917 51
+    person:Driver West (45,51)
+    activity:movement (25,54)
+    place:Honual (70,56)
+  21 Oct 1917 59
+    place:Domart (45,62)
+  23 Oct 1917 66
+    activity:movement (28,67)
+    place:Creuse (55,67)
+  24 Oct 1917 71
+    person:Private Minty (commander) (34,74)
+  25 Oct 1917 75
+    person:Private Webb (67,75)
+    person:Private Allen (joined) (76,75)
+  26 Oct 1917 78
+  27 Oct 1917 87
+    activity:movement (32,90)
+Page 790 (type diary) http://wd3.herokuapp.com/pages/AWD00019s6  ----------
+  28 Oct 1917 23
+  30 Oct 1917 31
+  31 Oct 1917 40
+    person:Lieutenant R Clarke-Glover (commander) (60,53)
+Page 791 (type cover)
+Page 792 (type diary) http://wd3.herokuapp.com/pages/AWD00019pp  ----------
+  1 Nov 1917 23
+    person:Private W Lucas (departed_leave) (30,27)
+  2 Nov 1917 30
+    unit:D batery Royal Horse Artillery (50,31)
+  3 Nov 1917 34
+    person:Private L M Minty (31,38)
+  4 Nov 1917 42
+    person:Private A E Bowes (32,43)
+  5 Nov 1917 45
+  7 Nov 1917 52
+    person:Private W Lucas (returned_leave) (28,55)
+    person:Private T Mackenzie (returned_leave) (55,55)
+    person:Captain Smith (39,65)
+  9 Nov 1917 73
+  10 Nov 1917 77
+  11 Nov 1917 81
+    person:Private A E Bowes (returned_leave) (31,85)
+  12 Nov 1917 90
+Page 793 (type diary) http://wd3.herokuapp.com/pages/AWD00019sa  ----------
+  13 Nov 1917 24
+  14 Nov 1917 32
+  15 Nov 1917 37
+    person:Private Weaving (departed_leave) (64,41)
+    person:Private Minty (returned_hospital) (29,42)
+  16 Nov 1917 46
+  17 Nov 1917 56
+  18 Nov 1917 64
+  19 Nov 1917 73
+    person:Private Robinson (other) (58,76)
+    person:Private Ewbank (departed_leave) (29,77)
+  20 Nov 1917 87
+    unit:No 7 mvs (31,87)
+Page 794 (type diary) http://wd3.herokuapp.com/pages/AWD00019k0  ----------
+  20 Nov 1917 25
+  21 Nov 1917 27
+  22 Nov 1917 38
+  23 Nov 1917 42
+  24 Nov 1917 55
+  25 Nov 1917 65
+  26 Nov 1917 84
+  27 Nov 1917 89
+Page 795 (type diary) http://wd3.herokuapp.com/pages/AWD00019qb  ----------
+  29 Nov 1917 24
+  30 Nov 1917 29
+Page 796 (type cover)
+Page 797 (type cover)
+Page 798 (type diary) http://wd3.herokuapp.com/pages/AWD00019it  ----------
+  1 Dec 1917 22
+  2 Dec 1917 26
+    unit:3 Cavalry Bgde (44,29)
+  3 Dec 1917 32
+    unit:No 9 mvs (37,33)
+    unit:2 Cavalry Division (53,36)
+  4 Dec 1917 39
+  5 Dec 1917 44
+    unit:No 7 mvs (44,49)
+  7 Dec 1917 54
+  8 Dec 1917 61
+  9 Dec 1917 69
+    person:Private Ewbank (returned_leave) (28,74)
+  11 Dec 1917 78
+  12 Dec 1917 82
+  13 Dec 1917 86
+    activity:movement (29,89)
+Page 799 (type diary) http://wd3.herokuapp.com/pages/AWD00019si  ----------
+  14 Dec 1917 25
+  15 Dec 1917 28
+  16 Dec 1917 32
+    person:Captain Young (other) (37,35)
+    unit:5 Lancers (70,39)
+    unit:4 Hussars (61,41)
+  17 Dec 1917 45
+    unit:16 Lancers (30,45)
+  18 Dec 1917 50
+    unit:4 Hussars (39,50)
+  19 Dec 1917 54
+  20 Dec 1917 63
+  21 Dec 1917 75
+  22 Dec 1917 86
+Page 800 (type diary) http://wd3.herokuapp.com/pages/AWD00019rk  ----------
+  23 Dec 1917 25
+  24 Dec 1917 28
+  25 Dec 1917 32
+  26 Dec 1917 36
+    unit:2 Cavalry Division (70,39)
+  27 Dec 1917 45
+    unit:4 Hussars (38,50)
+  28 Dec 1917 53
+  29 Dec 1917 58
+  30 Dec 1917 62
+  31 Dec 1917 68
+Page 801 (type cover)
+Page 802 (type blank)
+Page 803 (type blank)
+Page 804 (type diary) http://wd3.herokuapp.com/pages/AWD00019nt  ----------
+  1 Jan 1918 25
+  2 Jan 1918 28
+  3 Jan 1918 38
+  4 Jan 1918 42
+    person:Lance Corporal West (departed_sick) (32,45)
+  5 Jan 1918 49
+    unit:4 Hussars (37,54)
+  6 Jan 1918 57
+  8 Jan 1918 65
+  9 Jan 1918 70
+  10 Jan 1918 80
+    person:Private Woods (departed_leave) (59,86)
+Page 805 (type diary) http://wd3.herokuapp.com/pages/AWD00019jx  ----------
+  11 Jan 1918 24
+    unit:4 Hussars (35,28)
+  12 Jan 1918 31
+  13 Jan 1918 38
+  14 Jan 1918 42
+    domestic:religion (43,43)
+  15 Jan 1918 47
+  16 Jan 1918 54
+    domestic:inspections (55,59)
+  17 Jan 1918 64
+    person:Private W Lucas (departed_leave) (68,64)
+  18 Jan 1918 70
+  19 Jan 1918 79
+  20 Jan 1918 89
+    person:Private J Robinson (departed_sick) (63,89)
+Page 806 (type diary) http://wd3.herokuapp.com/pages/AWD00019sx  ----------
+  21 Jan 1918 25
+  22 Jan 1918 28
+    unit:4 Hussars (35,28)
+  23 Jan 1918 32
+  24 Jan 1918 44
+  25 Jan 1918 57
+  26 Jan 1918 84
+Page 807 (type diary) http://wd3.herokuapp.com/pages/AWD00019kn  ----------
+  27 Jan 1918 24
+  28 Jan 1918 27
+  29 Jan 1918 30
+  30 Jan 1918 34
+    person:Private Woods (returned_leave) (64,34)
+    person:Private W Lucas (returned_leave) (39,37)
+  31 Jan 1918 38
+Page 808 (type cover)
+Page 809 (type blank)
+Page 810 (type blank)
+Page 811 (type diary) http://wd3.herokuapp.com/pages/AWD00019rs  ----------
+  1 Feb 1918 24
+  2 Feb 1918 27
+  3 Feb 1918 31
+    place:Marcelcaue (65,34)
+    unit:3 Cavalry Bgde (50,34)
+    activity:movement (35,35)
+  4 Feb 1918 38
+  6 Feb 1918 52
+  7 Feb 1918 56
+  8 Feb 1918 60
+  9 Feb 1918 63
+  11 Feb 1918 73
+  12 Feb 1918 77
+    domestic:inspections (49,77)
+  14 Feb 1918 84
+Page 812 (type diary) http://wd3.herokuapp.com/pages/AWD00019m6  ----------
+  15 Feb 1918 25
+  16 Feb 1918 28
+    person:Private Hillier (joined) (58,31)
+  17 Feb 1918 34
+    person:Private G Dowling (departed_posted) (29,41)
+  18 Feb 1918 43
+    domestic:inspections (57,47)
+  19 Feb 1918 51
+  20 Feb 1918 60
+  21 Feb 1918 65
+  22 Feb 1918 70
+  23 Feb 1918 76
+    person:Private F Burgess (joined) (45,80)
+    person:Private Cross (departed_leave) (52,83)
+  24 Feb 1918 89
+Page 813 (type diary) http://wd3.herokuapp.com/pages/AWD00019ma  ----------
+  25 Feb 1918 26
+    domestic:inspections (63,28)
+    person:Captain Smith (58,49)
+  27 Feb 1918 64
+    person:Captain C M Barton (joined) (46,66)
+Page 814 (type cover)
+Page 815 (type blank)
+Page 816 (type blank)
+Page 817 (type diary) http://wd3.herokuapp.com/pages/AWD00019nf  ----------
+  1 Mar 1918 25
+    unit:5 Lancers (66,27)
+  2 Mar 1918 28
+    place:Saint Christ (13,30)
+  3 Mar 1918 32
+  4 Mar 1918 40
+    domestic:inspections (33,40)
+    unit:2 Cavalry Field Ambulance (55,44)
+  5 Mar 1918 45
+  6 Mar 1918 53
+  7 Mar 1918 57
+  8 Mar 1918 62
+  9 Mar 1918 67
+  10 Mar 1918 71
+    domestic:inspections (49,76)
+  11 Mar 1918 78
+  12 Mar 1918 84
+Page 818 (type diary) http://wd3.herokuapp.com/pages/AWD00019ld  ----------
+  13 Mar 1918 24
+    activity:movement (33,27)
+  14 Mar 1918 35
+    place:Grandru (32,35)
+  15 Mar 1918 43
+    domestic:inspections (47,47)
+  16 Mar 1918 49
+  17 Mar 1918 54
+  18 Mar 1918 59
+    person:Private Minty (departed_leave) (52,61)
+  19 Mar 1918 62
+    person:Private Burgess (35,66)
+  20 Mar 1918 71
+    person:Private E Brickell (returned_leave) (33,76)
+    domestic:hygiene (65,78)
+    domestic:inspections (45,80)
+  21 Mar 1918 89
+Page 819 (type diary) http://wd3.herokuapp.com/pages/AWD00019rj  ----------
+  22 Mar 1918 25
+  23 Mar 1918 28
+    activity:movement (33,31)
+    place:Grandru (42,31)
+  24 Mar 1918 35
+    activity:movement (32,38)
+    place:Saint Ledger (42,38)
+  25 Mar 1918 39
+    activity:movement (28,42)
+    place:Compeigne (65,42)
+  27 Mar 1918 46
+    activity:movement (31,46)
+    place:Compeigne (35,46)
+  28 Mar 1918 50
+  29 Mar 1918 55
+    place:Le Tourclet (67,59)
+    activity:movement (28,60)
+  30 Mar 1918 62
+    place:Le Tourclet (62,67)
+  31 Mar 1918 79
+    activity:movement (30,81)
+    place:Le Tourclet (55,81)
+    activity:enemy_activity (39,84)
+Page 820 (type cover)
+Page 821 (type diary) http://wd3.herokuapp.com/pages/AWD00019td  ----------
+  1 Apr 1918 25
+    domestic:inspections (30,37)
+  5 Apr 1918 48
+    activity:movement (29,51)
+    activity:movement (35,51)
+  6 Apr 1918 54
+    activity:movement (29,58)
+    place:Bellancourt (30,62)
+  10 Apr 1918 87
+    activity:movement (26,90)
+    place:Labroye (10,90)
+  11 Apr 1918 92
+Page 822 (type diary) http://wd3.herokuapp.com/pages/AWD00019m4  ----------
+  12 Apr 1918 25
+    place:Labroye (33,26)
+    time:0200PM (44,26)
+    place:Erblinghem (10,27)
+    activity:movement (27,27)
+    time:0800PM (33,31)
+  13 Apr 1918 34
+    activity:movement (27,36)
+    time:0200PM (50,36)
+    place:Lynde (9,37)
+  14 Apr 1918 40
+    place:Lynde (30,40)
+    time:0700PM (36,40)
+  15 Apr 1918 47
+  16 Apr 1918 55
+  17 Apr 1918 64
+  18 Apr 1918 74
+    time:1100AM (41,74)
+    unit:3 Cavalry Bgde (60,75)
+    place:Ecke (10,76)
+    activity:movement (27,76)
+    time:0500PM (40,78)
+  19 Apr 1918 80
+  20 Apr 1918 84
+  21 Apr 1918 89
+Page 823 (type diary) http://wd3.herokuapp.com/pages/AWD00019pk  ----------
+  22 Apr 1918 24
+  23 Apr 1918 27
+  24 Apr 1918 33
+    activity:movement (29,35)
+    time:1000AM (65,35)
+    place:Lynde (9,37)
+    place:Lynde (39,38)
+  26 Apr 1918 48
+  27 Apr 1918 56
+    activity:movement (28,59)
+    time:0930AM (63,59)
+    place:Heurlinghem (40,63)
+    time:0315PM (51,63)
+  28 Apr 1918 70
+  29 Apr 1918 76
+    activity:movement (28,78)
+    place:Dohem (11,81)
+    place:Dohem (43,82)
+  30 Apr 1918 86
+Page 824 (type cover)
+Page 825 (type diary) http://wd3.herokuapp.com/pages/AWD00019kw  ----------
+  1 May 1918 26
+    domestic:inspections (32,28)
+    place:Dohem (13,29)
+  2 May 1918 34
+    domestic:inspections (28,36)
+  3 May 1918 39
+  4 May 1918 45
+    person:Private Ferguson (joined) (37,50)
+  5 May 1918 55
+    activity:movement (27,57)
+    place:Dohem (33,57)
+    time:0900AM (41,58)
+    time:0500PM (33,61)
+    place:Lefaux (60,61)
+  6 May 1918 62
+  7 May 1918 68
+  8 May 1918 74
+    person:Lance Corporal L M Minty (departed_posted) (33,74)
+  9 May 1918 83
+Page 826 (type diary) http://wd3.herokuapp.com/pages/AWD00019n5  ----------
+  10 May 1918 26
+    place:Lefaux (7,27)
+    time:0600PM (18,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,29)
+    domestic:inspections (29,29)
+    time:0700PM (17,32)
+    time:0530PM (17,36)
+    time:0800PM (17,40)
+    domestic:hygiene (70,40)
+    activity:training (28,40)
+    domestic:inspections (26,43)
+    unit:16 Lancers (66,48)
+    time:0830PM (17,48)
+    time:0600PM (18,59)
+    unit:5 Lancers (49,63)
+    time:0700PM (17,63)
+    activity:training (59,67)
+    time:0530PM (17,68)
+    domestic:hygiene (25,68)
+    time:1100PM (18,75)
+    domestic:hygiene (41,75)
+    activity:training (32,84)
+  20 May 1918 85
+    activity:training (22,87)
+Page 827 (type diary) http://wd3.herokuapp.com/pages/AWD00019r8  ----------
+  21 May 1918 25
+    domestic:inspections (33,44)
+  20 May 1918 0
+  21 May 1918 25
+  31 May 1918 89
+    person:Captain C M Barton (60,92)
+Page 828 (type cover)
+Page 829 (type cover)
+Page 830 (type blank)
+Page 831 (type diary) http://wd3.herokuapp.com/pages/AWD00019ok  ----------
+  31 May 1918 0
+  1 Jun 1918 25
+    unit:5 Lancers (30,28)
+    place:Lefaux (5,28)
+    activity:enemy_activity (38,32)
+  2 Jun 1918 36
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (40,36)
+  3 Jun 1918 41
+  4 Jun 1918 45
+  5 Jun 1918 48
+    person:Private Ferguson (46,51)
+    person:Private Chaplin (30,56)
+  6 Jun 1918 60
+  7 Jun 1918 63
+  8 Jun 1918 67
+    domestic:inspections (32,71)
+  9 Jun 1918 72
+  10 Jun 1918 75
+    domestic:inspections (28,79)
+  11 Jun 1918 81
+    activity:training (55,83)
+  12 Jun 1918 85
+Page 832 (type diary) http://wd3.herokuapp.com/pages/AWD00019pr  ----------
+  13 Jun 1918 25
+    place:Lefaux (7,27)
+    activity:training (22,27)
+    domestic:parades (80,28)
+  14 Jun 1918 29
+    activity:training (32,29)
+    activity:training (23,32)
+  15 Jun 1918 34
+  16 Jun 1918 42
+  17 Jun 1918 45
+  18 Jun 1918 50
+  19 Jun 1918 53
+  20 Jun 1918 57
+  21 Jun 1918 61
+    person:Pratt (other) (65,66)
+  22 Jun 1918 69
+    person:Sergeant R Jukes (award) (31,74)
+    person:Private Cross (departed_sick) (46,75)
+  23 Jun 1918 76
+    person:Private Chaplin (70,78)
+    person:Sergeant Carnell (56,79)
+    domestic:religion (25,80)
+  24 Jun 1918 84
+    domestic:inspections (28,87)
+Page 833 (type diary) http://wd3.herokuapp.com/pages/AWD00019n0  ----------
+  25 Jun 1918 24
+  26 Jun 1918 28
+    domestic:inspections (46,28)
+  27 Jun 1918 33
+  28 Jun 1918 37
+    person:Captain Barton (departed_leave) (28,40)
+    person:Captain T W Smith (commander) (34,44)
+  29 Jun 1918 45
+  30 Jun 1918 49
+Page 834 (type cover)
+Page 835 (type blank)
+Page 836 (type blank)
+Page 837 (type diary) http://wd3.herokuapp.com/pages/AWD00019or  ----------
+  1 Jul 1918 25
+  2 Jul 1918 28
+    place:Lefaux (7,28)
+    domestic:inspections (32,32)
+  5 Jul 1918 40
+    person:Sergeant C T Carnell (award) (29,43)
+    person:Corporal P C Pratt (award) (55,43)
+    person:Private C T Allen (award) (42,44)
+    person:Private A E Bowes (award) (70,44)
+  8 Jul 1918 56
+    domestic:inspections (34,59)
+  11 Jul 1918 68
+    domestic:inspections (24,71)
+  12 Jul 1918 76
+    person:Captain C M Barton (returned_leave) (31,83)
+Page 838 (type diary) http://wd3.herokuapp.com/pages/AWD00019kr  ----------
+  14 Jul 1918 25
+  15 Jul 1918 29
+  16 Jul 1918 33
+    place:Anvin (6,36)
+    activity:movement (29,36)
+  17 Jul 1918 41
+    activity:movement (23,43)
+    place:Eps (12,47)
+  18 Jul 1918 49
+  19 Jul 1918 54
+  20 Jul 1918 58
+    domestic:inspections (24,60)
+  21 Jul 1918 61
+  22 Jul 1918 64
+    activity:movement (27,67)
+  23 Jul 1918 69
+    place:Lefaux (5,72)
+  24 Jul 1918 74
+  25 Jul 1918 78
+  27 Jul 1918 84
+  28 Jul 1918 88
+  29 Jul 1918 91
+Page 839 (type diary) http://wd3.herokuapp.com/pages/AWD00019ih  ----------
+  30 Jul 1918 25
+    domestic:inspections (60,28)
+  31 Jul 1918 34
+    person:Captain C M Barton (48,52)
+Page 840 (type cover)
+Page 841 (type blank)
+Page 842 (type blank)
+Page 843 (type diary) http://wd3.herokuapp.com/pages/AWD00019kh  ----------
+  1 Aug 1918 22
+  2 Aug 1918 25
+    place:Lefaux (6,25)
+  3 Aug 1918 30
+  4 Aug 1918 35
+    activity:movement (24,37)
+  5 Aug 1918 41
+  6 Aug 1918 44
+    activity:movement (25,45)
+    place:Picruigny (57,45)
+  7 Aug 1918 49
+    activity:movement (23,50)
+  8 Aug 1918 52
+    activity:movement (29,55)
+  9 Aug 1918 60
+    activity:movement (27,64)
+  10 Aug 1918 69
+    activity:movement (23,71)
+    place:Ignaucourt (61,71)
+  11 Aug 1918 77
+    activity:movement (24,79)
+  12 Aug 1918 87
+    activity:movement (25,90)
+  13 Aug 1918 93
+Page 844 (type diary) http://wd3.herokuapp.com/pages/AWD00019ku  ----------
+  14 Aug 1918 21
+  15 Aug 1918 25
+    activity:movement (23,27)
+  16 Aug 1918 30
+    place:Margnies (64,32)
+  17 Aug 1918 33
+    activity:movement (21,34)
+    place:Gueschart (70,35)
+  21 Aug 1918 49
+    place:Coullemont (77,51)
+    activity:movement (21,51)
+  22 Aug 1918 57
+    place:Bellacourt (72,58)
+    activity:movement (21,58)
+  23 Aug 1918 60
+    place:Ayette (54,63)
+    activity:movement (34,63)
+  24 Aug 1918 68
+    activity:movement (22,70)
+    place:Coullemont (72,71)
+  27 Aug 1918 85
+Page 845 (type diary) http://wd3.herokuapp.com/pages/AWD00019su  ----------
+  28 Aug 1918 26
+    place:Coullemont (19,27)
+  29 Aug 1918 30
+    place:Coullemont (11,32)
+  30 Aug 1918 37
+    place:Coullemont (12,38)
+  31 Aug 1918 42
+    place:Coullemont (12,45)
+Page 846 (type cover)
+Page 847 (type blank)
+Page 848 (type blank)
+Page 849 (type diary) http://wd3.herokuapp.com/pages/AWD00019oi  ----------
+  1 Sep 1918 24
+    place:Coullemont (10,27)
+  7 Sep 1918 47
+    time:1000AM (39,50)
+    activity:movement (28,51)
+  8 Sep 1918 52
+    place:Lattre (7,54)
+  10 Sep 1918 61
+    time:1000AM (61,63)
+    activity:movement (29,64)
+  11 Sep 1918 66
+    time:0915PM (30,67)
+    place:Dieval (6,69)
+  17 Sep 1918 89
+Page 850 (type diary) http://wd3.herokuapp.com/pages/AWD00019ro  ----------
+  18 Sep 1918 25
+    person:Crouch (joined) (56,28)
+    place:Dieval (22,28)
+    place:Dieval (12,29)
+    place:Dieval (12,40)
+    place:Dieval (12,48)
+  22 Sep 1918 53
+    place:Dieval (12,57)
+    person:Captain Hancock (commander) (31,59)
+    place:Dieval (12,72)
+    place:Dieval (12,77)
+    place:Dieval (12,81)
+    place:Dieval (12,85)
+  27 Sep 1918 87
+    place:Dieval (12,89)
+Page 851 (type diary) http://wd3.herokuapp.com/pages/AWD00019rt  ----------
+  28 Sep 1918 25
+    place:Dieval (21,29)
+    activity:movement (28,29)
+  29 Sep 1918 40
+    place:Mailly (19,43)
+    activity:movement (33,43)
+  30 Sep 1918 50
+    place:Inchy (19,53)
+Page 852 (type cover)
+Page 853 (type blank)
+Page 854 (type blank)
+Page 855 (type diary) http://wd3.herokuapp.com/pages/AWD00019ji  ----------
+  1 Oct 1918 25
+  2 Oct 1918 28
+    place:Inchy (7,28)
+    place:Inchy (6,31)
+  3 Oct 1918 32
+  4 Oct 1918 35
+    place:Inchy (7,35)
+  5 Oct 1918 39
+    place:Inchy (7,39)
+  6 Oct 1918 43
+    place:Inchy (6,43)
+    place:Inchy (6,47)
+  7 Oct 1918 48
+    place:Inchy (6,50)
+  8 Oct 1918 51
+  9 Oct 1918 55
+    place:Inchy (7,55)
+  10 Oct 1918 59
+    place:Inchy (6,59)
+    place:Inchy (6,62)
+  11 Oct 1918 63
+    place:Inchy (6,67)
+  13 Oct 1918 71
+    place:Inchy (6,71)
+  14 Oct 1918 75
+    place:Inchy (6,75)
+    domestic:religion (30,75)
+  15 Oct 1918 79
+    place:Inchy (6,79)
+    place:Inchy (6,82)
+  16 Oct 1918 83
+    place:Inchy (6,86)
+Page 856 (type diary) http://wd3.herokuapp.com/pages/AWD00019r2  ----------
+  17 Oct 1918 25
+    place:Inchy (7,27)
+  18 Oct 1918 29
+    place:Inchy (6,31)
+  19 Oct 1918 32
+    place:Inchy (6,35)
+  20 Oct 1918 36
+    place:Inchy (6,39)
+  21 Oct 1918 40
+  22 Oct 1918 43
+    place:Inchy (6,43)
+  23 Oct 1918 47
+    place:Inchy (6,47)
+  24 Oct 1918 51
+    place:Inchy (5,51)
+  25 Oct 1918 55
+    place:Inchy (6,55)
+    place:Inchy (5,58)
+  26 Oct 1918 59
+    place:Inchy (5,62)
+  27 Oct 1918 64
+  28 Oct 1918 67
+    place:Baralle (6,67)
+    place:Baralle (6,70)
+  29 Oct 1918 71
+    place:Baralle (6,74)
+  30 Oct 1918 75
+    place:Baralle (6,78)
+  31 Oct 1918 80
+    place:Baralle (6,82)
+    person:Captain R Hancock (author) (38,88)
+Page 857 (type cover)
+Page 858 (type diary) http://wd3.herokuapp.com/pages/AWD00019n4  ----------
+  1 Nov 1918 24
+    place:Baralle (8,26)
+    person:Private Scrace (returned_leave) (75,26)
+  2 Nov 1918 27
+  3 Nov 1918 31
+  4 Nov 1918 35
+    place:Estrun (67,37)
+    activity:movement (23,37)
+    time:0915AM (59,38)
+  5 Nov 1918 45
+  6 Nov 1918 49
+    time:0530PM (76,49)
+    activity:movement (29,49)
+    time:0915AM (36,50)
+  7 Nov 1918 54
+  8 Nov 1918 59
+  9 Nov 1918 64
+  11 Nov 1918 72
+  12 Nov 1918 78
+  14 Nov 1918 83
+    activity:movement (26,86)
+  15 Nov 1918 87
+    time:0700PM (69,87)
+    place:Grand Reng (50,90)
+    activity:movement (24,90)
+    time:0500PM (70,91)
+Page 859 (type diary) http://wd3.herokuapp.com/pages/AWD00019k9  ----------
+  16 Nov 1918 24
+  17 Nov 1918 32
+    activity:movement (23,34)
+  18 Nov 1918 37
+    activity:movement (24,39)
+  19 Nov 1918 41
+  20 Nov 1918 46
+  21 Nov 1918 54
+    place:Bioul (46,57)
+    activity:movement (23,57)
+  22 Nov 1918 60
+    place:Ciney (48,61)
+    activity:movement (23,62)
+  23 Nov 1918 64
+    activity:movement (24,66)
+  24 Nov 1918 67
+    place:Mohiville (57,67)
+  25 Nov 1918 71
+  26 Nov 1918 75
+  27 Nov 1918 79
+  28 Nov 1918 82
+  29 Nov 1918 87
+    time:0230PM (81,87)
+    place:Menil Favay (61,88)
+    time:0930AM (48,88)
+    activity:movement (25,89)
+  30 Nov 1918 90
+Page 860 (type cover)
+Page 861 (type diary) http://wd3.herokuapp.com/pages/AWD00019pu  ----------
+  1 Dec 1918 27
+    place:Menil Favay (8,27)
+  2 Dec 1918 31
+  3 Dec 1918 36
+  4 Dec 1918 41
+  5 Dec 1918 47
+  6 Dec 1918 51
+  7 Dec 1918 57
+  8 Dec 1918 62
+  9 Dec 1918 68
+  10 Dec 1918 73
+  11 Dec 1918 77
+  12 Dec 1918 82
+  13 Dec 1918 88
+Page 862 (type diary) http://wd3.herokuapp.com/pages/AWD00019q8  ----------
+  14 Dec 1918 27
+    place:Menil Favay (9,28)
+  15 Dec 1918 31
+  16 Dec 1918 36
+  17 Dec 1918 42
+    activity:movement (26,43)
+    place:Awan (10,43)
+    place:Awan (64,43)
+    time:0830AM (55,44)
+  18 Dec 1918 45
+    domestic:inspections (44,49)
+  19 Dec 1918 51
+    domestic:inspections (24,54)
+  20 Dec 1918 55
+    person:Private L M Minty (departed_posted) (26,59)
+  21 Dec 1918 60
+  22 Dec 1918 64
+  23 Dec 1918 69
+  24 Dec 1918 74
+    unit:4 Hussars (46,78)
+  25 Dec 1918 80
+  26 Dec 1918 82
+    person:Private Matthews (departed_sick) (30,85)
+  27 Dec 1918 88
+Page 863 (type diary) http://wd3.herokuapp.com/pages/AWD00019o1  ----------
+  28 Dec 1918 26
+    place:Awan (7,27)
+  31 Dec 1918 44
+Page 864 (type cover)
+Page 865 (type diary) http://wd3.herokuapp.com/pages/AWD00019j5  ----------
+  1 Jan 1919 26
+    person:Captain Young (other) (61,27)
+    place:Awan (7,28)
+    person:Captain Hancock (other) (44,31)
+  2 Jan 1919 32
+    person:Captain Bloye (other) (31,32)
+  3 Jan 1919 39
+  4 Jan 1919 42
+  5 Jan 1919 47
+    domestic:inspections (56,53)
+    person:Private W Lucas (returned_leave) (34,54)
+  6 Jan 1919 58
+    place:Awan (8,62)
+  7 Jan 1919 64
+    person:Private Matthews (departed_sick) (58,71)
+  9 Jan 1919 76
+  10 Jan 1919 80
+    domestic:inspections (27,85)
+    unit:4 Hussars (63,85)
+    person:Captain Bloye (other) (52,88)
+  11 Jan 1919 89
+Page 866 (type diary) http://wd3.herokuapp.com/pages/AWD00019lv  ----------
+  12 Jan 1919 23
+    place:Awan (8,26)
+    time:0600PM (19,26)
+  13 Jan 1919 31
+    person:Private T F Davies (joined) (76,34)
+    time:0500PM (19,34)
+    person:Private Dell (joined) (84,35)
+  14 Jan 1919 37
+    domestic:inspections (25,40)
+  15 Jan 1919 43
+    time:0700PM (18,47)
+    unit:5 Lancers (54,47)
+  16 Jan 1919 53
+    time:0900PM (18,57)
+  17 Jan 1919 59
+    time:0630PM (18,63)
+  18 Jan 1919 66
+    time:0700PM (18,69)
+  19 Jan 1919 71
+    unit:4 Hussars (47,71)
+    time:0600PM (18,74)
+  20 Jan 1919 76
+    time:0700PM (18,79)
+  21 Jan 1919 83
+    time:0600PM (18,86)
+Page 867 (type diary) http://wd3.herokuapp.com/pages/AWD00019s4  ----------
+  Hashtags: #Horses 
+  22 Jan 1919 26
+    place:Awan (12,29)
+    unit:16 Lancers (44,31)
+    time:0700PM (22,32)
+  23 Jan 1919 35
+    time:0600PM (23,38)
+  24 Jan 1919 41
+    time:0500PM (23,44)
+  25 Jan 1919 56
+    time:0700PM (22,59)
+    unit:5 Lancers (52,61)
+  26 Jan 1919 62
+  27 Jan 1919 72
+    time:0700PM (22,74)
+    person:Private C Dell (departed_leave) (32,75)
+    person:Private Chaplin (departed_posted) (34,81)
+Page 868 (type diary) http://wd3.herokuapp.com/pages/AWD00019tp  ----------
+  Hashtags: #Horses 
+  28 Jan 1919 28
+    place:Awan (6,28)
+    time:0600PM (22,30)
+    unit:5 Lancers (72,30)
+    unit:4 Hussars (70,31)
+    time:0700PM (22,35)
+    time:0600PM (22,43)
+  31 Jan 1919 45
+    time:0430PM (22,48)
+    person:Captain Hancock (74,65)
+Page 869 (type cover)
+Page 870 (type diary) http://wd3.herokuapp.com/pages/AWD00019l3  ----------
+  1 Feb 1919 28
+    place:Awan (6,28)
+    time:0600PM (24,30)
+  2 Feb 1919 32
+    time:0700PM (24,36)
+  3 Feb 1919 37
+    domestic:inspections (29,41)
+    time:0500PM (24,41)
+  4 Feb 1919 42
+    time:0430PM (23,46)
+  5 Feb 1919 48
+    unit:4 Hussars (70,48)
+    time:0700PM (23,50)
+    person:Private Fry (departed_leave) (27,51)
+  6 Feb 1919 55
+    time:0800PM (23,60)
+  7 Feb 1919 62
+  8 Feb 1919 67
+    time:0730PM (22,67)
+    time:0600PM (22,71)
+  9 Feb 1919 75
+    time:0700PM (22,79)
+  10 Feb 1919 90
+    time:0800PM (21,92)
+    unit:5 Lancers (49,95)
+Page 871 (type diary) http://wd3.herokuapp.com/pages/AWD00019k4  ----------
+  11 Feb 1919 27
+    time:0600PM (22,28)
+    place:Awan (6,29)
+    person:Private Brickell (returned_leave) (29,33)
+    person:Private Cross (returned_leave) (31,38)
+    domestic:inspections (29,43)
+  15 Feb 1919 45
+    person:Corporal Latham (resigned) (32,49)
+    person:Private Woods (departed_leave) (30,62)
+    person:Private Bowes (departed_sick) (30,81)
+  21 Feb 1919 83
+    unit:16 Lancers (40,88)
+Page 872 (type diary) http://wd3.herokuapp.com/pages/AWD00019q0  ----------
+  22 Feb 1919 24
+    place:Awan (8,27)
+  23 Feb 1919 29
+  24 Feb 1919 34
+    time:0430PM (25,38)
+  25 Feb 1919 40
+    activity:movement (35,44)
+    time:0500PM (24,44)
+  26 Feb 1919 45
+  27 Feb 1919 50
+  28 Feb 1919 58
+Page 873 (type cover)
+Page 874 (type diary) http://wd3.herokuapp.com/pages/AWD00019tr  ----------
+  1 Mar 1919 27
+    place:Awan (12,29)
+    place:Awan (14,37)
+  10 Mar 1919 43
+    activity:movement (33,46)
+    place:Ensival (47,47)
+  11 Mar 1919 50
+  19 Mar 1919 58
+  31 Mar 1919 86
+    person:Captain R Hancock (author) (68,92)
+Page 875 (type diary) http://wd3.herokuapp.com/pages/AWD00019qh  ----------
+  31 Mar 1919 0
+    person:Lieutenant J S Young (commander) (59,45)
+    activity:training (35,56)
+Page 876 (type diary) http://wd3.herokuapp.com/pages/AWD00019pa  ----------
+  31 Mar 1919 0
+    place:Hondighem (27,28)
+    unit:3 Cavalry Bgde (55,55)
+    unit:Royal Horse Artillery (50,60)

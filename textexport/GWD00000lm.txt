@@ -1,0 +1,970 @@
+GWD00000lm wo/95/1272/4
+1 DIVISION:  2 Infantry Brigade: 2 Battalion King's Royal Rifle Corps.  
+147 pages
+
+Page 479 (type cover)
+Page 480 (type diary) http://wd3.herokuapp.com/pages/AWD00034ip  ----------
+  1 Oct 1915 30
+    weather:fine (41,34)
+    unit:114 French Regiment (59,37)
+    activity:movement (54,39)
+  2 Oct 1915 44
+    activity:resupplying (46,49)
+    person:Lieutenant Bullen (commander) (52,53)
+    person:Captain Brady (commander) (50,55)
+    person:Lieutenant Sowden (commander) (55,59)
+    casualties:died: 2; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (58,62)
+Page 481 (type diary) http://wd3.herokuapp.com/pages/AWD00034g0  ----------
+  3 Oct 1915 30
+    domestic:parades (58,32)
+    weather:fine (42,33)
+    domestic:inspections (46,35)
+  4 Oct 1915 36
+    time:0200PM (42,44)
+    activity:movement (53,44)
+    place:Drouvin (61,44)
+    weather:rain (44,49)
+  5 Oct 1915 56
+    activity:fire (50,63)
+    person:Second Lieutenant R J Stokes (joined) (55,65)
+    person:Second Lieutenant H R Holmes (joined) (46,66)
+Page 482 (type diary) http://wd3.herokuapp.com/pages/AWD00034gy  ----------
+  6 Oct 1915 27
+    time:0830AM (54,32)
+    activity:movement (46,33)
+    domestic:accomodation (51,36)
+    domestic:accomodation (54,39)
+    domestic:parades (54,42)
+    activity:repair (59,42)
+    time:0700PM (43,43)
+    gridRef:G_23_B_2_9 (57,47)
+    activity:repair (51,47)
+    gridRef:G_23_A_6_1 (44,49)
+    mapRef:French map (39,51)
+    person:Lieutenant C S Egerton-Green (joined) (49,53)
+    person:Second Lieutenant F C Cull (joined) (48,55)
+    person:Second Lieutenant E J Gibb (joined) (49,58)
+    unit:French (58,62)
+    place:Loos (54,64)
+    unit:2 Brigade (58,66)
+    unit:1 Brigade (46,67)
+    place:Loos (50,71)
+    activity:enemy_activity (52,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 1; sick: 0; wounded: 0 (43,77)
+Page 483 (type diary) http://wd3.herokuapp.com/pages/AWD00034jk  ----------
+  6 Oct 1915 0
+    place:Champagne (55,33)
+    place:Tahure (57,35)
+  7 Oct 1915 37
+    time:0700PM (53,41)
+    time:0930PM (56,42)
+    activity:movement (43,42)
+    unit:Battalion (47,47)
+  8 Oct 1915 48
+    time:1100AM (49,53)
+    activity:fire (42,55)
+    unit:3 Brigade Eight (58,56)
+    unit:French (52,58)
+    unit:3 Brigade (60,59)
+    unit:9 Liverpools 2 Brigade (44,60)
+    gridRef:H_25_A_9_6 (55,61)
+    gridRef:H_19_C_8_6 (42,63)
+    mapRef:French map (52,63)
+    time:1230PM (56,67)
+    activity:fire (45,68)
+    time:0330PM (40,71)
+    activity:fire (54,71)
+    time:0350PM (47,73)
+    unit:9 Kings own (57,80)
+Page 484 (type diary) http://wd3.herokuapp.com/pages/AWD00034g1  ----------
+  8 Oct 1915 0
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (58,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 4 (45,27)
+    person:Second Lieutenant Fison (joined) (45,31)
+    person:Second Lieutenant Whateley (joined) (53,31)
+    time:1000PM (41,35)
+    activity:repair (57,35)
+  9 Oct 1915 36
+    activity:quiet (51,39)
+    weather:fog (42,40)
+    activity:repair (46,41)
+    casualties:died: 0; killed: 10; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,54)
+Page 485 (type diary) http://wd3.herokuapp.com/pages/AWD00034ho  ----------
+  10 Oct 1915 25
+    activity:quiet (40,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (51,29)
+    strength:officer: 19; nco: 0; other: 486 (52,34)
+  11 Oct 1915 44
+    weather:fine (40,49)
+    time:0930PM (45,60)
+    time:1030PM (57,60)
+    activity:attack (52,64)
+  12 Oct 1915 65
+    unit:No. 2 Royal Flying Corps. (41,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (50,69)
+Page 486 (type diary) http://wd3.herokuapp.com/pages/AWD00034gu  ----------
+  12 Oct 1915 23
+    time:1200PM (42,29)
+    activity:movement (54,29)
+    activity:line (43,32)
+    gridRef:G_17_B_7_6 (44,33)
+    gridRef:G_17_B_6_0 (53,33)
+    unit:1/9 Bn, the Kings (Liverpool Regiment) (58,35)
+    unit:Northamptons (49,36)
+    unit:Sussex (56,36)
+    gridRef:H_13_A_4_6 (46,42)
+    gridRef:H_19_A_8_0 (53,42)
+    place:Hulluch (53,44)
+    unit:3 Brigade (43,46)
+    activity:attack (52,46)
+    unit:11 Corps (51,47)
+    unit:3 boe (42,47)
+    unit:2 Sussex (56,52)
+    unit:1 Northampton (45,54)
+    activity:reserve (51,54)
+    person:Captain Brady (other) (53,66)
+    person:Fison (combat) (42,68)
+    person:Lieutenant Whateley (other) (52,68)
+Page 487 (type diary) http://wd3.herokuapp.com/pages/AWD00034h0  ----------
+  12 Oct 1915 0
+    person:Second Lieutenant Symington (combat) (43,34)
+    person:Second Lieutenant Egerton-Green (combat) (48,39)
+    person:Second Lieutenant Dickerson (combat) (43,41)
+    person:Second Lieutenant Johnstone (combat) (56,43)
+    person:Lieutenant Moore (combat) (57,45)
+Page 488 (type diary) http://wd3.herokuapp.com/pages/AWD00034hg  ----------
+  13 Oct 1915 24
+    time:0100PM (47,30)
+    time:0300PM (41,40)
+    activity:attack (47,45)
+    gridRef:G_18_B_9_2 (47,46)
+    unit:Camerons (44,48)
+    time:0350PM (40,51)
+    gridRef:G_18_A_7_6 (42,53)
+    gridRef:G_17_B_10_3 (50,53)
+    time:0400PM (41,55)
+    time:0407PM (40,58)
+    unit:Sussex (46,59)
+    time:0620PM (40,64)
+Page 489 (type diary) http://wd3.herokuapp.com/pages/AWD00034j5  ----------
+  14 Oct 1915 23
+    activity:line (43,30)
+    weather:fog (49,33)
+    unit:142 Brigade (42,37)
+    activity:movement (45,38)
+    activity:movement (51,38)
+    place:Mazengarbe (47,40)
+    place:Lillers (41,44)
+    time:0250AM (53,44)
+Page 490 (type diary) http://wd3.herokuapp.com/pages/AWD00034gh  ----------
+  15 Oct 1915 22
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,24)
+    time:0250AM (61,28)
+    place:Lillers (50,29)
+    domestic:accomodation (50,30)
+    place:Lillers (54,32)
+    unit:1 Bgde. 1 Division. (42,33)
+    unit:2 Bgde. 1 Division. (45,33)
+    unit:3 Bgde. 1 Division. (56,34)
+    activity:resting (41,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 7 (55,46)
+    strength:officer: 18; nco: 0; other: 683 (56,51)
+Page 491 (type diary) http://wd3.herokuapp.com/pages/AWD00034fs  ----------
+  16 Oct 1915 23
+    weather:overcast (40,28)
+    weather:overcast (44,29)
+    domestic:inspections (52,31)
+  17 Oct 1915 33
+    weather:fine (40,39)
+    domestic:religion (47,39)
+  18 Oct 1915 45
+    activity:training (45,47)
+    weather:fine (40,49)
+    activity:training (50,49)
+    person:Company Sergeant Major Freeman (promotion) (48,55)
+    person:Company Sergeant Major Dulavey (promotion) (54,55)
+  19 Oct 1915 59
+    activity:training (44,65)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,69)
+    strength:officer: 19; nco: 0; other: 794 (50,73)
+Page 492 (type diary) http://wd3.herokuapp.com/pages/AWD00034j0  ----------
+  20 Oct 1915 25
+    weather:fine (42,31)
+    person:Second Lieutenant T R Reid (award) (55,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,38)
+  21 Oct 1915 39
+    person:Major Heseltine (46,44)
+    activity:training (47,47)
+    domestic:inspections (53,48)
+    domestic:sport (52,51)
+    unit:Northamptons (42,53)
+  22 Oct 1915 55
+    weather:fine (42,59)
+    activity:training (47,61)
+    activity:training (50,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,64)
+    strength:officer: 20; nco: 0; other: 784 (51,66)
+Page 493 (type diary) http://wd3.herokuapp.com/pages/AWD00034ii  ----------
+  23 Oct 1915 26
+    activity:training (54,30)
+    activity:training (45,31)
+    weather:fine (40,31)
+  24 Oct 1915 34
+    domestic:religion (44,38)
+    domestic:parades (48,38)
+  25 Oct 1915 39
+    weather:rain (40,43)
+    activity:training (51,44)
+    domestic:sport (44,47)
+    domestic:sport (49,49)
+  26 Oct 1915 51
+    domestic:inspections (49,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,60)
+    strength:officer: 20; nco: 0; other: 740 (52,63)
+Page 494 (type diary) http://wd3.herokuapp.com/pages/AWD00034iy  ----------
+  27 Oct 1915 27
+    weather:rain (44,32)
+    domestic:hygiene (51,34)
+    activity:training (53,37)
+    activity:training (46,39)
+  28 Oct 1915 41
+    person:Captain Wenham (other) (60,48)
+    person:Captain Bullen (other) (42,49)
+    person:Second Lieutenant The Dickerson (other) (50,50)
+    person:Second Lieutenant Symington (other) (44,52)
+    domestic:inspections (48,54)
+    weather:rain (44,56)
+    activity:training (53,57)
+  29 Oct 1915 61
+    weather:fine (43,65)
+    activity:training (49,66)
+    unit:1 Line Transport (48,67)
+    place:Busnes (45,68)
+    strength:officer: 21; nco: 0; other: 747 (54,71)
+    person:Second Lieutenant A E Johnson (joined) (46,77)
+Page 495 (type diary) http://wd3.herokuapp.com/pages/AWD00034g6  ----------
+  30 Oct 1915 27
+    activity:training (44,32)
+    domestic:sport (52,37)
+  31 Oct 1915 39
+    weather:overcast (41,44)
+    domestic:religion (49,44)
+Page 496 (type diary) http://wd3.herokuapp.com/pages/AWD00034jj  ----------
+  31 Oct 1915 0
+    person:Major H F W Bircham (other) (42,34)
+    person:Major J E N Heseltine (other) (44,36)
+    person:Lieutenant A Robinson (other) (42,38)
+    person:Captain P J R Currie (other) (49,39)
+    person:Second Lieutenant T J B Mahar (other) (46,42)
+    person:Lieutenant T J B Moore (other) (46,43)
+    person:Captain R E Bullen (other) (48,49)
+    unit:A Coy. 2 Bn. Kings Royal Rifle Corps (41,49)
+    person:Second Lieutenant R B Holmes (other) (47,51)
+    person:Second Lieutenant R J Stokes (other) (48,52)
+    person:Second Lieutenant A W Symington (other) (46,55)
+    person:Captain T B Brody (other) (48,62)
+    unit:B Coy. 2 Bn. Kings Royal Rifle Corps (41,62)
+    person:Second Lieutenant F J L Johnstone (other) (51,63)
+    person:Lieutenant C S Egerton Green (other) (47,66)
+    person:Second Lieutenant F C Cull (other) (53,68)
+    person:Second Lieutenant N E Johnson (other) (52,70)
+Page 497 (type ) http://wd3.herokuapp.com/pages/AWD00034h2  ----------
+  31 Oct 1915 0
+    reference:, 51stBn. S.W. Bord. (42,28)
+Page 498 (type other) http://wd3.herokuapp.com/pages/AWD00034h6  ----------
+  31 Oct 1915 0
+    date:3 Oct 1915 (39,89)
+Page 499 (type report) http://wd3.herokuapp.com/pages/AWD00034hs  ----------
+  31 Oct 1915 0
+    reference:Using field phones and earth pins  to listen to German comunications (54,42)
+    date:22 Oct 1915 (41,75)
+Page 500 (type cover)
+Page 501 (type orders) http://wd3.herokuapp.com/pages/AWD00034i3  ----------
+  31 Oct 1915 0
+    date:5 Oct 1915 (61,12)
+    reference:2nd. Infantry Brigade. (42,14)
+    person:Lieutenant Colonel H F Thuillier (commander) (46,19)
+    orders:move (46,6)
+    person:Captain A G F Isaac (commander) (51,67)
+Page 502 (type orders) http://wd3.herokuapp.com/pages/AWD00034jl  ----------
+  31 Oct 1915 0
+    date:7 Oct 1915 (64,10)
+    person:Lieutenant Colonel H F Thuillier (commander) (53,12)
+    reference:Brigade Operation order 36 (44,29)
+    orders:move (42,8)
+    reference:2nd Infantry Brigade Operation Order No. 36 (50,8)
+    reference:Trench 36c N.W. Sheet 3 (44,8)
+Page 503 (type orders) http://wd3.herokuapp.com/pages/AWD00034i7  ----------
+  31 Oct 1915 0
+    orders:entrench (43,18)
+    reference:Brigade Operation order 36 p2 (42,43)
+    orders:move (44,7)
+Page 504 (type orders) http://wd3.herokuapp.com/pages/AWD00034j6  ----------
+  31 Oct 1915 0
+    reference:G. 97 (59,3)
+    orders:attack (46,5)
+    person:Captain A G F Isaac (commander) (50,81)
+    date:10 Oct 1915 (39,84)
+    date:10 Oct 1915 (37,87)
+Page 505 (type orders) http://wd3.herokuapp.com/pages/AWD00034il  ----------
+  31 Oct 1915 0
+    orders:attack (48,14)
+    reference:Brigade Operation order 37 (40,22)
+Page 506 (type orders) http://wd3.herokuapp.com/pages/AWD00034gb  ----------
+  31 Oct 1915 0
+    reference:2 Brigade Operation order 37 p2 (41,22)
+    person:Second Lieutenant F E Boundy (other) (56,88)
+    orders:attack (44,9)
+Page 507 (type orders) http://wd3.herokuapp.com/pages/AWD00034fr  ----------
+  31 Oct 1915 0
+    orders:attack (50,14)
+    reference:2 Brigade Operation order 37 p3 (41,39)
+    person:Captain Isaac (commander) (48,49)
+Page 508 (type orders) http://wd3.herokuapp.com/pages/AWD00034in  ----------
+  31 Oct 1915 0
+    reference:2 Brigade Operation order 41 (59,25)
+    reference:Operation Order No. 41 (52,26)
+    reference:sheet 36c   1/40,000 (60,33)
+Page 509 (type orders) http://wd3.herokuapp.com/pages/AWD00034hj  ----------
+  31 Oct 1915 0
+    reference:2 Brigade Operation order 41 p2 (45,48)
+Page 510 (type orders) http://wd3.herokuapp.com/pages/AWD00034iq  ----------
+  31 Oct 1915 0
+    orders:move (47,25)
+    orders:move (50,28)
+    person:Second Lieutenant F E Boundy (other) (47,47)
+    reference:2 Brigade Operation order 41 p3 (51,52)
+Page 511 (type orders) http://wd3.herokuapp.com/pages/AWD00034gr  ----------
+  31 Oct 1915 0
+    orders:move (43,27)
+    reference:2 Brigade Operation order 41 p4 (48,49)
+    date:14 Oct 1915 (41,77)
+Page 512 (type orders) http://wd3.herokuapp.com/pages/AWD00034j4  ----------
+  31 Oct 1915 0
+    reference:2nd Infantry Brigade Order No. 48 (51,11)
+    orders:other (46,17)
+    reference:2 Brigade Operation order 48 (46,34)
+    person:Brigadier General H F Thuillier (commander) (52,53)
+    reference:G.147 (64,7)
+    date:23 Oct 1915 (39,78)
+Page 513 (type cover)
+Page 514 (type orders) http://wd3.herokuapp.com/pages/AWD00034i4  ----------
+  31 Oct 1915 0
+    orders:attack (47,10)
+    reference:1st Division No. 600 G. (60,13)
+    reference:2nd Bde No. G. 97 (59,4)
+    reference:G97 (57,5)
+    person:Lieutenant Colonel H Longridge (commander) (49,93)
+Page 515 (type orders) http://wd3.herokuapp.com/pages/AWD00034hh  ----------
+  31 Oct 1915 0
+    date:10 Oct 1915 (36,39)
+    date:11 Oct 1915 (35,72)
+    reference:G98 (62,8)
+Page 516 (type orders) http://wd3.herokuapp.com/pages/AWD00034g4  ----------
+  31 Oct 1915 0
+    orders:attack (46,11)
+    reference:1st Division No. 600/5 (55,11)
+    date:11 Oct 1915 (38,62)
+Page 517 (type report) http://wd3.herokuapp.com/pages/AWD00034iu  ----------
+  31 Oct 1915 0
+    reference:Hulluch Road - Bois hugo (46,13)
+    title:RECONNAISANCE REPORT ON FRONT HULLUCH ROAD - BOIS HUGO (46,8)
+Page 518 (type orders) http://wd3.herokuapp.com/pages/AWD00034jp  ----------
+  31 Oct 1915 0
+    person:Major Vivian (commander) (51,38)
+    reference:recce report p2 (48,39)
+    date:11 Oct 1915 (35,44)
+Page 519 (type orders) http://wd3.herokuapp.com/pages/AWD00034ja  ----------
+  31 Oct 1915 0
+    reference:Gas & Smoke orders (49,32)
+    orders:attack (41,6)
+    person:Lieutenant Colonel J A Longudge (commander) (50,88)
+    date:9 Oct 1915 (42,91)
+Page 520 (type other) http://wd3.herokuapp.com/pages/AWD00034hb  ----------
+  31 Oct 1915 0
+    reference:Gas & Smoke orders sketch map (23,31)
+Page 521 (type orders) http://wd3.herokuapp.com/pages/AWD00034gf  ----------
+  31 Oct 1915 0
+    orders:attack (50,11)
+    person:Captain Isaac (52,48)
+Page 522 (type orders) http://wd3.herokuapp.com/pages/AWD00034gx  ----------
+  31 Oct 1915 0
+    reference:1st Division No. 600/25 (G). (57,12)
+    reference:600/25 (G) (59,13)
+    orders:attack (48,17)
+    person:Captain Wobbie (commander) (53,76)
+    date:12 Oct 1915 (38,80)
+Page 523 (type orders) http://wd3.herokuapp.com/pages/AWD00034i5  ----------
+  31 Oct 1915 0
+    orders:attack (46,7)
+    person:Dobbie (author) (56,78)
+    date:9 Oct 1915 (39,80)
+Page 524 (type orders) http://wd3.herokuapp.com/pages/AWD00034k3  ----------
+  31 Oct 1915 0
+    reference:Operation Order No. 114 (51,12)
+    reference:With reference to Operation order 114 (52,19)
+    orders:attack (54,6)
+    reference:Operation Order No. 114 of 9th October 1915 (42,8)
+    orders:attack (43,9)
+Page 525 (type other) http://wd3.herokuapp.com/pages/AWD00034ij  ----------
+  31 Oct 1915 0
+    reference:Sketch showing composition of a smoke detachment (38,26)
+Page 526 (type cover)
+Page 527 (type signals) http://wd3.herokuapp.com/pages/AWD00034k1  ----------
+  31 Oct 1915 0
+    unit:2 Brigade (49,35)
+    time:0910AM (49,78)
+    person:Second Lieutenant H Johnston (other) (58,79)
+Page 528 (type signals) http://wd3.herokuapp.com/pages/AWD00034gt  ----------
+  31 Oct 1915 0
+    date:13 Oct 1915 (44,41)
+Page 529 (type signals) http://wd3.herokuapp.com/pages/AWD00034i0  ----------
+  31 Oct 1915 0
+Page 530 (type signals) http://wd3.herokuapp.com/pages/AWD00034hm  ----------
+  31 Oct 1915 0
+Page 531 (type signals) http://wd3.herokuapp.com/pages/AWD00034i6  ----------
+  31 Oct 1915 0
+    date:13 Oct 1915 (50,41)
+Page 532 (type signals) http://wd3.herokuapp.com/pages/AWD00034gl  ----------
+  31 Oct 1915 0
+    gridRef:G_17_B_10_3 (54,45)
+    gridRef:G_18_A_7_6 (45,46)
+Page 533 (type signals) http://wd3.herokuapp.com/pages/AWD00034he  ----------
+  31 Oct 1915 0
+    date:13 Oct 1915 (50,41)
+Page 534 (type signals) http://wd3.herokuapp.com/pages/AWD00034jg  ----------
+  31 Oct 1915 0
+    date:13 Oct 1915 (47,42)
+    gridRef:G_18_B_2_4 (48,46)
+    time:0417PM (43,80)
+Page 535 (type signals) http://wd3.herokuapp.com/pages/AWD00034g2  ----------
+  31 Oct 1915 0
+    date:13 Oct 1915 (48,38)
+    gridRef:G_18_C_8_9 (50,47)
+    time:0418PM (49,77)
+Page 536 (type orders) http://wd3.herokuapp.com/pages/AWD00034iv  ----------
+  31 Oct 1915 0
+    orders:other (46,25)
+    reference:1st Div. No. 600/23 (53,26)
+    person:Captain C Dobbie (commander) (49,47)
+    date:12 Oct 1915 (38,54)
+    person:Captain Isaac (commander) (53,73)
+Page 537 (type signals) http://wd3.herokuapp.com/pages/AWD00034j3  ----------
+  31 Oct 1915 0
+    date:13 Oct 1915 (47,39)
+    gridRef:G_18_B_9_2 (51,51)
+    time:0300PM (61,74)
+Page 538 (type signals) http://wd3.herokuapp.com/pages/AWD00034h7  ----------
+  31 Oct 1915 0
+    date:13 Oct 1915 (47,39)
+    gridRef:G_18_A_7_6 (43,44)
+    gridRef:G_17_B_10_3 (56,44)
+    time:0350PM (58,75)
+Page 539 (type signals) http://wd3.herokuapp.com/pages/AWD00034io  ----------
+  31 Oct 1915 0
+    signals:order (54,37)
+    unit:Sussex (42,43)
+    gridRef:G_18_D_2_8 (60,50)
+    gridRef:G_18_D_4_10 (51,52)
+    gridRef:G_18_C_8_9 (42,56)
+    gridRef:G_18_B_2_4 (57,56)
+    gridRef:G_18_A_7_6 (47,59)
+    time:0410PM (57,73)
+    time:0407PM (59,77)
+Page 540 (type signals) http://wd3.herokuapp.com/pages/AWD00034ik  ----------
+  31 Oct 1915 0
+    date:13 Oct 1915 (48,39)
+    person:H R Holme (commander) (49,63)
+    time:1249PM (52,66)
+Page 541 (type signals) http://wd3.herokuapp.com/pages/AWD00034hn  ----------
+  31 Oct 1915 0
+    date:13 Oct 1915 (48,38)
+    signals:warning (45,43)
+Page 542 (type signals) http://wd3.herokuapp.com/pages/AWD00034ir  ----------
+  31 Oct 1915 0
+    time:0620PM (57,60)
+    person:Second Lieutenant H Holme (commander) (53,64)
+Page 543 (type signals) http://wd3.herokuapp.com/pages/AWD00034hd  ----------
+  31 Oct 1915 0
+    date:14 Oct 1915 (48,40)
+Page 544 (type cover)
+Page 545 (type report) http://wd3.herokuapp.com/pages/AWD00034hl  ----------
+  31 Oct 1915 0
+    reference:map showing German regimental positions (46,26)
+Page 546 (type cover)
+Page 547 (type orders) http://wd3.herokuapp.com/pages/AWD00034gj  ----------
+  31 Oct 1915 0
+    person: (56,85)
+    date:18 Oct 1915 (45,90)
+Page 548 (type ) http://wd3.herokuapp.com/pages/AWD00034jv  ----------
+  31 Oct 1915 0
+    date:19 Oct 1915 (43,64)
+Page 549 (type other) http://wd3.herokuapp.com/pages/AWD00034ig  ----------
+  31 Oct 1915 0
+    person:Captain J B Brady (60,88)
+    date:20 Oct 1915 (41,91)
+Page 550 (type cover)
+Page 551 (type orders) http://wd3.herokuapp.com/pages/AWD00034j1  ----------
+  31 Oct 1915 0
+    orders:training (48,15)
+    reference:G 117 (60,16)
+    person:Captain A G F Isaac (commander) (49,81)
+    date:17 Oct 1915 (37,83)
+Page 552 (type orders) http://wd3.herokuapp.com/pages/AWD00034i8  ----------
+  31 Oct 1915 0
+    person:Lance Corporal Tester (other) (55,26)
+    person:Corporal Burton (other) (55,29)
+    person:Corporal Middleton (other) (56,31)
+    person:Lance Corporal Gregson (other) (55,36)
+    person:Captain A G Isaac (55,67)
+    date:19 Oct 1915 (38,72)
+    orders:training (43,9)
+Page 553 (type diary) http://wd3.herokuapp.com/pages/AWD00034ga  ----------
+  23 Oct 1915 5
+    activity:training (71,18)
+    time:0715AM (11,21)
+    time:0900AM (12,28)
+    time:0215PM (10,32)
+    time:0900AM (13,38)
+    time:0200PM (12,43)
+    time:0900AM (12,49)
+    time:0200PM (14,54)
+    time:0900AM (14,62)
+    time:0200PM (14,69)
+    time:0900AM (14,76)
+    time:0530PM (15,82)
+Page 554 (type orders) http://wd3.herokuapp.com/pages/AWD00034hp  ----------
+  23 Oct 1915 0
+    person:Captain Isaac (46,62)
+    date:22 Oct 1915 (39,67)
+Page 555 (type other) http://wd3.herokuapp.com/pages/AWD00034jc  ----------
+  23 Oct 1915 0
+    orders:training (44,13)
+    date:22 Oct 1915 (35,68)
+Page 556 (type orders) http://wd3.herokuapp.com/pages/AWD00034jb  ----------
+  23 Oct 1915 0
+    orders:training (48,17)
+    orders:training (46,23)
+    reference:C. 148 (59,7)
+    person:Captain Isaac (commander) (47,74)
+    date:23 Oct 1915 (37,77)
+Page 557 (type orders) http://wd3.herokuapp.com/pages/AWD00034ib  ----------
+  23 Oct 1915 0
+    date:25 Oct 1915 (10,27)
+    date:26 Oct 1915 (10,39)
+    date:27 Oct 1915 (9,48)
+    date:28 Oct 1915 (10,61)
+    date:29 Oct 1915 (11,73)
+    date:30 Oct 1915 (13,82)
+    orders:training (33,9)
+Page 558 (type ) http://wd3.herokuapp.com/pages/AWD00034gg  ----------
+  23 Oct 1915 0
+Page 559 (type other) http://wd3.herokuapp.com/pages/AWD00034hc  ----------
+  23 Oct 1915 0
+Page 560 (type ) http://wd3.herokuapp.com/pages/AWD00034ie  ----------
+  23 Oct 1915 0
+Page 561 (type other) http://wd3.herokuapp.com/pages/AWD00034ia  ----------
+  23 Oct 1915 0
+Page 562 (type ) http://wd3.herokuapp.com/pages/AWD00034hf  ----------
+  23 Oct 1915 0
+    date:28 Oct 1915 (79,19)
+Page 563 (type ) http://wd3.herokuapp.com/pages/AWD00034fu  ----------
+  23 Oct 1915 0
+    mapRef:36b (84,46)
+Page 564 (type orders) http://wd3.herokuapp.com/pages/AWD00034gn  ----------
+  23 Oct 1915 0
+    date:30 Oct 1915 (87,6)
+    orders:training (20,6)
+Page 565 (type ) http://wd3.herokuapp.com/pages/AWD00034jr  ----------
+  23 Oct 1915 0
+Page 566 (type cover)
+Page 567 (type other) http://wd3.herokuapp.com/pages/AWD00034gi  ----------
+  23 Oct 1915 0
+Page 568 (type other) http://wd3.herokuapp.com/pages/AWD00034jd  ----------
+Page 569 (type other) http://wd3.herokuapp.com/pages/AWD00034id  ----------
+Page 570 (type diary) http://wd3.herokuapp.com/pages/AWD00034i9  ----------
+  1 Nov 1915 28
+    weather:rain (43,34)
+    place:Lillers (57,35)
+    activity:training (50,36)
+  3 Nov 1915 39
+    activity:training (51,40)
+  4 Nov 1915 42
+  5 Nov 1915 45
+  6 Nov 1915 49
+  7 Nov 1915 52
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,55)
+  9 Nov 1915 64
+    person:Second Lieutenant F H Campbell (joined) (47,67)
+  10 Nov 1915 69
+    person:Lieutenant General H Rawlinson (other) (51,72)
+    domestic:inspections (55,77)
+Page 571 (type diary) http://wd3.herokuapp.com/pages/AWD00034gd  ----------
+  11 Nov 1915 0
+    activity:training (47,36)
+    weather:fine (52,39)
+  12 Nov 1915 40
+    activity:movement (43,45)
+    activity:movement (52,46)
+  13 Nov 1915 49
+    place:Lillers (48,52)
+    activity:movement (43,53)
+    place:Noeux-les-Mines (41,54)
+    time:0710AM (48,54)
+    activity:movement (47,55)
+    activity:movement (53,57)
+    place:Philosophe (52,57)
+    activity:line (47,60)
+    unit:A,b,&c coys. 2 bn. krrc (42,60)
+    activity:reserve (53,62)
+    weather:rain (46,63)
+    place:Mazingarbe (46,71)
+    unit:2 Bn, the Royal Sussex Regiment (58,73)
+  14 Nov 1915 74
+    unit:1 Cameronians (42,74)
+    activity:line (38,77)
+    activity:fire (52,78)
+    unit:1 Infantry Brigade (39,78)
+  15 Nov 1915 81
+    weather:cold (41,84)
+    weather:fine (49,84)
+    activity:line (39,85)
+Page 572 (type diary) http://wd3.herokuapp.com/pages/AWD00034g5  ----------
+  15 Nov 1915 24
+    activity:movement (56,28)
+    domestic:accomodation (45,29)
+    activity:line (42,29)
+    place:Mazingarbe (54,30)
+    unit:1 Bn. Northamptonshire Regiment (46,30)
+  16 Nov 1915 31
+    domestic:accomodation (47,34)
+    place:Mazingarbe (37,37)
+    activity:resting (45,37)
+    strength:officer: 23; nco: 0; other: 782 (53,39)
+    activity:casualty (46,42)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,42)
+  17 Nov 1915 43
+    place:Mazingarbe (38,48)
+    activity:movement (47,50)
+    mapRef:36c.NW (57,51)
+    place:Seventh Avenue (trench) (52,53)
+    unit:C coy. 2 bn. krrc (44,54)
+    unit:D coy. 2 bn. krrc (44,56)
+    unit:A&b coy. 2 bn. krrc (45,59)
+    domestic:rations (44,61)
+    activity:working (59,64)
+    activity:repair (51,65)
+Page 573 (type diary) http://wd3.herokuapp.com/pages/AWD00034je  ----------
+  18 Nov 1915 26
+    place:Mazingarbe (37,30)
+    person:Second Lieutenant R E Bullen (54,35)
+    activity:attack (44,35)
+    activity:fire (47,35)
+    activity:fire (50,35)
+    person:Campbell (53,37)
+    strength:officer: 6; nco: 0; other: 407 (48,42)
+    activity:working (46,43)
+  19 Nov 1915 44
+    weather:fine (45,47)
+    activity:fire (53,49)
+    place:Mazingarbe (36,49)
+    activity:line (39,50)
+    activity:attack (45,51)
+    activity:repair (49,52)
+  20 Nov 1915 56
+    weather:fine (45,58)
+    place:Mazingarbe (35,60)
+    activity:line (43,61)
+  21 Nov 1915 65
+    unit:1 N Lancs (48,68)
+    gridRef:G_18_D_10_5 (55,70)
+    mapRef:36c.NW (51,70)
+    unit:D coy. 2 bn. krrc (58,71)
+    gridRef:G_18_B_8_6 (43,72)
+    gridRef:G_18_D_9_5 (56,73)
+    unit:A coy. 2 bn. krrc (40,74)
+    unit:C coy. 2 bn. krrc (55,75)
+    activity:reserve (48,75)
+    unit:B coy. 2 bn. krrc (44,78)
+Page 574 (type diary) http://wd3.herokuapp.com/pages/AWD00034gc  ----------
+  21 Nov 1915 25
+    activity:line (46,29)
+  22 Nov 1915 32
+    activity:line (43,37)
+    weather:cold (44,37)
+    activity:repair (48,38)
+  23 Nov 1915 43
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,43)
+  24 Nov 1915 49
+    place:Vendin Alley (46,49)
+    activity:line (42,53)
+    activity:attack (50,53)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (56,55)
+  26 Nov 1915 60
+    activity:line (43,60)
+    weather:cold (45,63)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,63)
+    person:Company Sergeant Major Lewin (casualty_kia) (53,64)
+    unit:8 Bn. Royal Berkshire Regiment (49,69)
+    activity:movement (47,74)
+    place:Mazingarbe (57,75)
+Page 575 (type ) http://wd3.herokuapp.com/pages/AWD00034fz  ----------
+  26 Nov 1915 0
+Page 576 (type diary) http://wd3.herokuapp.com/pages/AWD00034ht  ----------
+  27 Nov 1915 29
+    domestic:medical (51,33)
+    activity:resting (46,34)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 40; wounded: 0 (40,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,39)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (47,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (50,43)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 2; wounded: 0 (47,45)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (51,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (47,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 5; wounded: 0 (51,50)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 8; wounded: 0 (47,52)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (51,54)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (47,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (51,58)
+    person:Second Lieutenant Ravenscroft (joined) (45,68)
+    person:Second Lieutenant F Walker (joined) (58,68)
+    person:Second Lieutenant C P Walker (joined) (42,70)
+Page 577 (type diary) http://wd3.herokuapp.com/pages/AWD00034gp  ----------
+  28 Nov 1915 25
+    place:Mazingarbe (38,28)
+    weather:cold (49,29)
+    domestic:religion (43,29)
+    domestic:parades (46,30)
+  29 Nov 1915 33
+    weather:rain (46,37)
+    place:Mazingarbe (37,37)
+    activity:working (51,40)
+  30 Nov 1915 41
+    weather:fine (47,44)
+    place:Mazingarbe (37,45)
+    activity:working (47,46)
+    activity:working (54,46)
+Page 578 (type report) http://wd3.herokuapp.com/pages/AWD00034j8  ----------
+  30 Nov 1915 0
+    title:List of Officers (46,28)
+    person:Lieutenant Colonel Bircham (commander) (40,32)
+    person:Major J E N Heseltine (other) (42,33)
+    person:Captain P J R Currie (other) (41,36)
+    person:Lieutenant A E Robinson (other) (45,37)
+    person:Lieutenant J B Mahar (other) (46,39)
+    person:Second Lieutenant Angell (other) (49,41)
+    person:Captain H Ward (other) (44,42)
+    person:Captain R E Bullen (other) (46,44)
+    person:Second Lieutenant R B Holmes (other) (48,46)
+    person:Second Lieutenant R J Stokes (other) (48,48)
+    person:Second Lieutenant A W Symington (other) (48,50)
+    person:Second Lieutenant F N Campbell (other) (52,52)
+    person:Second Lieutenant P D Ravenscroft (other) (46,54)
+    person:Lieutenant G S Walley (other) (58,55)
+    person:Second Lieutenant F C Cull (other) (46,60)
+    person:Second Lieutenant O P Walker (other) (47,68)
+    person:Second Lieutenant C Savin (other) (50,70)
+Page 579 (type ) http://wd3.herokuapp.com/pages/AWD00034ih  ----------
+  30 Nov 1915 0
+    person:Captain E Wenham (other) (46,27)
+    person:Second Lieutenant R A W Dent (other) (54,29)
+    person:Second Lieutenant F B Whateley (other) (54,33)
+    person:Second Lieutenant F B Walker (other) (47,35)
+    person:Captain F G Fison (other) (47,44)
+    person:Second Lieutenant E J G Gibb (other) (50,46)
+    person:Second Lieutenant H R Holme (other) (52,48)
+    person:Second Lieutenant F A Freeman (other) (55,50)
+    person:Second Lieutenant R A F Eminson (other) (49,52)
+Page 580 (type cover)
+Page 581 (type orders) http://wd3.herokuapp.com/pages/AWD00034h9  ----------
+  30 Nov 1915 0
+    person:Brigadier General F H Thuillier (commander) (51,16)
+    date:11 Nov 1915 (60,18)
+    reference:Map Sheet 36.A Sheet 36 B Sheet 36 C (38,24)
+Page 582 (type orders) http://wd3.herokuapp.com/pages/AWD00034hv  ----------
+  30 Nov 1915 0
+    reference:Operation Order 50 p2 (45,33)
+    person:Captain Isaac (author) (46,72)
+    reference:Map Sheet 36.A Sheet 36 B Sheet 36 C (38,8)
+Page 583 (type orders) http://wd3.herokuapp.com/pages/AWD00034hq  ----------
+  30 Nov 1915 0
+    person:Brigadier General H F Thuillier (commander) (50,14)
+    date:23 Nov 1915 (62,17)
+    reference:Map 36.c.N.W. sheet 3 (54,20)
+    reference:Operation Order 51 (54,23)
+    orders:move (39,5)
+    reference:Operation Order No. 51 (47,8)
+Page 584 (type orders) http://wd3.herokuapp.com/pages/AWD00034gs  ----------
+  30 Nov 1915 0
+    reference:Operation Order 51 p2 (41,27)
+Page 585 (type orders) http://wd3.herokuapp.com/pages/AWD00034j9  ----------
+  30 Nov 1915 0
+    reference:Operation Order 51 p3 (44,31)
+    orders:other (50,9)
+Page 586 (type orders) http://wd3.herokuapp.com/pages/AWD00034ha  ----------
+  30 Nov 1915 0
+    reference:Operation Order 51 p4 (45,33)
+    orders:other (47,9)
+Page 587 (type orders) http://wd3.herokuapp.com/pages/AWD00034h3  ----------
+  30 Nov 1915 0
+    person:Brigadier General H F Thuillier (commander) (54,10)
+    date:23 Nov 1915 (57,15)
+    orders:other (45,15)
+    reference:Operation Order 52 (49,22)
+    reference:Operation Order No. 52 (49,7)
+Page 588 (type orders) http://wd3.herokuapp.com/pages/AWD00034h8  ----------
+  30 Nov 1915 0
+    orders:move (39,4)
+    reference:Operation Order 52 p2 (48,41)
+    person:Captain A Isaac (other) (45,57)
+Page 589 (type orders) http://wd3.herokuapp.com/pages/AWD00034g3  ----------
+  30 Nov 1915 0
+    date:30 Nov 1915 (59,15)
+    reference:Map Sheet 36.c NW Sheet 3, parts of 1,2,&4 (40,21)
+    reference:Map 36.c.N.W. sheet 3 (43,23)
+    reference:Operation Order 53 (50,33)
+    reference:Operation Order No. 53. (52,8)
+Page 590 (type orders) http://wd3.herokuapp.com/pages/AWD00034gm  ----------
+  30 Nov 1915 0
+    reference:Operation Order 53p2 (42,40)
+    orders:move (43,8)
+Page 591 (type cover)
+Page 592 (type orders) http://wd3.herokuapp.com/pages/AWD00034hz  ----------
+  30 Nov 1915 0
+    orders:attack (49,3)
+Page 593 (type orders) http://wd3.herokuapp.com/pages/AWD00034if  ----------
+  30 Nov 1915 0
+    person:Captain E H P Jackson (author) (52,33)
+    date:15 Nov 1915 (37,39)
+Page 594 (type orders) http://wd3.herokuapp.com/pages/AWD00034go  ----------
+  30 Nov 1915 0
+    reference:Retaliation Scheme (49,27)
+    person:Captain E H P Jackson (other) (59,67)
+    orders:attack (38,7)
+    date:15 Nov 1915 (37,71)
+Page 595 (type orders) http://wd3.herokuapp.com/pages/AWD00034jn  ----------
+  30 Nov 1915 0
+    date:15 Nov 1915 (40,51)
+    reference:No. 657/33(G) (55,7)
+Page 596 (type orders) http://wd3.herokuapp.com/pages/AWD00034fx  ----------
+  30 Nov 1915 0
+    person:Lieutenant Colonel J A Longridge (56,25)
+    date:16 Nov 1915 (38,28)
+    reference:1st Division No. 657/33 (G) (58,4)
+    person:Lieutenant Colonel Longridge (54,46)
+    date:16 Nov 1915 (39,51)
+    reference:1st Div. No.657/33(G) (49,6)
+    person:Lieutenant Colonel J A Longridge (53,62)
+    date:16 Nov 1915 (39,66)
+    reference:No. 657/33(G) (55,8)
+    person:Lieutenant Colonel J A Longridge (54,81)
+    date:16 Nov 1915 (40,86)
+Page 597 (type orders) http://wd3.herokuapp.com/pages/AWD00034hi  ----------
+  30 Nov 1915 0
+    date:17 Nov 1915 (37,48)
+Page 598 (type other) http://wd3.herokuapp.com/pages/AWD00034hu  ----------
+  30 Nov 1915 0
+    reference:No. 657/33(G) (72,10)
+    date:17 Nov 1915 (10,22)
+    orders:attack (38,45)
+Page 599 (type orders) http://wd3.herokuapp.com/pages/AWD00034hk  ----------
+  30 Nov 1915 0
+    reference:No. 657/33(G) (66,10)
+    date:19 Nov 1915 (11,18)
+Page 600 (type other) http://wd3.herokuapp.com/pages/AWD00034jo  ----------
+  30 Nov 1915 0
+    orders:attack (36,24)
+    date:23 Nov 1915 (8,40)
+    reference:No. 657/33(G) (79,9)
+Page 601 (type orders) http://wd3.herokuapp.com/pages/AWD00034fy  ----------
+  30 Nov 1915 0
+    orders:attack (51,11)
+    reference:No. 657/33(G) (59,7)
+    date:17 Nov 1915 (37,84)
+Page 602 (type orders) http://wd3.herokuapp.com/pages/AWD00034is  ----------
+  30 Nov 1915 0
+    person:Lieutenant Colonel J A Longridge (commander) (56,25)
+    date:22 Nov 1915 (42,28)
+    reference:1st Division No. 657/33 (G). (60,3)
+    orders:attack (47,41)
+    person:Lieutenant Colonel J A Longridge (53,44)
+    date:22 Nov 1915 (42,48)
+    orders:attack (48,58)
+    person:Lieutenant Colonel J A Longridge (53,62)
+    date:22 Nov 1915 (42,63)
+    reference:No. 657/33(G) (59,7)
+    person:Lieutenant Colonel J A Longridge (54,80)
+    date:22 Nov 1915 (41,84)
+Page 603 (type orders) http://wd3.herokuapp.com/pages/AWD00034ft  ----------
+  30 Nov 1915 0
+    orders:attack (49,12)
+    date:22 Nov 1915 (41,64)
+    orders:attack (48,7)
+Page 604 (type orders) http://wd3.herokuapp.com/pages/AWD00034fv  ----------
+  30 Nov 1915 0
+    reference:No. 657/33(G) (73,10)
+    date:24 Nov 1915 (10,16)
+    orders:attack (36,24)
+    date:25 Nov 1915 (10,36)
+    orders:attack (35,42)
+    date:26 Nov 1915 (10,50)
+Page 605 (type orders) http://wd3.herokuapp.com/pages/AWD00034ix  ----------
+  30 Nov 1915 0
+    reference:No. 657/33(G) (78,14)
+    date:27 Nov 1915 (11,20)
+    date:29 Nov 1915 (11,71)
+    orders:attack (40,74)
+Page 606 (type orders) http://wd3.herokuapp.com/pages/AWD00034g7  ----------
+  30 Nov 1915 0
+    date:29 Nov 1915 (10,18)
+    orders:attack (35,24)
+    orders:attack (34,55)
+    reference:No. 657/33(G) (80,9)
+Page 607 (type orders) http://wd3.herokuapp.com/pages/AWD00034h5  ----------
+  30 Nov 1915 0
+    orders:attack (35,10)
+    reference:No. 657/33(G) (82,13)
+    date:30 Nov 1915 (14,18)
+Page 608 (type other) http://wd3.herokuapp.com/pages/AWD00034i2  ----------
+  30 Nov 1915 0
+Page 609 (type cover)
+Page 610 (type ) http://wd3.herokuapp.com/pages/AWD00034ge  ----------
+  30 Nov 1915 0
+    reference:2nd Brigade No. 537 (G). (58,13)
+    reference:No. 537(G) (55,14)
+    date:21 Nov 1915 (40,46)
+Page 611 (type orders) http://wd3.herokuapp.com/pages/AWD00034hy  ----------
+  30 Nov 1915 0
+Page 612 (type orders) http://wd3.herokuapp.com/pages/AWD00034jm  ----------
+  30 Nov 1915 0
+Page 613 (type orders) http://wd3.herokuapp.com/pages/AWD00034hw  ----------
+  30 Nov 1915 0
+Page 614 (type orders) http://wd3.herokuapp.com/pages/AWD00034ic  ----------
+  30 Nov 1915 0
+    orders:attack (51,5)
+Page 615 (type orders) http://wd3.herokuapp.com/pages/AWD00034h1  ----------
+  30 Nov 1915 0
+Page 616 (type orders) http://wd3.herokuapp.com/pages/AWD00034fw  ----------
+  30 Nov 1915 0
+    date:21 Nov 1915 (37,48)
+    orders:attack (49,8)
+Page 617 (type other) http://wd3.herokuapp.com/pages/AWD00034j7  ----------
+Page 618 (type other) http://wd3.herokuapp.com/pages/AWD00034gw  ----------
+  30 Nov 1915 0
+    mapRef:36 (44,14)
+    reference:Trench map 36 NW3 1/1000 (44,15)
+Page 619 (type other) http://wd3.herokuapp.com/pages/AWD00034gq  ----------
+  30 Nov 1915 0
+    reference:Map 36C .N.W sheet 3 (41,5)
+Page 620 (type other) http://wd3.herokuapp.com/pages/AWD00034jh  ----------
+  30 Nov 1915 0
+Page 621 (type other) http://wd3.herokuapp.com/pages/AWD00034g9  ----------
+  30 Nov 1915 0
+Page 622 (type other) http://wd3.herokuapp.com/pages/AWD00034hx  ----------
+  30 Nov 1915 0
+    reference:No. 234(G) (58,7)
+Page 623 (type orders) http://wd3.herokuapp.com/pages/AWD00034iz  ----------
+  30 Nov 1915 0
+Page 624 (type ) http://wd3.herokuapp.com/pages/AWD00034gk  ----------
+Page 625 (type cover)

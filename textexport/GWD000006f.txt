@@ -1,0 +1,679 @@
+GWD000006f wo/95/1264/1
+1 DIVISION:  1 Infantry Brigade: 1 Battalion Cameron Highlanders.  
+45 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type cover)
+Page 4 (type cover)
+Page 5 (type cover)
+Page 6 (type report) http://wd3.herokuapp.com/pages/AWD0000zai  ----------
+  1 Aug 1914 0
+  14 Sep 1914 22
+    date:14 Sep 1914 (43,23)
+    place:Paissy (50,28)
+    time:0545AM (56,29)
+    place:Vendresse (45,32)
+    unit:1 Coldstream Guards (48,34)
+    unit:1 cameron highlanders (54,35)
+    unit:1 Black Watch (40,37)
+    unit:1 Scots Guards (50,37)
+    unit:2 Brigade (43,44)
+    unit:1 Coldstream Guards (43,50)
+    place:Troyon Factory (56,57)
+Page 7 (type report) http://wd3.herokuapp.com/pages/AWD0000zau  ----------
+  14 Sep 1914 0
+    reference:TROYON FACTORY (54,38)
+    place:Chivy (59,47)
+    place:Le Blanc Mont (54,61)
+Page 8 (type report) http://wd3.herokuapp.com/pages/AWD0000zaa  ----------
+  Hashtags: #map 
+  14 Sep 1914 0
+    reference:VENDRESSE (53,37)
+    unit:1 Coldstream Guards (40,47)
+    unit:1 Black Watch (41,50)
+    reference:18 (58,75)
+Page 9 (type report) http://wd3.herokuapp.com/pages/AWD0000zbe  ----------
+  14 Sep 1914 0
+    reference:continuation (44,29)
+    person:Lieutenant J S M Macheson (casualty_wounded) (48,60)
+    person:Second Lieutenant A G Smith-Sligo (commander) (41,67)
+    reference:20 (58,74)
+Page 10 (type report) http://wd3.herokuapp.com/pages/AWD0000zbk  ----------
+  14 Sep 1914 0
+    reference:continuation (39,24)
+    person:Major A H Maitland (casualty_kia) (39,51)
+    person:Second Lieutenant A S Nicholson (casualty_wounded) (43,58)
+Page 11 (type report) http://wd3.herokuapp.com/pages/AWD0000zag  ----------
+  Hashtags: #casualties 
+  14 Sep 1914 0
+    reference:continuation (38,30)
+    reference:continuation (53,48)
+    date:20 Sep 1914 (40,57)
+    person:General John French (other) (46,57)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD0000zba  ----------
+  14 Sep 1914 0
+    reference:continuation  report at Vendresse (46,23)
+  18 Sep 1914 27
+    date:18 Sep 1914 (44,27)
+    activity:fire (52,31)
+    place:Vendresse (56,34)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 10 (45,35)
+  19 Sep 1914 39
+    date:19 Sep 1914 (44,43)
+    activity:reserve (47,45)
+    unit:Scots Guards (48,45)
+    person:Sergeant Bain (casualty_wounded) (49,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (44,48)
+    activity:repair (50,52)
+  20 Sep 1914 59
+    activity:movement (51,63)
+    date:20 Sep 1914 (44,63)
+    place:Bourg (61,64)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD0000zaz  ----------
+  20 Sep 1914 29
+  21 Sep 1914 35
+    activity:fire (48,39)
+    person:Second Lieutenant Cumming (joined) (46,46)
+    person:Second Lieutenant Mackintosh Walker (joined) (58,46)
+    person:Sergeant Miller (joined) (48,48)
+    person:Sergeant Jones (joined) (53,48)
+    unit:5 Brigade 2 Division (52,51)
+    unit:5 Brigade 2 Division (64,53)
+    place:Verneuil (54,53)
+    place:Courtonne (49,57)
+  22 Sep 1914 62
+    place:Courtonne (56,65)
+    activity:fire (54,66)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (47,70)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (56,70)
+    person:Lieutenant Black (joined) (61,71)
+    person:Lieutenant Black (joined) (50,72)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD0000zbh  ----------
+  Hashtags: #airship 
+  22 Sep 1914 0
+  23 Sep 1914 29
+    place:Courtonne (52,32)
+  24 Sep 1914 35
+    activity:movement (48,36)
+    time:0100AM (59,38)
+    place:Beauline (58,40)
+    unit:Black Watch (56,40)
+    activity:attack (48,50)
+    activity:fire (52,53)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 30 (53,55)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 30 (44,57)
+  25 Sep 1914 60
+    activity:fire (56,63)
+    activity:fire (46,64)
+    time:0730AM (60,65)
+    person:Captain Miers (casualty_kia) (57,72)
+    person:Captain A G Cameron (casualty_kia) (48,74)
+    person:Lieutenant K F Meiklejohn (casualty_kia) (55,76)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD0000zb6  ----------
+  25 Sep 1914 27
+    person:Lieutenant N C A Cameron (casualty_kia) (48,32)
+    person:Lieutenant J Crocket (casualty_kia) (60,32)
+    person:Sergeant Major Burt (casualty_kia) (55,34)
+    person:other Clerk Hutchison (casualty_kia) (51,36)
+    person:Captain Ewen Brodie (commander) (55,40)
+  26 Sep 1914 49
+    place:Chivy (48,60)
+    unit:3 Brigade (54,60)
+    time:0900PM (58,70)
+    unit:6 Brigade (48,71)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD0000zaw  ----------
+  Hashtags: #gravesites 
+  26 Sep 1914 31
+    casualties:died: 0; killed: 90; missing: 0; prisoner: 0; sick: 0; wounded: 0 (66,40)
+  27 Sep 1914 41
+    person:Major Hill (commander) (55,45)
+    person:Lieutenant Micklejohn (other) (56,50)
+    person:Captain Miers (other) (49,55)
+    person:Lieutenant Crocket (other) (56,55)
+    place:Bourg (59,57)
+    activity:movement (49,60)
+    time:0830PM (58,61)
+    place:Vendresse (55,62)
+  28 Sep 1914 64
+    unit:South Wales Borderers (57,64)
+    unit:South Wales (58,64)
+    person:Captain A G Cameron (casualty_kia) (48,70)
+    person:Lieutenant N C G Cameron (other) (60,70)
+    person:Captain Miers (casualty_kia) (56,73)
+    person:Lieutenant Crocket (casualty_kia) (50,76)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD0000zah  ----------
+  Hashtags: #gravestone #Grave #Bourg 
+  28 Sep 1914 0
+    person:Cameron (casualty_kia) (50,43)
+    person:Captain Cameron (casualty_kia) (50,49)
+    person:Colonel D L MacEwen (joined) (53,58)
+    person:Captain E Craig-Brown (joined) (49,60)
+    person:Captain P Mitford (joined) (57,61)
+    person:Captain R Cavage (joined) (53,64)
+    person:Lieutenant L Robertson (joined) (61,65)
+    person:Lieutenant R Mccall (joined) (50,68)
+    person:Lieutenant Davidson (joined) (63,68)
+    activity:fire (54,73)
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD0000zap  ----------
+  29 Sep 1914 37
+    activity:fire (55,41)
+    activity:enemy_activity (50,47)
+    casualties:died: 0; killed: 11; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,55)
+    person:Private C Woods (casualty_kia) (45,59)
+    person:Private J Munro (casualty_kia) (59,60)
+    casualties:died: 0; killed: 11; missing: 0; prisoner: 0; sick: 0; wounded: 0 (54,62)
+    person:H Haughes (casualty_kia) (47,62)
+    person:Private Murdoch (casualty_kia) (61,62)
+    person:Bombardier W Money (casualty_kia) (47,64)
+    person:Captain G Stevenson (casualty_kia) (59,65)
+    person:Lance Corporal J Graham (casualty_kia) (47,66)
+    person:R Sweeney (casualty_kia) (47,67)
+    person:J Brown (casualty_kia) (46,69)
+    person:Sergeant A Hutchinson (casualty_kia) (46,71)
+    person:Lance Corporal F Abbott (casualty_kia) (48,73)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD0000zbl  ----------
+  Hashtags: #Burying 
+  30 Sep 1914 34
+    time:0300PM (53,39)
+    activity:fire (56,41)
+    place:Vendresse (58,43)
+    activity:fire (55,53)
+    time:0400PM (58,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (64,57)
+    person:Corporal Lumsden (casualty_wounded) (56,60)
+    person:Corporal Lumsden (casualty_wounded) (47,60)
+    person:Private Russell (casualty_wounded) (47,62)
+    person:Private Darracot (casualty_wounded) (49,64)
+    person:Private Quigley (casualty_wounded) (52,65)
+    person:Private Hossack (casualty_wounded) (45,68)
+    unit:Royal Engineers (60,69)
+    activity:quiet (52,71)
+    activity:clearing (49,75)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD0000zak  ----------
+  Hashtags: #aeroplanes 
+  30 Sep 1914 22
+Page 21 (type other) http://wd3.herokuapp.com/pages/AWD0000zaf  ----------
+  Hashtags: #map 
+Page 22 (type cover)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD0000zb3  ----------
+  1 Oct 1914 43
+    activity:fire (43,48)
+    activity:fire (57,50)
+    place:Vendresse (53,54)
+    place:Moulins (60,54)
+    activity:fire (56,57)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 9 (49,61)
+    person:Sergeant T Scott (casualty_wounded) (42,63)
+    person:Private G McKay (casualty_wounded) (58,63)
+    person:Private J (casualty_wounded) (53,64)
+    person:Sergeant W Lyle (casualty_wounded) (43,65)
+    person:Private J Meikle (casualty_wounded) (62,66)
+    person:Sergeant J McNeil (casualty_wounded) (43,67)
+    person:Private E Hawkins (casualty_wounded) (55,67)
+    person:Lance Corporal R Gollan (casualty_wounded) (42,69)
+    person:Private J Buchan (casualty_wounded) (56,69)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 9 (49,70)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD0000zb4  ----------
+  1 Oct 1914 20
+    person:D Macdonald (casualty_kia) (43,28)
+    person:J Pears (casualty_kia) (57,31)
+    person:J Pears (casualty_kia) (41,31)
+    person:R Sinclair (casualty_kia) (43,33)
+    person:Private W Rowe (casualty_kia) (57,36)
+    person:Private W Rowe (casualty_kia) (42,36)
+    casualties:died: 0; killed: 7; missing: 0; prisoner: 0; sick: 0; wounded: 0 (51,37)
+    person:Private H Sims (58,38)
+    person:Private H Sims (casualty_kia) (42,39)
+    person:Private W Stewart (casualty_kia) (44,41)
+    person:Private R Walker (casualty_kia) (57,44)
+    person:Private R Walker (casualty_kia) (43,44)
+Page 25 (type diary) http://wd3.herokuapp.com/pages/AWD0000zax  ----------
+  1 Oct 1914 19
+  4 Oct 1914 23
+    activity:movement (42,23)
+    place:Vendresse (40,27)
+    place:Chemin de Dames (62,28)
+    activity:line (41,30)
+    unit:Gloucesters (59,31)
+    unit:Coldstream Guards (53,37)
+    unit:South Wales Borderers (59,40)
+    unit:A battalion of the South Wales Borderers (49,40)
+    unit:Camerons (39,41)
+  5 Oct 1914 47
+    activity:quiet (42,53)
+  6 Oct 1914 55
+    activity:fire (47,62)
+    time:0220PM (63,64)
+  7 Oct 1914 68
+    activity:fire (58,72)
+    activity:repair (48,76)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 7 (41,88)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 7 (49,88)
+Page 26 (type diary) http://wd3.herokuapp.com/pages/AWD0000zaq  ----------
+  Hashtags: #aeroplanes 
+  8 Oct 1914 9
+    activity:fire (46,16)
+    time:0800AM (65,19)
+    time:0400PM (47,23)
+  9 Oct 1914 24
+    person:Captain J A Orr (joined) (48,31)
+    time:0200AM (41,31)
+    activity:enemy_activity (50,39)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (56,49)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (42,50)
+  10 Oct 1914 53
+    unit:2 Brigade (63,59)
+    activity:enemy_activity (44,59)
+    activity:enemy_activity (51,60)
+  11 Oct 1914 69
+    activity:enemy_activity (49,74)
+    time:0300PM (63,76)
+    place:Chivy (50,77)
+    activity:fire (50,80)
+    activity:fire (44,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (47,84)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD0000zb7  ----------
+  Hashtags: #French 
+  12 Oct 1914 21
+    activity:attack (46,29)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (42,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (52,37)
+  13 Oct 1914 39
+    activity:fire (44,45)
+  14 Oct 1914 50
+  15 Oct 1914 59
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (53,59)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (47,59)
+    activity:other (41,63)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 10 (57,68)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 10 (47,71)
+  16 Oct 1914 72
+    unit:15 Regiment 16 Corps French Army (39,76)
+    unit:15 Regiment 16 Corps French Army (56,76)
+    activity:movement (49,78)
+    place:Vendresse (49,78)
+    place:Bourg (63,79)
+    place:Longuival (41,81)
+    place:Blanzy (50,81)
+    domestic:accomodation (63,82)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD0000zad  ----------
+  17 Oct 1914 21
+    place:Blanzy (54,28)
+    activity:movement (47,28)
+    time:0530PM (62,29)
+    place:Fismes (41,31)
+    activity:movement (53,31)
+    time:0620PM (61,32)
+    place:Etaples (55,35)
+    place:Amiens (63,35)
+    time:0920PM (48,35)
+  18 Oct 1914 37
+    activity:movement (43,43)
+    place:Hazebrouck (46,47)
+  19 Oct 1914 51
+    time:0800AM (61,57)
+    place:Hazebrouck (49,58)
+    activity:movement (39,58)
+    domestic:accomodation (45,61)
+  20 Oct 1914 64
+    place:Hazebrouck (50,71)
+    time:0850AM (58,71)
+    activity:movement (41,71)
+    place:Poperinghe (51,75)
+    domestic:accomodation (46,75)
+  21 Oct 1914 80
+    time:0515PM (58,85)
+    place:Poperinghe (49,86)
+    activity:movement (41,86)
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD0000za9  ----------
+  21 Oct 1914 17
+  22 Oct 1914 21
+    place:Langemarck (48,23)
+    place:Saint Jean Kortebeck (51,26)
+    casualties:died: 0; killed: 2; missing: 74; prisoner: 0; sick: 0; wounded: 10 (20,28)
+    activity:attack (51,38)
+    activity:fire (56,38)
+    activity:reconnoitered (48,42)
+    activity:withdraw (61,49)
+    activity:fire (45,50)
+    unit:Northhamptons (36,58)
+    unit:Coldstream Guards (44,58)
+    unit:Cameron Highlanders (55,58)
+    activity:movement (49,63)
+  23 Oct 1914 65
+    unit:Scots Guards (48,69)
+    unit:Black Watch (56,69)
+    unit:North Staffords (62,69)
+    unit:North Staffords (38,74)
+    unit:60 Rifles (61,77)
+    unit:Queens (40,83)
+    unit:The Queens (39,83)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD0000zar  ----------
+  22 Oct 1914 20
+  23 Oct 1914 23
+    activity:fire (48,28)
+    casualties:died: 0; killed: 2; missing: 74; prisoner: 0; sick: 0; wounded: 10 (20,28)
+    activity:withdraw (40,36)
+    casualties:died: 0; killed: 2; missing: 74; prisoner: 0; sick: 0; wounded: 10 (14,41)
+    casualties:died: 0; killed: 2; missing: 74; prisoner: 0; sick: 0; wounded: 10 (58,46)
+    casualties:died: 0; killed: 2; missing: 74; prisoner: 0; sick: 0; wounded: 10 (39,47)
+  24 Oct 1914 59
+    unit:Queens (43,71)
+    activity:support (54,71)
+  25 Oct 1914 75
+    activity:movement (40,82)
+    place:Zillebeke (60,83)
+    place:Ypres (43,86)
+Page 31 (type diary) http://wd3.herokuapp.com/pages/AWD0000zav  ----------
+  Hashtags: #aeroplane #FriendlyFire 
+  26 Oct 1914 13
+    activity:movement (42,21)
+    place:Hooge (39,25)
+    place:Feldhoek (59,26)
+    activity:reserve (50,28)
+    time:0930AM (42,28)
+    unit:2 Division (48,32)
+    unit:7 Division (55,32)
+    place:Reutel (62,33)
+    activity:attack (60,33)
+    place:Poezelhoek (41,36)
+    activity:movement (42,46)
+    time:0300PM (41,46)
+    place:Ypres (52,49)
+  27 Oct 1914 55
+    activity:line (51,62)
+    time:0500AM (44,63)
+    activity:fire (48,69)
+    activity:fire (51,69)
+    time:0900PM (58,69)
+    activity:movement (45,72)
+    unit:Grenadiers (58,73)
+    time:0300AM (42,76)
+  28 Oct 1914 77
+    place:Reutel (45,84)
+    place:Poezelhoek (52,85)
+    activity:line (39,85)
+    activity:fire (50,88)
+    time:0100PM (59,93)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD0000za8  ----------
+  28 Oct 1914 11
+    activity:fire (55,19)
+  29 Oct 1914 24
+    activity:enemy_activity (44,34)
+    time:0530AM (39,34)
+    activity:attack (48,38)
+    activity:enemy_activity (52,41)
+    unit:7 Division (35,45)
+    unit:2 Brigade (49,48)
+    unit:3 Brigade (52,48)
+    activity:attack (55,49)
+    unit:1 Brigade (40,49)
+    unit:Irish Guards (56,51)
+    unit:1 Coy Coldstream Guards (40,57)
+    activity:quiet (58,60)
+    unit:Scots Guards (40,61)
+  30 Oct 1914 66
+    activity:fire (58,74)
+    activity:fire (37,75)
+    unit:7 Division (42,77)
+  31 Oct 1914 83
+    activity:fire (40,90)
+    time:0300AM (37,90)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,93)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD0000zb0  ----------
+  31 Oct 1914 13
+    activity:enemy_activity (38,19)
+    unit:Scots Guards (54,20)
+    person:General Lomax (casualty_wounded) (36,28)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 0 (63,28)
+    casualties:died: 0; killed: 2; missing: 0; prisoner: 0; sick: 0; wounded: 1 (51,29)
+    activity:withdraw (47,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,47)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,47)
+Page 34 (type cover)
+Page 35 (type diary) http://wd3.herokuapp.com/pages/AWD0000zas  ----------
+  Hashtags: #Kaiser 
+  1 Nov 1914 28
+    time:0300AM (58,32)
+    activity:movement (37,34)
+    place:Ypres (57,36)
+    place:Veldhoek (48,37)
+    place:Zunnebeke (36,38)
+    activity:fire (45,41)
+    person:Major Stewart (casualty_wounded) (55,46)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (39,48)
+  2 Nov 1914 61
+    time:0645AM (57,66)
+    time:0500PM (63,66)
+    activity:fire (42,67)
+    activity:fire (46,67)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (41,78)
+    person:Lieutenant McDonald (casualty_kia) (42,78)
+    person:Captain L Robertson (casualty_wounded) (48,80)
+  3 Nov 1914 81
+    time:1130AM (52,84)
+    activity:fire (42,85)
+    activity:fire (39,86)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 20 (57,88)
+    casualties:died: 0; killed: 4; missing: 0; prisoner: 0; sick: 0; wounded: 20 (48,88)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD0000zat  ----------
+  4 Nov 1914 21
+    activity:quiet (43,27)
+    time:0200AM (46,30)
+  5 Nov 1914 33
+    activity:fire (39,40)
+    casualties:died: 0; killed: 10; missing: 0; prisoner: 0; sick: 0; wounded: 10 (38,43)
+    activity:fire (39,49)
+    activity:quiet (42,52)
+    place:Ypres (57,54)
+    place:Veldhoek (38,58)
+    place:Gheluvelt (49,58)
+  6 Nov 1914 59
+    time:0200AM (43,64)
+    weather:fog (58,66)
+    person:Second Lieutenant A Dunsterville (joined) (41,67)
+    time:1015AM (61,70)
+    activity:fire (43,73)
+  7 Nov 1914 78
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (56,80)
+    activity:fire (43,81)
+  8 Nov 1914 86
+    activity:enemy_activity (44,91)
+Page 37 (type diary) http://wd3.herokuapp.com/pages/AWD0000za2  ----------
+  Hashtags: #artillery 
+  8 Nov 1914 12
+    unit:Scots Guards (47,19)
+    unit:French Louaves (57,19)
+    unit:Loyal North Lancashire Regiment (50,22)
+    unit:Loyal north lancs (53,23)
+    activity:enemy_activity (37,26)
+    unit:Loyal north lancs (51,29)
+    unit:Black Watch (60,32)
+    unit:French Louaves (44,32)
+    unit:Artillery (51,35)
+  9 Nov 1914 39
+    weather:overcast (41,45)
+    activity:fire (55,45)
+  10 Nov 1914 52
+    activity:enemy_activity (55,57)
+    weather:overcast (40,58)
+  11 Nov 1914 62
+    weather:fine (42,67)
+    activity:fire (59,67)
+    activity:fire (48,68)
+    time:0600AM (42,70)
+    time:0900AM (58,70)
+    unit:Camerons (47,76)
+    unit:Black Watch (50,76)
+    activity:withdraw (38,78)
+    unit:Northampton Regiment (53,84)
+    unit:Oxfordshire and Buckinghamshire Regiment (63,84)
+    person:Captain Brodie (casualty_kia) (44,87)
+    casualties:died: 0; killed: 1; missing: 3; prisoner: 0; sick: 0; wounded: 0 (49,87)
+    casualties:died: 0; killed: 0; missing: 3; prisoner: 0; sick: 0; wounded: 0 (44,93)
+Page 38 (type diary) http://wd3.herokuapp.com/pages/AWD0000zaj  ----------
+  12 Nov 1914 15
+    activity:other (37,22)
+    activity:attack (50,24)
+    unit:Grenadiers (39,31)
+    unit:Irish Guards (47,31)
+    person:Lieutenant Colonel McEwan (commander) (55,37)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (47,38)
+    person:Regimental Sergeant Major Axten (commander) (64,43)
+    activity:reserve (48,44)
+    unit:Camerons (48,45)
+    person:Major Craig Brown (commander) (42,48)
+    unit:Black Watch (50,51)
+    unit:Northamptons (56,51)
+  13 Nov 1914 57
+    weather:rain (48,62)
+    person:Second Lieutenant Dunsterville (other) (36,67)
+  14 Nov 1914 72
+    unit:Northamptons (54,75)
+    unit:Northamptonshire Regiment (54,75)
+    weather:rain (49,76)
+    activity:quiet (41,76)
+    person:Captain T Williams (52,81)
+  15 Nov 1914 82
+    time:0100PM (62,82)
+    place:Havre (39,82)
+    place:Houge (44,84)
+  16 Nov 1914 85
+    place:Westoutre (54,86)
+    activity:movement (39,88)
+    domestic:accomodation (38,90)
+    place:Vlamertinge (51,90)
+Page 39 (type diary) http://wd3.herokuapp.com/pages/AWD0000zay  ----------
+  17 Nov 1914 16
+    activity:movement (41,20)
+    place:Borre (44,20)
+    domestic:accomodation (55,20)
+  18 Nov 1914 21
+    weather:cold (47,24)
+    person:Second Lieutenant Ferguson (joined) (51,35)
+    person:Captain J W Sanchlands (joined) (39,36)
+  19 Nov 1914 37
+    weather:cold (42,42)
+  20 Nov 1914 44
+    person:General Landon (commander) (40,48)
+  21 Nov 1914 49
+    activity:resupplying (40,53)
+  22 Nov 1914 56
+    person:Captain Lord J Murray (joined) (54,60)
+    place:Havre (51,63)
+    person:Second Lieutenant J Burn (joined) (38,63)
+  23 Nov 1914 65
+    domestic:inspections (54,68)
+    person:General David Henderson (commander) (40,68)
+  24 Nov 1914 75
+    person:Lieutenant Colonel Lowther (commander) (39,75)
+    activity:resupplying (39,79)
+  25 Nov 1914 80
+    activity:resupplying (38,82)
+    person:Brigadier General Lowther (commander) (44,82)
+Page 40 (type diary) http://wd3.herokuapp.com/pages/AWD0000zb5  ----------
+  26 Nov 1914 16
+  27 Nov 1914 21
+  28 Nov 1914 27
+    person:Field Marshal French (other) (42,31)
+  29 Nov 1914 36
+  30 Nov 1914 42
+Page 41 (type cover)
+Page 42 (type diary) http://wd3.herokuapp.com/pages/AWD0000zac  ----------
+  19 Dec 1914 27
+    place:Borre (62,27)
+    activity:resting (45,28)
+  20 Dec 1914 29
+    time:0330PM (47,32)
+    time:0430PM (59,40)
+    time:0445PM (54,42)
+    activity:movement (46,42)
+    place:Merville (53,44)
+    place:Strazelles (59,44)
+    domestic:accomodation (48,49)
+    place:Bethune (63,54)
+    activity:movement (51,54)
+    time:0130AM (61,57)
+    domestic:accomodation (60,59)
+  21 Dec 1914 64
+    time:0700AM (49,68)
+    time:1130AM (49,73)
+    activity:movement (46,74)
+    place:Beuvry (54,75)
+    place:Givanchy (51,78)
+    place:Pont Fixe (46,80)
+    time:0240PM (57,81)
+    activity:attack (46,85)
+    time:0300PM (53,88)
+    activity:attack (54,89)
+    activity:achieved (53,94)
+Page 43 (type diary) http://wd3.herokuapp.com/pages/AWD0000zb9  ----------
+  Hashtags: #attack 
+  21 Dec 1914 5
+    unit:French Infantry (45,11)
+    unit:Munsters (46,22)
+    activity:line (47,25)
+    place:Pont Fixe (52,32)
+    person:Colonel Craig Brown (casualty_wounded) (54,40)
+    time:0330PM (50,40)
+    person:Major Craig Brown (commander) (60,43)
+    time:0900PM (54,45)
+    activity:withdraw (49,46)
+    activity:reserve (55,51)
+    unit:London Scottish (61,61)
+  22 Dec 1914 64
+    time:0100AM (55,66)
+    time:0700AM (48,67)
+    activity:attack (53,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,77)
+  21 Dec 1914 5
+  22 Dec 1914 64
+    activity:attack (50,83)
+    time:0700PM (64,87)
+    unit:Royal Berks (43,87)
+    unit:Royal Berkshires (44,87)
+    domestic:accomodation (54,90)
+    place:Pont Fixe (57,92)
+    casualties:died: 0; killed: 6; missing: 135; prisoner: 0; sick: 0; wounded: 70 (42,95)
+Page 44 (type diary) http://wd3.herokuapp.com/pages/AWD0000zb2  ----------
+  22 Dec 1914 6
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (43,10)
+  24 Dec 1914 16
+    activity:resting (43,16)
+    person:Second Lieutenant Pringle (joined) (58,19)
+  25 Dec 1914 20
+    unit:Black Watch (53,23)
+    place:Givanchy (57,25)
+    unit:Gloucesters (42,30)
+  26 Dec 1914 31
+    time:0230AM (54,35)
+  27 Dec 1914 41
+    activity:repair (45,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (53,51)
+    activity:repair (49,56)
+  28 Dec 1914 57
+    unit:Black Watch (59,61)
+    place:Bethune (43,65)
+  30 Dec 1914 70
+    place:Bethune (47,71)
+    place:Bethune (54,71)
+  31 Dec 1914 74
+    place:Bethune (52,75)
+Page 45 (type report) http://wd3.herokuapp.com/pages/AWD0000zb8  ----------
+  31 Dec 1914 0
+    person:Lieutenant Colonel D L MacEwen (casualty_wounded) (42,14)
+    person:Major E Craig-Brown (other) (41,17)
+    person:Captain Lord J T Stewart-Murray (casualty_mia) (40,19)
+    person:Captain T W Erskine Bt (other) (41,22)
+    person:Lieutenant P E Everard (casualty_mia) (40,24)
+    person:Second Lieutenant J R P Burn (casualty_wounded) (40,27)
+    person:Second Lieutenant A Hunter-Blair (other) (42,29)
+    person:Second Lieutenant D H L Ferguson (casualty_wounded) (40,32)
+    person:Second Lieutenant R K McDermott (other) (40,35)
+    person:Second Lieutenant A Crum Ewing (casualty_wounded) (41,37)
+    person:Lieutenant J G B P Graham (casualty_mia) (40,39)
+    person:Second Lieutenant J C Matheson (other) (40,42)
+    person:Second Lieutenant A G Dunsterville (casualty_wounded) (40,44)
+    person:Second Lieutenant J A Stainton (casualty_wounded) (40,47)
+    person:Second Lieutenant J Pringle (other) (40,50)

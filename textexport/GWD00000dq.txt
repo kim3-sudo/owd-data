@@ -1,0 +1,2792 @@
+GWD00000dq wo/95/1325/2
+2 DIVISION:  Divisional Troops: 36 Brigade Royal Field Artillery.  
+126 pages
+
+Page 180 (type cover)
+Page 181 (type cover)
+Page 182 (type diary) http://wd3.herokuapp.com/pages/AWD00022ro  ----------
+  1 Jan 1915 19
+    activity:attack (45,23)
+    place:La Couture (12,24)
+    activity:attack (40,31)
+    unit:Worcesters (48,31)
+  2 Jan 1915 36
+    place:Bois du Biez (34,36)
+    place:La Couture (12,39)
+    person:Lieutenant Walrond (departed_posted) (27,41)
+    activity:attack (47,42)
+    gridRef:J_23_A__ (65,42)
+    activity:attack (54,46)
+    unit:Worcesters (45,48)
+    time:0300AM (70,50)
+    unit:Worcester (40,54)
+    time:0600AM (30,54)
+  3 Jan 1915 55
+    place:La Couture (12,58)
+    gridRef:Q_6_D__ (69,59)
+    activity:attack (31,60)
+    unit:Highland Light Infantry (65,64)
+    activity:attack (32,65)
+  4 Jan 1915 66
+    place:La Couture (12,67)
+    place:La Couture (16,69)
+    unit:5 Brigade (59,72)
+    activity:attack (39,78)
+  5 Jan 1915 82
+    activity:attack (27,85)
+    place:La Couture (12,86)
+Page 183 (type diary) http://wd3.herokuapp.com/pages/AWD00022q2  ----------
+  5 Jan 1915 0
+  6 Jan 1915 19
+    mapRef:Reference map combined (79,20)
+    mapRef:36a S.E. (94,22)
+    place:La Couture (12,23)
+    activity:attack (34,23)
+    activity:attack (43,24)
+    activity:attack (35,33)
+  7 Jan 1915 35
+    place:La Couture (12,38)
+    activity:attack (34,40)
+    unit:Worcesters (65,41)
+    time:0600PM (51,45)
+    time:1200AM (58,45)
+    activity:attack (34,46)
+    gridRef:S_6_C_8_4 (41,47)
+    activity:attack (48,54)
+    gridRef:S_5_D_4_5 (34,56)
+    place:Rue du Bois (62,57)
+  8 Jan 1915 62
+    unit:Worcester (31,62)
+    place:La Couture (13,65)
+    activity:attack (36,67)
+    time:0345PM (65,68)
+    activity:attack (55,71)
+    activity:attack (63,72)
+    unit:5 Infantry Brigade (95,72)
+    activity:attack (55,73)
+    time:0400PM (64,73)
+    activity:attack (36,75)
+  9 Jan 1915 79
+    time:0345PM (39,80)
+    place:La Couture (14,82)
+    time:0123PM (69,82)
+    activity:attack (47,83)
+    activity:attack (60,84)
+    time:0800PM (72,84)
+    time:0500PM (66,85)
+    activity:attack (27,86)
+Page 184 (type diary) http://wd3.herokuapp.com/pages/AWD00022qd  ----------
+  Hashtags: #shelling #bombardments #Enemy #Cooperation #chased #attack 
+  10 Jan 1915 22
+    activity:attack (46,25)
+    place:La Couture (16,26)
+    gridRef:S_17_B_2_8 (67,27)
+    activity:enemy_activity (48,27)
+    unit:8 Division (37,31)
+    unit:1 Division (66,32)
+  8 Jan 1915 36
+  11 Jan 1915 41
+    time:1030AM (64,42)
+    time:0930AM (58,43)
+    place:La Couture (16,45)
+    activity:attack (36,49)
+    time:0500PM (22,50)
+    activity:attack (37,53)
+  12 Jan 1915 56
+    time:0315PM (44,60)
+    activity:attack (36,60)
+    place:La Couture (16,60)
+    unit:4 Guards Brigade (35,65)
+    unit:4 Guards Brigade (49,65)
+    person:Second Lieutenant A C M Walsh (departed_posted) (43,68)
+  13 Jan 1915 69
+    person:Peinchbald (32,69)
+    person:Second Lieutenant A C M Acmwalsh (departed_posted) (43,69)
+    person:Lieutenant P E Inchbald (departed_posted) (26,69)
+    time:0330PM (50,72)
+    time:0400PM (56,72)
+    place:La Couture (16,72)
+    activity:attack (36,73)
+  14 Jan 1915 74
+    activity:attack (28,74)
+    unit:8 Siege Battery (46,78)
+    place:La Couture (15,78)
+    unit:8 Siege Battery (51,81)
+    activity:attack (29,81)
+    activity:enemy_activity (42,85)
+    activity:attack (29,87)
+Page 185 (type diary) http://wd3.herokuapp.com/pages/AWD00022rl  ----------
+  Hashtags: #flashes #workingparty #infantry #request 
+  15 Jan 1915 19
+    activity:attack (34,22)
+    place:La Couture (15,23)
+    person:Second Lieutenant C T Whitehouse (casualty_died) (81,24)
+    unit:8 Siege Battery (53,24)
+    casualties:died: 1; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (71,27)
+    person:Second Lieutenant C T Whitehouse (casualty_wounded) (62,28)
+    person:Second Lieutenant Acmwalsh (departed_posted) (50,31)
+    person:Second Lieutenant A C M Walsh (departed_posted) (52,31)
+    unit:No 1 Field Hospital (80,31)
+    place:Bethune (80,33)
+    person:Second Lieutenant K Thorburn (departed_posted) (44,34)
+    person:Second Lieutenant J C Chilton (31,35)
+    person:Lieutenant T R Fletcher (departed_posted) (31,38)
+    unit:34 Brigade B.A.C (30,41)
+  16 Jan 1915 43
+    person:Second Lieutenant A Lutyens (joined) (47,43)
+    unit:36 Brigade B.A.C (31,44)
+    place:La Couture (14,47)
+    activity:attack (34,47)
+    person:Second Lieutenant J S C Peile (departed_posted) (33,57)
+    person:Second Lieutenant G Barkham (departed_posted) (31,60)
+    person:Second Lieutenant K Thorburn (departed_posted) (32,66)
+    person:Second Lieutenant F Thomas (departed_posted) (31,68)
+  17 Jan 1915 69
+    place:La Couture (15,73)
+    activity:attack (35,73)
+  18 Jan 1915 79
+    place:La Couture (15,83)
+    person:Second Lieutenant J S C Peile (departed_posted) (32,84)
+    gridRef:S_23_D__ (67,84)
+    place:Rue du Bois (42,86)
+    activity:attack (35,86)
+    time:0130PM (52,86)
+    activity:attack (56,88)
+    time:0200PM (55,89)
+    time:0245PM (45,91)
+Page 186 (type diary) http://wd3.herokuapp.com/pages/AWD00022qa  ----------
+  Hashtags: #alliedrelations #demolition #aeroplane #gendarmes 
+  19 Jan 1915 18
+    place:La Couture (14,22)
+    activity:attack (63,23)
+    place:Rue du Bois (32,24)
+    activity:attack (60,28)
+  20 Jan 1915 33
+    place:La Couture (15,36)
+    place:Rue du Bois (58,38)
+    activity:fire (33,39)
+    gridRef:S_11_A_5_8 (52,40)
+    activity:attack (34,40)
+    activity:attack (42,44)
+  21 Jan 1915 58
+    person:Captain Hulton (departed_leave) (83,62)
+    weather:rain (44,62)
+    activity:attack (57,62)
+    weather:rain (32,63)
+    place:La Couture (16,65)
+    activity:fire (58,67)
+    place:Rue du Bois (35,72)
+  22 Jan 1915 79
+    place:La Couture (15,83)
+    activity:attack (32,86)
+    weather:fine (37,88)
+Page 187 (type diary) http://wd3.herokuapp.com/pages/AWD00022td  ----------
+  Hashtags: #aeroplane #attack #pump #Relief 
+  22 Jan 1915 0
+  23 Jan 1915 18
+    unit:Meerut Division (69,22)
+    place:La Couture (18,23)
+    weather:fine (29,23)
+    unit:Lahore Division (47,24)
+    activity:attack (38,33)
+  24 Jan 1915 34
+    place:La Couture (18,37)
+    weather:fine (28,37)
+    activity:attack (31,40)
+  25 Jan 1915 42
+    activity:enemy_activity (47,45)
+    weather:fine (30,46)
+    place:La Couture (17,47)
+    activity:fire (38,49)
+    place:Givenchy (62,52)
+    place:Locon (49,60)
+    activity:attack (55,70)
+    activity:attack (60,72)
+    place:Cuinchy (42,72)
+  26 Jan 1915 83
+    unit:2 siege Battery (32,83)
+    person:Lieutenant P Wright (joined) (79,87)
+    activity:attack (52,87)
+    place:La Couture (18,87)
+    weather:overcast (31,87)
+    unit:8 Division (49,92)
+    place:Neuve Chapelle (64,92)
+Page 188 (type diary) http://wd3.herokuapp.com/pages/AWD00022re  ----------
+  Hashtags: #pump #Kaiser #shell 
+  26 Jan 1915 0
+  27 Jan 1915 19
+    place:La Couture (19,21)
+    weather:cold (34,22)
+    weather:fine (28,23)
+    time:0230PM (75,24)
+    gridRef:S_10_D_2_2 (61,24)
+    place:La Couture (19,24)
+    unit:48 Battery (26,25)
+    activity:attack (42,27)
+    unit:15 Battery (26,28)
+    gridRef:S_10_D_2_8 (34,29)
+    activity:attack (47,29)
+    time:0230PM (59,32)
+    activity:attack (37,39)
+  28 Jan 1915 42
+    unit:71 Battery (27,45)
+    unit:15 Battery (42,45)
+    activity:reserve (59,45)
+    time:0100PM (72,46)
+    person:Captain Hulton (returned_leave) (83,46)
+    place:La Couture (18,47)
+    unit:48 Battery (26,50)
+  29 Jan 1915 55
+    activity:attack (35,55)
+    unit:6 Field Ambulance (65,59)
+    person:Captain P Sampson (departed_posted) (28,59)
+    place:La Couture (18,59)
+    unit:36 Brigade (43,62)
+    unit:6 Field Ambulance (56,62)
+    person:Captain L V Thurston (joined) (29,63)
+    unit:48 Battery (29,66)
+    activity:attack (59,66)
+    place:Rue du Bois (52,67)
+    activity:fire (36,68)
+    unit:71 Battery (29,73)
+  30 Jan 1915 74
+    unit:48 Battery (27,77)
+    time:1000AM (36,78)
+    activity:attack (40,78)
+    place:La Couture (18,78)
+    activity:attack (27,80)
+    unit:71 Battery (28,83)
+    activity:enemy_activity (43,88)
+    unit:8 Division (50,94)
+    activity:attack (55,95)
+Page 189 (type diary) http://wd3.herokuapp.com/pages/AWD00022s0  ----------
+  Hashtags: #Telephone #Howitzer #Factory 
+  30 Jan 1915 0
+  31 Jan 1915 18
+    person:Captain L G Buxton (promotion) (79,21)
+    place:Port Arthur (53,21)
+    activity:fire (38,22)
+    place:Lacouture (17,22)
+    time:0930AM (38,24)
+    time:0830AM (27,25)
+    activity:attack (57,25)
+    person:Captain G D Grant-Suttie (departed_posted) (81,32)
+    unit:Rue de bois (53,38)
+    place:Rue du Bois (51,38)
+    time:0930AM (29,43)
+    time:1030AM (41,43)
+    time:0330PM (33,54)
+    activity:attack (30,59)
+    activity:attack (40,65)
+Page 190 (type cover)
+Page 191 (type diary) http://wd3.herokuapp.com/pages/AWD00022pv  ----------
+  1 Feb 1915 25
+    time:1230PM (56,27)
+    place:Lacouture (20,28)
+    activity:attack (56,32)
+    time:0330PM (50,35)
+  2 Feb 1915 40
+    activity:attack (52,44)
+    time:1030AM (30,46)
+    activity:attack (57,46)
+  3 Feb 1915 52
+    unit:4 Brigade Royal Field Artillery. (34,55)
+    unit:4 Brigade Royal Field Artillery (51,55)
+    activity:movement (63,55)
+    unit:4 Brigade (53,56)
+    person:Mr Bernenchon (other) (79,59)
+    domestic:accomodation (59,61)
+  4 Feb 1915 65
+    time:0930AM (56,68)
+    activity:movement (38,68)
+    activity:reconnoitered (68,68)
+    place:Hinges (18,68)
+    place:Loisne (60,68)
+  5 Feb 1915 72
+    time:0230PM (45,75)
+    activity:movement (30,75)
+    place:Hinges (19,76)
+    unit:39 Brigade (29,78)
+Page 192 (type other) http://wd3.herokuapp.com/pages/AWD00022sk  ----------
+  Hashtags: #map 
+  5 Feb 1915 0
+    unit:71 Battery (77,61)
+    unit:48 Battery (75,72)
+    unit:36 Battery (40,77)
+    unit:15 Battery (67,82)
+Page 193 (type diary) http://wd3.herokuapp.com/pages/AWD00022qh  ----------
+  Hashtags: #sniper #Accurate 
+  6 Feb 1915 25
+    place:Loisne (18,27)
+    activity:attack (50,29)
+    time:0200PM (34,29)
+    time:0215PM (38,29)
+    unit:5 Brigade (35,31)
+    time:0130PM (33,34)
+    unit:41 Battery (69,34)
+    activity:fire (40,35)
+    unit:Guards Brigade (39,38)
+  7 Feb 1915 39
+    place:La Bassee (56,39)
+    place:Loisne (18,43)
+    activity:fire (38,43)
+    time:1100AM (49,43)
+    place:Marais (40,46)
+    activity:attack (31,67)
+    time:0230PM (56,68)
+    time:0330PM (66,68)
+    activity:fire (62,71)
+    time:0415PM (35,72)
+  8 Feb 1915 74
+    place:Givenchy (30,75)
+    place:Loisne (18,78)
+    activity:movement (41,78)
+    time:0500PM (34,78)
+    place:Bethune (68,80)
+    person:Lieutenant Colonel E F Hall (casualty_wounded) (39,80)
+    person:Lieutenant Colonel E F Hall (casualty_wounded) (52,80)
+    gridRef:X_22_D_5_5 (27,80)
+  9 Feb 1915 82
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (55,82)
+    place:Bethune (56,83)
+    person:Second Lieutenant J S C Peile (casualty_wounded) (31,83)
+    place:Loisne (18,85)
+    place:Quinque Rue (41,85)
+    unit:71 battalion (28,85)
+    activity:attack (32,86)
+    activity:enemy_activity (63,86)
+    unit:5 Infantry Brigade (48,87)
+    person:Second Lieutenant G C Tylor (joined) (80,89)
+    person:Second Lieutenant A Mayer (joined) (83,91)
+    person:Second Lieutenant R Mayer (joined) (76,91)
+    person:Second Lieutenant G G McEwan (joined) (77,93)
+    person:Lieutenant R W L Todd (joined) (35,96)
+    person:Captain L V Thurston (departed_posted) (50,97)
+    person:Captain L V Thurston (departed_posted) (71,97)
+Page 194 (type diary) http://wd3.herokuapp.com/pages/AWD00022q5  ----------
+  Hashtags: #sniper #night #Sleeping #lines 
+  10 Feb 1915 23
+    place:Loisne (20,27)
+    activity:attack (33,36)
+    unit:Worcesters (61,37)
+  11 Feb 1915 39
+    gridRef:S_26_B_8_7 (29,39)
+    place:Loisne (19,42)
+    person:Second Lieutenant F L Wallis (joined) (77,44)
+    gridRef:S_26_B_8_7 (28,45)
+    place:Quinque Rue (48,47)
+  12 Feb 1915 50
+    place:Loisne (20,53)
+    activity:attack (37,53)
+    person:Second Lieutenant N H Wiggin (joined) (82,56)
+    unit:Inniskilling Fusiliers (45,56)
+    activity:attack (51,56)
+    person:Second Lieutenant N H Wiggin (76,67)
+    time:0930PM (57,70)
+  13 Feb 1915 71
+    place:Loisne (20,74)
+    activity:attack (47,74)
+    person:Second Lieutenant A N Dickson (74,75)
+    activity:attack (33,75)
+    person:Second Lieutenant Dickson (joined) (79,76)
+    person:Second Lieutenant A N Dickson (joined) (82,78)
+  14 Feb 1915 85
+    place:Lorgies (39,85)
+    place:Loisne (21,88)
+Page 195 (type diary) http://wd3.herokuapp.com/pages/AWD00022r9  ----------
+  Hashtags: #Telephone #sniper #Observation 
+  14 Feb 1915 26
+    place:Loisne (19,27)
+    activity:enemy_activity (39,27)
+    place:Festubert (68,29)
+    gridRef:S_23_C_1_5 (68,32)
+    activity:fire (36,34)
+    place:Festubert (63,35)
+    time:0315PM (31,36)
+    activity:attack (38,39)
+  15 Feb 1915 45
+    place:Loisne (20,46)
+    gridRef:S_23_C_1_5 (63,55)
+  16 Feb 1915 56
+    place:Loisne (21,59)
+    activity:quiet (35,59)
+    activity:attack (60,64)
+    unit:2 hli (40,67)
+    gridRef:S_16_C_5_10 (37,76)
+    gridRef:S_29_A_5_0 (53,87)
+Page 196 (type diary) http://wd3.herokuapp.com/pages/AWD00022se  ----------
+  Hashtags: #sniper #instruction #Emplacements #mountain 
+  17 Feb 1915 25
+    place:Loisne (22,27)
+    person:Lieutenant Colonel E F Hall (departed_leave) (76,28)
+    person:Lieutenant Colonel E Hall (departed_leave) (79,30)
+    activity:attack (36,32)
+    activity:attack (36,38)
+  18 Feb 1915 42
+    place:Loisne (22,43)
+    activity:quiet (44,45)
+    place:Boulogne (86,46)
+    unit:Hri (60,50)
+    unit:Hli (62,50)
+    activity:attack (39,50)
+    time:0100AM (47,51)
+    gridRef:S_26_B_5_4 (66,54)
+    unit:Hri (48,54)
+  19 Feb 1915 57
+    place:Loisne (21,59)
+    activity:attack (42,61)
+    activity:fire (45,65)
+    time:0530PM (42,67)
+    activity:attack (57,70)
+    gridRef:S_26_B_5_4 (46,77)
+    activity:enemy_activity (48,84)
+Page 197 (type diary) http://wd3.herokuapp.com/pages/AWD00022px  ----------
+  Hashtags: #workingparty 
+  19 Feb 1915 0
+  20 Feb 1915 26
+    place:Loisne (22,27)
+    activity:attack (36,28)
+    activity:attack (38,30)
+    place:Willow Corner (44,30)
+    gridRef:A_2_A_9_8 (53,30)
+    activity:attack (57,39)
+    time:0130PM (43,40)
+  21 Feb 1915 45
+    activity:attack (41,48)
+    activity:attack (48,48)
+    place:Loisne (21,48)
+    activity:attack (37,58)
+    time:1245PM (68,59)
+    place:Violaines (34,65)
+  22 Feb 1915 68
+    place:Loisne (22,70)
+    activity:attack (38,72)
+    place:Bethune (78,73)
+    time:0529PM (85,73)
+    person:Second Lieutenant G C Tylor (departed_posted) (78,75)
+    time:1000AM (53,78)
+    person:Second Lieutenant R Mayer (departed_posted) (78,78)
+    unit:Hli (66,79)
+    activity:attack (35,80)
+    gridRef:S_26_B_5_4 (68,80)
+    person:Second Lieutenant G McEwan (departed_leave) (81,82)
+    person:Second Lieutenant G G McEwan (departed_posted) (77,82)
+Page 198 (type diary) http://wd3.herokuapp.com/pages/AWD00022s7  ----------
+  Hashtags: #workingparty 
+  23 Feb 1915 24
+    place:Loisne (22,27)
+    activity:attack (41,28)
+    activity:quiet (36,31)
+    gridRef:S_21_C_2_9 (69,33)
+  24 Feb 1915 39
+    place:Loisne (23,42)
+    time:1200PM (59,44)
+    person:Captain R Powell (departed_leave) (84,45)
+    person:Captain R H Powell (departed_leave) (77,45)
+    activity:attack (37,45)
+    activity:attack (41,45)
+    person:Major L L Godman (departed_leave) (77,48)
+    activity:quiet (31,48)
+    person:Major Godman (departed_leave) (79,49)
+    time:1000PM (53,50)
+    activity:attack (38,51)
+    person:Lieutenant D Hannay (departed_leave) (79,52)
+    time:1200PM (60,52)
+    person:Second Lieutenant I M Hoult (departed_leave) (80,54)
+    activity:fire (59,58)
+    time:0230PM (55,62)
+    person:Second Lieutenant Peile (returned_hospital) (87,64)
+    person:Second Lieutenant J S C Peile (returned_hospital) (78,64)
+  25 Feb 1915 69
+    place:Loisne (22,70)
+    activity:attack (35,71)
+    activity:attack (36,76)
+  26 Feb 1915 80
+    person:Second Lieutenant K Thorburn (departed_leave) (82,81)
+    place:Loisne (23,82)
+    activity:attack (33,82)
+    activity:attack (43,82)
+    person:Captain Grant Suttie (departed_posted) (82,87)
+    activity:attack (37,87)
+    activity:attack (36,90)
+Page 199 (type diary) http://wd3.herokuapp.com/pages/AWD00022qo  ----------
+  Hashtags: #Inaccurate 
+  27 Feb 1915 24
+    time:1200AM (59,26)
+    place:Loisne (21,27)
+    activity:attack (35,27)
+    activity:fire (49,28)
+  26 Feb 1915 35
+    place:Festubert (70,35)
+    time:0700PM (39,37)
+    time:0930AM (66,41)
+    activity:fire (39,41)
+    place:Quinque Rue (34,43)
+    time:0400PM (41,45)
+    unit:South Wales Borderers (58,50)
+    time:0930PM (32,51)
+    activity:fire (36,54)
+  28 Feb 1915 58
+    person:Lieutenant R W L Todd (departed_leave) (79,61)
+    place:Loisne (20,61)
+    activity:attack (35,61)
+    gridRef:A_3_A_2_9 (32,64)
+Page 200 (type cover)
+Page 201 (type diary) http://wd3.herokuapp.com/pages/AWD00022rh  ----------
+  Hashtags: #sniper 
+  1 Mar 1915 22
+    place:Loisne (18,25)
+    activity:quiet (32,25)
+    activity:attack (55,25)
+  2 Mar 1915 30
+    place:Loisne (20,34)
+    unit:39 Brigade (39,34)
+    unit:39 Brigade Royal Field Artillery (44,34)
+    time:0600AM (15,34)
+    place:Loisne (20,37)
+    time:0645AM (15,38)
+    activity:movement (55,40)
+    place:Labeuvriere (58,42)
+    place:Fontenelle Farm (33,45)
+    domestic:accomodation (46,46)
+    gridRef:D_11_D_3_5 (47,49)
+    gridRef:E_7_A_5_1 (42,51)
+    unit:48 Battery (31,52)
+    gridRef:D_17_B_4_5 (41,53)
+    unit:15 Battery (31,55)
+    gridRef:E_7_A_0_3 (42,55)
+    unit:71 Battery (33,57)
+    time:1030AM (68,57)
+    activity:movement (41,58)
+    person:Captain R Marriner (joined) (80,60)
+    place:Fouquereuil (46,61)
+    unit:34 Brigade (33,66)
+    time:1230PM (50,66)
+    place:Fouquereuil (50,73)
+  3 Mar 1915 75
+    person:Lieutenant D Hannay (returned_leave) (81,77)
+    gridRef:F_10_B_3_5 (57,77)
+    gridRef:F_17_B_8_5 (29,80)
+    gridRef:F_12_D_1_9 (35,80)
+    place:Labeuvriere (17,82)
+    person:Lieutenant B B Quiller Couch (departed_leave) (81,82)
+    place:Givenchy (33,88)
+    unit:41 Brigade (69,88)
+Page 202 (type diary) http://wd3.herokuapp.com/pages/AWD00022r2  ----------
+  Hashtags: #tactical #control 
+  3 Mar 1915 0
+  4 Mar 1915 21
+    person:Second Lieutenant K Thorburn (returned_leave) (82,23)
+    activity:working (40,23)
+    place:Labeuvriere (17,24)
+    activity:working (48,24)
+    person:Second Lieutenant F Thomas (departed_leave) (81,28)
+  5 Mar 1915 34
+    place:Labeuvriere (18,37)
+    activity:working (32,37)
+    activity:movement (59,37)
+    person:Captain Cameron (returned_leave) (81,38)
+    time:0230PM (60,39)
+    gridRef:A_19_A_1_2 (37,40)
+    place:Labeuvriere (51,40)
+    gridRef:F_13_D_4_8 (67,42)
+    gridRef:F_13_D_4_4 (33,45)
+    gridRef:F_13_A_3_1 (45,45)
+    gridRef:X_27_D_3_1 (68,45)
+  6 Mar 1915 47
+    place:Labeuvriere (18,50)
+    activity:movement (46,50)
+    gridRef:F_13_D_8_8 (57,55)
+    gridRef:F_10_B_3_4 (41,56)
+    gridRef:F_18_A_2_5 (41,58)
+    gridRef:F_17_B_1_9 (49,58)
+    gridRef:F_13_D_4_8 (64,58)
+    unit:48 Battery (28,59)
+    gridRef:X_27_D_3_1 (61,60)
+    gridRef:F_12_B_2_8 (39,61)
+    gridRef:F_12_B_7_8 (48,61)
+    unit:71 Battery (27,61)
+    gridRef:F_13_A_3_1 (41,63)
+    gridRef:E_14_C_7_4 (59,63)
+    unit:36 Battery (28,64)
+    time:0700PM (58,66)
+  7 Mar 1915 67
+    place:Gorre (18,71)
+    activity:attack (35,71)
+    unit:41 Brigade (62,74)
+    place:Givenchy (34,74)
+  8 Mar 1915 75
+    place:Gorre (18,78)
+    activity:quiet (29,79)
+  9 Mar 1915 81
+    person:Lieutenant R W L Todd (returned_leave) (76,83)
+    person:Lieutenant Todd (returned_leave) (81,84)
+    place:Gorre (18,84)
+    activity:quiet (28,84)
+    person:Second Lieutenant F Thomas (returned_leave) (81,86)
+Page 203 (type diary) http://wd3.herokuapp.com/pages/AWD00022qy  ----------
+  Hashtags: #rates #curtain #bombardment #wire 
+  9 Mar 1915 0
+    unit:171 Battery (41,24)
+    activity:attack (51,24)
+  10 Mar 1915 25
+    unit:48 Battery (36,25)
+    time:0730AM (30,25)
+    activity:attack (68,26)
+    place:Gorre (19,26)
+    time:0740AM (67,31)
+    place:Givenchy (35,31)
+    time:0750AM (57,35)
+    activity:attack (42,37)
+    time:0810AM (69,37)
+    time:0805AM (49,39)
+    unit:Krr (69,41)
+    unit:Kings royal rifles (71,42)
+    unit:71 Battery (62,46)
+    unit:48 Battery (28,57)
+    place:Orchard (42,61)
+    unit:71 Battery (66,63)
+    time:0215PM (57,64)
+    activity:attack (40,71)
+    time:0250PM (69,71)
+    activity:attack (59,76)
+    time:0230PM (47,77)
+    time:0215PM (39,78)
+    activity:attack (41,80)
+    activity:attack (50,80)
+    time:0245PM (39,81)
+    time:0230PM (32,82)
+    time:0250PM (39,84)
+    time:0245PM (32,85)
+    activity:attack (46,88)
+    time:0610PM (64,88)
+    time:0540PM (56,89)
+Page 204 (type diary) http://wd3.herokuapp.com/pages/AWD00022qg  ----------
+  Hashtags: #shrapnel 
+  10 Mar 1915 21
+    activity:attack (39,23)
+    place:Orchard (46,27)
+    activity:attack (45,33)
+    place:Givenchy (59,36)
+    time:0600PM (49,41)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,44)
+  11 Mar 1915 53
+    unit:46 infantry Brigade (54,56)
+    place:Gorre (19,57)
+    activity:quiet (34,57)
+    unit:6 Infantry Brigade (32,60)
+    unit:6 Brigade (29,60)
+    unit:60 infantry Brigade (40,61)
+Page 205 (type ) http://wd3.herokuapp.com/pages/AWD00022t5  ----------
+  Hashtags: #map 
+  11 Mar 1915 0
+    mapRef:Givenchy (14,24)
+    mapRef: (20,66)
+Page 206 (type diary) http://wd3.herokuapp.com/pages/AWD00022t1  ----------
+  Hashtags: #wagon #trenchmortar #sniper #tactical #control 
+  12 Mar 1915 18
+    place:Gorre (18,21)
+    activity:quiet (33,22)
+  13 Mar 1915 24
+    place:Gorre (17,27)
+  14 Mar 1915 30
+    activity:attack (45,33)
+    place:Gorre (17,33)
+    person:Captain B Marriner (casualty_wounded) (82,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (83,36)
+  15 Mar 1915 65
+    activity:withdraw (38,47)
+    place:Gorre (18,47)
+    time:0530AM (59,47)
+    person:Lieutenant P Wriot (casualty_wounded) (79,47)
+    place:Fouquereuil (42,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (85,51)
+    gridRef:F_14_A_2_8 (35,53)
+    gridRef:F_13_D_4_8 (45,56)
+  16 Mar 1915 75
+    place:Gorre (19,59)
+    activity:attack (35,60)
+    time:0230PM (42,62)
+  15 Mar 1915 65
+    time:0900PM (39,68)
+  16 Mar 1915 75
+    activity:attack (58,77)
+    place:Gorre (20,77)
+    place:Givenchy (60,77)
+    activity:attack (37,78)
+    unit:1 Division (50,85)
+Page 207 (type diary) http://wd3.herokuapp.com/pages/AWD00022qw  ----------
+  Hashtags: #train #missingpage #Howitzer #Armoured 
+  17 Mar 1915 18
+    place:Gorre (17,20)
+    gridRef:E_3___ (57,20)
+    gridRef:E_4___ (62,20)
+    activity:attack (36,21)
+    person:Lieutenant E P Coquelle (departed_posted) (80,22)
+    place:Givenchy (56,23)
+    activity:fire (35,28)
+  18 Mar 1915 32
+    place:Gorre (18,34)
+    activity:fire (32,35)
+    place:Givenchy (41,35)
+    time:1030AM (52,35)
+  19 Mar 1915 38
+    place:Gorre (19,41)
+    activity:movement (45,44)
+    domestic:accomodation (57,44)
+    time:0200PM (46,46)
+    person:Lieutenant E P Coquelle (returned_posted) (81,47)
+    person:Captain Grant Suttie (other) (36,47)
+    time:0600PM (28,49)
+    gridRef:D_11_D_2_5 (47,52)
+    gridRef:D_17_B_3_5 (41,55)
+    gridRef:E_7_A_2_1 (41,58)
+    gridRef:E_14_A_7_4 (40,60)
+    activity:fire (69,63)
+    gridRef:E_14_B_9_3 (41,63)
+  20 Mar 1915 64
+    gridRef:F_11_C_7_5 (62,64)
+  25 Mar 1915 79
+  26 Mar 1915 66
+    person:Major A S Cotton (departed_leave) (80,68)
+    person:Major A Cotton (departed_leave) (81,68)
+    place:Labeuvriere (13,71)
+    place:Fouquereuil (12,73)
+    person:Lieutenant J R Cleland (departed_leave) (80,73)
+  23 Mar 1915 74
+    person:Second Lieutenant J C Chilton (departed_leave) (79,75)
+  25 Mar 1915 79
+    person:Lieutenant E P Coquelle (departed_posted) (81,79)
+    person:Lieutenant Colonel E F Hall (other) (78,86)
+Page 208 (type diary) http://wd3.herokuapp.com/pages/AWD00022pq  ----------
+  Hashtags: #aeroplane #parties #working 
+  26 Mar 1915 18
+    unit:39 Brigade (60,27)
+    place:Loisne (17,28)
+    activity:movement (26,28)
+    time:0530AM (61,29)
+    time:0730PM (67,33)
+  27 Mar 1915 38
+    place:Festubert (42,39)
+    place:Loisne (18,42)
+    time:1100AM (41,43)
+    time:0800AM (34,44)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (62,53)
+  28 Mar 1915 79
+    activity:attack (38,79)
+    place:Loisne (18,80)
+Page 209 (type diary) http://wd3.herokuapp.com/pages/AWD00022rv  ----------
+  28 Mar 1915 22
+    activity:attack (33,25)
+    place:Loisne (18,25)
+    activity:attack (41,29)
+    time:0300PM (55,30)
+  29 Mar 1915 35
+    activity:fire (34,37)
+    place:Loisne (17,37)
+    person:Major C Scott (departed_leave) (85,38)
+    place:Festubert (61,41)
+    person:Major C W Scott (departed_leave) (80,44)
+    activity:enemy_activity (38,47)
+    place:Le Plantin (43,53)
+  30 Mar 1915 55
+    place:Loisne (17,57)
+    person:Lieutenant Chilton (returned_leave) (80,57)
+  31 Mar 1915 75
+    activity:quiet (32,65)
+    activity:attack (58,66)
+    place:Loisne (16,66)
+    person:Lieutenant Cleland (returned_leave) (80,66)
+    person:Colonel E Hall (returned_posted) (56,70)
+    person:Colonel E F Hall (returned_posted) (58,70)
+    place:Bethune (32,73)
+    person:Lieutenant Kellagher (departed_leave) (81,73)
+Page 210 (type cover)
+Page 211 (type diary) http://wd3.herokuapp.com/pages/AWD00022sg  ----------
+  Hashtags: #working #party 
+  1 Apr 1915 28
+    activity:attack (35,29)
+    place:Loisne (19,29)
+    time:1115PM (29,41)
+    activity:attack (64,42)
+    activity:attack (26,53)
+    time:1100AM (44,60)
+    time:1200PM (54,60)
+    place:Festubert (31,61)
+    place:Loisne (49,64)
+    unit:London Scottish (58,64)
+    activity:fire (34,65)
+    unit:London Scottish (72,67)
+    time:0130PM (59,68)
+    gridRef:S_27_D_4_2 (27,71)
+  2 Apr 1915 74
+    person:Second Lieutenant K Thorburn (departed_sick) (78,75)
+    place:Loisne (18,76)
+    activity:attack (48,77)
+    time:1145PM (27,77)
+    unit:2 London Division (73,84)
+    unit:2 London Divisional Territorials (60,85)
+    activity:attack (62,88)
+    unit:48 Battery (54,88)
+Page 212 (type diary) http://wd3.herokuapp.com/pages/AWD00022rw  ----------
+  Hashtags: #saphead #wire 
+  2 Apr 1915 23
+    gridRef:S_27_A_7_7 (67,30)
+    activity:attack (49,30)
+    place:Quinque Rue (54,37)
+  3 Apr 1915 38
+    activity:attack (36,41)
+    place:Loisne (19,41)
+  2 Apr 1915 23
+    time:1130PM (54,45)
+    activity:attack (44,49)
+    time:0900PM (64,53)
+    activity:fire (57,56)
+    time:0520AM (63,64)
+    unit:17 Battery (53,64)
+    place:Festubert (60,68)
+    time:0200PM (56,72)
+    place:Festubert (59,75)
+    place:Violaines (42,83)
+  4 Apr 1915 84
+    activity:attack (36,87)
+    place:Loisne (19,87)
+Page 213 (type diary) http://wd3.herokuapp.com/pages/AWD00022sv  ----------
+  4 Apr 1915 25
+    unit:45 Battery (47,29)
+    activity:quiet (39,40)
+  5 Apr 1915 41
+    unit:35 Heavy Battery (91,44)
+    gridRef:X_28_B__ (65,44)
+    unit:35 Heavy Battery (52,45)
+    place:Loisne (19,46)
+    gridRef:X_28_B_6_6 (82,47)
+    unit:35 Heavy Battery (54,49)
+    unit:48 Battery (30,52)
+    time:0830PM (55,56)
+    unit:5 Infantry Brigade (33,57)
+    person:Captain I C Pery Knox Gore (joined) (81,58)
+    activity:enemy_activity (60,60)
+    person:Captain Pery-Knox-Gore (joined) (84,61)
+    place:Rue Douvert (30,61)
+    unit:36 Heavy Battery (45,68)
+    unit:48 Battery (59,68)
+    unit:15 Battery (80,68)
+    activity:attack (60,68)
+    unit:1 Section 47 Battery (78,74)
+    unit:36 Brigade (91,74)
+    unit:47 Battery (80,74)
+    unit:47 Battery (58,76)
+  26 Mar 1915 77
+    place:Rue d'ouyert (32,80)
+  6 Apr 1915 86
+    person:Major C W Scott (returned_leave) (78,87)
+    place:Loisne (20,88)
+Page 214 (type diary) http://wd3.herokuapp.com/pages/AWD00022qe  ----------
+  Hashtags: #battery #dugout #parapets #dummy #sniper 
+  6 Apr 1915 23
+    person:Second Lieutenant E G Barkham (departed_leave) (79,29)
+    activity:enemy_activity (48,30)
+    unit:48 Battery (59,33)
+    gridRef:A_2_B__ (33,41)
+    gridRef:X_29_C_4_2 (65,44)
+    unit:15 Battery (38,49)
+    place:Rue D'Ouvert (31,53)
+  7 Apr 1915 72
+    unit:15 Battery (28,75)
+    person:Second Lieutenant S Kellagher (returned_leave) (79,76)
+    activity:attack (34,76)
+    place:Loisne (19,76)
+    person:Captain B L Marriner (returned_posted) (78,83)
+    place:Yellow Road (39,84)
+Page 215 (type diary) http://wd3.herokuapp.com/pages/AWD00022qu  ----------
+  Hashtags: #workingparties #dugout 
+  7 Apr 1915 23
+    activity:attack (39,30)
+    activity:enemy_activity (57,33)
+  8 Apr 1915 48
+    gridRef:S_26_B__ (33,48)
+    gridRef:A_2_B__ (59,52)
+    gridRef:S_26_D__ (66,52)
+    activity:attack (41,53)
+    place:Loisne (18,53)
+  9 Apr 1915 57
+    activity:attack (34,61)
+    place:Loisne (19,61)
+    gridRef:A_2_B__ (50,68)
+    activity:fire (59,68)
+    activity:enemy_activity (60,72)
+    gridRef:S_9_A_5_9 (51,76)
+    unit:6 london Brigade Royal Field Artillery (43,79)
+    unit:5 London Brigade (55,80)
+    unit:5 london Brigade Royal Field Artillery (56,80)
+  10 Apr 1915 84
+    place:Loisne (19,88)
+    activity:attack (40,89)
+Page 216 (type diary) http://wd3.herokuapp.com/pages/AWD00022qk  ----------
+  Hashtags: #infantry #dugout 
+  10 Apr 1915 24
+    unit:Oxfords (41,52)
+    place:La Bassee (35,64)
+  11 Apr 1915 76
+    unit:5 London Brigade (30,80)
+    place:Loisne (19,80)
+    gridRef:X_20_B_5_2 (68,83)
+    gridRef:X_23_D_5_2 (42,84)
+    gridRef:F_4_B_3_5 (55,84)
+    weather:fine (28,88)
+Page 217 (type diary) http://wd3.herokuapp.com/pages/AWD00022rg  ----------
+  Hashtags: #refitted #directhit #infantry #range #breastwork 
+  11 Apr 1915 25
+  12 Apr 1915 34
+    time:0900PM (47,37)
+    place:Loisne (20,38)
+    activity:attack (32,38)
+    time:1230PM (57,41)
+    time:0930PM (39,45)
+    activity:enemy_activity (49,47)
+    time:1130AM (55,72)
+    time:1030AM (68,79)
+    unit:5 London Brigade (31,88)
+Page 218 (type diary) http://wd3.herokuapp.com/pages/AWD00022ql  ----------
+  Hashtags: #observation #infantry #workingparty 
+  12 Apr 1915 24
+    place:Rue Douvert (55,29)
+    activity:fire (32,36)
+    place:Festubert (39,44)
+    gridRef:S_26_D_2_8 (66,44)
+  13 Apr 1915 45
+    place:Loisne (18,49)
+    activity:attack (35,49)
+    place:Welch Tree (29,57)
+    place:Willow Corner (42,57)
+    place:Festubert (63,61)
+    place:Snipers House (52,72)
+    activity:attack (34,73)
+    activity:attack (44,79)
+    unit:14 London Battery (58,87)
+    unit:13 London Battery (53,88)
+Page 219 (type diary) http://wd3.herokuapp.com/pages/AWD00022q7  ----------
+  Hashtags: #equipmentrepairs 
+  13 Apr 1915 24
+    unit:14 London Battery (61,33)
+  14 Apr 1915 44
+    place:Loisne (18,48)
+    activity:attack (37,49)
+    gridRef:A_9_A__ (64,49)
+    person:Second Lieutenant E G Barkham (returned_leave) (78,49)
+    unit:71 Battery (42,50)
+    gridRef:S_21_A__ (65,52)
+    unit:48 Battery (34,57)
+    unit:15 Battery (59,64)
+    activity:enemy_activity (61,68)
+    place:Givenchy (40,73)
+    place:Festubert (47,73)
+    activity:attack (42,78)
+    unit:48 Battery (56,79)
+    place:Willow Corner (49,85)
+    activity:enemy_activity (53,86)
+Page 220 (type diary) http://wd3.herokuapp.com/pages/AWD00022rf  ----------
+  Hashtags: #observation #directhit 
+  14 Apr 1915 23
+    place:Quinque Rue (29,29)
+    gridRef:S_27_A__ (37,29)
+    gridRef:S_26_B_5_7 (36,33)
+    unit:13 London Battery (59,34)
+    unit:14 London Battery (66,34)
+    unit:5 London Brigade (48,38)
+  15 Apr 1915 41
+    weather:fog (32,45)
+    place:Loisne (21,45)
+    activity:enemy_activity (58,49)
+    gridRef:S_20_D_8_8 (34,52)
+    activity:attack (48,53)
+    activity:enemy_activity (56,60)
+    gridRef:S_29_B__ (66,60)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (61,68)
+    unit:14 London Battery (45,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (27,72)
+    place:Danger Corner (56,73)
+    gridRef:S_21_D__ (41,76)
+Page 221 (type diary) http://wd3.herokuapp.com/pages/AWD00022s1  ----------
+  Hashtags: #shrapnel 
+  16 Apr 1915 23
+    activity:attack (34,29)
+    place:Loisne (20,29)
+    place:Quinque Rue (31,32)
+    person:Captain H F Grant Suttie (departed_leave) (77,33)
+    activity:enemy_activity (49,34)
+    activity:enemy_activity (52,39)
+    place:Givenchy (27,44)
+    unit:5 London Brigade (31,48)
+    unit:14 London Battery (32,49)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (50,60)
+    place:La Motte Fe (60,64)
+    gridRef:X_23_B_6_3 (54,68)
+    unit:13 London Battery (65,69)
+  17 Apr 1915 80
+    place:Loisne (21,84)
+    activity:attack (31,85)
+    gridRef:S_26_B__ (60,88)
+Page 222 (type diary) http://wd3.herokuapp.com/pages/AWD00022pw  ----------
+  Hashtags: #workingparty #directhit #retaliation #machinegun #infantry 
+  17 Apr 1915 25
+    gridRef:S_26_B__ (67,29)
+    activity:attack (45,34)
+    place:Festubert (39,45)
+    activity:attack (31,48)
+    place:Festubert (60,53)
+    activity:attack (32,57)
+    gridRef:S_26_B_6_3 (54,57)
+  18 Apr 1915 64
+    place:Loisne (20,68)
+    activity:attack (42,69)
+    person:Second Lieutenant K Thorburn (returned_leave) (79,70)
+    place:Snipers House (39,76)
+    activity:attack (69,83)
+    gridRef:S_26_B_7_4 (36,84)
+    place:Snipers House (29,84)
+    time:1015PM (50,87)
+    time:1130PM (59,87)
+Page 223 (type diary) http://wd3.herokuapp.com/pages/AWD00022t2  ----------
+  18 Apr 1915 23
+    activity:attack (40,30)
+    gridRef:S_27_B_1_3 (60,30)
+    activity:fire (36,33)
+    place:Snipers House (40,41)
+    place:Brewery (61,45)
+  19 Apr 1915 53
+    activity:attack (37,57)
+    gridRef:S_27_B__ (50,57)
+    place:Loisne (21,58)
+    place:Quinque Rue (39,65)
+    activity:enemy_activity (43,71)
+    place:Snipers House (28,77)
+  20 Apr 1915 84
+    place:Loisne (20,88)
+    activity:attack (40,89)
+Page 224 (type diary) http://wd3.herokuapp.com/pages/AWD00022sz  ----------
+  20 Apr 1915 22
+    activity:attack (34,29)
+    activity:enemy_activity (40,38)
+    activity:attack (55,42)
+    place:Snipers House (38,49)
+    place:Rue Caillaux (31,60)
+    activity:enemy_activity (45,60)
+  21 Apr 1915 64
+    place:Festubert (44,64)
+    place:Loisne (18,68)
+    activity:attack (35,68)
+    place:Snipers House (64,69)
+    place:The Brewery (54,80)
+    activity:enemy_activity (40,80)
+    place:Quinque Rue (65,84)
+Page 225 (type diary) http://wd3.herokuapp.com/pages/AWD00022so  ----------
+  Hashtags: #aeroplane 
+  21 Apr 1915 23
+    activity:enemy_activity (53,30)
+    place:Indian Village (30,33)
+    place:Rue Caillaux (60,34)
+    activity:attack (49,37)
+    place:Quinque Rue (32,44)
+  22 Apr 1915 56
+    activity:attack (33,60)
+    place:Loisne (19,61)
+    gridRef:S_26_B__ (47,73)
+Page 226 (type diary) http://wd3.herokuapp.com/pages/AWD00022q1  ----------
+  23 Apr 1915 23
+    place:Loisne (19,29)
+    activity:attack (35,29)
+    person:Second Lieutenant G A Hoyland (joined) (80,33)
+    person:Second Lieutenant G E Claudit (joined) (81,41)
+    gridRef:S_26_B__ (39,45)
+    place:Snipers House (29,45)
+    place:Festubert (34,49)
+    activity:enemy_activity (50,49)
+  24 Apr 1915 52
+    person:Captain H F Grant Suttie (returned_leave) (79,57)
+    place:Loisne (19,57)
+    activity:attack (28,57)
+    place:Snipers House (41,64)
+    activity:enemy_activity (59,72)
+    place:Violaines Church (65,84)
+Page 227 (type diary) http://wd3.herokuapp.com/pages/AWD00022qr  ----------
+  24 Apr 1915 23
+    unit:48 Battery (51,30)
+    place:Gorre Chateau (47,41)
+    unit:15 London Battery (43,48)
+    unit:1 Battery Royal Field Artillery (61,49)
+  25 Apr 1915 52
+    activity:attack (30,57)
+    place:Loisne (18,57)
+    gridRef:S_26_B_4_3 (41,61)
+    gridRef:S_27_B_0_2 (54,69)
+    gridRef:S_26_B__ (61,72)
+    place:Snipers House (50,72)
+  26 Apr 1915 80
+    place:Loisne (19,82)
+    activity:quiet (44,83)
+Page 228 (type diary) http://wd3.herokuapp.com/pages/AWD00022q4  ----------
+  26 Apr 1915 22
+    place:Snipers House (37,29)
+  27 Apr 1915 36
+    place:Loisne (20,40)
+    place:Givenchy (59,40)
+    activity:quiet (35,40)
+  28 Apr 1915 41
+    activity:enemy_activity (51,43)
+    place:Loisne (20,45)
+    activity:enemy_activity (39,45)
+    gridRef:S_26_B__ (46,49)
+    gridRef:S_26_B__ (57,57)
+  29 Apr 1915 76
+    place:Festubert (44,76)
+    activity:attack (32,80)
+    place:Loisne (20,84)
+    activity:enemy_activity (44,84)
+    place:Quinque Rue (36,88)
+Page 229 (type diary) http://wd3.herokuapp.com/pages/AWD00022r7  ----------
+  Hashtags: #directhit #faint #breastwork #machinegun 
+  29 Apr 1915 24
+    place:Snipers House (41,29)
+    place:Welch Tree (63,29)
+    gridRef:S_26_B__ (52,29)
+  30 Apr 1915 33
+    place:Loisne (19,37)
+    activity:attack (33,37)
+    activity:enemy_activity (34,52)
+    place:Quinque Rue (40,56)
+Page 230 (type report) http://wd3.herokuapp.com/pages/AWD00022q3  ----------
+  Hashtags: #military #dcm #mentionedindespatches #DSO #CMG 
+  30 Apr 1915 0
+    person:Lieutenant Colonel C G Stewart (award) (39,37)
+    person:Lieutenant A P Griffiths (award) (30,44)
+    person:Lieutenant P E Inchbald (award) (28,52)
+    person:Lieutenant D R MacDonald (award) (30,59)
+    person:Bombardier W D Villa (award) (32,68)
+    person:Gunner J C Davidson (award) (33,71)
+    person:Bombardier W J Crompton (award) (33,75)
+    person:Corporal A Honnes (award) (31,79)
+    person:Bombardier W E Lamb (award) (31,83)
+    person:Sergeant G Newton (award) (32,87)
+Page 231 (type diary) http://wd3.herokuapp.com/pages/AWD00022ru  ----------
+  Hashtags: #dcm 
+  30 Apr 1915 22
+    person:Bombardier A Hall (award) (29,29)
+Page 232 (type cover)
+Page 233 (type diary) http://wd3.herokuapp.com/pages/AWD00022pt  ----------
+  1 May 1915 24
+    activity:enemy_activity (45,30)
+    place:Loisne (18,30)
+    place:Rue de Caillaux (66,30)
+    activity:attack (38,45)
+    place:Quinque Rue (49,49)
+  2 May 1915 53
+    activity:attack (34,57)
+    place:Loisne (19,57)
+    place:Quinque Rue (30,64)
+  3 May 1915 68
+    place:Loisne (19,72)
+    activity:attack (33,73)
+    place:Rue de Caillaux (62,76)
+Page 234 (type diary) http://wd3.herokuapp.com/pages/AWD00022r6  ----------
+  3 May 1915 23
+    place:Rue de Caillaux (55,26)
+  4 May 1915 32
+    activity:attack (36,36)
+    place:Loisne (19,36)
+    place:Rue de Caillaux (49,38)
+    activity:enemy_activity (50,44)
+    place:Quinque Rue (57,55)
+    activity:fire (38,59)
+    place:Rue d'Ouvert (51,64)
+    gridRef:S_26_B__ (56,67)
+    place:Snipers House (49,67)
+  5 May 1915 71
+    activity:attack (30,75)
+    place:Loisne (18,75)
+    activity:enemy_activity (62,78)
+    gridRef:S_26_B__ (42,79)
+    place:Dead Cow Farm (39,82)
+    weather:fog (31,87)
+    place:Le Plantin (65,92)
+Page 235 (type diary) http://wd3.herokuapp.com/pages/AWD00022sf  ----------
+  Hashtags: #faint 
+  6 May 1915 22
+    activity:attack (32,27)
+    place:Loisne (17,27)
+    gridRef:S_26_B__ (36,29)
+    place:Snipers House (29,30)
+  7 May 1915 38
+    place:Loisne (18,41)
+    activity:attack (32,42)
+    place:Snipers House (54,45)
+    gridRef:S_20_C_8_2 (65,48)
+    activity:movement (52,50)
+    gridRef:S_20_D_9_3 (28,51)
+  8 May 1915 54
+    gridRef:X_25_A_4_4 (61,54)
+    activity:attack (30,58)
+    place:Loisne (19,58)
+  9 May 1915 66
+    activity:attack (36,69)
+    place:Loisne (20,70)
+    activity:attack (44,75)
+    place:Rue d'Ouvert (42,84)
+Page 236 (type diary) http://wd3.herokuapp.com/pages/AWD00022st  ----------
+  Hashtags: #wirecutting 
+  9 May 1915 23
+    place:Givenchy (58,26)
+    activity:enemy_activity (41,30)
+  10 May 1915 59
+    unit:71 Battery (27,63)
+    activity:attack (29,63)
+    place:Loisne (19,63)
+    place:Rue de Caillaux (57,68)
+    place:Rue de Caillaux (47,71)
+  11 May 1915 72
+    place:Loisne (19,76)
+    activity:attack (35,77)
+    place:Rue de Caillaux (41,83)
+    activity:fire (50,88)
+    place:Violaines (58,90)
+Page 237 (type diary) http://wd3.herokuapp.com/pages/AWD00022sr  ----------
+  Hashtags: #sketch 
+  12 May 1915 23
+    place:Loisne (18,26)
+    activity:attack (42,26)
+    activity:attack (34,31)
+  13 May 1915 34
+    place:Loisne (18,38)
+    place:Rue de Marais (64,38)
+    activity:attack (38,39)
+  14 May 1915 57
+    place:Loisne (18,61)
+    activity:attack (30,62)
+    place:Rue de Caillaux (66,73)
+Page 238 (type diary) http://wd3.herokuapp.com/pages/AWD00022q0  ----------
+  Hashtags: #prisoners 
+  14 May 1915 22
+    activity:attack (34,34)
+    person:Lieutenant Quiller Couch (other) (48,42)
+    place:Le Plantin (64,45)
+  15 May 1915 47
+    unit:2 Division (35,50)
+    place:Loisne (19,51)
+    unit:1 Division (30,52)
+    place:Ferme du Bois (51,53)
+    unit:Indian Division (32,54)
+    place:Rue du Bois (41,56)
+    activity:attack (36,60)
+    unit:6 Infantry Brigade (42,62)
+  16 May 1915 65
+    place:Loisne (19,68)
+    activity:attack (33,70)
+    person:Major C W Scott (casualty_wounded) (58,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (50,77)
+  17 May 1915 81
+    activity:attack (28,84)
+    place:Loisne (20,84)
+    unit:21 Infantry Brigade (48,88)
+    unit:17 Division (68,88)
+    unit:4 Brigade (38,91)
+    unit:2 Division (50,91)
+Page 239 (type diary) http://wd3.herokuapp.com/pages/AWD00022ss  ----------
+  Hashtags: #prisoners 
+  17 May 1915 23
+    unit:2 Division (65,26)
+    unit:7 Division (28,28)
+    unit:Bedfords (52,30)
+    unit:Camerons (39,31)
+  18 May 1915 33
+    unit:7 Division 3 canadian Brigade (69,36)
+    unit:47 Division (43,37)
+    unit:140 Infantry Brigade (52,37)
+    unit:47 Division 140 Infantry Brigade (30,37)
+    place:Loisne (20,39)
+    unit:3 Canadian Brigade (37,40)
+    unit:7 Division (28,41)
+    unit:Sirhind Brigade (51,41)
+    unit:20 Brigade (33,43)
+    unit:4 Brigade (57,43)
+    unit:5 Brigade (46,44)
+    unit:2 Division (32,46)
+    unit:Guards Brigade (31,48)
+    unit:7 Division (60,52)
+    unit:7 Division (63,56)
+  19 May 1915 58
+    unit:Canadians (40,58)
+    unit:Canadians (30,63)
+    unit:Guards Brigade (48,66)
+    place:La Quinque Rue (32,66)
+    place:Loisne (21,68)
+    activity:attack (44,69)
+    unit:Canadian (30,71)
+    unit:Canadian Division (58,75)
+  20 May 1915 78
+    unit:2 Division (55,80)
+    unit:Highland Division (29,82)
+    unit:Canadian Division (31,84)
+    activity:enemy_activity (49,86)
+    place:Loisne (20,86)
+Page 240 (type diary) http://wd3.herokuapp.com/pages/AWD00022rq  ----------
+  Hashtags: #Canadians #enemymorale #alliedrelations 
+  20 May 1915 23
+    unit:Canadians (30,26)
+    activity:fire (51,33)
+  21 May 1915 37
+    weather:rain (41,38)
+    weather:fine (30,40)
+    place:Loisne (20,40)
+    activity:enemy_activity (44,42)
+    unit:36 Brigade (62,49)
+    unit:Indian Corps (67,52)
+    place:Ferme du Bois (42,56)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (59,60)
+    activity:fire (35,60)
+    activity:fire (51,68)
+  22 May 1915 69
+    place:Loisne (20,74)
+    unit:41 Brigade (44,79)
+    activity:fire (37,87)
+    person:Colonel Ravenhill (commander) (65,88)
+    unit:41 Brigade (49,90)
+Page 241 (type diary) http://wd3.herokuapp.com/pages/AWD00022s5  ----------
+  Hashtags: #communication 
+  23 May 1915 22
+    place:Givenchy (65,26)
+    unit:41 Brigade (32,27)
+    unit:41 Brigade Royal Field Artillery (28,27)
+    place:Loisne (20,29)
+    unit:47 Battery (58,32)
+    activity:quiet (51,37)
+    unit:French Group (31,37)
+  24 May 1915 41
+    place:Loisne (21,45)
+    unit:41 Brigade (29,45)
+    activity:attack (32,47)
+    unit:Canadians (46,51)
+    activity:enemy_activity (49,55)
+    unit:Prussian Guard Reserve Division (42,59)
+  25 May 1915 61
+    activity:fire (31,65)
+    unit:41 Brigade (53,65)
+    place:Loisne (21,66)
+    place:Le Plantin (36,66)
+    unit:French Group (63,69)
+    unit:14 Infantry Brigade 47 Division (48,72)
+    unit:47 Btty (63,77)
+    unit:Canadians (42,79)
+    unit:French Group (37,82)
+Page 242 (type diary) http://wd3.herokuapp.com/pages/AWD00022qj  ----------
+  Hashtags: #surrender #machinegun #prisoners 
+  26 May 1915 22
+    place:Loisne (20,28)
+    unit:36 Brigade (42,33)
+    unit:41 Brigade (57,34)
+    person:Second Lieutenant E G Barkham (other) (53,37)
+    person:Second Lieutenant B B Quiller-Couch (other) (38,39)
+    unit:41 Brigade (59,41)
+    place:Lieres (68,41)
+    place:Ferfay (35,42)
+    place:Ames (50,42)
+    place:Essars (67,44)
+    activity:movement (37,45)
+    place:Loisne (51,45)
+    place:Ecquedec (45,48)
+    place:Ames (54,48)
+    place:Bethune (28,49)
+    place:Lillers (36,49)
+  27 May 1915 50
+    place:Ames (21,54)
+    activity:resting (34,57)
+  28 May 1915 60
+    person:Colonel Hall (other) (30,63)
+    person:Second Lieutenant B B Quiller-Couch (other) (45,63)
+    place:Ames (21,64)
+    place:Vermelles (56,65)
+    unit:58 French Division (43,67)
+    activity:resting (52,68)
+  30 May 1915 73
+    activity:resting (37,73)
+    place:Ames (21,73)
+    activity:resting (41,76)
+    domestic:religion (49,76)
+  31 May 1915 77
+    weather:fine (36,77)
+    place:Ames (22,78)
+    activity:resting (41,81)
+    place:Ames (21,81)
+    weather:fine (36,81)
+Page 243 (type cover)
+Page 244 (type diary) http://wd3.herokuapp.com/pages/AWD00022sm  ----------
+  1 Jun 1915 21
+    place:Ames (19,26)
+  2 Jun 1915 27
+    activity:resting (31,27)
+    unit:60 Battery (39,31)
+    place:Ames (19,32)
+    activity:resting (30,32)
+    unit:17 Battery (46,32)
+  3 Jun 1915 34
+    place:Vermelles (36,34)
+    domestic:parades (37,38)
+    place:Ames (19,39)
+  4 Jun 1915 43
+    place:Ames (18,47)
+    domestic:inspections (32,47)
+  5 Jun 1915 50
+    place:Ames (18,54)
+    activity:resting (29,54)
+  6 Jun 1915 55
+    person:Lieutenant T R Fletcher (departed_leave) (79,58)
+    place:Ames (18,59)
+    domestic:religion (30,59)
+  7 Jun 1915 60
+    place:Ames (18,64)
+    person:Colonel Hall (other) (31,64)
+  8 Jun 1915 70
+    place:Bois de Montagnes (54,73)
+    place:Ames (17,74)
+    place:Vaudricourt (66,75)
+    activity:movement (31,75)
+    place:Gosnay (69,77)
+    place:Marles-les-Mines (51,79)
+    unit:71 Battery (52,81)
+    unit:18 Battery (29,84)
+    unit:16 Lon (51,93)
+    unit:48 Battery (38,94)
+Page 245 (type diary) http://wd3.herokuapp.com/pages/AWD00022rk  ----------
+  Hashtags: #dcm 
+  9 Jun 1915 23
+    person:Second Lieutenant B Quiller-Couch (other) (28,26)
+    place:Vaudricourt (18,27)
+    place:Gosnay (58,28)
+    activity:reconnoitered (31,29)
+    place:Noyelles (63,31)
+    person:Colonel Hall (other) (30,41)
+    place:Labourse (60,41)
+    unit:2 Echelon Brigade (39,45)
+    place:Vermelles (50,48)
+    place:Vermelles (68,50)
+    unit:47 How Battery (41,54)
+  10 Jun 1915 58
+    place:Noyelles (56,58)
+    activity:movement (34,63)
+    person:Captain H H Hulton (promotion) (45,63)
+    person:Bombardier E C Cook (award) (53,64)
+    place:Noyelles (17,64)
+    person:Captain R H Powell (promotion) (28,65)
+    person:Corporal J W Mildenhall (award) (40,66)
+    unit:6 Infantry Brigade (38,74)
+    activity:quiet (57,75)
+    place:Fort Hohenzollern (40,76)
+  11 Jun 1915 77
+    activity:attack (39,83)
+    place:Noyelles (17,83)
+    unit:47 Battery (50,86)
+    place:Les Briques (68,86)
+    unit:1 Division (71,88)
+    place:Auchy (35,89)
+    unit:1 Division (38,92)
+Page 246 (type diary) http://wd3.herokuapp.com/pages/AWD00022r5  ----------
+  12 Jun 1915 24
+    activity:attack (43,26)
+    person:Major H H Hulton (departed_leave) (80,28)
+    place:Noyelles (17,28)
+    time:1100AM (30,30)
+    time:0430PM (39,30)
+    place:Vermelles (55,34)
+    activity:enemy_activity (36,37)
+    place:Vermelles (53,37)
+  13 Jun 1915 41
+    place:Noyelles (18,44)
+    activity:attack (32,45)
+    place:Les Briques (43,48)
+    activity:attack (37,53)
+    activity:fire (52,55)
+    place:Philosophe (64,56)
+    time:0200PM (41,57)
+    place:Vermelles (52,57)
+    time:1130AM (31,58)
+  14 Jun 1915 60
+    time:0630PM (28,60)
+    activity:attack (37,64)
+    place:Noyelles (17,64)
+    place:Vermelles (52,65)
+    place:Philosophe (64,65)
+    time:0530PM (50,67)
+    time:1230PM (42,68)
+    person:Lieutenant T R Fletcher (returned_leave) (78,70)
+    place:Bois Carre (34,75)
+  15 Jun 1915 76
+    place:Noyelles (17,81)
+    activity:attack (63,82)
+    person:Major H H Hulton (returned_leave) (78,82)
+    place:Hohenzollern Fort (43,83)
+    place:Hulluch (28,86)
+    place:Philosophe (67,88)
+    unit:47 Battery (30,91)
+Page 247 (type diary) http://wd3.herokuapp.com/pages/AWD00022t0  ----------
+  Hashtags: #aeroplane #church 
+  16 Jun 1915 23
+    weather:hot (30,27)
+    place:Noyelles (20,28)
+    place:Haines (58,31)
+    activity:attack (42,32)
+    unit:15 Battalion (46,32)
+    place:Haines (53,35)
+    place:Hulluch (56,37)
+    activity:enemy_activity (61,39)
+    unit:48 Battalion (31,40)
+  17 Jun 1915 43
+    weather:fog (32,46)
+    unit:15 Battalion (67,47)
+    place:Noyelles (18,47)
+    place:Fosse 8 (56,48)
+    activity:attack (46,49)
+    unit:113 Battery (37,49)
+    unit:48 & 71 Battalion (53,51)
+  18 Jun 1915 54
+    place:Noyelles (18,59)
+    place:Haines (62,61)
+    activity:attack (39,65)
+  19 Jun 1915 68
+    unit:115 Battalion (36,72)
+    unit:114 Battery (47,73)
+    place:Noyelles (19,74)
+    place:Vermelles (66,75)
+    unit:34 Brigade (47,81)
+    unit:1 Division (28,86)
+    unit:2 Division (61,86)
+Page 248 (type diary) http://wd3.herokuapp.com/pages/AWD00022rr  ----------
+  20 Jun 1915 21
+    domestic:religion (33,25)
+    domestic:religion (42,26)
+    place:Noyelles (21,27)
+    weather:fine (32,32)
+    place:Fosse 9 (58,35)
+    place:Fosse 3 (66,35)
+    place:Annequin (69,38)
+    place:Mazingarbe (50,39)
+    place:Noyelles (37,40)
+  21 Jun 1915 45
+    place:Noyelles (20,48)
+    place:Fosse 8 (64,48)
+    activity:enemy_activity (50,56)
+    activity:fire (68,57)
+    place:Hulluch (49,58)
+    activity:attack (40,59)
+    unit:15 Lon Battery (62,60)
+    place:Fosse 3 (36,60)
+    place:Mazingarbe (51,61)
+  22 Jun 1915 64
+    place:Hohenzollern Fort (40,64)
+    place:Noyelles (19,67)
+    activity:attack (38,67)
+    place:Philosophe (57,71)
+  23 Jun 1915 75
+    place:Cite Saint Elie (55,75)
+    activity:attack (40,79)
+    place:Noyelles (18,81)
+    weather:rain (65,86)
+Page 249 (type diary) http://wd3.herokuapp.com/pages/AWD00022rb  ----------
+  24 Jun 1915 22
+    activity:attack (39,26)
+    place:Hohenzollern (48,26)
+    unit:15 London Battery (28,27)
+    place:Noyelles (19,27)
+    person:Major H H Hulton (departed_posted) (82,28)
+    place:Les Briques (64,33)
+    activity:fire (46,39)
+  25 Jun 1915 42
+    place:Fosse 8 (45,44)
+    unit:15 London Battery (29,45)
+    activity:attack (38,45)
+    place:Noyelles (16,46)
+    activity:attack (32,47)
+    activity:attack (33,52)
+    place:Hulluch (40,52)
+    activity:enemy_activity (49,54)
+  26 Jun 1915 59
+    unit:6 Brigade (68,62)
+    person:Colonel E F Hall (departed_leave) (80,62)
+    place:Les Briques (42,62)
+    activity:attack (33,63)
+    place:Noyelles (17,64)
+    place:Hohenzollern Fort (45,64)
+    unit:15 London Battery (29,65)
+    activity:attack (36,65)
+    person:Major H W Newcome (commander) (79,66)
+    place:La Bassee (41,67)
+    activity:enemy_activity (44,71)
+    place:Douvrin (61,72)
+    person:Major A S Cotton (commander) (80,75)
+    unit:7 Division (58,77)
+    unit:9 Division (66,77)
+    unit:1 Corps (31,80)
+Page 250 (type diary) http://wd3.herokuapp.com/pages/AWD00022s6  ----------
+  Hashtags: #weaponsystems #roadscondition #mine #sniper 
+  27 Jun 1915 22
+    activity:attack (36,26)
+    person:Major E W Martin Powell (departed_leave) (81,26)
+    place:Hulluch (43,26)
+    place:Noyelles (18,27)
+    place:Vermelles (56,27)
+    place:Loos Towers (48,30)
+    place:Saint Elie (61,30)
+    activity:attack (37,31)
+    place:Hulluch (65,31)
+    activity:enemy_activity (38,37)
+    activity:enemy_activity (37,44)
+    place:Douvrin (38,48)
+    place:La Bassee (52,48)
+  28 Jun 1915 50
+    activity:attack (40,52)
+    place:Noyelles (19,52)
+    place:Haines (51,52)
+    activity:attack (45,53)
+    place:Hulluch (54,54)
+    place:Philosophe (51,60)
+    place:Vermelles (64,60)
+    activity:enemy_activity (37,61)
+    unit:5 Brigade (65,70)
+    unit:5 Battalion (64,70)
+    unit:3 Brigade (55,73)
+  29 Jun 1915 76
+    place:Noyelles (18,79)
+    activity:attack (52,82)
+    activity:attack (33,83)
+    place:Cuinchy (60,84)
+    unit:36 Brigade (60,87)
+    unit:26 Brigade (50,90)
+    activity:movement (56,94)
+    place:Beuvry (71,94)
+Page 251 (type diary) http://wd3.herokuapp.com/pages/AWD00022tf  ----------
+  29 Jun 1915 21
+    place:Le Quesnoy (35,26)
+    place:Pont Tournant (58,28)
+  30 Jun 1915 32
+    place:Bethune (29,32)
+    place:Givenchy (67,36)
+    unit:22 Brigade (46,37)
+    unit:22 Brigade Royal Field Artillery (46,37)
+    place:Pont Tournant (17,38)
+    place:Vermelles (56,44)
+    activity:movement (69,45)
+    gridRef:F_24_A_5_5 (50,50)
+    unit:36 Brigade (67,50)
+  1 Jul 1915 52
+    place:Pont Tournant (17,57)
+    unit:B Group Artillery (70,57)
+    gridRef:A_13_B_5_5 (43,61)
+    gridRef:F_11_D_3_4 (41,64)
+    gridRef:F_24_A_5_5 (41,68)
+    gridRef:F_4_D_5_5 (42,72)
+    gridRef:F_5_A_2_2 (40,74)
+    unit:13 section Royal Field Artillery (67,76)
+    gridRef:F_10_B_4_2 (62,79)
+    unit:35 Battery (66,82)
+Page 252 (type cover)
+Page 253 (type diary) http://wd3.herokuapp.com/pages/AWD00022sp  ----------
+  Hashtags: #enfilade 
+  2 Jul 1915 22
+    person:Second Lieutenant A C Lutyens (departed_leave) (80,26)
+    place:Gorre (17,27)
+    activity:movement (40,27)
+    person:Second Lieutenant A N Dickson (departed_leave) (85,29)
+    unit:F Battery (46,32)
+    place:Rue de Cailloux (31,39)
+    place:Givenchy (47,42)
+  3 Jul 1915 43
+    activity:attack (38,46)
+    activity:attack (49,46)
+    place:Gorre (18,48)
+    place:Duck's Bill (34,48)
+    unit:48 Battery (29,51)
+    place:Givenchy (58,55)
+    unit:7 Mountain Battery (28,57)
+    place:Beuvry (39,60)
+  4 Jul 1915 61
+    activity:attack (38,64)
+    person:Second Lieutenant A N Wiggin (departed_leave) (82,64)
+    place:Gorre (18,66)
+    unit:47 Battery (30,66)
+    activity:attack (44,68)
+    place:Le Plantin (41,69)
+    place:Tuning Fork (67,69)
+    activity:attack (37,77)
+Page 254 (type diary) http://wd3.herokuapp.com/pages/AWD00022r3  ----------
+  Hashtags: #Lyddite #Minnenwerfer #aeroplane #weaponsystems #weaponsdamaged 
+  5 Jul 1915 21
+    place:Gorre (19,25)
+    person:Lieutenant Colonel E F Hall (returned_leave) (83,26)
+    place:Cambrin (68,29)
+    person:Major H W Necome (departed_posted) (83,31)
+  6 Jul 1915 35
+    person:Major A S Cotton (departed_leave) (83,38)
+    place:Gorre (19,39)
+    gridRef:A_16_A_3_8 (67,39)
+    activity:attack (37,39)
+    activity:attack (39,44)
+    place:Festubert (56,45)
+    activity:enemy_activity (35,49)
+  7 Jul 1915 54
+    person:Major A L Godman (departed_leave) (81,58)
+    place:Gorre (18,59)
+    activity:fire (38,59)
+    person:Major R H Powell (departed_leave) (85,61)
+    activity:attack (45,63)
+    gridRef:F_12_D_9_2 (72,67)
+  8 Jul 1915 72
+    person:Second Lieutenant J C Peile (departed_leave) (82,75)
+    place:Gorre (18,77)
+    activity:attack (35,78)
+    person:Captain Maitland Dougall (departed_posted) (84,84)
+    activity:repair (50,89)
+Page 255 (type diary) http://wd3.herokuapp.com/pages/AWD00022sx  ----------
+  9 Jul 1915 22
+    person:Second Lieutenant B B Quiller-Couch (departed_leave) (82,25)
+    place:Gorre (20,26)
+    activity:attack (30,27)
+    activity:attack (54,28)
+    place:Auchy (52,31)
+    activity:attack (44,36)
+    activity:repair (57,46)
+  10 Jul 1915 49
+    activity:attack (44,53)
+    place:Gorre (19,53)
+    activity:attack (46,59)
+  11 Jul 1915 71
+    activity:attack (42,74)
+    place:Gorre (19,75)
+    place:Violaines (61,75)
+    activity:repair (58,76)
+    unit:5 Brigade (60,84)
+    unit:5 Infantry Brigade (58,85)
+    unit:6 Infantry Brigade (35,86)
+Page 256 (type diary) http://wd3.herokuapp.com/pages/AWD00022pk  ----------
+  Hashtags: #minnen #weaponsystems #OB 
+  12 Jul 1915 23
+    person:Second Lieutenant A C Lutyens (returned_leave) (84,26)
+    unit:48 Battery (43,26)
+    place:Gorre (19,26)
+    activity:quiet (34,26)
+    person:Second Lieutenant A N Dickson (returned_leave) (83,29)
+    unit:47 Battery (56,31)
+    place:La Bassee (44,31)
+    activity:reconnoitered (49,35)
+    gridRef:S_25_D_0_4 (56,37)
+    activity:repair (52,40)
+  13 Jul 1915 45
+    unit:16 Battery (28,48)
+    activity:attack (38,48)
+    place:Gorre (18,49)
+    unit:17 Battery (34,53)
+  14 Jul 1915 62
+    place:Gorre (18,65)
+    gridRef:A_9_D_8_2 (68,66)
+    activity:attack (39,66)
+    person:Second Lieutenant A N Wiggin (returned_leave) (83,67)
+    unit:48 detached section (27,71)
+    unit:9 Division (49,77)
+    gridRef:S_25_D_2_7 (31,78)
+    activity:repair (50,82)
+Page 257 (type diary) http://wd3.herokuapp.com/pages/AWD00022rd  ----------
+  Hashtags: #mine #weaponsystems #minnen 
+  14 Jul 1915 0
+  15 Jul 1915 23
+    person:Major A S Cotton (returned_leave) (83,25)
+    activity:attack (53,26)
+    place:Gorre (20,27)
+    activity:quiet (30,27)
+    person:Lieutenant T C Chilton (departed_leave) (80,33)
+    unit:Staffords (58,33)
+  16 Jul 1915 37
+    person:Captain B L Marriner (departed_leave) (81,41)
+    place:Gorre (19,41)
+    unit:48 Battery (31,41)
+    person:Captain Marriner (departed_leave) (77,42)
+    activity:attack (57,43)
+    person:Major A L Godman (returned_leave) (87,44)
+    person:Major A L Godwin (returned_leave) (90,44)
+    activity:attack (39,44)
+    person:Major R F Powell (returned_leave) (86,47)
+    unit:47 Battery (30,47)
+    unit:Royal Berkshire Regiment (64,48)
+  17 Jul 1915 52
+    unit:16 Battery (28,55)
+    place:Gorre (19,56)
+    activity:attack (35,56)
+    person:Lieutenant J C Peile (returned_leave) (83,57)
+    unit:17 Battery (40,57)
+  18 Jul 1915 61
+    unit:48 Battery (30,61)
+    unit:16 Battery (29,65)
+    activity:attack (38,65)
+    place:Gorre (20,66)
+    person:Captain A L P Griffith (departed_leave) (85,67)
+    unit:56 Battery (36,68)
+    activity:enemy_activity (44,70)
+    unit:71 Battery (46,76)
+    place:Canteleux (69,80)
+    activity:attack (37,82)
+    place:Givenchy (59,85)
+Page 258 (type diary) http://wd3.herokuapp.com/pages/AWD00022sh  ----------
+  Hashtags: #lyddite #weaponsystems #Lyddite #friendlyfire 
+  19 Jul 1915 22
+    activity:attack (35,27)
+    place:Gorre (20,28)
+    person:Lieutenant Quiller-Couch (returned_leave) (77,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (51,47)
+  20 Jul 1915 48
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (38,48)
+    place:Gorre (19,53)
+    activity:attack (41,53)
+  21 Jul 1915 66
+    activity:attack (32,70)
+  22 Jul 1915 79
+    activity:attack (37,83)
+    place:Gorre (18,84)
+    activity:fire (38,88)
+Page 259 (type diary) http://wd3.herokuapp.com/pages/AWD00022sb  ----------
+  Hashtags: #weaponsystems #lyddite #minnenwerfer 
+  23 Jul 1915 22
+    person:Lieutenant R W L Todd (departed_leave) (79,26)
+    activity:quiet (65,26)
+    place:Gorre (17,27)
+    place:Givenchy (38,28)
+    activity:attack (45,31)
+    weather:rain (31,31)
+  24 Jul 1915 36
+    activity:attack (34,41)
+    place:Gorre (19,41)
+    person:Second Lieutenant A F Gimson (departed_leave) (79,42)
+    place:Bethune (29,51)
+    place:Beuvry (41,51)
+  25 Jul 1915 54
+    activity:attack (32,59)
+    unit:K R R (29,65)
+    activity:enemy_activity (56,67)
+  26 Jul 1915 72
+    activity:repair (34,76)
+    person:Captain A L P Griffiths (returned_leave) (76,77)
+    place:Gorre (19,77)
+    activity:attack (46,78)
+    person:Second Lieutenant F L Wallis (departed_leave) (82,83)
+Page 260 (type diary) http://wd3.herokuapp.com/pages/AWD00022r4  ----------
+  Hashtags: #mine 
+  27 Jul 1915 24
+    activity:attack (39,25)
+    unit:15 Battery (32,25)
+    unit:48 Battery (68,25)
+    place:Gorre (19,26)
+    unit:9 Siege Battery (42,30)
+  28 Jul 1915 33
+    place:Gorre (20,35)
+  29 Jul 1915 41
+    activity:fire (53,43)
+    person:Captain H F Grant-Suttie (returned_leave) (80,43)
+    unit:6 Brigade (45,54)
+  30 Jul 1915 57
+    place:Gorre (19,62)
+    place:La Bassee (69,71)
+    activity:fire (39,72)
+  31 Jul 1915 78
+    place:Violaines (57,81)
+    activity:attack (33,81)
+Page 261 (type report) http://wd3.herokuapp.com/pages/AWD00022qc  ----------
+  31 Jul 1915 0
+    reference:INCIDENT OF 12/7/15 (33,16)
+    person:Major E W M Powell (46,70)
+    reference:GS 486 (59,8)
+    date:12 Jul 1915 (37,95)
+Page 262 (type cover)
+Page 263 (type diary) http://wd3.herokuapp.com/pages/AWD00022rs  ----------
+  Hashtags: #mine 
+  1 Aug 1915 22
+    unit:15 Battery (28,26)
+    place:Gorre (16,27)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 3 (61,28)
+    activity:fire (36,28)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 3 (51,29)
+    unit:71 Battery (35,31)
+  2 Aug 1915 33
+    activity:attack (30,37)
+    place:Gorre (16,37)
+    person:Second Lieutenant A F Gimson (returned_leave) (77,38)
+    unit:Irish Guards (37,46)
+  3 Aug 1915 55
+    activity:attack (29,58)
+    place:Canteleux (45,58)
+    unit:71 Battery (30,59)
+    place:Gorre (16,59)
+  4 Aug 1915 66
+    unit:47 Battery (27,70)
+    activity:attack (33,70)
+    place:Gorre (17,72)
+  5 Aug 1915 79
+    unit:Irish Guards (52,80)
+    unit:48 Battery (30,83)
+    activity:attack (33,83)
+    place:Gorre (17,83)
+    place:Lorgies (59,91)
+Page 264 (type diary) http://wd3.herokuapp.com/pages/AWD00022r1  ----------
+  Hashtags: #mine #NIGHTOPERATIONS #WEAPONSYSTEMS 
+  5 Aug 1915 0
+  6 Aug 1915 26
+    time:0400AM (61,26)
+    place:Gorre (19,28)
+    activity:attack (63,30)
+    unit:9 Battery (46,31)
+    unit:71 Battery (37,33)
+    place:Canteleux (51,34)
+  7 Aug 1915 36
+    activity:enemy_activity (29,38)
+    activity:enemy_activity (39,38)
+    place:Gorre (18,40)
+    unit:Irish Guards (41,41)
+    activity:attack (52,41)
+    time:0555AM (34,42)
+    time:0555AM (51,44)
+    time:0330AM (63,44)
+    activity:attack (45,45)
+    unit:47 Battery (35,46)
+    activity:enemy_activity (32,48)
+  8 Aug 1915 51
+    activity:enemy_activity (28,52)
+    place:Gorre (18,53)
+    place:Canteleux (46,53)
+    activity:enemy_activity (46,55)
+    activity:attack (66,56)
+    activity:fire (53,61)
+    activity:attack (36,62)
+  9 Aug 1915 65
+    place:Gorre (18,67)
+    activity:enemy_activity (37,68)
+    activity:enemy_activity (42,73)
+    time:0620PM (30,74)
+  10 Aug 1915 78
+    unit:47 Battery (27,80)
+    activity:attack (39,80)
+    unit:71 Battery (28,82)
+    activity:attack (40,82)
+    place:Gorre (18,82)
+    activity:attack (39,86)
+    activity:attack (51,86)
+    unit:15 Battery (30,88)
+    time:1130PM (72,91)
+Page 265 (type diary) http://wd3.herokuapp.com/pages/AWD00022r0  ----------
+  Hashtags: #minnerwerfer #weapnsystems #experiment #periscopes 
+  11 Aug 1915 24
+    place:Gorre (18,27)
+    unit:15 Battery (27,27)
+    gridRef:A_9_B_2_8 (52,33)
+    activity:attack (39,34)
+  12 Aug 1915 36
+    unit:48 Battery (27,38)
+    place:Gorre (19,39)
+    activity:attack (37,39)
+    activity:enemy_activity (33,48)
+    place:Chapelle Saint Roch (55,49)
+    activity:attack (40,53)
+    gridRef:A_9_B_2_6 (62,54)
+    unit:15 Battery (29,54)
+    gridRef:A_9_A_9_7 (51,55)
+    activity:enemy_activity (31,59)
+    place:Violaines (61,60)
+    gridRef:A_9_B_2_8 (38,65)
+  13 Aug 1915 66
+    unit:48 Battery (43,68)
+    place:Gorre (18,70)
+    activity:enemy_activity (28,70)
+    gridRef:A_9_A_9_7 (37,70)
+    activity:attack (38,74)
+    unit:47 Battery (30,75)
+  14 Aug 1915 76
+    activity:attack (53,76)
+    activity:attack (29,79)
+    unit:9 Siege Battery (38,79)
+    place:Gorre (18,80)
+    place:Ducks Bill (71,80)
+    unit:71 Siege Battery (26,80)
+    unit:47 Siege Battery (31,81)
+    gridRef:A_9_B_7_4 (43,85)
+  15 Aug 1915 86
+    unit:4 Brigade (68,86)
+    unit:4 Brigade (42,88)
+    activity:quiet (60,89)
+    unit:5 Brigade (28,89)
+    place:Gorre (17,90)
+    unit:2 Division (36,90)
+Page 266 (type diary) http://wd3.herokuapp.com/pages/AWD00022qv  ----------
+  Hashtags: #weaponsystems #wireless #minnenwerfer #aeroplane 
+  16 Aug 1915 22
+    activity:attack (32,27)
+    place:Gorre (19,28)
+  17 Aug 1915 34
+    activity:attack (38,38)
+    place:Gorre (19,38)
+    activity:fire (47,45)
+  18 Aug 1915 47
+    activity:attack (30,51)
+    place:Gorre (19,52)
+  19 Aug 1915 59
+    activity:attack (35,62)
+    place:Gorre (18,63)
+    activity:fire (44,70)
+  20 Aug 1915 71
+    activity:quiet (30,76)
+    place:Gorre (19,77)
+Page 267 (type diary) http://wd3.herokuapp.com/pages/AWD00022qx  ----------
+  Hashtags: #weaponsystems #mine #minnenwerfer 
+  21 Aug 1915 24
+    place:Gorre (19,27)
+    activity:quiet (32,27)
+    activity:enemy_activity (47,28)
+    unit:Glasgow Highlanders (58,32)
+    place:Givenchy (39,36)
+  22 Aug 1915 37
+    place:Gorre (20,40)
+    activity:attack (29,40)
+    gridRef:A_9_D_9_9 (54,44)
+    unit:47 Battery (27,46)
+    place:Givenchy (61,49)
+    activity:enemy_activity (32,54)
+  23 Aug 1915 60
+    place:Gorre (20,63)
+    activity:enemy_activity (65,66)
+    gridRef:A_9_A_9_7 (58,69)
+    activity:enemy_activity (40,69)
+  24 Aug 1915 73
+    unit:9 Siege (28,76)
+    activity:attack (30,76)
+    place:Gorre (20,77)
+  25 Aug 1915 81
+    activity:enemy_activity (28,84)
+    activity:enemy_activity (44,84)
+    place:Gorre (21,85)
+    place:Givenchy (35,86)
+    unit:9 Battery (38,91)
+    activity:attack (43,91)
+Page 268 (type diary) http://wd3.herokuapp.com/pages/AWD00022qn  ----------
+  26 Aug 1915 24
+    activity:attack (37,26)
+    place:Gorre (21,26)
+    activity:enemy_activity (57,27)
+    place:Givenchy (31,29)
+    activity:fire (46,43)
+  27 Aug 1915 53
+    unit:9 siege (31,56)
+    activity:attack (33,57)
+    place:Gorre (20,57)
+    activity:fire (42,67)
+  28 Aug 1915 69
+    unit:71 Battery (28,72)
+    activity:attack (31,72)
+    place:Gorre (21,72)
+    unit:21 infantry Brigade 7 Division (47,76)
+    unit:21 iF Brigade (51,78)
+    unit:21 Infantry Brigade 7 Division (30,79)
+Page 269 (type diary) http://wd3.herokuapp.com/pages/AWD00022sc  ----------
+  29 Aug 1915 25
+    gridRef:A_9_B_1_2 (63,27)
+    activity:enemy_activity (31,28)
+    place:Gorre (20,28)
+    activity:attack (38,30)
+    unit:9 siege (27,30)
+  30 Aug 1915 37
+    unit:17 Battery (29,39)
+    place:Gorre (20,39)
+    unit:21 Infantry Brigade (59,42)
+    activity:working (29,47)
+  31 Aug 1915 48
+    activity:enemy_activity (33,50)
+    place:Gorre (21,50)
+    unit:71 Battery (66,51)
+    unit:17 Battery (46,54)
+    activity:attack (31,55)
+    unit:15 Battery (28,58)
+Page 270 (type cover)
+Page 271 (type diary) http://wd3.herokuapp.com/pages/AWD00022si  ----------
+  1 Sep 1915 24
+    activity:enemy_activity (31,26)
+    activity:attack (59,28)
+    place:Gorre (21,28)
+    unit:9 Battery (47,28)
+    unit:71 Battery (52,28)
+    unit:15 Battery (60,28)
+    unit:9 Division (62,30)
+    activity:attack (42,33)
+  2 Sep 1915 34
+    activity:repair (47,37)
+    place:Gorre (21,38)
+    unit:17 Battery (67,41)
+    activity:fire (48,48)
+    place:Le Plantin (32,49)
+  3 Sep 1915 52
+    weather:rain (31,56)
+    place:Gorre (20,57)
+    activity:construction (42,61)
+  4 Sep 1915 64
+    person:Ravenhill (joined) (46,67)
+    person:Lieutenant Colonel F T Ravenhill (commander) (32,67)
+    unit:41 Brigade (67,68)
+    place:Gorre (19,69)
+    place:Canal Bank (47,69)
+    activity:fire (54,74)
+    unit:48 Battery (31,90)
+Page 272 (type diary) http://wd3.herokuapp.com/pages/AWD00022q8  ----------
+  Hashtags: #mine #Conference 
+  5 Sep 1915 22
+    place:Gorre (19,27)
+    unit:17 Battery (29,32)
+    activity:attack (44,32)
+    unit:3 Royal Horse Artillery Brigade (39,35)
+    gridRef:F_4_C_5_6 (64,37)
+    gridRef:F_4_D_4_4 (61,40)
+    place:Annequin (46,43)
+    place:Le Quesnoy (70,45)
+    unit:71 Battery (41,48)
+  6 Sep 1915 50
+    place:Gorre (19,54)
+    activity:quiet (54,58)
+    activity:enemy_activity (34,63)
+    place:Lens (56,64)
+    place:Lille (48,65)
+  7 Sep 1915 66
+    person:Second Lieutenant J S Siggers (joined) (83,69)
+    unit:5 Brigade (60,71)
+    place:Gorre (19,71)
+    unit:5 Brigade Headquarters (60,72)
+    activity:quiet (55,75)
+    activity:enemy_activity (60,76)
+    place:Duck's Bill (59,80)
+    place:Rabbit Warren (60,86)
+Page 273 (type diary) http://wd3.herokuapp.com/pages/AWD00022t4  ----------
+  Hashtags: #mine #roadscondition 
+  8 Sep 1915 22
+    place:Gorre (20,26)
+    activity:quiet (40,26)
+  9 Sep 1915 29
+    place:Gorre (21,32)
+    activity:quiet (41,34)
+  10 Sep 1915 37
+    place:Gorre (21,42)
+  11 Sep 1915 47
+    activity:fire (34,51)
+    place:Gorre (21,52)
+  12 Sep 1915 65
+    activity:quiet (38,68)
+  13 Sep 1915 69
+    place:Gorre (20,69)
+    unit:5 Infantry Brigade (64,73)
+    place:Gorre (21,74)
+  14 Sep 1915 83
+    place:Gorre (20,88)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 21 (71,91)
+    unit:Royal Welsh Fusiliers (34,92)
+    unit:E Battery (72,96)
+Page 274 (type diary) http://wd3.herokuapp.com/pages/AWD00022ry  ----------
+  Hashtags: #mine #weaponsystems 
+  14 Sep 1915 22
+    unit:Royal Horse Artillery 71 Battery (30,26)
+    unit:E Battery (64,26)
+  15 Sep 1915 28
+    place:Gorre (20,32)
+    activity:quiet (31,32)
+    activity:quiet (40,32)
+    unit:3 Brigade Royal Horse Artillery (35,38)
+    activity:withdraw (55,38)
+    place:Beuvry (61,40)
+  16 Sep 1915 49
+    person:Second Lieutenant L L Reeves (joined) (82,53)
+    place:Gorre (20,53)
+    activity:fire (29,53)
+    activity:fire (44,54)
+    place:Willow Road (49,55)
+    person:Second Lieutenant R O Thomas (joined) (82,61)
+    activity:enemy_activity (52,61)
+    activity:attack (29,67)
+    unit:41 Brigade Royal Field Artillery (58,68)
+    person:Lieutenant Colonel Ravenhill (departed_posted) (44,70)
+    person:Lieutenant Colonel F T Ravenhill (departed_posted) (31,70)
+    unit:36 Brigade Royal Field Artillery (43,75)
+    person:Lieutenant Colonel H D O Ward (commander) (33,77)
+    place:La Bassee (31,80)
+    place:Bethune (40,80)
+  17 Sep 1915 83
+    unit:Z Group (31,84)
+    gridRef:A_9_A_6_7 (71,86)
+    activity:enemy_activity (29,86)
+    activity:enemy_activity (41,86)
+    gridRef:A_9_A_8_5 (63,87)
+    place:Gorre (20,87)
+    unit:5 Brigade (36,95)
+    unit:19 Brigade (49,95)
+Page 275 (type diary) http://wd3.herokuapp.com/pages/AWD00022q9  ----------
+  Hashtags: #aeroplane #weaponsystems 
+  18 Sep 1915 24
+    activity:fire (65,26)
+    place:Le Plantin (50,27)
+    activity:quiet (31,28)
+    place:Gorre (20,29)
+    place:La Tourbieres (52,31)
+  19 Sep 1915 38
+    place:Gorre (20,42)
+    unit:75a Battery (29,48)
+    unit:75b Battery (37,48)
+    unit:75a and 75b batteries (29,49)
+  20 Sep 1915 52
+    unit:15 Battery (28,55)
+    place:Gorre (19,55)
+    unit:71 ob (49,58)
+    unit:75b Battery (28,60)
+    place:Gorre (18,60)
+    place:Bellevue (49,64)
+    unit:75a Battery (28,66)
+    activity:attack (36,67)
+    activity:enemy_activity (50,69)
+    unit:17 Battery (46,73)
+    gridRef:A_18_A_9_4 (34,73)
+  21 Sep 1915 78
+    activity:attack (29,82)
+    place:Gorre (20,82)
+    unit:3 New Army (51,87)
+    unit:B Group (36,91)
+Page 276 (type diary) http://wd3.herokuapp.com/pages/AWD00022rc  ----------
+  Hashtags: #nightoperations 
+  21 Sep 1915 27
+    unit:15 Battery (27,27)
+    place:Lorgies (44,32)
+    place:Givenchy (51,32)
+    unit:48 Battery (27,33)
+    unit:71 Battery (28,36)
+    unit:17 Battery (26,39)
+    unit:15 Battery (26,44)
+    unit:48 (26,50)
+    unit:71 (26,54)
+    unit:17 Battery (26,62)
+    activity:fire (40,66)
+    activity:attack (40,75)
+    activity:attack (49,76)
+    place:Chapelle Saint Roch (49,83)
+    activity:attack (50,88)
+Page 277 (type diary) http://wd3.herokuapp.com/pages/AWD00022sa  ----------
+  22 Sep 1915 25
+    place:Gorre (17,28)
+    activity:fire (36,28)
+    unit:15 Battery (47,39)
+    unit:71 Battery (69,47)
+    unit:48 Battery (60,48)
+    unit:17 Battery (41,63)
+    place:Tortoise (47,66)
+    activity:attack (49,70)
+  23 Sep 1915 75
+    activity:attack (27,78)
+    place:Gorre (18,79)
+    gridRef:A_9_D_7_8 (39,82)
+    activity:enemy_activity (47,84)
+    activity:enemy_activity (53,85)
+Page 278 (type diary) http://wd3.herokuapp.com/pages/AWD00022sq  ----------
+  Hashtags: #feint 
+  23 Sep 1915 23
+    activity:fire (48,30)
+    place:Gorre (15,30)
+    place:Givenchy (40,36)
+    place:Duck's Bill (59,39)
+  24 Sep 1915 49
+    place:Gorre (19,54)
+    activity:attack (51,60)
+    unit:5 Brigade (49,72)
+    weather:rain (35,84)
+Page 279 (type diary) http://wd3.herokuapp.com/pages/AWD00022ra  ----------
+  Hashtags: #enemymorale 
+  25 Sep 1915 25
+    place:Pont Fixe (18,29)
+    activity:attack (46,34)
+    unit:Infantry (68,39)
+    activity:fire (59,45)
+    unit:Oxfords (29,47)
+    unit:Queens (53,62)
+    unit:Highland Light Infantry (42,63)
+    unit:Hli (42,64)
+    unit:Infantry (61,81)
+    unit:Queens (34,84)
+    activity:fire (45,91)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 5 (61,94)
+Page 280 (type diary) http://wd3.herokuapp.com/pages/AWD00022qm  ----------
+  Hashtags: #gas #smoke 
+  25 Sep 1915 26
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 3 (32,32)
+    place:Gorre (57,47)
+  26 Sep 1915 49
+    activity:enemy_activity (33,52)
+    place:Gorre (19,54)
+    activity:fire (42,70)
+  27 Sep 1915 74
+    activity:attack (30,78)
+    place:Gorre (18,79)
+    place:Givenchy (42,83)
+    activity:fire (32,92)
+Page 281 (type diary) http://wd3.herokuapp.com/pages/AWD00022su  ----------
+  28 Sep 1915 31
+    unit:Sirhind Brigade (30,35)
+    unit:1 Seaforth Highlanders (57,35)
+    place:Gorre (18,36)
+    unit:5 Brigade (28,43)
+    unit:19 Division R A (65,44)
+    weather:rain (51,47)
+  29 Sep 1915 48
+    activity:quiet (38,48)
+    activity:quiet (41,53)
+    place:Gorre (19,53)
+    place:Champagne (43,62)
+  30 Sep 1915 65
+    unit:19 Division (30,69)
+    place:Gorre (18,69)
+    unit:58 Brigade (52,70)
+    unit:6 Brigade (56,71)
+Page 282 (type cover)
+Page 283 (type diary) http://wd3.herokuapp.com/pages/AWD00022rt  ----------
+  1 Oct 1915 42
+    unit:Bereilly Brigade (31,44)
+    unit:Sirhind Brigade (54,44)
+    place:Gorre (20,45)
+    unit:9 Brigade Royal Field Artillery meerut Division (39,48)
+    unit: (33,58)
+    unit:50 Brigade (38,64)
+Page 284 (type diary) http://wd3.herokuapp.com/pages/AWD00022s8  ----------
+  Hashtags: #observation 
+  2 Oct 1915 24
+    unit:9 Brigade Royal Field Artillery (29,28)
+    place:Gorre (18,28)
+    unit:9 Brigade (29,29)
+    activity:movement (59,33)
+    unit:50 Brigade (54,38)
+    unit:50 Brigade Royal Field Artillery 9 Division (55,39)
+    unit:28 Division Artillery (45,57)
+    unit:5 iF Brigade (35,70)
+    unit:48 iF Brigade (29,72)
+    unit:71 iF Brigade (31,75)
+  3 Oct 1915 76
+    place:Pont Fixe (17,78)
+    activity:attack (34,90)
+Page 285 (type diary) http://wd3.herokuapp.com/pages/AWD00022qt  ----------
+  3 Oct 1915 22
+    activity:fire (57,27)
+    place:Hulloch Road (37,28)
+  4 Oct 1915 34
+    place:Pont Fixe (20,35)
+    activity:fire (31,35)
+    unit:15 Battery (29,40)
+    unit:71 Battery (38,40)
+    unit:15 Battery (68,42)
+    activity:attack (37,46)
+    activity:attack (68,47)
+    activity:enemy_activity (46,48)
+    gridRef:G_5_A_3_5 (31,49)
+    unit:15 Battery (49,50)
+    unit:71 Battery (59,50)
+    place:Fosse Trench (56,53)
+    place:North Face (61,55)
+    place:Little Willie (42,57)
+    activity:attack (53,61)
+  5 Oct 1915 70
+    person:Second Lieutenant B B Murdoch (joined) (80,73)
+    unit:15 Battery (29,73)
+    unit:71 Battery (38,73)
+    place:Pont Fixe (19,74)
+    activity:attack (36,75)
+    weather:fog (70,78)
+    weather:rain (55,79)
+    weather:rain (32,80)
+    person:Second Lieutenant N H Wiggin (departed_posted) (79,81)
+    person:Second Lieutenant R O Thomas (departed_posted) (80,86)
+    unit:2 Guards Brigade (45,91)
+    place:Quarries (46,94)
+    place:Mad Point (62,94)
+Page 286 (type diary) http://wd3.herokuapp.com/pages/AWD00022rj  ----------
+  Hashtags: #prisoners #friendlyfire 
+  6 Oct 1915 23
+    unit:15 Battery (40,26)
+    unit:71 Battery (49,26)
+    place:Pont Fixe (6,26)
+    unit:48 Battery (82,27)
+    unit:15 Battery (76,28)
+    activity:attack (37,28)
+    unit:48 Battery (71,31)
+    unit:15 Battery (76,33)
+    unit:15 Battery (55,35)
+    unit:41 Brigade (67,40)
+    unit:48 Battery (47,41)
+    person:Major E W M Powell (departed_posted) (27,42)
+  7 Oct 1915 44
+    weather:fog (23,45)
+    place:Vermelles (69,46)
+    place:Pont Fixe (6,47)
+    place:Fosse 8 (73,51)
+    unit:28 Division ra (78,52)
+    activity:attack (32,53)
+    unit:36 Brigade (22,54)
+    unit:28 Division Royal Artillery (81,54)
+    activity:attack (23,55)
+  8 Oct 1915 61
+    activity:fire (27,62)
+    place:Givenchy (64,62)
+    place:Pont Fixe (6,65)
+    place:Vermelles (60,70)
+    activity:attack (26,76)
+  9 Oct 1915 85
+    weather:fog (81,85)
+    place:Pont Fixe (7,90)
+    activity:attack (35,91)
+Page 287 (type diary) http://wd3.herokuapp.com/pages/AWD00022pz  ----------
+  Hashtags: #aeroplane #prisoners 
+  10 Oct 1915 23
+    weather:fine (46,24)
+    activity:quiet (24,24)
+    activity:enemy_activity (64,24)
+    place:Pont Fixe (6,25)
+  11 Oct 1915 30
+    activity:enemy_activity (71,30)
+    place:Pont Fixe (6,31)
+    place:Noyelles (47,33)
+    activity:enemy_activity (75,46)
+  12 Oct 1915 55
+    weather:hot (25,57)
+    place:Pont Fixe (6,59)
+    activity:enemy_activity (33,62)
+  13 Oct 1915 69
+    weather:fine (24,70)
+    activity:attack (68,71)
+    place:Pont Fixe (6,72)
+    place:Quarries (52,74)
+    activity:attack (25,79)
+    activity:fire (78,81)
+Page 288 (type diary) http://wd3.herokuapp.com/pages/AWD00022q6  ----------
+  Hashtags: #smoke #gas 
+  13 Oct 1915 23
+    place:Neuve Chapelle (25,39)
+    activity:enemy_activity (60,52)
+    unit:71Battery (48,66)
+  14 Oct 1915 79
+    activity:enemy_activity (39,81)
+    place:Vermelles (27,85)
+    place:Pont Fixe (7,85)
+Page 289 (type diary) http://wd3.herokuapp.com/pages/AWD00022qq  ----------
+  Hashtags: #friendlyfire 
+  15 Oct 1915 22
+    weather:fog (24,25)
+    place:Pont Fixe (6,26)
+  16 Oct 1915 35
+    place:Pont Fixe (5,38)
+    unit:Guards Division (30,38)
+    unit:46 Division (53,38)
+  17 Oct 1915 50
+    activity:attack (29,53)
+    place:Pont Fixe (6,58)
+    unit:28 Division Artillery (23,61)
+    unit:3 Brigade (69,73)
+Page 290 (type diary) http://wd3.herokuapp.com/pages/AWD00022sy  ----------
+  18 Oct 1915 22
+    unit:2 Guards Brigade (27,25)
+    unit:3 Guards Brigade (38,25)
+    place:Pont Fixe (7,25)
+    place:Hohenzollern Redoubt (46,27)
+    activity:attack (30,30)
+    activity:attack (28,36)
+  19 Oct 1915 39
+    unit:Essex (41,42)
+    place:Pont Fixe (6,43)
+  20 Oct 1915 48
+    unit:62 Brigade (26,51)
+    unit:62 Brigade, 12 Division (31,51)
+    unit:36 Brigade (45,51)
+    place:Pont Fixe (6,53)
+    unit:12 Division artillery (66,55)
+    place:Vermelles (48,57)
+    activity:movement (32,58)
+    unit:31 Brigade (30,62)
+    place:Tourbieres (33,65)
+    unit:41 Brigade (64,67)
+    unit:36 Brigade (74,67)
+    unit:31 Brigade (38,68)
+    unit:Z Group (41 Brigade) (48,69)
+    unit:48 Battery (44,76)
+    place:Bethune (31,77)
+  21 Oct 1915 80
+    person:Captain Griffith (departed_leave) (66,83)
+    person:Captain Marriner (departed_leave) (43,83)
+    person:Colonel Ward (departed_leave) (28,84)
+    place:Bethune (5,84)
+Page 291 (type diary) http://wd3.herokuapp.com/pages/AWD00022s3  ----------
+  Hashtags: #king 
+  22 Oct 1915 21
+  23 Oct 1915 25
+    place:Bethune (7,25)
+    activity:resting (22,25)
+    place:Bethune (4,29)
+  24 Oct 1915 30
+    activity:resting (22,30)
+    place:Bethune (5,34)
+    activity:resting (23,35)
+  25 Oct 1915 36
+    place:Bethune (5,40)
+    activity:resting (23,41)
+  26 Oct 1915 43
+    place:Bethune (5,47)
+    person:Major R H Powell (departed_leave) (54,47)
+    person:Second Lieutenant B B Murdoch (departed_leave) (69,47)
+    activity:resting (23,47)
+  27 Oct 1915 50
+    place:Bethune (5,54)
+    activity:resting (23,55)
+  28 Oct 1915 56
+    place:Bethune (5,59)
+  29 Oct 1915 60
+    place:Bethune (5,64)
+    person:Colonel H D O Ward (returned_leave) (32,64)
+    person:Captain Marriner (returned_leave) (52,64)
+    person:Captain Griffith (returned_leave) (69,64)
+  30 Oct 1915 67
+    place:Bethune (5,70)
+  31 Oct 1915 72
+    activity:resting (23,72)
+    place:Bethune (5,76)
+    activity:resting (23,77)
+Page 292 (type cover)
+Page 293 (type diary) http://wd3.herokuapp.com/pages/AWD00022sn  ----------
+  1 Nov 1915 21
+    place:Bethune (5,25)
+  2 Nov 1915 27
+  3 Nov 1915 30
+  4 Nov 1915 33
+  5 Nov 1915 37
+  6 Nov 1915 40
+  7 Nov 1915 43
+  8 Nov 1915 46
+  9 Nov 1915 48
+  10 Nov 1915 50
+    place:Bethune (5,51)
+  11 Nov 1915 54
+    place:Bethune (5,54)
+    place:Bethune (6,57)
+  13 Nov 1915 60
+  14 Nov 1915 62
+  15 Nov 1915 65
+  16 Nov 1915 67
+  17 Nov 1915 71
+  19 Nov 1915 75
+  20 Nov 1915 78
+  21 Nov 1915 79
+    place:Bethune (4,80)
+    unit:12 Battery 7 Division (36,82)
+    activity:movement (25,82)
+    place:Bethune (6,82)
+  22 Nov 1915 84
+    unit:34 Brigade Royal Field Artillery (61,84)
+    place:Bethune (6,86)
+    unit:5 Brigade (59,87)
+Page 294 (type diary) http://wd3.herokuapp.com/pages/AWD00022rm  ----------
+  Hashtags: #aeroplane #signalling #mine 
+  23 Nov 1915 21
+    unit:50, 70, 56 (76,25)
+    place:Cambrin (8,25)
+    activity:attack (31,28)
+    unit:45 (55,30)
+    activity:movement (49,35)
+  24 Nov 1915 37
+    place:Cambrin (7,41)
+    activity:fire (42,41)
+    activity:attack (55,42)
+    activity:movement (35,45)
+  25 Nov 1915 50
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (65,54)
+    unit:South Staffordshire Regiment (79,54)
+    place:Cambrin (7,54)
+    activity:enemy_activity (34,57)
+  26 Nov 1915 61
+    place:Douvrin (25,61)
+    weather:cold (27,65)
+    place:Cambrin (7,65)
+    activity:enemy_activity (37,76)
+  27 Nov 1915 77
+    activity:enemy_activity (42,81)
+    place:Cambrin (7,82)
+    activity:enemy_activity (49,83)
+    activity:attack (41,89)
+Page 295 (type diary) http://wd3.herokuapp.com/pages/AWD00022t3  ----------
+  28 Nov 1915 21
+    activity:attack (27,24)
+    place:Cambrin (7,25)
+    weather:cold (41,32)
+  29 Nov 1915 33
+    place:Cambrin (6,38)
+    activity:attack (29,38)
+  30 Nov 1915 44
+    activity:fire (25,48)
+    place:Cambrin (7,50)
+Page 296 (type cover)
+Page 297 (type diary) http://wd3.herokuapp.com/pages/AWD00022s4  ----------
+  Hashtags: #deserters #aeroplane #mine 
+  1 Dec 1915 21
+    weather:fine (24,24)
+    activity:enemy_activity (47,26)
+    place:Cambrin (6,26)
+    activity:attack (40,34)
+  2 Dec 1915 35
+    activity:attack (26,38)
+    place:Cambrin (6,40)
+    unit:15 Division Artillery (54,52)
+    activity:fire (29,62)
+  3 Dec 1915 63
+    weather:fog (47,67)
+    weather:rain (23,68)
+    place:Cambrin (6,68)
+    unit:16 Battery (45,74)
+    person:Captain B L Marriner (42,80)
+    person:Captain B L Marriner (50,81)
+Page 298 (type diary) http://wd3.herokuapp.com/pages/AWD00022s9  ----------
+  Hashtags: #weaponsdestroyed #deserter 
+  4 Dec 1915 21
+    unit:7 mountain Battery (48,24)
+    activity:quiet (22,24)
+    place:Cambrin (5,25)
+  5 Dec 1915 27
+    unit:1 Corps (24,28)
+    activity:fire (33,31)
+    place:Cambrin (7,31)
+  6 Dec 1915 44
+    place:Annequin (39,44)
+    unit:12 Division Artillery (31,49)
+    place:Cambrin (5,50)
+    activity:enemy_activity (60,54)
+    place:Canteleux (56,57)
+    place:La Bassee (81,59)
+    unit:71 Battery (67,67)
+  7 Dec 1915 72
+    activity:fire (27,77)
+    place:Cambrin (6,77)
+    unit:2 / H.L.I. (48,81)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (58,83)
+Page 299 (type diary) http://wd3.herokuapp.com/pages/AWD00022ri  ----------
+  Hashtags: #infantry #friendlyfire 
+  8 Dec 1915 21
+    place:Cambrin (7,25)
+    weather:fine (70,35)
+    activity:quiet (54,39)
+  9 Dec 1915 41
+    place:Cambrin (6,45)
+  10 Dec 1915 65
+    activity:enemy_activity (38,73)
+    activity:attack (48,79)
+  11 Dec 1915 80
+    place:Cambrin (6,84)
+Page 300 (type diary) http://wd3.herokuapp.com/pages/AWD00022rp  ----------
+  12 Dec 1915 22
+    place:Cambrin (6,26)
+    activity:enemy_activity (26,26)
+  13 Dec 1915 31
+    activity:enemy_activity (56,34)
+    weather:fine (24,35)
+    place:Cambrin (7,36)
+  14 Dec 1915 45
+    activity:attack (57,48)
+    place:Cambrin (6,50)
+    activity:enemy_activity (31,50)
+  15 Dec 1915 58
+    place:Cambrin (7,63)
+    activity:attack (32,64)
+    unit:16 Battery (46,72)
+    unit:50 Battery (33,74)
+Page 301 (type diary) http://wd3.herokuapp.com/pages/AWD00022qf  ----------
+  Hashtags: #gas 
+  16 Dec 1915 22
+    activity:quiet (20,25)
+    place:Cambrin (5,25)
+  17 Dec 1915 26
+    weather:rain (23,31)
+    place:Cambrin (5,32)
+    activity:fire (39,33)
+  18 Dec 1915 36
+    activity:fire (26,40)
+    place:Cambrin (5,41)
+    unit:5 Infantry Brigade (42,48)
+    activity:enemy_activity (35,54)
+  19 Dec 1915 61
+    activity:attack (35,65)
+    place:Cambrin (5,66)
+  20 Dec 1915 70
+    place:Cambrin (6,75)
+    activity:enemy_activity (35,84)
+Page 302 (type diary) http://wd3.herokuapp.com/pages/AWD00022pp  ----------
+  Hashtags: #gas 
+  21 Dec 1915 21
+    weather:rain (22,24)
+    place:Cambrin (7,25)
+    place:Pont Fixe (36,28)
+    activity:enemy_activity (54,42)
+    activity:enemy_activity (38,44)
+    unit:2 hli (57,51)
+    unit:Glasgow Highlanders (72,51)
+    unit:2 H L I (55,53)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,66)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (78,66)
+    casualties:died: 0; killed: 1; missing: 0; prisoner: 0; sick: 0; wounded: 1 (51,68)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (37,73)
+    activity:fire (57,78)
+  22 Dec 1915 81
+    place:Givenchy (75,84)
+    unit:12 Division (26,85)
+    place:Cambrin (6,86)
+    activity:enemy_activity (40,89)
+    place:Pont Fixe (71,93)
+Page 303 (type diary) http://wd3.herokuapp.com/pages/AWD00022rx  ----------
+  Hashtags: #christmas #friendlyfire #gas #infantry 
+  22 Dec 1915 23
+    unit:71 Battery (25,24)
+    unit:50 Battery (34,24)
+  23 Dec 1915 32
+    place:Cambrin (7,37)
+    place:Cowl House (70,42)
+    place:Kingsclere (51,43)
+  24 Dec 1915 50
+    activity:attack (26,54)
+    place:Auchy (32,55)
+    place:Cambrin (6,55)
+    place:La Bassee (82,60)
+    unit:12 & 15 Howitzers (29,64)
+  25 Dec 1915 82
+    place:Cambrin (7,87)
+    place:Annequin (26,90)
+Page 304 (type diary) http://wd3.herokuapp.com/pages/AWD00022t6  ----------
+  Hashtags: #directhit #aeroplane #roadscondition #roaadscondition 
+  26 Dec 1915 21
+    place:Cambrin (8,25)
+    activity:fire (45,27)
+    unit:33 Division ra (42,33)
+  27 Dec 1915 34
+    activity:fire (39,41)
+  28 Dec 1915 57
+    unit:98 Infantry Brigade (26,61)
+    unit:5 Infantry Brigade (70,61)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (75,77)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 2 (67,77)
+    person:Lieutenant B B Murdoch (casualty_wounded) (32,82)
+Page 305 (type diary) http://wd3.herokuapp.com/pages/AWD00022qi  ----------
+  Hashtags: #aeroplane #mine #newyear #FRIENDLYFIRE 
+  29 Dec 1915 22
+    activity:quiet (43,24)
+    place:Cambrin (6,26)
+    weather:fog (28,27)
+  30 Dec 1915 29
+    place:Cambrin (6,32)
+    unit:47 Division (79,37)
+    place:La Bassee (45,38)
+    activity:attack (61,40)
+  31 Dec 1915 47
+    activity:attack (30,50)
+    place:Cambrin (6,50)
+    place:Canteleux (40,55)
+    activity:enemy_activity (67,73)

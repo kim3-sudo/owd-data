@@ -1,0 +1,902 @@
+GWD00000pf wo/95/1127/1
+2 CAVALRY DIVISION:  Divisional Troops: 9 Mobile Veterinary Section.  
+124 pages
+
+Page 1 (type cover)
+Page 2 (type cover)
+Page 3 (type cover)
+Page 4 (type cover)
+Page 5 (type cover)
+Page 6 (type cover)
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4r  ----------
+  1 Oct 1914 0
+    place:Vauxcere (61,36)
+    unit:4 Cavalry (48,37)
+    place:Vauxcere (61,43)
+    activity:movement (56,43)
+    place:Saint Remy (51,45)
+    place:Blanzy (57,45)
+    place:Bazooches (49,47)
+    place:Branges (54,47)
+    activity:movement (49,67)
+    place:Notre Dame (50,69)
+  5 Oct 1914 70
+    time:1030AM (58,74)
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5c  ----------
+  5 Oct 1914 0
+    place:Mont Notre Dame (60,33)
+    place:Notre Dame (61,38)
+    place:Saint Remy (49,44)
+    activity:movement (43,44)
+    place:Crepy En Valois (50,48)
+  6 Oct 1914 51
+    place:Saint Remy (44,52)
+    activity:movement (45,54)
+    place:Estrees Saint Denis (53,58)
+    time:0300PM (50,59)
+    place:Bethisy (43,61)
+  7 Oct 1914 64
+    activity:movement (44,67)
+    place:Grivesnes (54,69)
+  8 Oct 1914 71
+    place:Bertrangles (58,74)
+  9 Oct 1914 75
+Page 9 (type diary) http://wd3.herokuapp.com/pages/AWD0003l45  ----------
+  9 Oct 1914 0
+    person:Sergeant Haiman (commander) (45,33)
+    place:Amiens (48,35)
+  10 Oct 1914 38
+    unit:4 Brigade (58,38)
+    place:Frivent (45,38)
+  11 Oct 1914 40
+    activity:movement (45,40)
+    place:Magnicourt (52,40)
+  12 Oct 1914 42
+    place:Haverskerque (51,42)
+  13 Oct 1914 44
+    place:Haverskerque (52,44)
+  14 Oct 1914 45
+    place:Haverskerque (51,48)
+  15 Oct 1914 49
+    activity:movement (45,49)
+    place:La Clytte (59,49)
+    time:0800PM (49,50)
+    activity:movement (52,53)
+    place:Reninghelst (56,53)
+  16 Oct 1914 55
+    place:La Clytte (46,55)
+  17 Oct 1914 59
+    activity:movement (45,59)
+    place:Kemmel (54,59)
+    place:Kemmel (50,61)
+    unit:4 Cavalry Brigade (46,63)
+  18 Oct 1914 68
+    place:Kemmel (54,73)
+    place:Messines (55,76)
+  19 Oct 1914 77
+    time:0730AM (47,80)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD0003l35  ----------
+  19 Oct 1914 27
+    place:Strazeele (52,46)
+  20 Oct 1914 51
+    place:Messines (55,54)
+    person:Sergeant Dale (other) (59,56)
+    place:Messines (43,61)
+    place:Wytschaete (47,64)
+    unit:2 Cavalry (54,67)
+    time:0530PM (62,84)
+    place:Strazeele (51,84)
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD0003l36  ----------
+  21 Oct 1914 31
+    place:Kemmel (61,34)
+  22 Oct 1914 35
+    place:Strazeele (51,63)
+    place:Merville (44,67)
+  23 Oct 1914 72
+    place:Rouen (51,79)
+    place:Kemmel (46,82)
+Page 12 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3k  ----------
+  25 Oct 1914 31
+    place:Kemmel (48,31)
+  27 Oct 1914 33
+    place:Kemmel (49,33)
+  28 Oct 1914 35
+    place:Kemmel (45,35)
+    place:Ypres (50,53)
+    place:La Clytte (44,60)
+    unit:Composite Regiment (45,76)
+    place:Abbeville (53,79)
+Page 13 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4e  ----------
+  28 Oct 1914 24
+    place:Kemmel (55,35)
+  29 Oct 1914 36
+  30 Oct 1914 39
+    place:Kemmel (46,39)
+    person:Sergeant Harman (commander) (52,40)
+    unit:2 Cavalryy Divisl Ammunition Col (57,43)
+    unit:Lahore Division (54,44)
+    unit:5 Cavalryy hq (64,44)
+    place:Kemmel (48,46)
+    unit:B Echelon 4 Cavy Brigade (61,48)
+    activity:movement (54,50)
+  31 Oct 1914 51
+  1 Nov 1914 53
+    place:La Clytte (51,53)
+    unit:4 Cavy Brigade (59,56)
+    unit:3 Hussars (55,60)
+    unit:6 Dragoon Guards (53,61)
+    unit:2 Cavalry Division Ammunition Col (49,62)
+    unit:26 heavy Battery rga (53,65)
+    unit:Lahore Division (49,67)
+  2 Nov 1914 69
+    place:Locre (61,69)
+    place:La Clytte (51,71)
+Page 14 (type cover)
+Page 15 (type cover)
+Page 16 (type diary) http://wd3.herokuapp.com/pages/AWD0003l49  ----------
+  2 Nov 1914 29
+    place:La Clytte (61,41)
+  3 Nov 1914 44
+    place:Bailleul (48,44)
+    place:Bailleul (52,47)
+  4 Nov 1914 55
+    place:Bailleul (54,64)
+    unit:Composite Regiment (62,65)
+    unit:21 Lancers (43,69)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5n  ----------
+  5 Nov 1914 27
+    place:Bailleul (54,33)
+  6 Nov 1914 36
+    place:Bailleul (54,39)
+  8 Nov 1914 42
+    person:Private Lewis (departed_sick) (50,45)
+  9 Nov 1914 46
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (52,46)
+    place:Bailleul (61,49)
+    person:Sergeant Dale (other) (62,51)
+    unit:3 Hussars (52,58)
+  10 Nov 1914 66
+    place:Bailleul (56,66)
+    activity:resting (45,69)
+    place:Bailleul (45,70)
+  11 Nov 1914 71
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD0003l2z  ----------
+  11 Nov 1914 0
+  9 Nov 1914 48
+    person:Major J R Kirby (commander) (58,61)
+  10 Nov 1914 62
+    place:Hazebrouck (61,72)
+Page 19 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4o  ----------
+  10 Nov 1914 0
+    place:Hazebrouck (52,32)
+  11 Nov 1914 35
+    person:Major F W Hunt (commander) (56,35)
+    place:Bailleul (56,45)
+    unit:Composite Regiment (45,49)
+    unit:6 Dragoon Guards (47,51)
+    unit:3 Hussars (49,53)
+    place:Abbeville (44,66)
+  12 Nov 1914 67
+  13 Nov 1914 69
+    activity:resting (44,69)
+    place:Neuve-Eglise (44,73)
+    place:Dranoutre (53,74)
+    domestic:accomodation (50,77)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4c  ----------
+  13 Nov 1914 31
+    person:Private Carnell (other) (51,34)
+    person:Private Curran (other) (56,34)
+  14 Nov 1914 37
+    place:Dranoutre (53,40)
+    place:Bailleul (54,43)
+    place:Locre (58,43)
+    person:General Bingham (other) (55,46)
+    place:Bailleul (61,47)
+  15 Nov 1914 61
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD0003l42  ----------
+  15 Nov 1914 0
+  17 Nov 1914 70
+    place:Blanche-Maison (53,70)
+    domestic:accomodation (48,71)
+    domestic:accomodation (53,72)
+    place:Blanche-Maison (56,72)
+    activity:enemy_activity (49,74)
+  18 Nov 1914 77
+    place:Blanche-Maison (44,80)
+Page 22 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3j  ----------
+  18 Nov 1914 0
+    activity:fire (45,30)
+  19 Nov 1914 33
+    activity:other (53,36)
+    person:Sergeant Harman (60,66)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3t  ----------
+  19 Nov 1914 25
+    weather:cold (43,31)
+  20 Nov 1914 40
+    weather:cold (48,44)
+    unit:Oxford Hussars (52,47)
+    unit:Q. O. Oxfordshire Hussars (53,47)
+  21 Nov 1914 66
+    domestic:accomodation (45,74)
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD0003l32  ----------
+  23 Nov 1914 30
+    weather:cold (52,30)
+  24 Nov 1914 33
+    domestic:inspections (51,37)
+    domestic:uniform (46,42)
+    unit:Base depot avc (57,51)
+  25 Nov 1914 56
+    activity:training (53,59)
+  30 Nov 1914 63
+    activity:training (50,63)
+    person:Captain Simpson (departed_leave) (48,67)
+Page 25 (type cover)
+Page 26 (type cover)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3u  ----------
+  1 Dec 1914 26
+    activity:training (44,30)
+  2 Dec 1914 31
+    domestic:inspections (56,34)
+    unit:6 Dragoon Guards (49,39)
+  4 Dec 1914 44
+    activity:training (46,44)
+    domestic:inspections (48,44)
+  5 Dec 1914 46
+    person:Captain Simpson (returned_leave) (47,47)
+  7 Dec 1914 48
+    domestic:accomodation (52,48)
+    activity:other (45,51)
+  10 Dec 1914 57
+    domestic:accomodation (47,61)
+  14 Dec 1914 64
+    domestic:inspections (60,67)
+    place:Pont-de-Briques (54,76)
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5e  ----------
+  14 Dec 1914 28
+    unit:6 Dragoon Guards (51,32)
+    unit:3 Hussars (48,33)
+    unit:Q. O. Oxford. Hussars (50,35)
+    person:Corporal Evans (other) (44,40)
+Page 29 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5m  ----------
+  14 Dec 1914 0
+  15 Dec 1914 35
+  17 Dec 1914 40
+    person:Corporal Evans (other) (45,40)
+  19 Dec 1914 43
+  21 Dec 1914 46
+    person:Captain Simpson (commander) (49,49)
+    person:Captain O S Fisher (other) (51,50)
+    person:Captain Simpson (commander) (60,53)
+  25 Dec 1914 60
+  26 Dec 1914 63
+    domestic:sport (45,63)
+    unit:4 Cavy Field Ambulance (60,66)
+    person:Captain Simpson (other) (47,66)
+    domestic:inspections (51,66)
+  28 Dec 1914 69
+    unit:4 Signal Sq. R. E. (51,70)
+    domestic:inspections (46,70)
+  29 Dec 1914 71
+    unit:4 Cavalry Brigade hq (55,71)
+    domestic:inspections (49,71)
+    unit:3 Hussars (62,74)
+    place:Bailleul (56,75)
+    unit:3 Hussars (49,78)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5b  ----------
+  29 Dec 1914 24
+    place:Pont de Briques (60,36)
+    person:Sergeant S Harman (promotion) (47,51)
+    place:Abbeville (57,53)
+    person:Lance Sergeant Leonard F Hare (promotion) (47,57)
+    person:King (promotion) (47,64)
+  30 Dec 1914 66
+    place:Neufchatel (52,72)
+  31 Dec 1914 73
+Page 31 (type cover)
+Page 32 (type diary) http://wd3.herokuapp.com/pages/AWD0003l65  ----------
+  31 Dec 1914 0
+  1 Jan 1915 29
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (40,44)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD0003l39  ----------
+  2 Jan 1915 24
+    unit:8 Veterinary Hospital (60,30)
+    unit:7 Veterinary Hospital (56,31)
+    place:Forges-les-Eaux (40,32)
+    person:Captain McKenzie (commander) (54,36)
+    person:Brigadier General H B Williams (commander) (30,43)
+    place:Havre (40,46)
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5p  ----------
+  3 Jan 1915 24
+    activity:movement (33,28)
+    unit:2 Cavalry (54,29)
+    unit:2 Cavalry Division (49,29)
+  4 Jan 1915 31
+    activity:movement (38,34)
+    place:Rouen (62,35)
+  5 Jan 1915 37
+    activity:movement (33,37)
+    place:Boulogne (58,41)
+  6 Jan 1915 42
+    unit:4 Cavalry (63,47)
+    place:Bailleul (55,49)
+    unit:9 Mobile Veterinary Section (34,51)
+    person:Captain Simpson (other) (39,54)
+  7 Jan 1915 55
+    domestic:accomodation (37,59)
+  8 Jan 1915 68
+  9 Jan 1915 74
+    person:Major Hunt (other) (37,74)
+    place:Roquetoire (43,79)
+    place:Neufchatel (55,81)
+Page 35 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5o  ----------
+  10 Jan 1915 24
+    activity:movement (29,27)
+    unit:3 Hussars (34,31)
+    unit:5 Cavalry Brigade (54,34)
+  11 Jan 1915 38
+  12 Jan 1915 55
+    unit:27 reserve train asc (64,60)
+    place:Saint Omer (51,65)
+  13 Jan 1915 75
+    place:Neufchatel (51,80)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD0003l33  ----------
+  14 Jan 1915 26
+  21 Jan 1915 40
+    unit:Advs (33,43)
+    unit:4 Cavalry Brigade Field Ambulance (59,45)
+  24 Jan 1915 51
+    place:Neufchatel (68,55)
+    unit:8 Reserve Park (47,55)
+  25 Jan 1915 58
+    unit:Advs (35,63)
+    place:Saint Omer (55,64)
+    unit:3 Hussars (62,70)
+    unit:Oxford Yeomanry (52,72)
+    unit:2 Cavalry Field Ambulance (68,73)
+  26 Jan 1915 74
+    unit:Advs (65,79)
+    domestic:inspections (44,82)
+    unit:Oxfordshire Hussars (61,82)
+Page 37 (type diary) http://wd3.herokuapp.com/pages/AWD0003l46  ----------
+  28 Jan 1915 24
+    unit:6 Dragoon Guards (56,31)
+  30 Jan 1915 37
+    place:Bailleul (33,46)
+    unit:Oxfordshire Hussars (67,50)
+  31 Jan 1915 59
+    unit:3 Hussars (47,63)
+    place:Neufchatel (42,68)
+Page 38 (type cover)
+Page 39 (type diary) http://wd3.herokuapp.com/pages/AWD0003l59  ----------
+  22 Feb 1915 52
+    person:Captain Fisher (other) (50,55)
+  23 Feb 1915 58
+    person:Captain Fisher (other) (52,61)
+  24 Feb 1915 67
+    person:Captain Fisher (departed_posted) (55,71)
+Page 40 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4z  ----------
+  25 Feb 1915 4
+  26 Feb 1915 49
+    unit:Brigade hq (57,56)
+    unit:J Battery (62,57)
+    unit:Vi d gs (dragoon guards) (40,58)
+    unit:3 H (Hussars) (46,59)
+Page 41 (type diary) http://wd3.herokuapp.com/pages/AWD0003l69  ----------
+  27 Feb 1915 5
+    activity:movement (40,13)
+    place:Coubronne (57,38)
+    unit:3 Hussars (43,41)
+    unit:Carabiniers (6 Dragoon Guards) (54,42)
+    domestic:accomodation (40,53)
+Page 42 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4a  ----------
+  28 Feb 1915 29
+    domestic:accomodation (50,35)
+    place:Islinghem (41,37)
+    person:Lieutenant C Davenport (author) (54,61)
+Page 43 (type diary) http://wd3.herokuapp.com/pages/AWD0003l34  ----------
+  28 Feb 1915 0
+  2 Mar 1915 25
+    activity:other (15,32)
+    weather:fine (68,33)
+    person:Major Hunt (other) (60,54)
+    domestic:other (61,63)
+Page 44 (type diary) http://wd3.herokuapp.com/pages/AWD0003l64  ----------
+  3 Mar 1915 20
+  4 Mar 1915 24
+    weather:overcast (23,30)
+    weather:overcast (61,32)
+    activity:other (25,36)
+    person:Major Hunt (other) (74,37)
+    unit:Echelon B 4 C.F.A. (38,43)
+    unit:2 cd asc (73,50)
+    domestic:inspections (59,50)
+    unit:3 Hussars (33,52)
+    activity:other (55,56)
+    person:Lieutenant C Davenport (author) (34,69)
+Page 45 (type diary) http://wd3.herokuapp.com/pages/AWD0003l67  ----------
+  5 Mar 1915 14
+  6 Mar 1915 26
+    activity:other (19,28)
+    activity:other (60,32)
+    domestic:other (16,32)
+    weather:rain (83,34)
+    weather:overcast (20,38)
+    domestic:sport (79,47)
+    unit:31 Hussars (65,65)
+Page 46 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3d  ----------
+  7 Mar 1915 14
+    activity:other (61,30)
+    activity:other (35,33)
+    weather:rain (18,33)
+    domestic:discipline (75,36)
+    unit:Carabiniers (6 Dragoon Guards) (36,37)
+    domestic:inspections (72,49)
+Page 47 (type diary) http://wd3.herokuapp.com/pages/AWD0003l37  ----------
+  9 Mar 1915 22
+  10 Mar 1915 92
+    weather:fine (24,29)
+    time:0800AM (76,30)
+    time:0700AM (23,33)
+    time:0830AM (80,33)
+    activity:movement (68,33)
+    activity:other (25,36)
+    time:0930AM (18,42)
+    unit:Carabiniers (6 Dragoon Guards) (30,48)
+    place:Bleu (69,60)
+    time:1200PM (30,62)
+    place:Wizernes (40,62)
+    activity:movement (19,64)
+    domestic:accomodation (62,87)
+Page 48 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5q  ----------
+  11 Mar 1915 17
+    unit:J Battery (16,57)
+    unit:Carabiniers (6 Dragoon Guards) (35,64)
+Page 49 (type diary) http://wd3.herokuapp.com/pages/AWD0003l63  ----------
+  11 Mar 1915 0
+Page 50 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3a  ----------
+  15 Mar 1915 16
+    activity:other (14,28)
+    unit:3 Hussars (38,38)
+    unit:4 Hussars (82,53)
+    unit:Oxford Hussars (82,59)
+    unit:3 Hussars (76,65)
+    domestic:inspections (19,73)
+  16 Mar 1915 93
+    place:Woolwich (41,93)
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD0003l30  ----------
+  16 Mar 1915 17
+    weather:fine (60,28)
+    activity:other (61,33)
+Page 52 (type diary) http://wd3.herokuapp.com/pages/AWD0003l43  ----------
+  18 Mar 1915 15
+    weather:overcast (21,30)
+    weather:cold (60,32)
+    domestic:inspections (23,66)
+Page 53 (type diary) http://wd3.herokuapp.com/pages/AWD0003l6a  ----------
+  20 Mar 1915 14
+    weather:fine (19,28)
+    person:Major Hunt (other) (19,34)
+    activity:other (64,38)
+Page 54 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3m  ----------
+  21 Mar 1915 0
+  22 Mar 1915 14
+    activity:movement (57,27)
+    weather:fine (16,28)
+    place:Borre (61,31)
+    place:Steenwerck (70,37)
+    unit:Vi dragoon guards (19,51)
+    unit:4 Hussars (22,57)
+    unit:3 Hussars (39,58)
+    unit:No 6 mvs (81,64)
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4n  ----------
+  24 Mar 1915 20
+    domestic:accomodation (28,31)
+    weather:rain (60,31)
+    activity:other (74,33)
+    domestic:other (57,45)
+    weather:rain (29,47)
+    unit:Advance Base Vety Stores (17,90)
+Page 56 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4l  ----------
+  26 Mar 1915 13
+    weather:fine (57,31)
+    activity:other (60,37)
+    person:Major Hunt (other) (24,43)
+    activity:training (65,44)
+    domestic:inspections (36,44)
+Page 57 (type diary) http://wd3.herokuapp.com/pages/AWD0003l41  ----------
+  28 Mar 1915 18
+    weather:fine (17,27)
+    weather:fine (56,31)
+    activity:other (19,33)
+    activity:other (60,35)
+    activity:training (61,46)
+Page 58 (type diary) http://wd3.herokuapp.com/pages/AWD0003l6e  ----------
+  30 Mar 1915 12
+    weather:fine (22,30)
+    activity:other (21,35)
+    activity:other (63,40)
+    domestic:inspections (23,41)
+Page 59 (type cover)
+Page 60 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4x  ----------
+  1 Apr 1915 13
+    weather:fine (23,32)
+    weather:fine (72,33)
+    activity:other (22,37)
+    activity:other (69,38)
+Page 61 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4s  ----------
+  3 Apr 1915 21
+    person:Private Davies (joined) (18,30)
+    weather:rain (61,31)
+    weather:rain (22,34)
+    activity:other (64,37)
+Page 62 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3w  ----------
+  5 Apr 1915 15
+    activity:other (64,30)
+    weather:rain (18,43)
+    person:Major Hunt (other) (35,44)
+    person:Major Hunt (other) (60,44)
+    place:Hazebrouck (59,49)
+Page 63 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4b  ----------
+  7 Apr 1915 12
+    weather:rain (61,29)
+    activity:other (62,35)
+Page 64 (type diary) http://wd3.herokuapp.com/pages/AWD0003l58  ----------
+  9 Apr 1915 12
+    weather:fine (63,27)
+    weather:rain (20,30)
+    person:Major Hunt (other) (61,33)
+    activity:other (61,43)
+Page 65 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4u  ----------
+  11 Apr 1915 19
+    domestic:inspections (70,30)
+    weather:fine (15,32)
+    activity:other (20,38)
+    domestic:parades (58,41)
+    person:Major Martin (other) (59,45)
+Page 66 (type diary) http://wd3.herokuapp.com/pages/AWD0003l51  ----------
+  13 Apr 1915 15
+    weather:fine (17,27)
+    weather:overcast (57,27)
+    activity:other (22,32)
+    unit:4 Cavalry Field Ambulance (23,39)
+    place:Hazebrouck (56,42)
+    person:Captain V C Leckie (other) (62,46)
+    unit:Carabiniers (6 Dragoon Guards) (30,61)
+Page 67 (type diary) http://wd3.herokuapp.com/pages/AWD0003l53  ----------
+  15 Apr 1915 17
+  16 Apr 1915 21
+    weather:fine (67,30)
+    activity:other (21,35)
+    activity:other (61,35)
+  14 Apr 1915 40
+    activity:resupplying (73,49)
+    domestic:other (15,62)
+Page 68 (type diary) http://wd3.herokuapp.com/pages/AWD0003l57  ----------
+  18 Apr 1915 22
+    weather:fine (67,32)
+    activity:casualty (64,46)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (70,47)
+Page 69 (type diary) http://wd3.herokuapp.com/pages/AWD0003l66  ----------
+  19 Apr 1915 14
+    activity:movement (19,33)
+    place:Merris (15,35)
+    activity:other (61,37)
+    domestic:accomodation (37,49)
+Page 70 (type diary) http://wd3.herokuapp.com/pages/AWD0003l44  ----------
+  21 Apr 1915 19
+    activity:other (18,34)
+    activity:other (60,38)
+    unit:No 6 mvs 6 Division (38,39)
+    person:Private Fincham (departed_posted) (30,45)
+    weather:fine (63,45)
+Page 71 (type diary) http://wd3.herokuapp.com/pages/AWD0003l50  ----------
+  23 Apr 1915 29
+    activity:other (61,33)
+    activity:quiet (67,39)
+Page 72 (type diary) http://wd3.herokuapp.com/pages/AWD0003l61  ----------
+  25 Apr 1915 12
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 6; wounded: 0 (68,33)
+    unit:Carabiniers (6 Dragoon Guards) (40,38)
+    place:Bailleul (76,40)
+    unit:Oxford Hussars (15,44)
+    domestic:inspections (28,46)
+    activity:movement (20,51)
+    place:Bleu (37,51)
+    place:Bailleul (34,71)
+Page 73 (type diary) http://wd3.herokuapp.com/pages/AWD0003l52  ----------
+  27 Apr 1915 26
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,33)
+    activity:other (19,36)
+    person:Private Lancaster (joined) (18,59)
+    person:Private Dickens (casualty_wounded) (25,71)
+    place:Vlamertinghe (68,72)
+Page 74 (type diary) http://wd3.herokuapp.com/pages/AWD0003l38  ----------
+  29 Apr 1915 21
+    activity:movement (25,31)
+    activity:other (59,33)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (25,36)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (27,71)
+    person:Lieutenant Davenport (69,89)
+Page 75 (type cover)
+Page 76 (type diary) http://wd3.herokuapp.com/pages/AWD0003l56  ----------
+  1 May 1915 20
+    place:Bleu (79,31)
+    unit:Echelon B, 4 C.B. (66,35)
+    activity:other (62,38)
+    weather:fine (67,44)
+Page 77 (type diary) http://wd3.herokuapp.com/pages/AWD0003l54  ----------
+  2 May 1915 17
+    activity:other (21,33)
+    activity:other (61,34)
+    place:Bailleul (81,45)
+Page 78 (type diary) http://wd3.herokuapp.com/pages/AWD0003l6h  ----------
+  4 May 1915 14
+    activity:movement (22,28)
+    place:Merris (32,32)
+    place:Strazeele (40,32)
+    person:Major Martin (other) (64,33)
+    person:Major Hunt (other) (77,33)
+    place:Steenvoorde (27,35)
+    person:Corporal Bradley (other) (76,42)
+    domestic:accomodation (23,45)
+    weather:hot (22,60)
+    weather:rain (24,64)
+Page 79 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3y  ----------
+  6 May 1915 13
+    activity:other (66,30)
+    activity:other (19,35)
+    activity:movement (64,41)
+Page 80 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4f  ----------
+  8 May 1915 15
+    activity:other (21,30)
+    activity:movement (65,35)
+    place:Bleu (79,41)
+    activity:other (58,47)
+    unit:Oxford Hussars (72,50)
+  9 May 1915 68
+Page 81 (type diary) http://wd3.herokuapp.com/pages/AWD0003l40  ----------
+  10 May 1915 15
+    activity:other (14,30)
+    place:Bailleul (21,33)
+    unit:J & D Battery (73,34)
+    weather:hot (64,80)
+Page 82 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3n  ----------
+  12 May 1915 17
+    domestic:discipline (25,39)
+    person:Private R Davies (discipline) (60,47)
+    weather:overcast (67,54)
+    domestic:other (56,62)
+Page 83 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3s  ----------
+  14 May 1915 17
+    weather:overcast (17,26)
+    unit:Field Remount Section (15,44)
+    place:Bailleul (54,45)
+Page 84 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5r  ----------
+  16 May 1915 18
+    weather:fine (21,29)
+    activity:other (57,33)
+    activity:other (18,34)
+    unit:Highland Division (76,58)
+Page 85 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4i  ----------
+  19 May 1915 24
+    place:Vlamertinge (69,35)
+    weather:overcast (23,35)
+Page 86 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3q  ----------
+  20 May 1915 14
+    activity:other (18,33)
+    activity:other (60,33)
+    weather:fine (18,40)
+    activity:other (62,43)
+    unit:No. 2 Vety Hospital (69,45)
+    unit:No. 1 Mobile Vety. Section (73,48)
+    activity:other (18,48)
+    weather:rain (60,54)
+Page 87 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4h  ----------
+  22 May 1915 18
+    activity:other (17,33)
+    activity:other (59,39)
+Page 88 (type diary) http://wd3.herokuapp.com/pages/AWD0003l31  ----------
+  24 May 1915 13
+    weather:fine (19,31)
+    place:Vlamertinghe (54,37)
+    activity:other (27,39)
+    unit:Echelon A 4 C.B. (84,48)
+    unit:Divisional Am. Column 2 Cavalry Division. (71,52)
+Page 89 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3h  ----------
+  26 May 1915 12
+    activity:other (55,30)
+    place:Bailleul (55,42)
+    place:Vlamertinghe (65,52)
+Page 90 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3o  ----------
+  28 May 1915 19
+    place:Godewaersvelde (82,33)
+Page 91 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3c  ----------
+  30 May 1915 7
+    place:Godewaersvelde (17,32)
+    activity:movement (57,34)
+    place:Sercus (65,45)
+Page 92 (type cover)
+Page 93 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3r  ----------
+  1 Jun 1915 16
+    weather:fine (22,32)
+    activity:other (60,33)
+    place:Bailleul (70,40)
+    unit:3 Hussars (71,49)
+Page 94 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4j  ----------
+  3 Jun 1915 15
+    activity:other (60,30)
+    activity:other (21,50)
+Page 95 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5z  ----------
+  5 Jun 1915 17
+    activity:other (58,30)
+    activity:other (18,31)
+    place:Steenbecque (64,38)
+    weather:fine (26,38)
+  6 Jun 1915 55
+Page 96 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4t  ----------
+  7 Jun 1915 16
+    activity:other (19,30)
+    weather:rain (63,37)
+    activity:other (74,42)
+    activity:training (62,50)
+Page 97 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4p  ----------
+  9 Jun 1915 9
+    activity:other (13,36)
+Page 98 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4d  ----------
+  11 Jun 1915 14
+    domestic:parades (57,32)
+    domestic:parades (18,50)
+    domestic:inspections (57,50)
+    activity:other (64,57)
+Page 99 (type diary) http://wd3.herokuapp.com/pages/AWD0003l2y  ----------
+  13 Jun 1915 13
+    activity:other (59,25)
+    domestic:sport (59,32)
+    activity:other (13,55)
+    person:Major Hunt (other) (18,63)
+Page 100 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5f  ----------
+  15 Jun 1915 12
+    activity:other (18,33)
+    activity:other (62,33)
+Page 101 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3l  ----------
+  17 Jun 1915 22
+    activity:other (14,32)
+    activity:other (62,35)
+    weather:fine (57,41)
+    activity:training (65,51)
+    unit:No 7 mvs (71,83)
+Page 102 (type diary) http://wd3.herokuapp.com/pages/AWD0003l62  ----------
+  19 Jun 1915 14
+    activity:other (18,29)
+    place:Steenbecque (59,50)
+Page 103 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3g  ----------
+  21 Jun 1915 11
+    activity:other (61,33)
+    unit:Carabiniers (6 Dragoon Guards) (18,39)
+    unit:Oxford Hussars (21,43)
+    unit:Field Remount Section (22,52)
+    place:Thiennes (14,55)
+    person:Major Martin (other) (24,63)
+    person:Major Hunt (other) (18,68)
+Page 104 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5d  ----------
+  23 Jun 1915 21
+    activity:other (18,29)
+    activity:other (62,36)
+    person:Hare (departed_posted) (63,54)
+    person:Sergeant Bristow (78,55)
+    activity:training (56,67)
+Page 105 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5v  ----------
+  25 Jun 1915 18
+    activity:training (23,34)
+    time:1000AM (17,42)
+Page 106 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3p  ----------
+  27 Jun 1915 20
+Page 107 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3x  ----------
+  29 Jun 1915 10
+    activity:other (23,28)
+    activity:other (61,32)
+    domestic:inspections (18,41)
+    person:Lieutenant C Davenport (author) (72,79)
+Page 108 (type cover)
+Page 109 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3z  ----------
+  1 Jul 1915 18
+    unit:Oxford Hussars (57,30)
+    domestic:other (41,61)
+  2 Jul 1915 68
+    activity:other (46,80)
+Page 110 (type diary) http://wd3.herokuapp.com/pages/AWD0003l55  ----------
+  3 Jul 1915 1
+    activity:other (38,13)
+    unit:3 Hussars (47,15)
+  4 Jul 1915 32
+    unit:Advs (36,47)
+Page 111 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5u  ----------
+  5 Jul 1915 5
+    activity:training (41,45)
+  6 Jul 1915 62
+    activity:other (40,76)
+Page 112 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3i  ----------
+  7 Jul 1915 6
+    unit:Advs (38,18)
+    unit:Ddvs (44,18)
+  8 Jul 1915 49
+    activity:other (39,62)
+    domestic:inspections (51,72)
+Page 113 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3f  ----------
+  9 Jul 1915 8
+    domestic:parades (50,20)
+    domestic:hygiene (50,26)
+  10 Jul 1915 51
+    unit:No. 10 Veterinary Hospital (48,63)
+    person:Private Scallon (departed_posted) (43,66)
+    person:Private Davies (departed_posted) (51,67)
+    person:Private Everest (departed_posted) (58,67)
+    person:Private Merrell (departed_posted) (40,71)
+    activity:training (45,77)
+Page 114 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5x  ----------
+  11 Jul 1915 4
+    domestic:religion (36,11)
+    activity:training (45,31)
+    person:Major Hunt (other) (41,39)
+    activity:other (39,47)
+  12 Jul 1915 64
+    activity:other (36,74)
+    activity:other (42,74)
+    activity:other (40,84)
+Page 115 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5t  ----------
+  13 Jul 1915 5
+    activity:other (40,14)
+    place:Steenbecque (43,18)
+  14 Jul 1915 38
+    activity:movement (56,49)
+Page 116 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5a  ----------
+  15 Jul 1915 0
+    domestic:accomodation (41,13)
+    unit:No. 5 Veterinary Hospital (36,26)
+  16 Jul 1915 35
+    weather:rain (37,47)
+    unit:Vi dragoon guards (48,66)
+Page 117 (type diary) http://wd3.herokuapp.com/pages/AWD0003l48  ----------
+  17 Jul 1915 6
+    activity:other (41,14)
+    unit:Advs (56,25)
+    unit:Advs (43,33)
+    unit:Dadr (49,33)
+  18 Jul 1915 51
+Page 118 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3v  ----------
+  19 Jul 1915 2
+    weather:fine (35,14)
+    activity:other (40,18)
+  20 Jul 1915 31
+    activity:other (35,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (51,52)
+    domestic:inspections (45,55)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (32,75)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (50,80)
+Page 119 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4m  ----------
+  21 Jul 1915 11
+  22 Jul 1915 46
+Page 120 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5i  ----------
+  23 Jul 1915 1
+  24 Jul 1915 53
+    domestic:inspections (49,88)
+Page 121 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3b  ----------
+  25 Jul 1915 23
+    weather:fine (46,30)
+Page 122 (type diary) http://wd3.herokuapp.com/pages/AWD0003l5h  ----------
+  26 Jul 1915 9
+  27 Jul 1915 40
+    unit:No 7 mvs (41,53)
+Page 123 (type diary) http://wd3.herokuapp.com/pages/AWD0003l4q  ----------
+  28 Jul 1915 2
+    activity:other (39,15)
+    domestic:inspections (54,22)
+  29 Jul 1915 31
+    activity:other (41,42)
+  30 Jul 1915 55
+    domestic:other (39,68)
+    activity:training (43,73)
+Page 124 (type diary) http://wd3.herokuapp.com/pages/AWD0003l3e  ----------
+  31 Jul 1915 21
+    unit:Vi dragoon guards (37,34)
+    activity:training (40,50)

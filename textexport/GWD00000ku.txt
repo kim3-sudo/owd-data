@@ -1,0 +1,3245 @@
+GWD00000ku wo/95/1106/3
+1 CAVALRY DIVISION: 39 Mobile Veterinary Section 
+188 pages
+
+Page 1 (type other) http://wd3.herokuapp.com/pages/AWD00030yk  ----------
+Page 2 (type cover)
+Page 3 (type cover)
+Page 4 (type diary) http://wd3.herokuapp.com/pages/AWD00030zf  ----------
+  1 Oct 1915 0
+    activity:movement (26,26)
+    unit:9 Cavalry Brigade (56,26)
+    place:Calais (8,28)
+    place:Wandanigus (46,31)
+    time:0600AM (43,37)
+    activity:movement (24,39)
+    time:0400PM (74,39)
+    unit:19 Hussars (31,50)
+    unit:19 Hussars (38,63)
+    unit:1 Signal Squadron (37,72)
+    unit:15 Hussars (35,79)
+Page 5 (type diary) http://wd3.herokuapp.com/pages/AWD000311t  ----------
+  1 Oct 1915 0
+    unit:19 Hussars (30,26)
+    place:Wormhoubt (6,27)
+    unit:15 Hussars (31,32)
+    unit:15 Hussars (32,40)
+    unit:19 Hussars (45,45)
+    unit:15 Hussars (34,56)
+    unit:19 Hussars (52,56)
+    unit:Bedrord Leo 7 (37,62)
+  13 Sep 1915 63
+    unit:9 Cavalry Brigade (37,67)
+  14 Sep 1915 68
+    unit:19 Hussars (32,72)
+    unit:15 Hussars (53,72)
+Page 6 (type diary) http://wd3.herokuapp.com/pages/AWD000310i  ----------
+  20 Sep 1915 23
+    place:Wormhoubt (6,26)
+  21 Sep 1915 27
+  22 Sep 1915 33
+  23 Sep 1915 42
+  24 Sep 1915 56
+  26 Sep 1915 69
+    place:Arneke (6,74)
+  27 Sep 1915 75
+    activity:movement (22,77)
+  28 Sep 1915 79
+  29 Sep 1915 83
+  30 Sep 1915 88
+Page 7 (type diary) http://wd3.herokuapp.com/pages/AWD0003111  ----------
+  1 Oct 1915 23
+  3 Oct 1915 27
+    place:Arneke (6,27)
+  5 Oct 1915 32
+  7 Oct 1915 37
+  9 Oct 1915 42
+  10 Oct 1915 47
+  11 Oct 1915 52
+  12 Oct 1915 57
+    activity:movement (54,60)
+  15 Oct 1915 61
+    place:Rons (6,64)
+  16 Oct 1915 66
+Page 8 (type diary) http://wd3.herokuapp.com/pages/AWD00030zq  ----------
+  8 Nov 1915 24
+  9 Nov 1915 28
+    place:Quiestede (5,30)
+  10 Nov 1915 32
+  11 Nov 1915 36
+  12 Nov 1915 41
+  13 Nov 1915 52
+  14 Nov 1915 58
+  15 Nov 1915 62
+    unit:15 Hussar (29,67)
+  16 Nov 1915 70
+    unit:19 Calvary (29,70)
+  20 Nov 1915 80
+    activity:movement (23,80)
+  21 Nov 1915 84
+  26 Nov 1915 87
+    place:Lagaverie (6,88)
+  29 Nov 1915 90
+  30 Nov 1915 93
+Page 9 (type cover)
+Page 10 (type diary) http://wd3.herokuapp.com/pages/AWD00030zi  ----------
+  30 Nov 1915 0
+Page 11 (type diary) http://wd3.herokuapp.com/pages/AWD00030zk  ----------
+  30 Nov 1915 0
+    reference:9th Brigade (53,18)
+    reference:No 29 (42,79)
+Page 12 (type ) http://wd3.herokuapp.com/pages/AWD00030zd  ----------
+  30 Nov 1915 0
+    reference:HQ 9th L B (41,27)
+    reference:15th Hussars (41,31)
+    reference:19th Hussars (41,34)
+    reference:Bed Yeomanry (41,36)
+    reference:Warwick Batt. RHA (41,40)
+    reference:18th Hussars (41,43)
+    reference:9th Lancers (41,46)
+    reference:4th D. GAs (41,49)
+    reference:H Batt. RHA (41,52)
+    reference:H.Q.1st.C.D (41,55)
+    reference:2nd D. Gas (41,59)
+    reference:No 39 (64,6)
+    reference:2nd D. Gas (41,62)
+    reference:11th Hussars (41,65)
+    reference:9 Batt. RHA (42,68)
+    reference:1st aux. Trans. (42,71)
+    reference:Dev. Troops 1st Ch. (42,74)
+    reference:No 39 (49,92)
+Page 13 (type cover)
+Page 14 (type diary) http://wd3.herokuapp.com/pages/AWD00030zv  ----------
+  30 Nov 1915 0
+    place:Le Rons (5,24)
+    activity:other (23,24)
+    activity:other (22,28)
+    unit:Bed Yeomanry (49,29)
+    unit:Bed Yeomanry (49,32)
+    unit:19 Hussary (76,32)
+    activity:other (23,32)
+    activity:other (23,38)
+    unit:Bed Yeomanry (50,52)
+    activity:other (22,56)
+    unit:19 Hussars (47,58)
+    unit:15 Hussars (80,58)
+    unit:Bed Yeomanry (50,61)
+    activity:other (22,67)
+  12 Nov 1915 68
+    unit:15 Hussars (53,72)
+    unit:19 Hussars (71,72)
+    activity:other (22,72)
+  13 Nov 1915 78
+    unit:Bed Yeomanry (68,82)
+    activity:other (22,82)
+  14 Nov 1915 83
+    unit:4 Brigade Royal Horse Artillery (39,88)
+    unit:19 Hussars (52,88)
+Page 15 (type diary) http://wd3.herokuapp.com/pages/AWD000312e  ----------
+  15 Nov 1915 20
+    unit:Warwick Royal Horse Artillery (62,24)
+    activity:other (23,24)
+    place:Le Rons (6,25)
+  16 Nov 1915 32
+    unit:19 Hussars (51,36)
+    unit:Bed. Yeomanry (82,36)
+  17 Nov 1915 40
+    place:Le Rons (7,45)
+    unit:9 Cavalry Brigade (80,45)
+    activity:movement (25,45)
+    time:0830AM (51,45)
+  20 Nov 1915 59
+    place:La Gaverie (5,62)
+    unit:19 Hussars (50,63)
+    activity:other (22,63)
+  21 Nov 1915 64
+  26 Nov 1915 72
+  28 Nov 1915 77
+    unit:15 Hussars (51,77)
+    unit:Bed Yeomanry (77,77)
+  29 Nov 1915 81
+    unit:19 Hussars (49,82)
+  30 Nov 1915 85
+    unit:Warwick Battery Royal Horse Artillery (56,86)
+    unit:15 Hussars (52,89)
+    unit:19 Hussars (81,90)
+Page 16 (type cover)
+Page 17 (type diary) http://wd3.herokuapp.com/pages/AWD00030yy  ----------
+  1 Dec 1915 20
+  2 Dec 1915 24
+    place:La Gaverie (6,25)
+  4 Dec 1915 26
+    unit:Warwick Battery Royal Horse Artillery (48,28)
+  5 Dec 1915 29
+    unit:Bed Yeomanry (79,29)
+  6 Dec 1915 32
+  7 Dec 1915 35
+    unit:15 Hussars (69,37)
+    unit:19 Hussars (43,40)
+    person:Private H Reddall (joined) (29,41)
+    person:Private H Wood (joined) (47,41)
+  8 Dec 1915 44
+    person:Officer Cadet (departed_leave) (21,44)
+  10 Dec 1915 47
+    unit:Bed Yeomanry (43,48)
+  11 Dec 1915 50
+    person:Corporal Collicott (joined) (28,51)
+  12 Dec 1915 53
+  13 Dec 1915 56
+  14 Dec 1915 59
+    person:Officer Cadet (returned_leave) (22,59)
+    person:Private Deane (joined) (64,61)
+  16 Dec 1915 62
+  17 Dec 1915 65
+    person:Private Bullard (departed_posted) (26,65)
+  19 Dec 1915 75
+  20 Dec 1915 79
+Page 18 (type diary) http://wd3.herokuapp.com/pages/AWD000312b  ----------
+  20 Dec 1915 0
+  21 Dec 1915 22
+    unit:15 Hussars (36,25)
+    reference:La Gaverie (5,26)
+  22 Dec 1915 28
+    unit:15 Hussars (38,30)
+  23 Dec 1915 33
+    unit:9 C.B.H.Q (36,33)
+    unit:15 Hussars (44,35)
+    unit:No 1 Res. Pack (69,35)
+  24 Dec 1915 36
+  26 Dec 1915 41
+    unit:Sanitary Section (71,42)
+    unit:19 Hussars (39,43)
+    unit:1 Par Division (51,45)
+    unit:1 Field Squadron (38,52)
+    unit:19 Hussars (64,55)
+    unit:Ist field squadron (66,58)
+  29 Dec 1915 60
+    unit:9 C.F. Amb (40,65)
+Page 19 (type cover)
+Page 20 (type diary) http://wd3.herokuapp.com/pages/AWD00030xv  ----------
+  29 Dec 1915 0
+  1 Jan 1916 21
+    place:La Gaverie (6,24)
+    reference:La Gaverie (4,25)
+  2 Jan 1916 26
+  3 Jan 1916 29
+  4 Jan 1916 31
+  5 Jan 1916 36
+  7 Jan 1916 42
+  10 Jan 1916 48
+  11 Jan 1916 53
+  12 Jan 1916 59
+  13 Jan 1916 62
+  14 Jan 1916 65
+  15 Jan 1916 71
+  18 Jan 1916 79
+  20 Jan 1916 84
+  22 Jan 1916 90
+Page 21 (type diary) http://wd3.herokuapp.com/pages/AWD0003107  ----------
+  22 Jan 1916 0
+  24 Jan 1916 22
+    place:La Gaverie (4,24)
+    reference:La Gaverie (6,25)
+  27 Jan 1916 27
+  28 Jan 1916 32
+  30 Jan 1916 35
+  31 Jan 1916 44
+Page 22 (type cover)
+Page 23 (type diary) http://wd3.herokuapp.com/pages/AWD000310t  ----------
+  31 Jan 1916 0
+  1 Feb 1916 22
+  3 Feb 1916 25
+    place:La Gaverie (5,25)
+    unit:19 Hussars (58,28)
+    unit:15 Hussars (25,32)
+  4 Feb 1916 34
+  8 Feb 1916 44
+  9 Feb 1916 48
+  10 Feb 1916 51
+  11 Feb 1916 54
+    unit:9 Cavalry Field Ambulance (54,60)
+  17 Feb 1916 63
+  18 Feb 1916 73
+    unit:19 Hussars (53,74)
+  20 Feb 1916 87
+Page 24 (type diary) http://wd3.herokuapp.com/pages/AWD000312h  ----------
+  24 Feb 1916 22
+  25 Feb 1916 28
+  27 Feb 1916 32
+  28 Feb 1916 42
+  29 Feb 1916 50
+Page 25 (type blank)
+Page 26 (type cover)
+Page 27 (type diary) http://wd3.herokuapp.com/pages/AWD00030zy  ----------
+  1 Mar 1916 21
+    place:La Gaverie (8,25)
+  2 Mar 1916 27
+  3 Mar 1916 42
+  9 Mar 1916 47
+  13 Mar 1916 57
+    person:R Pato (joined) (36,60)
+  14 Mar 1916 61
+    person:Shoeing Smith A Perry (departed_posted) (26,64)
+  16 Mar 1916 71
+  17 Mar 1916 74
+  20 Mar 1916 81
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (67,83)
+    person:Private H Wood (27,84)
+  22 Mar 1916 87
+Page 28 (type diary) http://wd3.herokuapp.com/pages/AWD0003112  ----------
+  24 Mar 1916 23
+    activity:other (24,25)
+  28 Mar 1916 31
+  29 Mar 1916 36
+  30 Mar 1916 40
+  31 Mar 1916 51
+    person:Captain R H Knowles (author) (53,77)
+Page 29 (type cover)
+Page 30 (type diary) http://wd3.herokuapp.com/pages/AWD00030yp  ----------
+  3 Apr 1916 22
+    place:La Gaverie (7,25)
+  4 Apr 1916 26
+    place:La Gaverie (5,28)
+    person:W J Bartlett (joined) (35,29)
+  6 Apr 1916 30
+    person:R Pato (departed_posted) (33,33)
+  11 Apr 1916 39
+  13 Apr 1916 43
+  14 Apr 1916 46
+  15 Apr 1916 59
+  16 Apr 1916 67
+  17 Apr 1916 71
+  18 Apr 1916 75
+    domestic:inspections (62,75)
+  20 Apr 1916 80
+Page 31 (type diary) http://wd3.herokuapp.com/pages/AWD00030z7  ----------
+  21 Apr 1916 21
+    place:La Gaverie (6,25)
+  23 Apr 1916 26
+    place:Devres (51,28)
+  24 Apr 1916 30
+  27 Apr 1916 33
+    unit:15 Hussars (29,39)
+  30 Apr 1916 43
+    person:Private J H Reddall (departed_training) (27,47)
+    person:Captain A H Knowles (author) (50,82)
+Page 32 (type cover)
+Page 33 (type diary) http://wd3.herokuapp.com/pages/AWD00030yb  ----------
+  5 May 1916 23
+    place:La Gaverie (5,25)
+    place:La Gaverie (6,28)
+  6 May 1916 29
+  9 May 1916 32
+  10 May 1916 36
+  11 May 1916 39
+  12 May 1916 42
+  13 May 1916 44
+  15 May 1916 50
+    person:Private H J Parsons (58,60)
+  16 May 1916 63
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (33,63)
+  17 May 1916 66
+  18 May 1916 73
+Page 34 (type diary) http://wd3.herokuapp.com/pages/AWD000311c  ----------
+  19 May 1916 21
+    place:La Gaverie (6,27)
+    person:C Collicott (discipline) (36,34)
+  20 May 1916 38
+  21 May 1916 41
+  23 May 1916 51
+    activity:movement (26,51)
+  25 May 1916 54
+  27 May 1916 71
+  28 May 1916 75
+    person:Private J Burrows (joined) (34,77)
+    person:Private A Angel (joined) (37,81)
+  31 May 1916 84
+    person:Private R J Phillip (joined) (32,84)
+    person:Captain Knowles (author) (58,93)
+Page 35 (type cover)
+Page 36 (type diary) http://wd3.herokuapp.com/pages/AWD00030z0  ----------
+  1 Jun 1916 22
+    place:La Gaverie (6,26)
+  2 Jun 1916 36
+  3 Jun 1916 43
+  4 Jun 1916 51
+  8 Jun 1916 56
+  9 Jun 1916 65
+  10 Jun 1916 83
+Page 37 (type diary) http://wd3.herokuapp.com/pages/AWD0003127  ----------
+  10 Jun 1916 0
+  12 Jun 1916 21
+    person:Private C Collicott (departed_posted) (33,24)
+  15 Jun 1916 28
+  16 Jun 1916 46
+  17 Jun 1916 55
+  18 Jun 1916 60
+  19 Jun 1916 69
+  20 Jun 1916 77
+Page 38 (type diary) http://wd3.herokuapp.com/pages/AWD00030xz  ----------
+  21 Jun 1916 25
+    unit:29 horses (32,26)
+    unit:1 Cavalry Park (74,27)
+  22 Jun 1916 29
+    unit:Warwick Battery Royal Horse Artillery (51,31)
+    unit:1 Cavalry Rescue Park (40,37)
+    person:Private H G Reddall (returned_posted) (35,40)
+    unit:945 (23,40)
+    unit:No 22 Veterinary Hospital (60,41)
+  23 Jun 1916 42
+    activity:movement (22,43)
+  24 Jun 1916 45
+    place:Bezinghem (6,48)
+    unit:9 (61,50)
+    unit:1 Cavalry Division H.Q (41,51)
+    time:0730PM (39,55)
+    activity:movement (22,56)
+    time:0845AM (24,60)
+  25 Jun 1916 61
+  26 Jun 1916 65
+    activity:movement (22,68)
+    time:0100AM (42,68)
+    place:Beauvoir (6,70)
+    time:0750AM (73,70)
+    unit:15 Hassars (66,73)
+    unit:19 Hassars (28,75)
+    unit:9 Signal Troop (34,79)
+  27 Jun 1916 80
+    activity:movement (23,83)
+    time:0230AM (42,83)
+  28 Jun 1916 86
+    time:0730AM (25,86)
+  29 Jun 1916 89
+    activity:movement (22,89)
+    unit:15 Hassars (41,92)
+    unit:19 Hassars (63,92)
+Page 39 (type diary) http://wd3.herokuapp.com/pages/AWD00030xt  ----------
+  30 Jun 1916 22
+    person:Captain A H Knowles (author) (55,53)
+Page 40 (type cover)
+Page 41 (type diary) http://wd3.herokuapp.com/pages/AWD000311i  ----------
+  30 Jun 1916 0
+  1 Jul 1916 21
+    activity:movement (22,25)
+    place:Querrien (4,25)
+  3 Jul 1916 26
+    activity:movement (21,30)
+  5 Jul 1916 42
+  7 Jul 1916 46
+    activity:movement (21,46)
+    activity:movement (21,50)
+  11 Jul 1916 75
+  12 Jul 1916 83
+    activity:movement (22,83)
+    place:Querrien (7,90)
+Page 42 (type diary) http://wd3.herokuapp.com/pages/AWD000310u  ----------
+  13 Jul 1916 23
+    place:Querrien (6,26)
+  14 Jul 1916 32
+    unit:9 (44,34)
+  15 Jul 1916 36
+    time:0800AM (38,41)
+    activity:movement (22,41)
+  16 Jul 1916 43
+  17 Jul 1916 46
+    place:Buire (5,47)
+  18 Jul 1916 50
+    unit:15 (48,51)
+  19 Jul 1916 54
+    unit:15 (47,56)
+  20 Jul 1916 58
+    unit:19 (46,60)
+    unit:28 Brigade Royal Field Artillery. (48,63)
+    unit:19 (53,67)
+  21 Jul 1916 72
+    unit:15 (48,74)
+  22 Jul 1916 79
+  24 Jul 1916 87
+Page 43 (type diary) http://wd3.herokuapp.com/pages/AWD0003122  ----------
+  24 Jul 1916 21
+    place:Buire (4,24)
+    activity:movement (22,25)
+  26 Jul 1916 26
+  27 Jul 1916 30
+  28 Jul 1916 38
+  29 Jul 1916 49
+  30 Jul 1916 54
+  31 Jul 1916 59
+    person:Captain R H Knowles (author) (57,77)
+Page 44 (type cover)
+Page 45 (type diary) http://wd3.herokuapp.com/pages/AWD000312t  ----------
+  1 Aug 1916 24
+    unit:9 Cavalry Brigade (48,25)
+    place:Querrien (5,27)
+    unit:15 (31,30)
+  2 Aug 1916 36
+  3 Aug 1916 40
+  4 Aug 1916 46
+  7 Aug 1916 51
+    unit:15 (45,53)
+    unit:19 (31,57)
+  8 Aug 1916 71
+  9 Aug 1916 77
+    activity:movement (21,83)
+  10 Aug 1916 86
+    place:Long (6,87)
+    activity:movement (22,90)
+Page 46 (type diary) http://wd3.herokuapp.com/pages/AWD000311s  ----------
+  14 Aug 1916 22
+    place:Gameche (5,26)
+  15 Aug 1916 28
+  17 Aug 1916 32
+  18 Aug 1916 44
+  24 Aug 1916 53
+  25 Aug 1916 61
+  26 Aug 1916 68
+  27 Aug 1916 73
+  29 Aug 1916 76
+  31 Aug 1916 80
+Page 47 (type cover)
+Page 48 (type diary) http://wd3.herokuapp.com/pages/AWD000312g  ----------
+  1 Sep 1916 23
+    unit:Warwick battalion raa (75,25)
+  2 Sep 1916 28
+    unit:9 Machine Gun Squad (47,30)
+  6 Sep 1916 41
+    activity:movement (21,49)
+  7 Sep 1916 60
+    activity:movement (21,62)
+  8 Sep 1916 75
+  9 Sep 1916 85
+Page 49 (type diary) http://wd3.herokuapp.com/pages/AWD00030ya  ----------
+  9 Sep 1916 21
+    place:Daours (7,25)
+    person:Private A Haney (casualty_wounded) (35,25)
+  10 Sep 1916 27
+    unit:9 M. G. S. (54,31)
+    unit:Beds. Yeom. (80,31)
+    unit:15 Hussars (82,34)
+    unit:19 Hussars (41,39)
+    unit:H.Q. 9 C. B. (47,42)
+    unit:15 Hussars (56,45)
+  11 Sep 1916 47
+  12 Sep 1916 51
+    unit:15 Hussars (52,55)
+    unit:19 Hussars (24,57)
+    unit:1 India Cavalry Res. Park (62,57)
+    unit:Signal Squad. Cavalry Corps (42,61)
+  13 Sep 1916 62
+  14 Sep 1916 67
+    unit:No. 1 M. V. S. (56,67)
+    unit:No. 1 M. V. S. (60,81)
+    place:Carnoy (45,93)
+Page 50 (type diary) http://wd3.herokuapp.com/pages/AWD000310o  ----------
+  15 Sep 1916 23
+    place:Carnoy (6,25)
+    activity:movement (24,26)
+  16 Sep 1916 53
+  17 Sep 1916 59
+    activity:movement (21,63)
+    time:0830PM (27,66)
+  19 Sep 1916 69
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (69,73)
+  20 Sep 1916 83
+Page 51 (type diary) http://wd3.herokuapp.com/pages/AWD00030z9  ----------
+  22 Sep 1916 22
+    unit:15 Hussars (43,23)
+    unit:19 Hussars (72,24)
+    place:Daours (5,26)
+    unit:Beds. Yeom. (32,27)
+    unit:Warwick. Batty. R. H. A. (64,29)
+  23 Sep 1916 30
+    unit:9 M. G. S. (34,30)
+    unit:No. 10 M. V. S. (55,35)
+    unit:19 Hussars (48,37)
+    unit:9 M. G. S. (82,37)
+    activity:movement (21,40)
+    place:Conde (61,40)
+  24 Sep 1916 42
+    unit:9 Lancers (48,45)
+    unit:4 D. Gs. (74,46)
+    unit:18 Hussars (32,48)
+    activity:movement (22,51)
+    place:Acheul (60,51)
+  25 Sep 1916 53
+    activity:movement (21,55)
+    place:Guinecourt (63,56)
+    unit:9 C. F. A. (22,62)
+  26 Sep 1916 65
+    activity:movement (57,69)
+  27 Sep 1916 72
+    person:Private E Perkins (joined) (34,72)
+    unit:No. 5 Vety. Hospital (80,73)
+    unit:15 Hussars (43,76)
+    unit:19 Hussars (68,76)
+    unit:Beds. Yeom. (26,78)
+    unit:Warwick. Batty. R. H. A. (46,78)
+  28 Sep 1916 79
+    unit:9 M. G. S. (73,79)
+    activity:movement (35,83)
+    place:Neufchatel (63,83)
+    person:Captain R H Knowles (author) (61,89)
+    person:Captain R H Knowles (68,89)
+Page 52 (type cover)
+Page 53 (type diary) http://wd3.herokuapp.com/pages/AWD000312l  ----------
+  1 Oct 1916 23
+  2 Oct 1916 27
+    place:Fillievres (7,27)
+    domestic:accomodation (27,28)
+  6 Oct 1916 30
+    unit:No. 5 Vety. Hospital (67,30)
+    person:Private W H Harding (joined) (31,31)
+    unit:15 Hussars (48,34)
+    unit:19 Hussars (76,34)
+    unit:Warwick R. H. A. (70,37)
+    unit:Beds. Yeom. (41,38)
+  7 Oct 1916 41
+    unit:9 M. G. S. (41,41)
+    unit:Beds. Yeom. (85,45)
+    unit:9 C. F. A. (51,46)
+  8 Oct 1916 50
+  9 Oct 1916 55
+    unit:15 Hussars (54,55)
+  10 Oct 1916 59
+    unit:15 Hussars (53,59)
+  11 Oct 1916 63
+    unit:19 Hussars (51,63)
+  12 Oct 1916 67
+    unit:H.Q. 9 C.B. (55,67)
+    unit:15 Hussars (51,71)
+    unit:9 M. G. S. (86,72)
+    unit:15 Hussars (54,75)
+  13 Oct 1916 77
+    unit:15 Hussars (51,80)
+    unit:No. 13 Vety H. (73,85)
+    unit:18 Lancers (59,91)
+    unit:H.Q. 9 C.B. (62,95)
+Page 54 (type diary) http://wd3.herokuapp.com/pages/AWD0003132  ----------
+  18 Oct 1916 23
+    place:Fillievres (6,25)
+    unit:Beds. Yeom. (49,27)
+    unit:15 Hussars (81,27)
+    unit:9 Signal Troop (69,30)
+    unit:9 M. G. S. (41,31)
+    unit:18 Hussars (56,39)
+  19 Oct 1916 42
+    place:Ransart (71,43)
+    activity:movement (21,44)
+    activity:movement (60,46)
+  20 Oct 1916 47
+    activity:movement (24,49)
+    activity:movement (21,50)
+    unit:H.Q. 9 C. B. (48,52)
+  21 Oct 1916 56
+    place:Wargnies (7,58)
+    unit:15 Hussars (56,58)
+  22 Oct 1916 62
+    unit:P Batty. R. H. A. (26,62)
+    unit:H.Q. 9 C. B. (61,67)
+    unit:H.Q. 9 C. B. (38,72)
+  23 Oct 1916 73
+    unit:9 M. G. S. (56,77)
+    unit:9 Signal Corps (22,80)
+  26 Oct 1916 81
+    unit:15 Hussars (59,84)
+  27 Oct 1916 86
+    unit:9 M. G. S. (49,88)
+    unit:15 Hussars (87,89)
+    person:Driver W Edwards (casualty_wounded) (37,91)
+Page 55 (type diary) http://wd3.herokuapp.com/pages/AWD00030zb  ----------
+  28 Oct 1916 25
+    unit:15 Hussars (53,25)
+    place:Wargnies (6,27)
+    unit:Beds. Yeom. (28,31)
+    place:Canaples (74,31)
+  30 Oct 1916 39
+    unit:9 M. G. S. (60,41)
+  31 Oct 1916 45
+    unit:15 Hussars (65,46)
+    unit:15 Hussars (55,47)
+    person:Captain R H Knowles (author) (66,77)
+    person:Captain R H Knowles (71,77)
+Page 56 (type cover)
+Page 57 (type diary) http://wd3.herokuapp.com/pages/AWD000310s  ----------
+  1 Nov 1916 21
+    place:Wargnies (7,25)
+    unit:Xi Division. (72,25)
+  2 Nov 1916 27
+    place:Wargnies (6,33)
+  3 Nov 1916 36
+    unit:M. m. p. ix Division. (50,36)
+    place:Wargnies (7,42)
+    unit:Beds. Yeom. (56,48)
+  7 Nov 1916 50
+    place:Wargnies (7,55)
+    unit:15 Hussars (50,55)
+    unit:Beds. Yeom. (24,58)
+    unit:9 M. G. S. (75,59)
+    unit:19 Hussars (57,68)
+  8 Nov 1916 73
+    place:Wargnies (7,77)
+    activity:movement (21,80)
+  9 Nov 1916 82
+    place:Drugy (7,85)
+    activity:movement (21,85)
+  10 Nov 1916 87
+    place:Dominois (7,90)
+    activity:movement (23,91)
+Page 58 (type diary) http://wd3.herokuapp.com/pages/AWD000310y  ----------
+  12 Nov 1916 20
+    unit:19 Hussars (80,24)
+    unit:15 Hussars (43,25)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (48,25)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (82,25)
+  13 Nov 1916 26
+    place:Questrecques (8,26)
+  14 Nov 1916 31
+    unit:Beds. Yeom. (49,31)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (63,34)
+    unit:19 Hussars (55,35)
+    unit:No. 13 Vet. Hosp. (56,40)
+    unit:4 D. G.s (48,43)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 4 dragoon guards (47,43)
+    unit:No. 13 Vet. Hospital (49,48)
+    place:Hubersent (76,49)
+    unit:15 Hussars (52,51)
+  15 Nov 1916 52
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (53,52)
+  16 Nov 1916 57
+    unit:No. 13 Vet. Hospital (65,57)
+    unit:1 Cavalry Division: 9 cavalry Brigade: (57,61)
+  17 Nov 1916 62
+    unit:H.Q. 9 C. B. (54,62)
+    unit:Beds. Yeom. (51,66)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (53,66)
+  20 Nov 1916 67
+    unit:15 Hussars (48,71)
+  22 Nov 1916 72
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (53,72)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (52,76)
+    unit:19 Hussars (50,77)
+    unit:No. 13 Vety. Hosp. (63,81)
+  23 Nov 1916 82
+    unit:No. 13 Vety. Hosp. (60,86)
+    unit:15 Hussars (42,89)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (48,89)
+    unit:19 Hussars (69,90)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (74,90)
+    unit:Beds. Yeom. (34,91)
+    unit:9 M. G. S. (64,94)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (66,94)
+Page 59 (type diary) http://wd3.herokuapp.com/pages/AWD000311e  ----------
+  24 Nov 1916 24
+    place:Questrecques (5,24)
+    unit:No. 13 Vety. Hosp. (57,27)
+  25 Nov 1916 28
+    unit:9 C. B. (60,33)
+  26 Nov 1916 37
+    person:Driver K McLean (joined) (41,41)
+  28 Nov 1916 45
+    place:Havre (54,45)
+    unit:1 Cavalry Division: royal engineers: 1 signal squadron (51,49)
+  29 Nov 1916 50
+    unit:1 Signal Squad (50,50)
+  30 Nov 1916 56
+    unit:Beds. Yeom. (78,57)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (79,57)
+    unit:No. 13 Vety. Hosp. (51,60)
+    unit:9 Signal Troop (70,65)
+    unit:1 Cavalry Division: royal engineers: 9 signal troop (75,66)
+    person:Captain R H Knowles (author) (65,82)
+    person:Captain R H Knowles (70,82)
+Page 60 (type cover)
+Page 61 (type diary) http://wd3.herokuapp.com/pages/AWD0003114  ----------
+  1 Dec 1916 23
+    place:Questrecques (7,25)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (79,25)
+    unit:15 Hussars (44,26)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (46,26)
+    unit:Beds. Yeom. (77,27)
+    unit:9 M. G. S. (45,31)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (44,31)
+  2 Dec 1916 32
+  3 Dec 1916 36
+    unit:15 Hussars (70,36)
+    unit:19 Hussars (53,45)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (53,45)
+    unit:15 Hussars (23,48)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (27,48)
+  5 Dec 1916 53
+    unit:H.Q. 9 C. B. (52,58)
+    unit:9 M. G. S. (82,60)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (84,60)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (41,61)
+    unit:Beds. Yeom. (39,62)
+    unit:19 Hussars (65,63)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (68,64)
+  6 Dec 1916 67
+    unit:Y Batty. R. H. A. (24,73)
+    unit:Royal Horse Artillery:~ y Battery (27,74)
+    unit:1 F. S. R. E. (50,78)
+    unit:1 field survey company: royal engineers (53,78)
+    unit:Beds. Yeom. (79,80)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (80,80)
+    unit:19 Hussars (35,81)
+  7 Dec 1916 82
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (38,82)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (57,85)
+    unit:19 Hussars (56,86)
+Page 62 (type diary) http://wd3.herokuapp.com/pages/AWD000311d  ----------
+  8 Dec 1916 22
+    place:Questrecques (7,26)
+    unit:C. R. H. A. (28,28)
+  9 Dec 1916 32
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (55,32)
+    unit:15 Hussars (52,33)
+    unit:9 C. F. A. (69,38)
+    unit:Royal army medical corps: 9 Cavalry field ambulance (69,38)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (37,39)
+  10 Dec 1916 40
+    unit:19 Hussars (36,40)
+  11 Dec 1916 45
+    unit:No.13 veterinary hospital (60,45)
+    unit:No. 13 Vety. Hospital (61,46)
+    unit:Beds. Yeom. (73,52)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (75,52)
+    unit:C. R. H. A., 1Cav. Division. (46,53)
+  13 Dec 1916 54
+    unit:15 Hussars (44,59)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (47,59)
+    unit:9 C. F. A. (36,61)
+    unit:Aux. Horse Transport Coy. (77,61)
+    unit:Royal army medical corps: 9 Cavalry field ambulance (36,62)
+    unit:A.s.c. horse transport company (81,62)
+  14 Dec 1916 66
+    unit:9 M. G. S. (67,67)
+  15 Dec 1916 70
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (64,71)
+    unit:Beds. Yeom. (46,74)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (47,74)
+    unit:9 M. G. S. (71,76)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (70,76)
+    unit:9 C. F. A. (22,77)
+    unit:Royal army medical corps: 9 Cavalry field ambulance (22,77)
+    unit:Aux. Horse Transport Coy. (48,78)
+    unit:A.s.c. horse transport company (56,79)
+    person:W J Bartlett (casualty_wounded) (44,82)
+  16 Dec 1916 83
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (57,84)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (72,85)
+    unit:Aux. Horse Transport Coy. (46,87)
+    unit:A.s.c. horse transport company (54,87)
+Page 63 (type diary) http://wd3.herokuapp.com/pages/AWD000312k  ----------
+  17 Dec 1916 22
+    place:Questrecques (5,26)
+    activity:other (22,26)
+  16 Dec 1916 0
+  18 Dec 1916 29
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (73,32)
+    unit:9 M. G. S. (71,33)
+    activity:other (23,34)
+    unit:15 Hussars (49,36)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (50,36)
+    unit:A.s.c. horse transport company (82,38)
+    unit:9 Signal Troop (37,40)
+  20 Dec 1916 41
+    unit:1 Cavalry Division: 9 cavalry Brigade: 9 signal troop: royal engineers (42,41)
+    unit:9 M. G. S. (73,42)
+    person:Shoeing Smith J E Hales (joined) (41,45)
+  21 Dec 1916 46
+  22 Dec 1916 50
+    unit:15 Hussars (49,50)
+    activity:other (22,50)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (51,51)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (78,53)
+  23 Dec 1916 55
+    unit:A.s.c. horse transport company (60,56)
+    activity:other (22,56)
+    unit:Beds. Yeom. (79,58)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (82,58)
+    activity:other (24,60)
+  24 Dec 1916 63
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (56,63)
+    activity:other (23,67)
+    unit:Aux. Horse Trans. Coy. (51,68)
+    unit:No.13 veterinary hospital (27,71)
+  27 Dec 1916 76
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (44,76)
+    activity:other (23,76)
+    unit:19 Hussars (72,79)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (75,79)
+  28 Dec 1916 80
+    unit:15 Hussars (49,80)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (50,80)
+    activity:other (23,80)
+    place:Questrecques (6,82)
+    unit:Beds. Yeom. (78,84)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (81,84)
+    activity:other (22,86)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (50,89)
+    unit:9 Cavalry field ambulance (81,89)
+    unit:19 Hussars (73,92)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (74,92)
+Page 64 (type diary) http://wd3.herokuapp.com/pages/AWD000310z  ----------
+  29 Dec 1916 25
+    place:Questrecques (6,26)
+    unit:Beds. Yeom. (46,28)
+    activity:other (24,29)
+    unit:19 Hussars (78,29)
+  30 Dec 1916 31
+    unit:Y Batty. R. H. A. (51,34)
+    activity:other (22,35)
+    unit:9 M. G. S. (82,35)
+    unit:1 F. Sq. R. E. (44,39)
+  31 Dec 1916 41
+    activity:other (23,45)
+    unit:15 Hussars (53,45)
+    person:Captain R H Knowles (author) (68,78)
+    person:Captain R H Knowles (commander) (64,79)
+Page 65 (type cover)
+Page 66 (type diary) http://wd3.herokuapp.com/pages/AWD00030z3  ----------
+  1 Jan 1917 20
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (50,23)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (79,23)
+    unit:19 Hussars (77,24)
+    activity:other (23,24)
+    place:Questrecques (7,26)
+    unit:15 Hussars (52,27)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (55,28)
+  2 Jan 1917 33
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (62,36)
+    unit:19 Hussars (62,37)
+    activity:other (23,37)
+    unit:15 Hussars (37,40)
+    unit:9 mgs (67,40)
+    unit:9 M. G. S. (66,41)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (38,41)
+  3 Jan 1917 44
+    unit:9 M. G. S. (49,49)
+    activity:other (22,49)
+  4 Jan 1917 50
+    unit:9 M. G. S. (68,54)
+    activity:other (23,54)
+    unit:C. F. A. (44,57)
+  5 Jan 1917 58
+    unit:Cfa (45,58)
+    unit:19 Hussars (70,61)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (70,61)
+    activity:other (23,62)
+  6 Jan 1917 66
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (53,66)
+    unit:Y Battery: Royal Horse Artillery (48,70)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (83,71)
+    activity:other (24,71)
+  7 Jan 1917 75
+    unit:1 f.s re (53,78)
+    activity:other (23,79)
+  8 Jan 1917 83
+    unit:15 Hussars (55,86)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (55,87)
+    activity:other (24,87)
+Page 67 (type diary) http://wd3.herokuapp.com/pages/AWD00030zc  ----------
+  9 Jan 1917 21
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (54,24)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (79,24)
+    unit:19 Hussars (53,25)
+    unit:15 Hussars (78,25)
+    place:Questrecques (6,26)
+    activity:other (23,27)
+  10 Jan 1917 30
+    unit:No. 13 Vety. Hosp. (51,30)
+    unit:Bed. Yeom. (45,34)
+    activity:other (23,34)
+  11 Jan 1917 35
+    unit:5 Cavalry R. Park (74,35)
+    unit:No.13 veterinary hospital (54,38)
+    activity:other (24,38)
+  12 Jan 1917 39
+    unit:No. 13 Vety. Hosp. (53,39)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (48,43)
+    unit:19 Hussars (47,44)
+    activity:other (24,44)
+    unit:Bed. Yeom. (43,51)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (45,51)
+  15 Jan 1917 52
+    unit:Bed. Yeom. (45,55)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (47,55)
+    unit:A. H. T. Coy. (81,56)
+    activity:other (25,56)
+    person:Sergeant H Keeble (departed_posted) (41,60)
+  16 Jan 1917 65
+    unit:15 Hussars (46,69)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (49,69)
+    activity:other (24,69)
+    unit:A. H. T. Coy. (72,71)
+    unit:9 Signal Troop (46,75)
+  17 Jan 1917 76
+    unit:1 Cavalry Division: 9 cavalry Brigade: 9 signal troop: royal engineers (53,76)
+  18 Jan 1917 80
+    unit:15 Hussars (45,80)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (50,80)
+    activity:other (23,80)
+    unit:A. H. T. Coy. (76,81)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (47,84)
+    activity:other (22,86)
+  19 Jan 1917 87
+    unit:9 M. G. S. (44,87)
+    activity:other (23,90)
+    place:Questrecques (6,91)
+    unit:9 Signal Troop (40,91)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 9 signal troop: royal engineers (42,91)
+    unit:5 R. Park (79,92)
+Page 68 (type diary) http://wd3.herokuapp.com/pages/AWD00030yl  ----------
+  21 Jan 1917 20
+    activity:other (22,23)
+  22 Jan 1917 24
+    unit:15 Hussars (43,24)
+    place:Questrecques (6,25)
+    activity:other (24,27)
+    unit:Bed. Yeom. (45,28)
+    unit:15 Hussars (73,28)
+  23 Jan 1917 30
+    unit:A. H. T. Coy. (66,31)
+    activity:other (21,34)
+  24 Jan 1917 35
+    unit:15 Hussars (46,35)
+    unit:Y Batty. R. H. A. (48,39)
+  25 Jan 1917 41
+    activity:other (22,42)
+    unit:9 Signal Troop (47,45)
+    unit:15 Hussars (72,45)
+    activity:other (26,46)
+  27 Jan 1917 48
+    unit:No. 13 V. H. (50,48)
+    activity:other (23,52)
+  28 Jan 1917 53
+    unit:2 Anzac Mounted Reg. (49,53)
+    person:Sergeant F Ford (joined) (36,57)
+    unit:No. 2 V. H. (66,59)
+  29 Jan 1917 61
+    activity:other (23,65)
+    unit:No. 13 V. H. (51,65)
+    unit:15 Hussars (26,68)
+  30 Jan 1917 69
+    activity:other (24,72)
+    unit:2 Anzac M. R. (49,72)
+    unit:15 Hussars (70,74)
+    unit:19 Hussars (44,75)
+  31 Jan 1917 76
+    activity:other (25,81)
+    unit:9 Signal Corps (71,81)
+    person:Captain Knowles (77,91)
+Page 69 (type cover)
+Page 70 (type diary) http://wd3.herokuapp.com/pages/AWD000310f  ----------
+  1 Feb 1917 21
+    place:Questrecques (5,26)
+    activity:other (22,26)
+    unit:15 Hussars (48,26)
+    unit:A. H. T. Coy. (72,26)
+    unit:1 Fuel Squad (48,27)
+    activity:training (34,29)
+  2 Feb 1917 30
+    activity:other (23,34)
+    unit:Y Batty. (51,34)
+    unit:Y Battalion (47,34)
+    unit:1 F.S. Royal Engineers (80,35)
+    unit:!st fs re (80,36)
+  3 Feb 1917 45
+    activity:training (41,45)
+    activity:other (22,51)
+  4 Feb 1917 54
+    activity:other (24,58)
+    unit:19 Hussars (74,59)
+  5 Feb 1917 60
+    unit:9 Signal Troop (44,64)
+    activity:other (24,65)
+    unit:19 Hussars (76,65)
+    unit:15 Hussars (39,68)
+  6 Feb 1917 73
+    unit:1 F.S. Royal Engineers (50,73)
+    unit:1 F S R E (60,73)
+    activity:other (23,78)
+  9 Feb 1917 82
+    activity:other (22,86)
+  12 Feb 1917 87
+    activity:other (24,91)
+    unit:19 Hussars (69,91)
+    unit:Y Batty. (53,95)
+Page 71 (type diary) http://wd3.herokuapp.com/pages/AWD0003102  ----------
+  13 Feb 1917 26
+    activity:other (21,26)
+    place:Questrecques (5,28)
+    unit:15 Hussars (70,31)
+  14 Feb 1917 32
+    unit:9 Cavalry Brigade H.Q. (44,32)
+    activity:other (21,33)
+    activity:other (27,33)
+  16 Feb 1917 36
+    activity:other (22,39)
+  18 Feb 1917 40
+    unit:19 Hussars (43,40)
+    activity:other (22,43)
+  19 Feb 1917 44
+    activity:other (23,48)
+  22 Feb 1917 49
+    unit:2 Anzac Mounted Reg. (48,49)
+    unit:A. H. T. Coy. (87,52)
+  23 Feb 1917 53
+    activity:other (22,53)
+    activity:other (22,57)
+  25 Feb 1917 58
+    unit:Bed. Yeom. (48,58)
+    unit:19 Hussars (87,60)
+    activity:other (23,61)
+  27 Feb 1917 62
+    unit:A. H. T. Coy. (50,66)
+    unit:C. R. H. Q. (66,67)
+    activity:other (22,67)
+    unit:18 Hussars (87,69)
+    unit:No. 13 Vet. Hosp. (52,70)
+  28 Feb 1917 71
+    activity:other (22,74)
+    unit:19 Hussars (61,75)
+    unit:19 Hussars (44,77)
+    unit:Bed. Yeom. (53,81)
+    unit:H.Q. 9 C.B. (51,85)
+    unit:19 Hussars (44,88)
+    unit:Bed. Yeom. (76,88)
+    person:Captain R H Knowles (commander) (68,94)
+Page 72 (type cover)
+Page 73 (type diary) http://wd3.herokuapp.com/pages/AWD000312w  ----------
+  1 Mar 1917 23
+    unit:13 Veterinary Hospital (83,24)
+    activity:other (22,26)
+  2 Mar 1917 27
+    unit:No. 13 Vety. H. (83,27)
+    place:Questrecques (6,28)
+    unit:15 Hussars (38,31)
+    unit:No. 13 Vety. H. (73,31)
+    unit:13 veterinary Hospital (72,32)
+    activity:other (23,32)
+    unit:2 anzac mounted Regiment (48,37)
+    unit:2 Anzac M. R. (44,38)
+  3 Mar 1917 39
+    unit:2 Anzac M. R. (56,43)
+    unit:2 anzac mounted Regiment (65,43)
+    activity:other (22,45)
+    unit:H.Q. 9 C.B. (46,46)
+    unit:9 Cavalry Brigade (45,46)
+    unit:Aux. H. T. Coy. (68,47)
+    domestic:inspections (30,50)
+  4 Mar 1917 51
+    unit:1 Cavalry Division (59,51)
+  5 Mar 1917 54
+    activity:other (22,54)
+    unit:9 Cavalry Field Ambulance (51,58)
+    unit:9 C. F. A. (46,59)
+  6 Mar 1917 62
+    person:Sergeant F Ford (37,62)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (54,62)
+    unit:Y Battery Royal Horse Artillary (74,64)
+    unit:Y Batty. (71,66)
+    unit:Beds. Yeom. (47,67)
+    activity:other (24,67)
+    unit:15 Hussars (20,70)
+    unit:13 mvs (62,72)
+    unit:No. 13 Vety. H. (58,73)
+  7 Mar 1917 78
+  8 Mar 1917 86
+    unit:19 Hussars (48,82)
+    activity:other (22,82)
+    unit:Bed. Yeom. (86,84)
+    activity:other (22,87)
+Page 74 (type diary) http://wd3.herokuapp.com/pages/AWD00030zh  ----------
+  9 Mar 1917 21
+    activity:other (21,26)
+    place:Questrecques (6,27)
+    unit:1 Cavalry (58,28)
+    unit:1 C.D. Rest Station (56,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (65,30)
+    person:Shoeing Smith J C Hales (casualty_wounded) (33,30)
+  11 Mar 1917 31
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (48,31)
+    activity:other (21,34)
+  12 Mar 1917 35
+    unit:Bed. Yeom. (80,39)
+    activity:other (21,39)
+    unit:15 Hussars (40,40)
+    unit:H.Q. 1 C. D. (35,42)
+  13 Mar 1917 43
+    unit:2 Anzac M. R. (48,47)
+    unit:2 anzac mounted Regiment (56,47)
+    activity:other (21,49)
+    person:Sergeant T E Pilkington (joined) (37,54)
+  14 Mar 1917 55
+  15 Mar 1917 59
+    unit:Aux. H. T. Coy. (47,59)
+    activity:other (21,59)
+    unit:19 Hussars (39,62)
+    activity:other (22,62)
+  16 Mar 1917 63
+    unit:1 Field Squadron Royal Engineers (51,66)
+  17 Mar 1917 67
+    unit:1 F. S. Royal Engineers (43,67)
+    activity:other (23,67)
+    unit:15 Hussars (40,70)
+  19 Mar 1917 71
+    activity:other (22,71)
+    unit:19 Hussars (41,74)
+  20 Mar 1917 75
+    activity:other (23,75)
+    activity:other (22,78)
+    unit:5 Cavalry Reserve Park (48,79)
+  22 Mar 1917 83
+    activity:other (22,86)
+Page 75 (type diary) http://wd3.herokuapp.com/pages/AWD00030zm  ----------
+  31 Mar 1917 86
+  23 Mar 1917 21
+    activity:other (22,26)
+    unit:Bed. Yeom. (40,27)
+    unit:Y Batty. R. H. A. (64,27)
+    place:Questrecques (7,27)
+  24 Mar 1917 28
+    activity:other (20,31)
+    unit:Aux. H. T. Coy. (43,32)
+  25 Mar 1917 35
+    person:Private T Boden (joined) (40,39)
+    unit:No. 6 Vety. Hosp. (81,40)
+    activity:other (21,42)
+  26 Mar 1917 43
+    unit:1 F. S. Royal Engineers (47,43)
+    activity:other (21,47)
+    unit:Y Batty. (62,47)
+  27 Mar 1917 48
+    unit:9 C. F. A. (42,48)
+    activity:other (23,52)
+    unit:18 Hussars (43,52)
+    unit:19 Hussars (63,52)
+    unit:Bed. Yeom. (84,52)
+    unit:9 C. B. H.Q. (29,54)
+    unit:1 C. D. H.Q. (66,54)
+    unit:Y Batty. (47,55)
+    unit:19 Hussars (38,62)
+    unit:Bed. Yeom. (85,62)
+    unit:1 F. S. Royal Engineers (62,66)
+    unit:9 C. F. A. (81,66)
+  28 Mar 1917 67
+    unit:9 C. F. A. (44,70)
+    activity:other (23,71)
+    unit:9 C. F. A. (85,72)
+    activity:training (45,73)
+  29 Mar 1917 75
+    unit:15 Hussars (41,78)
+    activity:other (22,81)
+  30 Mar 1917 82
+    unit:9 C. B. (43,82)
+    activity:other (22,85)
+  31 Mar 1917 86
+    unit:Aux. H. T. Coy. (45,86)
+    unit:19 Hussars (85,87)
+    unit:Y Batty. (41,90)
+    person:Captain R H Knowles (commander) (63,92)
+    person:Captain Knowles (author) (70,93)
+Page 76 (type cover)
+Page 77 (type diary) http://wd3.herokuapp.com/pages/AWD000311u  ----------
+  1 Apr 1917 25
+    place:Questrecques (4,26)
+  2 Apr 1917 30
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (65,30)
+    person:Shoeing Smith Hales (casualty_wounded) (35,30)
+    unit:No. 3 Canadian Hosp. (68,30)
+    place:Questrecques (7,30)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (49,31)
+    unit:Beds. Yeom. (51,34)
+    activity:other (22,34)
+  3 Apr 1917 35
+    unit:15 Hussars (49,38)
+    unit:1 Field Squadron R. E. (82,39)
+    unit:Aux. H. T. Coy. (64,41)
+    unit:H Batty. R. H. A. (30,45)
+    unit:Y Batty. R. H. A. (69,45)
+    unit:9 C. F. A. (41,49)
+    unit:Bed. Yeom. (71,49)
+    unit:Aux. H. T. Coy. (40,53)
+    unit:No. 13 Vety. Hosp. (56,57)
+    unit:No. 2 Vety. Hosp. (80,60)
+  4 Apr 1917 61
+    unit:H.Q. 1 Cavalry Division. (52,65)
+    unit:Bed. Yeom. (84,65)
+    activity:other (21,65)
+    unit:Y Batty. R. H. A. (45,68)
+    unit:No. 13 Vety. Hosp. (51,71)
+  5 Apr 1917 73
+    activity:movement (23,76)
+    place:Questrecques (32,77)
+    place:Bezinghem (80,77)
+  6 Apr 1917 81
+    unit:15 Hussars (50,85)
+    unit:9 M. G. S. (82,85)
+    place:Bezinghem (6,85)
+    activity:other (22,85)
+Page 78 (type diary) http://wd3.herokuapp.com/pages/AWD00030yn  ----------
+  7 Apr 1917 20
+    activity:other (21,29)
+    unit:15 Hussars (43,30)
+    unit:Y Batty. R. H. A. (77,30)
+    place:Bezinghem (5,31)
+    unit:No. 13 Vety. Hosp. (58,33)
+    activity:movement (23,36)
+    place:Bezinghem (32,37)
+  8 Apr 1917 42
+    activity:movement (62,45)
+    place:Liebsart (6,46)
+    activity:movement (23,46)
+  9 Apr 1917 58
+    place:Aubigny (6,61)
+    unit:No. 21 M. V. S. (59,64)
+  10 Apr 1917 65
+    unit:15 Hussars (58,70)
+    activity:other (24,70)
+    unit:Bed. Yeom. (55,72)
+    unit:9 C. F. A. (82,72)
+    unit:19 Hussars (20,73)
+    weather:cold (57,75)
+    weather:rain (66,75)
+  11 Apr 1917 84
+    unit:No. 1 M. V. S. (55,84)
+    unit:1 Field Squad. R. E. (51,88)
+    unit:Y Batty. (76,88)
+    activity:other (23,88)
+    unit:Bed. Yeom. (20,91)
+    unit:19 Hussars (64,91)
+Page 79 (type diary) http://wd3.herokuapp.com/pages/AWD00030zx  ----------
+  11 Apr 1917 24
+    place:Saint Michel (77,28)
+    activity:other (22,28)
+  12 Apr 1917 29
+    place:Aubigny (5,29)
+    unit:No. 1 M. V. S. (59,29)
+    unit:Y Batty. R. H. A. (47,33)
+    unit:Beds. Yeom. (73,33)
+    activity:other (24,34)
+    unit:15 Hussars (32,36)
+    unit:7 Brigade H.C. R.H.A. (60,37)
+    unit:Beds. Yeom. (65,40)
+  13 Apr 1917 41
+    unit:7 Brigade H.C. R.H.A. (47,45)
+    unit:1 F. S. Royal Engineers (76,45)
+    activity:other (22,46)
+    unit:Y Batty. R. H. A. (30,48)
+    unit:9 C. F. A. (59,48)
+    unit:Beds. Yeom. (84,48)
+    unit:1 F. S. Royal Engineers (54,52)
+    unit:Y Batty. R. H. A. (78,52)
+    unit:Beds. Yeom. (28,56)
+    person:Driver A W Leach (departed_leave) (41,60)
+  14 Apr 1917 64
+    unit:16 Royal Scots (78,68)
+    activity:other (23,68)
+    unit:15 Hussars (54,69)
+    unit:15 Hussars (60,71)
+    unit:No. 22 Vety. Hosp. (45,77)
+  15 Apr 1917 80
+    unit:1 F. S. Royal Engineers (48,83)
+    unit:Y Batty. R. H. A. (66,84)
+    activity:other (22,84)
+    unit:Yorkshire Hussars (26,88)
+    unit:9 M. G. S. (77,88)
+    place:Bettincourt (56,92)
+Page 80 (type diary) http://wd3.herokuapp.com/pages/AWD0003120  ----------
+  15 Apr 1917 25
+  16 Apr 1917 28
+    place:Aubigny (5,28)
+    unit:No. 22 V. H. (72,28)
+    activity:movement (37,33)
+    activity:other (22,36)
+    unit:No. 22 Vety. Hosp. (56,37)
+  17 Apr 1917 40
+    unit:No. 21 M. V. S. (71,41)
+  19 Apr 1917 44
+    unit:B Echelon (31,44)
+    unit:19 Hussars (72,48)
+    activity:other (23,49)
+    unit:15 Hussars (47,49)
+    unit:9 C. F. A. (77,51)
+    unit:Beds. Yeom. (37,52)
+    unit:9 M. G. S. (58,52)
+    unit:Y Batty. R. H. A. (26,55)
+    unit:18 Hussars (57,56)
+    unit:4 D. G.s (24,60)
+    place:Bouquemaison (68,63)
+    unit:No. 22 Vety. Hosp. (31,67)
+    place:Buire-Au-Bois (75,71)
+    activity:movement (21,71)
+  20 Apr 1917 78
+    place:Buire-Au-Bois (5,81)
+    activity:other (22,83)
+    unit:18 Hussars (60,83)
+Page 81 (type diary) http://wd3.herokuapp.com/pages/AWD00030yg  ----------
+  23 Apr 1917 20
+    activity:other (24,28)
+    unit:M.M.P. 9 C.B. H.Q. (45,29)
+    unit:Rest Station 1 Cavalry Division. (73,33)
+    person:Private A Howard (casualty_wounded) (38,33)
+  24 Apr 1917 34
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 1 (66,34)
+    person:Driver J Ainsworth (joined) (41,38)
+    person:Driver J Wood (joined) (77,38)
+    place:Havre (26,44)
+  25 Apr 1917 45
+    unit:19 Hussars (77,49)
+    unit:15 Hussars (49,50)
+    activity:other (24,50)
+    unit:Beds. Yeom. (40,53)
+    unit:9 M. G. S. (65,53)
+    unit:9 C. F. A. (83,53)
+    unit:Y Batty. R. H. A. (33,56)
+    unit:H.Q. 9 C. B. (67,57)
+    unit:No. 22 Vety. Hosp. (59,61)
+    activity:movement (30,64)
+    place:Buire-Au-Bois (47,64)
+    place:Abbeville (31,68)
+  26 Apr 1917 72
+    place:Abbeville (32,76)
+    place:Buire-Au-Bois (78,76)
+    activity:movement (22,77)
+    unit:Beds. Yeom. (49,83)
+    activity:other (22,84)
+  27 Apr 1917 85
+    unit:9 C. B. H.Q. (47,89)
+    activity:other (22,89)
+Page 82 (type diary) http://wd3.herokuapp.com/pages/AWD00030zr  ----------
+  27 Apr 1917 23
+  29 Apr 1917 29
+    place:Buire-Au-Bois (5,29)
+    person:Private A Howard (returned_hospital) (36,29)
+    activity:other (24,33)
+  30 Apr 1917 41
+    domestic:inspections (37,41)
+    activity:other (23,45)
+    unit:9 C. F. A. (50,45)
+    place:Hesdin (61,48)
+    unit:No. 13 Vety. Hosp. (74,48)
+    person:Driver C Robus (joined) (42,56)
+    person:Driver S Key (joined) (74,56)
+    person:Captain R H Knowles (61,84)
+    person:Captain R H Knowles (70,84)
+Page 83 (type cover)
+Page 84 (type diary) http://wd3.herokuapp.com/pages/AWD000310h  ----------
+  1 May 1917 22
+    place:Buire-Au-Bois (6,26)
+    domestic:inspections (24,27)
+  2 May 1917 30
+    activity:training (35,30)
+    activity:other (22,34)
+    unit:9 M. G. S. (46,34)
+    place:Buire-Au-Bois (7,35)
+  3 May 1917 37
+    person:Private E Perkins (discipline) (35,37)
+    place:Buire-Au-Bois (29,41)
+    activity:movement (21,42)
+  4 May 1917 44
+    place:Petit-Boubers (6,48)
+    activity:other (22,49)
+    unit:15 Hussars (42,49)
+  6 May 1917 50
+  7 May 1917 54
+    activity:other (22,54)
+    unit:Y Batty. R. H. A. (46,54)
+    unit:15 Hussars (47,58)
+    unit:19 Hussars (78,58)
+    activity:other (24,59)
+    unit:Y Batty. R. H. A. (81,60)
+    unit:9 M. G. S. (62,61)
+    unit:Beds. Yeom. (36,62)
+    unit:No. 22 Vety. Hosp. (51,65)
+  9 May 1917 66
+    activity:other (22,70)
+    unit:Beds. Yeom. (46,70)
+  10 May 1917 71
+    unit:15 Hussars (49,74)
+    unit:Beds. Yeom. (78,74)
+    activity:other (23,75)
+    unit:9 M. G. S. (60,76)
+    unit:Y Batty. (37,77)
+  11 May 1917 78
+    unit:15 Hussars (43,82)
+    unit:19 Hussars (70,83)
+    activity:other (23,84)
+    unit:Beds. Yeom. (29,86)
+    unit:9 M. G. S. (56,86)
+    unit:47 Reserve Park (80,86)
+    unit:19 Hussars (72,90)
+    unit:15 Hussars (46,91)
+Page 85 (type diary) http://wd3.herokuapp.com/pages/AWD000312n  ----------
+  12 May 1917 22
+    unit:15 Hussars (42,24)
+    activity:other (22,26)
+    place:Petit Boubers (7,27)
+    unit:No. 22 Vety. Hosp. (48,28)
+    person:Private T Belcher (joined) (38,31)
+    unit:No. 2 Vety. Hosp. (69,31)
+  13 May 1917 33
+    unit:No. 22 Vety. Hosp. (47,36)
+    place:Tangry (67,40)
+    activity:movement (47,40)
+  14 May 1917 41
+    activity:movement (52,42)
+    activity:movement (23,44)
+  15 May 1917 45
+    place:Tangry (28,45)
+    place:Tangry (7,45)
+  16 May 1917 49
+    activity:other (22,50)
+    unit:9 M. G. S. (41,50)
+    activity:other (22,53)
+    unit:15 Hussars (42,53)
+    unit:9 M. G. S. (69,53)
+  18 May 1917 57
+    activity:other (24,57)
+    unit:Y Batty. (73,57)
+    unit:Y Batty. R.H.A. (42,58)
+    activity:other (22,61)
+    unit:15 Hussars (42,61)
+  19 May 1917 62
+    activity:other (22,66)
+    unit:9 M. G. S. (44,66)
+    activity:movement (54,70)
+    activity:movement (21,70)
+  20 May 1917 72
+    unit:Beds. Yeom. (73,75)
+    place:Bethune (5,76)
+    activity:other (22,76)
+    unit:15 Hussars (43,76)
+    unit:19 Hussars (35,79)
+    unit:9 M. G. S. (63,79)
+    unit:Aux. Horse Transport (22,83)
+  21 May 1917 86
+    unit:1 Army H.Q. (46,89)
+    activity:other (22,90)
+    unit:7 Brigade Am. Colm. (72,90)
+    unit:No. 23 Vety. Hosp. (54,94)
+Page 86 (type diary) http://wd3.herokuapp.com/pages/AWD00030xs  ----------
+  21 May 1917 23
+  22 May 1917 26
+    activity:other (22,26)
+    place:Bethune (6,27)
+    unit:1 Army (62,30)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (81,30)
+    activity:other (23,30)
+    unit:15 Hussars (82,31)
+    unit:19 Hussars (29,33)
+    unit:9 M. G. S. (65,33)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (30,33)
+    unit:Beds. (42,35)
+  23 May 1917 36
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (41,36)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (71,36)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (66,39)
+    unit:Y Batty. (44,40)
+    unit:19 Hussars (86,40)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (85,40)
+    unit:9 M. G. S. (66,41)
+    activity:other (24,41)
+    unit:4 D.G.s (61,43)
+    unit:15 Hussars (36,44)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (36,44)
+    unit:No.23 veterinary hospital (62,46)
+  24 May 1917 47
+    activity:other (23,48)
+    unit:1 Cavalry Division: divisional artillery: vii Brigade: i Battery (74,49)
+    unit:Bed. Yeom. (50,50)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (47,50)
+    unit:I Batty. R. H. A. (72,51)
+    unit:7 Brigade Amm. Column (37,53)
+    unit:1 Cavalry Division: divisional artillery: vii Brigade: ammunition column (40,53)
+  25 May 1917 56
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (42,59)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (66,59)
+    unit:Bed. Yeom. (42,60)
+    unit:19 Hussars (62,60)
+    activity:other (23,60)
+  26 May 1917 62
+    unit:No. 23 Vety. Hosp. (52,63)
+    unit:No.23 veterinary hospital (54,64)
+    unit:1 Cavalry Division: divisional artillery: vii Brigade: i Battery (42,66)
+    unit:I Batty. (39,67)
+    unit:Aux. H. T. Coy. (66,67)
+    activity:other (23,67)
+    unit:No. 23 V. H. (81,70)
+  27 May 1917 71
+    unit:No.23 veterinary hospital (82,71)
+  28 May 1917 74
+    person:Private H G Reddall (departed_leave) (36,74)
+    unit:No.23 veterinary hospital (55,77)
+    unit:No. 23 Vety. Hosp. (52,78)
+    unit:No.8 veterinary hospital (85,78)
+    activity:other (22,78)
+    unit:Y Batty. R. H. A. (40,80)
+    unit:No. 23 Vety. Hosp. (84,80)
+  30 May 1917 81
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (61,84)
+    unit:19 Hussars (57,85)
+    activity:other (21,85)
+    unit:Beds. Yeom. (44,86)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (23,87)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (45,87)
+    unit:15 Hussars (23,88)
+    unit:No. 4 V. H. (68,89)
+  31 May 1917 90
+    person:Private J Preston (joined) (42,90)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (50,93)
+    activity:other (22,93)
+    person:Captain R H Knowles (69,93)
+    person:Captain R H Knowles (76,93)
+    unit:No. 23 Vety. Hosp. (50,94)
+Page 87 (type cover)
+Page 88 (type diary) http://wd3.herokuapp.com/pages/AWD0003104  ----------
+  1 Jun 1917 22
+    activity:other (22,26)
+    unit:19 Hussars (49,26)
+    unit:9 M. G. S. (80,26)
+    place:Bethune (7,28)
+    unit:Beds. Yeom. (42,30)
+  2 Jun 1917 34
+    unit:No. 23 V. H. (25,34)
+    activity:other (24,39)
+    unit:15 Hussars (49,39)
+    unit:19 Hussars (67,39)
+    unit:9 C. F. A. (44,42)
+  3 Jun 1917 43
+    unit:Beds. Yeom. (21,43)
+    unit:I Batty. R. H. A. (62,43)
+    activity:other (24,48)
+    unit:9 M. G. S. (49,48)
+    unit:No. 23 V. H. (26,52)
+    unit:No. 2 V. H. (64,55)
+    person:Private P Plumbly (departed_posted) (40,55)
+    person:Private J Jackson (departed_leave) (39,60)
+  4 Jun 1917 61
+    activity:other (24,66)
+    unit:15 Hussars (43,66)
+    unit:No. 23 V. H. (67,70)
+    unit:1 E. L. M.V.S. (44,74)
+    activity:movement (22,77)
+  5 Jun 1917 78
+    place:La Gorgue (72,78)
+    unit:19 Hussars (43,82)
+  6 Jun 1917 83
+    unit:A. H. T. Coy. (75,83)
+    place:La Gorgue (5,83)
+    activity:other (22,85)
+    unit:19 Hussars (46,87)
+  7 Jun 1917 88
+    unit:Beds. Yeom. (79,88)
+    activity:other (23,89)
+    unit:19 Hussars (50,91)
+    unit:Beds. Yeom. (74,92)
+    person:Private Preston (34,93)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (44,94)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (55,94)
+Page 89 (type diary) http://wd3.herokuapp.com/pages/AWD0003128  ----------
+  8 Jun 1917 22
+    unit:19 Hussars (49,25)
+    unit:9 C. F. A. (86,25)
+    unit:Y Batty. R. H. A. (68,26)
+    activity:other (21,27)
+    place:Bethune (5,27)
+    place:La Gorgue (66,29)
+    person:Private H G Reddall (returned_leave) (38,32)
+  10 Jun 1917 33
+  11 Jun 1917 40
+  12 Jun 1917 48
+    place:Bethune (3,54)
+  13 Jun 1917 55
+  14 Jun 1917 61
+  16 Jun 1917 83
+Page 90 (type diary) http://wd3.herokuapp.com/pages/AWD00030yz  ----------
+  17 Jun 1917 22
+    activity:other (22,25)
+  18 Jun 1917 26
+    place:Bethune (7,26)
+    activity:other (23,30)
+    unit:15 Hussars (40,30)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (45,30)
+    unit:19 Hussars (79,31)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (81,31)
+  19 Jun 1917 35
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (70,38)
+    activity:other (23,39)
+    unit:Bed. Yeom. (45,39)
+    unit:15 Hussars (67,39)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (47,39)
+  20 Jun 1917 40
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (48,44)
+    unit:1 Cavalry Division: divisional artillery: vii Brigade: ammunition column (74,44)
+    activity:other (23,45)
+    unit:19 Hussars (42,45)
+    unit:Am. Col. 7 Brigade (71,45)
+  21 Jun 1917 46
+  22 Jun 1917 51
+    activity:other (22,51)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (52,54)
+    unit:9 canadian field ambulance (77,55)
+    activity:other (24,56)
+    unit:19 Hussars (47,56)
+    unit:9 C. F. A. (77,56)
+    unit:18 Hussars (61,59)
+    unit:A. H. T. Coy. (35,60)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 18 Hussars (65,60)
+    unit:No. 4 Vety. Hosp. (67,69)
+    person:Private J M Terry (joined) (39,69)
+    unit:A. H. T. Coy. (48,72)
+  23 Jun 1917 73
+  24 Jun 1917 78
+    activity:other (23,79)
+    unit:No.23 veterinary hospital (75,82)
+    unit:No. 23 V. H. (75,83)
+  26 Jun 1917 84
+    activity:other (24,84)
+    unit:15 Hussars (48,87)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (50,87)
+    place:Bethune (5,88)
+    unit:18 Hussars (45,91)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 18 Hussars (48,91)
+    unit:A. H. T. Coy. (24,92)
+    unit:9 C. F. A. (68,93)
+    unit:9 canadian field ambulance (71,93)
+Page 91 (type diary) http://wd3.herokuapp.com/pages/AWD000312a  ----------
+  26 Jun 1917 20
+    person:Private E Perkins (36,25)
+    unit:1 Cavalry Division. (79,25)
+    place:Bethune (7,26)
+  27 Jun 1917 27
+    activity:other (23,30)
+    unit:19 Hussars (45,31)
+    unit:No. 7 Vety. Hosp. (67,34)
+    person:Private E Perkins (departed_posted) (37,35)
+  28 Jun 1917 36
+    unit:Bed. Yeom. (82,40)
+    activity:other (24,41)
+    unit:15 Hussars (30,44)
+  29 Jun 1917 45
+    activity:other (24,50)
+    unit:Bed. Yeom. (51,50)
+    person:Captain R H Knowles (70,80)
+Page 92 (type cover)
+Page 93 (type diary) http://wd3.herokuapp.com/pages/AWD00030zn  ----------
+  1 Jul 1917 22
+    place:Bethune (6,26)
+  2 Jul 1917 27
+  3 Jul 1917 39
+  4 Jul 1917 49
+  5 Jul 1917 55
+  6 Jul 1917 63
+    domestic:inspections (42,75)
+  7 Jul 1917 83
+Page 94 (type diary) http://wd3.herokuapp.com/pages/AWD00030y7  ----------
+  9 Jul 1917 23
+    place:Bethune (6,26)
+    activity:other (32,37)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 3; wounded: 0 (41,40)
+  14 Jul 1917 59
+    person:Sergeant E Pilkington (departed_leave) (41,71)
+  16 Jul 1917 81
+    place:Neuf Berquin (69,81)
+  17 Jul 1917 86
+    unit:15 Hussars (52,86)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (52,91)
+Page 95 (type diary) http://wd3.herokuapp.com/pages/AWD00030yv  ----------
+  17 Jul 1917 0
+  19 Jul 1917 21
+    domestic:inspections (37,27)
+    place:Neuf Berquin (6,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (61,31)
+    person:Private J Jackson (casualty_wounded) (37,31)
+    person:Shoeing Smith Mahon (casualty_wounded) (33,34)
+  20 Jul 1917 37
+    unit:Bed. Yeom. (42,37)
+    unit:9 M. G. S. (61,37)
+    activity:other (22,39)
+    activity:other (24,39)
+    place:Estaires (75,40)
+    unit:No. 23 Vety. Hosp. (49,41)
+    person:Sergeant R Plummer (joined) (39,43)
+  21 Jul 1917 50
+    person:Shoeing Smith Mahon (returned_hospital) (48,50)
+    person:Private J Jackson (returned_hospital) (37,53)
+    person:Private P Smart (other) (43,57)
+  24 Jul 1917 62
+    activity:other (22,62)
+    unit:15 Hussars (45,62)
+    place:Estaires (74,65)
+    unit:No. 23 Vety. Hosp. (47,66)
+    activity:other (22,67)
+    unit:9 M. G. S. (44,69)
+    person:Simmons (other) (35,72)
+  25 Jul 1917 73
+    activity:other (23,76)
+  26 Jul 1917 77
+    unit:Bed. Yeom. (45,77)
+    person:Sergeant H Pressland (joined) (39,80)
+    unit:No. 23 Vety. Hosp. (36,85)
+    activity:other (23,88)
+    unit:7 Brigade Am. Col. R.H.A. (50,88)
+    place:Estaires (59,91)
+    unit:9 M. G. S. (26,92)
+Page 96 (type diary) http://wd3.herokuapp.com/pages/AWD00030yt  ----------
+  27 Jul 1917 21
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (46,24)
+    place:Neuf Berquin (5,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (60,28)
+    person:Private F W Simmons (departed_sick) (37,28)
+    unit:1 Cavalry Division: 1 field squadron: royal engineers (46,31)
+  29 Jul 1917 33
+    person:Sergeant H Pressland (departed_posted) (40,36)
+    person:Sergeant H Pressland (departed_posted) (23,36)
+    unit:Military mounted police (51,40)
+  30 Jul 1917 42
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (67,44)
+    unit:9 canadian field ambulance (47,45)
+    person:Private C Steel (joined) (40,54)
+  31 Jul 1917 55
+    unit:No.23 veterinary hospital (80,58)
+    place:Estaires (63,59)
+    person:Captain R H Knowles (author) (64,89)
+Page 97 (type cover)
+Page 98 (type diary) http://wd3.herokuapp.com/pages/AWD000310w  ----------
+  2 Aug 1917 23
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (44,26)
+    place:Rober Metz (6,27)
+    place:Neuf Berquin (7,28)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,29)
+  3 Aug 1917 30
+    person:Private F W Simmons (casualty_wounded) (38,31)
+    place:Neuf Berquin (6,33)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (46,34)
+  4 Aug 1917 36
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (48,38)
+  5 Aug 1917 39
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (43,41)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (63,42)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 9 Hussars (83,42)
+  6 Aug 1917 43
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (45,46)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 18 Hussars (72,47)
+  7 Aug 1917 50
+    unit:1 Cavalry Division: 2 cavalry Brigade: 9 lancers (43,50)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (44,55)
+    unit:1 Cavalry Division: ammunition column: r.h.a. (75,55)
+  8 Aug 1917 59
+    unit:1 Cavalry Division: ammunition column: r.h.a.no.23 veterinary hospital (47,59)
+  9 Aug 1917 62
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (56,66)
+  10 Aug 1917 67
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (47,69)
+    unit:1 Cavalry reserve park (23,74)
+    unit:1 Cavalry Division: ammunition column: r.h.a.no.23 veterinary hospital (47,78)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (69,81)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (45,82)
+    unit:1 Cavalry Division: ammunition column: r.h.a. (24,86)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (57,86)
+Page 99 (type diary) http://wd3.herokuapp.com/pages/AWD00030yf  ----------
+  10 Aug 1917 23
+    person:Sergeant T E Pilkington (returned_leave) (34,26)
+    place:Rober Metz (6,26)
+  11 Aug 1917 27
+  12 Aug 1917 31
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (45,31)
+  13 Aug 1917 35
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (44,35)
+  14 Aug 1917 39
+    unit:1 Cavalry Division: 2 cavalry Brigade: 9 lancers (46,42)
+    unit:No.23 veterinary hospital (61,46)
+  15 Aug 1917 49
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (43,50)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (47,54)
+    unit:Royal army medical corps: 9 Cavalry field ambulance (74,54)
+  17 Aug 1917 55
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (45,58)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (73,58)
+    unit:No.23 veterinary hospital (61,63)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 9 lancers (44,66)
+  18 Aug 1917 69
+    person:Private W W Clark (joined) (40,70)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (50,73)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (77,73)
+  20 Aug 1917 74
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (47,78)
+  21 Aug 1917 82
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (46,86)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (25,89)
+Page 100 (type diary) http://wd3.herokuapp.com/pages/AWD00030yw  ----------
+  23 Aug 1917 25
+  24 Aug 1917 27
+  25 Aug 1917 39
+  26 Aug 1917 43
+  27 Aug 1917 62
+    activity:movement (21,70)
+    person:Private H G Reddall (36,73)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (59,73)
+  28 Aug 1917 74
+    place:Flechin (6,75)
+    activity:movement (21,77)
+  29 Aug 1917 79
+    activity:movement (21,81)
+    place:Attin (56,82)
+    place:Verchocq (6,83)
+    person:Private Blundell (departed_leave) (36,85)
+Page 101 (type cover)
+Page 102 (type diary) http://wd3.herokuapp.com/pages/AWD00030xw  ----------
+  2 Sep 1917 22
+    place:Lincres (56,24)
+    time:1000AM (38,25)
+    time:1200PM (81,25)
+    activity:movement (22,25)
+    place:Attin (7,25)
+  3 Sep 1917 27
+    person:Private J Burrows (departed_leave) (39,29)
+    place:Lincres (8,31)
+    activity:training (31,33)
+  4 Sep 1917 35
+    domestic:inspections (41,37)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (82,39)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (53,40)
+  5 Sep 1917 41
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (85,43)
+    unit:7 Brigade: Royal Horse Artillery ammunition column (56,44)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (64,48)
+  6 Sep 1917 50
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (75,51)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (52,54)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (38,58)
+  7 Sep 1917 59
+    person:Private H A Reddall (returned_hospital) (39,63)
+    activity:other (30,66)
+  8 Sep 1917 67
+    person:Sergeant T Mansfield (departed_leave) (38,71)
+    person:Private R Broderick (departed_leave) (66,71)
+  9 Sep 1917 75
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (53,78)
+    activity:other (30,79)
+  10 Sep 1917 80
+    unit:1 Cavalry Division: 9 cavalry Brigade: 9 signal troop: royal engineers (66,81)
+    activity:other (33,84)
+  11 Sep 1917 85
+    person:Private A Angel (departed_leave) (39,86)
+    person:Private A (departed_leave) (36,87)
+Page 103 (type diary) http://wd3.herokuapp.com/pages/AWD0003116  ----------
+  12 Sep 1917 20
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (46,24)
+  13 Sep 1917 25
+  14 Sep 1917 28
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (43,28)
+    unit:No.10 veterinary hospital (49,32)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (67,33)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (47,35)
+  15 Sep 1917 36
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (49,39)
+  18 Sep 1917 40
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (51,43)
+  19 Sep 1917 45
+    person:Private J Byron (departed_leave) (39,49)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (81,51)
+  20 Sep 1917 53
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (48,53)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (73,55)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (51,56)
+    unit:No.10 veterinary hospital (61,62)
+    unit:No.10 veterinary hospital (49,66)
+  22 Sep 1917 67
+    unit:No.10 veterinary hospital (47,72)
+  23 Sep 1917 73
+    unit:No.10 veterinary hospital (45,76)
+    person:Private W H Harding (departed_leave) (41,82)
+  24 Sep 1917 83
+    unit:7 Brigade ammunition column (54,86)
+Page 104 (type diary) http://wd3.herokuapp.com/pages/AWD00030yr  ----------
+  26 Sep 1917 21
+    person:Sergeant E Pilkington (departed_posted) (35,25)
+    place:Lincres (6,25)
+  27 Sep 1917 26
+    unit:9 Cavalry Brigade: 1/1 bedfordshire yeomanry (50,29)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (33,34)
+  28 Sep 1917 35
+    unit:No.10 veterinary hospital (50,38)
+    unit:9 Cavalry Brigade: 1/1 bedfordshire yeomanry (54,41)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (76,42)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (34,47)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 9 signal troop: royal engineers (59,47)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (51,50)
+Page 105 (type cover)
+Page 106 (type diary) http://wd3.herokuapp.com/pages/AWD0003109  ----------
+  2 Oct 1917 23
+  4 Oct 1917 27
+    place:Lincres (8,27)
+  5 Oct 1917 37
+  6 Oct 1917 50
+    place:Courset (74,75)
+    activity:movement (34,75)
+  7 Oct 1917 76
+    activity:movement (23,82)
+    place:Serques (64,83)
+    place:Serques (4,85)
+  8 Oct 1917 88
+Page 107 (type diary) http://wd3.herokuapp.com/pages/AWD0003125  ----------
+  10 Oct 1917 25
+    unit:No.23 veterinary hospital (54,25)
+    place:Serques (6,25)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (65,29)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (44,31)
+  11 Oct 1917 37
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (34,37)
+    activity:movement (23,43)
+    time:0500PM (75,43)
+    place:Serques (34,43)
+    place:Courset (68,43)
+    time:0830AM (47,44)
+    unit:No.23 veterinary hospital (60,50)
+    place:Serques (6,51)
+  12 Oct 1917 53
+    time:0230PM (69,57)
+    place:Courset (6,57)
+    activity:movement (23,58)
+    place:Courset (29,58)
+    place:Lincres (59,58)
+  14 Oct 1917 60
+    place:Lincres (5,65)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (44,68)
+    place:Lincres (5,69)
+  15 Oct 1917 71
+    time:1230PM (72,73)
+    place:Lefaux (61,74)
+    activity:movement (23,75)
+    time:1100AM (41,75)
+    place:Lincres (29,75)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (80,79)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (56,80)
+  16 Oct 1917 83
+    person:Private G Wood (departed_leave) (39,88)
+Page 108 (type diary) http://wd3.herokuapp.com/pages/AWD000311z  ----------
+  17 Oct 1917 22
+    place:Lefaux (5,25)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (47,26)
+  18 Oct 1917 29
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (42,34)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (65,34)
+    unit:Y Battery (83,34)
+    unit:1 Cavalry Division: divisional artillery: vii Brigade: ammunition column (45,40)
+  19 Oct 1917 41
+    unit:No.13 veterinary hospital (63,45)
+  21 Oct 1917 50
+    person:Driver S Key (departed_leave) (77,53)
+    person:Sergeant Plummer (departed_leave) (32,55)
+  22 Oct 1917 62
+    unit:3 Cavalry Division: 8 cavalry Brigade: 10 Hussars (45,69)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (69,69)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (86,69)
+  24 Oct 1917 71
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (45,78)
+  25 Oct 1917 81
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (46,85)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (69,85)
+  26 Oct 1917 88
+    unit:No.13 veterinary hospital (71,92)
+Page 109 (type diary) http://wd3.herokuapp.com/pages/AWD000310m  ----------
+  26 Oct 1917 20
+  27 Oct 1917 26
+  29 Oct 1917 33
+  30 Oct 1917 42
+  31 Oct 1917 50
+Page 110 (type cover)
+Page 111 (type diary) http://wd3.herokuapp.com/pages/AWD00030yd  ----------
+  2 Nov 1917 21
+    person:Private P W Smart (departed_leave) (75,25)
+  3 Nov 1917 32
+  4 Nov 1917 40
+    person:Driver Richards (joined) (74,44)
+  6 Nov 1917 52
+    person:Captain R H Knowles (departed_posted) (27,55)
+    person:Captain G A Roberts (80,55)
+    person:Captain G A Roberts (commander) (25,59)
+  8 Nov 1917 60
+  9 Nov 1917 68
+  10 Nov 1917 75
+    activity:movement (79,79)
+    person:Private S Cook (departed_leave) (29,79)
+    place:Le Faux (22,82)
+    place:Maresquel (51,82)
+    person:Driver K McLean (departed_sick) (80,83)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (41,86)
+Page 112 (type diary) http://wd3.herokuapp.com/pages/AWD00030yi  ----------
+  11 Nov 1917 24
+    activity:movement (21,28)
+    place:Maresquel (29,29)
+    place:Lemeillard (59,29)
+    place:Maresquel (6,29)
+    time:0830AM (37,29)
+  12 Nov 1917 30
+    activity:movement (21,33)
+  13 Nov 1917 34
+    place:Lemillard (30,34)
+    place:Querrieux (57,34)
+    time:0930AM (42,34)
+    time:0530PM (72,35)
+    place:Corbie (39,40)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (35,45)
+    activity:movement (47,45)
+    time:0400PM (66,45)
+    place:Querrieux (56,46)
+    time:0900PM (54,48)
+  15 Nov 1917 49
+    place:Mericourt Sur Somme (26,49)
+    place:Mericourt Sur Somme (32,53)
+    place:Le Mesnil Bruntel (6,53)
+    activity:movement (22,53)
+    time:0300PM (54,53)
+  16 Nov 1917 57
+    time:0730PM (25,57)
+  18 Nov 1917 59
+  19 Nov 1917 65
+  20 Nov 1917 72
+    activity:movement (22,76)
+    time:0200AM (54,76)
+    place:Ytres (83,77)
+    time:0300PM (26,80)
+Page 113 (type diary) http://wd3.herokuapp.com/pages/AWD000310n  ----------
+  21 Nov 1917 21
+    place:Ytres (6,26)
+  22 Nov 1917 36
+  23 Nov 1917 65
+Page 114 (type diary) http://wd3.herokuapp.com/pages/AWD00030y9  ----------
+  24 Nov 1917 19
+    place:Ytres (7,24)
+  25 Nov 1917 32
+    activity:other (25,36)
+  26 Nov 1917 50
+  27 Nov 1917 69
+    activity:movement (69,77)
+  29 Nov 1917 80
+    person:Captain G Roberts (89,85)
+    activity:movement (22,90)
+Page 115 (type cover)
+Page 116 (type diary) http://wd3.herokuapp.com/pages/AWD000310g  ----------
+  1 Dec 1917 22
+    place:Roisel (7,27)
+  3 Dec 1917 28
+    place:Roisel (31,31)
+  4 Dec 1917 33
+    activity:movement (23,33)
+    place:Mericourt Sur Somme (6,38)
+    person:Private P Dunne (departed_leave) (24,41)
+  5 Dec 1917 42
+  6 Dec 1917 50
+  7 Dec 1917 57
+    place:La Flaque (78,60)
+  8 Dec 1917 67
+  10 Dec 1917 81
+Page 117 (type diary) http://wd3.herokuapp.com/pages/AWD000312p  ----------
+  11 Dec 1917 21
+    place:Mericourt Sur Somme (7,26)
+  12 Dec 1917 29
+  13 Dec 1917 36
+  14 Dec 1917 45
+    place:La Flaque (54,56)
+  17 Dec 1917 58
+  18 Dec 1917 78
+Page 118 (type diary) http://wd3.herokuapp.com/pages/AWD0003133  ----------
+  20 Dec 1917 20
+    place:Mericourt Sur Somme (5,26)
+  21 Dec 1917 28
+    place:Mericourt Sur Somme (31,32)
+    activity:movement (22,32)
+    activity:other (27,37)
+  22 Dec 1917 38
+    place:Mesnil Bruntel (6,42)
+  25 Dec 1917 45
+  26 Dec 1917 54
+    person:Private A J Doyle (departed_sick) (66,59)
+  27 Dec 1917 60
+  28 Dec 1917 65
+  29 Dec 1917 69
+  30 Dec 1917 76
+  31 Dec 1917 84
+Page 119 (type cover)
+Page 120 (type diary) http://wd3.herokuapp.com/pages/AWD0003115  ----------
+  1 Jan 1918 20
+    place:Mesnil Bruntel (7,26)
+  2 Jan 1918 27
+  3 Jan 1918 34
+  4 Jan 1918 39
+    activity:other (24,42)
+  5 Jan 1918 44
+  7 Jan 1918 54
+  9 Jan 1918 64
+  10 Jan 1918 70
+  11 Jan 1918 78
+  12 Jan 1918 86
+Page 121 (type diary) http://wd3.herokuapp.com/pages/AWD00030yo  ----------
+  13 Jan 1918 22
+  14 Jan 1918 26
+    place:Mesnil Bruntel (5,27)
+  15 Jan 1918 32
+  16 Jan 1918 39
+  17 Jan 1918 44
+  18 Jan 1918 53
+  19 Jan 1918 61
+  20 Jan 1918 71
+  21 Jan 1918 77
+  22 Jan 1918 82
+  23 Jan 1918 89
+Page 122 (type diary) http://wd3.herokuapp.com/pages/AWD000312j  ----------
+  25 Jan 1918 22
+  26 Jan 1918 27
+    place:Mesnil Bruntel (6,27)
+  27 Jan 1918 38
+  28 Jan 1918 45
+    person:Driver G Dixon (departed_leave) (54,51)
+  29 Jan 1918 53
+  30 Jan 1918 68
+  31 Jan 1918 80
+    person:Captain Roberts (78,86)
+Page 123 (type cover)
+Page 124 (type diary) http://wd3.herokuapp.com/pages/AWD000312i  ----------
+  31 Jan 1918 0
+  1 Feb 1918 23
+    place:Le Mesnil (6,29)
+  2 Feb 1918 33
+    person:Captain R L L Hart (commander) (44,40)
+  3 Feb 1918 41
+    person:Captain G A Roberts (departed_leave) (49,42)
+  4 Feb 1918 45
+  5 Feb 1918 49
+  6 Feb 1918 52
+  7 Feb 1918 59
+  8 Feb 1918 68
+  11 Feb 1918 80
+Page 125 (type diary) http://wd3.herokuapp.com/pages/AWD00030xx  ----------
+  12 Feb 1918 28
+  13 Feb 1918 37
+  14 Feb 1918 41
+  15 Feb 1918 45
+  16 Feb 1918 49
+  18 Feb 1918 52
+  19 Feb 1918 60
+  20 Feb 1918 68
+    person:Captain G A Roberts (returned_leave) (25,68)
+  21 Feb 1918 72
+  22 Feb 1918 76
+  25 Feb 1918 84
+Page 126 (type diary) http://wd3.herokuapp.com/pages/AWD0003108  ----------
+  26 Feb 1918 21
+  27 Feb 1918 29
+  28 Feb 1918 40
+    unit: (20,41)
+    unit: (27,44)
+    domestic:inspections (38,45)
+    person:Brigadier General D'Arcy Legard (other) (54,45)
+Page 127 (type diary) http://wd3.herokuapp.com/pages/AWD000311a  ----------
+  1 Mar 1918 22
+  2 Mar 1918 27
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (42,27)
+    person:Private A Pickard (departed_sick) (26,27)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (55,28)
+    place:Le Mesnil (6,28)
+  3 Mar 1918 33
+  4 Mar 1918 38
+  5 Mar 1918 48
+    person:Shoeing Smith J Mahon (returned_leave) (27,52)
+    person:Private C Steele (returned_leave) (79,53)
+  6 Mar 1918 67
+  7 Mar 1918 73
+  8 Mar 1918 79
+  9 Mar 1918 86
+Page 128 (type diary) http://wd3.herokuapp.com/pages/AWD00030z2  ----------
+  10 Mar 1918 22
+  11 Mar 1918 29
+  12 Mar 1918 38
+  14 Mar 1918 53
+  15 Mar 1918 64
+  17 Mar 1918 75
+    domestic:inspections (26,75)
+  18 Mar 1918 79
+  19 Mar 1918 88
+Page 129 (type diary) http://wd3.herokuapp.com/pages/AWD000310r  ----------
+  26 Mar 1918 83
+  20 Mar 1918 23
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (61,25)
+    domestic:parades (27,26)
+    place:Le Mesnil (7,28)
+  21 Mar 1918 30
+    unit:Y Battery: Royal Horse Artillery (52,30)
+    unit:Y Battery: Royal Horse Artillery (37,33)
+    unit:8 Hussars (58,34)
+    unit:19 corps (71,34)
+    unit:1 Cavalry Division: 1 field squadron: royal engineers (46,38)
+    person:Corporal Burrows (departed_posted) (74,41)
+    unit:10 machine gun squadron (44,48)
+  22 Mar 1918 49
+    unit:39 machine gun squadron (61,51)
+    unit:No.7 veterinary hospital (71,51)
+    activity:movement (24,54)
+    place:Enneman (62,54)
+    activity:movement (24,56)
+    place:Enneman (5,58)
+    place:Enneman (45,59)
+  23 Mar 1918 60
+    activity:movement (46,60)
+    activity:movement (26,62)
+    place:Mysery (32,62)
+    place:Curchy (79,62)
+  24 Mar 1918 68
+    activity:movement (23,71)
+    activity:movement (76,71)
+    place:Curchy (31,71)
+    place:Vauvilliers (58,71)
+    place:Curchy (6,71)
+    place:Ciresy (39,75)
+  25 Mar 1918 76
+    place:Ciresy (28,78)
+    activity:movement (23,79)
+    place:Ciresy (6,80)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (40,82)
+  26 Mar 1918 83
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (54,83)
+    activity:movement (22,86)
+    place:Bussy-les-Daours (4,86)
+    place:Canaples (60,87)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (39,89)
+Page 130 (type diary) http://wd3.herokuapp.com/pages/AWD000311f  ----------
+  26 Mar 1918 0
+  27 Mar 1918 25
+    unit:Y Battery: Royal Horse Artillery (56,26)
+    unit:No. 7 veterinary hospital (85,26)
+    place:Canaples (6,28)
+    unit:No.10 mobile veterinary section (52,30)
+    activity:movement (72,30)
+    place:Canaples (78,30)
+  28 Mar 1918 32
+    activity:movement (22,35)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 4 dragoon guards (69,36)
+    unit:1 Cavalry Division: 1 cavalry Brigade: 11 Hussars (46,39)
+    unit:1 Cavalry Division: 1 cavalry Brigade: 5 dragoon guards (24,40)
+    unit:1 Cavalry Division: 1 cavalry Brigade: 2 dragoon guards (queens bays) (62,40)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (79,40)
+    unit:1 Cavalry Division: 1 cavalry Brigade machine gun squadron (40,42)
+    unit:Royal field artillery (56,43)
+    unit:3 Cavalry Division: essex yeomanry (25,44)
+    person:Corporal Burrows (departed_posted) (70,44)
+    place:Hamelet (62,47)
+  29 Mar 1918 48
+    person:Captain Morton (other) (79,48)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 4 dragoon guards (35,51)
+    unit:1 Cavalry Division: 1 cavalry Brigade: 11 Hussars (46,51)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (59,52)
+    unit:No.10 mobile veterinary hospital (26,56)
+    unit:No.1 mobile veterinary hospital (81,56)
+    unit:No.10 mobile veterinary hospital (39,58)
+  30 Mar 1918 60
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (36,62)
+    unit:1 Cavalry Division: 1 cavalry Brigade: 5 dragoon guards (77,63)
+    unit:1 Cavalry Division: 1 cavalry Brigade: 11 Hussars (87,63)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 9 lancers (28,66)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (63,67)
+    unit:3 Cavalry Division: essex yeomanry (75,68)
+    unit:No. 1 mobile veterinary hospital (42,71)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 9 lancers (74,71)
+  31 Mar 1918 72
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (35,75)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 4 dragoon guards (48,75)
+    unit:1 Cavalry Division: 1 cavalry Brigade: 18 Hussars (63,75)
+    place:Bussy-les-Daours (6,77)
+    unit:No.1 mobile veterinary hospital (28,80)
+    place:Calais (48,84)
+    unit:No.39 mobile veterinary hospital (24,85)
+    person:Captain G A Roberts (81,89)
+Page 131 (type cover)
+Page 132 (type diary) http://wd3.herokuapp.com/pages/AWD00030zl  ----------
+  1 Apr 1918 23
+    unit:Royal field artillery (51,24)
+    unit:5 Cavalry Division: 8 Hussars (35,25)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 18 Hussars (70,25)
+  2 Apr 1918 26
+  3 Apr 1918 33
+    unit:1 Cavalry reserve park (60,36)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 18 Hussars (81,36)
+    unit:1 Cavalry Division: 2 cavalry Brigade machine gun squadron (40,37)
+    unit:1 Cavalry Division: 2 cavalry Brigade: h Battery: Royal Horse Artillery (24,40)
+    unit:5 Cavalry Division: 8 Hussars (57,40)
+    unit:174 Battery: royal field artillery (74,40)
+    unit:1 Cavalry Division: 1 cavalry Brigade: 2 dragoon guards (queens bays) (43,41)
+    unit:277 Battery: royal field artillery (30,44)
+    unit:A Battery: 180 Brigade: royal field artillery (57,44)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 4 dragoon guards (81,44)
+  4 Apr 1918 48
+    unit:1 Cavalry Division: 9 cavalry Brigade: 1/1 bedfordshire yeomanry (25,48)
+    unit:No. 1 mobile veterinary hospital (63,48)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (39,51)
+    unit:144 Battery:royal field artillery (79,51)
+    unit:174 Battery:royal field artillery (60,52)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 4 dragoon guards (29,59)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 9 lancers (47,59)
+  5 Apr 1918 61
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (78,62)
+    unit:1 Cavalry Division: 1 field squadron: royal engineers (39,63)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (47,67)
+    unit:1 Cavalry Division: essex yeomanry (64,67)
+    unit:8 Hussars (28,68)
+    unit:No.10 mobile veterinary hospital (80,70)
+    unit:Veterinary section (28,71)
+    place:Picquigny (38,71)
+    activity:movement (25,75)
+  6 Apr 1918 76
+    place:Taubourg Saint Pierre (8,78)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (40,79)
+    unit:8 Hussars (56,79)
+    place:Amiens (7,81)
+    unit:8 Hussars (28,83)
+    unit:9 canadian field ambulance (50,83)
+    unit:No. 1 mobile veterinary hospital (48,88)
+Page 133 (type diary) http://wd3.herokuapp.com/pages/AWD000310a  ----------
+  7 Apr 1918 20
+    unit:19 Hussars (32,23)
+    unit:15 Hussars (51,23)
+    unit:9 gun squadron (69,23)
+    place:Taubourg Saint Pierre (8,24)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (55,24)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (76,24)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (37,25)
+    activity:other (22,26)
+    place:Amiens (5,27)
+  8 Apr 1918 29
+    unit:15 Hussars (73,31)
+    unit:8 Hussars (59,32)
+    unit:1 Cavalry Division: 1 field squadron: royal engineers (40,34)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (77,34)
+  9 Apr 1918 36
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (58,38)
+    unit:1 field squadron (38,38)
+    unit:15 Hussars (55,38)
+    unit:18 Hussars (70,38)
+    unit:1 Cavalry Division: 2 cavalry Brigade: 18 Hussars (75,39)
+    unit:1 Cavalry Division: 1 field squadron: royal engineers (41,40)
+    unit:19 Hussars (29,42)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (32,43)
+  10 Apr 1918 44
+    unit:No. 1 mobile veterinary hospital (62,44)
+    place:Taubourg Saint Pierre (81,46)
+    unit:9 gun squadron (51,46)
+    activity:movement (73,47)
+    place:Barly (6,48)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (55,48)
+    time:1030PM (86,50)
+    time:0230PM (59,51)
+    place:Barly (80,52)
+    place:Barly (6,52)
+  11 Apr 1918 53
+    unit:15 Hussars (34,56)
+    activity:movement (77,57)
+    place:Barly (84,58)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (36,58)
+    unit:Y Battery: Royal Horse Artillery (54,58)
+    time:1230PM (58,61)
+  12 Apr 1918 64
+    unit:1 field squadron (35,64)
+    time:0400PM (83,65)
+    unit:1 Cavalry Division: 1 field squadron: royal engineers (36,67)
+    unit:No.10 mobile veterinary hospital (78,67)
+    activity:movement (36,71)
+  13 Apr 1918 74
+    time:0900PM (81,74)
+    unit:19 Hussars (33,76)
+    unit:15 Hussars (56,76)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (38,77)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (63,78)
+    activity:other (22,79)
+    unit:No.10 mobile veterinary hospital (50,82)
+  14 Apr 1918 84
+    unit:8 Hussars (36,86)
+    unit:15 Hussars (52,87)
+    unit:19 Hussars (72,87)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (59,88)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (81,89)
+Page 134 (type diary) http://wd3.herokuapp.com/pages/AWD0003119  ----------
+  15 Apr 1918 22
+  16 Apr 1918 32
+  17 Apr 1918 39
+  18 Apr 1918 52
+    person:Private Throwers (joined) (81,56)
+  19 Apr 1918 61
+  20 Apr 1918 66
+  21 Apr 1918 72
+  22 Apr 1918 77
+  23 Apr 1918 86
+    person:Sergeant F Mutlow (departed_posted) (58,90)
+Page 135 (type diary) http://wd3.herokuapp.com/pages/AWD00030ys  ----------
+  23 Apr 1918 0
+  24 Apr 1918 25
+    unit:9 machine gun squadron (35,25)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (40,29)
+  25 Apr 1918 32
+    unit:19 Hussars (55,32)
+    unit:8 Hussars (35,35)
+    unit:Xi corps v.e.s. aire (84,35)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (57,36)
+  26 Apr 1918 40
+    unit:9 machine gun squadron (32,44)
+    unit:1 Cavalry Division: 9 cavalry Brigade machine gun squadron (39,45)
+  27 Apr 1918 47
+    activity:training (71,50)
+    domestic:inspections (33,50)
+  28 Apr 1918 53
+    activity:training (38,57)
+  29 Apr 1918 60
+    activity:training (76,62)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (38,63)
+    unit:15 Hussars (32,63)
+  30 Apr 1918 68
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (83,70)
+    person:Private W J Lees (departed_sick) (21,70)
+    place:Ligny-les-Aire (6,74)
+    person:Captain G A Roberts (other) (29,75)
+    activity:training (53,81)
+Page 136 (type cover)
+Page 137 (type diary) http://wd3.herokuapp.com/pages/AWD000312f  ----------
+  1 May 1918 24
+    unit:8 Hussars (37,25)
+    unit:Y Battery: Royal Horse Artillery (60,26)
+  2 May 1918 28
+    unit:Xi corps v.s.e. aire (83,31)
+    unit:8 Hussars (36,32)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (54,32)
+  3 May 1918 36
+    unit:1 Cavalry divisiojn: 9 cavalry Brigade: 19 Hussars (37,40)
+  4 May 1918 43
+    unit:Y Battery: Royal Horse Artillery (66,43)
+    unit:1 Cavalry divisiojn: 9 cavalry Brigade machine gun squadron (39,45)
+    unit:Xi corps v.s.e. aire (41,52)
+    domestic:parades (30,55)
+  5 May 1918 57
+    unit:1 Cavalry divisiojn: 9 cavalry Brigade machine gun squadron (37,61)
+  6 May 1918 66
+    activity:training (65,69)
+  7 May 1918 73
+    unit:8 Hussars (48,76)
+    activity:training (62,76)
+  8 May 1918 79
+    unit:8 Hussars (36,80)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (58,82)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 19 Hussars (74,82)
+    unit:Xi corps v.s.e. aire (40,85)
+    domestic:hygiene (29,88)
+    domestic:hygiene (38,88)
+    person:Captain Roberts (83,89)
+Page 138 (type diary) http://wd3.herokuapp.com/pages/AWD00030ym  ----------
+  9 May 1918 22
+    person:Private J Weightman (departed_leave) (38,25)
+    place:Ligny les Aire (7,28)
+  10 May 1918 29
+    unit:19 Hussars (31,32)
+  11 May 1918 35
+    unit:9 Brigade headquarters (31,36)
+    person:Sergeant C R Davies (joined) (62,37)
+    person:Driver Leach (departed_posted) (80,41)
+    person:Lance Corporal Leach (82,44)
+    activity:other (21,45)
+    unit:9 machine gun squadron (61,46)
+  13 May 1918 48
+    unit:8 Hussars (31,50)
+  14 May 1918 53
+    unit:18 Hussars (32,54)
+  15 May 1918 59
+    unit:15 Hussars (44,60)
+    unit:8 Hussars (44,65)
+  16 May 1918 66
+    unit:Y battalion r h a (38,69)
+  17 May 1918 71
+    unit:19 machine gun squadron (30,74)
+  18 May 1918 76
+    unit:19 Hussars (32,79)
+    activity:other (38,79)
+  19 May 1918 81
+    unit:9 machine gun squadron (30,84)
+    activity:movement (54,84)
+    person:Captain Roberts (85,89)
+Page 139 (type diary) http://wd3.herokuapp.com/pages/AWD000311x  ----------
+  19 May 1918 0
+  20 May 1918 24
+    unit:8 Hussars (36,25)
+    unit:15 Hussars (52,25)
+    unit:19 Hussars (67,26)
+    place:Auchy Au Bois (6,28)
+    unit:Xi corps (58,29)
+  21 May 1918 32
+    activity:movement (22,35)
+    time:0800AM (43,35)
+    place:Sautrecourt (64,36)
+    place:Sautrecourt (7,37)
+  22 May 1918 42
+    place:Sautrecourt (33,43)
+    activity:movement (22,43)
+    time:0230PM (80,44)
+  23 May 1918 47
+    place:Genne Ivergny (7,49)
+    unit:15 Hussars (35,50)
+    unit:19 Hussars (55,50)
+  24 May 1918 51
+  25 May 1918 57
+    unit:15 Hussars (37,61)
+  26 May 1918 64
+    person:Private J Jackson (departed_leave) (65,66)
+    unit:19 Hussars (37,66)
+  27 May 1918 70
+    unit:15 Hussars (38,73)
+  28 May 1918 75
+    unit:19 Hussars (43,80)
+    unit:15 Hussars (28,81)
+  29 May 1918 84
+    person:Driver Evans (joined) (82,86)
+  30 May 1918 89
+  31 May 1918 94
+Page 140 (type cover)
+Page 141 (type diary) http://wd3.herokuapp.com/pages/AWD0003129  ----------
+  1 Jun 1918 22
+    unit:19 Stussars (36,25)
+  2 Jun 1918 30
+    unit:8 Stussars (33,33)
+  4 Jun 1918 36
+    unit:7 Brigade Armored Column (45,40)
+  5 Jun 1918 42
+  6 Jun 1918 52
+  7 Jun 1918 58
+  8 Jun 1918 64
+    person:Sergeant Mutlow (departed_posted) (81,68)
+  10 Jun 1918 73
+    person:Driver Seal (joined) (46,79)
+  11 Jun 1918 81
+    domestic:parades (72,94)
+Page 142 (type diary) http://wd3.herokuapp.com/pages/AWD000311n  ----------
+  12 Jun 1918 22
+  13 Jun 1918 28
+    activity:movement (25,28)
+    person:Driver G Dixon (departed_posted) (32,31)
+  14 Jun 1918 36
+  15 Jun 1918 51
+    activity:movement (56,55)
+  17 Jun 1918 59
+  18 Jun 1918 64
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (77,70)
+  19 Jun 1918 71
+    activity:movement (71,79)
+    person:Private W H Harding (departed_sick) (28,87)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (52,88)
+Page 143 (type diary) http://wd3.herokuapp.com/pages/AWD00030z5  ----------
+  20 Jun 1918 24
+  21 Jun 1918 31
+  22 Jun 1918 44
+  23 Jun 1918 48
+  24 Jun 1918 56
+  25 Jun 1918 63
+  26 Jun 1918 68
+  27 Jun 1918 72
+  28 Jun 1918 76
+  29 Jun 1918 79
+  30 Jun 1918 86
+Page 144 (type cover)
+Page 145 (type diary) http://wd3.herokuapp.com/pages/AWD00030y1  ----------
+  1 Jul 1918 23
+    place:Gennes-Ivergny (6,26)
+  3 Jul 1918 29
+    person:Private Ball (joined) (42,37)
+  4 Jul 1918 41
+  5 Jul 1918 46
+  6 Jul 1918 54
+  8 Jul 1918 64
+  9 Jul 1918 71
+  11 Jul 1918 79
+    person:Private S Cook (departed_leave) (27,93)
+Page 146 (type diary) http://wd3.herokuapp.com/pages/AWD00030yx  ----------
+  12 Jul 1918 22
+  13 Jul 1918 29
+  14 Jul 1918 34
+    activity:movement (44,41)
+  15 Jul 1918 42
+    place:Thievres (6,48)
+  16 Jul 1918 50
+  18 Jul 1918 58
+  19 Jul 1918 63
+  20 Jul 1918 67
+  21 Jul 1918 70
+    activity:movement (22,70)
+    place:Occoches (9,72)
+  22 Jul 1918 74
+    person:Private W H Harding (departed_leave) (34,74)
+    place:Occoches (6,75)
+  23 Jul 1918 78
+    activity:movement (22,78)
+  25 Jul 1918 83
+    place:Hem (6,83)
+  26 Jul 1918 88
+Page 147 (type diary) http://wd3.herokuapp.com/pages/AWD000311w  ----------
+  27 Jul 1918 22
+  28 Jul 1918 27
+    place:Hem (7,28)
+  29 Jul 1918 33
+    person:Sergeant C R Davies (departed_leave) (55,37)
+  30 Jul 1918 43
+    time:0930AM (39,53)
+    time:1200AM (79,53)
+    activity:movement (25,55)
+  31 Jul 1918 60
+    place:Le Meillard (6,65)
+Page 148 (type cover)
+Page 149 (type diary) http://wd3.herokuapp.com/pages/AWD00030yu  ----------
+  1 Aug 1918 23
+    place:Le Meillard (7,27)
+  3 Aug 1918 28
+  4 Aug 1918 33
+  5 Aug 1918 41
+    activity:movement (51,49)
+    place:Le Meillard (31,51)
+    time:1130PM (41,52)
+    activity:movement (24,52)
+    place:Bertrecourt (67,53)
+  6 Aug 1918 54
+    time:0400AM (75,54)
+    place:Bertrecourt (6,56)
+    activity:movement (51,58)
+    activity:movement (22,60)
+    time:0830PM (43,62)
+    place:Bertrecourt (31,62)
+  7 Aug 1918 63
+    place:Longpre (7,66)
+    time:1030PM (84,69)
+    activity:movement (68,69)
+    activity:movement (26,70)
+    activity:movement (56,71)
+    place:Saint Nicholas (56,72)
+    time:0400AM (68,73)
+  8 Aug 1918 74
+    place:Saint Nicholas (6,76)
+    person:Corporal Richardson (other) (46,76)
+  9 Aug 1918 82
+Page 150 (type diary) http://wd3.herokuapp.com/pages/AWD00030zz  ----------
+  9 Aug 1918 22
+    place:Saint Nicholas (6,28)
+  12 Aug 1918 48
+    activity:movement (61,56)
+    person:Corporal Richardson (other) (55,61)
+  13 Aug 1918 62
+    place:Camon (7,66)
+  16 Aug 1918 79
+    activity:movement (25,92)
+Page 151 (type diary) http://wd3.herokuapp.com/pages/AWD00030za  ----------
+  16 Aug 1918 22
+    place:Monplaisier Farm (8,24)
+    person:Corporal E Deane (award) (33,25)
+  17 Aug 1918 26
+  18 Aug 1918 31
+  19 Aug 1918 36
+    time:0900PM (51,61)
+    activity:movement (27,62)
+  20 Aug 1918 65
+    time:1200PM (76,65)
+    place:Thievres (7,69)
+  21 Aug 1918 72
+    person:Corporal Richardson (other) (35,72)
+  22 Aug 1918 81
+    person:Corporal Richardson (other) (33,90)
+    activity:movement (71,90)
+Page 152 (type diary) http://wd3.herokuapp.com/pages/AWD000312y  ----------
+  23 Aug 1918 20
+    place:Orville (7,24)
+    place:Orville (4,26)
+  24 Aug 1918 30
+  25 Aug 1918 36
+  26 Aug 1918 43
+    activity:movement (24,49)
+  27 Aug 1918 56
+    place:Blavincourt (6,61)
+  28 Aug 1918 63
+  29 Aug 1918 71
+  30 Aug 1918 77
+Page 153 (type cover)
+Page 154 (type diary) http://wd3.herokuapp.com/pages/AWD0003100  ----------
+  2 Sep 1918 26
+    place:Blavincourt (5,26)
+  3 Sep 1918 30
+  4 Sep 1918 38
+  5 Sep 1918 44
+  6 Sep 1918 49
+    person:Corporal Deane (departed_leave) (28,52)
+    person:Corporal Deane (departed_leave) (24,53)
+  8 Sep 1918 54
+  9 Sep 1918 60
+  10 Sep 1918 65
+  11 Sep 1918 72
+    person:Private Howard (departed_leave) (33,72)
+  12 Sep 1918 78
+  13 Sep 1918 82
+Page 155 (type diary) http://wd3.herokuapp.com/pages/AWD000312u  ----------
+  14 Sep 1918 23
+    place:Blavincourt (7,27)
+  15 Sep 1918 28
+  16 Sep 1918 34
+  18 Sep 1918 46
+    activity:movement (23,48)
+    place:Blavincourt (32,50)
+    place:Autheux (64,51)
+  19 Sep 1918 52
+    place:Autheux (8,57)
+  20 Sep 1918 59
+  21 Sep 1918 72
+  22 Sep 1918 82
+  23 Sep 1918 90
+Page 156 (type diary) http://wd3.herokuapp.com/pages/AWD000310v  ----------
+  24 Sep 1918 21
+    place:Autheux (6,27)
+    activity:movement (66,28)
+    activity:movement (32,30)
+  25 Sep 1918 31
+    place:Bus (6,35)
+  26 Sep 1918 36
+    activity:movement (42,36)
+    place:Meulte (6,41)
+  27 Sep 1918 44
+    activity:movement (25,44)
+    place:Manancourt (6,47)
+  28 Sep 1918 49
+  29 Sep 1918 58
+    activity:movement (26,67)
+  30 Sep 1918 70
+    place:Hervilly (6,75)
+Page 157 (type cover)
+Page 158 (type diary) http://wd3.herokuapp.com/pages/AWD000310x  ----------
+  1 Oct 1918 22
+    place:Hervilly (9,26)
+  2 Oct 1918 27
+  3 Oct 1918 33
+  4 Oct 1918 38
+    person:Private Smart (other) (76,41)
+  5 Oct 1918 46
+    person:Private Weightman (other) (35,46)
+  6 Oct 1918 51
+  7 Oct 1918 60
+    activity:movement (75,64)
+  8 Oct 1918 68
+    person:Captain R L L Hart (other) (80,71)
+    place:Villeret (8,72)
+    person:Corporal Richardson (other) (24,73)
+    activity:movement (50,76)
+  9 Oct 1918 85
+    place:Estrees (7,89)
+Page 159 (type diary) http://wd3.herokuapp.com/pages/AWD00030xy  ----------
+  10 Oct 1918 22
+    place:Estrees (8,28)
+  12 Oct 1918 35
+  13 Oct 1918 41
+    activity:movement (26,49)
+  14 Oct 1918 51
+    place:Trefcon (7,54)
+  15 Oct 1918 55
+    place:Trefcon (7,58)
+  16 Oct 1918 60
+  17 Oct 1918 65
+  18 Oct 1918 71
+  19 Oct 1918 76
+  22 Oct 1918 85
+Page 160 (type diary) http://wd3.herokuapp.com/pages/AWD000310j  ----------
+  23 Oct 1918 20
+    person:Corporal Richardson (other) (26,21)
+    place:Trefcon (6,27)
+  24 Oct 1918 29
+  25 Oct 1918 37
+  26 Oct 1918 48
+    person:Captain G A Roberts (departed_leave) (36,54)
+    person:Captain Hart (joined) (35,57)
+  27 Oct 1918 61
+    activity:other (27,65)
+  28 Oct 1918 66
+  29 Oct 1918 71
+  30 Oct 1918 76
+  31 Oct 1918 82
+    person:Captain Rupert L L Hart (77,90)
+Page 161 (type cover)
+Page 162 (type diary) http://wd3.herokuapp.com/pages/AWD00030ze  ----------
+  1 Dec 1918 23
+    place:Dohlain (7,27)
+    activity:movement (23,27)
+  3 Dec 1918 28
+  4 Dec 1918 32
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (42,35)
+    person:Shoeing Smith J Mahon (departed_sick) (25,35)
+    person:Captain Hart (other) (79,35)
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (58,36)
+  5 Dec 1918 41
+    activity:movement (22,43)
+    place:Verviers (8,44)
+  6 Dec 1918 46
+    place:Duren (7,48)
+    activity:movement (23,48)
+  7 Dec 1918 50
+    unit:9 Brigade (52,51)
+    activity:movement (23,53)
+    place:Elsdorf (6,54)
+  8 Dec 1918 55
+    place:Betzheim (6,58)
+  9 Dec 1918 59
+    activity:movement (23,61)
+  10 Dec 1918 64
+    place:Coln (6,65)
+  11 Dec 1918 67
+    place:Coln (7,67)
+  12 Dec 1918 71
+    time:0900AM (18,74)
+    activity:movement (23,74)
+  13 Dec 1918 75
+    time:0830AM (18,78)
+    place:Burrig (7,78)
+  14 Dec 1918 79
+    activity:movement (22,79)
+    place:Wegel (7,83)
+  15 Dec 1918 84
+    activity:movement (22,89)
+Page 163 (type diary) http://wd3.herokuapp.com/pages/AWD000311b  ----------
+  16 Dec 1918 25
+    activity:movement (24,28)
+    place:Coln (9,29)
+  17 Dec 1918 30
+    person:Captain G A Roberts (commander) (28,33)
+    place:Harff (9,33)
+  20 Dec 1918 38
+  21 Dec 1918 45
+    person:Corporal Richardson (departed_leave) (28,47)
+    person:Private S Blundell (departed_leave) (43,47)
+  23 Dec 1918 49
+    person:Corporal J Burrows (departed_leave) (29,51)
+  26 Dec 1918 52
+  27 Dec 1918 57
+    person:Sergeant Mansfield (departed_leave) (74,60)
+  30 Dec 1918 62
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 0; wounded: 0 (82,68)
+    person:Private R Clark (departed_sick) (75,68)
+    person:Private Weightman (resigned) (25,69)
+    person:Driver Richards (resigned) (38,69)
+  31 Dec 1918 71
+Page 164 (type cover)
+Page 165 (type diary) http://wd3.herokuapp.com/pages/AWD000312c  ----------
+  1 Jan 1919 23
+    place:Harff (9,27)
+  2 Jan 1919 28
+    unit:19 Hussars (43,28)
+    place:Harff (6,30)
+  3 Jan 1919 32
+  4 Jan 1919 36
+    unit:19 Hussars (42,37)
+  5 Jan 1919 42
+  6 Jan 1919 45
+    unit:No 10 mvs (55,45)
+    person:Shoeing Smith (74,46)
+  7 Jan 1919 50
+    unit:Y Battery (43,50)
+  8 Jan 1919 53
+  9 Jan 1919 58
+    unit:19 Hussars (48,58)
+    unit:2 M G Battalion (73,58)
+  10 Jan 1919 63
+    unit:19 Hussars (49,63)
+    unit:15 Hussars (73,63)
+    unit:8 Hussars (47,67)
+  11 Jan 1919 68
+  12 Jan 1919 71
+    person:Corporal Richardson (returned_leave) (68,72)
+  13 Jan 1919 76
+    unit:19 Hussars (63,77)
+    unit:9 M G S (46,78)
+  14 Jan 1919 80
+    unit:19 Hussars (81,81)
+  15 Jan 1919 84
+    unit:No 6 ves (51,85)
+  16 Jan 1919 88
+    unit:19 Hussars (37,91)
+Page 166 (type diary) http://wd3.herokuapp.com/pages/AWD00030yh  ----------
+  17 Jan 1919 23
+  19 Jan 1919 30
+    place:Harff (7,30)
+  20 Jan 1919 34
+  21 Jan 1919 37
+  22 Jan 1919 41
+  23 Jan 1919 43
+  24 Jan 1919 47
+  25 Jan 1919 51
+  26 Jan 1919 55
+  27 Jan 1919 58
+  28 Jan 1919 63
+  29 Jan 1919 67
+  30 Jan 1919 71
+  31 Jan 1919 77
+Page 167 (type cover)
+Page 168 (type diary) http://wd3.herokuapp.com/pages/AWD0003101  ----------
+  1 Feb 1919 23
+    place:Harff (6,25)
+  2 Feb 1919 26
+  3 Feb 1919 29
+  4 Feb 1919 32
+  5 Feb 1919 36
+  7 Feb 1919 41
+    domestic:inspections (35,41)
+  8 Feb 1919 44
+  9 Feb 1919 48
+  10 Feb 1919 51
+  11 Feb 1919 54
+  12 Feb 1919 58
+  13 Feb 1919 61
+  14 Feb 1919 64
+  15 Feb 1919 68
+  16 Feb 1919 71
+    activity:other (22,71)
+  17 Feb 1919 74
+  18 Feb 1919 77
+  19 Feb 1919 81
+  20 Feb 1919 85
+Page 169 (type diary) http://wd3.herokuapp.com/pages/AWD00030z6  ----------
+  21 Feb 1919 22
+    place:Harff (7,25)
+  22 Feb 1919 28
+    place:Harff (6,28)
+  23 Feb 1919 31
+  24 Feb 1919 36
+  25 Feb 1919 40
+  26 Feb 1919 45
+  27 Feb 1919 49
+  28 Feb 1919 54
+Page 170 (type cover)
+Page 171 (type diary) http://wd3.herokuapp.com/pages/AWD0003124  ----------
+  1 Mar 1919 24
+    place:Harff (8,26)
+  2 Mar 1919 28
+    activity:other (31,28)
+    place:Harff (5,28)
+  3 Mar 1919 31
+    activity:other (30,34)
+  4 Mar 1919 35
+  5 Mar 1919 39
+  6 Mar 1919 43
+  7 Mar 1919 48
+  8 Mar 1919 52
+  9 Mar 1919 56
+  10 Mar 1919 60
+  11 Mar 1919 64
+  12 Mar 1919 69
+  13 Mar 1919 73
+  14 Mar 1919 77
+  15 Mar 1919 83
+  16 Mar 1919 88
+Page 172 (type diary) http://wd3.herokuapp.com/pages/AWD0003105  ----------
+  17 Mar 1919 21
+    place:Harff (7,27)
+  31 Mar 1919 81
+Page 173 (type cover)
+Page 174 (type diary) http://wd3.herokuapp.com/pages/AWD00030y5  ----------
+  1 Apr 1919 24
+    place:Harff (7,26)
+  6 Apr 1919 44
+  7 Apr 1919 47
+    place:Neider Bolhiem (8,50)
+    activity:movement (32,50)
+  8 Apr 1919 51
+  13 Apr 1919 71
+  15 Apr 1919 81
+Page 175 (type diary) http://wd3.herokuapp.com/pages/AWD0003126  ----------
+  16 Apr 1919 23
+    place:Neider Bolhiem (6,27)
+  17 Apr 1919 28
+  18 Apr 1919 32
+  19 Apr 1919 36
+  20 Apr 1919 41
+  21 Apr 1919 46
+  22 Apr 1919 50
+  23 Apr 1919 54
+  25 Apr 1919 61
+  26 Apr 1919 65
+  27 Apr 1919 69
+  28 Apr 1919 73
+  29 Apr 1919 78
+  30 Apr 1919 80
+    domestic:inspections (34,84)
+Page 176 (type cover)
+Page 177 (type diary) http://wd3.herokuapp.com/pages/AWD000310d  ----------
+  1 May 1919 23
+  2 May 1919 27
+  3 May 1919 31
+    unit:No.24 veterinary hospital (89,34)
+  4 May 1919 35
+  6 May 1919 42
+  7 May 1919 46
+    unit:No. 1 mobile veterinary hospital (45,46)
+    unit:No.24 veterinary hospital (75,46)
+  8 May 1919 50
+  9 May 1919 53
+    unit:4 corps a.g.c. (48,53)
+  10 May 1919 57
+  11 May 1919 61
+  12 May 1919 64
+  13 May 1919 69
+  14 May 1919 73
+    unit:No. 1 mobile veterinary hospital (47,76)
+  15 May 1919 78
+  16 May 1919 81
+    unit:No. 1 mobile veterinary hospital (45,81)
+    place:Neider Bolheim (8,82)
+    unit:9 Cavalry Brigade machine gun squadron (81,85)
+    person:Captain Laurie (joined) (77,87)
+Page 178 (type diary) http://wd3.herokuapp.com/pages/AWD00030zu  ----------
+  17 May 1919 24
+    activity:other (29,35)
+  20 May 1919 36
+  21 May 1919 39
+  22 May 1919 42
+    person:Captain Laurie (resigned) (63,42)
+  24 May 1919 49
+  25 May 1919 51
+    person:Captain T H Keelet (joined) (66,53)
+  26 May 1919 55
+  31 May 1919 78
+Page 179 (type cover)
+Page 180 (type diary) http://wd3.herokuapp.com/pages/AWD0003130  ----------
+  1 Jun 1919 23
+    place:Neider Bolheim (8,26)
+    activity:other (25,27)
+  2 Jun 1919 29
+    place:Neider Bolheim (6,29)
+  4 Jun 1919 35
+  5 Jun 1919 38
+  6 Jun 1919 42
+    activity:other (24,44)
+    unit:No. 1 mobile veterinary hospital (50,45)
+  7 Jun 1919 46
+    activity:other (31,46)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (77,49)
+  8 Jun 1919 50
+  9 Jun 1919 54
+  10 Jun 1919 57
+    unit:Advanced remount section (55,57)
+  11 Jun 1919 60
+    person:Captain G A Roberts (departed_leave) (29,60)
+    unit:No.8 veterinary hospital (52,63)
+  12 Jun 1919 65
+    unit:No. 1 mobile veterinary hospital (54,66)
+    unit:Hussars Brigade headquarters (79,66)
+  13 Jun 1919 68
+    casualties:died: 0; killed: 0; missing: 0; prisoner: 0; sick: 1; wounded: 0 (51,70)
+  14 Jun 1919 75
+  15 Jun 1919 80
+    place:Neider Bolheim (6,82)
+Page 181 (type diary) http://wd3.herokuapp.com/pages/AWD000311k  ----------
+  15 Jun 1919 0
+  16 Jun 1919 23
+    reference:Neider boheim  (8,26)
+  30 Jun 1919 80
+  15 Jun 1919 0
+    reference:Army form C.2118 (83,9)
+Page 182 (type cover)
+Page 183 (type diary) http://wd3.herokuapp.com/pages/AWD00030zg  ----------
+  30 Jun 1919 0
+  1 Jul 1919 24
+  2 Jul 1919 28
+    place:Neider Bolheim (7,28)
+  3 Jul 1919 34
+  4 Jul 1919 37
+    person:Captain G Roberts (returned_leave) (44,40)
+  5 Jul 1919 41
+  6 Jul 1919 49
+    person:Captain Kellett (departed_posted) (36,49)
+  7 Jul 1919 54
+  8 Jul 1919 59
+  9 Jul 1919 68
+  10 Jul 1919 75
+    unit:D.v.s. rhine army (40,76)
+  11 Jul 1919 77
+    person:Sergeant Dessert (departed_leave) (42,81)
+    person:Private Roberts (departed_leave) (54,81)
+  12 Jul 1919 82
+    unit:No.14 mobile veterinary hospital (73,85)
+    person:Private Blood (joined) (40,85)
+  13 Jul 1919 87
+    person:Captain Roberts (90,88)
+    place:Neider Bolheim (6,90)
+    person:Private Dunn (departed_leave) (40,90)
+    person:Private Staples (departed_leave) (52,90)
+Page 184 (type diary) http://wd3.herokuapp.com/pages/AWD000311y  ----------
+  14 Jul 1919 24
+    place:Neider Bolheim (7,28)
+  15 Jul 1919 29
+    person:Private Stanley (resigned) (43,31)
+  16 Jul 1919 35
+  17 Jul 1919 40
+  18 Jul 1919 44
+  19 Jul 1919 48
+  20 Jul 1919 52
+  21 Jul 1919 55
+  22 Jul 1919 60
+  23 Jul 1919 64
+  24 Jul 1919 68
+  25 Jul 1919 72
+  26 Jul 1919 76
+  27 Jul 1919 80
+  28 Jul 1919 85
+Page 185 (type diary) http://wd3.herokuapp.com/pages/AWD00030zs  ----------
+  29 Jul 1919 23
+    place:Neider Bolheim (8,28)
+  30 Jul 1919 33
+  31 Jul 1919 37
+    person:Sergeant Derrett (returned_leave) (33,41)
+    person:Private Staples (returned_leave) (45,41)
+    person:Private Diamond (discipline) (52,45)
+    person:Captain Roberts (70,61)
+Page 186 (type cover)
+Page 187 (type diary) http://wd3.herokuapp.com/pages/AWD0003113  ----------
+  1 Aug 1919 22
+    place:Neider Bolheim (7,24)
+  2 Aug 1919 26
+  3 Aug 1919 31
+  4 Aug 1919 34
+  5 Aug 1919 38
+  7 Aug 1919 48
+  8 Aug 1919 52
+  9 Aug 1919 57
+  10 Aug 1919 62
+  11 Aug 1919 65
+  12 Aug 1919 72
+  13 Aug 1919 76
+  14 Aug 1919 80
+  15 Aug 1919 84
+  16 Aug 1919 90
+Page 188 (type diary) http://wd3.herokuapp.com/pages/AWD000310q  ----------
+  17 Aug 1919 22
+  18 Aug 1919 26
+    unit:No.4 veterinary section (55,28)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (86,28)
+    unit:No.1 veterinary section (70,29)
+    unit:Auxiliary horse transport 60 (87,32)
+    unit:Hussars machine gun section (50,33)
+    unit:1 Cavalry Division: 9 cavalry Brigade: 9 signal troop: royal engineers (71,33)
+  19 Aug 1919 34
+    unit:3 Cavalry Division: 6 cavalry Brigade: 10 Hussars (31,34)
+  20 Aug 1919 37
+  21 Aug 1919 41
+  22 Aug 1919 44
+  23 Aug 1919 49
+  24 Aug 1919 52
+    person:Private Efford (resigned) (89,53)
+  25 Aug 1919 56
+  26 Aug 1919 57
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (58,57)
+    unit:3 Cavalry Division: 6 cavalry Brigade: 10 Hussars (79,57)
+  27 Aug 1919 61
+  28 Aug 1919 64
+  29 Aug 1919 67
+    unit:1 Cavalry Division: 9 cavalry Brigade: 15 Hussars (75,69)
+    unit:1 mobile veterinary section (43,70)
+    unit:No.4 veterinary section (59,70)
+  30 Aug 1919 74
+    unit:No.4 veterinary section (80,77)
+  31 Aug 1919 79
+    person:Captain Roberts (86,85)
